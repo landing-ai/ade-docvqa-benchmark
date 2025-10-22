@@ -1,142 +1,67 @@
-# DocVQA Error Analysis Gallery - GitHub Pages Deployment
+# ADE DocVQA Benchmark - Error Analysis
 
-## 📊 Overview
+This repository contains an interactive error analysis gallery for the DocVQA benchmark evaluated using ADE (Advanced Document Extraction) with DPT-2 and optimized prompting.
 
-This gallery showcases the remaining **59 errors** (out of 5,346 questions) after achieving **98.90% accuracy** on the DocVQA benchmark using ADE DPT-2 + Optimized Prompt.
+**View the live gallery:** https://landing-ai.github.io/ade-docvqa-benchmark/
 
-**Key Metrics:**
-- Original Accuracy: 97.38% (5,206/5,346)
-- New Accuracy: **98.90%** (5,287/5,346)
-- Improvement: **+1.52 percentage points**
-- Errors Fixed: **81 out of 140** re-evaluated (57.9% fix rate)
-
-## 🚀 GitHub Pages Deployment Instructions
-
-### Step 1: Check Your Repository Structure
-
-Ensure your `docs/` folder has the following structure:
+## Repository Structure
 
 ```
-docs/
-├── wrong_predictions_gallery.html  # Main gallery page
+├── wrong_predictions_gallery.html    # Main gallery page
+├── index.html                        # Auto-redirects to gallery
 ├── images/
-│   ├── bbox_overlays/              # 56 images with bounding box overlays
-│   │   ├── hjbl0037_3_bbox.png
-│   │   ├── gfhd0082_13_bbox.png
-│   │   └── ...
-│   └── documents/                  # 56 original document images
-│       ├── hjbl0037_3.png
-│       ├── gfhd0082_13.png
-│       └── ...
-└── README.md                        # This file
+│   ├── bbox_overlays/               # 56 images with bounding box overlays
+│   ├── documents/                   # 56 original document images
+│   └── *.svg                        # Logo assets
+├── .github/workflows/deploy.yml     # GitHub Actions deployment
+└── .nojekyll                        # Bypass Jekyll processing
 ```
 
-### Step 2: Commit and Push to GitHub
+## Benchmark Results
 
-```bash
-# Add the docs folder to git
-git add docs/
+- **Accuracy:** 98.90% (5,287/5,346 questions correct)
+- **Errors analyzed:** 59 remaining incorrect predictions
 
-# Commit the changes
-git commit -m "Add DocVQA error analysis gallery for GitHub Pages
+## Gallery Overview
 
-- 59 remaining errors after DPT-2 optimization
-- 98.90% accuracy (up from 97.38%)
-- Interactive gallery with bounding box visualizations
-- Click-to-zoom functionality with bbox toggle"
+The `incorrect_answers_gallery.html` file provides an interactive visualization of all 59 errors. Each error card displays:
 
-# Push to GitHub
-git push origin main
-```
+- **Document image** with OCR text extracted by ADE
+- **Bounding box overlay** showing ADE's spatial grounding with color-coded text chunks
+- **Question** asked about the document
+- **Ground truth answer** from the dataset
+- **Model prediction** from ADE DPT-2
+- **Error category** classification (Parser Issues vs VLM Limitations)
+- **Specific error type** (e.g., Ambiguous Reference, Spatial Error, OCR Error, Missing Info)
 
-### Step 3: Enable GitHub Pages
+### Interactive Features
 
-1. Go to your GitHub repository
-2. Click on **Settings** tab
-3. Scroll down to **Pages** section (left sidebar)
-4. Under **Source**, select:
-   - Branch: `main` (or your default branch)
-   - Folder: `/docs`
-5. Click **Save**
-6. Wait 1-2 minutes for deployment
+- **3-column grid layout** for browsing all errors
+- **Click-to-zoom** on any image to see details
+- **Toggle view** between original document and bounding box overlay in zoom mode
+- **Category filters** to view Parser Issues (22) or VLM Limitations (37) separately
+- **Specific error filters** to drill down by error type
 
-### Step 4: Access Your Gallery
+## Error Categories
 
-After deployment, your gallery will be available at:
+### Parser Issues (22 errors)
+Errors related to document processing, OCR quality, or text extraction that could potentially be improved with better preprocessing or parsing strategies.
 
-```
-https://<your-username>.github.io/<repository-name>/wrong_predictions_gallery.html
-```
+### VLM Limitations (37 errors)
+Errors stemming from the vision-language model's reasoning capabilities, including:
+- **Ambiguous Reference:** Unclear which text span the question refers to
+- **Spatial Reasoning:** Difficulty with spatial relationships or locations in the document
+- **Missing Information:** Required information not present or not extracted from the document
+- **OCR Error:** Text misread or missing from OCR output
+- **Complex Reasoning:** Multi-step reasoning failures
 
-For example:
-```
-https://ankitkhare.github.io/shankar_doc_vqa/wrong_predictions_gallery.html
-```
+## Image Assets
 
-## ✨ Gallery Features
+The `images/` directory contains:
+- **56 bounding box overlays** (`images/bbox_overlays/`) showing ADE's document understanding
+- **56 original document images** (`images/documents/`) for comparison
 
-- **3-column grid layout** for compact viewing
-- **Bounding box overlays** showing ADE's spatial grounding with color-coded chunks
-- **Click-to-zoom** functionality (50% zoom, not full screen)
-- **Toggle between original and bbox views** in zoom modal
-- **Category filtering**: Filter by error type (Parser Issues vs VLM Limitations)
-- **Specific error categories**: Ambiguous Reference, Spatial, Missing Info, OCR Error, etc.
-- **Overall classification counts**: Shows "Parser Issues (22)" or "VLM Limitations (37)" on each card
-
-## 📂 File Sizes
-
-The `docs/` folder contains:
-- 1 HTML file (~290 KB)
-- 56 bbox overlay images
-- 56 original document images
-- Total size: Check with `du -sh docs/`
-
-## 🔄 Updating the Gallery
-
-To regenerate the gallery after changes:
-
-```bash
-# Run the gallery generator script
-python3 scripts/update_gallery_dpt2.py
-
-# The script will:
-# 1. Read errors from results/error_analysis/final_wrong_predictions_98_90.jsonl
-# 2. Check for images in docs/images/ folders
-# 3. Generate docs/wrong_predictions_gallery.html
-
-# Commit and push the updated gallery
-git add docs/wrong_predictions_gallery.html
-git commit -m "Update gallery with latest results"
-git push origin main
-```
-
-## 🛠️ Troubleshooting
-
-### Images not loading
-
-If images don't load on GitHub Pages:
-
-1. Check that image paths in HTML are relative (e.g., `images/bbox_overlays/...`)
-2. Verify all images are present in `docs/images/` folders
-3. Check browser console for 404 errors
-4. Ensure file names match exactly (case-sensitive)
-
-### Gallery not updating
-
-1. Wait a few minutes after pushing changes
-2. Clear browser cache (Cmd+Shift+R on Mac, Ctrl+Shift+R on Windows)
-3. Check GitHub Actions tab for deployment status
-4. Try accessing with `?v=timestamp` parameter to bypass cache
-
-### Custom Domain (Optional)
-
-To use a custom domain:
-
-1. Add a `CNAME` file in `docs/` with your domain
-2. Configure DNS settings at your domain registrar
-3. Update GitHub Pages settings with custom domain
-
-## 📝 Notes
+## Notes
 
 - The gallery uses Tailwind CSS from CDN (no build step required)
 - All JavaScript is inline in the HTML file
@@ -144,21 +69,6 @@ To use a custom domain:
 - No server-side processing needed
 - Gallery works offline if you download the HTML + images folder
 
-## 🎯 Sharing with Your Team
-
-Once deployed, share this URL with your team:
-
-```
-https://<your-username>.github.io/<repository-name>/wrong_predictions_gallery.html
-```
-
-They can:
-- Browse all 59 remaining errors
-- Filter by category (Parser Issues / VLM Limitations)
-- Click on images to zoom and toggle bbox overlays
-- See detailed error information (question, ground truth, prediction, category)
-
 ---
 
-**Generated by**: scripts/update_gallery_dpt2.py
-**Last Updated**: October 2025
+**View the live gallery:** https://landing-ai.github.io/ade-docvqa-benchmark/

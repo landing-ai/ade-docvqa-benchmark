@@ -1,0 +1,473 @@
+{
+    "markdown": "<a id='0a1b7079-4379-4c16-b893-da80a3490f24'></a>\n\nSALES DEPARTMENT PLAN\n\n<a id='2e78c61e-c478-4e0f-9fd9-0fb0771f028f'></a>\n\nSALES DEPARTMENT\nINVENTORY MANAGEMENT PROGRAM\n(Billions of Units)\n\n<a id='7ebc8c7a-928a-49c9-817e-0a502cb441e8'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">1990</td><td id=\"0-4\">1991*</td><td id=\"0-5\">Difference</td></tr>\n<tr><td id=\"0-6\">Finished Goods Average Inventory</td><td id=\"0-7\">13.6</td><td id=\"0-8\">12.4</td><td id=\"0-9\">-1.2</td></tr>\n<tr><td id=\"0-a\">Annual Inventory Turns Public Warehouses</td><td id=\"0-b\">18.7</td><td id=\"0-c\">22.0</td><td id=\"0-d\">+3.3</td></tr>\n<tr><td id=\"0-e\">Annual Inventory Turns Total Warm Product</td><td id=\"0-f\">13.1</td><td id=\"0-g\">15.0</td><td id=\"0-h\">+1.9</td></tr>\n</table>\n\n<a id='e8f4c098-ff34-4c7f-b574-20901ab7cbbc'></a>\n\n# Financials\n\nWarm Finished Goods Product\nWorking Capital              $166.5MM** $136.9MM*** -$29.6MM\n\nWarm Finished Goods Cost of\nWorking Capital @20%       $ 33.3MM   $ 27.4MM    -$ 5.9MM\n\n*SKUs have increased by 33% (97 to 129).\n\n<a id='21f4fd91-210c-45e2-bf97-c6a158edf28e'></a>\n\n**1990 Deployed Inventory @ 16.5/M, non-deployed inventory @8.5/M.\n\n<a id='b6b12a81-ae84-4b69-b69b-5623dba30c62'></a>\n\n***1991 Deployed Inventory @18.7/M, non-deployed inventory @8.7/M.\n\n<a id='c68b1121-2945-4daa-b746-eedcf0f86bb4'></a>\n\n**STRATEGIC FOCUS**\n\nAGGRESSIVELY PURSUE OPPORTUNITIES WHICH ENHANCE THE COMPANY'S\nMARKETING AND OPERATING POSITIONS AND DEFEND AGAINST LEGISLATION,\nREGULATION, AND LITIGATION WHICH THREATEN ACHIEVEMENT OF BUSINESS\nAND FINANCIAL OBJECTIVES.\n\n<a id='dcd45a23-4b88-400c-bf95-0b021e91d04b'></a>\n\nStrategy\nReinforce RJRT's intense commitment for protecting smokers\nfreedom and tobacco industry credibility among Key Direct/Retail\nCustomers and Consumers.\n\n<a id='927ddd8e-0bc5-4da5-9ffa-0d9a06e2b5ed'></a>\n\n<u>Sales Action Plans</u>\n\n1. Utilize Sales Management's knowledge of and familiarity with\nkey business leaders to enlist support for the tobacco\nindustry consistent with legal guidelines.\n\n<a id='4259b861-3c5a-4880-90f4-ef18f7e821b9'></a>\n\n51338 6976\n\n<a id='1fd74037-baa2-47b3-98eb-dc858798e14a'></a>\n\n125",
+    "chunks": [
+        {
+            "markdown": "<a id='0a1b7079-4379-4c16-b893-da80a3490f24'></a>\n\nSALES DEPARTMENT PLAN",
+            "type": "text",
+            "id": "0a1b7079-4379-4c16-b893-da80a3490f24",
+            "grounding": {
+                "box": {
+                    "left": 0.37177684903144836,
+                    "top": 0.06119098141789436,
+                    "right": 0.6301970481872559,
+                    "bottom": 0.0818416103720665
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2e78c61e-c478-4e0f-9fd9-0fb0771f028f'></a>\n\nSALES DEPARTMENT\nINVENTORY MANAGEMENT PROGRAM\n(Billions of Units)",
+            "type": "text",
+            "id": "2e78c61e-c478-4e0f-9fd9-0fb0771f028f",
+            "grounding": {
+                "box": {
+                    "left": 0.3375609517097473,
+                    "top": 0.10583852976560593,
+                    "right": 0.6773460507392883,
+                    "bottom": 0.15519364178180695
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7ebc8c7a-928a-49c9-817e-0a502cb441e8'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">1990</td><td id=\"0-4\">1991*</td><td id=\"0-5\">Difference</td></tr>\n<tr><td id=\"0-6\">Finished Goods Average Inventory</td><td id=\"0-7\">13.6</td><td id=\"0-8\">12.4</td><td id=\"0-9\">-1.2</td></tr>\n<tr><td id=\"0-a\">Annual Inventory Turns Public Warehouses</td><td id=\"0-b\">18.7</td><td id=\"0-c\">22.0</td><td id=\"0-d\">+3.3</td></tr>\n<tr><td id=\"0-e\">Annual Inventory Turns Total Warm Product</td><td id=\"0-f\">13.1</td><td id=\"0-g\">15.0</td><td id=\"0-h\">+1.9</td></tr>\n</table>",
+            "type": "table",
+            "id": "7ebc8c7a-928a-49c9-817e-0a502cb441e8",
+            "grounding": {
+                "box": {
+                    "left": 0.11000335216522217,
+                    "top": 0.16340558230876923,
+                    "right": 0.8913571834564209,
+                    "bottom": 0.3058927655220032
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e8f4c098-ff34-4c7f-b574-20901ab7cbbc'></a>\n\n# Financials\n\nWarm Finished Goods Product\nWorking Capital              $166.5MM** $136.9MM*** -$29.6MM\n\nWarm Finished Goods Cost of\nWorking Capital @20%       $ 33.3MM   $ 27.4MM    -$ 5.9MM\n\n*SKUs have increased by 33% (97 to 129).",
+            "type": "text",
+            "id": "e8f4c098-ff34-4c7f-b574-20901ab7cbbc",
+            "grounding": {
+                "box": {
+                    "left": 0.11115092039108276,
+                    "top": 0.32503774762153625,
+                    "right": 0.9237731099128723,
+                    "bottom": 0.48006364703178406
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='21f4fd91-210c-45e2-bf97-c6a158edf28e'></a>\n\n**1990 Deployed Inventory @ 16.5/M, non-deployed inventory @8.5/M.",
+            "type": "text",
+            "id": "21f4fd91-210c-45e2-bf97-c6a158edf28e",
+            "grounding": {
+                "box": {
+                    "left": 0.12305083870887756,
+                    "top": 0.4882373511791229,
+                    "right": 0.8285645246505737,
+                    "bottom": 0.5252459645271301
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b6b12a81-ae84-4b69-b69b-5623dba30c62'></a>\n\n***1991 Deployed Inventory @18.7/M, non-deployed inventory @8.7/M.",
+            "type": "text",
+            "id": "b6b12a81-ae84-4b69-b69b-5623dba30c62",
+            "grounding": {
+                "box": {
+                    "left": 0.11212438344955444,
+                    "top": 0.5329117178916931,
+                    "right": 0.8097662925720215,
+                    "bottom": 0.5700898766517639
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c68b1121-2945-4daa-b746-eedcf0f86bb4'></a>\n\n**STRATEGIC FOCUS**\n\nAGGRESSIVELY PURSUE OPPORTUNITIES WHICH ENHANCE THE COMPANY'S\nMARKETING AND OPERATING POSITIONS AND DEFEND AGAINST LEGISLATION,\nREGULATION, AND LITIGATION WHICH THREATEN ACHIEVEMENT OF BUSINESS\nAND FINANCIAL OBJECTIVES.",
+            "type": "text",
+            "id": "c68b1121-2945-4daa-b746-eedcf0f86bb4",
+            "grounding": {
+                "box": {
+                    "left": 0.1127820611000061,
+                    "top": 0.5773998498916626,
+                    "right": 0.8861464262008667,
+                    "bottom": 0.6751623153686523
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dcd45a23-4b88-400c-bf95-0b021e91d04b'></a>\n\nStrategy\nReinforce RJRT's intense commitment for protecting smokers\nfreedom and tobacco industry credibility among Key Direct/Retail\nCustomers and Consumers.",
+            "type": "text",
+            "id": "dcd45a23-4b88-400c-bf95-0b021e91d04b",
+            "grounding": {
+                "box": {
+                    "left": 0.11335751414299011,
+                    "top": 0.6839213371276855,
+                    "right": 0.874570369720459,
+                    "bottom": 0.7642050981521606
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='927ddd8e-0bc5-4da5-9ffa-0d9a06e2b5ed'></a>\n\n<u>Sales Action Plans</u>\n\n1. Utilize Sales Management's knowledge of and familiarity with\nkey business leaders to enlist support for the tobacco\nindustry consistent with legal guidelines.",
+            "type": "text",
+            "id": "927ddd8e-0bc5-4da5-9ffa-0d9a06e2b5ed",
+            "grounding": {
+                "box": {
+                    "left": 0.1128174364566803,
+                    "top": 0.7720403671264648,
+                    "right": 0.8755615949630737,
+                    "bottom": 0.8540993928909302
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4259b861-3c5a-4880-90f4-ef18f7e821b9'></a>\n\n51338 6976",
+            "type": "marginalia",
+            "id": "4259b861-3c5a-4880-90f4-ef18f7e821b9",
+            "grounding": {
+                "box": {
+                    "left": 0.8906271457672119,
+                    "top": 0.8475196957588196,
+                    "right": 0.9175596237182617,
+                    "bottom": 0.9444333910942078
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1fd74037-baa2-47b3-98eb-dc858798e14a'></a>\n\n125",
+            "type": "marginalia",
+            "id": "1fd74037-baa2-47b3-98eb-dc858798e14a",
+            "grounding": {
+                "box": {
+                    "left": 0.4784921109676361,
+                    "top": 0.9360314607620239,
+                    "right": 0.5228230953216553,
+                    "bottom": 0.9573003053665161
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='0a1b7079-4379-4c16-b893-da80a3490f24'></a>\n\nSALES DEPARTMENT PLAN\n\n<a id='2e78c61e-c478-4e0f-9fd9-0fb0771f028f'></a>\n\nSALES DEPARTMENT\nINVENTORY MANAGEMENT PROGRAM\n(Billions of Units)\n\n<a id='7ebc8c7a-928a-49c9-817e-0a502cb441e8'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">1990</td><td id=\"0-4\">1991*</td><td id=\"0-5\">Difference</td></tr>\n<tr><td id=\"0-6\">Finished Goods Average Inventory</td><td id=\"0-7\">13.6</td><td id=\"0-8\">12.4</td><td id=\"0-9\">-1.2</td></tr>\n<tr><td id=\"0-a\">Annual Inventory Turns Public Warehouses</td><td id=\"0-b\">18.7</td><td id=\"0-c\">22.0</td><td id=\"0-d\">+3.3</td></tr>\n<tr><td id=\"0-e\">Annual Inventory Turns Total Warm Product</td><td id=\"0-f\">13.1</td><td id=\"0-g\">15.0</td><td id=\"0-h\">+1.9</td></tr>\n</table>\n\n<a id='e8f4c098-ff34-4c7f-b574-20901ab7cbbc'></a>\n\n# Financials\n\nWarm Finished Goods Product\nWorking Capital              $166.5MM** $136.9MM*** -$29.6MM\n\nWarm Finished Goods Cost of\nWorking Capital @20%       $ 33.3MM   $ 27.4MM    -$ 5.9MM\n\n*SKUs have increased by 33% (97 to 129).\n\n<a id='21f4fd91-210c-45e2-bf97-c6a158edf28e'></a>\n\n**1990 Deployed Inventory @ 16.5/M, non-deployed inventory @8.5/M.\n\n<a id='b6b12a81-ae84-4b69-b69b-5623dba30c62'></a>\n\n***1991 Deployed Inventory @18.7/M, non-deployed inventory @8.7/M.\n\n<a id='c68b1121-2945-4daa-b746-eedcf0f86bb4'></a>\n\n**STRATEGIC FOCUS**\n\nAGGRESSIVELY PURSUE OPPORTUNITIES WHICH ENHANCE THE COMPANY'S\nMARKETING AND OPERATING POSITIONS AND DEFEND AGAINST LEGISLATION,\nREGULATION, AND LITIGATION WHICH THREATEN ACHIEVEMENT OF BUSINESS\nAND FINANCIAL OBJECTIVES.\n\n<a id='dcd45a23-4b88-400c-bf95-0b021e91d04b'></a>\n\nStrategy\nReinforce RJRT's intense commitment for protecting smokers\nfreedom and tobacco industry credibility among Key Direct/Retail\nCustomers and Consumers.\n\n<a id='927ddd8e-0bc5-4da5-9ffa-0d9a06e2b5ed'></a>\n\n<u>Sales Action Plans</u>\n\n1. Utilize Sales Management's knowledge of and familiarity with\nkey business leaders to enlist support for the tobacco\nindustry consistent with legal guidelines.\n\n<a id='4259b861-3c5a-4880-90f4-ef18f7e821b9'></a>\n\n51338 6976\n\n<a id='1fd74037-baa2-47b3-98eb-dc858798e14a'></a>\n\n125",
+            "chunks": [
+                "0a1b7079-4379-4c16-b893-da80a3490f24",
+                "2e78c61e-c478-4e0f-9fd9-0fb0771f028f",
+                "7ebc8c7a-928a-49c9-817e-0a502cb441e8",
+                "e8f4c098-ff34-4c7f-b574-20901ab7cbbc",
+                "21f4fd91-210c-45e2-bf97-c6a158edf28e",
+                "b6b12a81-ae84-4b69-b69b-5623dba30c62",
+                "c68b1121-2945-4daa-b746-eedcf0f86bb4",
+                "dcd45a23-4b88-400c-bf95-0b021e91d04b",
+                "927ddd8e-0bc5-4da5-9ffa-0d9a06e2b5ed",
+                "4259b861-3c5a-4880-90f4-ef18f7e821b9",
+                "1fd74037-baa2-47b3-98eb-dc858798e14a"
+            ]
+        }
+    ],
+    "grounding": {
+        "0a1b7079-4379-4c16-b893-da80a3490f24": {
+            "box": {
+                "left": 0.37177684903144836,
+                "top": 0.06119098141789436,
+                "right": 0.6301970481872559,
+                "bottom": 0.0818416103720665
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2e78c61e-c478-4e0f-9fd9-0fb0771f028f": {
+            "box": {
+                "left": 0.3375609517097473,
+                "top": 0.10583852976560593,
+                "right": 0.6773460507392883,
+                "bottom": 0.15519364178180695
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7ebc8c7a-928a-49c9-817e-0a502cb441e8": {
+            "box": {
+                "left": 0.11000335216522217,
+                "top": 0.16340558230876923,
+                "right": 0.8913571834564209,
+                "bottom": 0.3058927655220032
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11393581096133554,
+                "top": 0.16428993503196354,
+                "right": 0.8882351150042851,
+                "bottom": 0.30588834921507413
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11393581096133554,
+                "top": 0.16428993503196354,
+                "right": 0.5010845620995426,
+                "bottom": 0.18417133350832104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.5010845620995426,
+                "top": 0.16428993503196354,
+                "right": 0.6100000276825313,
+                "bottom": 0.18417133350832104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6100000276825313,
+                "top": 0.16428993503196354,
+                "right": 0.7464821603235947,
+                "bottom": 0.18417133350832104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7464821603235947,
+                "top": 0.16428993503196354,
+                "right": 0.8883344537576363,
+                "bottom": 0.18417133350832104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.11393581096133554,
+                "top": 0.18417133350832104,
+                "right": 0.5010845620995426,
+                "bottom": 0.2186068073557128
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5010845620995426,
+                "top": 0.18417133350832104,
+                "right": 0.6100000276825313,
+                "bottom": 0.2186068073557128
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.6100000276825313,
+                "top": 0.18417133350832104,
+                "right": 0.7464821603235947,
+                "bottom": 0.2186068073557128
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7464821603235947,
+                "top": 0.18417133350832104,
+                "right": 0.8883344537576363,
+                "bottom": 0.2186068073557128
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.11393581096133554,
+                "top": 0.2186068073557128,
+                "right": 0.5010845620995426,
+                "bottom": 0.2646861504407143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5010845620995426,
+                "top": 0.2186068073557128,
+                "right": 0.6100000276825313,
+                "bottom": 0.2646861504407143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.6100000276825313,
+                "top": 0.2186068073557128,
+                "right": 0.7464821603235947,
+                "bottom": 0.2646861504407143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7464821603235947,
+                "top": 0.2186068073557128,
+                "right": 0.8883344537576363,
+                "bottom": 0.2646861504407143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.11393581096133554,
+                "top": 0.2646861504407143,
+                "right": 0.5010845620995426,
+                "bottom": 0.30588834921507413
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5010845620995426,
+                "top": 0.2646861504407143,
+                "right": 0.6100000276825313,
+                "bottom": 0.30588834921507413
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6100000276825313,
+                "top": 0.2646861504407143,
+                "right": 0.7464821603235947,
+                "bottom": 0.30588834921507413
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.7464821603235947,
+                "top": 0.2646861504407143,
+                "right": 0.8883344537576363,
+                "bottom": 0.30588834921507413
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "e8f4c098-ff34-4c7f-b574-20901ab7cbbc": {
+            "box": {
+                "left": 0.11115092039108276,
+                "top": 0.32503774762153625,
+                "right": 0.9237731099128723,
+                "bottom": 0.48006364703178406
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "21f4fd91-210c-45e2-bf97-c6a158edf28e": {
+            "box": {
+                "left": 0.12305083870887756,
+                "top": 0.4882373511791229,
+                "right": 0.8285645246505737,
+                "bottom": 0.5252459645271301
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b6b12a81-ae84-4b69-b69b-5623dba30c62": {
+            "box": {
+                "left": 0.11212438344955444,
+                "top": 0.5329117178916931,
+                "right": 0.8097662925720215,
+                "bottom": 0.5700898766517639
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c68b1121-2945-4daa-b746-eedcf0f86bb4": {
+            "box": {
+                "left": 0.1127820611000061,
+                "top": 0.5773998498916626,
+                "right": 0.8861464262008667,
+                "bottom": 0.6751623153686523
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dcd45a23-4b88-400c-bf95-0b021e91d04b": {
+            "box": {
+                "left": 0.11335751414299011,
+                "top": 0.6839213371276855,
+                "right": 0.874570369720459,
+                "bottom": 0.7642050981521606
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "927ddd8e-0bc5-4da5-9ffa-0d9a06e2b5ed": {
+            "box": {
+                "left": 0.1128174364566803,
+                "top": 0.7720403671264648,
+                "right": 0.8755615949630737,
+                "bottom": 0.8540993928909302
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4259b861-3c5a-4880-90f4-ef18f7e821b9": {
+            "box": {
+                "left": 0.8906271457672119,
+                "top": 0.8475196957588196,
+                "right": 0.9175596237182617,
+                "bottom": 0.9444333910942078
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "1fd74037-baa2-47b3-98eb-dc858798e14a": {
+            "box": {
+                "left": 0.4784921109676361,
+                "top": 0.9360314607620239,
+                "right": 0.5228230953216553,
+                "bottom": 0.9573003053665161
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "qqnn0081_171.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 17175,
+        "credit_usage": 3.0,
+        "job_id": "wpu8dt2aik0nhj1uwsyp5hix0",
+        "version": "dpt-2-20250919"
+    }
+}

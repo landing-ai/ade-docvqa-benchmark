@@ -1,0 +1,948 @@
+{
+    "markdown": "<a id='ec93b5f1-8380-4c95-932e-7553e891ccea'></a>\n\nTABLE 2\n\n<a id='9feda1fd-39b3-4a6f-a9a7-74250a9c13b3'></a>\n\nMean Nutrient Intake for Men Sixty Years of Age and Over by Ethnic\nGroups in Low Income and High Income ratio States\nTen State Nutrition Survey (1968-1970)\n\n<a id='4b5e0b94-e334-468c-9dd3-5a99295d10d2'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">White</td><td id=\"0-4\" colspan=\"2\">Black</td><td id=\"0-5\" colspan=\"2\">Spanish American</td></tr>\n<tr><td id=\"0-6\"></td><td id=\"0-7\">Low Income</td><td id=\"0-8\">High Income</td><td id=\"0-9\">Low Income</td><td id=\"0-a\">High Income</td><td id=\"0-b\">Low Income</td><td id=\"0-c\">High Income</td></tr>\n<tr><td id=\"0-d\">Number of Persons</td><td id=\"0-e\">189</td><td id=\"0-f\">401</td><td id=\"0-g\">166</td><td id=\"0-h\">47</td><td id=\"0-i\">43</td><td id=\"0-j\">21</td></tr>\n<tr><td id=\"0-k\">Calories</td><td id=\"0-l\">1937</td><td id=\"0-m\">2181</td><td id=\"0-n\">1508</td><td id=\"0-o\">1833</td><td id=\"0-p\">1812</td><td id=\"0-q\">1826</td></tr>\n<tr><td id=\"0-r\">Protein (Gm)</td><td id=\"0-s\">77.6</td><td id=\"0-t\">88.8</td><td id=\"0-u\">64.4</td><td id=\"0-v\">75.1</td><td id=\"0-w\">78.2</td><td id=\"0-x\">77.7</td></tr>\n<tr><td id=\"0-y\">Calcium (Gm)</td><td id=\"0-z\">0.870</td><td id=\"0-A\">0.811</td><td id=\"0-B\">0.540</td><td id=\"0-C\">0.605</td><td id=\"0-D\">0.462</td><td id=\"0-E\">0.874</td></tr>\n<tr><td id=\"0-F\">Iron (mg)</td><td id=\"0-G\">12.2</td><td id=\"0-H\">15.0</td><td id=\"0-I\">10.6</td><td id=\"0-J\">11.1</td><td id=\"0-K\">13.7</td><td id=\"0-L\">11.7</td></tr>\n<tr><td id=\"0-M\">Vitamin A (IU)</td><td id=\"0-N\">5,138</td><td id=\"0-O\">5,341</td><td id=\"0-P\">5,028</td><td id=\"0-Q\">4,086</td><td id=\"0-R\">3,354</td><td id=\"0-S\">3,046</td></tr>\n<tr><td id=\"0-T\">Thiamine (mg)</td><td id=\"0-U\">1.17</td><td id=\"0-V\">1.17</td><td id=\"0-W\">1.01</td><td id=\"0-X\">1.17</td><td id=\"0-Y\">1.25</td><td id=\"0-Z\">1.28</td></tr>\n<tr><td id=\"0-10\">Riboflavin (mg)</td><td id=\"0-11\">1.86</td><td id=\"0-12\">1.79</td><td id=\"0-13\">1.75</td><td id=\"0-14\">1.41</td><td id=\"0-15\">1.71</td><td id=\"0-16\">1.83</td></tr>\n<tr><td id=\"0-17\">Niacin (mg)</td><td id=\"0-18\">16.15</td><td id=\"0-19\">22.29</td><td id=\"0-1a\">15.04</td><td id=\"0-1b\">14.52</td><td id=\"0-1c\">23.80</td><td id=\"0-1d\">12.79</td></tr>\n<tr><td id=\"0-1e\">Vitamin C (mg)</td><td id=\"0-1f\">57.8</td><td id=\"0-1g\">62.8</td><td id=\"0-1h\">56.1</td><td id=\"0-1i\">45.5</td><td id=\"0-1j\">50.6</td><td id=\"0-1k\">54.5</td></tr>\n</table>\n\n<a id='e1da7203-2929-4bfc-be5e-dd4e067bf4a2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qnwd0227",
+    "chunks": [
+        {
+            "markdown": "<a id='ec93b5f1-8380-4c95-932e-7553e891ccea'></a>\n\nTABLE 2",
+            "type": "text",
+            "id": "ec93b5f1-8380-4c95-932e-7553e891ccea",
+            "grounding": {
+                "box": {
+                    "left": 0.4503878653049469,
+                    "top": 0.12222941964864731,
+                    "right": 0.5441497564315796,
+                    "bottom": 0.1472497135400772
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9feda1fd-39b3-4a6f-a9a7-74250a9c13b3'></a>\n\nMean Nutrient Intake for Men Sixty Years of Age and Over by Ethnic\nGroups in Low Income and High Income ratio States\nTen State Nutrition Survey (1968-1970)",
+            "type": "text",
+            "id": "9feda1fd-39b3-4a6f-a9a7-74250a9c13b3",
+            "grounding": {
+                "box": {
+                    "left": 0.12882182002067566,
+                    "top": 0.1636420339345932,
+                    "right": 0.858080267906189,
+                    "bottom": 0.21595652401447296
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4b5e0b94-e334-468c-9dd3-5a99295d10d2'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">White</td><td id=\"0-4\" colspan=\"2\">Black</td><td id=\"0-5\" colspan=\"2\">Spanish American</td></tr>\n<tr><td id=\"0-6\"></td><td id=\"0-7\">Low Income</td><td id=\"0-8\">High Income</td><td id=\"0-9\">Low Income</td><td id=\"0-a\">High Income</td><td id=\"0-b\">Low Income</td><td id=\"0-c\">High Income</td></tr>\n<tr><td id=\"0-d\">Number of Persons</td><td id=\"0-e\">189</td><td id=\"0-f\">401</td><td id=\"0-g\">166</td><td id=\"0-h\">47</td><td id=\"0-i\">43</td><td id=\"0-j\">21</td></tr>\n<tr><td id=\"0-k\">Calories</td><td id=\"0-l\">1937</td><td id=\"0-m\">2181</td><td id=\"0-n\">1508</td><td id=\"0-o\">1833</td><td id=\"0-p\">1812</td><td id=\"0-q\">1826</td></tr>\n<tr><td id=\"0-r\">Protein (Gm)</td><td id=\"0-s\">77.6</td><td id=\"0-t\">88.8</td><td id=\"0-u\">64.4</td><td id=\"0-v\">75.1</td><td id=\"0-w\">78.2</td><td id=\"0-x\">77.7</td></tr>\n<tr><td id=\"0-y\">Calcium (Gm)</td><td id=\"0-z\">0.870</td><td id=\"0-A\">0.811</td><td id=\"0-B\">0.540</td><td id=\"0-C\">0.605</td><td id=\"0-D\">0.462</td><td id=\"0-E\">0.874</td></tr>\n<tr><td id=\"0-F\">Iron (mg)</td><td id=\"0-G\">12.2</td><td id=\"0-H\">15.0</td><td id=\"0-I\">10.6</td><td id=\"0-J\">11.1</td><td id=\"0-K\">13.7</td><td id=\"0-L\">11.7</td></tr>\n<tr><td id=\"0-M\">Vitamin A (IU)</td><td id=\"0-N\">5,138</td><td id=\"0-O\">5,341</td><td id=\"0-P\">5,028</td><td id=\"0-Q\">4,086</td><td id=\"0-R\">3,354</td><td id=\"0-S\">3,046</td></tr>\n<tr><td id=\"0-T\">Thiamine (mg)</td><td id=\"0-U\">1.17</td><td id=\"0-V\">1.17</td><td id=\"0-W\">1.01</td><td id=\"0-X\">1.17</td><td id=\"0-Y\">1.25</td><td id=\"0-Z\">1.28</td></tr>\n<tr><td id=\"0-10\">Riboflavin (mg)</td><td id=\"0-11\">1.86</td><td id=\"0-12\">1.79</td><td id=\"0-13\">1.75</td><td id=\"0-14\">1.41</td><td id=\"0-15\">1.71</td><td id=\"0-16\">1.83</td></tr>\n<tr><td id=\"0-17\">Niacin (mg)</td><td id=\"0-18\">16.15</td><td id=\"0-19\">22.29</td><td id=\"0-1a\">15.04</td><td id=\"0-1b\">14.52</td><td id=\"0-1c\">23.80</td><td id=\"0-1d\">12.79</td></tr>\n<tr><td id=\"0-1e\">Vitamin C (mg)</td><td id=\"0-1f\">57.8</td><td id=\"0-1g\">62.8</td><td id=\"0-1h\">56.1</td><td id=\"0-1i\">45.5</td><td id=\"0-1j\">50.6</td><td id=\"0-1k\">54.5</td></tr>\n</table>",
+            "type": "table",
+            "id": "4b5e0b94-e334-468c-9dd3-5a99295d10d2",
+            "grounding": {
+                "box": {
+                    "left": 0.1147104799747467,
+                    "top": 0.22129957377910614,
+                    "right": 0.9266328811645508,
+                    "bottom": 0.5652878880500793
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e1da7203-2929-4bfc-be5e-dd4e067bf4a2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qnwd0227",
+            "type": "marginalia",
+            "id": "e1da7203-2929-4bfc-be5e-dd4e067bf4a2",
+            "grounding": {
+                "box": {
+                    "left": 0.23268422484397888,
+                    "top": 0.9771747589111328,
+                    "right": 0.770133376121521,
+                    "bottom": 0.9999140501022339
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ec93b5f1-8380-4c95-932e-7553e891ccea'></a>\n\nTABLE 2\n\n<a id='9feda1fd-39b3-4a6f-a9a7-74250a9c13b3'></a>\n\nMean Nutrient Intake for Men Sixty Years of Age and Over by Ethnic\nGroups in Low Income and High Income ratio States\nTen State Nutrition Survey (1968-1970)\n\n<a id='4b5e0b94-e334-468c-9dd3-5a99295d10d2'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">White</td><td id=\"0-4\" colspan=\"2\">Black</td><td id=\"0-5\" colspan=\"2\">Spanish American</td></tr>\n<tr><td id=\"0-6\"></td><td id=\"0-7\">Low Income</td><td id=\"0-8\">High Income</td><td id=\"0-9\">Low Income</td><td id=\"0-a\">High Income</td><td id=\"0-b\">Low Income</td><td id=\"0-c\">High Income</td></tr>\n<tr><td id=\"0-d\">Number of Persons</td><td id=\"0-e\">189</td><td id=\"0-f\">401</td><td id=\"0-g\">166</td><td id=\"0-h\">47</td><td id=\"0-i\">43</td><td id=\"0-j\">21</td></tr>\n<tr><td id=\"0-k\">Calories</td><td id=\"0-l\">1937</td><td id=\"0-m\">2181</td><td id=\"0-n\">1508</td><td id=\"0-o\">1833</td><td id=\"0-p\">1812</td><td id=\"0-q\">1826</td></tr>\n<tr><td id=\"0-r\">Protein (Gm)</td><td id=\"0-s\">77.6</td><td id=\"0-t\">88.8</td><td id=\"0-u\">64.4</td><td id=\"0-v\">75.1</td><td id=\"0-w\">78.2</td><td id=\"0-x\">77.7</td></tr>\n<tr><td id=\"0-y\">Calcium (Gm)</td><td id=\"0-z\">0.870</td><td id=\"0-A\">0.811</td><td id=\"0-B\">0.540</td><td id=\"0-C\">0.605</td><td id=\"0-D\">0.462</td><td id=\"0-E\">0.874</td></tr>\n<tr><td id=\"0-F\">Iron (mg)</td><td id=\"0-G\">12.2</td><td id=\"0-H\">15.0</td><td id=\"0-I\">10.6</td><td id=\"0-J\">11.1</td><td id=\"0-K\">13.7</td><td id=\"0-L\">11.7</td></tr>\n<tr><td id=\"0-M\">Vitamin A (IU)</td><td id=\"0-N\">5,138</td><td id=\"0-O\">5,341</td><td id=\"0-P\">5,028</td><td id=\"0-Q\">4,086</td><td id=\"0-R\">3,354</td><td id=\"0-S\">3,046</td></tr>\n<tr><td id=\"0-T\">Thiamine (mg)</td><td id=\"0-U\">1.17</td><td id=\"0-V\">1.17</td><td id=\"0-W\">1.01</td><td id=\"0-X\">1.17</td><td id=\"0-Y\">1.25</td><td id=\"0-Z\">1.28</td></tr>\n<tr><td id=\"0-10\">Riboflavin (mg)</td><td id=\"0-11\">1.86</td><td id=\"0-12\">1.79</td><td id=\"0-13\">1.75</td><td id=\"0-14\">1.41</td><td id=\"0-15\">1.71</td><td id=\"0-16\">1.83</td></tr>\n<tr><td id=\"0-17\">Niacin (mg)</td><td id=\"0-18\">16.15</td><td id=\"0-19\">22.29</td><td id=\"0-1a\">15.04</td><td id=\"0-1b\">14.52</td><td id=\"0-1c\">23.80</td><td id=\"0-1d\">12.79</td></tr>\n<tr><td id=\"0-1e\">Vitamin C (mg)</td><td id=\"0-1f\">57.8</td><td id=\"0-1g\">62.8</td><td id=\"0-1h\">56.1</td><td id=\"0-1i\">45.5</td><td id=\"0-1j\">50.6</td><td id=\"0-1k\">54.5</td></tr>\n</table>\n\n<a id='e1da7203-2929-4bfc-be5e-dd4e067bf4a2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qnwd0227",
+            "chunks": [
+                "ec93b5f1-8380-4c95-932e-7553e891ccea",
+                "9feda1fd-39b3-4a6f-a9a7-74250a9c13b3",
+                "4b5e0b94-e334-468c-9dd3-5a99295d10d2",
+                "e1da7203-2929-4bfc-be5e-dd4e067bf4a2"
+            ]
+        }
+    ],
+    "grounding": {
+        "ec93b5f1-8380-4c95-932e-7553e891ccea": {
+            "box": {
+                "left": 0.4503878653049469,
+                "top": 0.12222941964864731,
+                "right": 0.5441497564315796,
+                "bottom": 0.1472497135400772
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9feda1fd-39b3-4a6f-a9a7-74250a9c13b3": {
+            "box": {
+                "left": 0.12882182002067566,
+                "top": 0.1636420339345932,
+                "right": 0.858080267906189,
+                "bottom": 0.21595652401447296
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4b5e0b94-e334-468c-9dd3-5a99295d10d2": {
+            "box": {
+                "left": 0.1147104799747467,
+                "top": 0.22129957377910614,
+                "right": 0.9266328811645508,
+                "bottom": 0.5652878880500793
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.2228752808346191,
+                "right": 0.9245057560669245,
+                "bottom": 0.5652845255086696
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.2228752808346191,
+                "right": 0.31309331490826375,
+                "bottom": 0.24188175125813327
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.2228752808346191,
+                "right": 0.6105419174376436,
+                "bottom": 0.2718620679510213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.2228752808346191,
+                "right": 0.8144932115333425,
+                "bottom": 0.2718620679510213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.2228752808346191,
+                "right": 0.9097091846832228,
+                "bottom": 0.2718620679510213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.24188175125813327,
+                "right": 0.31309331490826375,
+                "bottom": 0.2718620679510213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.24188175125813327,
+                "right": 0.40542761041146846,
+                "bottom": 0.2718620679510213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.24188175125813327,
+                "right": 0.5052644451270583,
+                "bottom": 0.2718620679510213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.24188175125813327,
+                "right": 0.6105419174376436,
+                "bottom": 0.2718620679510213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.24188175125813327,
+                "right": 0.7086901040303317,
+                "bottom": 0.2718620679510213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.24188175125813327,
+                "right": 0.8144932115333425,
+                "bottom": 0.2718620679510213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.24188175125813327,
+                "right": 0.9097091846832228,
+                "bottom": 0.2718620679510213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.2718620679510213,
+                "right": 0.31309331490826375,
+                "bottom": 0.301121544955018
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.2718620679510213,
+                "right": 0.40542761041146846,
+                "bottom": 0.301121544955018
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.2718620679510213,
+                "right": 0.5052644451270583,
+                "bottom": 0.301121544955018
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.2718620679510213,
+                "right": 0.6105419174376436,
+                "bottom": 0.301121544955018
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.2718620679510213,
+                "right": 0.7086901040303317,
+                "bottom": 0.301121544955018
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.2718620679510213,
+                "right": 0.8144932115333425,
+                "bottom": 0.301121544955018
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.2718620679510213,
+                "right": 0.9097091846832228,
+                "bottom": 0.301121544955018
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.301121544955018,
+                "right": 0.31309331490826375,
+                "bottom": 0.3299400267034551
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.301121544955018,
+                "right": 0.40542761041146846,
+                "bottom": 0.3299400267034551
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.301121544955018,
+                "right": 0.5052644451270583,
+                "bottom": 0.3299400267034551
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.301121544955018,
+                "right": 0.6105419174376436,
+                "bottom": 0.3299400267034551
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.301121544955018,
+                "right": 0.7086901040303317,
+                "bottom": 0.3299400267034551
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.301121544955018,
+                "right": 0.8144932115333425,
+                "bottom": 0.3299400267034551
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.301121544955018,
+                "right": 0.9097091846832228,
+                "bottom": 0.3299400267034551
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.3299400267034551,
+                "right": 0.31309331490826375,
+                "bottom": 0.3598214764775758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.3299400267034551,
+                "right": 0.40542761041146846,
+                "bottom": 0.3598214764775758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.3299400267034551,
+                "right": 0.5052644451270583,
+                "bottom": 0.3598214764775758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.3299400267034551,
+                "right": 0.6105419174376436,
+                "bottom": 0.3598214764775758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.3299400267034551,
+                "right": 0.7086901040303317,
+                "bottom": 0.3598214764775758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.3299400267034551,
+                "right": 0.8144932115333425,
+                "bottom": 0.3598214764775758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.3299400267034551,
+                "right": 0.9097091846832228,
+                "bottom": 0.3598214764775758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.3598214764775758,
+                "right": 0.31309331490826375,
+                "bottom": 0.38880239050457055
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.3598214764775758,
+                "right": 0.40542761041146846,
+                "bottom": 0.38880239050457055
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.3598214764775758,
+                "right": 0.5052644451270583,
+                "bottom": 0.38880239050457055
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.3598214764775758,
+                "right": 0.6105419174376436,
+                "bottom": 0.38880239050457055
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.3598214764775758,
+                "right": 0.7086901040303317,
+                "bottom": 0.38880239050457055
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.3598214764775758,
+                "right": 0.8144932115333425,
+                "bottom": 0.38880239050457055
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.3598214764775758,
+                "right": 0.9097091846832228,
+                "bottom": 0.38880239050457055
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.38880239050457055,
+                "right": 0.31309331490826375,
+                "bottom": 0.41866156344185157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.38880239050457055,
+                "right": 0.40542761041146846,
+                "bottom": 0.41866156344185157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.38880239050457055,
+                "right": 0.5052644451270583,
+                "bottom": 0.41866156344185157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.38880239050457055,
+                "right": 0.6105419174376436,
+                "bottom": 0.41866156344185157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.38880239050457055,
+                "right": 0.7086901040303317,
+                "bottom": 0.41866156344185157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.38880239050457055,
+                "right": 0.8144932115333425,
+                "bottom": 0.41866156344185157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.38880239050457055,
+                "right": 0.9097091846832228,
+                "bottom": 0.41866156344185157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.41866156344185157,
+                "right": 0.31309331490826375,
+                "bottom": 0.4468400090117379
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.41866156344185157,
+                "right": 0.40542761041146846,
+                "bottom": 0.4468400090117379
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.41866156344185157,
+                "right": 0.5052644451270583,
+                "bottom": 0.4468400090117379
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.41866156344185157,
+                "right": 0.6105419174376436,
+                "bottom": 0.4468400090117379
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.41866156344185157,
+                "right": 0.7086901040303317,
+                "bottom": 0.4468400090117379
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.41866156344185157,
+                "right": 0.8144932115333425,
+                "bottom": 0.4468400090117379
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.41866156344185157,
+                "right": 0.9097091846832228,
+                "bottom": 0.4468400090117379
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.4468400090117379,
+                "right": 0.31309331490826375,
+                "bottom": 0.4763041140883244
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.4468400090117379,
+                "right": 0.40542761041146846,
+                "bottom": 0.4763041140883244
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.4468400090117379,
+                "right": 0.5052644451270583,
+                "bottom": 0.4763041140883244
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.4468400090117379,
+                "right": 0.6105419174376436,
+                "bottom": 0.4763041140883244
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.4468400090117379,
+                "right": 0.7086901040303317,
+                "bottom": 0.4763041140883244
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.4468400090117379,
+                "right": 0.8144932115333425,
+                "bottom": 0.4763041140883244
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.4468400090117379,
+                "right": 0.9097091846832228,
+                "bottom": 0.4763041140883244
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.4763041140883244,
+                "right": 0.31309331490826375,
+                "bottom": 0.5051773755319537
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.4763041140883244,
+                "right": 0.40542761041146846,
+                "bottom": 0.5051773755319537
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.4763041140883244,
+                "right": 0.5052644451270583,
+                "bottom": 0.5051773755319537
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.4763041140883244,
+                "right": 0.6105419174376436,
+                "bottom": 0.5051773755319537
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.4763041140883244,
+                "right": 0.7086901040303317,
+                "bottom": 0.5051773755319537
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.4763041140883244,
+                "right": 0.8144932115333425,
+                "bottom": 0.5051773755319537
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-16": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.4763041140883244,
+                "right": 0.9097091846832228,
+                "bottom": 0.5051773755319537
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-17": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.5051773755319537,
+                "right": 0.31309331490826375,
+                "bottom": 0.5343974298134162
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-18": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.5051773755319537,
+                "right": 0.40542761041146846,
+                "bottom": 0.5343974298134162
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-19": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.5051773755319537,
+                "right": 0.5052644451270583,
+                "bottom": 0.5343974298134162
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1a": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.5051773755319537,
+                "right": 0.6105419174376436,
+                "bottom": 0.5343974298134162
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1b": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.5051773755319537,
+                "right": 0.7086901040303317,
+                "bottom": 0.5343974298134162
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1c": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.5051773755319537,
+                "right": 0.8144932115333425,
+                "bottom": 0.5343974298134162
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1d": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.5051773755319537,
+                "right": 0.9097091846832228,
+                "bottom": 0.5343974298134162
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1e": {
+            "box": {
+                "left": 0.11830350120275425,
+                "top": 0.5343974298134162,
+                "right": 0.31309331490826375,
+                "bottom": 0.5652845255086696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1f": {
+            "box": {
+                "left": 0.31309331490826375,
+                "top": 0.5343974298134162,
+                "right": 0.40542761041146846,
+                "bottom": 0.5652845255086696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1g": {
+            "box": {
+                "left": 0.40542761041146846,
+                "top": 0.5343974298134162,
+                "right": 0.5052644451270583,
+                "bottom": 0.5652845255086696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1h": {
+            "box": {
+                "left": 0.5052644451270583,
+                "top": 0.5343974298134162,
+                "right": 0.6105419174376436,
+                "bottom": 0.5652845255086696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1i": {
+            "box": {
+                "left": 0.6105419174376436,
+                "top": 0.5343974298134162,
+                "right": 0.7086901040303317,
+                "bottom": 0.5652845255086696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1j": {
+            "box": {
+                "left": 0.7086901040303317,
+                "top": 0.5343974298134162,
+                "right": 0.8144932115333425,
+                "bottom": 0.5652845255086696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1k": {
+            "box": {
+                "left": 0.8144932115333425,
+                "top": 0.5343974298134162,
+                "right": 0.9097091846832228,
+                "bottom": 0.5652845255086696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "e1da7203-2929-4bfc-be5e-dd4e067bf4a2": {
+            "box": {
+                "left": 0.23268422484397888,
+                "top": 0.9771747589111328,
+                "right": 0.770133376121521,
+                "bottom": 0.9999140501022339
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "qnwd0227_19.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7310,
+        "credit_usage": 3.0,
+        "job_id": "kjjwuq5jmljstuq9e2ijzzvfe",
+        "version": "dpt-2-20250919"
+    }
+}

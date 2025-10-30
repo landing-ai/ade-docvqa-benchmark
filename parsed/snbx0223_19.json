@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='1887aabc-fb9e-43ff-94af-28faff5ab8de'></a>\n\nITC Limited REPORT AND ACCOUNTS 2013\n<::A black and white photograph shows a factory floor with industrial machinery. On the left, a conveyor belt is filled with what appear to be potato chips or similar snack food items, moving towards the right. In the foreground on the right, two workers wearing hairnets are observing a large, complex piece of machinery, likely a multi-head weigher, which has multiple hoppers arranged in a circular fashion. The overall scene depicts a food processing or packaging operation.: figure::>\n\n<a id='e659b2c7-232b-475f-bfbf-c1774c0ef4ca'></a>\n\n<::An aerial, grayscale rendering of a large architectural complex. The complex features numerous buildings with ornate roofs and classical architectural elements, arranged around landscaped gardens, circular driveways, and tree-lined paths. In the upper right, there are larger, more prominent buildings, possibly administrative or main facilities, surrounded by extensive green lawns and a circular fountain. To the left and lower part of the image, there is a denser cluster of smaller buildings, likely residential or auxiliary structures, also integrated with green spaces and pathways. In the background, there are areas that resemble a golf course or natural wooded landscapes. The overall impression is that of a grand, well-planned development. : figure::>\n\n<a id='0c68c05b-adf4-4ddb-9390-9c30b01e2b84'></a>\n\n<::A large, modern building with a distinctive architectural design. The building has multiple stories, with a long, horizontal section on the left featuring numerous windows. The central and right sections of the building have a more complex, stepped facade with a pattern of rectangular elements and terraced sections with greenery (trees and shrubs) on the upper levels. In the foreground, there is an open plaza area with some white canopy-like structures and a large, abstract sculpture with the letters \"ITC\" visible on its side, surrounded by a fountain. Trees are visible in the immediate foreground and in the background, with what appears to be a tall structure or tower in the far right background.: figure::>\n\n<a id='2e69e84c-4da7-45bf-8d14-be2acd239c4f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snbx0223",
+    "chunks": [
+        {
+            "markdown": "<a id='1887aabc-fb9e-43ff-94af-28faff5ab8de'></a>\n\nITC Limited REPORT AND ACCOUNTS 2013\n<::A black and white photograph shows a factory floor with industrial machinery. On the left, a conveyor belt is filled with what appear to be potato chips or similar snack food items, moving towards the right. In the foreground on the right, two workers wearing hairnets are observing a large, complex piece of machinery, likely a multi-head weigher, which has multiple hoppers arranged in a circular fashion. The overall scene depicts a food processing or packaging operation.: figure::>",
+            "type": "figure",
+            "id": "1887aabc-fb9e-43ff-94af-28faff5ab8de",
+            "grounding": {
+                "box": {
+                    "left": 1.2993812561035156e-05,
+                    "top": 0.0015716999769210815,
+                    "right": 0.9997926354408264,
+                    "bottom": 0.43883007764816284
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e659b2c7-232b-475f-bfbf-c1774c0ef4ca'></a>\n\n<::An aerial, grayscale rendering of a large architectural complex. The complex features numerous buildings with ornate roofs and classical architectural elements, arranged around landscaped gardens, circular driveways, and tree-lined paths. In the upper right, there are larger, more prominent buildings, possibly administrative or main facilities, surrounded by extensive green lawns and a circular fountain. To the left and lower part of the image, there is a denser cluster of smaller buildings, likely residential or auxiliary structures, also integrated with green spaces and pathways. In the background, there are areas that resemble a golf course or natural wooded landscapes. The overall impression is that of a grand, well-planned development. : figure::>",
+            "type": "figure",
+            "id": "e659b2c7-232b-475f-bfbf-c1774c0ef4ca",
+            "grounding": {
+                "box": {
+                    "left": 0.03097197413444519,
+                    "top": 0.4448343515396118,
+                    "right": 0.9679901599884033,
+                    "bottom": 0.719419002532959
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0c68c05b-adf4-4ddb-9390-9c30b01e2b84'></a>\n\n<::A large, modern building with a distinctive architectural design. The building has multiple stories, with a long, horizontal section on the left featuring numerous windows. The central and right sections of the building have a more complex, stepped facade with a pattern of rectangular elements and terraced sections with greenery (trees and shrubs) on the upper levels. In the foreground, there is an open plaza area with some white canopy-like structures and a large, abstract sculpture with the letters \"ITC\" visible on its side, surrounded by a fountain. Trees are visible in the immediate foreground and in the background, with what appears to be a tall structure or tower in the far right background.: figure::>",
+            "type": "figure",
+            "id": "0c68c05b-adf4-4ddb-9390-9c30b01e2b84",
+            "grounding": {
+                "box": {
+                    "left": 0.03306958079338074,
+                    "top": 0.7130658626556396,
+                    "right": 0.9651418924331665,
+                    "bottom": 0.9784402847290039
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2e69e84c-4da7-45bf-8d14-be2acd239c4f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snbx0223",
+            "type": "marginalia",
+            "id": "2e69e84c-4da7-45bf-8d14-be2acd239c4f",
+            "grounding": {
+                "box": {
+                    "left": 0.21381127834320068,
+                    "top": 0.9791666269302368,
+                    "right": 0.7870289087295532,
+                    "bottom": 0.9988993406295776
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='1887aabc-fb9e-43ff-94af-28faff5ab8de'></a>\n\nITC Limited REPORT AND ACCOUNTS 2013\n<::A black and white photograph shows a factory floor with industrial machinery. On the left, a conveyor belt is filled with what appear to be potato chips or similar snack food items, moving towards the right. In the foreground on the right, two workers wearing hairnets are observing a large, complex piece of machinery, likely a multi-head weigher, which has multiple hoppers arranged in a circular fashion. The overall scene depicts a food processing or packaging operation.: figure::>\n\n<a id='e659b2c7-232b-475f-bfbf-c1774c0ef4ca'></a>\n\n<::An aerial, grayscale rendering of a large architectural complex. The complex features numerous buildings with ornate roofs and classical architectural elements, arranged around landscaped gardens, circular driveways, and tree-lined paths. In the upper right, there are larger, more prominent buildings, possibly administrative or main facilities, surrounded by extensive green lawns and a circular fountain. To the left and lower part of the image, there is a denser cluster of smaller buildings, likely residential or auxiliary structures, also integrated with green spaces and pathways. In the background, there are areas that resemble a golf course or natural wooded landscapes. The overall impression is that of a grand, well-planned development. : figure::>\n\n<a id='0c68c05b-adf4-4ddb-9390-9c30b01e2b84'></a>\n\n<::A large, modern building with a distinctive architectural design. The building has multiple stories, with a long, horizontal section on the left featuring numerous windows. The central and right sections of the building have a more complex, stepped facade with a pattern of rectangular elements and terraced sections with greenery (trees and shrubs) on the upper levels. In the foreground, there is an open plaza area with some white canopy-like structures and a large, abstract sculpture with the letters \"ITC\" visible on its side, surrounded by a fountain. Trees are visible in the immediate foreground and in the background, with what appears to be a tall structure or tower in the far right background.: figure::>\n\n<a id='2e69e84c-4da7-45bf-8d14-be2acd239c4f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snbx0223",
+            "chunks": [
+                "1887aabc-fb9e-43ff-94af-28faff5ab8de",
+                "e659b2c7-232b-475f-bfbf-c1774c0ef4ca",
+                "0c68c05b-adf4-4ddb-9390-9c30b01e2b84",
+                "2e69e84c-4da7-45bf-8d14-be2acd239c4f"
+            ]
+        }
+    ],
+    "grounding": {
+        "1887aabc-fb9e-43ff-94af-28faff5ab8de": {
+            "box": {
+                "left": 1.2993812561035156e-05,
+                "top": 0.0015716999769210815,
+                "right": 0.9997926354408264,
+                "bottom": 0.43883007764816284
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "e659b2c7-232b-475f-bfbf-c1774c0ef4ca": {
+            "box": {
+                "left": 0.03097197413444519,
+                "top": 0.4448343515396118,
+                "right": 0.9679901599884033,
+                "bottom": 0.719419002532959
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "0c68c05b-adf4-4ddb-9390-9c30b01e2b84": {
+            "box": {
+                "left": 0.03306958079338074,
+                "top": 0.7130658626556396,
+                "right": 0.9651418924331665,
+                "bottom": 0.9784402847290039
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "2e69e84c-4da7-45bf-8d14-be2acd239c4f": {
+            "box": {
+                "left": 0.21381127834320068,
+                "top": 0.9791666269302368,
+                "right": 0.7870289087295532,
+                "bottom": 0.9988993406295776
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "snbx0223_19.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11802,
+        "credit_usage": 3.0,
+        "job_id": "vvagk9q84x6qns984hofclq4e",
+        "version": "dpt-2-20250919"
+    }
+}

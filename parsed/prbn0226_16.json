@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='76e4ee09-43a2-4bfa-ab36-9d837a849bfb'></a>\n\n<::logo: Main Goal of VA Evaluation\nMain Goal of VA Evaluation\nThe text is rendered in a dark, dotted serif font.::>\n\n<a id='62cf8ce4-8ad5-4bd2-a059-900403aa815a'></a>\n\n* Provide guidance to the more than 2600 PHAs that will adopt the new rule via evaluation of Executive Directors, staff, and residents at 150 randomly selected sites and critique of written policies\n* Funded by American Cancer Society, Robert Wood Johnson Foundation, Harvard Catalyst, and Boston University Clinical and Translational Science Institute",
+    "chunks": [
+        {
+            "markdown": "<a id='76e4ee09-43a2-4bfa-ab36-9d837a849bfb'></a>\n\n<::logo: Main Goal of VA Evaluation\nMain Goal of VA Evaluation\nThe text is rendered in a dark, dotted serif font.::>",
+            "type": "logo",
+            "id": "76e4ee09-43a2-4bfa-ab36-9d837a849bfb",
+            "grounding": {
+                "box": {
+                    "left": 0.09753161668777466,
+                    "top": 0.08782966434955597,
+                    "right": 0.8976966738700867,
+                    "bottom": 0.18990202248096466
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='62cf8ce4-8ad5-4bd2-a059-900403aa815a'></a>\n\n* Provide guidance to the more than 2600 PHAs that will adopt the new rule via evaluation of Executive Directors, staff, and residents at 150 randomly selected sites and critique of written policies\n* Funded by American Cancer Society, Robert Wood Johnson Foundation, Harvard Catalyst, and Boston University Clinical and Translational Science Institute",
+            "type": "text",
+            "id": "62cf8ce4-8ad5-4bd2-a059-900403aa815a",
+            "grounding": {
+                "box": {
+                    "left": 0.09836143255233765,
+                    "top": 0.31397679448127747,
+                    "right": 0.8825092315673828,
+                    "bottom": 0.7868044376373291
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='76e4ee09-43a2-4bfa-ab36-9d837a849bfb'></a>\n\n<::logo: Main Goal of VA Evaluation\nMain Goal of VA Evaluation\nThe text is rendered in a dark, dotted serif font.::>\n\n<a id='62cf8ce4-8ad5-4bd2-a059-900403aa815a'></a>\n\n* Provide guidance to the more than 2600 PHAs that will adopt the new rule via evaluation of Executive Directors, staff, and residents at 150 randomly selected sites and critique of written policies\n* Funded by American Cancer Society, Robert Wood Johnson Foundation, Harvard Catalyst, and Boston University Clinical and Translational Science Institute",
+            "chunks": [
+                "76e4ee09-43a2-4bfa-ab36-9d837a849bfb",
+                "62cf8ce4-8ad5-4bd2-a059-900403aa815a"
+            ]
+        }
+    ],
+    "grounding": {
+        "76e4ee09-43a2-4bfa-ab36-9d837a849bfb": {
+            "box": {
+                "left": 0.09753161668777466,
+                "top": 0.08782966434955597,
+                "right": 0.8976966738700867,
+                "bottom": 0.18990202248096466
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "62cf8ce4-8ad5-4bd2-a059-900403aa815a": {
+            "box": {
+                "left": 0.09836143255233765,
+                "top": 0.31397679448127747,
+                "right": 0.8825092315673828,
+                "bottom": 0.7868044376373291
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "prbn0226_16.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3543,
+        "credit_usage": 3.0,
+        "job_id": "hyw44h31ifx2pzi3w3ts1fyyx",
+        "version": "dpt-2-20250919"
+    }
+}

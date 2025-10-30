@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='501c0354-c436-4e2f-b5a2-6e2695f8d3ec'></a>\n\nFax Message\n\n<a id='e0a893e4-33ee-4029-94c0-364faaa1b283'></a>\n\n<::logo: RJR Packaging\nFrom\nRJR Packaging\nA Division of R J Reynolds Tobacco Company\nThe logo features stylized, italicized, and bolded black text \"RJR Packaging\" underlined by a thick black line.::>\n\n<a id='2c0ccba2-d7e1-4a87-9d62-d73c097a5cf6'></a>\n\nRJR Packaging Technology\nP. O. Box 1487\nWinston-Salem, NC 27102-1487\n\nFAX NO: (336-741-5197)\n\n<a id='3c68ab61-8bdf-47a0-8da1-99bc84685664'></a>\n\nDATE: 2-23-99\n\n<a id='fa015ae1-12e7-447a-a606-9b10b090657d'></a>\n\nFAX TO: MS SALLY PECOR\n202-872-4370\n\n<a id='67ecaa4b-b8c6-4059-b602-99852bd9c81b'></a>\n\nFROM: CARR SMITH\nPhone 336-741-0820\n\n<a id='8f477b05-8dd3-46dc-8761-5cc6e3291f4f'></a>\n\nNO. OF PAGES 4 (INCLUDING COVER PAGE)\n\n<a id='dd92916e-7f7f-4719-a876-fc64269d9758'></a>\n\nIf any part of this message is unclear, call:\n\n<a id='37134e2f-f2a9-4489-847c-672bf707eb92'></a>\n\nMESSAGE:\n\n___\n\n___\n\n___\n\n___\n\n___\n\n<a id='d3bdf832-5fcf-45ce-a3df-271204743dcb'></a>\n\n52175 9606",
+    "chunks": [
+        {
+            "markdown": "<a id='501c0354-c436-4e2f-b5a2-6e2695f8d3ec'></a>\n\nFax Message",
+            "type": "text",
+            "id": "501c0354-c436-4e2f-b5a2-6e2695f8d3ec",
+            "grounding": {
+                "box": {
+                    "left": 0.41983914375305176,
+                    "top": 0.07621290534734726,
+                    "right": 0.6322883367538452,
+                    "bottom": 0.10255620628595352
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e0a893e4-33ee-4029-94c0-364faaa1b283'></a>\n\n<::logo: RJR Packaging\nFrom\nRJR Packaging\nA Division of R J Reynolds Tobacco Company\nThe logo features stylized, italicized, and bolded black text \"RJR Packaging\" underlined by a thick black line.::>",
+            "type": "logo",
+            "id": "e0a893e4-33ee-4029-94c0-364faaa1b283",
+            "grounding": {
+                "box": {
+                    "left": 0.3927944004535675,
+                    "top": 0.11277102679014206,
+                    "right": 0.6915432214736938,
+                    "bottom": 0.223184734582901
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2c0ccba2-d7e1-4a87-9d62-d73c097a5cf6'></a>\n\nRJR Packaging Technology\nP. O. Box 1487\nWinston-Salem, NC 27102-1487\n\nFAX NO: (336-741-5197)",
+            "type": "text",
+            "id": "2c0ccba2-d7e1-4a87-9d62-d73c097a5cf6",
+            "grounding": {
+                "box": {
+                    "left": 0.4164184331893921,
+                    "top": 0.2594880759716034,
+                    "right": 0.6344995498657227,
+                    "bottom": 0.33883586525917053
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3c68ab61-8bdf-47a0-8da1-99bc84685664'></a>\n\nDATE: 2-23-99",
+            "type": "text",
+            "id": "3c68ab61-8bdf-47a0-8da1-99bc84685664",
+            "grounding": {
+                "box": {
+                    "left": 0.23682433366775513,
+                    "top": 0.39731213450431824,
+                    "right": 0.7030053734779358,
+                    "bottom": 0.43036165833473206
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fa015ae1-12e7-447a-a606-9b10b090657d'></a>\n\nFAX TO: MS SALLY PECOR\n202-872-4370",
+            "type": "text",
+            "id": "fa015ae1-12e7-447a-a606-9b10b090657d",
+            "grounding": {
+                "box": {
+                    "left": 0.23521515727043152,
+                    "top": 0.4544156789779663,
+                    "right": 0.8361425399780273,
+                    "bottom": 0.571399450302124
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='67ecaa4b-b8c6-4059-b602-99852bd9c81b'></a>\n\nFROM: CARR SMITH\nPhone 336-741-0820",
+            "type": "text",
+            "id": "67ecaa4b-b8c6-4059-b602-99852bd9c81b",
+            "grounding": {
+                "box": {
+                    "left": 0.23648804426193237,
+                    "top": 0.5938998460769653,
+                    "right": 0.830525815486908,
+                    "bottom": 0.6556068658828735
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8f477b05-8dd3-46dc-8761-5cc6e3291f4f'></a>\n\nNO. OF PAGES 4 (INCLUDING COVER PAGE)",
+            "type": "text",
+            "id": "8f477b05-8dd3-46dc-8761-5cc6e3291f4f",
+            "grounding": {
+                "box": {
+                    "left": 0.23676344752311707,
+                    "top": 0.6764069199562073,
+                    "right": 0.8376246690750122,
+                    "bottom": 0.711625874042511
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dd92916e-7f7f-4719-a876-fc64269d9758'></a>\n\nIf any part of this message is unclear, call:",
+            "type": "text",
+            "id": "dd92916e-7f7f-4719-a876-fc64269d9758",
+            "grounding": {
+                "box": {
+                    "left": 0.23602096736431122,
+                    "top": 0.7259325981140137,
+                    "right": 0.5684418678283691,
+                    "bottom": 0.7509557008743286
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='37134e2f-f2a9-4489-847c-672bf707eb92'></a>\n\nMESSAGE:\n\n___\n\n___\n\n___\n\n___\n\n___",
+            "type": "text",
+            "id": "37134e2f-f2a9-4489-847c-672bf707eb92",
+            "grounding": {
+                "box": {
+                    "left": 0.2337355613708496,
+                    "top": 0.78990638256073,
+                    "right": 0.8283094167709351,
+                    "bottom": 0.9281816482543945
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d3bdf832-5fcf-45ce-a3df-271204743dcb'></a>\n\n52175 9606",
+            "type": "marginalia",
+            "id": "d3bdf832-5fcf-45ce-a3df-271204743dcb",
+            "grounding": {
+                "box": {
+                    "left": 0.9071560502052307,
+                    "top": 0.8608689308166504,
+                    "right": 0.9405146241188049,
+                    "bottom": 0.9571516513824463
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='501c0354-c436-4e2f-b5a2-6e2695f8d3ec'></a>\n\nFax Message\n\n<a id='e0a893e4-33ee-4029-94c0-364faaa1b283'></a>\n\n<::logo: RJR Packaging\nFrom\nRJR Packaging\nA Division of R J Reynolds Tobacco Company\nThe logo features stylized, italicized, and bolded black text \"RJR Packaging\" underlined by a thick black line.::>\n\n<a id='2c0ccba2-d7e1-4a87-9d62-d73c097a5cf6'></a>\n\nRJR Packaging Technology\nP. O. Box 1487\nWinston-Salem, NC 27102-1487\n\nFAX NO: (336-741-5197)\n\n<a id='3c68ab61-8bdf-47a0-8da1-99bc84685664'></a>\n\nDATE: 2-23-99\n\n<a id='fa015ae1-12e7-447a-a606-9b10b090657d'></a>\n\nFAX TO: MS SALLY PECOR\n202-872-4370\n\n<a id='67ecaa4b-b8c6-4059-b602-99852bd9c81b'></a>\n\nFROM: CARR SMITH\nPhone 336-741-0820\n\n<a id='8f477b05-8dd3-46dc-8761-5cc6e3291f4f'></a>\n\nNO. OF PAGES 4 (INCLUDING COVER PAGE)\n\n<a id='dd92916e-7f7f-4719-a876-fc64269d9758'></a>\n\nIf any part of this message is unclear, call:\n\n<a id='37134e2f-f2a9-4489-847c-672bf707eb92'></a>\n\nMESSAGE:\n\n___\n\n___\n\n___\n\n___\n\n___\n\n<a id='d3bdf832-5fcf-45ce-a3df-271204743dcb'></a>\n\n52175 9606",
+            "chunks": [
+                "501c0354-c436-4e2f-b5a2-6e2695f8d3ec",
+                "e0a893e4-33ee-4029-94c0-364faaa1b283",
+                "2c0ccba2-d7e1-4a87-9d62-d73c097a5cf6",
+                "3c68ab61-8bdf-47a0-8da1-99bc84685664",
+                "fa015ae1-12e7-447a-a606-9b10b090657d",
+                "67ecaa4b-b8c6-4059-b602-99852bd9c81b",
+                "8f477b05-8dd3-46dc-8761-5cc6e3291f4f",
+                "dd92916e-7f7f-4719-a876-fc64269d9758",
+                "37134e2f-f2a9-4489-847c-672bf707eb92",
+                "d3bdf832-5fcf-45ce-a3df-271204743dcb"
+            ]
+        }
+    ],
+    "grounding": {
+        "501c0354-c436-4e2f-b5a2-6e2695f8d3ec": {
+            "box": {
+                "left": 0.41983914375305176,
+                "top": 0.07621290534734726,
+                "right": 0.6322883367538452,
+                "bottom": 0.10255620628595352
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e0a893e4-33ee-4029-94c0-364faaa1b283": {
+            "box": {
+                "left": 0.3927944004535675,
+                "top": 0.11277102679014206,
+                "right": 0.6915432214736938,
+                "bottom": 0.223184734582901
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "2c0ccba2-d7e1-4a87-9d62-d73c097a5cf6": {
+            "box": {
+                "left": 0.4164184331893921,
+                "top": 0.2594880759716034,
+                "right": 0.6344995498657227,
+                "bottom": 0.33883586525917053
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3c68ab61-8bdf-47a0-8da1-99bc84685664": {
+            "box": {
+                "left": 0.23682433366775513,
+                "top": 0.39731213450431824,
+                "right": 0.7030053734779358,
+                "bottom": 0.43036165833473206
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fa015ae1-12e7-447a-a606-9b10b090657d": {
+            "box": {
+                "left": 0.23521515727043152,
+                "top": 0.4544156789779663,
+                "right": 0.8361425399780273,
+                "bottom": 0.571399450302124
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "67ecaa4b-b8c6-4059-b602-99852bd9c81b": {
+            "box": {
+                "left": 0.23648804426193237,
+                "top": 0.5938998460769653,
+                "right": 0.830525815486908,
+                "bottom": 0.6556068658828735
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8f477b05-8dd3-46dc-8761-5cc6e3291f4f": {
+            "box": {
+                "left": 0.23676344752311707,
+                "top": 0.6764069199562073,
+                "right": 0.8376246690750122,
+                "bottom": 0.711625874042511
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dd92916e-7f7f-4719-a876-fc64269d9758": {
+            "box": {
+                "left": 0.23602096736431122,
+                "top": 0.7259325981140137,
+                "right": 0.5684418678283691,
+                "bottom": 0.7509557008743286
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "37134e2f-f2a9-4489-847c-672bf707eb92": {
+            "box": {
+                "left": 0.2337355613708496,
+                "top": 0.78990638256073,
+                "right": 0.8283094167709351,
+                "bottom": 0.9281816482543945
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d3bdf832-5fcf-45ce-a3df-271204743dcb": {
+            "box": {
+                "left": 0.9071560502052307,
+                "top": 0.8608689308166504,
+                "right": 0.9405146241188049,
+                "bottom": 0.9571516513824463
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "kqwg0078_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4857,
+        "credit_usage": 3.0,
+        "job_id": "avml72yy6djrpyd0m5mnpyzks",
+        "version": "dpt-2-20250919"
+    }
+}

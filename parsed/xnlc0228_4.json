@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='2fd3c1cd-299b-4c7f-80a9-597eb063b2ce'></a>\n\nGolden Anniversary\n\n<a id='efbb05b9-c28c-4b18-a7c2-c3ac42ed0ab8'></a>\n\nFifty Years\nof Service\nto Physicians\nof the South\n\n<a id='b97d01ea-0b08-4330-823e-9cf464d8574f'></a>\n\nSouthern Medical Association\n1906 October 2-3 1956\n\n<a id='550925e9-6fdb-45a2-a965-4f0880a0a0d1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xnlc0228",
+    "chunks": [
+        {
+            "markdown": "<a id='2fd3c1cd-299b-4c7f-80a9-597eb063b2ce'></a>\n\nGolden Anniversary",
+            "type": "text",
+            "id": "2fd3c1cd-299b-4c7f-80a9-597eb063b2ce",
+            "grounding": {
+                "box": {
+                    "left": 0.22011521458625793,
+                    "top": 0.29693469405174255,
+                    "right": 0.6516003608703613,
+                    "bottom": 0.45491138100624084
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='efbb05b9-c28c-4b18-a7c2-c3ac42ed0ab8'></a>\n\nFifty Years\nof Service\nto Physicians\nof the South",
+            "type": "text",
+            "id": "efbb05b9-c28c-4b18-a7c2-c3ac42ed0ab8",
+            "grounding": {
+                "box": {
+                    "left": 0.3385087847709656,
+                    "top": 0.45744797587394714,
+                    "right": 0.5799517035484314,
+                    "bottom": 0.6429662704467773
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b97d01ea-0b08-4330-823e-9cf464d8574f'></a>\n\nSouthern Medical Association\n1906 October 2-3 1956",
+            "type": "text",
+            "id": "b97d01ea-0b08-4330-823e-9cf464d8574f",
+            "grounding": {
+                "box": {
+                    "left": 0.2627038359642029,
+                    "top": 0.6531862020492554,
+                    "right": 0.5723236799240112,
+                    "bottom": 0.7274781465530396
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='550925e9-6fdb-45a2-a965-4f0880a0a0d1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xnlc0228",
+            "type": "text",
+            "id": "550925e9-6fdb-45a2-a965-4f0880a0a0d1",
+            "grounding": {
+                "box": {
+                    "left": 0.20264431834220886,
+                    "top": 0.975996196269989,
+                    "right": 0.7972289323806763,
+                    "bottom": 0.9998030066490173
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2fd3c1cd-299b-4c7f-80a9-597eb063b2ce'></a>\n\nGolden Anniversary\n\n<a id='efbb05b9-c28c-4b18-a7c2-c3ac42ed0ab8'></a>\n\nFifty Years\nof Service\nto Physicians\nof the South\n\n<a id='b97d01ea-0b08-4330-823e-9cf464d8574f'></a>\n\nSouthern Medical Association\n1906 October 2-3 1956\n\n<a id='550925e9-6fdb-45a2-a965-4f0880a0a0d1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xnlc0228",
+            "chunks": [
+                "2fd3c1cd-299b-4c7f-80a9-597eb063b2ce",
+                "efbb05b9-c28c-4b18-a7c2-c3ac42ed0ab8",
+                "b97d01ea-0b08-4330-823e-9cf464d8574f",
+                "550925e9-6fdb-45a2-a965-4f0880a0a0d1"
+            ]
+        }
+    ],
+    "grounding": {
+        "2fd3c1cd-299b-4c7f-80a9-597eb063b2ce": {
+            "box": {
+                "left": 0.22011521458625793,
+                "top": 0.29693469405174255,
+                "right": 0.6516003608703613,
+                "bottom": 0.45491138100624084
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "efbb05b9-c28c-4b18-a7c2-c3ac42ed0ab8": {
+            "box": {
+                "left": 0.3385087847709656,
+                "top": 0.45744797587394714,
+                "right": 0.5799517035484314,
+                "bottom": 0.6429662704467773
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b97d01ea-0b08-4330-823e-9cf464d8574f": {
+            "box": {
+                "left": 0.2627038359642029,
+                "top": 0.6531862020492554,
+                "right": 0.5723236799240112,
+                "bottom": 0.7274781465530396
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "550925e9-6fdb-45a2-a965-4f0880a0a0d1": {
+            "box": {
+                "left": 0.20264431834220886,
+                "top": 0.975996196269989,
+                "right": 0.7972289323806763,
+                "bottom": 0.9998030066490173
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "xnlc0228_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6273,
+        "credit_usage": 3.0,
+        "job_id": "aawy9xxwbr00yuazgq41lfxpe",
+        "version": "dpt-2-20250919"
+    }
+}

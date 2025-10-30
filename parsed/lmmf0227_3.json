@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='b90cafca-a1e9-4fe3-92ba-47b836075a78'></a>\n\n<::An aerial black and white photograph of a marina with numerous boats docked along piers. In the background, there is a coastline with a beach, several buildings, and a water tower. Various elements in the image are marked with numbers:\n1: A tall, multi-story building near the coast.\n3: A complex of buildings with a large parking lot in front.\n4: A large building with a flat roof, situated by the water.\n5: A cluster of smaller buildings or houses amidst trees.\n6: A line of large yachts or boats docked along a pier.\n8: A section of the marina with many smaller boats docked.\n: figure::>\n\n<a id='77aeb7f6-6b42-4e87-afc8-77a089968563'></a>\n\n1. Bahia Mar Tower\n    * Main Desk\n    * The Seaview Restaurant\n    * Spyglass Lounge\n    * Meeting Rooms\n    * Shops\n    * Convention Center\n2. Bahia Mar South Wing\n    * Patio Cafe\n    * Patio Cafe Lounge\n3. Pool/Patio Deck\n    * Snack Bar\n    * Shops\n    * Seagrape Bar\n4. Marine Store\n    * Marina Control Tower\n    * Offices\n    * Fuel Dock\n\n<a id='528e7400-270a-421d-8334-8a8170627afc'></a>\n\n<::An aerial view of a rooftop area, likely a hotel or apartment complex, featuring a swimming pool and a sunbathing deck. The deck is furnished with numerous lounge chairs, some occupied by people, and several large sun umbrellas providing shade. There are also small tables and chairs scattered around. Several people are visible on the deck, some walking, some lounging, and a few are in the swimming pool. The architecture includes a small building or structure on the lower left, and lush greenery, possibly palm trees, is visible along the edges of the rooftop. The image is in black and white, giving it a vintage appearance.\n: figure::>\n\n<a id='41db4270-feb4-484c-a213-49adb8129725'></a>\n\n<::A black and white photograph shows a hotel room with two beds. A woman with dark hair is sitting on the bed on the right, wearing a light-colored shirt, and appears to be reading a magazine or book. The beds have patterned bedspreads. To the left, there is a dresser with a television set on top, and a lamp with a large shade. In the background, a window with light-colored curtains is visible, along with patterned drapes. A chair and a small table are positioned in front of the window. On the wall above the beds, there is a framed picture and a wall-mounted light fixture. A telephone is visible on a nightstand between the two beds.: figure::>\n\n<a id='3781f2bf-51f9-4e80-b80c-92cbf53226b9'></a>\n\n_A great vacation area deserves a great vacation resort._\n\n<a id='3c642137-4e3c-4024-b73a-90cc3b66b984'></a>\n\nsuperb. 300 luxurious soundproof guest\nrooms, including 14 suites. Each with\nindividually-controlled air conditioning,\ncolor TV, oversized beds and tasteful decor.\nAnd amenities like a huge heated pool\nand pool deck, shops, covered outdoor\nwalkways and beautiful landscaping.\nConveniences like room service, car\nrental, laundry and dry cleaning, travel\nagency, theater tickets and free parking.\nAnd 10 meeting rooms for groups from\n20 to 1,200.\nBahia Mar. In scenic Fort Lauderdale.\nWhere you can enjoy a great ocean resort\nin an ideal resort city.\n\n<a id='57820185-123a-424a-be0a-60016c410c72'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lmmf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='b90cafca-a1e9-4fe3-92ba-47b836075a78'></a>\n\n<::An aerial black and white photograph of a marina with numerous boats docked along piers. In the background, there is a coastline with a beach, several buildings, and a water tower. Various elements in the image are marked with numbers:\n1: A tall, multi-story building near the coast.\n3: A complex of buildings with a large parking lot in front.\n4: A large building with a flat roof, situated by the water.\n5: A cluster of smaller buildings or houses amidst trees.\n6: A line of large yachts or boats docked along a pier.\n8: A section of the marina with many smaller boats docked.\n: figure::>",
+            "type": "figure",
+            "id": "b90cafca-a1e9-4fe3-92ba-47b836075a78",
+            "grounding": {
+                "box": {
+                    "left": 0.02327747642993927,
+                    "top": 0.06467297673225403,
+                    "right": 0.5075100660324097,
+                    "bottom": 0.6775897741317749
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='77aeb7f6-6b42-4e87-afc8-77a089968563'></a>\n\n1. Bahia Mar Tower\n    * Main Desk\n    * The Seaview Restaurant\n    * Spyglass Lounge\n    * Meeting Rooms\n    * Shops\n    * Convention Center\n2. Bahia Mar South Wing\n    * Patio Cafe\n    * Patio Cafe Lounge\n3. Pool/Patio Deck\n    * Snack Bar\n    * Shops\n    * Seagrape Bar\n4. Marine Store\n    * Marina Control Tower\n    * Offices\n    * Fuel Dock",
+            "type": "text",
+            "id": "77aeb7f6-6b42-4e87-afc8-77a089968563",
+            "grounding": {
+                "box": {
+                    "left": 0.3326548933982849,
+                    "top": 0.6899920701980591,
+                    "right": 0.4951428771018982,
+                    "bottom": 0.9461275339126587
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='528e7400-270a-421d-8334-8a8170627afc'></a>\n\n<::An aerial view of a rooftop area, likely a hotel or apartment complex, featuring a swimming pool and a sunbathing deck. The deck is furnished with numerous lounge chairs, some occupied by people, and several large sun umbrellas providing shade. There are also small tables and chairs scattered around. Several people are visible on the deck, some walking, some lounging, and a few are in the swimming pool. The architecture includes a small building or structure on the lower left, and lush greenery, possibly palm trees, is visible along the edges of the rooftop. The image is in black and white, giving it a vintage appearance.\n: figure::>",
+            "type": "figure",
+            "id": "528e7400-270a-421d-8334-8a8170627afc",
+            "grounding": {
+                "box": {
+                    "left": 0.5097572803497314,
+                    "top": 0.06576775014400482,
+                    "right": 0.7824935913085938,
+                    "bottom": 0.3889783024787903
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='41db4270-feb4-484c-a213-49adb8129725'></a>\n\n<::A black and white photograph shows a hotel room with two beds. A woman with dark hair is sitting on the bed on the right, wearing a light-colored shirt, and appears to be reading a magazine or book. The beds have patterned bedspreads. To the left, there is a dresser with a television set on top, and a lamp with a large shade. In the background, a window with light-colored curtains is visible, along with patterned drapes. A chair and a small table are positioned in front of the window. On the wall above the beds, there is a framed picture and a wall-mounted light fixture. A telephone is visible on a nightstand between the two beds.: figure::>",
+            "type": "figure",
+            "id": "41db4270-feb4-484c-a213-49adb8129725",
+            "grounding": {
+                "box": {
+                    "left": 0.5070806741714478,
+                    "top": 0.3901306390762329,
+                    "right": 0.7772252559661865,
+                    "bottom": 0.5496044158935547
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3781f2bf-51f9-4e80-b80c-92cbf53226b9'></a>\n\n_A great vacation area deserves a great vacation resort._",
+            "type": "text",
+            "id": "3781f2bf-51f9-4e80-b80c-92cbf53226b9",
+            "grounding": {
+                "box": {
+                    "left": 0.7820345759391785,
+                    "top": 0.3932911157608032,
+                    "right": 0.9132640957832336,
+                    "bottom": 0.45890533924102783
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3c642137-4e3c-4024-b73a-90cc3b66b984'></a>\n\nsuperb. 300 luxurious soundproof guest\nrooms, including 14 suites. Each with\nindividually-controlled air conditioning,\ncolor TV, oversized beds and tasteful decor.\nAnd amenities like a huge heated pool\nand pool deck, shops, covered outdoor\nwalkways and beautiful landscaping.\nConveniences like room service, car\nrental, laundry and dry cleaning, travel\nagency, theater tickets and free parking.\nAnd 10 meeting rooms for groups from\n20 to 1,200.\nBahia Mar. In scenic Fort Lauderdale.\nWhere you can enjoy a great ocean resort\nin an ideal resort city.",
+            "type": "text",
+            "id": "3c642137-4e3c-4024-b73a-90cc3b66b984",
+            "grounding": {
+                "box": {
+                    "left": 0.5030233263969421,
+                    "top": 0.5552817583084106,
+                    "right": 0.8119673132896423,
+                    "bottom": 0.7903103828430176
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='57820185-123a-424a-be0a-60016c410c72'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lmmf0227",
+            "type": "text",
+            "id": "57820185-123a-424a-be0a-60016c410c72",
+            "grounding": {
+                "box": {
+                    "left": 0.25408101081848145,
+                    "top": 0.9770194292068481,
+                    "right": 0.749627947807312,
+                    "bottom": 0.9998131990432739
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='b90cafca-a1e9-4fe3-92ba-47b836075a78'></a>\n\n<::An aerial black and white photograph of a marina with numerous boats docked along piers. In the background, there is a coastline with a beach, several buildings, and a water tower. Various elements in the image are marked with numbers:\n1: A tall, multi-story building near the coast.\n3: A complex of buildings with a large parking lot in front.\n4: A large building with a flat roof, situated by the water.\n5: A cluster of smaller buildings or houses amidst trees.\n6: A line of large yachts or boats docked along a pier.\n8: A section of the marina with many smaller boats docked.\n: figure::>\n\n<a id='77aeb7f6-6b42-4e87-afc8-77a089968563'></a>\n\n1. Bahia Mar Tower\n    * Main Desk\n    * The Seaview Restaurant\n    * Spyglass Lounge\n    * Meeting Rooms\n    * Shops\n    * Convention Center\n2. Bahia Mar South Wing\n    * Patio Cafe\n    * Patio Cafe Lounge\n3. Pool/Patio Deck\n    * Snack Bar\n    * Shops\n    * Seagrape Bar\n4. Marine Store\n    * Marina Control Tower\n    * Offices\n    * Fuel Dock\n\n<a id='528e7400-270a-421d-8334-8a8170627afc'></a>\n\n<::An aerial view of a rooftop area, likely a hotel or apartment complex, featuring a swimming pool and a sunbathing deck. The deck is furnished with numerous lounge chairs, some occupied by people, and several large sun umbrellas providing shade. There are also small tables and chairs scattered around. Several people are visible on the deck, some walking, some lounging, and a few are in the swimming pool. The architecture includes a small building or structure on the lower left, and lush greenery, possibly palm trees, is visible along the edges of the rooftop. The image is in black and white, giving it a vintage appearance.\n: figure::>\n\n<a id='41db4270-feb4-484c-a213-49adb8129725'></a>\n\n<::A black and white photograph shows a hotel room with two beds. A woman with dark hair is sitting on the bed on the right, wearing a light-colored shirt, and appears to be reading a magazine or book. The beds have patterned bedspreads. To the left, there is a dresser with a television set on top, and a lamp with a large shade. In the background, a window with light-colored curtains is visible, along with patterned drapes. A chair and a small table are positioned in front of the window. On the wall above the beds, there is a framed picture and a wall-mounted light fixture. A telephone is visible on a nightstand between the two beds.: figure::>\n\n<a id='3781f2bf-51f9-4e80-b80c-92cbf53226b9'></a>\n\n_A great vacation area deserves a great vacation resort._\n\n<a id='3c642137-4e3c-4024-b73a-90cc3b66b984'></a>\n\nsuperb. 300 luxurious soundproof guest\nrooms, including 14 suites. Each with\nindividually-controlled air conditioning,\ncolor TV, oversized beds and tasteful decor.\nAnd amenities like a huge heated pool\nand pool deck, shops, covered outdoor\nwalkways and beautiful landscaping.\nConveniences like room service, car\nrental, laundry and dry cleaning, travel\nagency, theater tickets and free parking.\nAnd 10 meeting rooms for groups from\n20 to 1,200.\nBahia Mar. In scenic Fort Lauderdale.\nWhere you can enjoy a great ocean resort\nin an ideal resort city.\n\n<a id='57820185-123a-424a-be0a-60016c410c72'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lmmf0227",
+            "chunks": [
+                "b90cafca-a1e9-4fe3-92ba-47b836075a78",
+                "77aeb7f6-6b42-4e87-afc8-77a089968563",
+                "528e7400-270a-421d-8334-8a8170627afc",
+                "41db4270-feb4-484c-a213-49adb8129725",
+                "3781f2bf-51f9-4e80-b80c-92cbf53226b9",
+                "3c642137-4e3c-4024-b73a-90cc3b66b984",
+                "57820185-123a-424a-be0a-60016c410c72"
+            ]
+        }
+    ],
+    "grounding": {
+        "b90cafca-a1e9-4fe3-92ba-47b836075a78": {
+            "box": {
+                "left": 0.02327747642993927,
+                "top": 0.06467297673225403,
+                "right": 0.5075100660324097,
+                "bottom": 0.6775897741317749
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "77aeb7f6-6b42-4e87-afc8-77a089968563": {
+            "box": {
+                "left": 0.3326548933982849,
+                "top": 0.6899920701980591,
+                "right": 0.4951428771018982,
+                "bottom": 0.9461275339126587
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "528e7400-270a-421d-8334-8a8170627afc": {
+            "box": {
+                "left": 0.5097572803497314,
+                "top": 0.06576775014400482,
+                "right": 0.7824935913085938,
+                "bottom": 0.3889783024787903
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "41db4270-feb4-484c-a213-49adb8129725": {
+            "box": {
+                "left": 0.5070806741714478,
+                "top": 0.3901306390762329,
+                "right": 0.7772252559661865,
+                "bottom": 0.5496044158935547
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "3781f2bf-51f9-4e80-b80c-92cbf53226b9": {
+            "box": {
+                "left": 0.7820345759391785,
+                "top": 0.3932911157608032,
+                "right": 0.9132640957832336,
+                "bottom": 0.45890533924102783
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3c642137-4e3c-4024-b73a-90cc3b66b984": {
+            "box": {
+                "left": 0.5030233263969421,
+                "top": 0.5552817583084106,
+                "right": 0.8119673132896423,
+                "bottom": 0.7903103828430176
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "57820185-123a-424a-be0a-60016c410c72": {
+            "box": {
+                "left": 0.25408101081848145,
+                "top": 0.9770194292068481,
+                "right": 0.749627947807312,
+                "bottom": 0.9998131990432739
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lmmf0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6556,
+        "credit_usage": 3.0,
+        "job_id": "p3l03g03x9sv1ld3cls8maboe",
+        "version": "dpt-2-20250919"
+    }
+}

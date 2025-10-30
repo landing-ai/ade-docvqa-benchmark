@@ -1,0 +1,303 @@
+{
+    "markdown": "<a id='8fa67313-c36a-4325-bf05-faec3a13711d'></a>\n\nBAT SO'TON UK\n\n<a id='4b17d3cd-33f6-4a94-a498-3765b85ab33e'></a>\n\n--- \nTEL No.0703 780332\n\n<a id='4a451abc-1048-4caf-b4b0-517cd4251d95'></a>\n\n25.09.90 13:57 P.13\n\n<a id='e3b755a0-4721-486c-bca8-e105eec803e8'></a>\n\nQ.23\nWas yesterday/today typical? (65)\n\noption Typical: [x]\noption Not Typical: [ ] 2\n\n<a id='6241badb-ccf2-4267-98b8-8fbf738ce58c'></a>\n\nQ.24a\n\n**IF RESPONDENT WORKS**\nDoes anyone smoke in your place of work?\n                                (66)\nYES                             (1) GO TO Q.24b\nNO                              2 GO TO Q.25\n\n<a id='14db40d6-ea1b-401e-bf17-731cff00d979'></a>\n\nQ.24b\nIf yes\n1) How many smokers are there in your place of work?\n\n(67)(68)\n[ ] WRITE IN NUMBER\n\n11) How close does the nearest person work to you?\n(ESTIMATE IN FEET)\n___ X (69) Does not apply to 5 only\nno one works in this place\n\n111) And how large approximately is the area that you work in?\n\n<a id='d30a8e56-9f44-4359-aea1-9748df485a74'></a>\n\n(70)(71)(72)\n[ ] [ ] [ ] SQUARE FEET\n\n<a id='7c3014b1-3fa7-4c24-b2f6-5ac0e403b5a0'></a>\n\nselection\ncriteria 2.240\nDoes the company that you work for have a policy on smoking at\nwork?\n\n(73)\n\n<a id='d89a3d3a-7309-460e-b105-07a0504fd082'></a>\n\nQ.24d\n\noption YES: [ ] (73) Q.25\noption NO: [x] Q.24d\n\nIf yes\n\nWhat is the policy? (74)\nWRITE IN\n___\n___\n___ (75)\n\n<a id='b7a90d2c-39c2-4b42-8677-abbaeb42757f'></a>\n\nPUNCHER: REPEAT COLS 1-5\nPUNCH 3 ON COL 6\n\n<a id='cc60aac4-b4d0-4450-82cb-585991dffbf9'></a>\n\n50821 7255",
+    "chunks": [
+        {
+            "markdown": "<a id='8fa67313-c36a-4325-bf05-faec3a13711d'></a>\n\nBAT SO'TON UK",
+            "type": "marginalia",
+            "id": "8fa67313-c36a-4325-bf05-faec3a13711d",
+            "grounding": {
+                "box": {
+                    "left": 0.02693406492471695,
+                    "top": 0.0010488461703062057,
+                    "right": 0.18419137597084045,
+                    "bottom": 0.01937304064631462
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4b17d3cd-33f6-4a94-a498-3765b85ab33e'></a>\n\n--- \nTEL No.0703 780332",
+            "type": "text",
+            "id": "4b17d3cd-33f6-4a94-a498-3765b85ab33e",
+            "grounding": {
+                "box": {
+                    "left": 0.34364625811576843,
+                    "top": 0.0009172242134809494,
+                    "right": 0.5646489858627319,
+                    "bottom": 0.020776918157935143
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4a451abc-1048-4caf-b4b0-517cd4251d95'></a>\n\n25.09.90 13:57 P.13",
+            "type": "marginalia",
+            "id": "4a451abc-1048-4caf-b4b0-517cd4251d95",
+            "grounding": {
+                "box": {
+                    "left": 0.6697462797164917,
+                    "top": 0.001318388618528843,
+                    "right": 0.9266602993011475,
+                    "bottom": 0.021786049008369446
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e3b755a0-4721-486c-bca8-e105eec803e8'></a>\n\nQ.23\nWas yesterday/today typical? (65)\n\noption Typical: [x]\noption Not Typical: [ ] 2",
+            "type": "text",
+            "id": "e3b755a0-4721-486c-bca8-e105eec803e8",
+            "grounding": {
+                "box": {
+                    "left": 0.12197926640510559,
+                    "top": 0.11872687935829163,
+                    "right": 0.5919584035873413,
+                    "bottom": 0.20809340476989746
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6241badb-ccf2-4267-98b8-8fbf738ce58c'></a>\n\nQ.24a\n\n**IF RESPONDENT WORKS**\nDoes anyone smoke in your place of work?\n                                (66)\nYES                             (1) GO TO Q.24b\nNO                              2 GO TO Q.25",
+            "type": "text",
+            "id": "6241badb-ccf2-4267-98b8-8fbf738ce58c",
+            "grounding": {
+                "box": {
+                    "left": 0.12502983212471008,
+                    "top": 0.1982126235961914,
+                    "right": 0.7898977994918823,
+                    "bottom": 0.3023344874382019
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='14db40d6-ea1b-401e-bf17-731cff00d979'></a>\n\nQ.24b\nIf yes\n1) How many smokers are there in your place of work?\n\n(67)(68)\n[ ] WRITE IN NUMBER\n\n11) How close does the nearest person work to you?\n(ESTIMATE IN FEET)\n___ X (69) Does not apply to 5 only\nno one works in this place\n\n111) And how large approximately is the area that you work in?",
+            "type": "text",
+            "id": "14db40d6-ea1b-401e-bf17-731cff00d979",
+            "grounding": {
+                "box": {
+                    "left": 0.12440183758735657,
+                    "top": 0.306033730506897,
+                    "right": 0.9292457103729248,
+                    "bottom": 0.505153238773346
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d30a8e56-9f44-4359-aea1-9748df485a74'></a>\n\n(70)(71)(72)\n[ ] [ ] [ ] SQUARE FEET",
+            "type": "text",
+            "id": "d30a8e56-9f44-4359-aea1-9748df485a74",
+            "grounding": {
+                "box": {
+                    "left": 0.22814247012138367,
+                    "top": 0.5079045295715332,
+                    "right": 0.5614902973175049,
+                    "bottom": 0.5541374683380127
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7c3014b1-3fa7-4c24-b2f6-5ac0e403b5a0'></a>\n\nselection\ncriteria 2.240\nDoes the company that you work for have a policy on smoking at\nwork?\n\n(73)",
+            "type": "text",
+            "id": "7c3014b1-3fa7-4c24-b2f6-5ac0e403b5a0",
+            "grounding": {
+                "box": {
+                    "left": 0.007920295000076294,
+                    "top": 0.5452404022216797,
+                    "right": 0.9275439977645874,
+                    "bottom": 0.6412092447280884
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d89a3d3a-7309-460e-b105-07a0504fd082'></a>\n\nQ.24d\n\noption YES: [ ] (73) Q.25\noption NO: [x] Q.24d\n\nIf yes\n\nWhat is the policy? (74)\nWRITE IN\n___\n___\n___ (75)",
+            "type": "text",
+            "id": "d89a3d3a-7309-460e-b105-07a0504fd082",
+            "grounding": {
+                "box": {
+                    "left": 0.1276448667049408,
+                    "top": 0.6275148987770081,
+                    "right": 0.8008207082748413,
+                    "bottom": 0.785365879535675
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b7a90d2c-39c2-4b42-8677-abbaeb42757f'></a>\n\nPUNCHER: REPEAT COLS 1-5\nPUNCH 3 ON COL 6",
+            "type": "text",
+            "id": "b7a90d2c-39c2-4b42-8677-abbaeb42757f",
+            "grounding": {
+                "box": {
+                    "left": 0.15446415543556213,
+                    "top": 0.7843918800354004,
+                    "right": 0.49683746695518494,
+                    "bottom": 0.8321614265441895
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cc60aac4-b4d0-4450-82cb-585991dffbf9'></a>\n\n50821 7255",
+            "type": "marginalia",
+            "id": "cc60aac4-b4d0-4450-82cb-585991dffbf9",
+            "grounding": {
+                "box": {
+                    "left": 0.9360738396644592,
+                    "top": 0.8620839715003967,
+                    "right": 0.9648712277412415,
+                    "bottom": 0.9610174298286438
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='8fa67313-c36a-4325-bf05-faec3a13711d'></a>\n\nBAT SO'TON UK\n\n<a id='4b17d3cd-33f6-4a94-a498-3765b85ab33e'></a>\n\n--- \nTEL No.0703 780332\n\n<a id='4a451abc-1048-4caf-b4b0-517cd4251d95'></a>\n\n25.09.90 13:57 P.13\n\n<a id='e3b755a0-4721-486c-bca8-e105eec803e8'></a>\n\nQ.23\nWas yesterday/today typical? (65)\n\noption Typical: [x]\noption Not Typical: [ ] 2\n\n<a id='6241badb-ccf2-4267-98b8-8fbf738ce58c'></a>\n\nQ.24a\n\n**IF RESPONDENT WORKS**\nDoes anyone smoke in your place of work?\n                                (66)\nYES                             (1) GO TO Q.24b\nNO                              2 GO TO Q.25\n\n<a id='14db40d6-ea1b-401e-bf17-731cff00d979'></a>\n\nQ.24b\nIf yes\n1) How many smokers are there in your place of work?\n\n(67)(68)\n[ ] WRITE IN NUMBER\n\n11) How close does the nearest person work to you?\n(ESTIMATE IN FEET)\n___ X (69) Does not apply to 5 only\nno one works in this place\n\n111) And how large approximately is the area that you work in?\n\n<a id='d30a8e56-9f44-4359-aea1-9748df485a74'></a>\n\n(70)(71)(72)\n[ ] [ ] [ ] SQUARE FEET\n\n<a id='7c3014b1-3fa7-4c24-b2f6-5ac0e403b5a0'></a>\n\nselection\ncriteria 2.240\nDoes the company that you work for have a policy on smoking at\nwork?\n\n(73)\n\n<a id='d89a3d3a-7309-460e-b105-07a0504fd082'></a>\n\nQ.24d\n\noption YES: [ ] (73) Q.25\noption NO: [x] Q.24d\n\nIf yes\n\nWhat is the policy? (74)\nWRITE IN\n___\n___\n___ (75)\n\n<a id='b7a90d2c-39c2-4b42-8677-abbaeb42757f'></a>\n\nPUNCHER: REPEAT COLS 1-5\nPUNCH 3 ON COL 6\n\n<a id='cc60aac4-b4d0-4450-82cb-585991dffbf9'></a>\n\n50821 7255",
+            "chunks": [
+                "8fa67313-c36a-4325-bf05-faec3a13711d",
+                "4b17d3cd-33f6-4a94-a498-3765b85ab33e",
+                "4a451abc-1048-4caf-b4b0-517cd4251d95",
+                "e3b755a0-4721-486c-bca8-e105eec803e8",
+                "6241badb-ccf2-4267-98b8-8fbf738ce58c",
+                "14db40d6-ea1b-401e-bf17-731cff00d979",
+                "d30a8e56-9f44-4359-aea1-9748df485a74",
+                "7c3014b1-3fa7-4c24-b2f6-5ac0e403b5a0",
+                "d89a3d3a-7309-460e-b105-07a0504fd082",
+                "b7a90d2c-39c2-4b42-8677-abbaeb42757f",
+                "cc60aac4-b4d0-4450-82cb-585991dffbf9"
+            ]
+        }
+    ],
+    "grounding": {
+        "8fa67313-c36a-4325-bf05-faec3a13711d": {
+            "box": {
+                "left": 0.02693406492471695,
+                "top": 0.0010488461703062057,
+                "right": 0.18419137597084045,
+                "bottom": 0.01937304064631462
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "4b17d3cd-33f6-4a94-a498-3765b85ab33e": {
+            "box": {
+                "left": 0.34364625811576843,
+                "top": 0.0009172242134809494,
+                "right": 0.5646489858627319,
+                "bottom": 0.020776918157935143
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4a451abc-1048-4caf-b4b0-517cd4251d95": {
+            "box": {
+                "left": 0.6697462797164917,
+                "top": 0.001318388618528843,
+                "right": 0.9266602993011475,
+                "bottom": 0.021786049008369446
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "e3b755a0-4721-486c-bca8-e105eec803e8": {
+            "box": {
+                "left": 0.12197926640510559,
+                "top": 0.11872687935829163,
+                "right": 0.5919584035873413,
+                "bottom": 0.20809340476989746
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6241badb-ccf2-4267-98b8-8fbf738ce58c": {
+            "box": {
+                "left": 0.12502983212471008,
+                "top": 0.1982126235961914,
+                "right": 0.7898977994918823,
+                "bottom": 0.3023344874382019
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "14db40d6-ea1b-401e-bf17-731cff00d979": {
+            "box": {
+                "left": 0.12440183758735657,
+                "top": 0.306033730506897,
+                "right": 0.9292457103729248,
+                "bottom": 0.505153238773346
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d30a8e56-9f44-4359-aea1-9748df485a74": {
+            "box": {
+                "left": 0.22814247012138367,
+                "top": 0.5079045295715332,
+                "right": 0.5614902973175049,
+                "bottom": 0.5541374683380127
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7c3014b1-3fa7-4c24-b2f6-5ac0e403b5a0": {
+            "box": {
+                "left": 0.007920295000076294,
+                "top": 0.5452404022216797,
+                "right": 0.9275439977645874,
+                "bottom": 0.6412092447280884
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d89a3d3a-7309-460e-b105-07a0504fd082": {
+            "box": {
+                "left": 0.1276448667049408,
+                "top": 0.6275148987770081,
+                "right": 0.8008207082748413,
+                "bottom": 0.785365879535675
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b7a90d2c-39c2-4b42-8677-abbaeb42757f": {
+            "box": {
+                "left": 0.15446415543556213,
+                "top": 0.7843918800354004,
+                "right": 0.49683746695518494,
+                "bottom": 0.8321614265441895
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cc60aac4-b4d0-4450-82cb-585991dffbf9": {
+            "box": {
+                "left": 0.9360738396644592,
+                "top": 0.8620839715003967,
+                "right": 0.9648712277412415,
+                "bottom": 0.9610174298286438
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "qfpd0079_14.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9286,
+        "credit_usage": 3.0,
+        "job_id": "m8u3xvjv0t5ismgxypzbu8fa2",
+        "version": "dpt-2-20250919"
+    }
+}

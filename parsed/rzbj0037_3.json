@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='103562f0-d270-4895-8a61-c8d0509d1569'></a>\n\n<::logo: B&W\nB&W\nThe logo features three stylized black leaves arranged in a fan-like pattern above the text \"B&W\".::>\n\n<a id='78ac0508-d192-45c9-a946-817b11ca1254'></a>\n\nConsumer Dynamics\nKOOL\n\n<a id='3e989029-ab3a-47a1-a1dd-7c31c3b4f085'></a>\n\n1994 vs. 1995\n\n<a id='5aa2e7c6-e152-4494-ab50-ca0b1759eb2f'></a>\n\n<table><thead><tr><th></th><th>1994</th><th>1995</th></tr></thead><tbody><tr><td>\u2022 Retention of Franchise:</td><td>80.7%</td><td>83.6%</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;\u25b8 Rate of Switching Losses</td><td>14.1%</td><td>10.3%</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;\u25b8 Rate of Quitting Losses</td><td>5.3%</td><td>6.1%</td></tr><tr><td>\u2022 Single Brand Users in the Franchise:</td><td>75.7%</td><td>78.2%</td></tr><tr><td>\u2022 Share of Industry Switchers Gained:</td><td>0.7%</td><td>0.8%</td></tr><tr><td>\u2022 Share of the 21-25 Segment:</td><td>1.0%</td><td>1.0%</td></tr></tbody><tfoot><tr><td colspan=\"3\">Source: USMM</td></tr></tfoot></table>\n\n<a id='7c8f32c2-2d19-4ffe-b2fd-ee37b1e1194f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rzbj0037\n\n<a id='60229c8c-cd6f-41bc-b192-1918c33d9ca5'></a>\n\n314002832",
+    "chunks": [
+        {
+            "markdown": "<a id='103562f0-d270-4895-8a61-c8d0509d1569'></a>\n\n<::logo: B&W\nB&W\nThe logo features three stylized black leaves arranged in a fan-like pattern above the text \"B&W\".::>",
+            "type": "logo",
+            "id": "103562f0-d270-4895-8a61-c8d0509d1569",
+            "grounding": {
+                "box": {
+                    "left": 0.2270139902830124,
+                    "top": 0.1902417093515396,
+                    "right": 0.3220767378807068,
+                    "bottom": 0.29666081070899963
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='78ac0508-d192-45c9-a946-817b11ca1254'></a>\n\nConsumer Dynamics\nKOOL",
+            "type": "text",
+            "id": "78ac0508-d192-45c9-a946-817b11ca1254",
+            "grounding": {
+                "box": {
+                    "left": 0.38302478194236755,
+                    "top": 0.19838201999664307,
+                    "right": 0.7154785394668579,
+                    "bottom": 0.29927581548690796
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3e989029-ab3a-47a1-a1dd-7c31c3b4f085'></a>\n\n1994 vs. 1995",
+            "type": "text",
+            "id": "3e989029-ab3a-47a1-a1dd-7c31c3b4f085",
+            "grounding": {
+                "box": {
+                    "left": 0.4138386845588684,
+                    "top": 0.3237425684928894,
+                    "right": 0.6269451975822449,
+                    "bottom": 0.3806784749031067
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5aa2e7c6-e152-4494-ab50-ca0b1759eb2f'></a>\n\n<table><thead><tr><th></th><th>1994</th><th>1995</th></tr></thead><tbody><tr><td>\u2022 Retention of Franchise:</td><td>80.7%</td><td>83.6%</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;\u25b8 Rate of Switching Losses</td><td>14.1%</td><td>10.3%</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;\u25b8 Rate of Quitting Losses</td><td>5.3%</td><td>6.1%</td></tr><tr><td>\u2022 Single Brand Users in the Franchise:</td><td>75.7%</td><td>78.2%</td></tr><tr><td>\u2022 Share of Industry Switchers Gained:</td><td>0.7%</td><td>0.8%</td></tr><tr><td>\u2022 Share of the 21-25 Segment:</td><td>1.0%</td><td>1.0%</td></tr></tbody><tfoot><tr><td colspan=\"3\">Source: USMM</td></tr></tfoot></table>",
+            "type": "table",
+            "id": "5aa2e7c6-e152-4494-ab50-ca0b1759eb2f",
+            "grounding": {
+                "box": {
+                    "left": 0.23621201515197754,
+                    "top": 0.3975188732147217,
+                    "right": 0.7703218460083008,
+                    "bottom": 0.7982600927352905
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7c8f32c2-2d19-4ffe-b2fd-ee37b1e1194f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rzbj0037",
+            "type": "marginalia",
+            "id": "7c8f32c2-2d19-4ffe-b2fd-ee37b1e1194f",
+            "grounding": {
+                "box": {
+                    "left": 0.2709001898765564,
+                    "top": 0.9685877561569214,
+                    "right": 0.7279626727104187,
+                    "bottom": 1.0001397132873535
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='60229c8c-cd6f-41bc-b192-1918c33d9ca5'></a>\n\n314002832",
+            "type": "text",
+            "id": "60229c8c-cd6f-41bc-b192-1918c33d9ca5",
+            "grounding": {
+                "box": {
+                    "left": 0.11437465995550156,
+                    "top": 0.7368984818458557,
+                    "right": 0.14269360899925232,
+                    "bottom": 0.9037625193595886
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='103562f0-d270-4895-8a61-c8d0509d1569'></a>\n\n<::logo: B&W\nB&W\nThe logo features three stylized black leaves arranged in a fan-like pattern above the text \"B&W\".::>\n\n<a id='78ac0508-d192-45c9-a946-817b11ca1254'></a>\n\nConsumer Dynamics\nKOOL\n\n<a id='3e989029-ab3a-47a1-a1dd-7c31c3b4f085'></a>\n\n1994 vs. 1995\n\n<a id='5aa2e7c6-e152-4494-ab50-ca0b1759eb2f'></a>\n\n<table><thead><tr><th></th><th>1994</th><th>1995</th></tr></thead><tbody><tr><td>\u2022 Retention of Franchise:</td><td>80.7%</td><td>83.6%</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;\u25b8 Rate of Switching Losses</td><td>14.1%</td><td>10.3%</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;\u25b8 Rate of Quitting Losses</td><td>5.3%</td><td>6.1%</td></tr><tr><td>\u2022 Single Brand Users in the Franchise:</td><td>75.7%</td><td>78.2%</td></tr><tr><td>\u2022 Share of Industry Switchers Gained:</td><td>0.7%</td><td>0.8%</td></tr><tr><td>\u2022 Share of the 21-25 Segment:</td><td>1.0%</td><td>1.0%</td></tr></tbody><tfoot><tr><td colspan=\"3\">Source: USMM</td></tr></tfoot></table>\n\n<a id='7c8f32c2-2d19-4ffe-b2fd-ee37b1e1194f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rzbj0037\n\n<a id='60229c8c-cd6f-41bc-b192-1918c33d9ca5'></a>\n\n314002832",
+            "chunks": [
+                "103562f0-d270-4895-8a61-c8d0509d1569",
+                "78ac0508-d192-45c9-a946-817b11ca1254",
+                "3e989029-ab3a-47a1-a1dd-7c31c3b4f085",
+                "5aa2e7c6-e152-4494-ab50-ca0b1759eb2f",
+                "7c8f32c2-2d19-4ffe-b2fd-ee37b1e1194f",
+                "60229c8c-cd6f-41bc-b192-1918c33d9ca5"
+            ]
+        }
+    ],
+    "grounding": {
+        "103562f0-d270-4895-8a61-c8d0509d1569": {
+            "box": {
+                "left": 0.2270139902830124,
+                "top": 0.1902417093515396,
+                "right": 0.3220767378807068,
+                "bottom": 0.29666081070899963
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "78ac0508-d192-45c9-a946-817b11ca1254": {
+            "box": {
+                "left": 0.38302478194236755,
+                "top": 0.19838201999664307,
+                "right": 0.7154785394668579,
+                "bottom": 0.29927581548690796
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3e989029-ab3a-47a1-a1dd-7c31c3b4f085": {
+            "box": {
+                "left": 0.4138386845588684,
+                "top": 0.3237425684928894,
+                "right": 0.6269451975822449,
+                "bottom": 0.3806784749031067
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5aa2e7c6-e152-4494-ab50-ca0b1759eb2f": {
+            "box": {
+                "left": 0.23621201515197754,
+                "top": 0.3975188732147217,
+                "right": 0.7703218460083008,
+                "bottom": 0.7982600927352905
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "7c8f32c2-2d19-4ffe-b2fd-ee37b1e1194f": {
+            "box": {
+                "left": 0.2709001898765564,
+                "top": 0.9685877561569214,
+                "right": 0.7279626727104187,
+                "bottom": 1.0001397132873535
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "60229c8c-cd6f-41bc-b192-1918c33d9ca5": {
+            "box": {
+                "left": 0.11437465995550156,
+                "top": 0.7368984818458557,
+                "right": 0.14269360899925232,
+                "bottom": 0.9037625193595886
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rzbj0037_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9085,
+        "credit_usage": 3.0,
+        "job_id": "ux9biklw2gy72wycoy5bzdkjg",
+        "version": "dpt-2-20250919"
+    }
+}

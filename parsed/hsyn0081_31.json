@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='050e1e0e-a28a-49e8-801f-b9e9e8db8fc3'></a>\n\nTACO BELL\n\n<a id='fc7d4f3f-cef4-4561-b8c8-5839d1502135'></a>\n\n4. 1993 FORECAST:\n\n* Analysts forecast significantly reduced growth\n* Slowed Expansion\n* Leveled off automation efficiencies\n* As competitor's joined the price war, Taco Bell's strong consumer base decreased.\n\n<a id='399ce067-dd2c-4d17-83e3-d7d6a2365e95'></a>\n\nSource: Investor's Business Daily\n\n<a id='44584dda-b170-47dc-8750-09e08ad13b22'></a>\n\n51336 9541\n\n<a id='ab38bfaa-900c-4981-aa4d-e5e8951ff049'></a>\n\n31",
+    "chunks": [
+        {
+            "markdown": "<a id='050e1e0e-a28a-49e8-801f-b9e9e8db8fc3'></a>\n\nTACO BELL",
+            "type": "text",
+            "id": "050e1e0e-a28a-49e8-801f-b9e9e8db8fc3",
+            "grounding": {
+                "box": {
+                    "left": 0.09705893695354462,
+                    "top": 0.1340673416852951,
+                    "right": 0.2007453292608261,
+                    "bottom": 0.16876880824565887
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fc7d4f3f-cef4-4561-b8c8-5839d1502135'></a>\n\n4. 1993 FORECAST:\n\n* Analysts forecast significantly reduced growth\n* Slowed Expansion\n* Leveled off automation efficiencies\n* As competitor's joined the price war, Taco Bell's strong consumer base decreased.",
+            "type": "text",
+            "id": "fc7d4f3f-cef4-4561-b8c8-5839d1502135",
+            "grounding": {
+                "box": {
+                    "left": 0.17584383487701416,
+                    "top": 0.2021275907754898,
+                    "right": 0.8209810256958008,
+                    "bottom": 0.5611764788627625
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='399ce067-dd2c-4d17-83e3-d7d6a2365e95'></a>\n\nSource: Investor's Business Daily",
+            "type": "marginalia",
+            "id": "399ce067-dd2c-4d17-83e3-d7d6a2365e95",
+            "grounding": {
+                "box": {
+                    "left": 0.10012223571538925,
+                    "top": 0.8728345632553101,
+                    "right": 0.2950146198272705,
+                    "bottom": 0.8995152711868286
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='44584dda-b170-47dc-8750-09e08ad13b22'></a>\n\n51336 9541",
+            "type": "marginalia",
+            "id": "44584dda-b170-47dc-8750-09e08ad13b22",
+            "grounding": {
+                "box": {
+                    "left": 0.026461265981197357,
+                    "top": 0.9502222537994385,
+                    "right": 0.12525734305381775,
+                    "bottom": 0.9790771007537842
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ab38bfaa-900c-4981-aa4d-e5e8951ff049'></a>\n\n31",
+            "type": "marginalia",
+            "id": "ab38bfaa-900c-4981-aa4d-e5e8951ff049",
+            "grounding": {
+                "box": {
+                    "left": 0.9769561886787415,
+                    "top": 0.9540264010429382,
+                    "right": 0.9944362044334412,
+                    "bottom": 0.981025755405426
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='050e1e0e-a28a-49e8-801f-b9e9e8db8fc3'></a>\n\nTACO BELL\n\n<a id='fc7d4f3f-cef4-4561-b8c8-5839d1502135'></a>\n\n4. 1993 FORECAST:\n\n* Analysts forecast significantly reduced growth\n* Slowed Expansion\n* Leveled off automation efficiencies\n* As competitor's joined the price war, Taco Bell's strong consumer base decreased.\n\n<a id='399ce067-dd2c-4d17-83e3-d7d6a2365e95'></a>\n\nSource: Investor's Business Daily\n\n<a id='44584dda-b170-47dc-8750-09e08ad13b22'></a>\n\n51336 9541\n\n<a id='ab38bfaa-900c-4981-aa4d-e5e8951ff049'></a>\n\n31",
+            "chunks": [
+                "050e1e0e-a28a-49e8-801f-b9e9e8db8fc3",
+                "fc7d4f3f-cef4-4561-b8c8-5839d1502135",
+                "399ce067-dd2c-4d17-83e3-d7d6a2365e95",
+                "44584dda-b170-47dc-8750-09e08ad13b22",
+                "ab38bfaa-900c-4981-aa4d-e5e8951ff049"
+            ]
+        }
+    ],
+    "grounding": {
+        "050e1e0e-a28a-49e8-801f-b9e9e8db8fc3": {
+            "box": {
+                "left": 0.09705893695354462,
+                "top": 0.1340673416852951,
+                "right": 0.2007453292608261,
+                "bottom": 0.16876880824565887
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fc7d4f3f-cef4-4561-b8c8-5839d1502135": {
+            "box": {
+                "left": 0.17584383487701416,
+                "top": 0.2021275907754898,
+                "right": 0.8209810256958008,
+                "bottom": 0.5611764788627625
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "399ce067-dd2c-4d17-83e3-d7d6a2365e95": {
+            "box": {
+                "left": 0.10012223571538925,
+                "top": 0.8728345632553101,
+                "right": 0.2950146198272705,
+                "bottom": 0.8995152711868286
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "44584dda-b170-47dc-8750-09e08ad13b22": {
+            "box": {
+                "left": 0.026461265981197357,
+                "top": 0.9502222537994385,
+                "right": 0.12525734305381775,
+                "bottom": 0.9790771007537842
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "ab38bfaa-900c-4981-aa4d-e5e8951ff049": {
+            "box": {
+                "left": 0.9769561886787415,
+                "top": 0.9540264010429382,
+                "right": 0.9944362044334412,
+                "bottom": 0.981025755405426
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hsyn0081_31.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4734,
+        "credit_usage": 3.0,
+        "job_id": "bxb77exb0z7vtxks9zgfcn3k8",
+        "version": "dpt-2-20250919"
+    }
+}

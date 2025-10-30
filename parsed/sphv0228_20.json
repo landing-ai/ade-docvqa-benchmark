@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='ae965080-a5de-433d-bc05-dc6ffb47630c'></a>\n\n<::flowchart\n: CENTRAL NERVOUS SYSTEM\n:   \u2193 (dashed arrow)\n: HYPOTHALAMUS\n:   \u2193 (solid arrow, labeled \"THYROTROPIN RELEASE HORMONE\")\n: ANTERIOR PITUITARY\n:   \u2193 (solid arrow, labeled \"THYROID STIMULATING HORMONE (TSH)\")\n: THYROID\n:   - Left section: ACTIVATED I\n:     \u2191 (solid arrow, labeled \"(PEROXIDASE)\")\n:     IODIDE\n:       - This step is BLOCKED BY THIOUREA DERIVATIVES (dashed line)\n:   - Right section: RESERVE OF PRE-FORMED T\u2083, T\u2084\n:     \u2193 (solid arrow, labeled \"T\u2083, T\u2084\")\n:     CIRCULATION\n:   - Feedback loop from T\u2083, T\u2084 (from THYROID) to ANTERIOR PITUITARY (dashed arrow, labeled \"TSH INCREASED BY LOW T\u2083, T\u2084\")\n:   - Feedback loop from THYROID (ACTIVATED I) to THYROID (RESERVE OF PRE-FORMED T\u2083, T\u2084) (dashed arrow)\n: flowchart::>\n\n<a id='cf089060-6e27-43e6-9c4c-a9b0f4927b38'></a>\n\nFIGURE 6",
+    "chunks": [
+        {
+            "markdown": "<a id='ae965080-a5de-433d-bc05-dc6ffb47630c'></a>\n\n<::flowchart\n: CENTRAL NERVOUS SYSTEM\n:   \u2193 (dashed arrow)\n: HYPOTHALAMUS\n:   \u2193 (solid arrow, labeled \"THYROTROPIN RELEASE HORMONE\")\n: ANTERIOR PITUITARY\n:   \u2193 (solid arrow, labeled \"THYROID STIMULATING HORMONE (TSH)\")\n: THYROID\n:   - Left section: ACTIVATED I\n:     \u2191 (solid arrow, labeled \"(PEROXIDASE)\")\n:     IODIDE\n:       - This step is BLOCKED BY THIOUREA DERIVATIVES (dashed line)\n:   - Right section: RESERVE OF PRE-FORMED T\u2083, T\u2084\n:     \u2193 (solid arrow, labeled \"T\u2083, T\u2084\")\n:     CIRCULATION\n:   - Feedback loop from T\u2083, T\u2084 (from THYROID) to ANTERIOR PITUITARY (dashed arrow, labeled \"TSH INCREASED BY LOW T\u2083, T\u2084\")\n:   - Feedback loop from THYROID (ACTIVATED I) to THYROID (RESERVE OF PRE-FORMED T\u2083, T\u2084) (dashed arrow)\n: flowchart::>",
+            "type": "figure",
+            "id": "ae965080-a5de-433d-bc05-dc6ffb47630c",
+            "grounding": {
+                "box": {
+                    "left": 0.14897072315216064,
+                    "top": 0.08274519443511963,
+                    "right": 0.9870294332504272,
+                    "bottom": 0.8758135437965393
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cf089060-6e27-43e6-9c4c-a9b0f4927b38'></a>\n\nFIGURE 6",
+            "type": "text",
+            "id": "cf089060-6e27-43e6-9c4c-a9b0f4927b38",
+            "grounding": {
+                "box": {
+                    "left": 0.36278700828552246,
+                    "top": 0.9091277718544006,
+                    "right": 0.5177628993988037,
+                    "bottom": 0.9545695185661316
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ae965080-a5de-433d-bc05-dc6ffb47630c'></a>\n\n<::flowchart\n: CENTRAL NERVOUS SYSTEM\n:   \u2193 (dashed arrow)\n: HYPOTHALAMUS\n:   \u2193 (solid arrow, labeled \"THYROTROPIN RELEASE HORMONE\")\n: ANTERIOR PITUITARY\n:   \u2193 (solid arrow, labeled \"THYROID STIMULATING HORMONE (TSH)\")\n: THYROID\n:   - Left section: ACTIVATED I\n:     \u2191 (solid arrow, labeled \"(PEROXIDASE)\")\n:     IODIDE\n:       - This step is BLOCKED BY THIOUREA DERIVATIVES (dashed line)\n:   - Right section: RESERVE OF PRE-FORMED T\u2083, T\u2084\n:     \u2193 (solid arrow, labeled \"T\u2083, T\u2084\")\n:     CIRCULATION\n:   - Feedback loop from T\u2083, T\u2084 (from THYROID) to ANTERIOR PITUITARY (dashed arrow, labeled \"TSH INCREASED BY LOW T\u2083, T\u2084\")\n:   - Feedback loop from THYROID (ACTIVATED I) to THYROID (RESERVE OF PRE-FORMED T\u2083, T\u2084) (dashed arrow)\n: flowchart::>\n\n<a id='cf089060-6e27-43e6-9c4c-a9b0f4927b38'></a>\n\nFIGURE 6",
+            "chunks": [
+                "ae965080-a5de-433d-bc05-dc6ffb47630c",
+                "cf089060-6e27-43e6-9c4c-a9b0f4927b38"
+            ]
+        }
+    ],
+    "grounding": {
+        "ae965080-a5de-433d-bc05-dc6ffb47630c": {
+            "box": {
+                "left": 0.14897072315216064,
+                "top": 0.08274519443511963,
+                "right": 0.9870294332504272,
+                "bottom": 0.8758135437965393
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "cf089060-6e27-43e6-9c4c-a9b0f4927b38": {
+            "box": {
+                "left": 0.36278700828552246,
+                "top": 0.9091277718544006,
+                "right": 0.5177628993988037,
+                "bottom": 0.9545695185661316
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "sphv0228_20.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10306,
+        "credit_usage": 3.0,
+        "job_id": "bmnbgr21zdo71g0j5of5aa2h2",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,528 @@
+{
+    "markdown": "<a id='88f4aeab-4eec-4db2-93b8-b4c646c55385'></a>\n\n5/80\n\n<a id='0040a2ce-4afb-418b-8022-297037896161'></a>\n\n<table><thead><tr><th></th><th></th><th>G.P.</th><th>Spec.</th></tr></thead><tbody><tr><td>59540</td><td>Cesarean section, extraperitoneal, including in-hospital postpartum care (separate procedure)</td><td>240.00</td><td>300.00</td></tr><tr><td>59560</td><td>Cesarean section with hysterectomy, subtotal, including in-hospital postpartum care (separate procedure)</td><td>240.00</td><td>300.00</td></tr><tr><td>59580</td><td>Cesarean section with hysterectomy, total, including in-hospital postpartum care (separate procedure)</td><td>240.00</td><td>300.00</td></tr></tbody></table>\n\n<a id='6d09d7c0-0a2a-4998-9274-e9d8b68b2947'></a>\n\nAbortion*\n\n<table><thead><tr><th>Code</th><th>Description</th><th>Price&nbsp;1</th><th>Price&nbsp;2</th></tr></thead><tbody><tr><td>59820</td><td>Treatment of missed abortion, any<br>trimester, completed medically or<br>surgically</td><td>72.00</td><td>83.00</td></tr><tr><td>59830</td><td>Treatment of septic abortion</td><td>By&nbsp;Report</td><td></td></tr><tr><td>59840</td><td>Legal (therapeutic) abortion,<br>completed with dilation and<br>curettage, and/or vacuum extraction</td><td></td><td>75.00</td></tr><tr><td>59850</td><td>Legal (therapeutic) abortion, by<br>one or more intra-amniotic injections</td><td></td><td>75.00</td></tr><tr><td>59851</td><td>with dilation and curettage</td><td></td><td>75.00</td></tr></tbody></table>\n\n<a id='a6814f49-2490-4c1a-bc9c-e3af7b83f96e'></a>\n\nNervous System\n\n<a id='a47a6892-13d5-4242-9209-ced535e410f3'></a>\n\nSpine and Spinal Cord\n\n<a id='d02ad710-edeb-44cd-889f-492c43bb7edf'></a>\n\nLaminectomy or Laminotomy\nFor Exploration or Decompression\n<table id=\"0-1\">\n<tr><td id=\"0-2\">63020</td><td id=\"0-3\">Laminotomy (hemilaminectomy), for herniated intervertebral disk, and/or decompression of nerve root; one interspace, cervical, unilateral</td><td id=\"0-4\">400.00</td><td id=\"0-5\">400.00</td></tr>\n<tr><td id=\"0-6\">63021</td><td id=\"0-7\">One interspace, cervical, bilateral</td><td id=\"0-8\">400.00</td><td id=\"0-9\">400.00</td></tr>\n<tr><td id=\"0-a\">63030</td><td id=\"0-b\">One interspace, lumbar, unilateral</td><td id=\"0-c\">400.00</td><td id=\"0-d\">400.00</td></tr>\n<tr><td id=\"0-e\">63031</td><td id=\"0-f\">One interspace, lumbar, bilateral</td><td id=\"0-g\">400.00</td><td id=\"0-h\">400.00</td></tr>\n<tr><td id=\"0-i\">63035</td><td id=\"0-j\">Additional interspaces, cervical or lumbar</td><td id=\"0-k\">400.00</td><td id=\"0-l\">400.00</td></tr>\n<tr><td id=\"0-m\" rowspan=\"2\">63040</td><td id=\"0-n\" rowspan=\"2\">Laminotomy (hemilaminectomy), for herniated inververtebral disk, and/or decompression of nerve root, any level, extensive or re-exploration; cervical</td><td id=\"0-o\" rowspan=\"2\" colspan=\"2\">By Report</td></tr>\n<tr><td id=\"0-p\">63041</td><td id=\"0-q\">Thoracic</td><td id=\"0-r\" colspan=\"2\">By Report</td></tr>\n<tr><td id=\"0-s\">63042</td><td id=\"0-t\">Lumbar</td><td id=\"0-u\" colspan=\"2\">By Report</td></tr>\n</table>\n\n<a id='438bc416-78f2-43f6-9bc1-bdd64aa08bcc'></a>\n\nMO MEDICAID PROVIDER MANUAL\nPHYSICIAN - PROCEDURE CODES\n19-44\n\n<a id='cacfbb55-1970-4a34-b063-a9580b1b8737'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nlcf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='88f4aeab-4eec-4db2-93b8-b4c646c55385'></a>\n\n5/80",
+            "type": "text",
+            "id": "88f4aeab-4eec-4db2-93b8-b4c646c55385",
+            "grounding": {
+                "box": {
+                    "left": 0.14933501183986664,
+                    "top": 0.04352625459432602,
+                    "right": 0.19376634061336517,
+                    "bottom": 0.061635397374629974
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0040a2ce-4afb-418b-8022-297037896161'></a>\n\n<table><thead><tr><th></th><th></th><th>G.P.</th><th>Spec.</th></tr></thead><tbody><tr><td>59540</td><td>Cesarean section, extraperitoneal, including in-hospital postpartum care (separate procedure)</td><td>240.00</td><td>300.00</td></tr><tr><td>59560</td><td>Cesarean section with hysterectomy, subtotal, including in-hospital postpartum care (separate procedure)</td><td>240.00</td><td>300.00</td></tr><tr><td>59580</td><td>Cesarean section with hysterectomy, total, including in-hospital postpartum care (separate procedure)</td><td>240.00</td><td>300.00</td></tr></tbody></table>",
+            "type": "table",
+            "id": "0040a2ce-4afb-418b-8022-297037896161",
+            "grounding": {
+                "box": {
+                    "left": 0.18072468042373657,
+                    "top": 0.10183684527873993,
+                    "right": 0.8789387345314026,
+                    "bottom": 0.267306923866272
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6d09d7c0-0a2a-4998-9274-e9d8b68b2947'></a>\n\nAbortion*\n\n<table><thead><tr><th>Code</th><th>Description</th><th>Price&nbsp;1</th><th>Price&nbsp;2</th></tr></thead><tbody><tr><td>59820</td><td>Treatment of missed abortion, any<br>trimester, completed medically or<br>surgically</td><td>72.00</td><td>83.00</td></tr><tr><td>59830</td><td>Treatment of septic abortion</td><td>By&nbsp;Report</td><td></td></tr><tr><td>59840</td><td>Legal (therapeutic) abortion,<br>completed with dilation and<br>curettage, and/or vacuum extraction</td><td></td><td>75.00</td></tr><tr><td>59850</td><td>Legal (therapeutic) abortion, by<br>one or more intra-amniotic injections</td><td></td><td>75.00</td></tr><tr><td>59851</td><td>with dilation and curettage</td><td></td><td>75.00</td></tr></tbody></table>",
+            "type": "table",
+            "id": "6d09d7c0-0a2a-4998-9274-e9d8b68b2947",
+            "grounding": {
+                "box": {
+                    "left": 0.1497124433517456,
+                    "top": 0.27607473731040955,
+                    "right": 0.8792151212692261,
+                    "bottom": 0.45778992772102356
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a6814f49-2490-4c1a-bc9c-e3af7b83f96e'></a>\n\nNervous System",
+            "type": "text",
+            "id": "a6814f49-2490-4c1a-bc9c-e3af7b83f96e",
+            "grounding": {
+                "box": {
+                    "left": 0.14809513092041016,
+                    "top": 0.46717795729637146,
+                    "right": 0.2885006368160248,
+                    "bottom": 0.48574766516685486
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a47a6892-13d5-4242-9209-ced535e410f3'></a>\n\nSpine and Spinal Cord",
+            "type": "text",
+            "id": "a47a6892-13d5-4242-9209-ced535e410f3",
+            "grounding": {
+                "box": {
+                    "left": 0.14880478382110596,
+                    "top": 0.4969289302825928,
+                    "right": 0.3532765507698059,
+                    "bottom": 0.5146924257278442
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d02ad710-edeb-44cd-889f-492c43bb7edf'></a>\n\nLaminectomy or Laminotomy\nFor Exploration or Decompression\n<table id=\"0-1\">\n<tr><td id=\"0-2\">63020</td><td id=\"0-3\">Laminotomy (hemilaminectomy), for herniated intervertebral disk, and/or decompression of nerve root; one interspace, cervical, unilateral</td><td id=\"0-4\">400.00</td><td id=\"0-5\">400.00</td></tr>\n<tr><td id=\"0-6\">63021</td><td id=\"0-7\">One interspace, cervical, bilateral</td><td id=\"0-8\">400.00</td><td id=\"0-9\">400.00</td></tr>\n<tr><td id=\"0-a\">63030</td><td id=\"0-b\">One interspace, lumbar, unilateral</td><td id=\"0-c\">400.00</td><td id=\"0-d\">400.00</td></tr>\n<tr><td id=\"0-e\">63031</td><td id=\"0-f\">One interspace, lumbar, bilateral</td><td id=\"0-g\">400.00</td><td id=\"0-h\">400.00</td></tr>\n<tr><td id=\"0-i\">63035</td><td id=\"0-j\">Additional interspaces, cervical or lumbar</td><td id=\"0-k\">400.00</td><td id=\"0-l\">400.00</td></tr>\n<tr><td id=\"0-m\" rowspan=\"2\">63040</td><td id=\"0-n\" rowspan=\"2\">Laminotomy (hemilaminectomy), for herniated inververtebral disk, and/or decompression of nerve root, any level, extensive or re-exploration; cervical</td><td id=\"0-o\" rowspan=\"2\" colspan=\"2\">By Report</td></tr>\n<tr><td id=\"0-p\">63041</td><td id=\"0-q\">Thoracic</td><td id=\"0-r\" colspan=\"2\">By Report</td></tr>\n<tr><td id=\"0-s\">63042</td><td id=\"0-t\">Lumbar</td><td id=\"0-u\" colspan=\"2\">By Report</td></tr>\n</table>",
+            "type": "table",
+            "id": "d02ad710-edeb-44cd-889f-492c43bb7edf",
+            "grounding": {
+                "box": {
+                    "left": 0.14877939224243164,
+                    "top": 0.5257959365844727,
+                    "right": 0.876884937286377,
+                    "bottom": 0.8267650604248047
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='438bc416-78f2-43f6-9bc1-bdd64aa08bcc'></a>\n\nMO MEDICAID PROVIDER MANUAL\nPHYSICIAN - PROCEDURE CODES\n19-44",
+            "type": "text",
+            "id": "438bc416-78f2-43f6-9bc1-bdd64aa08bcc",
+            "grounding": {
+                "box": {
+                    "left": 0.3794806897640228,
+                    "top": 0.89213627576828,
+                    "right": 0.6415671110153198,
+                    "bottom": 0.9395551085472107
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cacfbb55-1970-4a34-b063-a9580b1b8737'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nlcf0227",
+            "type": "text",
+            "id": "cacfbb55-1970-4a34-b063-a9580b1b8737",
+            "grounding": {
+                "box": {
+                    "left": 0.23331692814826965,
+                    "top": 0.9806357026100159,
+                    "right": 0.7685666084289551,
+                    "bottom": 0.999098002910614
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='88f4aeab-4eec-4db2-93b8-b4c646c55385'></a>\n\n5/80\n\n<a id='0040a2ce-4afb-418b-8022-297037896161'></a>\n\n<table><thead><tr><th></th><th></th><th>G.P.</th><th>Spec.</th></tr></thead><tbody><tr><td>59540</td><td>Cesarean section, extraperitoneal, including in-hospital postpartum care (separate procedure)</td><td>240.00</td><td>300.00</td></tr><tr><td>59560</td><td>Cesarean section with hysterectomy, subtotal, including in-hospital postpartum care (separate procedure)</td><td>240.00</td><td>300.00</td></tr><tr><td>59580</td><td>Cesarean section with hysterectomy, total, including in-hospital postpartum care (separate procedure)</td><td>240.00</td><td>300.00</td></tr></tbody></table>\n\n<a id='6d09d7c0-0a2a-4998-9274-e9d8b68b2947'></a>\n\nAbortion*\n\n<table><thead><tr><th>Code</th><th>Description</th><th>Price&nbsp;1</th><th>Price&nbsp;2</th></tr></thead><tbody><tr><td>59820</td><td>Treatment of missed abortion, any<br>trimester, completed medically or<br>surgically</td><td>72.00</td><td>83.00</td></tr><tr><td>59830</td><td>Treatment of septic abortion</td><td>By&nbsp;Report</td><td></td></tr><tr><td>59840</td><td>Legal (therapeutic) abortion,<br>completed with dilation and<br>curettage, and/or vacuum extraction</td><td></td><td>75.00</td></tr><tr><td>59850</td><td>Legal (therapeutic) abortion, by<br>one or more intra-amniotic injections</td><td></td><td>75.00</td></tr><tr><td>59851</td><td>with dilation and curettage</td><td></td><td>75.00</td></tr></tbody></table>\n\n<a id='a6814f49-2490-4c1a-bc9c-e3af7b83f96e'></a>\n\nNervous System\n\n<a id='a47a6892-13d5-4242-9209-ced535e410f3'></a>\n\nSpine and Spinal Cord\n\n<a id='d02ad710-edeb-44cd-889f-492c43bb7edf'></a>\n\nLaminectomy or Laminotomy\nFor Exploration or Decompression\n<table id=\"0-1\">\n<tr><td id=\"0-2\">63020</td><td id=\"0-3\">Laminotomy (hemilaminectomy), for herniated intervertebral disk, and/or decompression of nerve root; one interspace, cervical, unilateral</td><td id=\"0-4\">400.00</td><td id=\"0-5\">400.00</td></tr>\n<tr><td id=\"0-6\">63021</td><td id=\"0-7\">One interspace, cervical, bilateral</td><td id=\"0-8\">400.00</td><td id=\"0-9\">400.00</td></tr>\n<tr><td id=\"0-a\">63030</td><td id=\"0-b\">One interspace, lumbar, unilateral</td><td id=\"0-c\">400.00</td><td id=\"0-d\">400.00</td></tr>\n<tr><td id=\"0-e\">63031</td><td id=\"0-f\">One interspace, lumbar, bilateral</td><td id=\"0-g\">400.00</td><td id=\"0-h\">400.00</td></tr>\n<tr><td id=\"0-i\">63035</td><td id=\"0-j\">Additional interspaces, cervical or lumbar</td><td id=\"0-k\">400.00</td><td id=\"0-l\">400.00</td></tr>\n<tr><td id=\"0-m\" rowspan=\"2\">63040</td><td id=\"0-n\" rowspan=\"2\">Laminotomy (hemilaminectomy), for herniated inververtebral disk, and/or decompression of nerve root, any level, extensive or re-exploration; cervical</td><td id=\"0-o\" rowspan=\"2\" colspan=\"2\">By Report</td></tr>\n<tr><td id=\"0-p\">63041</td><td id=\"0-q\">Thoracic</td><td id=\"0-r\" colspan=\"2\">By Report</td></tr>\n<tr><td id=\"0-s\">63042</td><td id=\"0-t\">Lumbar</td><td id=\"0-u\" colspan=\"2\">By Report</td></tr>\n</table>\n\n<a id='438bc416-78f2-43f6-9bc1-bdd64aa08bcc'></a>\n\nMO MEDICAID PROVIDER MANUAL\nPHYSICIAN - PROCEDURE CODES\n19-44\n\n<a id='cacfbb55-1970-4a34-b063-a9580b1b8737'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nlcf0227",
+            "chunks": [
+                "88f4aeab-4eec-4db2-93b8-b4c646c55385",
+                "0040a2ce-4afb-418b-8022-297037896161",
+                "6d09d7c0-0a2a-4998-9274-e9d8b68b2947",
+                "a6814f49-2490-4c1a-bc9c-e3af7b83f96e",
+                "a47a6892-13d5-4242-9209-ced535e410f3",
+                "d02ad710-edeb-44cd-889f-492c43bb7edf",
+                "438bc416-78f2-43f6-9bc1-bdd64aa08bcc",
+                "cacfbb55-1970-4a34-b063-a9580b1b8737"
+            ]
+        }
+    ],
+    "grounding": {
+        "88f4aeab-4eec-4db2-93b8-b4c646c55385": {
+            "box": {
+                "left": 0.14933501183986664,
+                "top": 0.04352625459432602,
+                "right": 0.19376634061336517,
+                "bottom": 0.061635397374629974
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0040a2ce-4afb-418b-8022-297037896161": {
+            "box": {
+                "left": 0.18072468042373657,
+                "top": 0.10183684527873993,
+                "right": 0.8789387345314026,
+                "bottom": 0.267306923866272
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "6d09d7c0-0a2a-4998-9274-e9d8b68b2947": {
+            "box": {
+                "left": 0.1497124433517456,
+                "top": 0.27607473731040955,
+                "right": 0.8792151212692261,
+                "bottom": 0.45778992772102356
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "a6814f49-2490-4c1a-bc9c-e3af7b83f96e": {
+            "box": {
+                "left": 0.14809513092041016,
+                "top": 0.46717795729637146,
+                "right": 0.2885006368160248,
+                "bottom": 0.48574766516685486
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a47a6892-13d5-4242-9209-ced535e410f3": {
+            "box": {
+                "left": 0.14880478382110596,
+                "top": 0.4969289302825928,
+                "right": 0.3532765507698059,
+                "bottom": 0.5146924257278442
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d02ad710-edeb-44cd-889f-492c43bb7edf": {
+            "box": {
+                "left": 0.14877939224243164,
+                "top": 0.5257959365844727,
+                "right": 0.876884937286377,
+                "bottom": 0.8267650604248047
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.15954049236985313,
+                "top": 0.5653023659358212,
+                "right": 0.8741513109101788,
+                "bottom": 0.8267621901595703
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.15954049236985313,
+                "top": 0.5653023659358212,
+                "right": 0.24560574564935678,
+                "bottom": 0.6305358705712081
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.24560574564935678,
+                "top": 0.5653023659358212,
+                "right": 0.7161889001959025,
+                "bottom": 0.6305358705712081
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.7161889001959025,
+                "top": 0.5653023659358212,
+                "right": 0.7862464465663379,
+                "bottom": 0.6305358705712081
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7862464465663379,
+                "top": 0.5653023659358212,
+                "right": 0.8745692381991148,
+                "bottom": 0.6305358705712081
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.15954049236985313,
+                "top": 0.6305358705712081,
+                "right": 0.24560574564935678,
+                "bottom": 0.6450073442518942
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.24560574564935678,
+                "top": 0.6305358705712081,
+                "right": 0.7161889001959025,
+                "bottom": 0.6450073442518942
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7161889001959025,
+                "top": 0.6305358705712081,
+                "right": 0.7862464465663379,
+                "bottom": 0.6450073442518942
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7862464465663379,
+                "top": 0.6305358705712081,
+                "right": 0.8745692381991148,
+                "bottom": 0.6450073442518942
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.15954049236985313,
+                "top": 0.6450073442518942,
+                "right": 0.24560574564935678,
+                "bottom": 0.6595097181317442
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.24560574564935678,
+                "top": 0.6450073442518942,
+                "right": 0.7161889001959025,
+                "bottom": 0.6595097181317442
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7161889001959025,
+                "top": 0.6450073442518942,
+                "right": 0.7862464465663379,
+                "bottom": 0.6595097181317442
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7862464465663379,
+                "top": 0.6450073442518942,
+                "right": 0.8745692381991148,
+                "bottom": 0.6595097181317442
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.15954049236985313,
+                "top": 0.6595097181317442,
+                "right": 0.24560574564935678,
+                "bottom": 0.6740319416896057
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.24560574564935678,
+                "top": 0.6595097181317442,
+                "right": 0.7161889001959025,
+                "bottom": 0.6740319416896057
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7161889001959025,
+                "top": 0.6595097181317442,
+                "right": 0.7862464465663379,
+                "bottom": 0.6740319416896057
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.7862464465663379,
+                "top": 0.6595097181317442,
+                "right": 0.8745692381991148,
+                "bottom": 0.6740319416896057
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.15954049236985313,
+                "top": 0.6740319416896057,
+                "right": 0.24560574564935678,
+                "bottom": 0.7048777403576878
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.24560574564935678,
+                "top": 0.6740319416896057,
+                "right": 0.7161889001959025,
+                "bottom": 0.7048777403576878
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.7161889001959025,
+                "top": 0.6740319416896057,
+                "right": 0.7862464465663379,
+                "bottom": 0.7048777403576878
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7862464465663379,
+                "top": 0.6740319416896057,
+                "right": 0.8745692381991148,
+                "bottom": 0.7048777403576878
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.15954049236985313,
+                "top": 0.7048777403576878,
+                "right": 0.7161889001959025,
+                "bottom": 0.8070349110211623
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.24560574564935678,
+                "top": 0.7048777403576878,
+                "right": 0.7862464465663379,
+                "bottom": 0.8070349110211623
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7161889001959025,
+                "top": 0.7048777403576878,
+                "right": 0.8745692381991148,
+                "bottom": 0.8070349110211623
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.15954049236985313,
+                "top": 0.7912100444954149,
+                "right": 0.24560574564935678,
+                "bottom": 0.8070349110211623
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.24560574564935678,
+                "top": 0.7912100444954149,
+                "right": 0.7161889001959025,
+                "bottom": 0.8070349110211623
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.7161889001959025,
+                "top": 0.7912100444954149,
+                "right": 0.8745692381991148,
+                "bottom": 0.8267621901595703
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.15954049236985313,
+                "top": 0.8070349110211623,
+                "right": 0.24560574564935678,
+                "bottom": 0.8267621901595703
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.24560574564935678,
+                "top": 0.8070349110211623,
+                "right": 0.7161889001959025,
+                "bottom": 0.8267621901595703
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.7161889001959025,
+                "top": 0.8070349110211623,
+                "right": 0.8745692381991148,
+                "bottom": 0.8267621901595703
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "438bc416-78f2-43f6-9bc1-bdd64aa08bcc": {
+            "box": {
+                "left": 0.3794806897640228,
+                "top": 0.89213627576828,
+                "right": 0.6415671110153198,
+                "bottom": 0.9395551085472107
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cacfbb55-1970-4a34-b063-a9580b1b8737": {
+            "box": {
+                "left": 0.23331692814826965,
+                "top": 0.9806357026100159,
+                "right": 0.7685666084289551,
+                "bottom": 0.999098002910614
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "nlcf0227_6.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11430,
+        "credit_usage": 3.0,
+        "job_id": "gc1xu8a9j5u86czccanz4qitf",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,473 @@
+{
+    "markdown": "<a id='a2055d2f-09f0-4de0-9b9b-5208e747b198'></a>\n\n3. Geographic Focus\nRJ Reynolds\nKOOL will prioritize geographies and focus its marketing efforts\n\n<a id='111d499d-690f-4ab0-b9f0-8344893f80f5'></a>\n\nRJ Reynolds\n\n<a id='cb801156-b4e4-4f80-8146-a5d704032eef'></a>\n\n<::A map of the contiguous United States showing states with different shadings and several cities marked with symbols. The map displays state abbreviations for all states. The shadings are as follows:\n- **Dark Grey:** Covers states including CA (NCA, SCA), NV, UT, AZ, NM, TX (NTX, STX), OK, KS, MO, AR, LA, MS, AL, TN, KY, IL, IN, OH, PA, NY, NJ, DE, MD, WV, VA, NC, SC, GA, FL.\n- **Light Grey (patterned):** Appears in regions within or adjacent to states such as MI, WI, IL, IN, OH, PA, MD, VA, NC, SC, GA, AL, MS, LA, AR, MO.\n- **White (unshaded):** Covers states including WA, OR, ID, MT, WY, ND, SD, NE, IA, MN, ME, VT, NH, MA, CT, RI.\n\nSeveral cities are marked with symbols:\n- **Dark Oval/Circle:** Oakland (CA), Los Angeles (CA), New York (NY), Philadelphia (PA), Detroit (MI), St. Louis (MO), Dallas (TX - NTX), Houston (TX - STX), New Orleans (LA), Miami (FL).\n- **Small Dark Circle:** Chicago (IL).\n- **Dark Triangle:** DC (District of Columbia), Atlanta (GA).\n: map::>\n\n<a id='8b1ec6c1-182d-40af-90ac-e2b48c59cbcc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\"></td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">Segment (1)</td><td id=\"0-6\">Description</td><td id=\"0-7\">Objective</td></tr>\n<tr><td id=\"0-8\">1A</td><td id=\"0-9\">Influential multi-cultural cities where KOOL is relatively strong</td><td id=\"0-a\">Strong share growth</td></tr>\n<tr><td id=\"0-b\">1B</td><td id=\"0-c\">Influential multi-cultural cities where KOOL is weak</td><td id=\"0-d\">Share growth in selected neighborhood</td></tr>\n<tr><td id=\"0-e\">2</td><td id=\"0-f\">Large KOOL markets where Newport is relatively weak</td><td id=\"0-g\">Strong share growth</td></tr>\n<tr><td id=\"0-h\">3</td><td id=\"0-i\">Large menthol markets where both KOOL and Newport are strong</td><td id=\"0-j\">Moderate share growth</td></tr>\n<tr><td id=\"0-k\">4</td><td id=\"0-l\">Markets where KOOL is weak</td><td id=\"0-m\">Maintain share</td></tr>\n</table>\n\n<a id='34169316-a46a-4fdc-9fe9-bc1627a7c010'></a>\n\n<::Priority 1A - Cities\nPriority 1B - Cities\nPriority 2 - States\nPriority 3 - States\nPriority 4 - States\n: figure::>\n\n<a id='dee5a0b0-33f4-4680-8dd5-d2cb174d4a39'></a>\n\nRationale\n\n* The market is highly concentrated - 13 cities account for 30% of ASU30 smokers, 6 states account for 30% of FP Menthol volume\n* Performance in influential multicultural markets/neighborhoods affects larger geographies\n* Strong KOOL markets can be a source for relatively inexpensive share growth\n* Contestable space in strong Newport markets is expensive\n\n<a id='9043b0f2-17cb-40b2-af0a-2b1847f794b0'></a>\n\n(1) States do not include contribution from cities included above\n\n<a id='cb769c13-41c7-4bc4-813d-fefb0b873821'></a>\n\n<::attestation: Document status stamp/watermark\nStatus indicators - DRAFT, CONFIDENTIAL\nReadable Text: DRAFT 05/09/2006 CONFIDENTIAL\nWhite text on a gray, patterned background, centrally located::>\n\n<a id='31e1d592-662e-4232-be1c-138e46beffb1'></a>\n\n54506 4047",
+    "chunks": [
+        {
+            "markdown": "<a id='a2055d2f-09f0-4de0-9b9b-5208e747b198'></a>\n\n3. Geographic Focus\nRJ Reynolds\nKOOL will prioritize geographies and focus its marketing efforts",
+            "type": "text",
+            "id": "a2055d2f-09f0-4de0-9b9b-5208e747b198",
+            "grounding": {
+                "box": {
+                    "left": 0.037805527448654175,
+                    "top": 0.005469195544719696,
+                    "right": 0.9857206344604492,
+                    "bottom": 0.16893884539604187
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='111d499d-690f-4ab0-b9f0-8344893f80f5'></a>\n\nRJ Reynolds",
+            "type": "text",
+            "id": "111d499d-690f-4ab0-b9f0-8344893f80f5",
+            "grounding": {
+                "box": {
+                    "left": 0.8416182994842529,
+                    "top": 0.021985717117786407,
+                    "right": 0.9768989086151123,
+                    "bottom": 0.07111167162656784
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cb801156-b4e4-4f80-8146-a5d704032eef'></a>\n\n<::A map of the contiguous United States showing states with different shadings and several cities marked with symbols. The map displays state abbreviations for all states. The shadings are as follows:\n- **Dark Grey:** Covers states including CA (NCA, SCA), NV, UT, AZ, NM, TX (NTX, STX), OK, KS, MO, AR, LA, MS, AL, TN, KY, IL, IN, OH, PA, NY, NJ, DE, MD, WV, VA, NC, SC, GA, FL.\n- **Light Grey (patterned):** Appears in regions within or adjacent to states such as MI, WI, IL, IN, OH, PA, MD, VA, NC, SC, GA, AL, MS, LA, AR, MO.\n- **White (unshaded):** Covers states including WA, OR, ID, MT, WY, ND, SD, NE, IA, MN, ME, VT, NH, MA, CT, RI.\n\nSeveral cities are marked with symbols:\n- **Dark Oval/Circle:** Oakland (CA), Los Angeles (CA), New York (NY), Philadelphia (PA), Detroit (MI), St. Louis (MO), Dallas (TX - NTX), Houston (TX - STX), New Orleans (LA), Miami (FL).\n- **Small Dark Circle:** Chicago (IL).\n- **Dark Triangle:** DC (District of Columbia), Atlanta (GA).\n: map::>",
+            "type": "figure",
+            "id": "cb801156-b4e4-4f80-8146-a5d704032eef",
+            "grounding": {
+                "box": {
+                    "left": 0.045387089252471924,
+                    "top": 0.1886310875415802,
+                    "right": 0.6204374432563782,
+                    "bottom": 0.6920592784881592
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8b1ec6c1-182d-40af-90ac-e2b48c59cbcc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\"></td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">Segment (1)</td><td id=\"0-6\">Description</td><td id=\"0-7\">Objective</td></tr>\n<tr><td id=\"0-8\">1A</td><td id=\"0-9\">Influential multi-cultural cities where KOOL is relatively strong</td><td id=\"0-a\">Strong share growth</td></tr>\n<tr><td id=\"0-b\">1B</td><td id=\"0-c\">Influential multi-cultural cities where KOOL is weak</td><td id=\"0-d\">Share growth in selected neighborhood</td></tr>\n<tr><td id=\"0-e\">2</td><td id=\"0-f\">Large KOOL markets where Newport is relatively weak</td><td id=\"0-g\">Strong share growth</td></tr>\n<tr><td id=\"0-h\">3</td><td id=\"0-i\">Large menthol markets where both KOOL and Newport are strong</td><td id=\"0-j\">Moderate share growth</td></tr>\n<tr><td id=\"0-k\">4</td><td id=\"0-l\">Markets where KOOL is weak</td><td id=\"0-m\">Maintain share</td></tr>\n</table>",
+            "type": "table",
+            "id": "8b1ec6c1-182d-40af-90ac-e2b48c59cbcc",
+            "grounding": {
+                "box": {
+                    "left": 0.6171064376831055,
+                    "top": 0.18923872709274292,
+                    "right": 0.9667247533798218,
+                    "bottom": 0.6920429468154907
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='34169316-a46a-4fdc-9fe9-bc1627a7c010'></a>\n\n<::Priority 1A - Cities\nPriority 1B - Cities\nPriority 2 - States\nPriority 3 - States\nPriority 4 - States\n: figure::>",
+            "type": "figure",
+            "id": "34169316-a46a-4fdc-9fe9-bc1627a7c010",
+            "grounding": {
+                "box": {
+                    "left": 0.059860460460186005,
+                    "top": 0.6977124214172363,
+                    "right": 0.21226882934570312,
+                    "bottom": 0.9093941450119019
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dee5a0b0-33f4-4680-8dd5-d2cb174d4a39'></a>\n\nRationale\n\n* The market is highly concentrated - 13 cities account for 30% of ASU30 smokers, 6 states account for 30% of FP Menthol volume\n* Performance in influential multicultural markets/neighborhoods affects larger geographies\n* Strong KOOL markets can be a source for relatively inexpensive share growth\n* Contestable space in strong Newport markets is expensive",
+            "type": "text",
+            "id": "dee5a0b0-33f4-4680-8dd5-d2cb174d4a39",
+            "grounding": {
+                "box": {
+                    "left": 0.22092655301094055,
+                    "top": 0.6984217762947083,
+                    "right": 0.9662683010101318,
+                    "bottom": 0.9097215533256531
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9043b0f2-17cb-40b2-af0a-2b1847f794b0'></a>\n\n(1) States do not include contribution from cities included above",
+            "type": "text",
+            "id": "9043b0f2-17cb-40b2-af0a-2b1847f794b0",
+            "grounding": {
+                "box": {
+                    "left": 0.05936187505722046,
+                    "top": 0.9170761108398438,
+                    "right": 0.37918010354042053,
+                    "bottom": 0.9407508373260498
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cb769c13-41c7-4bc4-813d-fefb0b873821'></a>\n\n<::attestation: Document status stamp/watermark\nStatus indicators - DRAFT, CONFIDENTIAL\nReadable Text: DRAFT 05/09/2006 CONFIDENTIAL\nWhite text on a gray, patterned background, centrally located::>",
+            "type": "attestation",
+            "id": "cb769c13-41c7-4bc4-813d-fefb0b873821",
+            "grounding": {
+                "box": {
+                    "left": 0.3851340115070343,
+                    "top": 0.9469097256660461,
+                    "right": 0.6336290836334229,
+                    "bottom": 0.9798590540885925
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='31e1d592-662e-4232-be1c-138e46beffb1'></a>\n\n54506 4047",
+            "type": "marginalia",
+            "id": "31e1d592-662e-4232-be1c-138e46beffb1",
+            "grounding": {
+                "box": {
+                    "left": 0.02140144631266594,
+                    "top": 0.8472556471824646,
+                    "right": 0.042666275054216385,
+                    "bottom": 0.9583402276039124
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a2055d2f-09f0-4de0-9b9b-5208e747b198'></a>\n\n3. Geographic Focus\nRJ Reynolds\nKOOL will prioritize geographies and focus its marketing efforts\n\n<a id='111d499d-690f-4ab0-b9f0-8344893f80f5'></a>\n\nRJ Reynolds\n\n<a id='cb801156-b4e4-4f80-8146-a5d704032eef'></a>\n\n<::A map of the contiguous United States showing states with different shadings and several cities marked with symbols. The map displays state abbreviations for all states. The shadings are as follows:\n- **Dark Grey:** Covers states including CA (NCA, SCA), NV, UT, AZ, NM, TX (NTX, STX), OK, KS, MO, AR, LA, MS, AL, TN, KY, IL, IN, OH, PA, NY, NJ, DE, MD, WV, VA, NC, SC, GA, FL.\n- **Light Grey (patterned):** Appears in regions within or adjacent to states such as MI, WI, IL, IN, OH, PA, MD, VA, NC, SC, GA, AL, MS, LA, AR, MO.\n- **White (unshaded):** Covers states including WA, OR, ID, MT, WY, ND, SD, NE, IA, MN, ME, VT, NH, MA, CT, RI.\n\nSeveral cities are marked with symbols:\n- **Dark Oval/Circle:** Oakland (CA), Los Angeles (CA), New York (NY), Philadelphia (PA), Detroit (MI), St. Louis (MO), Dallas (TX - NTX), Houston (TX - STX), New Orleans (LA), Miami (FL).\n- **Small Dark Circle:** Chicago (IL).\n- **Dark Triangle:** DC (District of Columbia), Atlanta (GA).\n: map::>\n\n<a id='8b1ec6c1-182d-40af-90ac-e2b48c59cbcc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\"></td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">Segment (1)</td><td id=\"0-6\">Description</td><td id=\"0-7\">Objective</td></tr>\n<tr><td id=\"0-8\">1A</td><td id=\"0-9\">Influential multi-cultural cities where KOOL is relatively strong</td><td id=\"0-a\">Strong share growth</td></tr>\n<tr><td id=\"0-b\">1B</td><td id=\"0-c\">Influential multi-cultural cities where KOOL is weak</td><td id=\"0-d\">Share growth in selected neighborhood</td></tr>\n<tr><td id=\"0-e\">2</td><td id=\"0-f\">Large KOOL markets where Newport is relatively weak</td><td id=\"0-g\">Strong share growth</td></tr>\n<tr><td id=\"0-h\">3</td><td id=\"0-i\">Large menthol markets where both KOOL and Newport are strong</td><td id=\"0-j\">Moderate share growth</td></tr>\n<tr><td id=\"0-k\">4</td><td id=\"0-l\">Markets where KOOL is weak</td><td id=\"0-m\">Maintain share</td></tr>\n</table>\n\n<a id='34169316-a46a-4fdc-9fe9-bc1627a7c010'></a>\n\n<::Priority 1A - Cities\nPriority 1B - Cities\nPriority 2 - States\nPriority 3 - States\nPriority 4 - States\n: figure::>\n\n<a id='dee5a0b0-33f4-4680-8dd5-d2cb174d4a39'></a>\n\nRationale\n\n* The market is highly concentrated - 13 cities account for 30% of ASU30 smokers, 6 states account for 30% of FP Menthol volume\n* Performance in influential multicultural markets/neighborhoods affects larger geographies\n* Strong KOOL markets can be a source for relatively inexpensive share growth\n* Contestable space in strong Newport markets is expensive\n\n<a id='9043b0f2-17cb-40b2-af0a-2b1847f794b0'></a>\n\n(1) States do not include contribution from cities included above\n\n<a id='cb769c13-41c7-4bc4-813d-fefb0b873821'></a>\n\n<::attestation: Document status stamp/watermark\nStatus indicators - DRAFT, CONFIDENTIAL\nReadable Text: DRAFT 05/09/2006 CONFIDENTIAL\nWhite text on a gray, patterned background, centrally located::>\n\n<a id='31e1d592-662e-4232-be1c-138e46beffb1'></a>\n\n54506 4047",
+            "chunks": [
+                "a2055d2f-09f0-4de0-9b9b-5208e747b198",
+                "111d499d-690f-4ab0-b9f0-8344893f80f5",
+                "cb801156-b4e4-4f80-8146-a5d704032eef",
+                "8b1ec6c1-182d-40af-90ac-e2b48c59cbcc",
+                "34169316-a46a-4fdc-9fe9-bc1627a7c010",
+                "dee5a0b0-33f4-4680-8dd5-d2cb174d4a39",
+                "9043b0f2-17cb-40b2-af0a-2b1847f794b0",
+                "cb769c13-41c7-4bc4-813d-fefb0b873821",
+                "31e1d592-662e-4232-be1c-138e46beffb1"
+            ]
+        }
+    ],
+    "grounding": {
+        "a2055d2f-09f0-4de0-9b9b-5208e747b198": {
+            "box": {
+                "left": 0.037805527448654175,
+                "top": 0.005469195544719696,
+                "right": 0.9857206344604492,
+                "bottom": 0.16893884539604187
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "111d499d-690f-4ab0-b9f0-8344893f80f5": {
+            "box": {
+                "left": 0.8416182994842529,
+                "top": 0.021985717117786407,
+                "right": 0.9768989086151123,
+                "bottom": 0.07111167162656784
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cb801156-b4e4-4f80-8146-a5d704032eef": {
+            "box": {
+                "left": 0.045387089252471924,
+                "top": 0.1886310875415802,
+                "right": 0.6204374432563782,
+                "bottom": 0.6920592784881592
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "8b1ec6c1-182d-40af-90ac-e2b48c59cbcc": {
+            "box": {
+                "left": 0.6171064376831055,
+                "top": 0.18923872709274292,
+                "right": 0.9667247533798218,
+                "bottom": 0.6920429468154907
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.6219486454091319,
+                "top": 0.19700417466569953,
+                "right": 0.9611653581701773,
+                "bottom": 0.6855744869253719
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.6219486454091319,
+                "top": 0.19700417466569953,
+                "right": 0.7032343854155414,
+                "bottom": 0.20760915805071867
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.7032343854155414,
+                "top": 0.19700417466569953,
+                "right": 0.8633619511368451,
+                "bottom": 0.20760915805071867
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.8633619511368451,
+                "top": 0.19700417466569953,
+                "right": 0.9612052854556623,
+                "bottom": 0.20760915805071867
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6219486454091319,
+                "top": 0.20760915805071867,
+                "right": 0.7032343854155414,
+                "bottom": 0.23581813418355058
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.7032343854155414,
+                "top": 0.20760915805071867,
+                "right": 0.8633619511368451,
+                "bottom": 0.23581813418355058
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.8633619511368451,
+                "top": 0.20760915805071867,
+                "right": 0.9612052854556623,
+                "bottom": 0.23581813418355058
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.6219486454091319,
+                "top": 0.23581813418355058,
+                "right": 0.7032343854155414,
+                "bottom": 0.3301437571126673
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7032343854155414,
+                "top": 0.23581813418355058,
+                "right": 0.8633619511368451,
+                "bottom": 0.3301437571126673
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.8633619511368451,
+                "top": 0.23581813418355058,
+                "right": 0.9612052854556623,
+                "bottom": 0.3301437571126673
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6219486454091319,
+                "top": 0.3301437571126673,
+                "right": 0.7032343854155414,
+                "bottom": 0.4234853850424223
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7032343854155414,
+                "top": 0.3301437571126673,
+                "right": 0.8633619511368451,
+                "bottom": 0.4234853850424223
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.8633619511368451,
+                "top": 0.3301437571126673,
+                "right": 0.9612052854556623,
+                "bottom": 0.4234853850424223
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.6219486454091319,
+                "top": 0.4234853850424223,
+                "right": 0.7032343854155414,
+                "bottom": 0.5204479089792855
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7032343854155414,
+                "top": 0.4234853850424223,
+                "right": 0.8633619511368451,
+                "bottom": 0.5204479089792855
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.8633619511368451,
+                "top": 0.4234853850424223,
+                "right": 0.9612052854556623,
+                "bottom": 0.5204479089792855
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6219486454091319,
+                "top": 0.5204479089792855,
+                "right": 0.7032343854155414,
+                "bottom": 0.6139069123261862
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.7032343854155414,
+                "top": 0.5204479089792855,
+                "right": 0.8633619511368451,
+                "bottom": 0.6139069123261862
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.8633619511368451,
+                "top": 0.5204479089792855,
+                "right": 0.9612052854556623,
+                "bottom": 0.6139069123261862
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6219486454091319,
+                "top": 0.6139069123261862,
+                "right": 0.7032343854155414,
+                "bottom": 0.6855744869253719
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7032343854155414,
+                "top": 0.6139069123261862,
+                "right": 0.8633619511368451,
+                "bottom": 0.6855744869253719
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.8633619511368451,
+                "top": 0.6139069123261862,
+                "right": 0.9612052854556623,
+                "bottom": 0.6855744869253719
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "34169316-a46a-4fdc-9fe9-bc1627a7c010": {
+            "box": {
+                "left": 0.059860460460186005,
+                "top": 0.6977124214172363,
+                "right": 0.21226882934570312,
+                "bottom": 0.9093941450119019
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "dee5a0b0-33f4-4680-8dd5-d2cb174d4a39": {
+            "box": {
+                "left": 0.22092655301094055,
+                "top": 0.6984217762947083,
+                "right": 0.9662683010101318,
+                "bottom": 0.9097215533256531
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9043b0f2-17cb-40b2-af0a-2b1847f794b0": {
+            "box": {
+                "left": 0.05936187505722046,
+                "top": 0.9170761108398438,
+                "right": 0.37918010354042053,
+                "bottom": 0.9407508373260498
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cb769c13-41c7-4bc4-813d-fefb0b873821": {
+            "box": {
+                "left": 0.3851340115070343,
+                "top": 0.9469097256660461,
+                "right": 0.6336290836334229,
+                "bottom": 0.9798590540885925
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "31e1d592-662e-4232-be1c-138e46beffb1": {
+            "box": {
+                "left": 0.02140144631266594,
+                "top": 0.8472556471824646,
+                "right": 0.042666275054216385,
+                "bottom": 0.9583402276039124
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fpmx0225_10.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 16012,
+        "credit_usage": 3.0,
+        "job_id": "wlqeyg9sgrfts9tmvt9k89943",
+        "version": "dpt-2-20250919"
+    }
+}

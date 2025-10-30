@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='2e53ca94-b2aa-42ab-9777-d69cc54e8691'></a>\n\nTHE EFFECT OF NEGATIVE PRESSURE BREATHING ON\nURINE FLOW\n\n<a id='d7953c16-abdf-459b-aa1f-7c02d5f6d5f7'></a>\n\nOTTO H. GAUER, JAMES P. HENRY, HERBERT O. SIEKER, AND\nWALLACE E. WENDT\n\n<a id='05fd5278-0bd8-4030-85c9-6ec2a0618c2b'></a>\n\nReprinted from THE JOURNAL OF CLINICAL INVESTIGATION, Vol. XXXIII, No. 2,\n287-296, February, 1954\n\n<a id='1cca631f-e0bb-4a4e-b7b9-159626be080d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kjkg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='2e53ca94-b2aa-42ab-9777-d69cc54e8691'></a>\n\nTHE EFFECT OF NEGATIVE PRESSURE BREATHING ON\nURINE FLOW",
+            "type": "text",
+            "id": "2e53ca94-b2aa-42ab-9777-d69cc54e8691",
+            "grounding": {
+                "box": {
+                    "left": 0.22706815600395203,
+                    "top": 0.12621209025382996,
+                    "right": 0.7735272645950317,
+                    "bottom": 0.16834703087806702
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d7953c16-abdf-459b-aa1f-7c02d5f6d5f7'></a>\n\nOTTO H. GAUER, JAMES P. HENRY, HERBERT O. SIEKER, AND\nWALLACE E. WENDT",
+            "type": "text",
+            "id": "d7953c16-abdf-459b-aa1f-7c02d5f6d5f7",
+            "grounding": {
+                "box": {
+                    "left": 0.2525656223297119,
+                    "top": 0.3340790867805481,
+                    "right": 0.7487970590591431,
+                    "bottom": 0.3683497905731201
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='05fd5278-0bd8-4030-85c9-6ec2a0618c2b'></a>\n\nReprinted from THE JOURNAL OF CLINICAL INVESTIGATION, Vol. XXXIII, No. 2,\n287-296, February, 1954",
+            "type": "text",
+            "id": "05fd5278-0bd8-4030-85c9-6ec2a0618c2b",
+            "grounding": {
+                "box": {
+                    "left": 0.23876136541366577,
+                    "top": 0.7689370512962341,
+                    "right": 0.7648332715034485,
+                    "bottom": 0.8034159541130066
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1cca631f-e0bb-4a4e-b7b9-159626be080d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kjkg0227",
+            "type": "text",
+            "id": "1cca631f-e0bb-4a4e-b7b9-159626be080d",
+            "grounding": {
+                "box": {
+                    "left": 0.2050378918647766,
+                    "top": 0.9782275557518005,
+                    "right": 0.7970823645591736,
+                    "bottom": 0.9990089535713196
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2e53ca94-b2aa-42ab-9777-d69cc54e8691'></a>\n\nTHE EFFECT OF NEGATIVE PRESSURE BREATHING ON\nURINE FLOW\n\n<a id='d7953c16-abdf-459b-aa1f-7c02d5f6d5f7'></a>\n\nOTTO H. GAUER, JAMES P. HENRY, HERBERT O. SIEKER, AND\nWALLACE E. WENDT\n\n<a id='05fd5278-0bd8-4030-85c9-6ec2a0618c2b'></a>\n\nReprinted from THE JOURNAL OF CLINICAL INVESTIGATION, Vol. XXXIII, No. 2,\n287-296, February, 1954\n\n<a id='1cca631f-e0bb-4a4e-b7b9-159626be080d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kjkg0227",
+            "chunks": [
+                "2e53ca94-b2aa-42ab-9777-d69cc54e8691",
+                "d7953c16-abdf-459b-aa1f-7c02d5f6d5f7",
+                "05fd5278-0bd8-4030-85c9-6ec2a0618c2b",
+                "1cca631f-e0bb-4a4e-b7b9-159626be080d"
+            ]
+        }
+    ],
+    "grounding": {
+        "2e53ca94-b2aa-42ab-9777-d69cc54e8691": {
+            "box": {
+                "left": 0.22706815600395203,
+                "top": 0.12621209025382996,
+                "right": 0.7735272645950317,
+                "bottom": 0.16834703087806702
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d7953c16-abdf-459b-aa1f-7c02d5f6d5f7": {
+            "box": {
+                "left": 0.2525656223297119,
+                "top": 0.3340790867805481,
+                "right": 0.7487970590591431,
+                "bottom": 0.3683497905731201
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "05fd5278-0bd8-4030-85c9-6ec2a0618c2b": {
+            "box": {
+                "left": 0.23876136541366577,
+                "top": 0.7689370512962341,
+                "right": 0.7648332715034485,
+                "bottom": 0.8034159541130066
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1cca631f-e0bb-4a4e-b7b9-159626be080d": {
+            "box": {
+                "left": 0.2050378918647766,
+                "top": 0.9782275557518005,
+                "right": 0.7970823645591736,
+                "bottom": 0.9990089535713196
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kjkg0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3044,
+        "credit_usage": 3.0,
+        "job_id": "epbrsaa00ir6ao9vp0wn24xxx",
+        "version": "dpt-2-20250919"
+    }
+}

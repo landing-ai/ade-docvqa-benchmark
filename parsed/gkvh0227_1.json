@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='a9b8ba59-28e1-467b-8484-a8455664d822'></a>\n\nDEPARTMENT OF HEALTH, EDUCATION, AND WELFARE\n\n<a id='4b11030f-af47-4816-991d-ad1f1a2de0bc'></a>\n\nClinical Applications and Prevention Advisory Committee\n\n<a id='a08a8722-6089-4c8c-a832-1df99a3ad3d7'></a>\n\nNational Institutes of Health\n\n<a id='d3e93b13-8cc4-4f06-a08f-eb2a3d3ea003'></a>\n\nAnnual Report\n\nAugust 15, 1976\n\n<a id='67e58244-e827-46dd-a896-fff21ec88694'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gkvh0227",
+    "chunks": [
+        {
+            "markdown": "<a id='a9b8ba59-28e1-467b-8484-a8455664d822'></a>\n\nDEPARTMENT OF HEALTH, EDUCATION, AND WELFARE",
+            "type": "text",
+            "id": "a9b8ba59-28e1-467b-8484-a8455664d822",
+            "grounding": {
+                "box": {
+                    "left": 0.258195698261261,
+                    "top": 0.2491622120141983,
+                    "right": 0.6973128318786621,
+                    "bottom": 0.2754068076610565
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4b11030f-af47-4816-991d-ad1f1a2de0bc'></a>\n\nClinical Applications and Prevention Advisory Committee",
+            "type": "text",
+            "id": "4b11030f-af47-4816-991d-ad1f1a2de0bc",
+            "grounding": {
+                "box": {
+                    "left": 0.20275312662124634,
+                    "top": 0.340562641620636,
+                    "right": 0.74367755651474,
+                    "bottom": 0.36455291509628296
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a08a8722-6089-4c8c-a832-1df99a3ad3d7'></a>\n\nNational Institutes of Health",
+            "type": "text",
+            "id": "a08a8722-6089-4c8c-a832-1df99a3ad3d7",
+            "grounding": {
+                "box": {
+                    "left": 0.33488255739212036,
+                    "top": 0.44635894894599915,
+                    "right": 0.6265361309051514,
+                    "bottom": 0.4684170186519623
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d3e93b13-8cc4-4f06-a08f-eb2a3d3ea003'></a>\n\nAnnual Report\n\nAugust 15, 1976",
+            "type": "text",
+            "id": "d3e93b13-8cc4-4f06-a08f-eb2a3d3ea003",
+            "grounding": {
+                "box": {
+                    "left": 0.7133312821388245,
+                    "top": 0.6716585159301758,
+                    "right": 0.8751844763755798,
+                    "bottom": 0.727501630783081
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='67e58244-e827-46dd-a896-fff21ec88694'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gkvh0227",
+            "type": "text",
+            "id": "67e58244-e827-46dd-a896-fff21ec88694",
+            "grounding": {
+                "box": {
+                    "left": 0.2272948920726776,
+                    "top": 0.9803313612937927,
+                    "right": 0.7770224809646606,
+                    "bottom": 0.999165952205658
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a9b8ba59-28e1-467b-8484-a8455664d822'></a>\n\nDEPARTMENT OF HEALTH, EDUCATION, AND WELFARE\n\n<a id='4b11030f-af47-4816-991d-ad1f1a2de0bc'></a>\n\nClinical Applications and Prevention Advisory Committee\n\n<a id='a08a8722-6089-4c8c-a832-1df99a3ad3d7'></a>\n\nNational Institutes of Health\n\n<a id='d3e93b13-8cc4-4f06-a08f-eb2a3d3ea003'></a>\n\nAnnual Report\n\nAugust 15, 1976\n\n<a id='67e58244-e827-46dd-a896-fff21ec88694'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gkvh0227",
+            "chunks": [
+                "a9b8ba59-28e1-467b-8484-a8455664d822",
+                "4b11030f-af47-4816-991d-ad1f1a2de0bc",
+                "a08a8722-6089-4c8c-a832-1df99a3ad3d7",
+                "d3e93b13-8cc4-4f06-a08f-eb2a3d3ea003",
+                "67e58244-e827-46dd-a896-fff21ec88694"
+            ]
+        }
+    ],
+    "grounding": {
+        "a9b8ba59-28e1-467b-8484-a8455664d822": {
+            "box": {
+                "left": 0.258195698261261,
+                "top": 0.2491622120141983,
+                "right": 0.6973128318786621,
+                "bottom": 0.2754068076610565
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4b11030f-af47-4816-991d-ad1f1a2de0bc": {
+            "box": {
+                "left": 0.20275312662124634,
+                "top": 0.340562641620636,
+                "right": 0.74367755651474,
+                "bottom": 0.36455291509628296
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a08a8722-6089-4c8c-a832-1df99a3ad3d7": {
+            "box": {
+                "left": 0.33488255739212036,
+                "top": 0.44635894894599915,
+                "right": 0.6265361309051514,
+                "bottom": 0.4684170186519623
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d3e93b13-8cc4-4f06-a08f-eb2a3d3ea003": {
+            "box": {
+                "left": 0.7133312821388245,
+                "top": 0.6716585159301758,
+                "right": 0.8751844763755798,
+                "bottom": 0.727501630783081
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "67e58244-e827-46dd-a896-fff21ec88694": {
+            "box": {
+                "left": 0.2272948920726776,
+                "top": 0.9803313612937927,
+                "right": 0.7770224809646606,
+                "bottom": 0.999165952205658
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "gkvh0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 2925,
+        "credit_usage": 3.0,
+        "job_id": "gm97n40zul88i4q3otm4dv3ub",
+        "version": "dpt-2-20250919"
+    }
+}

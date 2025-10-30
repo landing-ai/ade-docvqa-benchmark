@@ -1,0 +1,53 @@
+{
+    "markdown": "<a id='f25883ad-f2c1-4c27-a176-b4572a8e484c'></a>\n\n<::Line chart titled \"FE - 59 INCORPORATION GUINEA PIG\".\n\nThe y-axis is labeled \"% INCORPORATED\" and ranges from 0.0 to 25.0.\nThe x-axis is labeled \"TIME (DAYS)\" and ranges from 0 to 28.\n\nThere are four lines representing different treatments:\n\n1.  **IRON SUPPLEMENT** (marked with '+'):\n    *   Day 0: ~2.0%\n    *   Day 7: ~13.0%\n    *   Day 14: ~14.5%\n    *   Day 21: ~12.0%\n    *   Day 28: ~12.5%\n\n2.  **FESO4** (marked with 'x'):\n    *   Day 0: ~2.0%\n    *   Day 7: ~11.0%\n    *   Day 14: ~11.0%\n    *   Day 21: ~10.0%\n    *   Day 28: ~9.0%\n\n3.  **CONTROL** (marked with '*'):\n    *   Day 0: ~2.0%\n    *   Day 7: ~10.5%\n    *   Day 14: ~11.5%\n    *   Day 21: ~11.0%\n    *   Day 28: ~10.0%\n\n4.  **FESO4 + VITAMIN C** (marked with a dot):\n    *   Day 0: ~2.0%\n    *   Day 7: ~10.0%\n    *   Day 14: ~10.5%\n    *   Day 21: ~9.5%\n    *   Day 28: ~8.5%\n: chart::>",
+    "chunks": [
+        {
+            "markdown": "<a id='f25883ad-f2c1-4c27-a176-b4572a8e484c'></a>\n\n<::Line chart titled \"FE - 59 INCORPORATION GUINEA PIG\".\n\nThe y-axis is labeled \"% INCORPORATED\" and ranges from 0.0 to 25.0.\nThe x-axis is labeled \"TIME (DAYS)\" and ranges from 0 to 28.\n\nThere are four lines representing different treatments:\n\n1.  **IRON SUPPLEMENT** (marked with '+'):\n    *   Day 0: ~2.0%\n    *   Day 7: ~13.0%\n    *   Day 14: ~14.5%\n    *   Day 21: ~12.0%\n    *   Day 28: ~12.5%\n\n2.  **FESO4** (marked with 'x'):\n    *   Day 0: ~2.0%\n    *   Day 7: ~11.0%\n    *   Day 14: ~11.0%\n    *   Day 21: ~10.0%\n    *   Day 28: ~9.0%\n\n3.  **CONTROL** (marked with '*'):\n    *   Day 0: ~2.0%\n    *   Day 7: ~10.5%\n    *   Day 14: ~11.5%\n    *   Day 21: ~11.0%\n    *   Day 28: ~10.0%\n\n4.  **FESO4 + VITAMIN C** (marked with a dot):\n    *   Day 0: ~2.0%\n    *   Day 7: ~10.0%\n    *   Day 14: ~10.5%\n    *   Day 21: ~9.5%\n    *   Day 28: ~8.5%\n: chart::>",
+            "type": "figure",
+            "id": "f25883ad-f2c1-4c27-a176-b4572a8e484c",
+            "grounding": {
+                "box": {
+                    "left": 0.10870417952537537,
+                    "top": 0.18211066722869873,
+                    "right": 0.8875696659088135,
+                    "bottom": 0.871550440788269
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='f25883ad-f2c1-4c27-a176-b4572a8e484c'></a>\n\n<::Line chart titled \"FE - 59 INCORPORATION GUINEA PIG\".\n\nThe y-axis is labeled \"% INCORPORATED\" and ranges from 0.0 to 25.0.\nThe x-axis is labeled \"TIME (DAYS)\" and ranges from 0 to 28.\n\nThere are four lines representing different treatments:\n\n1.  **IRON SUPPLEMENT** (marked with '+'):\n    *   Day 0: ~2.0%\n    *   Day 7: ~13.0%\n    *   Day 14: ~14.5%\n    *   Day 21: ~12.0%\n    *   Day 28: ~12.5%\n\n2.  **FESO4** (marked with 'x'):\n    *   Day 0: ~2.0%\n    *   Day 7: ~11.0%\n    *   Day 14: ~11.0%\n    *   Day 21: ~10.0%\n    *   Day 28: ~9.0%\n\n3.  **CONTROL** (marked with '*'):\n    *   Day 0: ~2.0%\n    *   Day 7: ~10.5%\n    *   Day 14: ~11.5%\n    *   Day 21: ~11.0%\n    *   Day 28: ~10.0%\n\n4.  **FESO4 + VITAMIN C** (marked with a dot):\n    *   Day 0: ~2.0%\n    *   Day 7: ~10.0%\n    *   Day 14: ~10.5%\n    *   Day 21: ~9.5%\n    *   Day 28: ~8.5%\n: chart::>",
+            "chunks": [
+                "f25883ad-f2c1-4c27-a176-b4572a8e484c"
+            ]
+        }
+    ],
+    "grounding": {
+        "f25883ad-f2c1-4c27-a176-b4572a8e484c": {
+            "box": {
+                "left": 0.10870417952537537,
+                "top": 0.18211066722869873,
+                "right": 0.8875696659088135,
+                "bottom": 0.871550440788269
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "sspp0227_30.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9513,
+        "credit_usage": 3.0,
+        "job_id": "bb0cufr4a7l98qynxwrjl6vr1",
+        "version": "dpt-2-20250919"
+    }
+}

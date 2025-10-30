@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='dad90b2f-cb8a-4d49-a72f-b47d9cab3b29'></a>\n\n51360 2211\n\n<a id='1dedb8ca-afe0-4915-abc5-20ac568d3c6f'></a>\n\nOrganizational Structure for the SMOKERS EXPRESS Group of Companies\n<::chart:\nSMOKERS EXPRESS, Inc\n  - SE PUBLICATIONS\n    - In-flight Magazine\n    - Catalog Production and Distribution\n  - SE AIR\n    - Charter Airline Sales\n    - Maintenance Services\n    - Crew Services\n  - SE VACATIONS\n    - SE Air Tickets\n    - Travel and Vacation Services\n    - Company Meeting and Convention Services\n    - Membership Solicitation\n  - SE PRODUCTS\n    - In-flight Merchandise Sales\n    - Catalog Sales\n  - SE SERVICES\n    - In-flight Catering\n    - Ground Support\n    - Maintenance Support\n    - Security\n::>\n",
+    "chunks": [
+        {
+            "markdown": "<a id='dad90b2f-cb8a-4d49-a72f-b47d9cab3b29'></a>\n\n51360 2211",
+            "type": "marginalia",
+            "id": "dad90b2f-cb8a-4d49-a72f-b47d9cab3b29",
+            "grounding": {
+                "box": {
+                    "left": 0.8588951230049133,
+                    "top": 0.03303912654519081,
+                    "right": 0.9592214226722717,
+                    "bottom": 0.05924354866147041
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1dedb8ca-afe0-4915-abc5-20ac568d3c6f'></a>\n\nOrganizational Structure for the SMOKERS EXPRESS Group of Companies\n<::chart:\nSMOKERS EXPRESS, Inc\n  - SE PUBLICATIONS\n    - In-flight Magazine\n    - Catalog Production and Distribution\n  - SE AIR\n    - Charter Airline Sales\n    - Maintenance Services\n    - Crew Services\n  - SE VACATIONS\n    - SE Air Tickets\n    - Travel and Vacation Services\n    - Company Meeting and Convention Services\n    - Membership Solicitation\n  - SE PRODUCTS\n    - In-flight Merchandise Sales\n    - Catalog Sales\n  - SE SERVICES\n    - In-flight Catering\n    - Ground Support\n    - Maintenance Support\n    - Security\n::>\n",
+            "type": "figure",
+            "id": "1dedb8ca-afe0-4915-abc5-20ac568d3c6f",
+            "grounding": {
+                "box": {
+                    "left": 0.003859579563140869,
+                    "top": 0.09365019202232361,
+                    "right": 0.9957719445228577,
+                    "bottom": 0.9565978050231934
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='dad90b2f-cb8a-4d49-a72f-b47d9cab3b29'></a>\n\n51360 2211\n\n<a id='1dedb8ca-afe0-4915-abc5-20ac568d3c6f'></a>\n\nOrganizational Structure for the SMOKERS EXPRESS Group of Companies\n<::chart:\nSMOKERS EXPRESS, Inc\n  - SE PUBLICATIONS\n    - In-flight Magazine\n    - Catalog Production and Distribution\n  - SE AIR\n    - Charter Airline Sales\n    - Maintenance Services\n    - Crew Services\n  - SE VACATIONS\n    - SE Air Tickets\n    - Travel and Vacation Services\n    - Company Meeting and Convention Services\n    - Membership Solicitation\n  - SE PRODUCTS\n    - In-flight Merchandise Sales\n    - Catalog Sales\n  - SE SERVICES\n    - In-flight Catering\n    - Ground Support\n    - Maintenance Support\n    - Security\n::>\n",
+            "chunks": [
+                "dad90b2f-cb8a-4d49-a72f-b47d9cab3b29",
+                "1dedb8ca-afe0-4915-abc5-20ac568d3c6f"
+            ]
+        }
+    ],
+    "grounding": {
+        "dad90b2f-cb8a-4d49-a72f-b47d9cab3b29": {
+            "box": {
+                "left": 0.8588951230049133,
+                "top": 0.03303912654519081,
+                "right": 0.9592214226722717,
+                "bottom": 0.05924354866147041
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "1dedb8ca-afe0-4915-abc5-20ac568d3c6f": {
+            "box": {
+                "left": 0.003859579563140869,
+                "top": 0.09365019202232361,
+                "right": 0.9957719445228577,
+                "bottom": 0.9565978050231934
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "mtjm0081_13.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9295,
+        "credit_usage": 3.0,
+        "job_id": "hzewktcdslyqsd3j0u3ckwu55",
+        "version": "dpt-2-20250919"
+    }
+}

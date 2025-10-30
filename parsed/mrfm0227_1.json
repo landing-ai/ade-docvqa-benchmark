@@ -1,0 +1,378 @@
+{
+    "markdown": "<a id='01be3b0c-57e5-415b-8d56-0cc23a349cee'></a>\n\nFor WJD\nDate 12/20 Time 9:50\nWHILE YOU WERE OUT\n\n<a id='25b0b5ae-2185-4f5c-8401-50458f33628c'></a>\n\nM: Laura Harrill\nFrom: U. of Tenn.\nPhone No.: 615-974-3491\n\n<a id='56ea03ca-2c5a-4fa8-8c18-85d53d018e34'></a>\n\nArea Code Number\n\n<a id='88caacff-8136-4f83-b345-c77009a70b62'></a>\n\nExtension\n\n<a id='44a18f36-a991-4e4e-a0e8-40723192fa38'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TELEPHONED</td><td id=\"0-3\"></td><td id=\"0-4\">URGENT</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">PLEASE CALL</td><td id=\"0-7\">(check mark)</td><td id=\"0-8\">WANTS TO SEE YOU</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">WILL CALL AGAIN</td><td id=\"0-b\"></td><td id=\"0-c\">CAME TO SEE YOU</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-f\">(check mark)</td></tr>\n</table>\n\n<a id='db4770d1-3133-4601-a695-9ef919a699f5'></a>\n\nMessage___\n\n<a id='dae09bae-d07b-4e21-820e-7518798280ec'></a>\n\nmust\nan operator\nOperator\nCode\nContractor\nFord Product Edmund\nStreet\nDolly Holland - Kraft\nBari Holland FBAF\nBarbara\n\n<a id='d0462e4b-f5e8-4c79-b55f-d6b807c300f4'></a>\n\n[illegible handwritten text]\nSource: https://www.industrydocuments.ucsf.edu/docs/mrfm0227",
+    "chunks": [
+        {
+            "markdown": "<a id='01be3b0c-57e5-415b-8d56-0cc23a349cee'></a>\n\nFor WJD\nDate 12/20 Time 9:50\nWHILE YOU WERE OUT",
+            "type": "text",
+            "id": "01be3b0c-57e5-415b-8d56-0cc23a349cee",
+            "grounding": {
+                "box": {
+                    "left": 0.1121559739112854,
+                    "top": 0.08182890713214874,
+                    "right": 0.8520300388336182,
+                    "bottom": 0.24649639427661896
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='25b0b5ae-2185-4f5c-8401-50458f33628c'></a>\n\nM: Laura Harrill\nFrom: U. of Tenn.\nPhone No.: 615-974-3491",
+            "type": "text",
+            "id": "25b0b5ae-2185-4f5c-8401-50458f33628c",
+            "grounding": {
+                "box": {
+                    "left": 0.1096879243850708,
+                    "top": 0.24597379565238953,
+                    "right": 0.8686903119087219,
+                    "bottom": 0.39424750208854675
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='56ea03ca-2c5a-4fa8-8c18-85d53d018e34'></a>\n\nArea Code Number",
+            "type": "text",
+            "id": "56ea03ca-2c5a-4fa8-8c18-85d53d018e34",
+            "grounding": {
+                "box": {
+                    "left": 0.3021244704723358,
+                    "top": 0.3930210471153259,
+                    "right": 0.6546344757080078,
+                    "bottom": 0.4214887022972107
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='88caacff-8136-4f83-b345-c77009a70b62'></a>\n\nExtension",
+            "type": "text",
+            "id": "88caacff-8136-4f83-b345-c77009a70b62",
+            "grounding": {
+                "box": {
+                    "left": 0.7386921048164368,
+                    "top": 0.3929625451564789,
+                    "right": 0.8704108595848083,
+                    "bottom": 0.42035409808158875
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='44a18f36-a991-4e4e-a0e8-40723192fa38'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TELEPHONED</td><td id=\"0-3\"></td><td id=\"0-4\">URGENT</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">PLEASE CALL</td><td id=\"0-7\">(check mark)</td><td id=\"0-8\">WANTS TO SEE YOU</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">WILL CALL AGAIN</td><td id=\"0-b\"></td><td id=\"0-c\">CAME TO SEE YOU</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-f\">(check mark)</td></tr>\n</table>",
+            "type": "table",
+            "id": "44a18f36-a991-4e4e-a0e8-40723192fa38",
+            "grounding": {
+                "box": {
+                    "left": 0.11222279071807861,
+                    "top": 0.42132169008255005,
+                    "right": 0.866324245929718,
+                    "bottom": 0.5730376243591309
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='db4770d1-3133-4601-a695-9ef919a699f5'></a>\n\nMessage___",
+            "type": "text",
+            "id": "db4770d1-3133-4601-a695-9ef919a699f5",
+            "grounding": {
+                "box": {
+                    "left": 0.11381182074546814,
+                    "top": 0.5803145170211792,
+                    "right": 0.8624284267425537,
+                    "bottom": 0.6237558126449585
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dae09bae-d07b-4e21-820e-7518798280ec'></a>\n\nmust\nan operator\nOperator\nCode\nContractor\nFord Product Edmund\nStreet\nDolly Holland - Kraft\nBari Holland FBAF\nBarbara",
+            "type": "text",
+            "id": "dae09bae-d07b-4e21-820e-7518798280ec",
+            "grounding": {
+                "box": {
+                    "left": 0.05499628186225891,
+                    "top": 0.6341963410377502,
+                    "right": 0.8913376331329346,
+                    "bottom": 0.965120255947113
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d0462e4b-f5e8-4c79-b55f-d6b807c300f4'></a>\n\n[illegible handwritten text]\nSource: https://www.industrydocuments.ucsf.edu/docs/mrfm0227",
+            "type": "text",
+            "id": "d0462e4b-f5e8-4c79-b55f-d6b807c300f4",
+            "grounding": {
+                "box": {
+                    "left": 0.02729138731956482,
+                    "top": 0.9359897971153259,
+                    "right": 0.9642778635025024,
+                    "bottom": 0.9994494318962097
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='01be3b0c-57e5-415b-8d56-0cc23a349cee'></a>\n\nFor WJD\nDate 12/20 Time 9:50\nWHILE YOU WERE OUT\n\n<a id='25b0b5ae-2185-4f5c-8401-50458f33628c'></a>\n\nM: Laura Harrill\nFrom: U. of Tenn.\nPhone No.: 615-974-3491\n\n<a id='56ea03ca-2c5a-4fa8-8c18-85d53d018e34'></a>\n\nArea Code Number\n\n<a id='88caacff-8136-4f83-b345-c77009a70b62'></a>\n\nExtension\n\n<a id='44a18f36-a991-4e4e-a0e8-40723192fa38'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TELEPHONED</td><td id=\"0-3\"></td><td id=\"0-4\">URGENT</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">PLEASE CALL</td><td id=\"0-7\">(check mark)</td><td id=\"0-8\">WANTS TO SEE YOU</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">WILL CALL AGAIN</td><td id=\"0-b\"></td><td id=\"0-c\">CAME TO SEE YOU</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-f\">(check mark)</td></tr>\n</table>\n\n<a id='db4770d1-3133-4601-a695-9ef919a699f5'></a>\n\nMessage___\n\n<a id='dae09bae-d07b-4e21-820e-7518798280ec'></a>\n\nmust\nan operator\nOperator\nCode\nContractor\nFord Product Edmund\nStreet\nDolly Holland - Kraft\nBari Holland FBAF\nBarbara\n\n<a id='d0462e4b-f5e8-4c79-b55f-d6b807c300f4'></a>\n\n[illegible handwritten text]\nSource: https://www.industrydocuments.ucsf.edu/docs/mrfm0227",
+            "chunks": [
+                "01be3b0c-57e5-415b-8d56-0cc23a349cee",
+                "25b0b5ae-2185-4f5c-8401-50458f33628c",
+                "56ea03ca-2c5a-4fa8-8c18-85d53d018e34",
+                "88caacff-8136-4f83-b345-c77009a70b62",
+                "44a18f36-a991-4e4e-a0e8-40723192fa38",
+                "db4770d1-3133-4601-a695-9ef919a699f5",
+                "dae09bae-d07b-4e21-820e-7518798280ec",
+                "d0462e4b-f5e8-4c79-b55f-d6b807c300f4"
+            ]
+        }
+    ],
+    "grounding": {
+        "01be3b0c-57e5-415b-8d56-0cc23a349cee": {
+            "box": {
+                "left": 0.1121559739112854,
+                "top": 0.08182890713214874,
+                "right": 0.8520300388336182,
+                "bottom": 0.24649639427661896
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "25b0b5ae-2185-4f5c-8401-50458f33628c": {
+            "box": {
+                "left": 0.1096879243850708,
+                "top": 0.24597379565238953,
+                "right": 0.8686903119087219,
+                "bottom": 0.39424750208854675
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "56ea03ca-2c5a-4fa8-8c18-85d53d018e34": {
+            "box": {
+                "left": 0.3021244704723358,
+                "top": 0.3930210471153259,
+                "right": 0.6546344757080078,
+                "bottom": 0.4214887022972107
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "88caacff-8136-4f83-b345-c77009a70b62": {
+            "box": {
+                "left": 0.7386921048164368,
+                "top": 0.3929625451564789,
+                "right": 0.8704108595848083,
+                "bottom": 0.42035409808158875
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "44a18f36-a991-4e4e-a0e8-40723192fa38": {
+            "box": {
+                "left": 0.11222279071807861,
+                "top": 0.42132169008255005,
+                "right": 0.866324245929718,
+                "bottom": 0.5730376243591309
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.12607971396350737,
+                "top": 0.430109210599285,
+                "right": 0.8542712285684182,
+                "bottom": 0.564364091664693
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.12607971396350737,
+                "top": 0.430109210599285,
+                "right": 0.43814365274583267,
+                "bottom": 0.4633478147425887
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.43814365274583267,
+                "top": 0.430109210599285,
+                "right": 0.48483441389690896,
+                "bottom": 0.4633478147425887
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.48483441389690896,
+                "top": 0.430109210599285,
+                "right": 0.8043692061230878,
+                "bottom": 0.4633478147425887
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.8043692061230878,
+                "top": 0.430109210599285,
+                "right": 0.8510817220816556,
+                "bottom": 0.4633478147425887
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.12607971396350737,
+                "top": 0.4633478147425887,
+                "right": 0.43814365274583267,
+                "bottom": 0.49671804955118404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.43814365274583267,
+                "top": 0.4633478147425887,
+                "right": 0.48483441389690896,
+                "bottom": 0.49671804955118404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.48483441389690896,
+                "top": 0.4633478147425887,
+                "right": 0.8043692061230878,
+                "bottom": 0.49671804955118404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.8043692061230878,
+                "top": 0.4633478147425887,
+                "right": 0.8510817220816556,
+                "bottom": 0.49671804955118404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.12607971396350737,
+                "top": 0.49671804955118404,
+                "right": 0.43814365274583267,
+                "bottom": 0.5303584115686526
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.43814365274583267,
+                "top": 0.49671804955118404,
+                "right": 0.48483441389690896,
+                "bottom": 0.5303584115686526
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.48483441389690896,
+                "top": 0.49671804955118404,
+                "right": 0.8043692061230878,
+                "bottom": 0.5303584115686526
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.8043692061230878,
+                "top": 0.49671804955118404,
+                "right": 0.8510817220816556,
+                "bottom": 0.5303584115686526
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.12607971396350737,
+                "top": 0.5303584115686526,
+                "right": 0.8510817220816556,
+                "bottom": 0.564364091664693
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.8043692061230878,
+                "top": 0.5303584115686526,
+                "right": 0.8510817220816556,
+                "bottom": 0.564364091664693
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "db4770d1-3133-4601-a695-9ef919a699f5": {
+            "box": {
+                "left": 0.11381182074546814,
+                "top": 0.5803145170211792,
+                "right": 0.8624284267425537,
+                "bottom": 0.6237558126449585
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dae09bae-d07b-4e21-820e-7518798280ec": {
+            "box": {
+                "left": 0.05499628186225891,
+                "top": 0.6341963410377502,
+                "right": 0.8913376331329346,
+                "bottom": 0.965120255947113
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d0462e4b-f5e8-4c79-b55f-d6b807c300f4": {
+            "box": {
+                "left": 0.02729138731956482,
+                "top": 0.9359897971153259,
+                "right": 0.9642778635025024,
+                "bottom": 0.9994494318962097
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "mrfm0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7758,
+        "credit_usage": 3.0,
+        "job_id": "oslrtnxwaorpxf258zcebk7it",
+        "version": "dpt-2-20250919"
+    }
+}

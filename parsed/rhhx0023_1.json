@@ -1,0 +1,303 @@
+{
+    "markdown": "<a id='422950bb-7a3e-4258-9378-efb77ade8d27'></a>\n\n<::logo: R.J. Reynolds\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a prominent, elegant, black script font, with \"Tobacco Company\" in a smaller, simpler black font underneath, all against a white background.::>\n\n<a id='2d02c62b-54de-47ef-a303-7ff7b12d0ce0'></a>\n\nKay W. Wagner\nTax Analyst\nP. O. Box 2959\nWinston-Salem, NC 27102\n(336) 741-0265\nFax (336) 741-0259\n\n<a id='a0e15497-2cf7-4a41-a593-43cf0b319353'></a>\n\nSeptember 1, 1998\n\n<a id='52640b55-549a-44f7-bf14-4e4be0c8eca2'></a>\n\nTO: George Moulton\n\nRJRT Field Sales #1244\n\n<a id='a9c40919-da39-4df0-9f94-c8619a43bec0'></a>\n\nSUBJECT: GRATIS TAX REIMBURSEMENT - BSGSF PRODUCT\n\nACCOUNT SIS#: 5505580\nACCOUNT NAME: Harold Levinson Associates, Inc. - Hicksville, NY\nRJR INVOICE#: 104-0025\n\n<a id='9df3084d-424f-42e1-840f-1ce9a6b7b8e3'></a>\n\nThe attached correspondence is being returned as follows: Please make any necessary adjustments and resubmit for reimbursement, if applicable.\n\n<a id='41d21c29-dd6d-4b15-9b63-3b951a60826d'></a>\n\n\u2713 Duplicate Request (RJR invoice 104-0025 previously submitted see attached\ncopy of RJR credit memo 222-1529 previously issued for amount due direct\naccount). Please advise Direct Account.\n\n<a id='b061c5fd-f7f7-448d-ba3b-2feab7580b64'></a>\n\nIf you have any questions regarding the above, please contact me.\n\n<a id='ce514536-627a-4c5b-9ec4-3dd73c270bc0'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nKay\nA legible cursive signature \"Kay\" is centrally located on a white background.::>\n\n<a id='1dda39bf-97aa-46d4-a775-d96c178b79e6'></a>\n\n51865 6750\n\n<a id='087d5420-6108-47a9-a6c6-7b555098071a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rhhx0023",
+    "chunks": [
+        {
+            "markdown": "<a id='422950bb-7a3e-4258-9378-efb77ade8d27'></a>\n\n<::logo: R.J. Reynolds\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a prominent, elegant, black script font, with \"Tobacco Company\" in a smaller, simpler black font underneath, all against a white background.::>",
+            "type": "logo",
+            "id": "422950bb-7a3e-4258-9378-efb77ade8d27",
+            "grounding": {
+                "box": {
+                    "left": 0.15561595559120178,
+                    "top": 0.08102720975875854,
+                    "right": 0.4444290101528168,
+                    "bottom": 0.15072093904018402
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2d02c62b-54de-47ef-a303-7ff7b12d0ce0'></a>\n\nKay W. Wagner\nTax Analyst\nP. O. Box 2959\nWinston-Salem, NC 27102\n(336) 741-0265\nFax (336) 741-0259",
+            "type": "text",
+            "id": "2d02c62b-54de-47ef-a303-7ff7b12d0ce0",
+            "grounding": {
+                "box": {
+                    "left": 0.6918395757675171,
+                    "top": 0.14222465455532074,
+                    "right": 0.8479627370834351,
+                    "bottom": 0.2155715674161911
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a0e15497-2cf7-4a41-a593-43cf0b319353'></a>\n\nSeptember 1, 1998",
+            "type": "text",
+            "id": "a0e15497-2cf7-4a41-a593-43cf0b319353",
+            "grounding": {
+                "box": {
+                    "left": 0.15684083104133606,
+                    "top": 0.20662221312522888,
+                    "right": 0.32207587361335754,
+                    "bottom": 0.23060280084609985
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='52640b55-549a-44f7-bf14-4e4be0c8eca2'></a>\n\nTO: George Moulton\n\nRJRT Field Sales #1244",
+            "type": "text",
+            "id": "52640b55-549a-44f7-bf14-4e4be0c8eca2",
+            "grounding": {
+                "box": {
+                    "left": 0.15693287551403046,
+                    "top": 0.2577827572822571,
+                    "right": 0.41626495122909546,
+                    "bottom": 0.31610697507858276
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a9c40919-da39-4df0-9f94-c8619a43bec0'></a>\n\nSUBJECT: GRATIS TAX REIMBURSEMENT - BSGSF PRODUCT\n\nACCOUNT SIS#: 5505580\nACCOUNT NAME: Harold Levinson Associates, Inc. - Hicksville, NY\nRJR INVOICE#: 104-0025",
+            "type": "text",
+            "id": "a9c40919-da39-4df0-9f94-c8619a43bec0",
+            "grounding": {
+                "box": {
+                    "left": 0.1509615182876587,
+                    "top": 0.3579851984977722,
+                    "right": 0.8696447610855103,
+                    "bottom": 0.47323155403137207
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9df3084d-424f-42e1-840f-1ce9a6b7b8e3'></a>\n\nThe attached correspondence is being returned as follows: Please make any necessary adjustments and resubmit for reimbursement, if applicable.",
+            "type": "text",
+            "id": "9df3084d-424f-42e1-840f-1ce9a6b7b8e3",
+            "grounding": {
+                "box": {
+                    "left": 0.15436354279518127,
+                    "top": 0.48231783509254456,
+                    "right": 0.7889937162399292,
+                    "bottom": 0.5214875340461731
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='41d21c29-dd6d-4b15-9b63-3b951a60826d'></a>\n\n\u2713 Duplicate Request (RJR invoice 104-0025 previously submitted see attached\ncopy of RJR credit memo 222-1529 previously issued for amount due direct\naccount). Please advise Direct Account.",
+            "type": "text",
+            "id": "41d21c29-dd6d-4b15-9b63-3b951a60826d",
+            "grounding": {
+                "box": {
+                    "left": 0.15325918793678284,
+                    "top": 0.521416425704956,
+                    "right": 0.846521258354187,
+                    "bottom": 0.5906884670257568
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b061c5fd-f7f7-448d-ba3b-2feab7580b64'></a>\n\nIf you have any questions regarding the above, please contact me.",
+            "type": "text",
+            "id": "b061c5fd-f7f7-448d-ba3b-2feab7580b64",
+            "grounding": {
+                "box": {
+                    "left": 0.15319833159446716,
+                    "top": 0.6009325385093689,
+                    "right": 0.6954306364059448,
+                    "bottom": 0.6264367699623108
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ce514536-627a-4c5b-9ec4-3dd73c270bc0'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nKay\nA legible cursive signature \"Kay\" is centrally located on a white background.::>",
+            "type": "attestation",
+            "id": "ce514536-627a-4c5b-9ec4-3dd73c270bc0",
+            "grounding": {
+                "box": {
+                    "left": 0.1566564440727234,
+                    "top": 0.640145480632782,
+                    "right": 0.23665902018547058,
+                    "bottom": 0.6826699376106262
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1dda39bf-97aa-46d4-a775-d96c178b79e6'></a>\n\n51865 6750",
+            "type": "marginalia",
+            "id": "1dda39bf-97aa-46d4-a775-d96c178b79e6",
+            "grounding": {
+                "box": {
+                    "left": 0.8798214197158813,
+                    "top": 0.7689704895019531,
+                    "right": 0.904884934425354,
+                    "bottom": 0.8630810976028442
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='087d5420-6108-47a9-a6c6-7b555098071a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rhhx0023",
+            "type": "marginalia",
+            "id": "087d5420-6108-47a9-a6c6-7b555098071a",
+            "grounding": {
+                "box": {
+                    "left": 0.21554908156394958,
+                    "top": 0.9786304831504822,
+                    "right": 0.7966927289962769,
+                    "bottom": 0.9984909892082214
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='422950bb-7a3e-4258-9378-efb77ade8d27'></a>\n\n<::logo: R.J. Reynolds\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a prominent, elegant, black script font, with \"Tobacco Company\" in a smaller, simpler black font underneath, all against a white background.::>\n\n<a id='2d02c62b-54de-47ef-a303-7ff7b12d0ce0'></a>\n\nKay W. Wagner\nTax Analyst\nP. O. Box 2959\nWinston-Salem, NC 27102\n(336) 741-0265\nFax (336) 741-0259\n\n<a id='a0e15497-2cf7-4a41-a593-43cf0b319353'></a>\n\nSeptember 1, 1998\n\n<a id='52640b55-549a-44f7-bf14-4e4be0c8eca2'></a>\n\nTO: George Moulton\n\nRJRT Field Sales #1244\n\n<a id='a9c40919-da39-4df0-9f94-c8619a43bec0'></a>\n\nSUBJECT: GRATIS TAX REIMBURSEMENT - BSGSF PRODUCT\n\nACCOUNT SIS#: 5505580\nACCOUNT NAME: Harold Levinson Associates, Inc. - Hicksville, NY\nRJR INVOICE#: 104-0025\n\n<a id='9df3084d-424f-42e1-840f-1ce9a6b7b8e3'></a>\n\nThe attached correspondence is being returned as follows: Please make any necessary adjustments and resubmit for reimbursement, if applicable.\n\n<a id='41d21c29-dd6d-4b15-9b63-3b951a60826d'></a>\n\n\u2713 Duplicate Request (RJR invoice 104-0025 previously submitted see attached\ncopy of RJR credit memo 222-1529 previously issued for amount due direct\naccount). Please advise Direct Account.\n\n<a id='b061c5fd-f7f7-448d-ba3b-2feab7580b64'></a>\n\nIf you have any questions regarding the above, please contact me.\n\n<a id='ce514536-627a-4c5b-9ec4-3dd73c270bc0'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nKay\nA legible cursive signature \"Kay\" is centrally located on a white background.::>\n\n<a id='1dda39bf-97aa-46d4-a775-d96c178b79e6'></a>\n\n51865 6750\n\n<a id='087d5420-6108-47a9-a6c6-7b555098071a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rhhx0023",
+            "chunks": [
+                "422950bb-7a3e-4258-9378-efb77ade8d27",
+                "2d02c62b-54de-47ef-a303-7ff7b12d0ce0",
+                "a0e15497-2cf7-4a41-a593-43cf0b319353",
+                "52640b55-549a-44f7-bf14-4e4be0c8eca2",
+                "a9c40919-da39-4df0-9f94-c8619a43bec0",
+                "9df3084d-424f-42e1-840f-1ce9a6b7b8e3",
+                "41d21c29-dd6d-4b15-9b63-3b951a60826d",
+                "b061c5fd-f7f7-448d-ba3b-2feab7580b64",
+                "ce514536-627a-4c5b-9ec4-3dd73c270bc0",
+                "1dda39bf-97aa-46d4-a775-d96c178b79e6",
+                "087d5420-6108-47a9-a6c6-7b555098071a"
+            ]
+        }
+    ],
+    "grounding": {
+        "422950bb-7a3e-4258-9378-efb77ade8d27": {
+            "box": {
+                "left": 0.15561595559120178,
+                "top": 0.08102720975875854,
+                "right": 0.4444290101528168,
+                "bottom": 0.15072093904018402
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "2d02c62b-54de-47ef-a303-7ff7b12d0ce0": {
+            "box": {
+                "left": 0.6918395757675171,
+                "top": 0.14222465455532074,
+                "right": 0.8479627370834351,
+                "bottom": 0.2155715674161911
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a0e15497-2cf7-4a41-a593-43cf0b319353": {
+            "box": {
+                "left": 0.15684083104133606,
+                "top": 0.20662221312522888,
+                "right": 0.32207587361335754,
+                "bottom": 0.23060280084609985
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "52640b55-549a-44f7-bf14-4e4be0c8eca2": {
+            "box": {
+                "left": 0.15693287551403046,
+                "top": 0.2577827572822571,
+                "right": 0.41626495122909546,
+                "bottom": 0.31610697507858276
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a9c40919-da39-4df0-9f94-c8619a43bec0": {
+            "box": {
+                "left": 0.1509615182876587,
+                "top": 0.3579851984977722,
+                "right": 0.8696447610855103,
+                "bottom": 0.47323155403137207
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9df3084d-424f-42e1-840f-1ce9a6b7b8e3": {
+            "box": {
+                "left": 0.15436354279518127,
+                "top": 0.48231783509254456,
+                "right": 0.7889937162399292,
+                "bottom": 0.5214875340461731
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "41d21c29-dd6d-4b15-9b63-3b951a60826d": {
+            "box": {
+                "left": 0.15325918793678284,
+                "top": 0.521416425704956,
+                "right": 0.846521258354187,
+                "bottom": 0.5906884670257568
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b061c5fd-f7f7-448d-ba3b-2feab7580b64": {
+            "box": {
+                "left": 0.15319833159446716,
+                "top": 0.6009325385093689,
+                "right": 0.6954306364059448,
+                "bottom": 0.6264367699623108
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ce514536-627a-4c5b-9ec4-3dd73c270bc0": {
+            "box": {
+                "left": 0.1566564440727234,
+                "top": 0.640145480632782,
+                "right": 0.23665902018547058,
+                "bottom": 0.6826699376106262
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "1dda39bf-97aa-46d4-a775-d96c178b79e6": {
+            "box": {
+                "left": 0.8798214197158813,
+                "top": 0.7689704895019531,
+                "right": 0.904884934425354,
+                "bottom": 0.8630810976028442
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "087d5420-6108-47a9-a6c6-7b555098071a": {
+            "box": {
+                "left": 0.21554908156394958,
+                "top": 0.9786304831504822,
+                "right": 0.7966927289962769,
+                "bottom": 0.9984909892082214
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "rhhx0023_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4356,
+        "credit_usage": 3.0,
+        "job_id": "h55hdwzcv1fytjybyhcpaogwz",
+        "version": "dpt-2-20250919"
+    }
+}

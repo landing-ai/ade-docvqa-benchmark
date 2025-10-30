@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='57c0c60e-a847-4978-b507-43e276b5825d'></a>\n\n36\n\n<a id='a05c508f-099a-49fa-8a1b-16f92314f7b2'></a>\n\n<::A scatter plot with two data series, DDT and Dieldrin, showing Storage (PPM) versus Dosage (MG/MAN/DAY). The x-axis, labeled \"DOSAGE (MG / MAN / DAY)\", ranges from 0 to 35. The y-axis, labeled \"STORAGE (PPM)\", ranges from 0 to 300. The plot shows an increasing trend for both series. There is an inset graph in the upper left corner, which appears to be a zoomed-in view of the lower left portion of the main graph, with its own x-axis ranging from 0 to 0.40 and y-axis ranging from 0 to 8. The legend indicates: LEGEND option DDT: [ ] (represented by open circles) option DIELDRIN: [ ] (represented by filled circles) Figure 2::>\n\n<a id='b97ff1c0-a8a9-4676-9b98-977c5fa0faef'></a>\n\nStorage of DDT (upper line, open circles) and dieldrin (lower line, solid\npoints) in the body fat of people in relation to dosage.\n\n<a id='62d8f988-71dc-449f-93d7-be7de5120f17'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/skgh0228",
+    "chunks": [
+        {
+            "markdown": "<a id='57c0c60e-a847-4978-b507-43e276b5825d'></a>\n\n36",
+            "type": "marginalia",
+            "id": "57c0c60e-a847-4978-b507-43e276b5825d",
+            "grounding": {
+                "box": {
+                    "left": 0.11057019233703613,
+                    "top": 0.069512277841568,
+                    "right": 0.1430051624774933,
+                    "bottom": 0.08933189511299133
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a05c508f-099a-49fa-8a1b-16f92314f7b2'></a>\n\n<::A scatter plot with two data series, DDT and Dieldrin, showing Storage (PPM) versus Dosage (MG/MAN/DAY). The x-axis, labeled \"DOSAGE (MG / MAN / DAY)\", ranges from 0 to 35. The y-axis, labeled \"STORAGE (PPM)\", ranges from 0 to 300. The plot shows an increasing trend for both series. There is an inset graph in the upper left corner, which appears to be a zoomed-in view of the lower left portion of the main graph, with its own x-axis ranging from 0 to 0.40 and y-axis ranging from 0 to 8. The legend indicates: LEGEND option DDT: [ ] (represented by open circles) option DIELDRIN: [ ] (represented by filled circles) Figure 2::>",
+            "type": "figure",
+            "id": "a05c508f-099a-49fa-8a1b-16f92314f7b2",
+            "grounding": {
+                "box": {
+                    "left": 0.09981346130371094,
+                    "top": 0.20094305276870728,
+                    "right": 0.8727399706840515,
+                    "bottom": 0.7641288042068481
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b97ff1c0-a8a9-4676-9b98-977c5fa0faef'></a>\n\nStorage of DDT (upper line, open circles) and dieldrin (lower line, solid\npoints) in the body fat of people in relation to dosage.",
+            "type": "text",
+            "id": "b97ff1c0-a8a9-4676-9b98-977c5fa0faef",
+            "grounding": {
+                "box": {
+                    "left": 0.10289999842643738,
+                    "top": 0.7696183919906616,
+                    "right": 0.8449535369873047,
+                    "bottom": 0.8228546380996704
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='62d8f988-71dc-449f-93d7-be7de5120f17'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/skgh0228",
+            "type": "marginalia",
+            "id": "62d8f988-71dc-449f-93d7-be7de5120f17",
+            "grounding": {
+                "box": {
+                    "left": 0.2170841097831726,
+                    "top": 0.9759513735771179,
+                    "right": 0.784931480884552,
+                    "bottom": 0.99887615442276
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='57c0c60e-a847-4978-b507-43e276b5825d'></a>\n\n36\n\n<a id='a05c508f-099a-49fa-8a1b-16f92314f7b2'></a>\n\n<::A scatter plot with two data series, DDT and Dieldrin, showing Storage (PPM) versus Dosage (MG/MAN/DAY). The x-axis, labeled \"DOSAGE (MG / MAN / DAY)\", ranges from 0 to 35. The y-axis, labeled \"STORAGE (PPM)\", ranges from 0 to 300. The plot shows an increasing trend for both series. There is an inset graph in the upper left corner, which appears to be a zoomed-in view of the lower left portion of the main graph, with its own x-axis ranging from 0 to 0.40 and y-axis ranging from 0 to 8. The legend indicates: LEGEND option DDT: [ ] (represented by open circles) option DIELDRIN: [ ] (represented by filled circles) Figure 2::>\n\n<a id='b97ff1c0-a8a9-4676-9b98-977c5fa0faef'></a>\n\nStorage of DDT (upper line, open circles) and dieldrin (lower line, solid\npoints) in the body fat of people in relation to dosage.\n\n<a id='62d8f988-71dc-449f-93d7-be7de5120f17'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/skgh0228",
+            "chunks": [
+                "57c0c60e-a847-4978-b507-43e276b5825d",
+                "a05c508f-099a-49fa-8a1b-16f92314f7b2",
+                "b97ff1c0-a8a9-4676-9b98-977c5fa0faef",
+                "62d8f988-71dc-449f-93d7-be7de5120f17"
+            ]
+        }
+    ],
+    "grounding": {
+        "57c0c60e-a847-4978-b507-43e276b5825d": {
+            "box": {
+                "left": 0.11057019233703613,
+                "top": 0.069512277841568,
+                "right": 0.1430051624774933,
+                "bottom": 0.08933189511299133
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "a05c508f-099a-49fa-8a1b-16f92314f7b2": {
+            "box": {
+                "left": 0.09981346130371094,
+                "top": 0.20094305276870728,
+                "right": 0.8727399706840515,
+                "bottom": 0.7641288042068481
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "b97ff1c0-a8a9-4676-9b98-977c5fa0faef": {
+            "box": {
+                "left": 0.10289999842643738,
+                "top": 0.7696183919906616,
+                "right": 0.8449535369873047,
+                "bottom": 0.8228546380996704
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "62d8f988-71dc-449f-93d7-be7de5120f17": {
+            "box": {
+                "left": 0.2170841097831726,
+                "top": 0.9759513735771179,
+                "right": 0.784931480884552,
+                "bottom": 0.99887615442276
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "skgb0228_43.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 15858,
+        "credit_usage": 3.0,
+        "job_id": "y3v9sfhzxxikz4zn0ftlr7nvt",
+        "version": "dpt-2-20250919"
+    }
+}

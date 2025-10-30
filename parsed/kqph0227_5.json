@@ -1,0 +1,353 @@
+{
+    "markdown": "<a id='2106505a-6960-484d-a770-d12fb8c75450'></a>\n\nTHE NATION'S LARGEST CHAIN OF INDIVIDUALLY OWNED MOTELS / FREE RESERVATIONS ... COAST TO COAST\n\n<a id='fb99b718-fc51-447e-bb74-55914b2bc84c'></a>\n\n<::logo: Western Motels\nMEMBER THE BEST Western MOTELS SKM\nA crown sits above a rectangular sign with rounded corners, all superimposed on a map of the United States, rendered in a stippled black and white style.::>\n\n<a id='9cbf1542-e427-4c51-af49-5580a0adf488'></a>\n\nBUFFALO INN\nMOTOR HOTEL & RESTAURANT\nU. S. 24 HIGHWAY WEST\nGOODLAND, KANSAS\nTELEPHONE 913 TW9-3621\n\n<a id='80940868-0570-425c-9966-4d8cd0fc0ad4'></a>\n\nAugust 10, 1968\n\n<a id='37dbe18d-d6bb-4e71-b6b9-8ae4da953bcb'></a>\n\nMr. R. T. Makie\nMerchandising Manager\nGreat Western Sugar Co.\nSugar Building\nDenver, Colo. 80217\n\n<a id='e73030a1-4cdf-4897-98e1-3d7df10cc2db'></a>\n\nDear Mr. Makie:\n\n<a id='13e8ab6e-1469-4e58-a364-199d0aa45976'></a>\n\nThank you for your letter of August 10. We are glad to hear\nthat you will be satying with us.\n\n<a id='e64d8c04-9a18-4671-baf8-dd0cd39bd0e1'></a>\n\nThe Great Western Sugar Company has reserved 50 rooms with\ntwin beds in each room ( accommodating 2 persons ) in each\nroom for the night of September 20, 1968, Friday.\n\n<a id='7c093632-b24d-44f0-b206-9b277910a7d9'></a>\n\nSo I'll need to know who is going to be in the room with\nBill Gruber and who is going to be in the room with R. T.\nMakie.\n\n<a id='259ff7f3-f882-46bc-83ed-2ee4c33c6fc9'></a>\n\nThank you again. We will be looking forward to the opportuinty\nof serving you.\n\n<a id='c40a303f-b352-49a6-b949-2540cd9e09c5'></a>\n\nSent letter\naug. 16.\nptm\n\n<a id='4ee612c7-3bbe-4960-b530-04162d7b81a7'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Sharon David)\nBest Westernly Yours\nReservation Manager\nA handwritten signature is placed below the typed text \"Best Westernly Yours\" and above the typed text \"Reservation Manager\", centered on the page.::>\n\n<a id='370a147e-15c2-4fdf-b926-f94d3c17ef4c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kqph0227",
+    "chunks": [
+        {
+            "markdown": "<a id='2106505a-6960-484d-a770-d12fb8c75450'></a>\n\nTHE NATION'S LARGEST CHAIN OF INDIVIDUALLY OWNED MOTELS / FREE RESERVATIONS ... COAST TO COAST",
+            "type": "text",
+            "id": "2106505a-6960-484d-a770-d12fb8c75450",
+            "grounding": {
+                "box": {
+                    "left": 0.14787164330482483,
+                    "top": 0.015214517712593079,
+                    "right": 0.9057574272155762,
+                    "bottom": 0.04432682320475578
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fb99b718-fc51-447e-bb74-55914b2bc84c'></a>\n\n<::logo: Western Motels\nMEMBER THE BEST Western MOTELS SKM\nA crown sits above a rectangular sign with rounded corners, all superimposed on a map of the United States, rendered in a stippled black and white style.::>",
+            "type": "logo",
+            "id": "fb99b718-fc51-447e-bb74-55914b2bc84c",
+            "grounding": {
+                "box": {
+                    "left": 0.16409656405448914,
+                    "top": 0.0596686452627182,
+                    "right": 0.4012913405895233,
+                    "bottom": 0.22052599489688873
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9cbf1542-e427-4c51-af49-5580a0adf488'></a>\n\nBUFFALO INN\nMOTOR HOTEL & RESTAURANT\nU. S. 24 HIGHWAY WEST\nGOODLAND, KANSAS\nTELEPHONE 913 TW9-3621",
+            "type": "text",
+            "id": "9cbf1542-e427-4c51-af49-5580a0adf488",
+            "grounding": {
+                "box": {
+                    "left": 0.5618526339530945,
+                    "top": 0.07449433952569962,
+                    "right": 0.855506956577301,
+                    "bottom": 0.15890365839004517
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='80940868-0570-425c-9966-4d8cd0fc0ad4'></a>\n\nAugust 10, 1968",
+            "type": "text",
+            "id": "80940868-0570-425c-9966-4d8cd0fc0ad4",
+            "grounding": {
+                "box": {
+                    "left": 0.6174362301826477,
+                    "top": 0.16981787979602814,
+                    "right": 0.8051384091377258,
+                    "bottom": 0.19422943890094757
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='37dbe18d-d6bb-4e71-b6b9-8ae4da953bcb'></a>\n\nMr. R. T. Makie\nMerchandising Manager\nGreat Western Sugar Co.\nSugar Building\nDenver, Colo. 80217",
+            "type": "text",
+            "id": "37dbe18d-d6bb-4e71-b6b9-8ae4da953bcb",
+            "grounding": {
+                "box": {
+                    "left": 0.14831335842609406,
+                    "top": 0.23643213510513306,
+                    "right": 0.42569029331207275,
+                    "bottom": 0.32337093353271484
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e73030a1-4cdf-4897-98e1-3d7df10cc2db'></a>\n\nDear Mr. Makie:",
+            "type": "text",
+            "id": "e73030a1-4cdf-4897-98e1-3d7df10cc2db",
+            "grounding": {
+                "box": {
+                    "left": 0.1498851478099823,
+                    "top": 0.34258654713630676,
+                    "right": 0.339552104473114,
+                    "bottom": 0.3659040629863739
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='13e8ab6e-1469-4e58-a364-199d0aa45976'></a>\n\nThank you for your letter of August 10. We are glad to hear\nthat you will be satying with us.",
+            "type": "text",
+            "id": "13e8ab6e-1469-4e58-a364-199d0aa45976",
+            "grounding": {
+                "box": {
+                    "left": 0.15122881531715393,
+                    "top": 0.3860935568809509,
+                    "right": 0.8488750457763672,
+                    "bottom": 0.4344867467880249
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e64d8c04-9a18-4671-baf8-dd0cd39bd0e1'></a>\n\nThe Great Western Sugar Company has reserved 50 rooms with\ntwin beds in each room ( accommodating 2 persons ) in each\nroom for the night of September 20, 1968, Friday.",
+            "type": "text",
+            "id": "e64d8c04-9a18-4671-baf8-dd0cd39bd0e1",
+            "grounding": {
+                "box": {
+                    "left": 0.150225430727005,
+                    "top": 0.4523284435272217,
+                    "right": 0.8271647691726685,
+                    "bottom": 0.5233478546142578
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7c093632-b24d-44f0-b206-9b277910a7d9'></a>\n\nSo I'll need to know who is going to be in the room with\nBill Gruber and who is going to be in the room with R. T.\nMakie.",
+            "type": "text",
+            "id": "7c093632-b24d-44f0-b206-9b277910a7d9",
+            "grounding": {
+                "box": {
+                    "left": 0.14945882558822632,
+                    "top": 0.5411696434020996,
+                    "right": 0.81489098072052,
+                    "bottom": 0.610792875289917
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='259ff7f3-f882-46bc-83ed-2ee4c33c6fc9'></a>\n\nThank you again. We will be looking forward to the opportuinty\nof serving you.",
+            "type": "text",
+            "id": "259ff7f3-f882-46bc-83ed-2ee4c33c6fc9",
+            "grounding": {
+                "box": {
+                    "left": 0.14838895201683044,
+                    "top": 0.6289162635803223,
+                    "right": 0.8819259405136108,
+                    "bottom": 0.6800742149353027
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c40a303f-b352-49a6-b949-2540cd9e09c5'></a>\n\nSent letter\naug. 16.\nptm",
+            "type": "text",
+            "id": "c40a303f-b352-49a6-b949-2540cd9e09c5",
+            "grounding": {
+                "box": {
+                    "left": 0.12478119879961014,
+                    "top": 0.7068471908569336,
+                    "right": 0.36019355058670044,
+                    "bottom": 0.8618628978729248
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4ee612c7-3bbe-4960-b530-04162d7b81a7'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Sharon David)\nBest Westernly Yours\nReservation Manager\nA handwritten signature is placed below the typed text \"Best Westernly Yours\" and above the typed text \"Reservation Manager\", centered on the page.::>",
+            "type": "attestation",
+            "id": "4ee612c7-3bbe-4960-b530-04162d7b81a7",
+            "grounding": {
+                "box": {
+                    "left": 0.6211076378822327,
+                    "top": 0.7108027935028076,
+                    "right": 0.9397132992744446,
+                    "bottom": 0.8074201345443726
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='370a147e-15c2-4fdf-b926-f94d3c17ef4c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kqph0227",
+            "type": "marginalia",
+            "id": "370a147e-15c2-4fdf-b926-f94d3c17ef4c",
+            "grounding": {
+                "box": {
+                    "left": 0.335530161857605,
+                    "top": 0.9829806089401245,
+                    "right": 0.6636406183242798,
+                    "bottom": 0.9982959032058716
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2106505a-6960-484d-a770-d12fb8c75450'></a>\n\nTHE NATION'S LARGEST CHAIN OF INDIVIDUALLY OWNED MOTELS / FREE RESERVATIONS ... COAST TO COAST\n\n<a id='fb99b718-fc51-447e-bb74-55914b2bc84c'></a>\n\n<::logo: Western Motels\nMEMBER THE BEST Western MOTELS SKM\nA crown sits above a rectangular sign with rounded corners, all superimposed on a map of the United States, rendered in a stippled black and white style.::>\n\n<a id='9cbf1542-e427-4c51-af49-5580a0adf488'></a>\n\nBUFFALO INN\nMOTOR HOTEL & RESTAURANT\nU. S. 24 HIGHWAY WEST\nGOODLAND, KANSAS\nTELEPHONE 913 TW9-3621\n\n<a id='80940868-0570-425c-9966-4d8cd0fc0ad4'></a>\n\nAugust 10, 1968\n\n<a id='37dbe18d-d6bb-4e71-b6b9-8ae4da953bcb'></a>\n\nMr. R. T. Makie\nMerchandising Manager\nGreat Western Sugar Co.\nSugar Building\nDenver, Colo. 80217\n\n<a id='e73030a1-4cdf-4897-98e1-3d7df10cc2db'></a>\n\nDear Mr. Makie:\n\n<a id='13e8ab6e-1469-4e58-a364-199d0aa45976'></a>\n\nThank you for your letter of August 10. We are glad to hear\nthat you will be satying with us.\n\n<a id='e64d8c04-9a18-4671-baf8-dd0cd39bd0e1'></a>\n\nThe Great Western Sugar Company has reserved 50 rooms with\ntwin beds in each room ( accommodating 2 persons ) in each\nroom for the night of September 20, 1968, Friday.\n\n<a id='7c093632-b24d-44f0-b206-9b277910a7d9'></a>\n\nSo I'll need to know who is going to be in the room with\nBill Gruber and who is going to be in the room with R. T.\nMakie.\n\n<a id='259ff7f3-f882-46bc-83ed-2ee4c33c6fc9'></a>\n\nThank you again. We will be looking forward to the opportuinty\nof serving you.\n\n<a id='c40a303f-b352-49a6-b949-2540cd9e09c5'></a>\n\nSent letter\naug. 16.\nptm\n\n<a id='4ee612c7-3bbe-4960-b530-04162d7b81a7'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Sharon David)\nBest Westernly Yours\nReservation Manager\nA handwritten signature is placed below the typed text \"Best Westernly Yours\" and above the typed text \"Reservation Manager\", centered on the page.::>\n\n<a id='370a147e-15c2-4fdf-b926-f94d3c17ef4c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kqph0227",
+            "chunks": [
+                "2106505a-6960-484d-a770-d12fb8c75450",
+                "fb99b718-fc51-447e-bb74-55914b2bc84c",
+                "9cbf1542-e427-4c51-af49-5580a0adf488",
+                "80940868-0570-425c-9966-4d8cd0fc0ad4",
+                "37dbe18d-d6bb-4e71-b6b9-8ae4da953bcb",
+                "e73030a1-4cdf-4897-98e1-3d7df10cc2db",
+                "13e8ab6e-1469-4e58-a364-199d0aa45976",
+                "e64d8c04-9a18-4671-baf8-dd0cd39bd0e1",
+                "7c093632-b24d-44f0-b206-9b277910a7d9",
+                "259ff7f3-f882-46bc-83ed-2ee4c33c6fc9",
+                "c40a303f-b352-49a6-b949-2540cd9e09c5",
+                "4ee612c7-3bbe-4960-b530-04162d7b81a7",
+                "370a147e-15c2-4fdf-b926-f94d3c17ef4c"
+            ]
+        }
+    ],
+    "grounding": {
+        "2106505a-6960-484d-a770-d12fb8c75450": {
+            "box": {
+                "left": 0.14787164330482483,
+                "top": 0.015214517712593079,
+                "right": 0.9057574272155762,
+                "bottom": 0.04432682320475578
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fb99b718-fc51-447e-bb74-55914b2bc84c": {
+            "box": {
+                "left": 0.16409656405448914,
+                "top": 0.0596686452627182,
+                "right": 0.4012913405895233,
+                "bottom": 0.22052599489688873
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "9cbf1542-e427-4c51-af49-5580a0adf488": {
+            "box": {
+                "left": 0.5618526339530945,
+                "top": 0.07449433952569962,
+                "right": 0.855506956577301,
+                "bottom": 0.15890365839004517
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "80940868-0570-425c-9966-4d8cd0fc0ad4": {
+            "box": {
+                "left": 0.6174362301826477,
+                "top": 0.16981787979602814,
+                "right": 0.8051384091377258,
+                "bottom": 0.19422943890094757
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "37dbe18d-d6bb-4e71-b6b9-8ae4da953bcb": {
+            "box": {
+                "left": 0.14831335842609406,
+                "top": 0.23643213510513306,
+                "right": 0.42569029331207275,
+                "bottom": 0.32337093353271484
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e73030a1-4cdf-4897-98e1-3d7df10cc2db": {
+            "box": {
+                "left": 0.1498851478099823,
+                "top": 0.34258654713630676,
+                "right": 0.339552104473114,
+                "bottom": 0.3659040629863739
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "13e8ab6e-1469-4e58-a364-199d0aa45976": {
+            "box": {
+                "left": 0.15122881531715393,
+                "top": 0.3860935568809509,
+                "right": 0.8488750457763672,
+                "bottom": 0.4344867467880249
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e64d8c04-9a18-4671-baf8-dd0cd39bd0e1": {
+            "box": {
+                "left": 0.150225430727005,
+                "top": 0.4523284435272217,
+                "right": 0.8271647691726685,
+                "bottom": 0.5233478546142578
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7c093632-b24d-44f0-b206-9b277910a7d9": {
+            "box": {
+                "left": 0.14945882558822632,
+                "top": 0.5411696434020996,
+                "right": 0.81489098072052,
+                "bottom": 0.610792875289917
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "259ff7f3-f882-46bc-83ed-2ee4c33c6fc9": {
+            "box": {
+                "left": 0.14838895201683044,
+                "top": 0.6289162635803223,
+                "right": 0.8819259405136108,
+                "bottom": 0.6800742149353027
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c40a303f-b352-49a6-b949-2540cd9e09c5": {
+            "box": {
+                "left": 0.12478119879961014,
+                "top": 0.7068471908569336,
+                "right": 0.36019355058670044,
+                "bottom": 0.8618628978729248
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4ee612c7-3bbe-4960-b530-04162d7b81a7": {
+            "box": {
+                "left": 0.6211076378822327,
+                "top": 0.7108027935028076,
+                "right": 0.9397132992744446,
+                "bottom": 0.8074201345443726
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "370a147e-15c2-4fdf-b926-f94d3c17ef4c": {
+            "box": {
+                "left": 0.335530161857605,
+                "top": 0.9829806089401245,
+                "right": 0.6636406183242798,
+                "bottom": 0.9982959032058716
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "kqph0227_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5259,
+        "credit_usage": 3.0,
+        "job_id": "lz9ix4i60uy2r9dodj54cl9c9",
+        "version": "dpt-2-20250919"
+    }
+}

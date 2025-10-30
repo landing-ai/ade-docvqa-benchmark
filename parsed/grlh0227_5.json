@@ -1,0 +1,663 @@
+{
+    "markdown": "<a id='28603370-d032-445c-a44d-375391f2f6d3'></a>\n\nGODCHAUX-HENDERSON SUGAR CO., INC.\nPRO FORMA BALANCE SHEET AT 5/31/75\nIN HANDS OF OTHERS - ON LIFO\n\n<a id='78c336db-b539-4589-96f4-d95722e34fd7'></a>\n\n<::A blurry, abstract line drawing: figure::>\n\n<a id='bf9e3628-9beb-48a2-b8e0-e63a5a5063cb'></a>\n\nASSETS\n<table id=\"0-1\">\n<tr><td id=\"0-2\">.Cash</td><td id=\"0-3\">$ 1,395</td></tr>\n<tr><td id=\"0-4\">Accounts Receivable</td><td id=\"0-5\">12,464</td></tr>\n<tr><td id=\"0-6\">Inventories</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">Sugar 272,000 cwt at $11.11</td><td id=\"0-9\">3,022</td></tr>\n<tr><td id=\"0-a\">Processing cost</td><td id=\"0-b\">386</td></tr>\n<tr><td id=\"0-c\">Spare parts</td><td id=\"0-d\">1,970</td></tr>\n<tr><td id=\"0-e\">Prepaid expenses</td><td id=\"0-f\">394</td></tr>\n<tr><td id=\"0-g\">Total Current Assets</td><td id=\"0-h\">19,631</td></tr>\n<tr><td id=\"0-i\">Fixed assets - Net</td><td id=\"0-j\">14,353</td></tr>\n<tr><td id=\"0-k\">Other assets and deferred charges</td><td id=\"0-l\">411</td></tr>\n</table>\n<table id=\"0-m\">\n<tr><td id=\"0-n\">TOTAL ASSETS</td><td id=\"0-o\">$ 34,395</td></tr>\n<tr><td id=\"0-p\">LIABILITIES</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">Notes payable - banks</td><td id=\"0-s\">$ 14,253</td></tr>\n<tr><td id=\"0-t\">Notes payable - La. raw mills</td><td id=\"0-u\">7,369</td></tr>\n<tr><td id=\"0-v\">Current portion of long-term debt</td><td id=\"0-w\">115</td></tr>\n<tr><td id=\"0-x\">Accounts payable and accrued</td><td id=\"0-y\">3,334</td></tr>\n<tr><td id=\"0-z\">Total Current Liabilities</td><td id=\"0-A\">25,071</td></tr>\n<tr><td id=\"0-B\">Long-term debt</td><td id=\"0-C\">4,815</td></tr>\n<tr><td id=\"0-D\">Deferred taxes</td><td id=\"0-E\">872</td></tr>\n<tr><td id=\"0-F\">Deferred futures profit</td><td id=\"0-G\">716</td></tr>\n<tr><td id=\"0-H\">Stockholders' equity</td><td id=\"0-I\">2,921</td></tr>\n<tr><td id=\"0-J\">TOTAL LIABILITIES</td><td id=\"0-K\">$34,395</td></tr>\n</table>\n\n<a id='c9da8857-8b4c-40f3-a8c0-4e3a746213e2'></a>\n\n$ 14,253\n7,369\n115\n3,334\n25,071\n\nNeed 6mm wc\n2,2\n\n<a id='6645dc7b-ec94-469c-b5a9-277f41125ada'></a>\n\n1975 Generated.\nincome\n\n<a id='734120a3-be17-471c-a996-31b2fc57bc64'></a>\n\nErnest F. Ladd, III/gc\n6/10/75\n\n<a id='2104dbdf-5d26-4f9f-a23b-c4a9d8dd61c9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/grlh0227",
+    "chunks": [
+        {
+            "markdown": "<a id='28603370-d032-445c-a44d-375391f2f6d3'></a>\n\nGODCHAUX-HENDERSON SUGAR CO., INC.\nPRO FORMA BALANCE SHEET AT 5/31/75\nIN HANDS OF OTHERS - ON LIFO",
+            "type": "text",
+            "id": "28603370-d032-445c-a44d-375391f2f6d3",
+            "grounding": {
+                "box": {
+                    "left": 0.3032635450363159,
+                    "top": 0.02917497232556343,
+                    "right": 0.6750710606575012,
+                    "bottom": 0.09381109476089478
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='78c336db-b539-4589-96f4-d95722e34fd7'></a>\n\n<::A blurry, abstract line drawing: figure::>",
+            "type": "figure",
+            "id": "78c336db-b539-4589-96f4-d95722e34fd7",
+            "grounding": {
+                "box": {
+                    "left": 0.7607440948486328,
+                    "top": 0.03434121608734131,
+                    "right": 0.8343393802642822,
+                    "bottom": 0.08943254500627518
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bf9e3628-9beb-48a2-b8e0-e63a5a5063cb'></a>\n\nASSETS\n<table id=\"0-1\">\n<tr><td id=\"0-2\">.Cash</td><td id=\"0-3\">$ 1,395</td></tr>\n<tr><td id=\"0-4\">Accounts Receivable</td><td id=\"0-5\">12,464</td></tr>\n<tr><td id=\"0-6\">Inventories</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">Sugar 272,000 cwt at $11.11</td><td id=\"0-9\">3,022</td></tr>\n<tr><td id=\"0-a\">Processing cost</td><td id=\"0-b\">386</td></tr>\n<tr><td id=\"0-c\">Spare parts</td><td id=\"0-d\">1,970</td></tr>\n<tr><td id=\"0-e\">Prepaid expenses</td><td id=\"0-f\">394</td></tr>\n<tr><td id=\"0-g\">Total Current Assets</td><td id=\"0-h\">19,631</td></tr>\n<tr><td id=\"0-i\">Fixed assets - Net</td><td id=\"0-j\">14,353</td></tr>\n<tr><td id=\"0-k\">Other assets and deferred charges</td><td id=\"0-l\">411</td></tr>\n</table>\n<table id=\"0-m\">\n<tr><td id=\"0-n\">TOTAL ASSETS</td><td id=\"0-o\">$ 34,395</td></tr>\n<tr><td id=\"0-p\">LIABILITIES</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">Notes payable - banks</td><td id=\"0-s\">$ 14,253</td></tr>\n<tr><td id=\"0-t\">Notes payable - La. raw mills</td><td id=\"0-u\">7,369</td></tr>\n<tr><td id=\"0-v\">Current portion of long-term debt</td><td id=\"0-w\">115</td></tr>\n<tr><td id=\"0-x\">Accounts payable and accrued</td><td id=\"0-y\">3,334</td></tr>\n<tr><td id=\"0-z\">Total Current Liabilities</td><td id=\"0-A\">25,071</td></tr>\n<tr><td id=\"0-B\">Long-term debt</td><td id=\"0-C\">4,815</td></tr>\n<tr><td id=\"0-D\">Deferred taxes</td><td id=\"0-E\">872</td></tr>\n<tr><td id=\"0-F\">Deferred futures profit</td><td id=\"0-G\">716</td></tr>\n<tr><td id=\"0-H\">Stockholders' equity</td><td id=\"0-I\">2,921</td></tr>\n<tr><td id=\"0-J\">TOTAL LIABILITIES</td><td id=\"0-K\">$34,395</td></tr>\n</table>",
+            "type": "table",
+            "id": "bf9e3628-9beb-48a2-b8e0-e63a5a5063cb",
+            "grounding": {
+                "box": {
+                    "left": 0.11993616819381714,
+                    "top": 0.12572428584098816,
+                    "right": 0.8285301327705383,
+                    "bottom": 0.7593892812728882
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c9da8857-8b4c-40f3-a8c0-4e3a746213e2'></a>\n\n$ 14,253\n7,369\n115\n3,334\n25,071\n\nNeed 6mm wc\n2,2",
+            "type": "text",
+            "id": "c9da8857-8b4c-40f3-a8c0-4e3a746213e2",
+            "grounding": {
+                "box": {
+                    "left": 0.7147055268287659,
+                    "top": 0.4685690999031067,
+                    "right": 0.9958787560462952,
+                    "bottom": 0.5958171486854553
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6645dc7b-ec94-469c-b5a9-277f41125ada'></a>\n\n1975 Generated.\nincome",
+            "type": "text",
+            "id": "6645dc7b-ec94-469c-b5a9-277f41125ada",
+            "grounding": {
+                "box": {
+                    "left": 0.6897261738777161,
+                    "top": 0.795174777507782,
+                    "right": 0.9592326283454895,
+                    "bottom": 0.8854110836982727
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='734120a3-be17-471c-a996-31b2fc57bc64'></a>\n\nErnest F. Ladd, III/gc\n6/10/75",
+            "type": "text",
+            "id": "734120a3-be17-471c-a996-31b2fc57bc64",
+            "grounding": {
+                "box": {
+                    "left": 0.13367649912834167,
+                    "top": 0.8537501692771912,
+                    "right": 0.3801211416721344,
+                    "bottom": 0.8975599408149719
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2104dbdf-5d26-4f9f-a23b-c4a9d8dd61c9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/grlh0227",
+            "type": "text",
+            "id": "2104dbdf-5d26-4f9f-a23b-c4a9d8dd61c9",
+            "grounding": {
+                "box": {
+                    "left": 0.21742907166481018,
+                    "top": 0.9763809442520142,
+                    "right": 0.7825690507888794,
+                    "bottom": 0.9999165534973145
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='28603370-d032-445c-a44d-375391f2f6d3'></a>\n\nGODCHAUX-HENDERSON SUGAR CO., INC.\nPRO FORMA BALANCE SHEET AT 5/31/75\nIN HANDS OF OTHERS - ON LIFO\n\n<a id='78c336db-b539-4589-96f4-d95722e34fd7'></a>\n\n<::A blurry, abstract line drawing: figure::>\n\n<a id='bf9e3628-9beb-48a2-b8e0-e63a5a5063cb'></a>\n\nASSETS\n<table id=\"0-1\">\n<tr><td id=\"0-2\">.Cash</td><td id=\"0-3\">$ 1,395</td></tr>\n<tr><td id=\"0-4\">Accounts Receivable</td><td id=\"0-5\">12,464</td></tr>\n<tr><td id=\"0-6\">Inventories</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">Sugar 272,000 cwt at $11.11</td><td id=\"0-9\">3,022</td></tr>\n<tr><td id=\"0-a\">Processing cost</td><td id=\"0-b\">386</td></tr>\n<tr><td id=\"0-c\">Spare parts</td><td id=\"0-d\">1,970</td></tr>\n<tr><td id=\"0-e\">Prepaid expenses</td><td id=\"0-f\">394</td></tr>\n<tr><td id=\"0-g\">Total Current Assets</td><td id=\"0-h\">19,631</td></tr>\n<tr><td id=\"0-i\">Fixed assets - Net</td><td id=\"0-j\">14,353</td></tr>\n<tr><td id=\"0-k\">Other assets and deferred charges</td><td id=\"0-l\">411</td></tr>\n</table>\n<table id=\"0-m\">\n<tr><td id=\"0-n\">TOTAL ASSETS</td><td id=\"0-o\">$ 34,395</td></tr>\n<tr><td id=\"0-p\">LIABILITIES</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">Notes payable - banks</td><td id=\"0-s\">$ 14,253</td></tr>\n<tr><td id=\"0-t\">Notes payable - La. raw mills</td><td id=\"0-u\">7,369</td></tr>\n<tr><td id=\"0-v\">Current portion of long-term debt</td><td id=\"0-w\">115</td></tr>\n<tr><td id=\"0-x\">Accounts payable and accrued</td><td id=\"0-y\">3,334</td></tr>\n<tr><td id=\"0-z\">Total Current Liabilities</td><td id=\"0-A\">25,071</td></tr>\n<tr><td id=\"0-B\">Long-term debt</td><td id=\"0-C\">4,815</td></tr>\n<tr><td id=\"0-D\">Deferred taxes</td><td id=\"0-E\">872</td></tr>\n<tr><td id=\"0-F\">Deferred futures profit</td><td id=\"0-G\">716</td></tr>\n<tr><td id=\"0-H\">Stockholders' equity</td><td id=\"0-I\">2,921</td></tr>\n<tr><td id=\"0-J\">TOTAL LIABILITIES</td><td id=\"0-K\">$34,395</td></tr>\n</table>\n\n<a id='c9da8857-8b4c-40f3-a8c0-4e3a746213e2'></a>\n\n$ 14,253\n7,369\n115\n3,334\n25,071\n\nNeed 6mm wc\n2,2\n\n<a id='6645dc7b-ec94-469c-b5a9-277f41125ada'></a>\n\n1975 Generated.\nincome\n\n<a id='734120a3-be17-471c-a996-31b2fc57bc64'></a>\n\nErnest F. Ladd, III/gc\n6/10/75\n\n<a id='2104dbdf-5d26-4f9f-a23b-c4a9d8dd61c9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/grlh0227",
+            "chunks": [
+                "28603370-d032-445c-a44d-375391f2f6d3",
+                "78c336db-b539-4589-96f4-d95722e34fd7",
+                "bf9e3628-9beb-48a2-b8e0-e63a5a5063cb",
+                "c9da8857-8b4c-40f3-a8c0-4e3a746213e2",
+                "6645dc7b-ec94-469c-b5a9-277f41125ada",
+                "734120a3-be17-471c-a996-31b2fc57bc64",
+                "2104dbdf-5d26-4f9f-a23b-c4a9d8dd61c9"
+            ]
+        }
+    ],
+    "grounding": {
+        "28603370-d032-445c-a44d-375391f2f6d3": {
+            "box": {
+                "left": 0.3032635450363159,
+                "top": 0.02917497232556343,
+                "right": 0.6750710606575012,
+                "bottom": 0.09381109476089478
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "78c336db-b539-4589-96f4-d95722e34fd7": {
+            "box": {
+                "left": 0.7607440948486328,
+                "top": 0.03434121608734131,
+                "right": 0.8343393802642822,
+                "bottom": 0.08943254500627518
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "bf9e3628-9beb-48a2-b8e0-e63a5a5063cb": {
+            "box": {
+                "left": 0.11993616819381714,
+                "top": 0.12572428584098816,
+                "right": 0.8285301327705383,
+                "bottom": 0.7593892812728882
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.1518044230463389,
+                "right": 0.8169964647384518,
+                "bottom": 0.37748075136606474
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.1518044230463389,
+                "right": 0.7180934030016815,
+                "bottom": 0.184175677900156
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.7180934030016815,
+                "top": 0.1518044230463389,
+                "right": 0.8172955764895988,
+                "bottom": 0.184175677900156
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.184175677900156,
+                "right": 0.7180934030016815,
+                "bottom": 0.20053725869080163
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7180934030016815,
+                "top": 0.184175677900156,
+                "right": 0.8172955764895988,
+                "bottom": 0.20053725869080163
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.20053725869080163,
+                "right": 0.7180934030016815,
+                "bottom": 0.21554926882510905
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.7180934030016815,
+                "top": 0.20053725869080163,
+                "right": 0.8172955764895988,
+                "bottom": 0.21554926882510905
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.21554926882510905,
+                "right": 0.7180934030016815,
+                "bottom": 0.2321308467941985
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7180934030016815,
+                "top": 0.21554926882510905,
+                "right": 0.8172955764895988,
+                "bottom": 0.2321308467941985
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.2321308467941985,
+                "right": 0.7180934030016815,
+                "bottom": 0.24809694443870312
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7180934030016815,
+                "top": 0.2321308467941985,
+                "right": 0.8172955764895988,
+                "bottom": 0.24809694443870312
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.24809694443870312,
+                "right": 0.7180934030016815,
+                "bottom": 0.26413604084652587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7180934030016815,
+                "top": 0.24809694443870312,
+                "right": 0.8172955764895988,
+                "bottom": 0.26413604084652587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.26413604084652587,
+                "right": 0.7180934030016815,
+                "bottom": 0.2803490180235251
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7180934030016815,
+                "top": 0.26413604084652587,
+                "right": 0.8172955764895988,
+                "bottom": 0.2803490180235251
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.2803490180235251,
+                "right": 0.7180934030016815,
+                "bottom": 0.3135757964771919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.7180934030016815,
+                "top": 0.2803490180235251,
+                "right": 0.8172955764895988,
+                "bottom": 0.3135757964771919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.3135757964771919,
+                "right": 0.7180934030016815,
+                "bottom": 0.3464743401603938
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.7180934030016815,
+                "top": 0.3135757964771919,
+                "right": 0.8172955764895988,
+                "bottom": 0.3464743401603938
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.1317602553849464,
+                "top": 0.3464743401603938,
+                "right": 0.7180934030016815,
+                "bottom": 0.37748075136606474
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7180934030016815,
+                "top": 0.3464743401603938,
+                "right": 0.8172955764895988,
+                "bottom": 0.37748075136606474
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.38845800531614394,
+                "right": 0.8194549082305116,
+                "bottom": 0.7484365396484556
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.38845800531614394,
+                "right": 0.7187051840967627,
+                "bottom": 0.41119077011323757
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.38845800531614394,
+                "right": 0.8194044790536026,
+                "bottom": 0.41119077011323757
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.41119077011323757,
+                "right": 0.7187051840967627,
+                "bottom": 0.4728008765427507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.41119077011323757,
+                "right": 0.8194044790536026,
+                "bottom": 0.4728008765427507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.4728008765427507,
+                "right": 0.7187051840967627,
+                "bottom": 0.504737717465126
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.4728008765427507,
+                "right": 0.8194044790536026,
+                "bottom": 0.504737717465126
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.504737717465126,
+                "right": 0.7187051840967627,
+                "bottom": 0.5209721287635496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.504737717465126,
+                "right": 0.8194044790536026,
+                "bottom": 0.5209721287635496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.5209721287635496,
+                "right": 0.7187051840967627,
+                "bottom": 0.5369250448954954
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.5209721287635496,
+                "right": 0.8194044790536026,
+                "bottom": 0.5369250448954954
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.5369250448954954,
+                "right": 0.7187051840967627,
+                "bottom": 0.5538508624085363
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.5369250448954954,
+                "right": 0.8194044790536026,
+                "bottom": 0.5538508624085363
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.5538508624085363,
+                "right": 0.7187051840967627,
+                "bottom": 0.5882362165004302
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.5538508624085363,
+                "right": 0.8194044790536026,
+                "bottom": 0.5882362165004302
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.5882362165004302,
+                "right": 0.7187051840967627,
+                "bottom": 0.6206530306652045
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.5882362165004302,
+                "right": 0.8194044790536026,
+                "bottom": 0.6206530306652045
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.6206530306652045,
+                "right": 0.7187051840967627,
+                "bottom": 0.653892235243891
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.6206530306652045,
+                "right": 0.8194044790536026,
+                "bottom": 0.653892235243891
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.653892235243891,
+                "right": 0.7187051840967627,
+                "bottom": 0.6834605207677704
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.653892235243891,
+                "right": 0.8194044790536026,
+                "bottom": 0.6834605207677704
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.6834605207677704,
+                "right": 0.7187051840967627,
+                "bottom": 0.7146439003891842
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.6834605207677704,
+                "right": 0.8194044790536026,
+                "bottom": 0.7146439003891842
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.12710915502928288,
+                "top": 0.7146439003891842,
+                "right": 0.7187051840967627,
+                "bottom": 0.7484365396484556
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.7187051840967627,
+                "top": 0.7146439003891842,
+                "right": 0.8194044790536026,
+                "bottom": 0.7484365396484556
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "c9da8857-8b4c-40f3-a8c0-4e3a746213e2": {
+            "box": {
+                "left": 0.7147055268287659,
+                "top": 0.4685690999031067,
+                "right": 0.9958787560462952,
+                "bottom": 0.5958171486854553
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6645dc7b-ec94-469c-b5a9-277f41125ada": {
+            "box": {
+                "left": 0.6897261738777161,
+                "top": 0.795174777507782,
+                "right": 0.9592326283454895,
+                "bottom": 0.8854110836982727
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "734120a3-be17-471c-a996-31b2fc57bc64": {
+            "box": {
+                "left": 0.13367649912834167,
+                "top": 0.8537501692771912,
+                "right": 0.3801211416721344,
+                "bottom": 0.8975599408149719
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2104dbdf-5d26-4f9f-a23b-c4a9d8dd61c9": {
+            "box": {
+                "left": 0.21742907166481018,
+                "top": 0.9763809442520142,
+                "right": 0.7825690507888794,
+                "bottom": 0.9999165534973145
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "grlh0227_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 13525,
+        "credit_usage": 3.0,
+        "job_id": "l96cebbdy3e674wo1tbvcpk31",
+        "version": "dpt-2-20250919"
+    }
+}

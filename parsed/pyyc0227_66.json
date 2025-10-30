@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='0a7a66f2-e7a6-47ac-9af4-b9ee0c6a72ce'></a>\n\n<::transcription of the content: chart::>\n## WEIGHT\n\nLine graph showing weight in Kg on the y-axis (ranging from 3 to 17) versus age in months on the x-axis. Two lines are plotted:\n- **TOTAL GROUP** (solid line with circles):\n  - 0-5 months: 5 Kg\n  - 6-11 months: 6.5 Kg\n  - 12-17 months: 8 Kg\n  - 18-23 months: 9 Kg\n  - 24-29 months: 10.5 Kg\n  -\n\n<a id='faa385b3-0a02-440f-b930-1dd7a0adb222'></a>\n\n<::transcription of the content: chart::>Legend: TOTAL GROUP: Unfilled bar; MALNOURISHED: Dotted bar; CURRENT: Solid black bar; RECENT: Bar with diagonal lines (top-left to bottom-right); RECURRENT: Bar with diagonal lines (bottom-left to top-right).Chart 1: DIARRHEA. Y-axis: % prevalence; X-axis: AGE (mos). Data: Age (mos) 0-5, Group Total Group, Current (%) 15, Recent (%) 10, Recurrent (%) 5; Age (mos) 0-5, Group Malnourished, Current (%) 35, Recent (%) 25, Recurrent\n\n<a id='81e689e4-31b2-4660-b45e-42849077a33a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pyyc0227",
+    "chunks": [
+        {
+            "markdown": "<a id='0a7a66f2-e7a6-47ac-9af4-b9ee0c6a72ce'></a>\n\n<::transcription of the content: chart::>\n## WEIGHT\n\nLine graph showing weight in Kg on the y-axis (ranging from 3 to 17) versus age in months on the x-axis. Two lines are plotted:\n- **TOTAL GROUP** (solid line with circles):\n  - 0-5 months: 5 Kg\n  - 6-11 months: 6.5 Kg\n  - 12-17 months: 8 Kg\n  - 18-23 months: 9 Kg\n  - 24-29 months: 10.5 Kg\n  -",
+            "type": "figure",
+            "id": "0a7a66f2-e7a6-47ac-9af4-b9ee0c6a72ce",
+            "grounding": {
+                "box": {
+                    "left": 0.035513266921043396,
+                    "top": 0.01709657907485962,
+                    "right": 0.503554105758667,
+                    "bottom": 0.9567404985427856
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='faa385b3-0a02-440f-b930-1dd7a0adb222'></a>\n\n<::transcription of the content: chart::>Legend: TOTAL GROUP: Unfilled bar; MALNOURISHED: Dotted bar; CURRENT: Solid black bar; RECENT: Bar with diagonal lines (top-left to bottom-right); RECURRENT: Bar with diagonal lines (bottom-left to top-right).Chart 1: DIARRHEA. Y-axis: % prevalence; X-axis: AGE (mos). Data: Age (mos) 0-5, Group Total Group, Current (%) 15, Recent (%) 10, Recurrent (%) 5; Age (mos) 0-5, Group Malnourished, Current (%) 35, Recent (%) 25, Recurrent",
+            "type": "figure",
+            "id": "faa385b3-0a02-440f-b930-1dd7a0adb222",
+            "grounding": {
+                "box": {
+                    "left": 0.5194492340087891,
+                    "top": 0.0699281096458435,
+                    "right": 0.9686366319656372,
+                    "bottom": 0.9390465617179871
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='81e689e4-31b2-4660-b45e-42849077a33a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pyyc0227",
+            "type": "marginalia",
+            "id": "81e689e4-31b2-4660-b45e-42849077a33a",
+            "grounding": {
+                "box": {
+                    "left": 0.3448798656463623,
+                    "top": 0.9775711297988892,
+                    "right": 0.6566526889801025,
+                    "bottom": 1.0001581907272339
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='0a7a66f2-e7a6-47ac-9af4-b9ee0c6a72ce'></a>\n\n<::transcription of the content: chart::>\n## WEIGHT\n\nLine graph showing weight in Kg on the y-axis (ranging from 3 to 17) versus age in months on the x-axis. Two lines are plotted:\n- **TOTAL GROUP** (solid line with circles):\n  - 0-5 months: 5 Kg\n  - 6-11 months: 6.5 Kg\n  - 12-17 months: 8 Kg\n  - 18-23 months: 9 Kg\n  - 24-29 months: 10.5 Kg\n  -\n\n<a id='faa385b3-0a02-440f-b930-1dd7a0adb222'></a>\n\n<::transcription of the content: chart::>Legend: TOTAL GROUP: Unfilled bar; MALNOURISHED: Dotted bar; CURRENT: Solid black bar; RECENT: Bar with diagonal lines (top-left to bottom-right); RECURRENT: Bar with diagonal lines (bottom-left to top-right).Chart 1: DIARRHEA. Y-axis: % prevalence; X-axis: AGE (mos). Data: Age (mos) 0-5, Group Total Group, Current (%) 15, Recent (%) 10, Recurrent (%) 5; Age (mos) 0-5, Group Malnourished, Current (%) 35, Recent (%) 25, Recurrent\n\n<a id='81e689e4-31b2-4660-b45e-42849077a33a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pyyc0227",
+            "chunks": [
+                "0a7a66f2-e7a6-47ac-9af4-b9ee0c6a72ce",
+                "faa385b3-0a02-440f-b930-1dd7a0adb222",
+                "81e689e4-31b2-4660-b45e-42849077a33a"
+            ]
+        }
+    ],
+    "grounding": {
+        "0a7a66f2-e7a6-47ac-9af4-b9ee0c6a72ce": {
+            "box": {
+                "left": 0.035513266921043396,
+                "top": 0.01709657907485962,
+                "right": 0.503554105758667,
+                "bottom": 0.9567404985427856
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "faa385b3-0a02-440f-b930-1dd7a0adb222": {
+            "box": {
+                "left": 0.5194492340087891,
+                "top": 0.0699281096458435,
+                "right": 0.9686366319656372,
+                "bottom": 0.9390465617179871
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "81e689e4-31b2-4660-b45e-42849077a33a": {
+            "box": {
+                "left": 0.3448798656463623,
+                "top": 0.9775711297988892,
+                "right": 0.6566526889801025,
+                "bottom": 1.0001581907272339
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "pyyc0227_66.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 23349,
+        "credit_usage": 3.0,
+        "job_id": "ou5o35hnw00edk771honxsadp",
+        "version": "dpt-2-20250919"
+    }
+}

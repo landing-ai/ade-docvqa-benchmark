@@ -1,0 +1,328 @@
+{
+    "markdown": "<a id='5a55e6c0-5c2d-46ee-9728-0455d59287a7'></a>\n\nU.R.C. Special Project Abstract Sheet - Page 2\n\n<a id='4f691aff-97fb-436e-be6b-5512d6800c89'></a>\n\nDATE\n---\n\nPROBLEMS\n--------\n\n<a id='8121ed1c-45d4-4de7-90fa-732263eb88f6'></a>\n\nPLANNED INTERVENTIONS\n\n<a id='dd32f5e2-1bad-4749-91a0-84b4076f025e'></a>\n\nFOLLOWED THROUGH ON\n\n<a id='7c64edbd-6051-4e9d-846e-6e4f6f39deea'></a>\n\nCODE:\na. Patient/family teaching\nb. Procedures/technical care\nc. Medication monitoring\nd. Observation of physical condition\ne. Psycho/social support\nf. Referral to community resources\ng. Nutritional considerations\nh. Rest/activity/exercise considerations\ni. Financial counseling/resources explored\nj. Personal hygiene\nk. Physical comfort\nl. Housing/transportation considerations\nm. Safety measures\nn. Preventive measures\no. Spiritual support\np. Observation of mental/emotional condition\nq. Speech/communication considerations\n\n<a id='99e5db16-ae92-4469-9571-12dabeef9e41'></a>\n\na\u0304 := Approach not in care\nplan, but documented\nelsewhere\n\na = Not completely followed\nthrough on\n\n<a id='639ad6ce-1589-4f85-845e-366e49c2cd86'></a>\n\nUnacceptable\n1\n\n<a id='915ad617-91d1-4ac7-8766-102ad2389c5b'></a>\n\nMinimally\n<u>Acceptable</u>\n\n2\n\n<a id='f9897015-80ea-4a52-9da0-7b8e1283339f'></a>\n\nAverage\n---\n3\n\n<a id='1ed493b4-fcf1-4bc7-985d-398eeb039eb1'></a>\n\nAbove\nAverage\n---\n4\n\n<a id='8cbda76f-87a6-4b0f-a73a-0105806c8eb4'></a>\n\nComprehensive\n5\n\n<a id='384cc6dc-9807-472f-a59d-331d481a7b89'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/npvg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='5a55e6c0-5c2d-46ee-9728-0455d59287a7'></a>\n\nU.R.C. Special Project Abstract Sheet - Page 2",
+            "type": "text",
+            "id": "5a55e6c0-5c2d-46ee-9728-0455d59287a7",
+            "grounding": {
+                "box": {
+                    "left": 0.07555033266544342,
+                    "top": 0.04234801605343819,
+                    "right": 0.520376443862915,
+                    "bottom": 0.06762855499982834
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4f691aff-97fb-436e-be6b-5512d6800c89'></a>\n\nDATE\n---\n\nPROBLEMS\n--------",
+            "type": "text",
+            "id": "4f691aff-97fb-436e-be6b-5512d6800c89",
+            "grounding": {
+                "box": {
+                    "left": 0.07527290284633636,
+                    "top": 0.07420080155134201,
+                    "right": 0.2884265184402466,
+                    "bottom": 0.09957408159971237
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8121ed1c-45d4-4de7-90fa-732263eb88f6'></a>\n\nPLANNED INTERVENTIONS",
+            "type": "marginalia",
+            "id": "8121ed1c-45d4-4de7-90fa-732263eb88f6",
+            "grounding": {
+                "box": {
+                    "left": 0.41929739713668823,
+                    "top": 0.07296739518642426,
+                    "right": 0.634053647518158,
+                    "bottom": 0.10102111101150513
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dd32f5e2-1bad-4749-91a0-84b4076f025e'></a>\n\nFOLLOWED THROUGH ON",
+            "type": "marginalia",
+            "id": "dd32f5e2-1bad-4749-91a0-84b4076f025e",
+            "grounding": {
+                "box": {
+                    "left": 0.7012170553207397,
+                    "top": 0.07160672545433044,
+                    "right": 0.8947949409484863,
+                    "bottom": 0.09896758198738098
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7c64edbd-6051-4e9d-846e-6e4f6f39deea'></a>\n\nCODE:\na. Patient/family teaching\nb. Procedures/technical care\nc. Medication monitoring\nd. Observation of physical condition\ne. Psycho/social support\nf. Referral to community resources\ng. Nutritional considerations\nh. Rest/activity/exercise considerations\ni. Financial counseling/resources explored\nj. Personal hygiene\nk. Physical comfort\nl. Housing/transportation considerations\nm. Safety measures\nn. Preventive measures\no. Spiritual support\np. Observation of mental/emotional condition\nq. Speech/communication considerations",
+            "type": "text",
+            "id": "7c64edbd-6051-4e9d-846e-6e4f6f39deea",
+            "grounding": {
+                "box": {
+                    "left": 0.07730646431446075,
+                    "top": 0.6026909351348877,
+                    "right": 0.5771014094352722,
+                    "bottom": 0.8683096170425415
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='99e5db16-ae92-4469-9571-12dabeef9e41'></a>\n\na\u0304 := Approach not in care\nplan, but documented\nelsewhere\n\na = Not completely followed\nthrough on",
+            "type": "text",
+            "id": "99e5db16-ae92-4469-9571-12dabeef9e41",
+            "grounding": {
+                "box": {
+                    "left": 0.5738664865493774,
+                    "top": 0.6033965349197388,
+                    "right": 0.8640929460525513,
+                    "bottom": 0.7086484432220459
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='639ad6ce-1589-4f85-845e-366e49c2cd86'></a>\n\nUnacceptable\n1",
+            "type": "text",
+            "id": "639ad6ce-1589-4f85-845e-366e49c2cd86",
+            "grounding": {
+                "box": {
+                    "left": 0.07922916114330292,
+                    "top": 0.8980411887168884,
+                    "right": 0.21379460394382477,
+                    "bottom": 0.9505904316902161
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='915ad617-91d1-4ac7-8766-102ad2389c5b'></a>\n\nMinimally\n<u>Acceptable</u>\n\n2",
+            "type": "text",
+            "id": "915ad617-91d1-4ac7-8766-102ad2389c5b",
+            "grounding": {
+                "box": {
+                    "left": 0.24383123219013214,
+                    "top": 0.8897751569747925,
+                    "right": 0.3622031807899475,
+                    "bottom": 0.95098876953125
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f9897015-80ea-4a52-9da0-7b8e1283339f'></a>\n\nAverage\n---\n3",
+            "type": "text",
+            "id": "f9897015-80ea-4a52-9da0-7b8e1283339f",
+            "grounding": {
+                "box": {
+                    "left": 0.39591431617736816,
+                    "top": 0.8946920037269592,
+                    "right": 0.47960299253463745,
+                    "bottom": 0.9536362290382385
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1ed493b4-fcf1-4bc7-985d-398eeb039eb1'></a>\n\nAbove\nAverage\n---\n4",
+            "type": "text",
+            "id": "1ed493b4-fcf1-4bc7-985d-398eeb039eb1",
+            "grounding": {
+                "box": {
+                    "left": 0.5256195068359375,
+                    "top": 0.8890064358711243,
+                    "right": 0.6125917434692383,
+                    "bottom": 0.9533904194831848
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8cbda76f-87a6-4b0f-a73a-0105806c8eb4'></a>\n\nComprehensive\n5",
+            "type": "text",
+            "id": "8cbda76f-87a6-4b0f-a73a-0105806c8eb4",
+            "grounding": {
+                "box": {
+                    "left": 0.6501106023788452,
+                    "top": 0.8969270586967468,
+                    "right": 0.7893315553665161,
+                    "bottom": 0.9526763558387756
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='384cc6dc-9807-472f-a59d-331d481a7b89'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/npvg0227",
+            "type": "text",
+            "id": "384cc6dc-9807-472f-a59d-331d481a7b89",
+            "grounding": {
+                "box": {
+                    "left": 0.22595807909965515,
+                    "top": 0.9772042036056519,
+                    "right": 0.7821980714797974,
+                    "bottom": 1.0004502534866333
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='5a55e6c0-5c2d-46ee-9728-0455d59287a7'></a>\n\nU.R.C. Special Project Abstract Sheet - Page 2\n\n<a id='4f691aff-97fb-436e-be6b-5512d6800c89'></a>\n\nDATE\n---\n\nPROBLEMS\n--------\n\n<a id='8121ed1c-45d4-4de7-90fa-732263eb88f6'></a>\n\nPLANNED INTERVENTIONS\n\n<a id='dd32f5e2-1bad-4749-91a0-84b4076f025e'></a>\n\nFOLLOWED THROUGH ON\n\n<a id='7c64edbd-6051-4e9d-846e-6e4f6f39deea'></a>\n\nCODE:\na. Patient/family teaching\nb. Procedures/technical care\nc. Medication monitoring\nd. Observation of physical condition\ne. Psycho/social support\nf. Referral to community resources\ng. Nutritional considerations\nh. Rest/activity/exercise considerations\ni. Financial counseling/resources explored\nj. Personal hygiene\nk. Physical comfort\nl. Housing/transportation considerations\nm. Safety measures\nn. Preventive measures\no. Spiritual support\np. Observation of mental/emotional condition\nq. Speech/communication considerations\n\n<a id='99e5db16-ae92-4469-9571-12dabeef9e41'></a>\n\na\u0304 := Approach not in care\nplan, but documented\nelsewhere\n\na = Not completely followed\nthrough on\n\n<a id='639ad6ce-1589-4f85-845e-366e49c2cd86'></a>\n\nUnacceptable\n1\n\n<a id='915ad617-91d1-4ac7-8766-102ad2389c5b'></a>\n\nMinimally\n<u>Acceptable</u>\n\n2\n\n<a id='f9897015-80ea-4a52-9da0-7b8e1283339f'></a>\n\nAverage\n---\n3\n\n<a id='1ed493b4-fcf1-4bc7-985d-398eeb039eb1'></a>\n\nAbove\nAverage\n---\n4\n\n<a id='8cbda76f-87a6-4b0f-a73a-0105806c8eb4'></a>\n\nComprehensive\n5\n\n<a id='384cc6dc-9807-472f-a59d-331d481a7b89'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/npvg0227",
+            "chunks": [
+                "5a55e6c0-5c2d-46ee-9728-0455d59287a7",
+                "4f691aff-97fb-436e-be6b-5512d6800c89",
+                "8121ed1c-45d4-4de7-90fa-732263eb88f6",
+                "dd32f5e2-1bad-4749-91a0-84b4076f025e",
+                "7c64edbd-6051-4e9d-846e-6e4f6f39deea",
+                "99e5db16-ae92-4469-9571-12dabeef9e41",
+                "639ad6ce-1589-4f85-845e-366e49c2cd86",
+                "915ad617-91d1-4ac7-8766-102ad2389c5b",
+                "f9897015-80ea-4a52-9da0-7b8e1283339f",
+                "1ed493b4-fcf1-4bc7-985d-398eeb039eb1",
+                "8cbda76f-87a6-4b0f-a73a-0105806c8eb4",
+                "384cc6dc-9807-472f-a59d-331d481a7b89"
+            ]
+        }
+    ],
+    "grounding": {
+        "5a55e6c0-5c2d-46ee-9728-0455d59287a7": {
+            "box": {
+                "left": 0.07555033266544342,
+                "top": 0.04234801605343819,
+                "right": 0.520376443862915,
+                "bottom": 0.06762855499982834
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4f691aff-97fb-436e-be6b-5512d6800c89": {
+            "box": {
+                "left": 0.07527290284633636,
+                "top": 0.07420080155134201,
+                "right": 0.2884265184402466,
+                "bottom": 0.09957408159971237
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8121ed1c-45d4-4de7-90fa-732263eb88f6": {
+            "box": {
+                "left": 0.41929739713668823,
+                "top": 0.07296739518642426,
+                "right": 0.634053647518158,
+                "bottom": 0.10102111101150513
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "dd32f5e2-1bad-4749-91a0-84b4076f025e": {
+            "box": {
+                "left": 0.7012170553207397,
+                "top": 0.07160672545433044,
+                "right": 0.8947949409484863,
+                "bottom": 0.09896758198738098
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "7c64edbd-6051-4e9d-846e-6e4f6f39deea": {
+            "box": {
+                "left": 0.07730646431446075,
+                "top": 0.6026909351348877,
+                "right": 0.5771014094352722,
+                "bottom": 0.8683096170425415
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "99e5db16-ae92-4469-9571-12dabeef9e41": {
+            "box": {
+                "left": 0.5738664865493774,
+                "top": 0.6033965349197388,
+                "right": 0.8640929460525513,
+                "bottom": 0.7086484432220459
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "639ad6ce-1589-4f85-845e-366e49c2cd86": {
+            "box": {
+                "left": 0.07922916114330292,
+                "top": 0.8980411887168884,
+                "right": 0.21379460394382477,
+                "bottom": 0.9505904316902161
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "915ad617-91d1-4ac7-8766-102ad2389c5b": {
+            "box": {
+                "left": 0.24383123219013214,
+                "top": 0.8897751569747925,
+                "right": 0.3622031807899475,
+                "bottom": 0.95098876953125
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f9897015-80ea-4a52-9da0-7b8e1283339f": {
+            "box": {
+                "left": 0.39591431617736816,
+                "top": 0.8946920037269592,
+                "right": 0.47960299253463745,
+                "bottom": 0.9536362290382385
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1ed493b4-fcf1-4bc7-985d-398eeb039eb1": {
+            "box": {
+                "left": 0.5256195068359375,
+                "top": 0.8890064358711243,
+                "right": 0.6125917434692383,
+                "bottom": 0.9533904194831848
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8cbda76f-87a6-4b0f-a73a-0105806c8eb4": {
+            "box": {
+                "left": 0.6501106023788452,
+                "top": 0.8969270586967468,
+                "right": 0.7893315553665161,
+                "bottom": 0.9526763558387756
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "384cc6dc-9807-472f-a59d-331d481a7b89": {
+            "box": {
+                "left": 0.22595807909965515,
+                "top": 0.9772042036056519,
+                "right": 0.7821980714797974,
+                "bottom": 1.0004502534866333
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "npvg0227_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7377,
+        "credit_usage": 3.0,
+        "job_id": "khs7wjkhz39eyrungblndk092",
+        "version": "dpt-2-20250919"
+    }
+}

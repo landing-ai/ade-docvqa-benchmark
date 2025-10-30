@@ -1,0 +1,663 @@
+{
+    "markdown": "<a id='d1a9ddd3-4221-4ef6-8824-2ce941e1f2cc'></a>\n\nPage 2\n\n<a id='c71ee97f-d135-4e27-bea5-a7dde3c0a55a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Imposition, Presswork thru Binding</td><td id=\"0-3\">Base</td><td id=\"0-4\"></td><td id=\"0-5\" colspan=\"2\">Additional</td></tr>\n<tr><td id=\"0-6\">Adhesive Bound</td><td id=\"0-7\" colspan=\"2\">4400 copies</td><td id=\"0-8\">1000</td><td id=\"0-9\">copies</td></tr>\n<tr><td id=\"0-a\">128 pages & covers (covers 1-4</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\">in 1 color other than</td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\"></td></tr>\n<tr><td id=\"0-k\">black)</td><td id=\"0-l\">$878.92</td><td id=\"0-m\"></td><td id=\"0-n\" colspan=\"2\">$147.58</td></tr>\n<tr><td id=\"0-o\">32 pages additional</td><td id=\"0-p\">147.76</td><td id=\"0-q\"></td><td id=\"0-r\" colspan=\"2\">23.53</td></tr>\n<tr><td id=\"0-s\">16 pages additional</td><td id=\"0-t\">130.15</td><td id=\"0-u\"></td><td id=\"0-v\" colspan=\"2\">18.13</td></tr>\n<tr><td id=\"0-w\">8 pages additional</td><td id=\"0-x\">117.35</td><td id=\"0-y\"></td><td id=\"0-z\" colspan=\"2\">15.95</td></tr>\n<tr><td id=\"0-A\">4 pages additional</td><td id=\"0-B\">63.68</td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\">9.70</td></tr>\n<tr><td id=\"0-F\">2 pages additional to insert in the center of a signature</td><td id=\"0-G\">95.49</td><td id=\"0-H\"></td><td id=\"0-I\" colspan=\"2\">17.09</td></tr>\n</table>\n<table id=\"0-J\">\n<tr><td id=\"0-K\">Extra for:</td><td id=\"0-L\"></td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">Gathering 8 signatures</td><td id=\"0-O\">11.37</td><td id=\"0-P\">2.58</td></tr>\n</table>\n\n<a id='ad58a224-acfc-4ad1-84cd-c6b7b53ada23'></a>\n\nStock: current prices\nText:  60 lb. White Process Plate (WP #13)         .99/page/1000\nCover: 65 lb. Ivory Navajo Cover                   20.68/1000\n\n<a id='011a2614-a380-420b-b605-4d8ac0722885'></a>\n\n<table><thead><tr><th>Mailing</th><th></th></tr></thead><tbody><tr><td>Wrap and mail</td><td>36.79/1000</td></tr><tr><td>Apply labels (Cheshire)</td><td>22.70/1000</td></tr></tbody></table>\n\n<a id='4fa06480-1cbf-4bcb-8563-c58fd8c713f2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qxhc0228",
+    "chunks": [
+        {
+            "markdown": "<a id='d1a9ddd3-4221-4ef6-8824-2ce941e1f2cc'></a>\n\nPage 2",
+            "type": "text",
+            "id": "d1a9ddd3-4221-4ef6-8824-2ce941e1f2cc",
+            "grounding": {
+                "box": {
+                    "left": 0.0868554413318634,
+                    "top": 0.0390779934823513,
+                    "right": 0.16900217533111572,
+                    "bottom": 0.057621899992227554
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c71ee97f-d135-4e27-bea5-a7dde3c0a55a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Imposition, Presswork thru Binding</td><td id=\"0-3\">Base</td><td id=\"0-4\"></td><td id=\"0-5\" colspan=\"2\">Additional</td></tr>\n<tr><td id=\"0-6\">Adhesive Bound</td><td id=\"0-7\" colspan=\"2\">4400 copies</td><td id=\"0-8\">1000</td><td id=\"0-9\">copies</td></tr>\n<tr><td id=\"0-a\">128 pages & covers (covers 1-4</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\">in 1 color other than</td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\"></td></tr>\n<tr><td id=\"0-k\">black)</td><td id=\"0-l\">$878.92</td><td id=\"0-m\"></td><td id=\"0-n\" colspan=\"2\">$147.58</td></tr>\n<tr><td id=\"0-o\">32 pages additional</td><td id=\"0-p\">147.76</td><td id=\"0-q\"></td><td id=\"0-r\" colspan=\"2\">23.53</td></tr>\n<tr><td id=\"0-s\">16 pages additional</td><td id=\"0-t\">130.15</td><td id=\"0-u\"></td><td id=\"0-v\" colspan=\"2\">18.13</td></tr>\n<tr><td id=\"0-w\">8 pages additional</td><td id=\"0-x\">117.35</td><td id=\"0-y\"></td><td id=\"0-z\" colspan=\"2\">15.95</td></tr>\n<tr><td id=\"0-A\">4 pages additional</td><td id=\"0-B\">63.68</td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\">9.70</td></tr>\n<tr><td id=\"0-F\">2 pages additional to insert in the center of a signature</td><td id=\"0-G\">95.49</td><td id=\"0-H\"></td><td id=\"0-I\" colspan=\"2\">17.09</td></tr>\n</table>\n<table id=\"0-J\">\n<tr><td id=\"0-K\">Extra for:</td><td id=\"0-L\"></td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">Gathering 8 signatures</td><td id=\"0-O\">11.37</td><td id=\"0-P\">2.58</td></tr>\n</table>",
+            "type": "table",
+            "id": "c71ee97f-d135-4e27-bea5-a7dde3c0a55a",
+            "grounding": {
+                "box": {
+                    "left": 0.08600375056266785,
+                    "top": 0.10661286115646362,
+                    "right": 0.886487603187561,
+                    "bottom": 0.37489551305770874
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ad58a224-acfc-4ad1-84cd-c6b7b53ada23'></a>\n\nStock: current prices\nText:  60 lb. White Process Plate (WP #13)         .99/page/1000\nCover: 65 lb. Ivory Navajo Cover                   20.68/1000",
+            "type": "text",
+            "id": "ad58a224-acfc-4ad1-84cd-c6b7b53ada23",
+            "grounding": {
+                "box": {
+                    "left": 0.08457541465759277,
+                    "top": 0.38487595319747925,
+                    "right": 0.8819996118545532,
+                    "bottom": 0.4489443898200989
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='011a2614-a380-420b-b605-4d8ac0722885'></a>\n\n<table><thead><tr><th>Mailing</th><th></th></tr></thead><tbody><tr><td>Wrap and mail</td><td>36.79/1000</td></tr><tr><td>Apply labels (Cheshire)</td><td>22.70/1000</td></tr></tbody></table>",
+            "type": "table",
+            "id": "011a2614-a380-420b-b605-4d8ac0722885",
+            "grounding": {
+                "box": {
+                    "left": 0.08435648679733276,
+                    "top": 0.4604283571243286,
+                    "right": 0.8273202776908875,
+                    "bottom": 0.5255588889122009
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4fa06480-1cbf-4bcb-8563-c58fd8c713f2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qxhc0228",
+            "type": "marginalia",
+            "id": "4fa06480-1cbf-4bcb-8563-c58fd8c713f2",
+            "grounding": {
+                "box": {
+                    "left": 0.2236659824848175,
+                    "top": 0.9772047400474548,
+                    "right": 0.7749581336975098,
+                    "bottom": 0.9983305335044861
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d1a9ddd3-4221-4ef6-8824-2ce941e1f2cc'></a>\n\nPage 2\n\n<a id='c71ee97f-d135-4e27-bea5-a7dde3c0a55a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Imposition, Presswork thru Binding</td><td id=\"0-3\">Base</td><td id=\"0-4\"></td><td id=\"0-5\" colspan=\"2\">Additional</td></tr>\n<tr><td id=\"0-6\">Adhesive Bound</td><td id=\"0-7\" colspan=\"2\">4400 copies</td><td id=\"0-8\">1000</td><td id=\"0-9\">copies</td></tr>\n<tr><td id=\"0-a\">128 pages & covers (covers 1-4</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\">in 1 color other than</td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\"></td></tr>\n<tr><td id=\"0-k\">black)</td><td id=\"0-l\">$878.92</td><td id=\"0-m\"></td><td id=\"0-n\" colspan=\"2\">$147.58</td></tr>\n<tr><td id=\"0-o\">32 pages additional</td><td id=\"0-p\">147.76</td><td id=\"0-q\"></td><td id=\"0-r\" colspan=\"2\">23.53</td></tr>\n<tr><td id=\"0-s\">16 pages additional</td><td id=\"0-t\">130.15</td><td id=\"0-u\"></td><td id=\"0-v\" colspan=\"2\">18.13</td></tr>\n<tr><td id=\"0-w\">8 pages additional</td><td id=\"0-x\">117.35</td><td id=\"0-y\"></td><td id=\"0-z\" colspan=\"2\">15.95</td></tr>\n<tr><td id=\"0-A\">4 pages additional</td><td id=\"0-B\">63.68</td><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\">9.70</td></tr>\n<tr><td id=\"0-F\">2 pages additional to insert in the center of a signature</td><td id=\"0-G\">95.49</td><td id=\"0-H\"></td><td id=\"0-I\" colspan=\"2\">17.09</td></tr>\n</table>\n<table id=\"0-J\">\n<tr><td id=\"0-K\">Extra for:</td><td id=\"0-L\"></td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">Gathering 8 signatures</td><td id=\"0-O\">11.37</td><td id=\"0-P\">2.58</td></tr>\n</table>\n\n<a id='ad58a224-acfc-4ad1-84cd-c6b7b53ada23'></a>\n\nStock: current prices\nText:  60 lb. White Process Plate (WP #13)         .99/page/1000\nCover: 65 lb. Ivory Navajo Cover                   20.68/1000\n\n<a id='011a2614-a380-420b-b605-4d8ac0722885'></a>\n\n<table><thead><tr><th>Mailing</th><th></th></tr></thead><tbody><tr><td>Wrap and mail</td><td>36.79/1000</td></tr><tr><td>Apply labels (Cheshire)</td><td>22.70/1000</td></tr></tbody></table>\n\n<a id='4fa06480-1cbf-4bcb-8563-c58fd8c713f2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qxhc0228",
+            "chunks": [
+                "d1a9ddd3-4221-4ef6-8824-2ce941e1f2cc",
+                "c71ee97f-d135-4e27-bea5-a7dde3c0a55a",
+                "ad58a224-acfc-4ad1-84cd-c6b7b53ada23",
+                "011a2614-a380-420b-b605-4d8ac0722885",
+                "4fa06480-1cbf-4bcb-8563-c58fd8c713f2"
+            ]
+        }
+    ],
+    "grounding": {
+        "d1a9ddd3-4221-4ef6-8824-2ce941e1f2cc": {
+            "box": {
+                "left": 0.0868554413318634,
+                "top": 0.0390779934823513,
+                "right": 0.16900217533111572,
+                "bottom": 0.057621899992227554
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c71ee97f-d135-4e27-bea5-a7dde3c0a55a": {
+            "box": {
+                "left": 0.08600375056266785,
+                "top": 0.10661286115646362,
+                "right": 0.886487603187561,
+                "bottom": 0.37489551305770874
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.10845745341840252,
+                "right": 0.8787500103197079,
+                "bottom": 0.31179874669456353
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.10845745341840252,
+                "right": 0.5444804733145041,
+                "bottom": 0.1280356934857121
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.5444804733145041,
+                "top": 0.10845745341840252,
+                "right": 0.6808668614501823,
+                "bottom": 0.1280356934857121
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6808668614501823,
+                "top": 0.10845745341840252,
+                "right": 0.7229964755686122,
+                "bottom": 0.1280356934857121
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7229964755686122,
+                "top": 0.10845745341840252,
+                "right": 0.8793343459891716,
+                "bottom": 0.14372695431086413
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.1280356934857121,
+                "right": 0.5444804733145041,
+                "bottom": 0.14372695431086413
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5444804733145041,
+                "top": 0.1280356934857121,
+                "right": 0.7882800387094431,
+                "bottom": 0.17244948299698848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7229964755686122,
+                "top": 0.1280356934857121,
+                "right": 0.7882800387094431,
+                "bottom": 0.14372695431086413
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7882800387094431,
+                "top": 0.1280356934857121,
+                "right": 0.8793343459891716,
+                "bottom": 0.14372695431086413
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.14372695431086413,
+                "right": 0.5444804733145041,
+                "bottom": 0.17244948299698848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5444804733145041,
+                "top": 0.14372695431086413,
+                "right": 0.6808668614501823,
+                "bottom": 0.17244948299698848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.6808668614501823,
+                "top": 0.14372695431086413,
+                "right": 0.7229964755686122,
+                "bottom": 0.17244948299698848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7229964755686122,
+                "top": 0.14372695431086413,
+                "right": 0.7882800387094431,
+                "bottom": 0.17244948299698848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.7882800387094431,
+                "top": 0.14372695431086413,
+                "right": 0.8793343459891716,
+                "bottom": 0.17244948299698848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.17244948299698848,
+                "right": 0.5444804733145041,
+                "bottom": 0.1886304588981389
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5444804733145041,
+                "top": 0.17244948299698848,
+                "right": 0.6808668614501823,
+                "bottom": 0.1886304588981389
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6808668614501823,
+                "top": 0.17244948299698848,
+                "right": 0.7229964755686122,
+                "bottom": 0.1886304588981389
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.7229964755686122,
+                "top": 0.17244948299698848,
+                "right": 0.7882800387094431,
+                "bottom": 0.1886304588981389
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.7882800387094431,
+                "top": 0.17244948299698848,
+                "right": 0.8793343459891716,
+                "bottom": 0.1886304588981389
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.1886304588981389,
+                "right": 0.5444804733145041,
+                "bottom": 0.20581195294032995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.5444804733145041,
+                "top": 0.1886304588981389,
+                "right": 0.6808668614501823,
+                "bottom": 0.20581195294032995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.6808668614501823,
+                "top": 0.1886304588981389,
+                "right": 0.7229964755686122,
+                "bottom": 0.20581195294032995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.7229964755686122,
+                "top": 0.1886304588981389,
+                "right": 0.8793343459891716,
+                "bottom": 0.22384991916693053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.20581195294032995,
+                "right": 0.5444804733145041,
+                "bottom": 0.22384991916693053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5444804733145041,
+                "top": 0.20581195294032995,
+                "right": 0.6808668614501823,
+                "bottom": 0.22384991916693053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.6808668614501823,
+                "top": 0.20581195294032995,
+                "right": 0.7229964755686122,
+                "bottom": 0.22384991916693053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.7229964755686122,
+                "top": 0.20581195294032995,
+                "right": 0.8793343459891716,
+                "bottom": 0.24156393390458675
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.22384991916693053,
+                "right": 0.5444804733145041,
+                "bottom": 0.24156393390458675
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.5444804733145041,
+                "top": 0.22384991916693053,
+                "right": 0.6808668614501823,
+                "bottom": 0.24156393390458675
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.6808668614501823,
+                "top": 0.22384991916693053,
+                "right": 0.7229964755686122,
+                "bottom": 0.24156393390458675
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.7229964755686122,
+                "top": 0.22384991916693053,
+                "right": 0.8793343459891716,
+                "bottom": 0.2590161697420399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.24156393390458675,
+                "right": 0.5444804733145041,
+                "bottom": 0.2590161697420399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.5444804733145041,
+                "top": 0.24156393390458675,
+                "right": 0.6808668614501823,
+                "bottom": 0.2590161697420399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.6808668614501823,
+                "top": 0.24156393390458675,
+                "right": 0.7229964755686122,
+                "bottom": 0.2590161697420399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.7229964755686122,
+                "top": 0.24156393390458675,
+                "right": 0.8793343459891716,
+                "bottom": 0.2765101897807227
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.2590161697420399,
+                "right": 0.5444804733145041,
+                "bottom": 0.2765101897807227
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.5444804733145041,
+                "top": 0.2590161697420399,
+                "right": 0.6808668614501823,
+                "bottom": 0.2765101897807227
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.6808668614501823,
+                "top": 0.2590161697420399,
+                "right": 0.7229964755686122,
+                "bottom": 0.2765101897807227
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.7229964755686122,
+                "top": 0.2590161697420399,
+                "right": 0.7882800387094431,
+                "bottom": 0.2765101897807227
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.7882800387094431,
+                "top": 0.2590161697420399,
+                "right": 0.8793343459891716,
+                "bottom": 0.2765101897807227
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.09138642016691395,
+                "top": 0.2765101897807227,
+                "right": 0.5444804733145041,
+                "bottom": 0.31179874669456353
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.5444804733145041,
+                "top": 0.2765101897807227,
+                "right": 0.6808668614501823,
+                "bottom": 0.31179874669456353
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.6808668614501823,
+                "top": 0.2765101897807227,
+                "right": 0.7229964755686122,
+                "bottom": 0.31179874669456353
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.7229964755686122,
+                "top": 0.2765101897807227,
+                "right": 0.8793343459891716,
+                "bottom": 0.31179874669456353
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.10553694880000508,
+                "top": 0.3257453472151468,
+                "right": 0.8506345757693801,
+                "bottom": 0.37131633562776756
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.10553694880000508,
+                "top": 0.3257453472151468,
+                "right": 0.4177027020615549,
+                "bottom": 0.34402095409022593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.4177027020615549,
+                "top": 0.3257453472151468,
+                "right": 0.6739449624343052,
+                "bottom": 0.34402095409022593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.6739449624343052,
+                "top": 0.3257453472151468,
+                "right": 0.850856486865867,
+                "bottom": 0.34402095409022593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.10553694880000508,
+                "top": 0.34402095409022593,
+                "right": 0.4177027020615549,
+                "bottom": 0.37131633562776756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.4177027020615549,
+                "top": 0.34402095409022593,
+                "right": 0.6739449624343052,
+                "bottom": 0.37131633562776756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.6739449624343052,
+                "top": 0.34402095409022593,
+                "right": 0.850856486865867,
+                "bottom": 0.37131633562776756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "ad58a224-acfc-4ad1-84cd-c6b7b53ada23": {
+            "box": {
+                "left": 0.08457541465759277,
+                "top": 0.38487595319747925,
+                "right": 0.8819996118545532,
+                "bottom": 0.4489443898200989
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "011a2614-a380-420b-b605-4d8ac0722885": {
+            "box": {
+                "left": 0.08435648679733276,
+                "top": 0.4604283571243286,
+                "right": 0.8273202776908875,
+                "bottom": 0.5255588889122009
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "4fa06480-1cbf-4bcb-8563-c58fd8c713f2": {
+            "box": {
+                "left": 0.2236659824848175,
+                "top": 0.9772047400474548,
+                "right": 0.7749581336975098,
+                "bottom": 0.9983305335044861
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "qxhc0228_6.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7818,
+        "credit_usage": 3.0,
+        "job_id": "iec1jsc2kw1aq4x05zd3q86h5",
+        "version": "dpt-2-20250919"
+    }
+}

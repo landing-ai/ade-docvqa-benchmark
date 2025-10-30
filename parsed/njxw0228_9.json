@@ -1,0 +1,453 @@
+{
+    "markdown": "<a id='58dc8a00-2c4f-4488-a5e2-75f8e508fb20'></a>\n\nESTIMATED BUDGET\\nfor\\nNutrition Education of Physicians Proposal\n\n<a id='70c8301d-6e6f-47c3-b2fa-4a53837153bf'></a>\n\nTHIRD YEAR\n(January 1, 1987-December 31, 1987)\n\n<a id='2453d160-8f65-4471-98c6-8d31a6878a03'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Personnel</td><td id=\"0-3\" colspan=\"2\"></td><td id=\"0-4\"></td><td id=\"0-5\">Fringe</td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\">M. Wigren</td><td id=\"0-8\">Title Secretary</td><td id=\"0-9\">% 25</td><td id=\"0-a\">Salary $5,589.</td><td id=\"0-b\">Benefits $1,230.</td><td id=\"0-c\">Total $6,819.</td></tr>\n<tr><td id=\"0-d\">B. Levine, Ph.D.</td><td id=\"0-e\">Nutrition Director</td><td id=\"0-f\">40</td><td id=\"0-g\">15,803.</td><td id=\"0-h\">4,425.</td><td id=\"0-i\">20,228.</td></tr>\n<tr><td id=\"0-j\">R. Tannenbaum, Ph.D.</td><td id=\"0-k\">Program</td><td id=\"0-l\">\u2013</td><td id=\"0-m\">20,000.</td><td id=\"0-n\">\u2013</td><td id=\"0-o\">20,000.</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\">Evaluator</td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\">47,047.</td></tr>\n</table>\n\n<a id='f8369590-ee7b-4760-967e-2fd9e2a66820'></a>\n\nSupplies and Services\n\nComputer time                               5,000.\nKeypunch                                    3,000.\nPost test printing (10,000, copies)         2,600.\nPostage                                     5,000.\n                                           15,600.\n\n<a id='13712360-aa98-4040-870e-432fd7917f15'></a>\n\n<table><thead><tr><th>Col 1</th><th>Col 2</th></tr></thead><tbody><tr><td>Total Personnel</td><td>47,047.</td></tr><tr><td>Total Supplies & Services</td><td>15,600.</td></tr><tr><td>Indirect Costs (20%)</td><td><u>12,529.</u></td></tr></tbody><tfoot><tr><td>TOTAL</td><td>$75,176.</td></tr></tfoot></table>",
+    "chunks": [
+        {
+            "markdown": "<a id='58dc8a00-2c4f-4488-a5e2-75f8e508fb20'></a>\n\nESTIMATED BUDGET\\nfor\\nNutrition Education of Physicians Proposal",
+            "type": "text",
+            "id": "58dc8a00-2c4f-4488-a5e2-75f8e508fb20",
+            "grounding": {
+                "box": {
+                    "left": 0.28724634647369385,
+                    "top": 0.05631422996520996,
+                    "right": 0.705646812915802,
+                    "bottom": 0.10720935463905334
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='70c8301d-6e6f-47c3-b2fa-4a53837153bf'></a>\n\nTHIRD YEAR\n(January 1, 1987-December 31, 1987)",
+            "type": "text",
+            "id": "70c8301d-6e6f-47c3-b2fa-4a53837153bf",
+            "grounding": {
+                "box": {
+                    "left": 0.300950288772583,
+                    "top": 0.11843882501125336,
+                    "right": 0.6444088220596313,
+                    "bottom": 0.1539374440908432
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2453d160-8f65-4471-98c6-8d31a6878a03'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Personnel</td><td id=\"0-3\" colspan=\"2\"></td><td id=\"0-4\"></td><td id=\"0-5\">Fringe</td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\">M. Wigren</td><td id=\"0-8\">Title Secretary</td><td id=\"0-9\">% 25</td><td id=\"0-a\">Salary $5,589.</td><td id=\"0-b\">Benefits $1,230.</td><td id=\"0-c\">Total $6,819.</td></tr>\n<tr><td id=\"0-d\">B. Levine, Ph.D.</td><td id=\"0-e\">Nutrition Director</td><td id=\"0-f\">40</td><td id=\"0-g\">15,803.</td><td id=\"0-h\">4,425.</td><td id=\"0-i\">20,228.</td></tr>\n<tr><td id=\"0-j\">R. Tannenbaum, Ph.D.</td><td id=\"0-k\">Program</td><td id=\"0-l\">\u2013</td><td id=\"0-m\">20,000.</td><td id=\"0-n\">\u2013</td><td id=\"0-o\">20,000.</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\">Evaluator</td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\">47,047.</td></tr>\n</table>",
+            "type": "table",
+            "id": "2453d160-8f65-4471-98c6-8d31a6878a03",
+            "grounding": {
+                "box": {
+                    "left": 0.0914677083492279,
+                    "top": 0.20890605449676514,
+                    "right": 0.8125653266906738,
+                    "bottom": 0.35497164726257324
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f8369590-ee7b-4760-967e-2fd9e2a66820'></a>\n\nSupplies and Services\n\nComputer time                               5,000.\nKeypunch                                    3,000.\nPost test printing (10,000, copies)         2,600.\nPostage                                     5,000.\n                                           15,600.",
+            "type": "text",
+            "id": "f8369590-ee7b-4760-967e-2fd9e2a66820",
+            "grounding": {
+                "box": {
+                    "left": 0.09124401211738586,
+                    "top": 0.3915936350822449,
+                    "right": 0.8109246492385864,
+                    "bottom": 0.5046088695526123
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='13712360-aa98-4040-870e-432fd7917f15'></a>\n\n<table><thead><tr><th>Col 1</th><th>Col 2</th></tr></thead><tbody><tr><td>Total Personnel</td><td>47,047.</td></tr><tr><td>Total Supplies & Services</td><td>15,600.</td></tr><tr><td>Indirect Costs (20%)</td><td><u>12,529.</u></td></tr></tbody><tfoot><tr><td>TOTAL</td><td>$75,176.</td></tr></tfoot></table>",
+            "type": "table",
+            "id": "13712360-aa98-4040-870e-432fd7917f15",
+            "grounding": {
+                "box": {
+                    "left": 0.4585643410682678,
+                    "top": 0.5584595203399658,
+                    "right": 0.8096641898155212,
+                    "bottom": 0.6418306827545166
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='58dc8a00-2c4f-4488-a5e2-75f8e508fb20'></a>\n\nESTIMATED BUDGET\\nfor\\nNutrition Education of Physicians Proposal\n\n<a id='70c8301d-6e6f-47c3-b2fa-4a53837153bf'></a>\n\nTHIRD YEAR\n(January 1, 1987-December 31, 1987)\n\n<a id='2453d160-8f65-4471-98c6-8d31a6878a03'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Personnel</td><td id=\"0-3\" colspan=\"2\"></td><td id=\"0-4\"></td><td id=\"0-5\">Fringe</td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\">M. Wigren</td><td id=\"0-8\">Title Secretary</td><td id=\"0-9\">% 25</td><td id=\"0-a\">Salary $5,589.</td><td id=\"0-b\">Benefits $1,230.</td><td id=\"0-c\">Total $6,819.</td></tr>\n<tr><td id=\"0-d\">B. Levine, Ph.D.</td><td id=\"0-e\">Nutrition Director</td><td id=\"0-f\">40</td><td id=\"0-g\">15,803.</td><td id=\"0-h\">4,425.</td><td id=\"0-i\">20,228.</td></tr>\n<tr><td id=\"0-j\">R. Tannenbaum, Ph.D.</td><td id=\"0-k\">Program</td><td id=\"0-l\">\u2013</td><td id=\"0-m\">20,000.</td><td id=\"0-n\">\u2013</td><td id=\"0-o\">20,000.</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\">Evaluator</td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\">47,047.</td></tr>\n</table>\n\n<a id='f8369590-ee7b-4760-967e-2fd9e2a66820'></a>\n\nSupplies and Services\n\nComputer time                               5,000.\nKeypunch                                    3,000.\nPost test printing (10,000, copies)         2,600.\nPostage                                     5,000.\n                                           15,600.\n\n<a id='13712360-aa98-4040-870e-432fd7917f15'></a>\n\n<table><thead><tr><th>Col 1</th><th>Col 2</th></tr></thead><tbody><tr><td>Total Personnel</td><td>47,047.</td></tr><tr><td>Total Supplies & Services</td><td>15,600.</td></tr><tr><td>Indirect Costs (20%)</td><td><u>12,529.</u></td></tr></tbody><tfoot><tr><td>TOTAL</td><td>$75,176.</td></tr></tfoot></table>",
+            "chunks": [
+                "58dc8a00-2c4f-4488-a5e2-75f8e508fb20",
+                "70c8301d-6e6f-47c3-b2fa-4a53837153bf",
+                "2453d160-8f65-4471-98c6-8d31a6878a03",
+                "f8369590-ee7b-4760-967e-2fd9e2a66820",
+                "13712360-aa98-4040-870e-432fd7917f15"
+            ]
+        }
+    ],
+    "grounding": {
+        "58dc8a00-2c4f-4488-a5e2-75f8e508fb20": {
+            "box": {
+                "left": 0.28724634647369385,
+                "top": 0.05631422996520996,
+                "right": 0.705646812915802,
+                "bottom": 0.10720935463905334
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "70c8301d-6e6f-47c3-b2fa-4a53837153bf": {
+            "box": {
+                "left": 0.300950288772583,
+                "top": 0.11843882501125336,
+                "right": 0.6444088220596313,
+                "bottom": 0.1539374440908432
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2453d160-8f65-4471-98c6-8d31a6878a03": {
+            "box": {
+                "left": 0.0914677083492279,
+                "top": 0.20890605449676514,
+                "right": 0.8125653266906738,
+                "bottom": 0.35497164726257324
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.09633419331278979,
+                "top": 0.2089941629449641,
+                "right": 0.8123414398733413,
+                "bottom": 0.3549702368601544
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.09633419331278979,
+                "top": 0.2089941629449641,
+                "right": 0.29808588488303656,
+                "bottom": 0.22748511361313994
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.29808588488303656,
+                "top": 0.2089941629449641,
+                "right": 0.581201274197662,
+                "bottom": 0.26046140826290554
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.4660629761490185,
+                "top": 0.2089941629449641,
+                "right": 0.581201274197662,
+                "bottom": 0.22748511361313994
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.581201274197662,
+                "top": 0.2089941629449641,
+                "right": 0.7086847231597897,
+                "bottom": 0.22748511361313994
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.7086847231597897,
+                "top": 0.2089941629449641,
+                "right": 0.8124292066003509,
+                "bottom": 0.22748511361313994
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.09633419331278979,
+                "top": 0.22748511361313994,
+                "right": 0.29808588488303656,
+                "bottom": 0.26046140826290554
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.29808588488303656,
+                "top": 0.22748511361313994,
+                "right": 0.4086327409649,
+                "bottom": 0.26046140826290554
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.4086327409649,
+                "top": 0.22748511361313994,
+                "right": 0.4660629761490185,
+                "bottom": 0.26046140826290554
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.4660629761490185,
+                "top": 0.22748511361313994,
+                "right": 0.581201274197662,
+                "bottom": 0.26046140826290554
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.581201274197662,
+                "top": 0.22748511361313994,
+                "right": 0.7086847231597897,
+                "bottom": 0.26046140826290554
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7086847231597897,
+                "top": 0.22748511361313994,
+                "right": 0.8124292066003509,
+                "bottom": 0.26046140826290554
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.09633419331278979,
+                "top": 0.26046140826290554,
+                "right": 0.29808588488303656,
+                "bottom": 0.3053953231571569
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.29808588488303656,
+                "top": 0.26046140826290554,
+                "right": 0.4086327409649,
+                "bottom": 0.3053953231571569
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.4086327409649,
+                "top": 0.26046140826290554,
+                "right": 0.4660629761490185,
+                "bottom": 0.3053953231571569
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.4660629761490185,
+                "top": 0.26046140826290554,
+                "right": 0.581201274197662,
+                "bottom": 0.3053953231571569
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.581201274197662,
+                "top": 0.26046140826290554,
+                "right": 0.7086847231597897,
+                "bottom": 0.3053953231571569
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.7086847231597897,
+                "top": 0.26046140826290554,
+                "right": 0.8124292066003509,
+                "bottom": 0.3053953231571569
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.09633419331278979,
+                "top": 0.3053953231571569,
+                "right": 0.29808588488303656,
+                "bottom": 0.33514106712451763
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.29808588488303656,
+                "top": 0.3053953231571569,
+                "right": 0.4086327409649,
+                "bottom": 0.33514106712451763
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.4086327409649,
+                "top": 0.3053953231571569,
+                "right": 0.4660629761490185,
+                "bottom": 0.33514106712451763
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.4660629761490185,
+                "top": 0.3053953231571569,
+                "right": 0.581201274197662,
+                "bottom": 0.33514106712451763
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.581201274197662,
+                "top": 0.3053953231571569,
+                "right": 0.7086847231597897,
+                "bottom": 0.33514106712451763
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7086847231597897,
+                "top": 0.3053953231571569,
+                "right": 0.8124292066003509,
+                "bottom": 0.33514106712451763
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.09633419331278979,
+                "top": 0.33514106712451763,
+                "right": 0.29808588488303656,
+                "bottom": 0.3549702368601544
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.29808588488303656,
+                "top": 0.33514106712451763,
+                "right": 0.4086327409649,
+                "bottom": 0.3549702368601544
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.4086327409649,
+                "top": 0.33514106712451763,
+                "right": 0.4660629761490185,
+                "bottom": 0.3549702368601544
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.4660629761490185,
+                "top": 0.33514106712451763,
+                "right": 0.581201274197662,
+                "bottom": 0.3549702368601544
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.581201274197662,
+                "top": 0.33514106712451763,
+                "right": 0.7086847231597897,
+                "bottom": 0.3549702368601544
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.7086847231597897,
+                "top": 0.33514106712451763,
+                "right": 0.8124292066003509,
+                "bottom": 0.3549702368601544
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "f8369590-ee7b-4760-967e-2fd9e2a66820": {
+            "box": {
+                "left": 0.09124401211738586,
+                "top": 0.3915936350822449,
+                "right": 0.8109246492385864,
+                "bottom": 0.5046088695526123
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "13712360-aa98-4040-870e-432fd7917f15": {
+            "box": {
+                "left": 0.4585643410682678,
+                "top": 0.5584595203399658,
+                "right": 0.8096641898155212,
+                "bottom": 0.6418306827545166
+            },
+            "page": 0,
+            "type": "chunkTable"
+        }
+    },
+    "metadata": {
+        "filename": "njxw0228_9.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7592,
+        "credit_usage": 3.0,
+        "job_id": "dimknwrcxdrp66832glhmxqwd",
+        "version": "dpt-2-20250919"
+    }
+}

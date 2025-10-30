@@ -1,0 +1,763 @@
+{
+    "markdown": "<a id='e833dbed-bc02-4f5e-ac62-fba15d61ac46'></a>\n\nTABLE V. Number of Twin Individuals by Status in Mailing and Year of Mailing Q1\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"8\">Year of mailing</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Status in mailing</td><td id=\"0-5\">1965</td><td id=\"0-6\">1966</td><td id=\"0-7\">1967</td><td id=\"0-8\">1968</td><td id=\"0-9\">1969</td><td id=\"0-a\">1970\u20131974</td><td id=\"0-b\">1975\u20131977</td><td id=\"0-c\">Total</td></tr>\n<tr><td id=\"0-d\">Total mailed\u00aa</td><td id=\"0-e\">8,792</td><td id=\"0-f\">12,645</td><td id=\"0-g\">1,257</td><td id=\"0-h\">917</td><td id=\"0-i\">484</td><td id=\"0-j\">2,412</td><td id=\"0-k\">995</td><td id=\"0-l\">27,502</td></tr>\n<tr><td id=\"0-m\">Not deliverable\u1d47</td><td id=\"0-n\">421</td><td id=\"0-o\">2,030</td><td id=\"0-p\">61</td><td id=\"0-q\">128</td><td id=\"0-r\">42</td><td id=\"0-s\">297</td><td id=\"0-t\">83</td><td id=\"0-u\">3,062</td></tr>\n<tr><td id=\"0-v\">Total contacts</td><td id=\"0-w\">8,355</td><td id=\"0-x\">10,574</td><td id=\"0-y\">1,190</td><td id=\"0-z\">782</td><td id=\"0-A\">440</td><td id=\"0-B\">2,075</td><td id=\"0-C\">869</td><td id=\"0-D\">24,285</td></tr>\n<tr><td id=\"0-E\">Replied</td><td id=\"0-F\">7,951</td><td id=\"0-G\">9,253</td><td id=\"0-H\">839</td><td id=\"0-I\">616</td><td id=\"0-J\">294</td><td id=\"0-K\">1,554</td><td id=\"0-L\">439</td><td id=\"0-M\">20,946</td></tr>\n<tr><td id=\"0-N\">Refused</td><td id=\"0-O\">400</td><td id=\"0-P\">1,313</td><td id=\"0-Q\">349</td><td id=\"0-R\">165</td><td id=\"0-S\">146</td><td id=\"0-T\">516</td><td id=\"0-U\">430</td><td id=\"0-V\">3,319</td></tr>\n<tr><td id=\"0-W\">Other</td><td id=\"0-X\">4</td><td id=\"0-Y\">8</td><td id=\"0-Z\">2</td><td id=\"0-10\">1</td><td id=\"0-11\">0</td><td id=\"0-12\">5</td><td id=\"0-13\">0</td><td id=\"0-14\">20</td></tr>\n</table>\n\u00aaIncludes 59 individuals to whom mail was sent too recently to reply and 96 first identified as deceased through the mailing.\n\u1d47Returned by post office as not deliverable at address shown.\n\n<a id='8d61b767-3f39-4eb3-8ddc-25e0b1c1b8b4'></a>\n\nNAS\u2014NRC Twin Registry / 161\n\n<a id='08a0be54-0e05-41a7-9e9b-682f5069bb8d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snkw0227",
+    "chunks": [
+        {
+            "markdown": "<a id='e833dbed-bc02-4f5e-ac62-fba15d61ac46'></a>\n\nTABLE V. Number of Twin Individuals by Status in Mailing and Year of Mailing Q1\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"8\">Year of mailing</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Status in mailing</td><td id=\"0-5\">1965</td><td id=\"0-6\">1966</td><td id=\"0-7\">1967</td><td id=\"0-8\">1968</td><td id=\"0-9\">1969</td><td id=\"0-a\">1970\u20131974</td><td id=\"0-b\">1975\u20131977</td><td id=\"0-c\">Total</td></tr>\n<tr><td id=\"0-d\">Total mailed\u00aa</td><td id=\"0-e\">8,792</td><td id=\"0-f\">12,645</td><td id=\"0-g\">1,257</td><td id=\"0-h\">917</td><td id=\"0-i\">484</td><td id=\"0-j\">2,412</td><td id=\"0-k\">995</td><td id=\"0-l\">27,502</td></tr>\n<tr><td id=\"0-m\">Not deliverable\u1d47</td><td id=\"0-n\">421</td><td id=\"0-o\">2,030</td><td id=\"0-p\">61</td><td id=\"0-q\">128</td><td id=\"0-r\">42</td><td id=\"0-s\">297</td><td id=\"0-t\">83</td><td id=\"0-u\">3,062</td></tr>\n<tr><td id=\"0-v\">Total contacts</td><td id=\"0-w\">8,355</td><td id=\"0-x\">10,574</td><td id=\"0-y\">1,190</td><td id=\"0-z\">782</td><td id=\"0-A\">440</td><td id=\"0-B\">2,075</td><td id=\"0-C\">869</td><td id=\"0-D\">24,285</td></tr>\n<tr><td id=\"0-E\">Replied</td><td id=\"0-F\">7,951</td><td id=\"0-G\">9,253</td><td id=\"0-H\">839</td><td id=\"0-I\">616</td><td id=\"0-J\">294</td><td id=\"0-K\">1,554</td><td id=\"0-L\">439</td><td id=\"0-M\">20,946</td></tr>\n<tr><td id=\"0-N\">Refused</td><td id=\"0-O\">400</td><td id=\"0-P\">1,313</td><td id=\"0-Q\">349</td><td id=\"0-R\">165</td><td id=\"0-S\">146</td><td id=\"0-T\">516</td><td id=\"0-U\">430</td><td id=\"0-V\">3,319</td></tr>\n<tr><td id=\"0-W\">Other</td><td id=\"0-X\">4</td><td id=\"0-Y\">8</td><td id=\"0-Z\">2</td><td id=\"0-10\">1</td><td id=\"0-11\">0</td><td id=\"0-12\">5</td><td id=\"0-13\">0</td><td id=\"0-14\">20</td></tr>\n</table>\n\u00aaIncludes 59 individuals to whom mail was sent too recently to reply and 96 first identified as deceased through the mailing.\n\u1d47Returned by post office as not deliverable at address shown.",
+            "type": "table",
+            "id": "e833dbed-bc02-4f5e-ac62-fba15d61ac46",
+            "grounding": {
+                "box": {
+                    "left": 0.1427440345287323,
+                    "top": 0.3376244604587555,
+                    "right": 0.8454086780548096,
+                    "bottom": 0.656943678855896
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8d61b767-3f39-4eb3-8ddc-25e0b1c1b8b4'></a>\n\nNAS\u2014NRC Twin Registry / 161",
+            "type": "text",
+            "id": "8d61b767-3f39-4eb3-8ddc-25e0b1c1b8b4",
+            "grounding": {
+                "box": {
+                    "left": 0.8845307230949402,
+                    "top": 0.5669158697128296,
+                    "right": 0.9094324707984924,
+                    "bottom": 0.8640646934509277
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='08a0be54-0e05-41a7-9e9b-682f5069bb8d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snkw0227",
+            "type": "text",
+            "id": "08a0be54-0e05-41a7-9e9b-682f5069bb8d",
+            "grounding": {
+                "box": {
+                    "left": 0.23766109347343445,
+                    "top": 0.9642889499664307,
+                    "right": 0.7619385719299316,
+                    "bottom": 0.9984557628631592
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e833dbed-bc02-4f5e-ac62-fba15d61ac46'></a>\n\nTABLE V. Number of Twin Individuals by Status in Mailing and Year of Mailing Q1\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"8\">Year of mailing</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Status in mailing</td><td id=\"0-5\">1965</td><td id=\"0-6\">1966</td><td id=\"0-7\">1967</td><td id=\"0-8\">1968</td><td id=\"0-9\">1969</td><td id=\"0-a\">1970\u20131974</td><td id=\"0-b\">1975\u20131977</td><td id=\"0-c\">Total</td></tr>\n<tr><td id=\"0-d\">Total mailed\u00aa</td><td id=\"0-e\">8,792</td><td id=\"0-f\">12,645</td><td id=\"0-g\">1,257</td><td id=\"0-h\">917</td><td id=\"0-i\">484</td><td id=\"0-j\">2,412</td><td id=\"0-k\">995</td><td id=\"0-l\">27,502</td></tr>\n<tr><td id=\"0-m\">Not deliverable\u1d47</td><td id=\"0-n\">421</td><td id=\"0-o\">2,030</td><td id=\"0-p\">61</td><td id=\"0-q\">128</td><td id=\"0-r\">42</td><td id=\"0-s\">297</td><td id=\"0-t\">83</td><td id=\"0-u\">3,062</td></tr>\n<tr><td id=\"0-v\">Total contacts</td><td id=\"0-w\">8,355</td><td id=\"0-x\">10,574</td><td id=\"0-y\">1,190</td><td id=\"0-z\">782</td><td id=\"0-A\">440</td><td id=\"0-B\">2,075</td><td id=\"0-C\">869</td><td id=\"0-D\">24,285</td></tr>\n<tr><td id=\"0-E\">Replied</td><td id=\"0-F\">7,951</td><td id=\"0-G\">9,253</td><td id=\"0-H\">839</td><td id=\"0-I\">616</td><td id=\"0-J\">294</td><td id=\"0-K\">1,554</td><td id=\"0-L\">439</td><td id=\"0-M\">20,946</td></tr>\n<tr><td id=\"0-N\">Refused</td><td id=\"0-O\">400</td><td id=\"0-P\">1,313</td><td id=\"0-Q\">349</td><td id=\"0-R\">165</td><td id=\"0-S\">146</td><td id=\"0-T\">516</td><td id=\"0-U\">430</td><td id=\"0-V\">3,319</td></tr>\n<tr><td id=\"0-W\">Other</td><td id=\"0-X\">4</td><td id=\"0-Y\">8</td><td id=\"0-Z\">2</td><td id=\"0-10\">1</td><td id=\"0-11\">0</td><td id=\"0-12\">5</td><td id=\"0-13\">0</td><td id=\"0-14\">20</td></tr>\n</table>\n\u00aaIncludes 59 individuals to whom mail was sent too recently to reply and 96 first identified as deceased through the mailing.\n\u1d47Returned by post office as not deliverable at address shown.\n\n<a id='8d61b767-3f39-4eb3-8ddc-25e0b1c1b8b4'></a>\n\nNAS\u2014NRC Twin Registry / 161\n\n<a id='08a0be54-0e05-41a7-9e9b-682f5069bb8d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snkw0227",
+            "chunks": [
+                "e833dbed-bc02-4f5e-ac62-fba15d61ac46",
+                "8d61b767-3f39-4eb3-8ddc-25e0b1c1b8b4",
+                "08a0be54-0e05-41a7-9e9b-682f5069bb8d"
+            ]
+        }
+    ],
+    "grounding": {
+        "e833dbed-bc02-4f5e-ac62-fba15d61ac46": {
+            "box": {
+                "left": 0.1427440345287323,
+                "top": 0.3376244604587555,
+                "right": 0.8454086780548096,
+                "bottom": 0.656943678855896
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.15309012526996604,
+                "top": 0.3795345111916961,
+                "right": 0.841010641204317,
+                "bottom": 0.601967617270919
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.15309012526996604,
+                "top": 0.3795345111916961,
+                "right": 0.8412226901575028,
+                "bottom": 0.44571861012579284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.7713866311519837,
+                "top": 0.3795345111916961,
+                "right": 0.8412226901575028,
+                "bottom": 0.414212699023945
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.15309012526996604,
+                "top": 0.414212699023945,
+                "right": 0.24380151673277917,
+                "bottom": 0.44571861012579284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.24380151673277917,
+                "top": 0.414212699023945,
+                "right": 0.29645337023170004,
+                "bottom": 0.44571861012579284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.29645337023170004,
+                "top": 0.414212699023945,
+                "right": 0.3660756840599362,
+                "bottom": 0.44571861012579284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.3660756840599362,
+                "top": 0.414212699023945,
+                "right": 0.44138011826230716,
+                "bottom": 0.44571861012579284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.44138011826230716,
+                "top": 0.414212699023945,
+                "right": 0.5136715558831675,
+                "bottom": 0.44571861012579284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5136715558831675,
+                "top": 0.414212699023945,
+                "right": 0.5781203652739642,
+                "bottom": 0.44571861012579284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5781203652739642,
+                "top": 0.414212699023945,
+                "right": 0.6813522287717717,
+                "bottom": 0.44571861012579284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6813522287717717,
+                "top": 0.414212699023945,
+                "right": 0.7713866311519837,
+                "bottom": 0.44571861012579284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7713866311519837,
+                "top": 0.414212699023945,
+                "right": 0.8412226901575028,
+                "bottom": 0.44571861012579284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.15309012526996604,
+                "top": 0.44571861012579284,
+                "right": 0.24380151673277917,
+                "bottom": 0.4759452004861311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.24380151673277917,
+                "top": 0.44571861012579284,
+                "right": 0.29645337023170004,
+                "bottom": 0.4759452004861311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.29645337023170004,
+                "top": 0.44571861012579284,
+                "right": 0.3660756840599362,
+                "bottom": 0.4759452004861311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.3660756840599362,
+                "top": 0.44571861012579284,
+                "right": 0.44138011826230716,
+                "bottom": 0.4759452004861311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.44138011826230716,
+                "top": 0.44571861012579284,
+                "right": 0.5136715558831675,
+                "bottom": 0.4759452004861311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.5136715558831675,
+                "top": 0.44571861012579284,
+                "right": 0.5781203652739642,
+                "bottom": 0.4759452004861311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5781203652739642,
+                "top": 0.44571861012579284,
+                "right": 0.6813522287717717,
+                "bottom": 0.4759452004861311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6813522287717717,
+                "top": 0.44571861012579284,
+                "right": 0.7713866311519837,
+                "bottom": 0.4759452004861311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7713866311519837,
+                "top": 0.44571861012579284,
+                "right": 0.8412226901575028,
+                "bottom": 0.4759452004861311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.15309012526996604,
+                "top": 0.4759452004861311,
+                "right": 0.24380151673277917,
+                "bottom": 0.49799508202324283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.24380151673277917,
+                "top": 0.4759452004861311,
+                "right": 0.29645337023170004,
+                "bottom": 0.49799508202324283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.29645337023170004,
+                "top": 0.4759452004861311,
+                "right": 0.3660756840599362,
+                "bottom": 0.49799508202324283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.3660756840599362,
+                "top": 0.4759452004861311,
+                "right": 0.44138011826230716,
+                "bottom": 0.49799508202324283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.44138011826230716,
+                "top": 0.4759452004861311,
+                "right": 0.5136715558831675,
+                "bottom": 0.49799508202324283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.5136715558831675,
+                "top": 0.4759452004861311,
+                "right": 0.5781203652739642,
+                "bottom": 0.49799508202324283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.5781203652739642,
+                "top": 0.4759452004861311,
+                "right": 0.6813522287717717,
+                "bottom": 0.49799508202324283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.6813522287717717,
+                "top": 0.4759452004861311,
+                "right": 0.7713866311519837,
+                "bottom": 0.49799508202324283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.7713866311519837,
+                "top": 0.4759452004861311,
+                "right": 0.8412226901575028,
+                "bottom": 0.49799508202324283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.15309012526996604,
+                "top": 0.49799508202324283,
+                "right": 0.24380151673277917,
+                "bottom": 0.5198444804178006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.24380151673277917,
+                "top": 0.49799508202324283,
+                "right": 0.29645337023170004,
+                "bottom": 0.5198444804178006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.29645337023170004,
+                "top": 0.49799508202324283,
+                "right": 0.3660756840599362,
+                "bottom": 0.5198444804178006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.3660756840599362,
+                "top": 0.49799508202324283,
+                "right": 0.44138011826230716,
+                "bottom": 0.5198444804178006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.44138011826230716,
+                "top": 0.49799508202324283,
+                "right": 0.5136715558831675,
+                "bottom": 0.5198444804178006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.5136715558831675,
+                "top": 0.49799508202324283,
+                "right": 0.5781203652739642,
+                "bottom": 0.5198444804178006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.5781203652739642,
+                "top": 0.49799508202324283,
+                "right": 0.6813522287717717,
+                "bottom": 0.5198444804178006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.6813522287717717,
+                "top": 0.49799508202324283,
+                "right": 0.7713866311519837,
+                "bottom": 0.5198444804178006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.7713866311519837,
+                "top": 0.49799508202324283,
+                "right": 0.8412226901575028,
+                "bottom": 0.5198444804178006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.15309012526996604,
+                "top": 0.5198444804178006,
+                "right": 0.24380151673277917,
+                "bottom": 0.5424191277938952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.24380151673277917,
+                "top": 0.5198444804178006,
+                "right": 0.29645337023170004,
+                "bottom": 0.5424191277938952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.29645337023170004,
+                "top": 0.5198444804178006,
+                "right": 0.3660756840599362,
+                "bottom": 0.5424191277938952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.3660756840599362,
+                "top": 0.5198444804178006,
+                "right": 0.44138011826230716,
+                "bottom": 0.5424191277938952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.44138011826230716,
+                "top": 0.5198444804178006,
+                "right": 0.5136715558831675,
+                "bottom": 0.5424191277938952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.5136715558831675,
+                "top": 0.5198444804178006,
+                "right": 0.5781203652739642,
+                "bottom": 0.5424191277938952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.5781203652739642,
+                "top": 0.5198444804178006,
+                "right": 0.6813522287717717,
+                "bottom": 0.5424191277938952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.6813522287717717,
+                "top": 0.5198444804178006,
+                "right": 0.7713866311519837,
+                "bottom": 0.5424191277938952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.7713866311519837,
+                "top": 0.5198444804178006,
+                "right": 0.8412226901575028,
+                "bottom": 0.5424191277938952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.15309012526996604,
+                "top": 0.5424191277938952,
+                "right": 0.24380151673277917,
+                "bottom": 0.5641133318518712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.24380151673277917,
+                "top": 0.5424191277938952,
+                "right": 0.29645337023170004,
+                "bottom": 0.5641133318518712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.29645337023170004,
+                "top": 0.5424191277938952,
+                "right": 0.3660756840599362,
+                "bottom": 0.5641133318518712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.3660756840599362,
+                "top": 0.5424191277938952,
+                "right": 0.44138011826230716,
+                "bottom": 0.5641133318518712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.44138011826230716,
+                "top": 0.5424191277938952,
+                "right": 0.5136715558831675,
+                "bottom": 0.5641133318518712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.5136715558831675,
+                "top": 0.5424191277938952,
+                "right": 0.5781203652739642,
+                "bottom": 0.5641133318518712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.5781203652739642,
+                "top": 0.5424191277938952,
+                "right": 0.6813522287717717,
+                "bottom": 0.5641133318518712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.6813522287717717,
+                "top": 0.5424191277938952,
+                "right": 0.7713866311519837,
+                "bottom": 0.5641133318518712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.7713866311519837,
+                "top": 0.5424191277938952,
+                "right": 0.8412226901575028,
+                "bottom": 0.5641133318518712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.15309012526996604,
+                "top": 0.5641133318518712,
+                "right": 0.24380151673277917,
+                "bottom": 0.601967617270919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.24380151673277917,
+                "top": 0.5641133318518712,
+                "right": 0.29645337023170004,
+                "bottom": 0.601967617270919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.29645337023170004,
+                "top": 0.5641133318518712,
+                "right": 0.3660756840599362,
+                "bottom": 0.601967617270919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.3660756840599362,
+                "top": 0.5641133318518712,
+                "right": 0.44138011826230716,
+                "bottom": 0.601967617270919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.44138011826230716,
+                "top": 0.5641133318518712,
+                "right": 0.5136715558831675,
+                "bottom": 0.601967617270919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.5136715558831675,
+                "top": 0.5641133318518712,
+                "right": 0.5781203652739642,
+                "bottom": 0.601967617270919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.5781203652739642,
+                "top": 0.5641133318518712,
+                "right": 0.6813522287717717,
+                "bottom": 0.601967617270919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.6813522287717717,
+                "top": 0.5641133318518712,
+                "right": 0.7713866311519837,
+                "bottom": 0.601967617270919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.7713866311519837,
+                "top": 0.5641133318518712,
+                "right": 0.8412226901575028,
+                "bottom": 0.601967617270919
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "8d61b767-3f39-4eb3-8ddc-25e0b1c1b8b4": {
+            "box": {
+                "left": 0.8845307230949402,
+                "top": 0.5669158697128296,
+                "right": 0.9094324707984924,
+                "bottom": 0.8640646934509277
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "08a0be54-0e05-41a7-9e9b-682f5069bb8d": {
+            "box": {
+                "left": 0.23766109347343445,
+                "top": 0.9642889499664307,
+                "right": 0.7619385719299316,
+                "bottom": 0.9984557628631592
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "snkw0227_9.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6434,
+        "credit_usage": 3.0,
+        "job_id": "a1pqbj7i53783ncwjwbovfm2i",
+        "version": "dpt-2-20250919"
+    }
+}

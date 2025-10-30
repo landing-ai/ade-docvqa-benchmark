@@ -1,0 +1,628 @@
+{
+    "markdown": "<a id='36f9b26d-533a-4132-9dbe-3451a2de5414'></a>\n\nMOISTEN AND SEAL THIS FLAP BEFORE MAILING\n\n<a id='fece99eb-888b-4d2b-add9-88457edf03c1'></a>\n\n--- FOLD ON THIS LINE ---\n\n<a id='1b4f1637-44fc-4680-a8f0-88db44af5f3e'></a>\n\nNOTICE AND PROOF OF CLAIM FOR DISABILITY BENEFITS\n\n<a id='aec7faf1-76ad-43dc-b13e-68eb38de0a5e'></a>\n\nIMPORTANT: USE THIS FORM ONLY WHEN THE CLAIMANT BECOMES SICK OR DISABLED WHILE EMPLOYED OR WITHIN FOUR (4) WEEKS AFTER TERMINATION OF EMPLOYMENT. OTHERWISE USE GREEN CLAIM FORM DB-300.\n\n<a id='cbbccdc9-2fa3-404e-86b3-9f598247dd3f'></a>\n\nDOCTOR'S STATEMENT\nThe doctor's statement must be filled in completely. For item 6-d\n\n<a id='8e631eb1-097d-410d-bef2-15163b8060eb'></a>\n\nI am a physician duly authorized by the Chairman of the Workmen's Compensation Board to render medical care under the New York State Workmen's Compensation Law.\n\n8. Physician's Name (please print).................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................\n\n<a id='d12cdeed-1210-4bb8-8cf8-875614c64d51'></a>\n\nCLAIMANT'S STATEMENT\n\n1. My name is...\n(Please Print) First Middle Last\n\n2. My Social Security Number is:\n\n3. Address...\nNumber Street City or Town Zone State\n\nTel. No...\n\n4. My age is...\n\n5. Married (check one)\noption YES: [ ]\noption NO: [ ]\n\n6. My disability is (If injury, also state how, when and where it occurred)...\n\n7. I became disabled on...\nMo. Day Year\n\na. I worked on that day\noption YES: [ ]\noption NO: [ ]\n\nb. I have since worked for wages or profit\noption YES: [ ]\noption NO: [ ]\nIf \"Yes\", give dates...\n\n8. Give name of last employer. If more than one employer during last eight (8) weeks, name all employers.\n\n<a id='52b4094f-6e34-4c87-9403-bc6acffd486d'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Employer's</td><td id=\"0-3\" colspan=\"2\">Dates of Employment</td><td id=\"0-4\" rowspan=\"3\">Average Weekly Wages (text on image)</td></tr>\n<tr><td id=\"0-5\" rowspan=\"2\">Business Name</td><td id=\"0-6\" rowspan=\"2\">Business Address</td><td id=\"0-7\">From</td><td id=\"0-8\">Through</td></tr>\n<tr><td id=\"0-9\">Mo. Day Yr.</td><td id=\"0-a\">Mo. Day Yr.</td></tr>\n<tr><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">gray image with dark bottom edge</td><td id=\"0-m\">gray image with dark bottom edge</td><td id=\"0-n\">gray image with dark bottom edge</td><td id=\"0-o\">gray image with dark bottom edge</td><td id=\"0-p\">gray image with dark bottom edge</td></tr>\n</table>\n\n<a id='740845ae-37a5-4f2d-b806-9fc5da0a24c6'></a>\n\n9. My job is or was...\nOccupation\nBadge or Clock No.\n\n10. For the period covered by this claim, I have received or am claiming:\na. Wages, Salary or Separation Pay\noption YES: [ ]\noption NO: [ ]\nb. Damages for Personal Injury\noption YES: [ ]\noption NO: [ ]\nc. Benefits under a Workmen's Compensation Law or similar Law...\noption YES: [ ]\noption NO: [ ]\nd. Unemployment Insurance Benefits...\noption YES: [ ]\noption NO: [ ]\n\nIf \"Yes\" is checked in any of the items a, b, c or d, fill in the following:\nReceived or claimed from...\nFor the Period...\nto...\nDate\nDate\n\n<a id='d1b32207-1158-4d42-86a5-c21010a79b14'></a>\n\n11. I have received disability benefits for another period or periods of disability within the 52 weeks immediately before my present disability began...\noption YES: [ ]\noption NO: [ ]\n12. I have read the instructions on the reverse side. I hereby claim Disability Benefits and certify that for the period covered by this claim I was disabled; and that the foregoing statements, including any accompanying statements, are to the best\n\n<a id='f37b778a-e034-42eb-afc6-d88094538377'></a>\n\nNote\nADDRESS AND MAIL THIS CLAIM TO YOUR LAST EMPLOYER OR HIS INSURANCE COMPANY\n\n<a id='15596580-c086-40e2-9f3f-6eaac6e906b3'></a>\n\nDB-450 (1-68) --- SEE IMPORTANT INSTRUCTIONS ON REVERSE SIDE\n\n<a id='b3865d01-52e2-4469-a349-b2250d47661c'></a>\n\n[illegible]\nS INSURANCE COMPANY\n\n<a id='ac8f4658-e7f9-40bb-b8bf-1591ff75376c'></a>\n\nFIRST FOLD HERE\nArrow pointing downwards",
+    "chunks": [
+        {
+            "markdown": "<a id='36f9b26d-533a-4132-9dbe-3451a2de5414'></a>\n\nMOISTEN AND SEAL THIS FLAP BEFORE MAILING",
+            "type": "text",
+            "id": "36f9b26d-533a-4132-9dbe-3451a2de5414",
+            "grounding": {
+                "box": {
+                    "left": 0.3333005905151367,
+                    "top": 0.03672461211681366,
+                    "right": 0.6776643991470337,
+                    "bottom": 0.05265168100595474
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fece99eb-888b-4d2b-add9-88457edf03c1'></a>\n\n--- FOLD ON THIS LINE ---",
+            "type": "text",
+            "id": "fece99eb-888b-4d2b-add9-88457edf03c1",
+            "grounding": {
+                "box": {
+                    "left": 0.1502026915550232,
+                    "top": 0.060902245342731476,
+                    "right": 0.6751357913017273,
+                    "bottom": 0.07200787216424942
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1b4f1637-44fc-4680-a8f0-88db44af5f3e'></a>\n\nNOTICE AND PROOF OF CLAIM FOR DISABILITY BENEFITS",
+            "type": "text",
+            "id": "1b4f1637-44fc-4680-a8f0-88db44af5f3e",
+            "grounding": {
+                "box": {
+                    "left": 0.21592777967453003,
+                    "top": 0.07817564159631729,
+                    "right": 0.7892101407051086,
+                    "bottom": 0.0956302359700203
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='aec7faf1-76ad-43dc-b13e-68eb38de0a5e'></a>\n\nIMPORTANT: USE THIS FORM ONLY WHEN THE CLAIMANT BECOMES SICK OR DISABLED WHILE EMPLOYED OR WITHIN FOUR (4) WEEKS AFTER TERMINATION OF EMPLOYMENT. OTHERWISE USE GREEN CLAIM FORM DB-300.",
+            "type": "text",
+            "id": "aec7faf1-76ad-43dc-b13e-68eb38de0a5e",
+            "grounding": {
+                "box": {
+                    "left": 0.08021131157875061,
+                    "top": 0.09598226100206375,
+                    "right": 0.9264311790466309,
+                    "bottom": 0.13354556262493134
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cbbccdc9-2fa3-404e-86b3-9f598247dd3f'></a>\n\nDOCTOR'S STATEMENT\nThe doctor's statement must be filled in completely. For item 6-d",
+            "type": "text",
+            "id": "cbbccdc9-2fa3-404e-86b3-9f598247dd3f",
+            "grounding": {
+                "box": {
+                    "left": 0.0792151391506195,
+                    "top": 0.13267523050308228,
+                    "right": 0.9284632205963135,
+                    "bottom": 0.3812864422798157
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8e631eb1-097d-410d-bef2-15163b8060eb'></a>\n\nI am a physician duly authorized by the Chairman of the Workmen's Compensation Board to render medical care under the New York State Workmen's Compensation Law.\n\n8. Physician's Name (please print).................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................",
+            "type": "text",
+            "id": "8e631eb1-097d-410d-bef2-15163b8060eb",
+            "grounding": {
+                "box": {
+                    "left": 0.08059924840927124,
+                    "top": 0.3946763277053833,
+                    "right": 0.9273952841758728,
+                    "bottom": 0.4692991375923157
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d12cdeed-1210-4bb8-8cf8-875614c64d51'></a>\n\nCLAIMANT'S STATEMENT\n\n1. My name is...\n(Please Print) First Middle Last\n\n2. My Social Security Number is:\n\n3. Address...\nNumber Street City or Town Zone State\n\nTel. No...\n\n4. My age is...\n\n5. Married (check one)\noption YES: [ ]\noption NO: [ ]\n\n6. My disability is (If injury, also state how, when and where it occurred)...\n\n7. I became disabled on...\nMo. Day Year\n\na. I worked on that day\noption YES: [ ]\noption NO: [ ]\n\nb. I have since worked for wages or profit\noption YES: [ ]\noption NO: [ ]\nIf \"Yes\", give dates...\n\n8. Give name of last employer. If more than one employer during last eight (8) weeks, name all employers.",
+            "type": "text",
+            "id": "d12cdeed-1210-4bb8-8cf8-875614c64d51",
+            "grounding": {
+                "box": {
+                    "left": 0.07975175976753235,
+                    "top": 0.46733957529067993,
+                    "right": 0.9253487586975098,
+                    "bottom": 0.6388632655143738
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='52b4094f-6e34-4c87-9403-bc6acffd486d'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Employer's</td><td id=\"0-3\" colspan=\"2\">Dates of Employment</td><td id=\"0-4\" rowspan=\"3\">Average Weekly Wages (text on image)</td></tr>\n<tr><td id=\"0-5\" rowspan=\"2\">Business Name</td><td id=\"0-6\" rowspan=\"2\">Business Address</td><td id=\"0-7\">From</td><td id=\"0-8\">Through</td></tr>\n<tr><td id=\"0-9\">Mo. Day Yr.</td><td id=\"0-a\">Mo. Day Yr.</td></tr>\n<tr><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">gray image with dark bottom edge</td><td id=\"0-m\">gray image with dark bottom edge</td><td id=\"0-n\">gray image with dark bottom edge</td><td id=\"0-o\">gray image with dark bottom edge</td><td id=\"0-p\">gray image with dark bottom edge</td></tr>\n</table>",
+            "type": "table",
+            "id": "52b4094f-6e34-4c87-9403-bc6acffd486d",
+            "grounding": {
+                "box": {
+                    "left": 0.07569310069084167,
+                    "top": 0.6366584300994873,
+                    "right": 0.919765830039978,
+                    "bottom": 0.7295992374420166
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='740845ae-37a5-4f2d-b806-9fc5da0a24c6'></a>\n\n9. My job is or was...\nOccupation\nBadge or Clock No.\n\n10. For the period covered by this claim, I have received or am claiming:\na. Wages, Salary or Separation Pay\noption YES: [ ]\noption NO: [ ]\nb. Damages for Personal Injury\noption YES: [ ]\noption NO: [ ]\nc. Benefits under a Workmen's Compensation Law or similar Law...\noption YES: [ ]\noption NO: [ ]\nd. Unemployment Insurance Benefits...\noption YES: [ ]\noption NO: [ ]\n\nIf \"Yes\" is checked in any of the items a, b, c or d, fill in the following:\nReceived or claimed from...\nFor the Period...\nto...\nDate\nDate",
+            "type": "text",
+            "id": "740845ae-37a5-4f2d-b806-9fc5da0a24c6",
+            "grounding": {
+                "box": {
+                    "left": 0.0751848816871643,
+                    "top": 0.7305549383163452,
+                    "right": 0.9209635853767395,
+                    "bottom": 0.8387728929519653
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d1b32207-1158-4d42-86a5-c21010a79b14'></a>\n\n11. I have received disability benefits for another period or periods of disability within the 52 weeks immediately before my present disability began...\noption YES: [ ]\noption NO: [ ]\n12. I have read the instructions on the reverse side. I hereby claim Disability Benefits and certify that for the period covered by this claim I was disabled; and that the foregoing statements, including any accompanying statements, are to the best",
+            "type": "text",
+            "id": "d1b32207-1158-4d42-86a5-c21010a79b14",
+            "grounding": {
+                "box": {
+                    "left": 0.07482483983039856,
+                    "top": 0.8401678800582886,
+                    "right": 0.9195927381515503,
+                    "bottom": 0.9143095016479492
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f37b778a-e034-42eb-afc6-d88094538377'></a>\n\nNote\nADDRESS AND MAIL THIS CLAIM TO YOUR LAST EMPLOYER OR HIS INSURANCE COMPANY",
+            "type": "text",
+            "id": "f37b778a-e034-42eb-afc6-d88094538377",
+            "grounding": {
+                "box": {
+                    "left": 0.11929529905319214,
+                    "top": 0.9154845476150513,
+                    "right": 0.8716570734977722,
+                    "bottom": 0.941494345664978
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='15596580-c086-40e2-9f3f-6eaac6e906b3'></a>\n\nDB-450 (1-68) --- SEE IMPORTANT INSTRUCTIONS ON REVERSE SIDE",
+            "type": "text",
+            "id": "15596580-c086-40e2-9f3f-6eaac6e906b3",
+            "grounding": {
+                "box": {
+                    "left": 0.07893991470336914,
+                    "top": 0.9430316090583801,
+                    "right": 0.651069164276123,
+                    "bottom": 0.9614270329475403
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b3865d01-52e2-4469-a349-b2250d47661c'></a>\n\n[illegible]\nS INSURANCE COMPANY",
+            "type": "text",
+            "id": "b3865d01-52e2-4469-a349-b2250d47661c",
+            "grounding": {
+                "box": {
+                    "left": 0.6605503559112549,
+                    "top": 0.9152434468269348,
+                    "right": 0.867811918258667,
+                    "bottom": 0.9423521161079407
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ac8f4658-e7f9-40bb-b8bf-1591ff75376c'></a>\n\nFIRST FOLD HERE\nArrow pointing downwards",
+            "type": "text",
+            "id": "ac8f4658-e7f9-40bb-b8bf-1591ff75376c",
+            "grounding": {
+                "box": {
+                    "left": 0.9417535066604614,
+                    "top": 0.4124879240989685,
+                    "right": 0.9674011468887329,
+                    "bottom": 0.5179161429405212
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='36f9b26d-533a-4132-9dbe-3451a2de5414'></a>\n\nMOISTEN AND SEAL THIS FLAP BEFORE MAILING\n\n<a id='fece99eb-888b-4d2b-add9-88457edf03c1'></a>\n\n--- FOLD ON THIS LINE ---\n\n<a id='1b4f1637-44fc-4680-a8f0-88db44af5f3e'></a>\n\nNOTICE AND PROOF OF CLAIM FOR DISABILITY BENEFITS\n\n<a id='aec7faf1-76ad-43dc-b13e-68eb38de0a5e'></a>\n\nIMPORTANT: USE THIS FORM ONLY WHEN THE CLAIMANT BECOMES SICK OR DISABLED WHILE EMPLOYED OR WITHIN FOUR (4) WEEKS AFTER TERMINATION OF EMPLOYMENT. OTHERWISE USE GREEN CLAIM FORM DB-300.\n\n<a id='cbbccdc9-2fa3-404e-86b3-9f598247dd3f'></a>\n\nDOCTOR'S STATEMENT\nThe doctor's statement must be filled in completely. For item 6-d\n\n<a id='8e631eb1-097d-410d-bef2-15163b8060eb'></a>\n\nI am a physician duly authorized by the Chairman of the Workmen's Compensation Board to render medical care under the New York State Workmen's Compensation Law.\n\n8. Physician's Name (please print).................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................\n\n<a id='d12cdeed-1210-4bb8-8cf8-875614c64d51'></a>\n\nCLAIMANT'S STATEMENT\n\n1. My name is...\n(Please Print) First Middle Last\n\n2. My Social Security Number is:\n\n3. Address...\nNumber Street City or Town Zone State\n\nTel. No...\n\n4. My age is...\n\n5. Married (check one)\noption YES: [ ]\noption NO: [ ]\n\n6. My disability is (If injury, also state how, when and where it occurred)...\n\n7. I became disabled on...\nMo. Day Year\n\na. I worked on that day\noption YES: [ ]\noption NO: [ ]\n\nb. I have since worked for wages or profit\noption YES: [ ]\noption NO: [ ]\nIf \"Yes\", give dates...\n\n8. Give name of last employer. If more than one employer during last eight (8) weeks, name all employers.\n\n<a id='52b4094f-6e34-4c87-9403-bc6acffd486d'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Employer's</td><td id=\"0-3\" colspan=\"2\">Dates of Employment</td><td id=\"0-4\" rowspan=\"3\">Average Weekly Wages (text on image)</td></tr>\n<tr><td id=\"0-5\" rowspan=\"2\">Business Name</td><td id=\"0-6\" rowspan=\"2\">Business Address</td><td id=\"0-7\">From</td><td id=\"0-8\">Through</td></tr>\n<tr><td id=\"0-9\">Mo. Day Yr.</td><td id=\"0-a\">Mo. Day Yr.</td></tr>\n<tr><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">gray image with dark bottom edge</td><td id=\"0-m\">gray image with dark bottom edge</td><td id=\"0-n\">gray image with dark bottom edge</td><td id=\"0-o\">gray image with dark bottom edge</td><td id=\"0-p\">gray image with dark bottom edge</td></tr>\n</table>\n\n<a id='740845ae-37a5-4f2d-b806-9fc5da0a24c6'></a>\n\n9. My job is or was...\nOccupation\nBadge or Clock No.\n\n10. For the period covered by this claim, I have received or am claiming:\na. Wages, Salary or Separation Pay\noption YES: [ ]\noption NO: [ ]\nb. Damages for Personal Injury\noption YES: [ ]\noption NO: [ ]\nc. Benefits under a Workmen's Compensation Law or similar Law...\noption YES: [ ]\noption NO: [ ]\nd. Unemployment Insurance Benefits...\noption YES: [ ]\noption NO: [ ]\n\nIf \"Yes\" is checked in any of the items a, b, c or d, fill in the following:\nReceived or claimed from...\nFor the Period...\nto...\nDate\nDate\n\n<a id='d1b32207-1158-4d42-86a5-c21010a79b14'></a>\n\n11. I have received disability benefits for another period or periods of disability within the 52 weeks immediately before my present disability began...\noption YES: [ ]\noption NO: [ ]\n12. I have read the instructions on the reverse side. I hereby claim Disability Benefits and certify that for the period covered by this claim I was disabled; and that the foregoing statements, including any accompanying statements, are to the best\n\n<a id='f37b778a-e034-42eb-afc6-d88094538377'></a>\n\nNote\nADDRESS AND MAIL THIS CLAIM TO YOUR LAST EMPLOYER OR HIS INSURANCE COMPANY\n\n<a id='15596580-c086-40e2-9f3f-6eaac6e906b3'></a>\n\nDB-450 (1-68) --- SEE IMPORTANT INSTRUCTIONS ON REVERSE SIDE\n\n<a id='b3865d01-52e2-4469-a349-b2250d47661c'></a>\n\n[illegible]\nS INSURANCE COMPANY\n\n<a id='ac8f4658-e7f9-40bb-b8bf-1591ff75376c'></a>\n\nFIRST FOLD HERE\nArrow pointing downwards",
+            "chunks": [
+                "36f9b26d-533a-4132-9dbe-3451a2de5414",
+                "fece99eb-888b-4d2b-add9-88457edf03c1",
+                "1b4f1637-44fc-4680-a8f0-88db44af5f3e",
+                "aec7faf1-76ad-43dc-b13e-68eb38de0a5e",
+                "cbbccdc9-2fa3-404e-86b3-9f598247dd3f",
+                "8e631eb1-097d-410d-bef2-15163b8060eb",
+                "d12cdeed-1210-4bb8-8cf8-875614c64d51",
+                "52b4094f-6e34-4c87-9403-bc6acffd486d",
+                "740845ae-37a5-4f2d-b806-9fc5da0a24c6",
+                "d1b32207-1158-4d42-86a5-c21010a79b14",
+                "f37b778a-e034-42eb-afc6-d88094538377",
+                "15596580-c086-40e2-9f3f-6eaac6e906b3",
+                "b3865d01-52e2-4469-a349-b2250d47661c",
+                "ac8f4658-e7f9-40bb-b8bf-1591ff75376c"
+            ]
+        }
+    ],
+    "grounding": {
+        "36f9b26d-533a-4132-9dbe-3451a2de5414": {
+            "box": {
+                "left": 0.3333005905151367,
+                "top": 0.03672461211681366,
+                "right": 0.6776643991470337,
+                "bottom": 0.05265168100595474
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fece99eb-888b-4d2b-add9-88457edf03c1": {
+            "box": {
+                "left": 0.1502026915550232,
+                "top": 0.060902245342731476,
+                "right": 0.6751357913017273,
+                "bottom": 0.07200787216424942
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1b4f1637-44fc-4680-a8f0-88db44af5f3e": {
+            "box": {
+                "left": 0.21592777967453003,
+                "top": 0.07817564159631729,
+                "right": 0.7892101407051086,
+                "bottom": 0.0956302359700203
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "aec7faf1-76ad-43dc-b13e-68eb38de0a5e": {
+            "box": {
+                "left": 0.08021131157875061,
+                "top": 0.09598226100206375,
+                "right": 0.9264311790466309,
+                "bottom": 0.13354556262493134
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cbbccdc9-2fa3-404e-86b3-9f598247dd3f": {
+            "box": {
+                "left": 0.0792151391506195,
+                "top": 0.13267523050308228,
+                "right": 0.9284632205963135,
+                "bottom": 0.3812864422798157
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8e631eb1-097d-410d-bef2-15163b8060eb": {
+            "box": {
+                "left": 0.08059924840927124,
+                "top": 0.3946763277053833,
+                "right": 0.9273952841758728,
+                "bottom": 0.4692991375923157
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d12cdeed-1210-4bb8-8cf8-875614c64d51": {
+            "box": {
+                "left": 0.07975175976753235,
+                "top": 0.46733957529067993,
+                "right": 0.9253487586975098,
+                "bottom": 0.6388632655143738
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "52b4094f-6e34-4c87-9403-bc6acffd486d": {
+            "box": {
+                "left": 0.07569310069084167,
+                "top": 0.6366584300994873,
+                "right": 0.919765830039978,
+                "bottom": 0.7295992374420166
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.08078243105898121,
+                "top": 0.6405821874178823,
+                "right": 0.9140913415509129,
+                "bottom": 0.7249918214682793
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.08078243105898121,
+                "top": 0.6405821874178823,
+                "right": 0.6874907921539091,
+                "bottom": 0.6659669006236157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.5533370275846679,
+                "top": 0.6405821874178823,
+                "right": 0.9141616255362237,
+                "bottom": 0.6659669006236157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.817203283014285,
+                "top": 0.6405821874178823,
+                "right": 0.9141616255362237,
+                "bottom": 0.6952988096345507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.08078243105898121,
+                "top": 0.6536953141276669,
+                "right": 0.5533370275846679,
+                "bottom": 0.6952988096345507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.29367739696807504,
+                "top": 0.6536953141276669,
+                "right": 0.6874907921539091,
+                "bottom": 0.6952988096345507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5533370275846679,
+                "top": 0.6536953141276669,
+                "right": 0.6874907921539091,
+                "bottom": 0.6659669006236157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.6874907921539091,
+                "top": 0.6536953141276669,
+                "right": 0.817203283014285,
+                "bottom": 0.6659669006236157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5533370275846679,
+                "top": 0.6659669006236157,
+                "right": 0.6874907921539091,
+                "bottom": 0.6789465568259629
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6874907921539091,
+                "top": 0.6659669006236157,
+                "right": 0.817203283014285,
+                "bottom": 0.6789465568259629
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.08078243105898121,
+                "top": 0.6789465568259629,
+                "right": 0.29367739696807504,
+                "bottom": 0.6952988096345507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.29367739696807504,
+                "top": 0.6789465568259629,
+                "right": 0.5533370275846679,
+                "bottom": 0.6952988096345507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5533370275846679,
+                "top": 0.6789465568259629,
+                "right": 0.6874907921539091,
+                "bottom": 0.6952988096345507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.6874907921539091,
+                "top": 0.6789465568259629,
+                "right": 0.817203283014285,
+                "bottom": 0.6952988096345507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.817203283014285,
+                "top": 0.6789465568259629,
+                "right": 0.9141616255362237,
+                "bottom": 0.6952988096345507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.08078243105898121,
+                "top": 0.6952988096345507,
+                "right": 0.29367739696807504,
+                "bottom": 0.7120304712171617
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.29367739696807504,
+                "top": 0.6952988096345507,
+                "right": 0.5533370275846679,
+                "bottom": 0.7120304712171617
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.5533370275846679,
+                "top": 0.6952988096345507,
+                "right": 0.6874907921539091,
+                "bottom": 0.7120304712171617
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6874907921539091,
+                "top": 0.6952988096345507,
+                "right": 0.817203283014285,
+                "bottom": 0.7120304712171617
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.817203283014285,
+                "top": 0.6952988096345507,
+                "right": 0.9141616255362237,
+                "bottom": 0.7120304712171617
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.08078243105898121,
+                "top": 0.7120304712171617,
+                "right": 0.29367739696807504,
+                "bottom": 0.7249918214682793
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.29367739696807504,
+                "top": 0.7120304712171617,
+                "right": 0.5533370275846679,
+                "bottom": 0.7249918214682793
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.5533370275846679,
+                "top": 0.7120304712171617,
+                "right": 0.6874907921539091,
+                "bottom": 0.7249918214682793
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.6874907921539091,
+                "top": 0.7120304712171617,
+                "right": 0.817203283014285,
+                "bottom": 0.7249918214682793
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.817203283014285,
+                "top": 0.7120304712171617,
+                "right": 0.9141616255362237,
+                "bottom": 0.7249918214682793
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "740845ae-37a5-4f2d-b806-9fc5da0a24c6": {
+            "box": {
+                "left": 0.0751848816871643,
+                "top": 0.7305549383163452,
+                "right": 0.9209635853767395,
+                "bottom": 0.8387728929519653
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d1b32207-1158-4d42-86a5-c21010a79b14": {
+            "box": {
+                "left": 0.07482483983039856,
+                "top": 0.8401678800582886,
+                "right": 0.9195927381515503,
+                "bottom": 0.9143095016479492
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f37b778a-e034-42eb-afc6-d88094538377": {
+            "box": {
+                "left": 0.11929529905319214,
+                "top": 0.9154845476150513,
+                "right": 0.8716570734977722,
+                "bottom": 0.941494345664978
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "15596580-c086-40e2-9f3f-6eaac6e906b3": {
+            "box": {
+                "left": 0.07893991470336914,
+                "top": 0.9430316090583801,
+                "right": 0.651069164276123,
+                "bottom": 0.9614270329475403
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b3865d01-52e2-4469-a349-b2250d47661c": {
+            "box": {
+                "left": 0.6605503559112549,
+                "top": 0.9152434468269348,
+                "right": 0.867811918258667,
+                "bottom": 0.9423521161079407
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ac8f4658-e7f9-40bb-b8bf-1591ff75376c": {
+            "box": {
+                "left": 0.9417535066604614,
+                "top": 0.4124879240989685,
+                "right": 0.9674011468887329,
+                "bottom": 0.5179161429405212
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "zmwm0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 40123,
+        "credit_usage": 3.0,
+        "job_id": "wb03hyiuezdc1fb81jz33qv54",
+        "version": "dpt-2-20250919"
+    }
+}

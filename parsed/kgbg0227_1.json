@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='e749b898-800d-4497-aea5-0c2b688c7c22'></a>\n\n<::attestation: Signature line\nMember's signature\nA dashed line with \"Member's signature\" printed above it, centered horizontally.::>\n\n<a id='ecaadcaf-0b80-48a4-a3eb-57b7fbf79be3'></a>\n\nROBERT A. HARTE\n\n9650 ROCKVILLE PIKE\n\nBETHESDA, MARYLAND 20014\n\n<a id='2309c07d-77e6-4bb4-8dd1-94e4602665d5'></a>\n\n2\n\n<a id='77ad2864-22ab-4c8e-8833-067752bca96a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kgbg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='e749b898-800d-4497-aea5-0c2b688c7c22'></a>\n\n<::attestation: Signature line\nMember's signature\nA dashed line with \"Member's signature\" printed above it, centered horizontally.::>",
+            "type": "attestation",
+            "id": "e749b898-800d-4497-aea5-0c2b688c7c22",
+            "grounding": {
+                "box": {
+                    "left": 0.0835309773683548,
+                    "top": 0.14763875305652618,
+                    "right": 0.2748260498046875,
+                    "bottom": 0.20566965639591217
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ecaadcaf-0b80-48a4-a3eb-57b7fbf79be3'></a>\n\nROBERT A. HARTE\n\n9650 ROCKVILLE PIKE\n\nBETHESDA, MARYLAND 20014",
+            "type": "text",
+            "id": "ecaadcaf-0b80-48a4-a3eb-57b7fbf79be3",
+            "grounding": {
+                "box": {
+                    "left": 0.3911396265029907,
+                    "top": 0.4546282887458801,
+                    "right": 0.6293487548828125,
+                    "bottom": 0.6847825646400452
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2309c07d-77e6-4bb4-8dd1-94e4602665d5'></a>\n\n2",
+            "type": "marginalia",
+            "id": "2309c07d-77e6-4bb4-8dd1-94e4602665d5",
+            "grounding": {
+                "box": {
+                    "left": 0.8706498146057129,
+                    "top": 0.815686047077179,
+                    "right": 0.8976627588272095,
+                    "bottom": 0.8740934729576111
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='77ad2864-22ab-4c8e-8833-067752bca96a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kgbg0227",
+            "type": "text",
+            "id": "77ad2864-22ab-4c8e-8833-067752bca96a",
+            "grounding": {
+                "box": {
+                    "left": 0.2316880226135254,
+                    "top": 0.9422871470451355,
+                    "right": 0.7666301727294922,
+                    "bottom": 0.9995948672294617
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e749b898-800d-4497-aea5-0c2b688c7c22'></a>\n\n<::attestation: Signature line\nMember's signature\nA dashed line with \"Member's signature\" printed above it, centered horizontally.::>\n\n<a id='ecaadcaf-0b80-48a4-a3eb-57b7fbf79be3'></a>\n\nROBERT A. HARTE\n\n9650 ROCKVILLE PIKE\n\nBETHESDA, MARYLAND 20014\n\n<a id='2309c07d-77e6-4bb4-8dd1-94e4602665d5'></a>\n\n2\n\n<a id='77ad2864-22ab-4c8e-8833-067752bca96a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kgbg0227",
+            "chunks": [
+                "e749b898-800d-4497-aea5-0c2b688c7c22",
+                "ecaadcaf-0b80-48a4-a3eb-57b7fbf79be3",
+                "2309c07d-77e6-4bb4-8dd1-94e4602665d5",
+                "77ad2864-22ab-4c8e-8833-067752bca96a"
+            ]
+        }
+    ],
+    "grounding": {
+        "e749b898-800d-4497-aea5-0c2b688c7c22": {
+            "box": {
+                "left": 0.0835309773683548,
+                "top": 0.14763875305652618,
+                "right": 0.2748260498046875,
+                "bottom": 0.20566965639591217
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "ecaadcaf-0b80-48a4-a3eb-57b7fbf79be3": {
+            "box": {
+                "left": 0.3911396265029907,
+                "top": 0.4546282887458801,
+                "right": 0.6293487548828125,
+                "bottom": 0.6847825646400452
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2309c07d-77e6-4bb4-8dd1-94e4602665d5": {
+            "box": {
+                "left": 0.8706498146057129,
+                "top": 0.815686047077179,
+                "right": 0.8976627588272095,
+                "bottom": 0.8740934729576111
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "77ad2864-22ab-4c8e-8833-067752bca96a": {
+            "box": {
+                "left": 0.2316880226135254,
+                "top": 0.9422871470451355,
+                "right": 0.7666301727294922,
+                "bottom": 0.9995948672294617
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kgbg0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 2812,
+        "credit_usage": 3.0,
+        "job_id": "w4hfncfp57pr0f2ere2256i9i",
+        "version": "dpt-2-20250919"
+    }
+}

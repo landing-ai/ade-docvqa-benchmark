@@ -1,0 +1,553 @@
+{
+    "markdown": "<a id='04d9f2b0-0ed0-4f66-a3bb-38782a8e465d'></a>\n\nMISSOURI ASSOCIATION FOR SOCIAL WELFARE\nJEFFERSON CITY, MISSOURI\n\n<a id='7460c167-30c8-4ab3-aca6-0bd389b2799c'></a>\n\nMISSOURI VOLUNTEER CITIZENS PROGRAM TO COMBAT\nHUNGER AND MALNUTRITION AMONG LOW-INCOME FAMILIES\nDEMONSTRATION PROJECT # 572\nAPRIL 1, 1971 THROUGH MARCH 31, 1972\n\n<a id='e162e7df-51a5-4eeb-b41d-3e4d8600318e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">REVENUES:</td><td id=\"0-3\"></td><td id=\"0-4\"></td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">Federal funds through the State of Missouri</td><td id=\"0-7\"></td><td id=\"0-8\">$ 58,890.00</td></tr>\n<tr><td id=\"0-9\">EXPENDITURES:</td><td id=\"0-a\">Budget</td><td id=\"0-b\">Actual</td><td id=\"0-c\"></td></tr>\n<tr><td id=\"0-d\">Personnel</td><td id=\"0-e\">$ 39,590.00</td><td id=\"0-f\">$ 38,615.38</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">Travel</td><td id=\"0-i\">8,300.00</td><td id=\"0-j\">7,924.13</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">Supplies</td><td id=\"0-m\">2,500.00</td><td id=\"0-n\">3,860.11</td><td id=\"0-o\"></td></tr>\n<tr><td id=\"0-p\">Equipment</td><td id=\"0-q\">1,000.00</td><td id=\"0-r\">1,107.96</td><td id=\"0-s\"></td></tr>\n<tr><td id=\"0-t\">Other expenditures</td><td id=\"0-u\">7,500.00</td><td id=\"0-v\">7,382.42</td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">Total ....................................</td><td id=\"0-y\">$ 58,890.00</td><td id=\"0-z\">$ 58,890.00</td><td id=\"0-A\">58,890.00</td></tr>\n<tr><td id=\"0-B\">FUND BALANCE, MARCH 31, 1972 ....................</td><td id=\"0-C\">....................</td><td id=\"0-D\">....................</td><td id=\"0-E\">$ -0-</td></tr>\n</table>\n\n<a id='11543548-c631-4040-a7ee-8735c8342e63'></a>\n\nNotes:\n1. The program was approved on March 24, 1971 in the amount of $55,140 and increased by amendment on August 23, 1971 in the amount of $3,750 for the twelve month period shown above.\n2. Section 1115 cumulative monthly financial status reports have been submitted as required.\n3. An expanded monthly status report showing line items and detailed expense breakdown is a part of the monthly report prepared by Missouri Association for Social Welfare and submitted to the Board at their regular monthly meetings.\n4. The program has been approved and funded for another twelve month period period as of April 3, 1972.\n\n<a id='1efc85c4-e784-40ad-95dc-c3d5ef1d7e5c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qfvg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='04d9f2b0-0ed0-4f66-a3bb-38782a8e465d'></a>\n\nMISSOURI ASSOCIATION FOR SOCIAL WELFARE\nJEFFERSON CITY, MISSOURI",
+            "type": "text",
+            "id": "04d9f2b0-0ed0-4f66-a3bb-38782a8e465d",
+            "grounding": {
+                "box": {
+                    "left": 0.30849847197532654,
+                    "top": 0.07704762369394302,
+                    "right": 0.692205548286438,
+                    "bottom": 0.11098440736532211
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7460c167-30c8-4ab3-aca6-0bd389b2799c'></a>\n\nMISSOURI VOLUNTEER CITIZENS PROGRAM TO COMBAT\nHUNGER AND MALNUTRITION AMONG LOW-INCOME FAMILIES\nDEMONSTRATION PROJECT # 572\nAPRIL 1, 1971 THROUGH MARCH 31, 1972",
+            "type": "text",
+            "id": "7460c167-30c8-4ab3-aca6-0bd389b2799c",
+            "grounding": {
+                "box": {
+                    "left": 0.265862375497818,
+                    "top": 0.12225981056690216,
+                    "right": 0.7362803220748901,
+                    "bottom": 0.1861697882413864
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e162e7df-51a5-4eeb-b41d-3e4d8600318e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">REVENUES:</td><td id=\"0-3\"></td><td id=\"0-4\"></td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">Federal funds through the State of Missouri</td><td id=\"0-7\"></td><td id=\"0-8\">$ 58,890.00</td></tr>\n<tr><td id=\"0-9\">EXPENDITURES:</td><td id=\"0-a\">Budget</td><td id=\"0-b\">Actual</td><td id=\"0-c\"></td></tr>\n<tr><td id=\"0-d\">Personnel</td><td id=\"0-e\">$ 39,590.00</td><td id=\"0-f\">$ 38,615.38</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">Travel</td><td id=\"0-i\">8,300.00</td><td id=\"0-j\">7,924.13</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">Supplies</td><td id=\"0-m\">2,500.00</td><td id=\"0-n\">3,860.11</td><td id=\"0-o\"></td></tr>\n<tr><td id=\"0-p\">Equipment</td><td id=\"0-q\">1,000.00</td><td id=\"0-r\">1,107.96</td><td id=\"0-s\"></td></tr>\n<tr><td id=\"0-t\">Other expenditures</td><td id=\"0-u\">7,500.00</td><td id=\"0-v\">7,382.42</td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">Total ....................................</td><td id=\"0-y\">$ 58,890.00</td><td id=\"0-z\">$ 58,890.00</td><td id=\"0-A\">58,890.00</td></tr>\n<tr><td id=\"0-B\">FUND BALANCE, MARCH 31, 1972 ....................</td><td id=\"0-C\">....................</td><td id=\"0-D\">....................</td><td id=\"0-E\">$ -0-</td></tr>\n</table>",
+            "type": "table",
+            "id": "e162e7df-51a5-4eeb-b41d-3e4d8600318e",
+            "grounding": {
+                "box": {
+                    "left": 0.12465164065361023,
+                    "top": 0.21001407504081726,
+                    "right": 0.8883200883865356,
+                    "bottom": 0.39488598704338074
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='11543548-c631-4040-a7ee-8735c8342e63'></a>\n\nNotes:\n1. The program was approved on March 24, 1971 in the amount of $55,140 and increased by amendment on August 23, 1971 in the amount of $3,750 for the twelve month period shown above.\n2. Section 1115 cumulative monthly financial status reports have been submitted as required.\n3. An expanded monthly status report showing line items and detailed expense breakdown is a part of the monthly report prepared by Missouri Association for Social Welfare and submitted to the Board at their regular monthly meetings.\n4. The program has been approved and funded for another twelve month period period as of April 3, 1972.",
+            "type": "text",
+            "id": "11543548-c631-4040-a7ee-8735c8342e63",
+            "grounding": {
+                "box": {
+                    "left": 0.1255897879600525,
+                    "top": 0.4166617691516876,
+                    "right": 0.8868846297264099,
+                    "bottom": 0.6008601784706116
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1efc85c4-e784-40ad-95dc-c3d5ef1d7e5c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qfvg0227",
+            "type": "text",
+            "id": "1efc85c4-e784-40ad-95dc-c3d5ef1d7e5c",
+            "grounding": {
+                "box": {
+                    "left": 0.22803863883018494,
+                    "top": 0.9809646010398865,
+                    "right": 0.7747455835342407,
+                    "bottom": 0.9991032481193542
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='04d9f2b0-0ed0-4f66-a3bb-38782a8e465d'></a>\n\nMISSOURI ASSOCIATION FOR SOCIAL WELFARE\nJEFFERSON CITY, MISSOURI\n\n<a id='7460c167-30c8-4ab3-aca6-0bd389b2799c'></a>\n\nMISSOURI VOLUNTEER CITIZENS PROGRAM TO COMBAT\nHUNGER AND MALNUTRITION AMONG LOW-INCOME FAMILIES\nDEMONSTRATION PROJECT # 572\nAPRIL 1, 1971 THROUGH MARCH 31, 1972\n\n<a id='e162e7df-51a5-4eeb-b41d-3e4d8600318e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">REVENUES:</td><td id=\"0-3\"></td><td id=\"0-4\"></td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">Federal funds through the State of Missouri</td><td id=\"0-7\"></td><td id=\"0-8\">$ 58,890.00</td></tr>\n<tr><td id=\"0-9\">EXPENDITURES:</td><td id=\"0-a\">Budget</td><td id=\"0-b\">Actual</td><td id=\"0-c\"></td></tr>\n<tr><td id=\"0-d\">Personnel</td><td id=\"0-e\">$ 39,590.00</td><td id=\"0-f\">$ 38,615.38</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">Travel</td><td id=\"0-i\">8,300.00</td><td id=\"0-j\">7,924.13</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">Supplies</td><td id=\"0-m\">2,500.00</td><td id=\"0-n\">3,860.11</td><td id=\"0-o\"></td></tr>\n<tr><td id=\"0-p\">Equipment</td><td id=\"0-q\">1,000.00</td><td id=\"0-r\">1,107.96</td><td id=\"0-s\"></td></tr>\n<tr><td id=\"0-t\">Other expenditures</td><td id=\"0-u\">7,500.00</td><td id=\"0-v\">7,382.42</td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">Total ....................................</td><td id=\"0-y\">$ 58,890.00</td><td id=\"0-z\">$ 58,890.00</td><td id=\"0-A\">58,890.00</td></tr>\n<tr><td id=\"0-B\">FUND BALANCE, MARCH 31, 1972 ....................</td><td id=\"0-C\">....................</td><td id=\"0-D\">....................</td><td id=\"0-E\">$ -0-</td></tr>\n</table>\n\n<a id='11543548-c631-4040-a7ee-8735c8342e63'></a>\n\nNotes:\n1. The program was approved on March 24, 1971 in the amount of $55,140 and increased by amendment on August 23, 1971 in the amount of $3,750 for the twelve month period shown above.\n2. Section 1115 cumulative monthly financial status reports have been submitted as required.\n3. An expanded monthly status report showing line items and detailed expense breakdown is a part of the monthly report prepared by Missouri Association for Social Welfare and submitted to the Board at their regular monthly meetings.\n4. The program has been approved and funded for another twelve month period period as of April 3, 1972.\n\n<a id='1efc85c4-e784-40ad-95dc-c3d5ef1d7e5c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qfvg0227",
+            "chunks": [
+                "04d9f2b0-0ed0-4f66-a3bb-38782a8e465d",
+                "7460c167-30c8-4ab3-aca6-0bd389b2799c",
+                "e162e7df-51a5-4eeb-b41d-3e4d8600318e",
+                "11543548-c631-4040-a7ee-8735c8342e63",
+                "1efc85c4-e784-40ad-95dc-c3d5ef1d7e5c"
+            ]
+        }
+    ],
+    "grounding": {
+        "04d9f2b0-0ed0-4f66-a3bb-38782a8e465d": {
+            "box": {
+                "left": 0.30849847197532654,
+                "top": 0.07704762369394302,
+                "right": 0.692205548286438,
+                "bottom": 0.11098440736532211
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7460c167-30c8-4ab3-aca6-0bd389b2799c": {
+            "box": {
+                "left": 0.265862375497818,
+                "top": 0.12225981056690216,
+                "right": 0.7362803220748901,
+                "bottom": 0.1861697882413864
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e162e7df-51a5-4eeb-b41d-3e4d8600318e": {
+            "box": {
+                "left": 0.12465164065361023,
+                "top": 0.21001407504081726,
+                "right": 0.8883200883865356,
+                "bottom": 0.39488598704338074
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.21286161710245577,
+                "right": 0.8851202053900256,
+                "bottom": 0.3891157149625002
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.21286161710245577,
+                "right": 0.5307972189945609,
+                "bottom": 0.2282458932306266
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.5307972189945609,
+                "top": 0.21286161710245577,
+                "right": 0.6480324947356308,
+                "bottom": 0.2282458932306266
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6480324947356308,
+                "top": 0.21286161710245577,
+                "right": 0.7652194756807678,
+                "bottom": 0.2282458932306266
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7652194756807678,
+                "top": 0.21286161710245577,
+                "right": 0.8849362663981637,
+                "bottom": 0.2282458932306266
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.2282458932306266,
+                "right": 0.7652194756807678,
+                "bottom": 0.27162615780148514
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6480324947356308,
+                "top": 0.2282458932306266,
+                "right": 0.7652194756807678,
+                "bottom": 0.2448948108195701
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7652194756807678,
+                "top": 0.2282458932306266,
+                "right": 0.8849362663981637,
+                "bottom": 0.2448948108195701
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.2448948108195701,
+                "right": 0.5307972189945609,
+                "bottom": 0.27162615780148514
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5307972189945609,
+                "top": 0.2448948108195701,
+                "right": 0.6480324947356308,
+                "bottom": 0.27162615780148514
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6480324947356308,
+                "top": 0.2448948108195701,
+                "right": 0.7652194756807678,
+                "bottom": 0.27162615780148514
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7652194756807678,
+                "top": 0.2448948108195701,
+                "right": 0.8849362663981637,
+                "bottom": 0.27162615780148514
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.27162615780148514,
+                "right": 0.5307972189945609,
+                "bottom": 0.28709631174039174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.5307972189945609,
+                "top": 0.27162615780148514,
+                "right": 0.6480324947356308,
+                "bottom": 0.28709631174039174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.6480324947356308,
+                "top": 0.27162615780148514,
+                "right": 0.7652194756807678,
+                "bottom": 0.28709631174039174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7652194756807678,
+                "top": 0.27162615780148514,
+                "right": 0.8849362663981637,
+                "bottom": 0.28709631174039174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.28709631174039174,
+                "right": 0.5307972189945609,
+                "bottom": 0.30160458103129884
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.5307972189945609,
+                "top": 0.28709631174039174,
+                "right": 0.6480324947356308,
+                "bottom": 0.30160458103129884
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6480324947356308,
+                "top": 0.28709631174039174,
+                "right": 0.7652194756807678,
+                "bottom": 0.30160458103129884
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.7652194756807678,
+                "top": 0.28709631174039174,
+                "right": 0.8849362663981637,
+                "bottom": 0.30160458103129884
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.30160458103129884,
+                "right": 0.5307972189945609,
+                "bottom": 0.31735052412459197
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5307972189945609,
+                "top": 0.30160458103129884,
+                "right": 0.6480324947356308,
+                "bottom": 0.31735052412459197
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.6480324947356308,
+                "top": 0.30160458103129884,
+                "right": 0.7652194756807678,
+                "bottom": 0.31735052412459197
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7652194756807678,
+                "top": 0.30160458103129884,
+                "right": 0.8849362663981637,
+                "bottom": 0.31735052412459197
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.31735052412459197,
+                "right": 0.5307972189945609,
+                "bottom": 0.3322349291391049
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.5307972189945609,
+                "top": 0.31735052412459197,
+                "right": 0.6480324947356308,
+                "bottom": 0.3322349291391049
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.6480324947356308,
+                "top": 0.31735052412459197,
+                "right": 0.7652194756807678,
+                "bottom": 0.3322349291391049
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.7652194756807678,
+                "top": 0.31735052412459197,
+                "right": 0.8849362663981637,
+                "bottom": 0.3322349291391049
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.3322349291391049,
+                "right": 0.5307972189945609,
+                "bottom": 0.3453207983456963
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.5307972189945609,
+                "top": 0.3322349291391049,
+                "right": 0.6480324947356308,
+                "bottom": 0.3453207983456963
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6480324947356308,
+                "top": 0.3322349291391049,
+                "right": 0.7652194756807678,
+                "bottom": 0.3453207983456963
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.7652194756807678,
+                "top": 0.3322349291391049,
+                "right": 0.8849362663981637,
+                "bottom": 0.3453207983456963
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.3453207983456963,
+                "right": 0.5307972189945609,
+                "bottom": 0.35959382371929394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.5307972189945609,
+                "top": 0.3453207983456963,
+                "right": 0.6480324947356308,
+                "bottom": 0.35959382371929394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.6480324947356308,
+                "top": 0.3453207983456963,
+                "right": 0.7652194756807678,
+                "bottom": 0.35959382371929394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.7652194756807678,
+                "top": 0.3453207983456963,
+                "right": 0.8849362663981637,
+                "bottom": 0.35959382371929394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.12900369776869894,
+                "top": 0.35959382371929394,
+                "right": 0.5307972189945609,
+                "bottom": 0.3891157149625002
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.5307972189945609,
+                "top": 0.35959382371929394,
+                "right": 0.6480324947356308,
+                "bottom": 0.3891157149625002
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.6480324947356308,
+                "top": 0.35959382371929394,
+                "right": 0.7652194756807678,
+                "bottom": 0.3891157149625002
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.7652194756807678,
+                "top": 0.35959382371929394,
+                "right": 0.8849362663981637,
+                "bottom": 0.3891157149625002
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "11543548-c631-4040-a7ee-8735c8342e63": {
+            "box": {
+                "left": 0.1255897879600525,
+                "top": 0.4166617691516876,
+                "right": 0.8868846297264099,
+                "bottom": 0.6008601784706116
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1efc85c4-e784-40ad-95dc-c3d5ef1d7e5c": {
+            "box": {
+                "left": 0.22803863883018494,
+                "top": 0.9809646010398865,
+                "right": 0.7747455835342407,
+                "bottom": 0.9991032481193542
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qfvg0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5866,
+        "credit_usage": 3.0,
+        "job_id": "kepsucmzkamqij50f6uqhcovx",
+        "version": "dpt-2-20250919"
+    }
+}

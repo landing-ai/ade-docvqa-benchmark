@@ -1,0 +1,338 @@
+{
+    "markdown": "<a id='c33639fc-8872-457e-a00d-57310c6b22e3'></a>\n\n# Plastic Management\n\nPurpose: Correlate curing rate with TSNA formation.\n\n* Use regular crop tobacco\n* Use 6\" stick spacing\n\n* Black plastic on ground with plastic down after loading tobacco\n* Tyvek pulled down after loading tobacco\n\n<a id='5dab0056-9ba9-45b8-80d5-0ceb7076a854'></a>\n\nTest Curing Barns\n\nPurpose: Test controlled curing environment and effects on TSNA formation.\n\n* Use regular crop tobacco\n* Two cures per barn\n* Curing schedules to be determined\n\n<a id='333ee485-1726-4ceb-8d7d-99f8e687e514'></a>\n\nPost Harvest\nPurpose: Test tobacco moisture and bale density versus TSNA formation\n* Use regular crop tobacco\n* Sampling\n  * Time 0 (stripping)\n  * 1 month\n  * 2 month\n* Bale at various moisture contents for three stalk positions\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Moisture</td><td id=\"0-3\">Stalk</td><td id=\"0-4\">Unitized</td></tr>\n<tr><td id=\"0-5\">(%)</td><td id=\"0-6\">Position</td><td id=\"0-7\">Pallets</td></tr>\n<tr><td id=\"0-8\"><14</td><td id=\"0-9\">L,M,H</td><td id=\"0-a\">3 (1 per stalk position)</td></tr>\n<tr><td id=\"0-b\">18-20</td><td id=\"0-c\">L,M,H</td><td id=\"0-d\">3 (1 per stalk position)</td></tr>\n<tr><td id=\"0-e\">>25</td><td id=\"0-f\">L,M,H</td><td id=\"0-g\">3 (1 per stalk position)</td></tr>\n</table>\n* Bale at two densities for one stalk position (Mid) and one moisture content (18% - 20%)\n\n<a id='6c1382f3-365b-4a3c-b3b8-a45fa2fe88d6'></a>\n\n<table><thead><tr><th>Variable</th><th>Density<br>lbs/bale</th><th>Unitized<br>Pallets</th></tr></thead><tbody><tr><td>Low</td><td>65</td><td>1</td></tr><tr><td>High</td><td>100</td><td>1</td></tr></tbody></table>\n\n<a id='e7c28228-66bf-48dd-989d-21fe74cc4123'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nngh0228\n\n<a id='14221552-5946-47c4-8273-85bc1ab69e37'></a>\n\n52414 6095",
+    "chunks": [
+        {
+            "markdown": "<a id='c33639fc-8872-457e-a00d-57310c6b22e3'></a>\n\n# Plastic Management\n\nPurpose: Correlate curing rate with TSNA formation.\n\n* Use regular crop tobacco\n* Use 6\" stick spacing\n\n* Black plastic on ground with plastic down after loading tobacco\n* Tyvek pulled down after loading tobacco",
+            "type": "text",
+            "id": "c33639fc-8872-457e-a00d-57310c6b22e3",
+            "grounding": {
+                "box": {
+                    "left": 0.15109634399414062,
+                    "top": 0.11766824126243591,
+                    "right": 0.8429839015007019,
+                    "bottom": 0.27714502811431885
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5dab0056-9ba9-45b8-80d5-0ceb7076a854'></a>\n\nTest Curing Barns\n\nPurpose: Test controlled curing environment and effects on TSNA formation.\n\n* Use regular crop tobacco\n* Two cures per barn\n* Curing schedules to be determined",
+            "type": "text",
+            "id": "5dab0056-9ba9-45b8-80d5-0ceb7076a854",
+            "grounding": {
+                "box": {
+                    "left": 0.1537575125694275,
+                    "top": 0.28623735904693604,
+                    "right": 0.8457465767860413,
+                    "bottom": 0.41111141443252563
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='333ee485-1726-4ceb-8d7d-99f8e687e514'></a>\n\nPost Harvest\nPurpose: Test tobacco moisture and bale density versus TSNA formation\n* Use regular crop tobacco\n* Sampling\n  * Time 0 (stripping)\n  * 1 month\n  * 2 month\n* Bale at various moisture contents for three stalk positions\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Moisture</td><td id=\"0-3\">Stalk</td><td id=\"0-4\">Unitized</td></tr>\n<tr><td id=\"0-5\">(%)</td><td id=\"0-6\">Position</td><td id=\"0-7\">Pallets</td></tr>\n<tr><td id=\"0-8\"><14</td><td id=\"0-9\">L,M,H</td><td id=\"0-a\">3 (1 per stalk position)</td></tr>\n<tr><td id=\"0-b\">18-20</td><td id=\"0-c\">L,M,H</td><td id=\"0-d\">3 (1 per stalk position)</td></tr>\n<tr><td id=\"0-e\">>25</td><td id=\"0-f\">L,M,H</td><td id=\"0-g\">3 (1 per stalk position)</td></tr>\n</table>\n* Bale at two densities for one stalk position (Mid) and one moisture content (18% - 20%)",
+            "type": "table",
+            "id": "333ee485-1726-4ceb-8d7d-99f8e687e514",
+            "grounding": {
+                "box": {
+                    "left": 0.15390509366989136,
+                    "top": 0.41934627294540405,
+                    "right": 0.8242539763450623,
+                    "bottom": 0.7698250412940979
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6c1382f3-365b-4a3c-b3b8-a45fa2fe88d6'></a>\n\n<table><thead><tr><th>Variable</th><th>Density<br>lbs/bale</th><th>Unitized<br>Pallets</th></tr></thead><tbody><tr><td>Low</td><td>65</td><td>1</td></tr><tr><td>High</td><td>100</td><td>1</td></tr></tbody></table>",
+            "type": "table",
+            "id": "6c1382f3-365b-4a3c-b3b8-a45fa2fe88d6",
+            "grounding": {
+                "box": {
+                    "left": 0.30564236640930176,
+                    "top": 0.7787994742393494,
+                    "right": 0.7003320455551147,
+                    "bottom": 0.8596288561820984
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e7c28228-66bf-48dd-989d-21fe74cc4123'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nngh0228",
+            "type": "marginalia",
+            "id": "e7c28228-66bf-48dd-989d-21fe74cc4123",
+            "grounding": {
+                "box": {
+                    "left": 0.21456900238990784,
+                    "top": 0.9796974062919617,
+                    "right": 0.7873841524124146,
+                    "bottom": 0.9984597563743591
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='14221552-5946-47c4-8273-85bc1ab69e37'></a>\n\n52414 6095",
+            "type": "marginalia",
+            "id": "14221552-5946-47c4-8273-85bc1ab69e37",
+            "grounding": {
+                "box": {
+                    "left": 0.9308298826217651,
+                    "top": 0.8239806890487671,
+                    "right": 0.9610300064086914,
+                    "bottom": 0.91698157787323
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c33639fc-8872-457e-a00d-57310c6b22e3'></a>\n\n# Plastic Management\n\nPurpose: Correlate curing rate with TSNA formation.\n\n* Use regular crop tobacco\n* Use 6\" stick spacing\n\n* Black plastic on ground with plastic down after loading tobacco\n* Tyvek pulled down after loading tobacco\n\n<a id='5dab0056-9ba9-45b8-80d5-0ceb7076a854'></a>\n\nTest Curing Barns\n\nPurpose: Test controlled curing environment and effects on TSNA formation.\n\n* Use regular crop tobacco\n* Two cures per barn\n* Curing schedules to be determined\n\n<a id='333ee485-1726-4ceb-8d7d-99f8e687e514'></a>\n\nPost Harvest\nPurpose: Test tobacco moisture and bale density versus TSNA formation\n* Use regular crop tobacco\n* Sampling\n  * Time 0 (stripping)\n  * 1 month\n  * 2 month\n* Bale at various moisture contents for three stalk positions\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Moisture</td><td id=\"0-3\">Stalk</td><td id=\"0-4\">Unitized</td></tr>\n<tr><td id=\"0-5\">(%)</td><td id=\"0-6\">Position</td><td id=\"0-7\">Pallets</td></tr>\n<tr><td id=\"0-8\"><14</td><td id=\"0-9\">L,M,H</td><td id=\"0-a\">3 (1 per stalk position)</td></tr>\n<tr><td id=\"0-b\">18-20</td><td id=\"0-c\">L,M,H</td><td id=\"0-d\">3 (1 per stalk position)</td></tr>\n<tr><td id=\"0-e\">>25</td><td id=\"0-f\">L,M,H</td><td id=\"0-g\">3 (1 per stalk position)</td></tr>\n</table>\n* Bale at two densities for one stalk position (Mid) and one moisture content (18% - 20%)\n\n<a id='6c1382f3-365b-4a3c-b3b8-a45fa2fe88d6'></a>\n\n<table><thead><tr><th>Variable</th><th>Density<br>lbs/bale</th><th>Unitized<br>Pallets</th></tr></thead><tbody><tr><td>Low</td><td>65</td><td>1</td></tr><tr><td>High</td><td>100</td><td>1</td></tr></tbody></table>\n\n<a id='e7c28228-66bf-48dd-989d-21fe74cc4123'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nngh0228\n\n<a id='14221552-5946-47c4-8273-85bc1ab69e37'></a>\n\n52414 6095",
+            "chunks": [
+                "c33639fc-8872-457e-a00d-57310c6b22e3",
+                "5dab0056-9ba9-45b8-80d5-0ceb7076a854",
+                "333ee485-1726-4ceb-8d7d-99f8e687e514",
+                "6c1382f3-365b-4a3c-b3b8-a45fa2fe88d6",
+                "e7c28228-66bf-48dd-989d-21fe74cc4123",
+                "14221552-5946-47c4-8273-85bc1ab69e37"
+            ]
+        }
+    ],
+    "grounding": {
+        "c33639fc-8872-457e-a00d-57310c6b22e3": {
+            "box": {
+                "left": 0.15109634399414062,
+                "top": 0.11766824126243591,
+                "right": 0.8429839015007019,
+                "bottom": 0.27714502811431885
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5dab0056-9ba9-45b8-80d5-0ceb7076a854": {
+            "box": {
+                "left": 0.1537575125694275,
+                "top": 0.28623735904693604,
+                "right": 0.8457465767860413,
+                "bottom": 0.41111141443252563
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "333ee485-1726-4ceb-8d7d-99f8e687e514": {
+            "box": {
+                "left": 0.15390509366989136,
+                "top": 0.41934627294540405,
+                "right": 0.8242539763450623,
+                "bottom": 0.7698250412940979
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.2933732348893834,
+                "top": 0.6186324067211899,
+                "right": 0.8152436795749338,
+                "bottom": 0.7194646878890794
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.2933732348893834,
+                "top": 0.6186324067211899,
+                "right": 0.3969650670787104,
+                "bottom": 0.6419931233864986
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3969650670787104,
+                "top": 0.6186324067211899,
+                "right": 0.5449039305108556,
+                "bottom": 0.6419931233864986
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5449039305108556,
+                "top": 0.6186324067211899,
+                "right": 0.814732763391774,
+                "bottom": 0.6419931233864986
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.2933732348893834,
+                "top": 0.6419931233864986,
+                "right": 0.3969650670787104,
+                "bottom": 0.6601272885184244
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.3969650670787104,
+                "top": 0.6419931233864986,
+                "right": 0.5449039305108556,
+                "bottom": 0.6601272885184244
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5449039305108556,
+                "top": 0.6419931233864986,
+                "right": 0.814732763391774,
+                "bottom": 0.6601272885184244
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.2933732348893834,
+                "top": 0.6601272885184244,
+                "right": 0.3969650670787104,
+                "bottom": 0.6788496579555456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.3969650670787104,
+                "top": 0.6601272885184244,
+                "right": 0.5449039305108556,
+                "bottom": 0.6788496579555456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5449039305108556,
+                "top": 0.6601272885184244,
+                "right": 0.814732763391774,
+                "bottom": 0.6788496579555456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.2933732348893834,
+                "top": 0.6788496579555456,
+                "right": 0.3969650670787104,
+                "bottom": 0.69788631988731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.3969650670787104,
+                "top": 0.6788496579555456,
+                "right": 0.5449039305108556,
+                "bottom": 0.69788631988731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5449039305108556,
+                "top": 0.6788496579555456,
+                "right": 0.814732763391774,
+                "bottom": 0.69788631988731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.2933732348893834,
+                "top": 0.69788631988731,
+                "right": 0.3969650670787104,
+                "bottom": 0.7194646878890794
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3969650670787104,
+                "top": 0.69788631988731,
+                "right": 0.5449039305108556,
+                "bottom": 0.7194646878890794
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5449039305108556,
+                "top": 0.69788631988731,
+                "right": 0.814732763391774,
+                "bottom": 0.7194646878890794
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "6c1382f3-365b-4a3c-b3b8-a45fa2fe88d6": {
+            "box": {
+                "left": 0.30564236640930176,
+                "top": 0.7787994742393494,
+                "right": 0.7003320455551147,
+                "bottom": 0.8596288561820984
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "e7c28228-66bf-48dd-989d-21fe74cc4123": {
+            "box": {
+                "left": 0.21456900238990784,
+                "top": 0.9796974062919617,
+                "right": 0.7873841524124146,
+                "bottom": 0.9984597563743591
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "14221552-5946-47c4-8273-85bc1ab69e37": {
+            "box": {
+                "left": 0.9308298826217651,
+                "top": 0.8239806890487671,
+                "right": 0.9610300064086914,
+                "bottom": 0.91698157787323
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "nhgh0228_6.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5655,
+        "credit_usage": 3.0,
+        "job_id": "lakf25zq65olooxtqilc91tav",
+        "version": "dpt-2-20250919"
+    }
+}

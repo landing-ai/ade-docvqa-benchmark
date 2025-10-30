@@ -1,0 +1,453 @@
+{
+    "markdown": "<a id='c8b679ba-f4f0-49f1-bb7a-6aa6de442d3e'></a>\n\n- 12 -\n\n<a id='f4ea4e0c-0143-4856-a1d3-d93eea651d11'></a>\n\nTABLE II\nPreparation of the Food Homogenate\n\n<a id='3f20200d-6bce-41b5-973d-1c0acd40618a'></a>\n\n(Raw, dried, frozen, chilled,\nprecooked or prepared foods)\n\n<a id='66d01a7c-f30a-4da8-b48d-0cc68c663f90'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Procedure Step</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Blend frozen sample or thaw</td><td id=\"0-5\">Thaw 18 hrs at 2-5\u00b0C</td></tr>\n<tr><td id=\"0-6\">before blending</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">Weight of sample</td><td id=\"0-9\">50 g</td></tr>\n<tr><td id=\"0-a\">Type of diluent</td><td id=\"0-b\">Butterfield's or 0.1% peptone*</td></tr>\n<tr><td id=\"0-c\">Temperature of diluent</td><td id=\"0-d\">Ambient</td></tr>\n<tr><td id=\"0-e\">Volume initial diluent</td><td id=\"0-f\">450 ml</td></tr>\n<tr><td id=\"0-g\">Blend or shake? How long?</td><td id=\"0-h\">Blend 2 min**, shake 25 times</td></tr>\n<tr><td id=\"0-i\">Pipette size</td><td id=\"0-j\">10 ml</td></tr>\n<tr><td id=\"0-k\">Aliquot size</td><td id=\"0-l\">10 ml</td></tr>\n<tr><td id=\"0-m\">Dilution blank volume</td><td id=\"0-n\">90 ml</td></tr>\n<tr><td id=\"0-o\">Time limit in diluent</td><td id=\"0-p\">15 min*</td></tr>\n</table>\n\n<a id='86e82e06-a4a0-4bc9-ace8-da866fa4e87c'></a>\n\n* Exposure to, and type of, diluent requires further study.\n\n<a id='123aa122-161e-4124-ab2d-6e32e5cb2736'></a>\n\n**Reduce blending time where foaming is likely to occur. Further study is warranted to determine the precise conditions of blending needed. Hand shaking is better than mechanical mixing for measuring surface flora.**\n\n<a id='9823642d-4653-4856-9920-8c084d659c0b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rrdd0228",
+    "chunks": [
+        {
+            "markdown": "<a id='c8b679ba-f4f0-49f1-bb7a-6aa6de442d3e'></a>\n\n- 12 -",
+            "type": "marginalia",
+            "id": "c8b679ba-f4f0-49f1-bb7a-6aa6de442d3e",
+            "grounding": {
+                "box": {
+                    "left": 0.4827105700969696,
+                    "top": 0.08051736652851105,
+                    "right": 0.5548827648162842,
+                    "bottom": 0.10297311842441559
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f4ea4e0c-0143-4856-a1d3-d93eea651d11'></a>\n\nTABLE II\nPreparation of the Food Homogenate",
+            "type": "text",
+            "id": "f4ea4e0c-0143-4856-a1d3-d93eea651d11",
+            "grounding": {
+                "box": {
+                    "left": 0.34452176094055176,
+                    "top": 0.1302599161863327,
+                    "right": 0.7058905363082886,
+                    "bottom": 0.19264356791973114
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3f20200d-6bce-41b5-973d-1c0acd40618a'></a>\n\n(Raw, dried, frozen, chilled,\nprecooked or prepared foods)",
+            "type": "text",
+            "id": "3f20200d-6bce-41b5-973d-1c0acd40618a",
+            "grounding": {
+                "box": {
+                    "left": 0.36500704288482666,
+                    "top": 0.20240353047847748,
+                    "right": 0.666012167930603,
+                    "bottom": 0.24565063416957855
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='66d01a7c-f30a-4da8-b48d-0cc68c663f90'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Procedure Step</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Blend frozen sample or thaw</td><td id=\"0-5\">Thaw 18 hrs at 2-5\u00b0C</td></tr>\n<tr><td id=\"0-6\">before blending</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">Weight of sample</td><td id=\"0-9\">50 g</td></tr>\n<tr><td id=\"0-a\">Type of diluent</td><td id=\"0-b\">Butterfield's or 0.1% peptone*</td></tr>\n<tr><td id=\"0-c\">Temperature of diluent</td><td id=\"0-d\">Ambient</td></tr>\n<tr><td id=\"0-e\">Volume initial diluent</td><td id=\"0-f\">450 ml</td></tr>\n<tr><td id=\"0-g\">Blend or shake? How long?</td><td id=\"0-h\">Blend 2 min**, shake 25 times</td></tr>\n<tr><td id=\"0-i\">Pipette size</td><td id=\"0-j\">10 ml</td></tr>\n<tr><td id=\"0-k\">Aliquot size</td><td id=\"0-l\">10 ml</td></tr>\n<tr><td id=\"0-m\">Dilution blank volume</td><td id=\"0-n\">90 ml</td></tr>\n<tr><td id=\"0-o\">Time limit in diluent</td><td id=\"0-p\">15 min*</td></tr>\n</table>",
+            "type": "table",
+            "id": "66d01a7c-f30a-4da8-b48d-0cc68c663f90",
+            "grounding": {
+                "box": {
+                    "left": 0.15647438168525696,
+                    "top": 0.25375890731811523,
+                    "right": 0.88724684715271,
+                    "bottom": 0.6443403363227844
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='86e82e06-a4a0-4bc9-ace8-da866fa4e87c'></a>\n\n* Exposure to, and type of, diluent requires further study.",
+            "type": "text",
+            "id": "86e82e06-a4a0-4bc9-ace8-da866fa4e87c",
+            "grounding": {
+                "box": {
+                    "left": 0.16087985038757324,
+                    "top": 0.6662836670875549,
+                    "right": 0.7443750500679016,
+                    "bottom": 0.6923348307609558
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='123aa122-161e-4124-ab2d-6e32e5cb2736'></a>\n\n**Reduce blending time where foaming is likely to occur. Further study is warranted to determine the precise conditions of blending needed. Hand shaking is better than mechanical mixing for measuring surface flora.**",
+            "type": "text",
+            "id": "123aa122-161e-4124-ab2d-6e32e5cb2736",
+            "grounding": {
+                "box": {
+                    "left": 0.1596429944038391,
+                    "top": 0.6996031403541565,
+                    "right": 0.8980196118354797,
+                    "bottom": 0.7632443308830261
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9823642d-4653-4856-9920-8c084d659c0b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rrdd0228",
+            "type": "text",
+            "id": "9823642d-4653-4856-9920-8c084d659c0b",
+            "grounding": {
+                "box": {
+                    "left": 0.2248840630054474,
+                    "top": 0.9744991660118103,
+                    "right": 0.7758212089538574,
+                    "bottom": 0.9994960427284241
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c8b679ba-f4f0-49f1-bb7a-6aa6de442d3e'></a>\n\n- 12 -\n\n<a id='f4ea4e0c-0143-4856-a1d3-d93eea651d11'></a>\n\nTABLE II\nPreparation of the Food Homogenate\n\n<a id='3f20200d-6bce-41b5-973d-1c0acd40618a'></a>\n\n(Raw, dried, frozen, chilled,\nprecooked or prepared foods)\n\n<a id='66d01a7c-f30a-4da8-b48d-0cc68c663f90'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Procedure Step</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Blend frozen sample or thaw</td><td id=\"0-5\">Thaw 18 hrs at 2-5\u00b0C</td></tr>\n<tr><td id=\"0-6\">before blending</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">Weight of sample</td><td id=\"0-9\">50 g</td></tr>\n<tr><td id=\"0-a\">Type of diluent</td><td id=\"0-b\">Butterfield's or 0.1% peptone*</td></tr>\n<tr><td id=\"0-c\">Temperature of diluent</td><td id=\"0-d\">Ambient</td></tr>\n<tr><td id=\"0-e\">Volume initial diluent</td><td id=\"0-f\">450 ml</td></tr>\n<tr><td id=\"0-g\">Blend or shake? How long?</td><td id=\"0-h\">Blend 2 min**, shake 25 times</td></tr>\n<tr><td id=\"0-i\">Pipette size</td><td id=\"0-j\">10 ml</td></tr>\n<tr><td id=\"0-k\">Aliquot size</td><td id=\"0-l\">10 ml</td></tr>\n<tr><td id=\"0-m\">Dilution blank volume</td><td id=\"0-n\">90 ml</td></tr>\n<tr><td id=\"0-o\">Time limit in diluent</td><td id=\"0-p\">15 min*</td></tr>\n</table>\n\n<a id='86e82e06-a4a0-4bc9-ace8-da866fa4e87c'></a>\n\n* Exposure to, and type of, diluent requires further study.\n\n<a id='123aa122-161e-4124-ab2d-6e32e5cb2736'></a>\n\n**Reduce blending time where foaming is likely to occur. Further study is warranted to determine the precise conditions of blending needed. Hand shaking is better than mechanical mixing for measuring surface flora.**\n\n<a id='9823642d-4653-4856-9920-8c084d659c0b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rrdd0228",
+            "chunks": [
+                "c8b679ba-f4f0-49f1-bb7a-6aa6de442d3e",
+                "f4ea4e0c-0143-4856-a1d3-d93eea651d11",
+                "3f20200d-6bce-41b5-973d-1c0acd40618a",
+                "66d01a7c-f30a-4da8-b48d-0cc68c663f90",
+                "86e82e06-a4a0-4bc9-ace8-da866fa4e87c",
+                "123aa122-161e-4124-ab2d-6e32e5cb2736",
+                "9823642d-4653-4856-9920-8c084d659c0b"
+            ]
+        }
+    ],
+    "grounding": {
+        "c8b679ba-f4f0-49f1-bb7a-6aa6de442d3e": {
+            "box": {
+                "left": 0.4827105700969696,
+                "top": 0.08051736652851105,
+                "right": 0.5548827648162842,
+                "bottom": 0.10297311842441559
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "f4ea4e0c-0143-4856-a1d3-d93eea651d11": {
+            "box": {
+                "left": 0.34452176094055176,
+                "top": 0.1302599161863327,
+                "right": 0.7058905363082886,
+                "bottom": 0.19264356791973114
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3f20200d-6bce-41b5-973d-1c0acd40618a": {
+            "box": {
+                "left": 0.36500704288482666,
+                "top": 0.20240353047847748,
+                "right": 0.666012167930603,
+                "bottom": 0.24565063416957855
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "66d01a7c-f30a-4da8-b48d-0cc68c663f90": {
+            "box": {
+                "left": 0.15647438168525696,
+                "top": 0.25375890731811523,
+                "right": 0.88724684715271,
+                "bottom": 0.6443403363227844
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.25626021510994845,
+                "right": 0.8830321863573136,
+                "bottom": 0.6389694161070274
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.25626021510994845,
+                "right": 0.4463853395210009,
+                "bottom": 0.27844764212933937
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.25626021510994845,
+                "right": 0.8827104711555815,
+                "bottom": 0.27844764212933937
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.27844764212933937,
+                "right": 0.4463853395210009,
+                "bottom": 0.3106262096313319
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.27844764212933937,
+                "right": 0.8827104711555815,
+                "bottom": 0.3106262096313319
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.3106262096313319,
+                "right": 0.4463853395210009,
+                "bottom": 0.32859351558671257
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.3106262096313319,
+                "right": 0.8827104711555815,
+                "bottom": 0.32859351558671257
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.32859351558671257,
+                "right": 0.4463853395210009,
+                "bottom": 0.36410848543358654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.32859351558671257,
+                "right": 0.8827104711555815,
+                "bottom": 0.36410848543358654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.36410848543358654,
+                "right": 0.4463853395210009,
+                "bottom": 0.3989291502629939
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.36410848543358654,
+                "right": 0.8827104711555815,
+                "bottom": 0.3989291502629939
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.3989291502629939,
+                "right": 0.4463853395210009,
+                "bottom": 0.4324228284544951
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.3989291502629939,
+                "right": 0.8827104711555815,
+                "bottom": 0.4324228284544951
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.4324228284544951,
+                "right": 0.4463853395210009,
+                "bottom": 0.46632857091776714
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.4324228284544951,
+                "right": 0.8827104711555815,
+                "bottom": 0.46632857091776714
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.46632857091776714,
+                "right": 0.4463853395210009,
+                "bottom": 0.5014458987423822
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.46632857091776714,
+                "right": 0.8827104711555815,
+                "bottom": 0.5014458987423822
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.5014458987423822,
+                "right": 0.4463853395210009,
+                "bottom": 0.5349328488788245
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.5014458987423822,
+                "right": 0.8827104711555815,
+                "bottom": 0.5349328488788245
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.5349328488788245,
+                "right": 0.4463853395210009,
+                "bottom": 0.5689704984699979
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.5349328488788245,
+                "right": 0.8827104711555815,
+                "bottom": 0.5689704984699979
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.5689704984699979,
+                "right": 0.4463853395210009,
+                "bottom": 0.6035563565058979
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.5689704984699979,
+                "right": 0.8827104711555815,
+                "bottom": 0.6035563565058979
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.16360283671258777,
+                "top": 0.6035563565058979,
+                "right": 0.4463853395210009,
+                "bottom": 0.6389694161070274
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.4463853395210009,
+                "top": 0.6035563565058979,
+                "right": 0.8827104711555815,
+                "bottom": 0.6389694161070274
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "86e82e06-a4a0-4bc9-ace8-da866fa4e87c": {
+            "box": {
+                "left": 0.16087985038757324,
+                "top": 0.6662836670875549,
+                "right": 0.7443750500679016,
+                "bottom": 0.6923348307609558
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "123aa122-161e-4124-ab2d-6e32e5cb2736": {
+            "box": {
+                "left": 0.1596429944038391,
+                "top": 0.6996031403541565,
+                "right": 0.8980196118354797,
+                "bottom": 0.7632443308830261
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9823642d-4653-4856-9920-8c084d659c0b": {
+            "box": {
+                "left": 0.2248840630054474,
+                "top": 0.9744991660118103,
+                "right": 0.7758212089538574,
+                "bottom": 0.9994960427284241
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rrdd0228_14.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5932,
+        "credit_usage": 3.0,
+        "job_id": "avq3r8c4nkla903639o6ow91c",
+        "version": "dpt-2-20250919"
+    }
+}

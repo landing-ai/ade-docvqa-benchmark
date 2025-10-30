@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='81613808-f72b-4808-adb9-0de7081eb7b9'></a>\n\nBirth Defects Special Treatment Center\n\n<a id='26c57b5c-d6b1-4b8d-a5c0-3a9627b6928f'></a>\n\nBoston, MASSACHUSETTS\n\n<a id='14f2c7fc-eb2e-41f0-a0a6-309623c06b58'></a>\n\nNational Foundation State Representative\n\n<a id='660e9a8e-cd48-4e39-98ff-0118edf5a011'></a>\n\n- Jean Dargis\nRoom 407\nTwo Park Square\nBoston, Massachusetts 02116\nTel: Code #617; 426-4047\n\n<a id='cab0c40f-2287-4966-8186-171286e937bb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ngxho227",
+    "chunks": [
+        {
+            "markdown": "<a id='81613808-f72b-4808-adb9-0de7081eb7b9'></a>\n\nBirth Defects Special Treatment Center",
+            "type": "text",
+            "id": "81613808-f72b-4808-adb9-0de7081eb7b9",
+            "grounding": {
+                "box": {
+                    "left": 0.10247044265270233,
+                    "top": 0.11989620327949524,
+                    "right": 0.4769012928009033,
+                    "bottom": 0.14735743403434753
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='26c57b5c-d6b1-4b8d-a5c0-3a9627b6928f'></a>\n\nBoston, MASSACHUSETTS",
+            "type": "text",
+            "id": "26c57b5c-d6b1-4b8d-a5c0-3a9627b6928f",
+            "grounding": {
+                "box": {
+                    "left": 0.6589061617851257,
+                    "top": 0.12251272797584534,
+                    "right": 0.8699557185173035,
+                    "bottom": 0.14469045400619507
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='14f2c7fc-eb2e-41f0-a0a6-309623c06b58'></a>\n\nNational Foundation State Representative",
+            "type": "text",
+            "id": "14f2c7fc-eb2e-41f0-a0a6-309623c06b58",
+            "grounding": {
+                "box": {
+                    "left": 0.10240118205547333,
+                    "top": 0.17808686196804047,
+                    "right": 0.4922333359718323,
+                    "bottom": 0.20505349338054657
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='660e9a8e-cd48-4e39-98ff-0118edf5a011'></a>\n\n- Jean Dargis\nRoom 407\nTwo Park Square\nBoston, Massachusetts 02116\nTel: Code #617; 426-4047",
+            "type": "text",
+            "id": "660e9a8e-cd48-4e39-98ff-0118edf5a011",
+            "grounding": {
+                "box": {
+                    "left": 0.4916337728500366,
+                    "top": 0.1809512823820114,
+                    "right": 0.7957354784011841,
+                    "bottom": 0.2630421817302704
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cab0c40f-2287-4966-8186-171286e937bb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ngxho227",
+            "type": "marginalia",
+            "id": "cab0c40f-2287-4966-8186-171286e937bb",
+            "grounding": {
+                "box": {
+                    "left": 0.2244744598865509,
+                    "top": 0.9795482158660889,
+                    "right": 0.7774285078048706,
+                    "bottom": 0.9997296333312988
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='81613808-f72b-4808-adb9-0de7081eb7b9'></a>\n\nBirth Defects Special Treatment Center\n\n<a id='26c57b5c-d6b1-4b8d-a5c0-3a9627b6928f'></a>\n\nBoston, MASSACHUSETTS\n\n<a id='14f2c7fc-eb2e-41f0-a0a6-309623c06b58'></a>\n\nNational Foundation State Representative\n\n<a id='660e9a8e-cd48-4e39-98ff-0118edf5a011'></a>\n\n- Jean Dargis\nRoom 407\nTwo Park Square\nBoston, Massachusetts 02116\nTel: Code #617; 426-4047\n\n<a id='cab0c40f-2287-4966-8186-171286e937bb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ngxho227",
+            "chunks": [
+                "81613808-f72b-4808-adb9-0de7081eb7b9",
+                "26c57b5c-d6b1-4b8d-a5c0-3a9627b6928f",
+                "14f2c7fc-eb2e-41f0-a0a6-309623c06b58",
+                "660e9a8e-cd48-4e39-98ff-0118edf5a011",
+                "cab0c40f-2287-4966-8186-171286e937bb"
+            ]
+        }
+    ],
+    "grounding": {
+        "81613808-f72b-4808-adb9-0de7081eb7b9": {
+            "box": {
+                "left": 0.10247044265270233,
+                "top": 0.11989620327949524,
+                "right": 0.4769012928009033,
+                "bottom": 0.14735743403434753
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "26c57b5c-d6b1-4b8d-a5c0-3a9627b6928f": {
+            "box": {
+                "left": 0.6589061617851257,
+                "top": 0.12251272797584534,
+                "right": 0.8699557185173035,
+                "bottom": 0.14469045400619507
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "14f2c7fc-eb2e-41f0-a0a6-309623c06b58": {
+            "box": {
+                "left": 0.10240118205547333,
+                "top": 0.17808686196804047,
+                "right": 0.4922333359718323,
+                "bottom": 0.20505349338054657
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "660e9a8e-cd48-4e39-98ff-0118edf5a011": {
+            "box": {
+                "left": 0.4916337728500366,
+                "top": 0.1809512823820114,
+                "right": 0.7957354784011841,
+                "bottom": 0.2630421817302704
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cab0c40f-2287-4966-8186-171286e937bb": {
+            "box": {
+                "left": 0.2244744598865509,
+                "top": 0.9795482158660889,
+                "right": 0.7774285078048706,
+                "bottom": 0.9997296333312988
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "ngxh0227_40.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4533,
+        "credit_usage": 3.0,
+        "job_id": "aexauy28eej5f6ebv9895uqk4",
+        "version": "dpt-2-20250919"
+    }
+}

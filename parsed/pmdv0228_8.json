@@ -1,0 +1,588 @@
+{
+    "markdown": "<a id='004ea1fd-d67b-41d5-a594-0e5e36cd0801'></a>\n\nDr. W. J. Darby: 1980\n\n<a id='650cea93-5e51-49d2-9e56-afcd1f03da6b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE</td><td id=\"0-3\">DAYS IN NYC</td><td id=\"0-4\">DAYS OUTSIDE OF NYC</td><td id=\"0-5\">LOCATION OUTSIDE NYC</td><td id=\"0-6\">PURPOSE OF TRIP</td></tr>\n<tr><td id=\"0-7\">AUGUST</td><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">1</td><td id=\"0-d\">1</td><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">4,5,6,7,8</td><td id=\"0-i\">5</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">11</td><td id=\"0-n\"></td><td id=\"0-o\">1</td><td id=\"0-p\">Nashville</td><td id=\"0-q\">Vanderbilt</td></tr>\n<tr><td id=\"0-r\">12,13,14</td><td id=\"0-s\"></td><td id=\"0-t\">3</td><td id=\"0-u\">Los Angeles</td><td id=\"0-v\">Western Hemisphe</td></tr>\n<tr><td id=\"0-w\">15</td><td id=\"0-x\">1</td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">18,19,20,21,22</td><td id=\"0-C\">5</td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n<tr><td id=\"0-G\">25,26,27,28,29</td><td id=\"0-H\">--vacation---</td><td id=\"0-I\"></td><td id=\"0-J\">Nashville</td><td id=\"0-K\">vacation</td></tr>\n</table>\nre Nutr. Conf\n\n<a id='b65038bb-96bf-49f4-95e6-d25b293babc5'></a>\n\n12 --- 4\n\n<a id='f7257359-c6e3-4a99-8077-244459ab0c78'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pmdv0228",
+    "chunks": [
+        {
+            "markdown": "<a id='004ea1fd-d67b-41d5-a594-0e5e36cd0801'></a>\n\nDr. W. J. Darby: 1980",
+            "type": "text",
+            "id": "004ea1fd-d67b-41d5-a594-0e5e36cd0801",
+            "grounding": {
+                "box": {
+                    "left": 0.09293274581432343,
+                    "top": 0.15197475254535675,
+                    "right": 0.26448601484298706,
+                    "bottom": 0.1762690395116806
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='650cea93-5e51-49d2-9e56-afcd1f03da6b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE</td><td id=\"0-3\">DAYS IN NYC</td><td id=\"0-4\">DAYS OUTSIDE OF NYC</td><td id=\"0-5\">LOCATION OUTSIDE NYC</td><td id=\"0-6\">PURPOSE OF TRIP</td></tr>\n<tr><td id=\"0-7\">AUGUST</td><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">1</td><td id=\"0-d\">1</td><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">4,5,6,7,8</td><td id=\"0-i\">5</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">11</td><td id=\"0-n\"></td><td id=\"0-o\">1</td><td id=\"0-p\">Nashville</td><td id=\"0-q\">Vanderbilt</td></tr>\n<tr><td id=\"0-r\">12,13,14</td><td id=\"0-s\"></td><td id=\"0-t\">3</td><td id=\"0-u\">Los Angeles</td><td id=\"0-v\">Western Hemisphe</td></tr>\n<tr><td id=\"0-w\">15</td><td id=\"0-x\">1</td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">18,19,20,21,22</td><td id=\"0-C\">5</td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n<tr><td id=\"0-G\">25,26,27,28,29</td><td id=\"0-H\">--vacation---</td><td id=\"0-I\"></td><td id=\"0-J\">Nashville</td><td id=\"0-K\">vacation</td></tr>\n</table>\nre Nutr. Conf",
+            "type": "table",
+            "id": "650cea93-5e51-49d2-9e56-afcd1f03da6b",
+            "grounding": {
+                "box": {
+                    "left": 0.08476391434669495,
+                    "top": 0.20297224819660187,
+                    "right": 0.9841922521591187,
+                    "bottom": 0.5346571803092957
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b65038bb-96bf-49f4-95e6-d25b293babc5'></a>\n\n12 --- 4",
+            "type": "text",
+            "id": "b65038bb-96bf-49f4-95e6-d25b293babc5",
+            "grounding": {
+                "box": {
+                    "left": 0.2266550362110138,
+                    "top": 0.5597955584526062,
+                    "right": 0.4547196328639984,
+                    "bottom": 0.5888821482658386
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f7257359-c6e3-4a99-8077-244459ab0c78'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pmdv0228",
+            "type": "text",
+            "id": "f7257359-c6e3-4a99-8077-244459ab0c78",
+            "grounding": {
+                "box": {
+                    "left": 0.27934730052948,
+                    "top": 0.9723941087722778,
+                    "right": 0.72007155418396,
+                    "bottom": 0.9983004331588745
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='004ea1fd-d67b-41d5-a594-0e5e36cd0801'></a>\n\nDr. W. J. Darby: 1980\n\n<a id='650cea93-5e51-49d2-9e56-afcd1f03da6b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE</td><td id=\"0-3\">DAYS IN NYC</td><td id=\"0-4\">DAYS OUTSIDE OF NYC</td><td id=\"0-5\">LOCATION OUTSIDE NYC</td><td id=\"0-6\">PURPOSE OF TRIP</td></tr>\n<tr><td id=\"0-7\">AUGUST</td><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">1</td><td id=\"0-d\">1</td><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">4,5,6,7,8</td><td id=\"0-i\">5</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">11</td><td id=\"0-n\"></td><td id=\"0-o\">1</td><td id=\"0-p\">Nashville</td><td id=\"0-q\">Vanderbilt</td></tr>\n<tr><td id=\"0-r\">12,13,14</td><td id=\"0-s\"></td><td id=\"0-t\">3</td><td id=\"0-u\">Los Angeles</td><td id=\"0-v\">Western Hemisphe</td></tr>\n<tr><td id=\"0-w\">15</td><td id=\"0-x\">1</td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">18,19,20,21,22</td><td id=\"0-C\">5</td><td id=\"0-D\"></td><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n<tr><td id=\"0-G\">25,26,27,28,29</td><td id=\"0-H\">--vacation---</td><td id=\"0-I\"></td><td id=\"0-J\">Nashville</td><td id=\"0-K\">vacation</td></tr>\n</table>\nre Nutr. Conf\n\n<a id='b65038bb-96bf-49f4-95e6-d25b293babc5'></a>\n\n12 --- 4\n\n<a id='f7257359-c6e3-4a99-8077-244459ab0c78'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pmdv0228",
+            "chunks": [
+                "004ea1fd-d67b-41d5-a594-0e5e36cd0801",
+                "650cea93-5e51-49d2-9e56-afcd1f03da6b",
+                "b65038bb-96bf-49f4-95e6-d25b293babc5",
+                "f7257359-c6e3-4a99-8077-244459ab0c78"
+            ]
+        }
+    ],
+    "grounding": {
+        "004ea1fd-d67b-41d5-a594-0e5e36cd0801": {
+            "box": {
+                "left": 0.09293274581432343,
+                "top": 0.15197475254535675,
+                "right": 0.26448601484298706,
+                "bottom": 0.1762690395116806
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "650cea93-5e51-49d2-9e56-afcd1f03da6b": {
+            "box": {
+                "left": 0.08476391434669495,
+                "top": 0.20297224819660187,
+                "right": 0.9841922521591187,
+                "bottom": 0.5346571803092957
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.08925292437102579,
+                "top": 0.20533501542264265,
+                "right": 0.8889428541444921,
+                "bottom": 0.5346538984955114
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.08925292437102579,
+                "top": 0.20533501542264265,
+                "right": 0.1992246146756531,
+                "bottom": 0.23692083744087866
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.1992246146756531,
+                "top": 0.20533501542264265,
+                "right": 0.36023692731364143,
+                "bottom": 0.23692083744087866
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.36023692731364143,
+                "top": 0.20533501542264265,
+                "right": 0.531829368717295,
+                "bottom": 0.23692083744087866
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.531829368717295,
+                "top": 0.20533501542264265,
+                "right": 0.7381828176654022,
+                "bottom": 0.23692083744087866
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.7381828176654022,
+                "top": 0.20533501542264265,
+                "right": 0.8880255852209729,
+                "bottom": 0.23692083744087866
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.08925292437102579,
+                "top": 0.23692083744087866,
+                "right": 0.1992246146756531,
+                "bottom": 0.263200870736809
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.1992246146756531,
+                "top": 0.23692083744087866,
+                "right": 0.36023692731364143,
+                "bottom": 0.263200870736809
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.36023692731364143,
+                "top": 0.23692083744087866,
+                "right": 0.531829368717295,
+                "bottom": 0.263200870736809
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.531829368717295,
+                "top": 0.23692083744087866,
+                "right": 0.7381828176654022,
+                "bottom": 0.263200870736809
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7381828176654022,
+                "top": 0.23692083744087866,
+                "right": 0.8880255852209729,
+                "bottom": 0.263200870736809
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.08925292437102579,
+                "top": 0.263200870736809,
+                "right": 0.1992246146756531,
+                "bottom": 0.30219807577906765
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.1992246146756531,
+                "top": 0.263200870736809,
+                "right": 0.36023692731364143,
+                "bottom": 0.30219807577906765
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.36023692731364143,
+                "top": 0.263200870736809,
+                "right": 0.531829368717295,
+                "bottom": 0.30219807577906765
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.531829368717295,
+                "top": 0.263200870736809,
+                "right": 0.7381828176654022,
+                "bottom": 0.30219807577906765
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7381828176654022,
+                "top": 0.263200870736809,
+                "right": 0.8880255852209729,
+                "bottom": 0.30219807577906765
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.08925292437102579,
+                "top": 0.30219807577906765,
+                "right": 0.1992246146756531,
+                "bottom": 0.34111837072449314
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.1992246146756531,
+                "top": 0.30219807577906765,
+                "right": 0.36023692731364143,
+                "bottom": 0.34111837072449314
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.36023692731364143,
+                "top": 0.30219807577906765,
+                "right": 0.531829368717295,
+                "bottom": 0.34111837072449314
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.531829368717295,
+                "top": 0.30219807577906765,
+                "right": 0.7381828176654022,
+                "bottom": 0.34111837072449314
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7381828176654022,
+                "top": 0.30219807577906765,
+                "right": 0.8880255852209729,
+                "bottom": 0.34111837072449314
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.08925292437102579,
+                "top": 0.34111837072449314,
+                "right": 0.1992246146756531,
+                "bottom": 0.3778835321667158
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.1992246146756531,
+                "top": 0.34111837072449314,
+                "right": 0.36023692731364143,
+                "bottom": 0.3778835321667158
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.36023692731364143,
+                "top": 0.34111837072449314,
+                "right": 0.531829368717295,
+                "bottom": 0.3778835321667158
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.531829368717295,
+                "top": 0.34111837072449314,
+                "right": 0.7381828176654022,
+                "bottom": 0.3778835321667158
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.7381828176654022,
+                "top": 0.34111837072449314,
+                "right": 0.8880255852209729,
+                "bottom": 0.3778835321667158
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.08925292437102579,
+                "top": 0.3778835321667158,
+                "right": 0.1992246146756531,
+                "bottom": 0.41933910734035074
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.1992246146756531,
+                "top": 0.3778835321667158,
+                "right": 0.36023692731364143,
+                "bottom": 0.41933910734035074
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.36023692731364143,
+                "top": 0.3778835321667158,
+                "right": 0.531829368717295,
+                "bottom": 0.41933910734035074
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.531829368717295,
+                "top": 0.3778835321667158,
+                "right": 0.7381828176654022,
+                "bottom": 0.41933910734035074
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.7381828176654022,
+                "top": 0.3778835321667158,
+                "right": 0.8880255852209729,
+                "bottom": 0.41933910734035074
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.08925292437102579,
+                "top": 0.41933910734035074,
+                "right": 0.1992246146756531,
+                "bottom": 0.4547382335648278
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.1992246146756531,
+                "top": 0.41933910734035074,
+                "right": 0.36023692731364143,
+                "bottom": 0.4547382335648278
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.36023692731364143,
+                "top": 0.41933910734035074,
+                "right": 0.531829368717295,
+                "bottom": 0.4547382335648278
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.531829368717295,
+                "top": 0.41933910734035074,
+                "right": 0.7381828176654022,
+                "bottom": 0.4547382335648278
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.7381828176654022,
+                "top": 0.41933910734035074,
+                "right": 0.8880255852209729,
+                "bottom": 0.4547382335648278
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.08925292437102579,
+                "top": 0.4547382335648278,
+                "right": 0.1992246146756531,
+                "bottom": 0.4965801731166932
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.1992246146756531,
+                "top": 0.4547382335648278,
+                "right": 0.36023692731364143,
+                "bottom": 0.4965801731166932
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.36023692731364143,
+                "top": 0.4547382335648278,
+                "right": 0.531829368717295,
+                "bottom": 0.4965801731166932
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.531829368717295,
+                "top": 0.4547382335648278,
+                "right": 0.7381828176654022,
+                "bottom": 0.4965801731166932
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.7381828176654022,
+                "top": 0.4547382335648278,
+                "right": 0.8880255852209729,
+                "bottom": 0.4965801731166932
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.08925292437102579,
+                "top": 0.4965801731166932,
+                "right": 0.1992246146756531,
+                "bottom": 0.5346538984955114
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.1992246146756531,
+                "top": 0.4965801731166932,
+                "right": 0.36023692731364143,
+                "bottom": 0.5346538984955114
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.36023692731364143,
+                "top": 0.4965801731166932,
+                "right": 0.531829368717295,
+                "bottom": 0.5346538984955114
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.531829368717295,
+                "top": 0.4965801731166932,
+                "right": 0.7381828176654022,
+                "bottom": 0.5346538984955114
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.7381828176654022,
+                "top": 0.4965801731166932,
+                "right": 0.8880255852209729,
+                "bottom": 0.5346538984955114
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "b65038bb-96bf-49f4-95e6-d25b293babc5": {
+            "box": {
+                "left": 0.2266550362110138,
+                "top": 0.5597955584526062,
+                "right": 0.4547196328639984,
+                "bottom": 0.5888821482658386
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f7257359-c6e3-4a99-8077-244459ab0c78": {
+            "box": {
+                "left": 0.27934730052948,
+                "top": 0.9723941087722778,
+                "right": 0.72007155418396,
+                "bottom": 0.9983004331588745
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "pmdv0228_8.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6455,
+        "credit_usage": 3.0,
+        "job_id": "jnm52065j1qrxg2o5mq4j8qi1",
+        "version": "dpt-2-20250919"
+    }
+}

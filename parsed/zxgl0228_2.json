@@ -1,0 +1,563 @@
+{
+    "markdown": "<a id='32858ebe-590e-4ffa-b0e0-a411ce69a6d4'></a>\n\nAttachment IV\n\n<a id='081e3a70-0f35-4148-a31a-c971d433173c'></a>\n\nMEMORANDUM\n\n<a id='3d535f79-4741-4738-85a6-215722609734'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">LOGISTICS DEPARTMENT</td><td id=\"0-3\" colspan=\"3\">ENVIRONMENTAL</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\"></td><td id=\"0-6\"></td><td id=\"0-7\" colspan=\"3\">PROTECTION</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\" colspan=\"3\">DEC 22 1990</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\" colspan=\"2\">gray rectangle</td><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\">text (illegible)</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\" colspan=\"2\">Calculator (text barely visible)</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\">white rectangle with a gray smudge</td></tr>\n<tr><td id=\"0-m\">December</td><td id=\"0-n\" colspan=\"2\">15, 1980</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">Image of a gray rectangle with dots</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\" colspan=\"2\">gray rectangle with text</td><td id=\"0-t\">A. L...</td><td id=\"0-u\"></td><td id=\"0-v\">Image of a gray rectangle with dots</td></tr>\n</table>\n\n<a id='d786353e-c15f-4d60-b1f7-676b89b0e23a'></a>\n\nMr. V. W. Pink\nTechnology Division\nRoom 1505\n\n<a id='a4d32cee-289f-4590-ab04-257b2630b399'></a>\n\nAttached for your attention is a copy of the Environmental\nQuality Committee report for October to December 10, 1980.\n\n<a id='01f8f64e-e269-40ea-b5d0-a3b1cd633969'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nT. A. Underwood\nA handwritten signature is placed above the typed name \"T. A. Underwood\", centrally located in the image.::>\n\n<a id='dea3d03b-d778-4c55-9455-126186d5d522'></a>\n\nTAU:ys\n\n<a id='e892422c-c789-4899-9913-4585dfeef22a'></a>\n\nAtt.\n\n<a id='abaaaa8a-5e7b-4016-a5d6-9363dade587f'></a>\n\nc.c. W. J. Keough\nJ. Walker\nH. W. Colquhoun",
+    "chunks": [
+        {
+            "markdown": "<a id='32858ebe-590e-4ffa-b0e0-a411ce69a6d4'></a>\n\nAttachment IV",
+            "type": "marginalia",
+            "id": "32858ebe-590e-4ffa-b0e0-a411ce69a6d4",
+            "grounding": {
+                "box": {
+                    "left": 0.7283753752708435,
+                    "top": 0.013853078708052635,
+                    "right": 0.880241334438324,
+                    "bottom": 0.041008442640304565
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='081e3a70-0f35-4148-a31a-c971d433173c'></a>\n\nMEMORANDUM",
+            "type": "text",
+            "id": "081e3a70-0f35-4148-a31a-c971d433173c",
+            "grounding": {
+                "box": {
+                    "left": 0.04836876690387726,
+                    "top": 0.07938219606876373,
+                    "right": 0.3647652268409729,
+                    "bottom": 0.10579395294189453
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3d535f79-4741-4738-85a6-215722609734'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">LOGISTICS DEPARTMENT</td><td id=\"0-3\" colspan=\"3\">ENVIRONMENTAL</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\"></td><td id=\"0-6\"></td><td id=\"0-7\" colspan=\"3\">PROTECTION</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\" colspan=\"3\">DEC 22 1990</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\" colspan=\"2\">gray rectangle</td><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\">text (illegible)</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\" colspan=\"2\">Calculator (text barely visible)</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\">white rectangle with a gray smudge</td></tr>\n<tr><td id=\"0-m\">December</td><td id=\"0-n\" colspan=\"2\">15, 1980</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">Image of a gray rectangle with dots</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\" colspan=\"2\">gray rectangle with text</td><td id=\"0-t\">A. L...</td><td id=\"0-u\"></td><td id=\"0-v\">Image of a gray rectangle with dots</td></tr>\n</table>",
+            "type": "table",
+            "id": "3d535f79-4741-4738-85a6-215722609734",
+            "grounding": {
+                "box": {
+                    "left": 0.4625123143196106,
+                    "top": 0.08689892292022705,
+                    "right": 0.9113456606864929,
+                    "bottom": 0.27459853887557983
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d786353e-c15f-4d60-b1f7-676b89b0e23a'></a>\n\nMr. V. W. Pink\nTechnology Division\nRoom 1505",
+            "type": "text",
+            "id": "d786353e-c15f-4d60-b1f7-676b89b0e23a",
+            "grounding": {
+                "box": {
+                    "left": 0.04752302169799805,
+                    "top": 0.3105282783508301,
+                    "right": 0.30286964774131775,
+                    "bottom": 0.3657330274581909
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a4d32cee-289f-4590-ab04-257b2630b399'></a>\n\nAttached for your attention is a copy of the Environmental\nQuality Committee report for October to December 10, 1980.",
+            "type": "text",
+            "id": "a4d32cee-289f-4590-ab04-257b2630b399",
+            "grounding": {
+                "box": {
+                    "left": 0.04951104521751404,
+                    "top": 0.37411436438560486,
+                    "right": 0.852509617805481,
+                    "bottom": 0.43177786469459534
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='01f8f64e-e269-40ea-b5d0-a3b1cd633969'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nT. A. Underwood\nA handwritten signature is placed above the typed name \"T. A. Underwood\", centrally located in the image.::>",
+            "type": "attestation",
+            "id": "01f8f64e-e269-40ea-b5d0-a3b1cd633969",
+            "grounding": {
+                "box": {
+                    "left": 0.4378393888473511,
+                    "top": 0.4743838310241699,
+                    "right": 0.6652048826217651,
+                    "bottom": 0.544802188873291
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dea3d03b-d778-4c55-9455-126186d5d522'></a>\n\nTAU:ys",
+            "type": "text",
+            "id": "dea3d03b-d778-4c55-9455-126186d5d522",
+            "grounding": {
+                "box": {
+                    "left": 0.04417739436030388,
+                    "top": 0.5690426230430603,
+                    "right": 0.1380055993795395,
+                    "bottom": 0.5911672711372375
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e892422c-c789-4899-9913-4585dfeef22a'></a>\n\nAtt.",
+            "type": "text",
+            "id": "e892422c-c789-4899-9913-4585dfeef22a",
+            "grounding": {
+                "box": {
+                    "left": 0.045823223888874054,
+                    "top": 0.6029253602027893,
+                    "right": 0.10538800805807114,
+                    "bottom": 0.621735155582428
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='abaaaa8a-5e7b-4016-a5d6-9363dade587f'></a>\n\nc.c. W. J. Keough\nJ. Walker\nH. W. Colquhoun",
+            "type": "text",
+            "id": "abaaaa8a-5e7b-4016-a5d6-9363dade587f",
+            "grounding": {
+                "box": {
+                    "left": 0.0437140017747879,
+                    "top": 0.6335740685462952,
+                    "right": 0.31442540884017944,
+                    "bottom": 0.6893700957298279
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='32858ebe-590e-4ffa-b0e0-a411ce69a6d4'></a>\n\nAttachment IV\n\n<a id='081e3a70-0f35-4148-a31a-c971d433173c'></a>\n\nMEMORANDUM\n\n<a id='3d535f79-4741-4738-85a6-215722609734'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">LOGISTICS DEPARTMENT</td><td id=\"0-3\" colspan=\"3\">ENVIRONMENTAL</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\"></td><td id=\"0-6\"></td><td id=\"0-7\" colspan=\"3\">PROTECTION</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\" colspan=\"3\">DEC 22 1990</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\" colspan=\"2\">gray rectangle</td><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\">text (illegible)</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\" colspan=\"2\">Calculator (text barely visible)</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\">white rectangle with a gray smudge</td></tr>\n<tr><td id=\"0-m\">December</td><td id=\"0-n\" colspan=\"2\">15, 1980</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">Image of a gray rectangle with dots</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\" colspan=\"2\">gray rectangle with text</td><td id=\"0-t\">A. L...</td><td id=\"0-u\"></td><td id=\"0-v\">Image of a gray rectangle with dots</td></tr>\n</table>\n\n<a id='d786353e-c15f-4d60-b1f7-676b89b0e23a'></a>\n\nMr. V. W. Pink\nTechnology Division\nRoom 1505\n\n<a id='a4d32cee-289f-4590-ab04-257b2630b399'></a>\n\nAttached for your attention is a copy of the Environmental\nQuality Committee report for October to December 10, 1980.\n\n<a id='01f8f64e-e269-40ea-b5d0-a3b1cd633969'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nT. A. Underwood\nA handwritten signature is placed above the typed name \"T. A. Underwood\", centrally located in the image.::>\n\n<a id='dea3d03b-d778-4c55-9455-126186d5d522'></a>\n\nTAU:ys\n\n<a id='e892422c-c789-4899-9913-4585dfeef22a'></a>\n\nAtt.\n\n<a id='abaaaa8a-5e7b-4016-a5d6-9363dade587f'></a>\n\nc.c. W. J. Keough\nJ. Walker\nH. W. Colquhoun",
+            "chunks": [
+                "32858ebe-590e-4ffa-b0e0-a411ce69a6d4",
+                "081e3a70-0f35-4148-a31a-c971d433173c",
+                "3d535f79-4741-4738-85a6-215722609734",
+                "d786353e-c15f-4d60-b1f7-676b89b0e23a",
+                "a4d32cee-289f-4590-ab04-257b2630b399",
+                "01f8f64e-e269-40ea-b5d0-a3b1cd633969",
+                "dea3d03b-d778-4c55-9455-126186d5d522",
+                "e892422c-c789-4899-9913-4585dfeef22a",
+                "abaaaa8a-5e7b-4016-a5d6-9363dade587f"
+            ]
+        }
+    ],
+    "grounding": {
+        "32858ebe-590e-4ffa-b0e0-a411ce69a6d4": {
+            "box": {
+                "left": 0.7283753752708435,
+                "top": 0.013853078708052635,
+                "right": 0.880241334438324,
+                "bottom": 0.041008442640304565
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "081e3a70-0f35-4148-a31a-c971d433173c": {
+            "box": {
+                "left": 0.04836876690387726,
+                "top": 0.07938219606876373,
+                "right": 0.3647652268409729,
+                "bottom": 0.10579395294189453
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3d535f79-4741-4738-85a6-215722609734": {
+            "box": {
+                "left": 0.4625123143196106,
+                "top": 0.08689892292022705,
+                "right": 0.9113456606864929,
+                "bottom": 0.27459853887557983
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.465189247423597,
+                "top": 0.08845182580385869,
+                "right": 0.9087654305344586,
+                "bottom": 0.27459083050278466
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.465189247423597,
+                "top": 0.08845182580385869,
+                "right": 0.7677824768657047,
+                "bottom": 0.1205202327087509
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.7082539016339737,
+                "top": 0.08845182580385869,
+                "right": 0.9083798459999812,
+                "bottom": 0.1205202327087509
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.465189247423597,
+                "top": 0.10528816362017857,
+                "right": 0.5776292418887436,
+                "bottom": 0.1205202327087509
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5776292418887436,
+                "top": 0.10528816362017857,
+                "right": 0.6330875634463062,
+                "bottom": 0.1205202327087509
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6330875634463062,
+                "top": 0.10528816362017857,
+                "right": 0.7082539016339737,
+                "bottom": 0.1205202327087509
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.7082539016339737,
+                "top": 0.10528816362017857,
+                "right": 0.9083798459999812,
+                "bottom": 0.17054596111073472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.465189247423597,
+                "top": 0.1205202327087509,
+                "right": 0.5776292418887436,
+                "bottom": 0.17054596111073472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5776292418887436,
+                "top": 0.1205202327087509,
+                "right": 0.6330875634463062,
+                "bottom": 0.17054596111073472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6330875634463062,
+                "top": 0.1205202327087509,
+                "right": 0.7082539016339737,
+                "bottom": 0.17054596111073472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7082539016339737,
+                "top": 0.1205202327087509,
+                "right": 0.9083798459999812,
+                "bottom": 0.20473014992984062
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.465189247423597,
+                "top": 0.17054596111073472,
+                "right": 0.5776292418887436,
+                "bottom": 0.20473014992984062
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5776292418887436,
+                "top": 0.17054596111073472,
+                "right": 0.7677824768657047,
+                "bottom": 0.23126393537849665
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.7082539016339737,
+                "top": 0.17054596111073472,
+                "right": 0.7677824768657047,
+                "bottom": 0.20473014992984062
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7677824768657047,
+                "top": 0.17054596111073472,
+                "right": 0.8134531230613291,
+                "bottom": 0.20473014992984062
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.8134531230613291,
+                "top": 0.17054596111073472,
+                "right": 0.9083798459999812,
+                "bottom": 0.20473014992984062
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.465189247423597,
+                "top": 0.20473014992984062,
+                "right": 0.5776292418887436,
+                "bottom": 0.23126393537849665
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.5776292418887436,
+                "top": 0.20473014992984062,
+                "right": 0.7677824768657047,
+                "bottom": 0.25175910016976033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.7082539016339737,
+                "top": 0.20473014992984062,
+                "right": 0.7677824768657047,
+                "bottom": 0.23126393537849665
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.7677824768657047,
+                "top": 0.20473014992984062,
+                "right": 0.8134531230613291,
+                "bottom": 0.23126393537849665
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.8134531230613291,
+                "top": 0.20473014992984062,
+                "right": 0.9083798459999812,
+                "bottom": 0.23126393537849665
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.465189247423597,
+                "top": 0.23126393537849665,
+                "right": 0.5776292418887436,
+                "bottom": 0.25175910016976033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.5776292418887436,
+                "top": 0.23126393537849665,
+                "right": 0.7677824768657047,
+                "bottom": 0.27459083050278466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7082539016339737,
+                "top": 0.23126393537849665,
+                "right": 0.7677824768657047,
+                "bottom": 0.25175910016976033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.7677824768657047,
+                "top": 0.23126393537849665,
+                "right": 0.8134531230613291,
+                "bottom": 0.25175910016976033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.8134531230613291,
+                "top": 0.23126393537849665,
+                "right": 0.9083798459999812,
+                "bottom": 0.25175910016976033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.465189247423597,
+                "top": 0.25175910016976033,
+                "right": 0.5776292418887436,
+                "bottom": 0.27459083050278466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.5776292418887436,
+                "top": 0.25175910016976033,
+                "right": 0.7677824768657047,
+                "bottom": 0.27459083050278466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.7082539016339737,
+                "top": 0.25175910016976033,
+                "right": 0.7677824768657047,
+                "bottom": 0.27459083050278466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.7677824768657047,
+                "top": 0.25175910016976033,
+                "right": 0.8134531230613291,
+                "bottom": 0.27459083050278466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.8134531230613291,
+                "top": 0.25175910016976033,
+                "right": 0.9083798459999812,
+                "bottom": 0.27459083050278466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "d786353e-c15f-4d60-b1f7-676b89b0e23a": {
+            "box": {
+                "left": 0.04752302169799805,
+                "top": 0.3105282783508301,
+                "right": 0.30286964774131775,
+                "bottom": 0.3657330274581909
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a4d32cee-289f-4590-ab04-257b2630b399": {
+            "box": {
+                "left": 0.04951104521751404,
+                "top": 0.37411436438560486,
+                "right": 0.852509617805481,
+                "bottom": 0.43177786469459534
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "01f8f64e-e269-40ea-b5d0-a3b1cd633969": {
+            "box": {
+                "left": 0.4378393888473511,
+                "top": 0.4743838310241699,
+                "right": 0.6652048826217651,
+                "bottom": 0.544802188873291
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "dea3d03b-d778-4c55-9455-126186d5d522": {
+            "box": {
+                "left": 0.04417739436030388,
+                "top": 0.5690426230430603,
+                "right": 0.1380055993795395,
+                "bottom": 0.5911672711372375
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e892422c-c789-4899-9913-4585dfeef22a": {
+            "box": {
+                "left": 0.045823223888874054,
+                "top": 0.6029253602027893,
+                "right": 0.10538800805807114,
+                "bottom": 0.621735155582428
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "abaaaa8a-5e7b-4016-a5d6-9363dade587f": {
+            "box": {
+                "left": 0.0437140017747879,
+                "top": 0.6335740685462952,
+                "right": 0.31442540884017944,
+                "bottom": 0.6893700957298279
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "zxgl0228_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9728,
+        "credit_usage": 3.0,
+        "job_id": "cz6fygqfw5lqoajs43kkhvthp",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='3011e3b7-9b1a-481e-861b-a882ca0233bd'></a>\n\n<::A black and white photograph shows a wine glass filled with red wine. The upper part of the glass is etched with two floral patterns, each resembling a stylized rose with a square center and radiating petals. The glass has a clear stem and a round base. A knife with a curved blade and a decorative handle is lying horizontally behind the base of the glass, partially visible.: figure::>\n\n<a id='4692f40d-1f05-483c-bbf9-853cc21baf78'></a>\n\n<::A silver serving tray with ornate, scrolled handles on each end. The tray has a scalloped edge and an engraved, swirling pattern covering its surface. The tray is rectangular with rounded, wavy sides.: figure::>\n\n<a id='08908dd2-949a-4d94-a6af-2f1b80a68fc5'></a>\n\n<::A two-panel image. The left panel shows a glass flask containing a dark liquid, placed in front of an old map of the world. The map shows \"AMERICA\" and \"TERRA NOVA\". The right panel shows a champagne bottle, labeled \"QUALITY\", chilling in an ice bucket filled with ice cubes. The ice bucket is white with a floral pattern and has two small handles.: figure::>\n\n<a id='f0e0c766-63f8-4742-9dd9-01178d5161b2'></a>\n\n16\n\n<a id='09ecc6a8-a6c7-4090-9176-279b8b82fad1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/njnp0227",
+    "chunks": [
+        {
+            "markdown": "<a id='3011e3b7-9b1a-481e-861b-a882ca0233bd'></a>\n\n<::A black and white photograph shows a wine glass filled with red wine. The upper part of the glass is etched with two floral patterns, each resembling a stylized rose with a square center and radiating petals. The glass has a clear stem and a round base. A knife with a curved blade and a decorative handle is lying horizontally behind the base of the glass, partially visible.: figure::>",
+            "type": "figure",
+            "id": "3011e3b7-9b1a-481e-861b-a882ca0233bd",
+            "grounding": {
+                "box": {
+                    "left": 0.011736318469047546,
+                    "top": 0.014665842056274414,
+                    "right": 0.36346638202667236,
+                    "bottom": 0.9520822167396545
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4692f40d-1f05-483c-bbf9-853cc21baf78'></a>\n\n<::A silver serving tray with ornate, scrolled handles on each end. The tray has a scalloped edge and an engraved, swirling pattern covering its surface. The tray is rectangular with rounded, wavy sides.: figure::>",
+            "type": "figure",
+            "id": "4692f40d-1f05-483c-bbf9-853cc21baf78",
+            "grounding": {
+                "box": {
+                    "left": 0.35913076996803284,
+                    "top": 0.026477649807929993,
+                    "right": 0.988517165184021,
+                    "bottom": 0.40800899267196655
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='08908dd2-949a-4d94-a6af-2f1b80a68fc5'></a>\n\n<::A two-panel image. The left panel shows a glass flask containing a dark liquid, placed in front of an old map of the world. The map shows \"AMERICA\" and \"TERRA NOVA\". The right panel shows a champagne bottle, labeled \"QUALITY\", chilling in an ice bucket filled with ice cubes. The ice bucket is white with a floral pattern and has two small handles.: figure::>",
+            "type": "figure",
+            "id": "08908dd2-949a-4d94-a6af-2f1b80a68fc5",
+            "grounding": {
+                "box": {
+                    "left": 0.35781022906303406,
+                    "top": 0.4135395586490631,
+                    "right": 0.9887267351150513,
+                    "bottom": 0.9583221673965454
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f0e0c766-63f8-4742-9dd9-01178d5161b2'></a>\n\n16",
+            "type": "marginalia",
+            "id": "f0e0c766-63f8-4742-9dd9-01178d5161b2",
+            "grounding": {
+                "box": {
+                    "left": 0.02183382958173752,
+                    "top": 0.9471024870872498,
+                    "right": 0.04422810673713684,
+                    "bottom": 0.9733498692512512
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='09ecc6a8-a6c7-4090-9176-279b8b82fad1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/njnp0227",
+            "type": "text",
+            "id": "09ecc6a8-a6c7-4090-9176-279b8b82fad1",
+            "grounding": {
+                "box": {
+                    "left": 0.22346964478492737,
+                    "top": 0.9598303437232971,
+                    "right": 0.7780476808547974,
+                    "bottom": 0.9940512776374817
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3011e3b7-9b1a-481e-861b-a882ca0233bd'></a>\n\n<::A black and white photograph shows a wine glass filled with red wine. The upper part of the glass is etched with two floral patterns, each resembling a stylized rose with a square center and radiating petals. The glass has a clear stem and a round base. A knife with a curved blade and a decorative handle is lying horizontally behind the base of the glass, partially visible.: figure::>\n\n<a id='4692f40d-1f05-483c-bbf9-853cc21baf78'></a>\n\n<::A silver serving tray with ornate, scrolled handles on each end. The tray has a scalloped edge and an engraved, swirling pattern covering its surface. The tray is rectangular with rounded, wavy sides.: figure::>\n\n<a id='08908dd2-949a-4d94-a6af-2f1b80a68fc5'></a>\n\n<::A two-panel image. The left panel shows a glass flask containing a dark liquid, placed in front of an old map of the world. The map shows \"AMERICA\" and \"TERRA NOVA\". The right panel shows a champagne bottle, labeled \"QUALITY\", chilling in an ice bucket filled with ice cubes. The ice bucket is white with a floral pattern and has two small handles.: figure::>\n\n<a id='f0e0c766-63f8-4742-9dd9-01178d5161b2'></a>\n\n16\n\n<a id='09ecc6a8-a6c7-4090-9176-279b8b82fad1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/njnp0227",
+            "chunks": [
+                "3011e3b7-9b1a-481e-861b-a882ca0233bd",
+                "4692f40d-1f05-483c-bbf9-853cc21baf78",
+                "08908dd2-949a-4d94-a6af-2f1b80a68fc5",
+                "f0e0c766-63f8-4742-9dd9-01178d5161b2",
+                "09ecc6a8-a6c7-4090-9176-279b8b82fad1"
+            ]
+        }
+    ],
+    "grounding": {
+        "3011e3b7-9b1a-481e-861b-a882ca0233bd": {
+            "box": {
+                "left": 0.011736318469047546,
+                "top": 0.014665842056274414,
+                "right": 0.36346638202667236,
+                "bottom": 0.9520822167396545
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "4692f40d-1f05-483c-bbf9-853cc21baf78": {
+            "box": {
+                "left": 0.35913076996803284,
+                "top": 0.026477649807929993,
+                "right": 0.988517165184021,
+                "bottom": 0.40800899267196655
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "08908dd2-949a-4d94-a6af-2f1b80a68fc5": {
+            "box": {
+                "left": 0.35781022906303406,
+                "top": 0.4135395586490631,
+                "right": 0.9887267351150513,
+                "bottom": 0.9583221673965454
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "f0e0c766-63f8-4742-9dd9-01178d5161b2": {
+            "box": {
+                "left": 0.02183382958173752,
+                "top": 0.9471024870872498,
+                "right": 0.04422810673713684,
+                "bottom": 0.9733498692512512
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "09ecc6a8-a6c7-4090-9176-279b8b82fad1": {
+            "box": {
+                "left": 0.22346964478492737,
+                "top": 0.9598303437232971,
+                "right": 0.7780476808547974,
+                "bottom": 0.9940512776374817
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "njnp0227_18.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6437,
+        "credit_usage": 3.0,
+        "job_id": "i778knwbn56jeygert1p53z5u",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,508 @@
+{
+    "markdown": "<a id='fc202154-02bf-45e1-86e8-6ae12126e189'></a>\n\nTABLE VI\n\n<a id='3068e7d5-c823-40fc-951d-d366a33e0b0b'></a>\n\nWhole Body Protein Synthesis in Human Beings\nat Various Ages\n\n<a id='71339b09-7952-4f0d-9673-b48bc0f700d8'></a>\n\n<table><thead><tr><th>Group</th><th>Age</th><th>Number<br>of Studies</th><th>Body Protein<br>Synthesis</th></tr></thead><tbody></tbody></table>\n\n<a id='9fd902bc-e6c2-4fc3-adc4-5adb68646b1f'></a>\n\n(g/kg body wt/day)\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Neonate</td><td id=\"0-3\">1-46 days</td><td id=\"0-4\">10</td><td id=\"0-5\">17.4 + 7.9</td></tr>\n<tr><td id=\"0-6\">Infant\u00b9</td><td id=\"0-7\">10-20 months</td><td id=\"0-8\">4</td><td id=\"0-9\">6.9 + 1.1</td></tr>\n<tr><td id=\"0-a\">Young Adult</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Male</td><td id=\"0-f\">20-25 years</td><td id=\"0-g\">4</td><td id=\"0-h\">3.3 \u00b1 0.3</td></tr>\n<tr><td id=\"0-i\">Female</td><td id=\"0-j\">18-23 years</td><td id=\"0-k\">4</td><td id=\"0-l\">2.6 + 0.2</td></tr>\n<tr><td id=\"0-m\">Elderly</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">Male</td><td id=\"0-r\">65-72 years</td><td id=\"0-s\">4</td><td id=\"0-t\">3.2 + 0.7</td></tr>\n<tr><td id=\"0-u\">Female</td><td id=\"0-v\">69-91 years</td><td id=\"0-w\">5</td><td id=\"0-x\">2.3 + 0.4</td></tr>\n</table>\n\n<a id='0a3d0832-95cb-48ba-8053-b66fc04ffc7d'></a>\n\n1 Taken from the data presented in a study by Picou and Taylor-\nRoberts (1969), other data were obtained in the authors'\nlaboratories, as described in the text.\n\n<a id='5718763c-d209-4ebc-ae05-3c8986c52a65'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lslw0227",
+    "chunks": [
+        {
+            "markdown": "<a id='fc202154-02bf-45e1-86e8-6ae12126e189'></a>\n\nTABLE VI",
+            "type": "text",
+            "id": "fc202154-02bf-45e1-86e8-6ae12126e189",
+            "grounding": {
+                "box": {
+                    "left": 0.4281019866466522,
+                    "top": 0.12447764724493027,
+                    "right": 0.5373849272727966,
+                    "bottom": 0.14417573809623718
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3068e7d5-c823-40fc-951d-d366a33e0b0b'></a>\n\nWhole Body Protein Synthesis in Human Beings\nat Various Ages",
+            "type": "text",
+            "id": "3068e7d5-c823-40fc-951d-d366a33e0b0b",
+            "grounding": {
+                "box": {
+                    "left": 0.224427729845047,
+                    "top": 0.15358906984329224,
+                    "right": 0.7394454479217529,
+                    "bottom": 0.19536331295967102
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='71339b09-7952-4f0d-9673-b48bc0f700d8'></a>\n\n<table><thead><tr><th>Group</th><th>Age</th><th>Number<br>of Studies</th><th>Body Protein<br>Synthesis</th></tr></thead><tbody></tbody></table>",
+            "type": "table",
+            "id": "71339b09-7952-4f0d-9673-b48bc0f700d8",
+            "grounding": {
+                "box": {
+                    "left": 0.13592281937599182,
+                    "top": 0.22027724981307983,
+                    "right": 0.8736237287521362,
+                    "bottom": 0.27765583992004395
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9fd902bc-e6c2-4fc3-adc4-5adb68646b1f'></a>\n\n(g/kg body wt/day)\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Neonate</td><td id=\"0-3\">1-46 days</td><td id=\"0-4\">10</td><td id=\"0-5\">17.4 + 7.9</td></tr>\n<tr><td id=\"0-6\">Infant\u00b9</td><td id=\"0-7\">10-20 months</td><td id=\"0-8\">4</td><td id=\"0-9\">6.9 + 1.1</td></tr>\n<tr><td id=\"0-a\">Young Adult</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Male</td><td id=\"0-f\">20-25 years</td><td id=\"0-g\">4</td><td id=\"0-h\">3.3 \u00b1 0.3</td></tr>\n<tr><td id=\"0-i\">Female</td><td id=\"0-j\">18-23 years</td><td id=\"0-k\">4</td><td id=\"0-l\">2.6 + 0.2</td></tr>\n<tr><td id=\"0-m\">Elderly</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">Male</td><td id=\"0-r\">65-72 years</td><td id=\"0-s\">4</td><td id=\"0-t\">3.2 + 0.7</td></tr>\n<tr><td id=\"0-u\">Female</td><td id=\"0-v\">69-91 years</td><td id=\"0-w\">5</td><td id=\"0-x\">2.3 + 0.4</td></tr>\n</table>",
+            "type": "table",
+            "id": "9fd902bc-e6c2-4fc3-adc4-5adb68646b1f",
+            "grounding": {
+                "box": {
+                    "left": 0.1338886022567749,
+                    "top": 0.28517985343933105,
+                    "right": 0.8810793161392212,
+                    "bottom": 0.5219935774803162
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0a3d0832-95cb-48ba-8053-b66fc04ffc7d'></a>\n\n1 Taken from the data presented in a study by Picou and Taylor-\nRoberts (1969), other data were obtained in the authors'\nlaboratories, as described in the text.",
+            "type": "text",
+            "id": "0a3d0832-95cb-48ba-8053-b66fc04ffc7d",
+            "grounding": {
+                "box": {
+                    "left": 0.13611021637916565,
+                    "top": 0.5367228388786316,
+                    "right": 0.8660823106765747,
+                    "bottom": 0.607096254825592
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5718763c-d209-4ebc-ae05-3c8986c52a65'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lslw0227",
+            "type": "text",
+            "id": "5718763c-d209-4ebc-ae05-3c8986c52a65",
+            "grounding": {
+                "box": {
+                    "left": 0.2300424873828888,
+                    "top": 0.9796831011772156,
+                    "right": 0.7719782590866089,
+                    "bottom": 0.999470055103302
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='fc202154-02bf-45e1-86e8-6ae12126e189'></a>\n\nTABLE VI\n\n<a id='3068e7d5-c823-40fc-951d-d366a33e0b0b'></a>\n\nWhole Body Protein Synthesis in Human Beings\nat Various Ages\n\n<a id='71339b09-7952-4f0d-9673-b48bc0f700d8'></a>\n\n<table><thead><tr><th>Group</th><th>Age</th><th>Number<br>of Studies</th><th>Body Protein<br>Synthesis</th></tr></thead><tbody></tbody></table>\n\n<a id='9fd902bc-e6c2-4fc3-adc4-5adb68646b1f'></a>\n\n(g/kg body wt/day)\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Neonate</td><td id=\"0-3\">1-46 days</td><td id=\"0-4\">10</td><td id=\"0-5\">17.4 + 7.9</td></tr>\n<tr><td id=\"0-6\">Infant\u00b9</td><td id=\"0-7\">10-20 months</td><td id=\"0-8\">4</td><td id=\"0-9\">6.9 + 1.1</td></tr>\n<tr><td id=\"0-a\">Young Adult</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Male</td><td id=\"0-f\">20-25 years</td><td id=\"0-g\">4</td><td id=\"0-h\">3.3 \u00b1 0.3</td></tr>\n<tr><td id=\"0-i\">Female</td><td id=\"0-j\">18-23 years</td><td id=\"0-k\">4</td><td id=\"0-l\">2.6 + 0.2</td></tr>\n<tr><td id=\"0-m\">Elderly</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">Male</td><td id=\"0-r\">65-72 years</td><td id=\"0-s\">4</td><td id=\"0-t\">3.2 + 0.7</td></tr>\n<tr><td id=\"0-u\">Female</td><td id=\"0-v\">69-91 years</td><td id=\"0-w\">5</td><td id=\"0-x\">2.3 + 0.4</td></tr>\n</table>\n\n<a id='0a3d0832-95cb-48ba-8053-b66fc04ffc7d'></a>\n\n1 Taken from the data presented in a study by Picou and Taylor-\nRoberts (1969), other data were obtained in the authors'\nlaboratories, as described in the text.\n\n<a id='5718763c-d209-4ebc-ae05-3c8986c52a65'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lslw0227",
+            "chunks": [
+                "fc202154-02bf-45e1-86e8-6ae12126e189",
+                "3068e7d5-c823-40fc-951d-d366a33e0b0b",
+                "71339b09-7952-4f0d-9673-b48bc0f700d8",
+                "9fd902bc-e6c2-4fc3-adc4-5adb68646b1f",
+                "0a3d0832-95cb-48ba-8053-b66fc04ffc7d",
+                "5718763c-d209-4ebc-ae05-3c8986c52a65"
+            ]
+        }
+    ],
+    "grounding": {
+        "fc202154-02bf-45e1-86e8-6ae12126e189": {
+            "box": {
+                "left": 0.4281019866466522,
+                "top": 0.12447764724493027,
+                "right": 0.5373849272727966,
+                "bottom": 0.14417573809623718
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3068e7d5-c823-40fc-951d-d366a33e0b0b": {
+            "box": {
+                "left": 0.224427729845047,
+                "top": 0.15358906984329224,
+                "right": 0.7394454479217529,
+                "bottom": 0.19536331295967102
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "71339b09-7952-4f0d-9673-b48bc0f700d8": {
+            "box": {
+                "left": 0.13592281937599182,
+                "top": 0.22027724981307983,
+                "right": 0.8736237287521362,
+                "bottom": 0.27765583992004395
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "9fd902bc-e6c2-4fc3-adc4-5adb68646b1f": {
+            "box": {
+                "left": 0.1338886022567749,
+                "top": 0.28517985343933105,
+                "right": 0.8810793161392212,
+                "bottom": 0.5219935774803162
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.1368487007473974,
+                "top": 0.31561796852478263,
+                "right": 0.876364464037664,
+                "bottom": 0.5196805341157393
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.1368487007473974,
+                "top": 0.31561796852478263,
+                "right": 0.27269854489708933,
+                "bottom": 0.3452158341096787
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.27269854489708933,
+                "top": 0.31561796852478263,
+                "right": 0.4819674598451158,
+                "bottom": 0.3452158341096787
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.4819674598451158,
+                "top": 0.31561796852478263,
+                "right": 0.6434615212200896,
+                "bottom": 0.3452158341096787
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6434615212200896,
+                "top": 0.31561796852478263,
+                "right": 0.8759968635876021,
+                "bottom": 0.3452158341096787
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.1368487007473974,
+                "top": 0.3452158341096787,
+                "right": 0.27269854489708933,
+                "bottom": 0.36820516517964563
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.27269854489708933,
+                "top": 0.3452158341096787,
+                "right": 0.4819674598451158,
+                "bottom": 0.36820516517964563
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.4819674598451158,
+                "top": 0.3452158341096787,
+                "right": 0.6434615212200896,
+                "bottom": 0.36820516517964563
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6434615212200896,
+                "top": 0.3452158341096787,
+                "right": 0.8759968635876021,
+                "bottom": 0.36820516517964563
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.1368487007473974,
+                "top": 0.36820516517964563,
+                "right": 0.27269854489708933,
+                "bottom": 0.3911740080398616
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.27269854489708933,
+                "top": 0.36820516517964563,
+                "right": 0.4819674598451158,
+                "bottom": 0.3911740080398616
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.4819674598451158,
+                "top": 0.36820516517964563,
+                "right": 0.6434615212200896,
+                "bottom": 0.3911740080398616
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6434615212200896,
+                "top": 0.36820516517964563,
+                "right": 0.8759968635876021,
+                "bottom": 0.3911740080398616
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.1368487007473974,
+                "top": 0.3911740080398616,
+                "right": 0.27269854489708933,
+                "bottom": 0.412222068885125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.27269854489708933,
+                "top": 0.3911740080398616,
+                "right": 0.4819674598451158,
+                "bottom": 0.412222068885125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.4819674598451158,
+                "top": 0.3911740080398616,
+                "right": 0.6434615212200896,
+                "bottom": 0.412222068885125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6434615212200896,
+                "top": 0.3911740080398616,
+                "right": 0.8759968635876021,
+                "bottom": 0.412222068885125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.1368487007473974,
+                "top": 0.412222068885125,
+                "right": 0.27269854489708933,
+                "bottom": 0.4346326697836176
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.27269854489708933,
+                "top": 0.412222068885125,
+                "right": 0.4819674598451158,
+                "bottom": 0.4346326697836176
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.4819674598451158,
+                "top": 0.412222068885125,
+                "right": 0.6434615212200896,
+                "bottom": 0.4346326697836176
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6434615212200896,
+                "top": 0.412222068885125,
+                "right": 0.8759968635876021,
+                "bottom": 0.4346326697836176
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.1368487007473974,
+                "top": 0.4346326697836176,
+                "right": 0.27269854489708933,
+                "bottom": 0.4577225928114146
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.27269854489708933,
+                "top": 0.4346326697836176,
+                "right": 0.4819674598451158,
+                "bottom": 0.4577225928114146
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.4819674598451158,
+                "top": 0.4346326697836176,
+                "right": 0.6434615212200896,
+                "bottom": 0.4577225928114146
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.6434615212200896,
+                "top": 0.4346326697836176,
+                "right": 0.8759968635876021,
+                "bottom": 0.4577225928114146
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.1368487007473974,
+                "top": 0.4577225928114146,
+                "right": 0.27269854489708933,
+                "bottom": 0.4789215310070247
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.27269854489708933,
+                "top": 0.4577225928114146,
+                "right": 0.4819674598451158,
+                "bottom": 0.4789215310070247
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.4819674598451158,
+                "top": 0.4577225928114146,
+                "right": 0.6434615212200896,
+                "bottom": 0.4789215310070247
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.6434615212200896,
+                "top": 0.4577225928114146,
+                "right": 0.8759968635876021,
+                "bottom": 0.4789215310070247
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.1368487007473974,
+                "top": 0.4789215310070247,
+                "right": 0.27269854489708933,
+                "bottom": 0.5196805341157393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.27269854489708933,
+                "top": 0.4789215310070247,
+                "right": 0.4819674598451158,
+                "bottom": 0.5196805341157393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.4819674598451158,
+                "top": 0.4789215310070247,
+                "right": 0.6434615212200896,
+                "bottom": 0.5196805341157393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.6434615212200896,
+                "top": 0.4789215310070247,
+                "right": 0.8759968635876021,
+                "bottom": 0.5196805341157393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0a3d0832-95cb-48ba-8053-b66fc04ffc7d": {
+            "box": {
+                "left": 0.13611021637916565,
+                "top": 0.5367228388786316,
+                "right": 0.8660823106765747,
+                "bottom": 0.607096254825592
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5718763c-d209-4ebc-ae05-3c8986c52a65": {
+            "box": {
+                "left": 0.2300424873828888,
+                "top": 0.9796831011772156,
+                "right": 0.7719782590866089,
+                "bottom": 0.999470055103302
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lslw0227_36.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5830,
+        "credit_usage": 3.0,
+        "job_id": "mct06h6l6johtpydjybp4bmhu",
+        "version": "dpt-2-20250919"
+    }
+}

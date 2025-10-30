@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='0f9274cb-92e7-4aab-9057-7c94ccee43fc'></a>\n\n<::Chart 7\nCarbon Intensity of World Primary Energy Supply\n\nThis line graph shows the carbon intensity of world primary energy supply from 1850 to 1990.\n\nY-axis: ton of C per toe, ranging from 0.5 to 1.2.\nX-axis: Years, from 1850 to 1990, with intervals of 20 years.\n\nThe line starts at approximately 1.09 ton of C per toe in 1850 and steadily decreases to about 0.7 ton of C per toe in 1990.\n\nLegend for Carbon Intensity of:\nwood = 1.25\ncoal = 1.08\noil = 0.84\ngas = 0.64\n: chart::>\n\n<a id='5aa0dcad-840e-4dcf-a6fc-6b06e474f92c'></a>\n\nsource: Global Energy Perspectives to 2050, WEC and IIASA, 1995\n\n<a id='74d73fa4-2b26-4b3c-9daa-b6a2ce40d33e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhfl0228",
+    "chunks": [
+        {
+            "markdown": "<a id='0f9274cb-92e7-4aab-9057-7c94ccee43fc'></a>\n\n<::Chart 7\nCarbon Intensity of World Primary Energy Supply\n\nThis line graph shows the carbon intensity of world primary energy supply from 1850 to 1990.\n\nY-axis: ton of C per toe, ranging from 0.5 to 1.2.\nX-axis: Years, from 1850 to 1990, with intervals of 20 years.\n\nThe line starts at approximately 1.09 ton of C per toe in 1850 and steadily decreases to about 0.7 ton of C per toe in 1990.\n\nLegend for Carbon Intensity of:\nwood = 1.25\ncoal = 1.08\noil = 0.84\ngas = 0.64\n: chart::>",
+            "type": "figure",
+            "id": "0f9274cb-92e7-4aab-9057-7c94ccee43fc",
+            "grounding": {
+                "box": {
+                    "left": 0.07625654339790344,
+                    "top": 0.061711788177490234,
+                    "right": 0.9556055068969727,
+                    "bottom": 0.8958715200424194
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5aa0dcad-840e-4dcf-a6fc-6b06e474f92c'></a>\n\nsource: Global Energy Perspectives to 2050, WEC and IIASA, 1995",
+            "type": "text",
+            "id": "5aa0dcad-840e-4dcf-a6fc-6b06e474f92c",
+            "grounding": {
+                "box": {
+                    "left": 0.05300970375537872,
+                    "top": 0.9169334173202515,
+                    "right": 0.41565418243408203,
+                    "bottom": 0.9474183320999146
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='74d73fa4-2b26-4b3c-9daa-b6a2ce40d33e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhfl0228",
+            "type": "marginalia",
+            "id": "74d73fa4-2b26-4b3c-9daa-b6a2ce40d33e",
+            "grounding": {
+                "box": {
+                    "left": 0.294467031955719,
+                    "top": 0.9680662751197815,
+                    "right": 0.704109251499176,
+                    "bottom": 1.0000091791152954
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='0f9274cb-92e7-4aab-9057-7c94ccee43fc'></a>\n\n<::Chart 7\nCarbon Intensity of World Primary Energy Supply\n\nThis line graph shows the carbon intensity of world primary energy supply from 1850 to 1990.\n\nY-axis: ton of C per toe, ranging from 0.5 to 1.2.\nX-axis: Years, from 1850 to 1990, with intervals of 20 years.\n\nThe line starts at approximately 1.09 ton of C per toe in 1850 and steadily decreases to about 0.7 ton of C per toe in 1990.\n\nLegend for Carbon Intensity of:\nwood = 1.25\ncoal = 1.08\noil = 0.84\ngas = 0.64\n: chart::>\n\n<a id='5aa0dcad-840e-4dcf-a6fc-6b06e474f92c'></a>\n\nsource: Global Energy Perspectives to 2050, WEC and IIASA, 1995\n\n<a id='74d73fa4-2b26-4b3c-9daa-b6a2ce40d33e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhfl0228",
+            "chunks": [
+                "0f9274cb-92e7-4aab-9057-7c94ccee43fc",
+                "5aa0dcad-840e-4dcf-a6fc-6b06e474f92c",
+                "74d73fa4-2b26-4b3c-9daa-b6a2ce40d33e"
+            ]
+        }
+    ],
+    "grounding": {
+        "0f9274cb-92e7-4aab-9057-7c94ccee43fc": {
+            "box": {
+                "left": 0.07625654339790344,
+                "top": 0.061711788177490234,
+                "right": 0.9556055068969727,
+                "bottom": 0.8958715200424194
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "5aa0dcad-840e-4dcf-a6fc-6b06e474f92c": {
+            "box": {
+                "left": 0.05300970375537872,
+                "top": 0.9169334173202515,
+                "right": 0.41565418243408203,
+                "bottom": 0.9474183320999146
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "74d73fa4-2b26-4b3c-9daa-b6a2ce40d33e": {
+            "box": {
+                "left": 0.294467031955719,
+                "top": 0.9680662751197815,
+                "right": 0.704109251499176,
+                "bottom": 1.0000091791152954
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xhfl0228_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8994,
+        "credit_usage": 3.0,
+        "job_id": "tp11tkhor7jvg527aovghvted",
+        "version": "dpt-2-20250919"
+    }
+}

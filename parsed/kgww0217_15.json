@@ -1,0 +1,593 @@
+{
+    "markdown": "<a id='c8dbad80-a506-4402-b5bc-3e74570e2ded'></a>\n\n<u>*Premarin\u00ae Publication Program*</u>\n\n<a id='11b9763e-36d4-4068-9ddc-a7dd810ad9ec'></a>\n\n15\n\n<a id='d4b234c1-fa0f-458c-98df-60675a1db46f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Clinical Therapeutics</td><td id=\"0-3\">6,000</td><td id=\"0-4\">Bi-monthly, non-p.r.</td></tr>\n<tr><td id=\"0-5\">Current Therapeutics Research</td><td id=\"0-6\">6,000</td><td id=\"0-7\">Monthly</td></tr>\n<tr><td id=\"0-8\">Today's Therapetic Trends</td><td id=\"0-9\">4,000</td><td id=\"0-a\">Qtrly, non-p.r.</td></tr>\n</table>\n\n<a id='408847f5-9df8-4d6e-9d9a-096b7b1dbdf3'></a>\n\n6.13 Other Health Care Professional Journals\n<table id=\"0-b\">\n<tr><td id=\"0-c\">Journal</td><td id=\"0-d\">Circulation</td><td id=\"0-e\">Comments</td></tr>\n<tr><td id=\"0-f\">Physician Assistant</td><td id=\"0-g\">18,000</td><td id=\"0-h\">Monthly</td></tr>\n<tr><td id=\"0-i\">Advance for Physician Assistants</td><td id=\"0-j\">27,500</td><td id=\"0-k\">Monthly</td></tr>\n<tr><td id=\"0-l\">Clinician Reviews</td><td id=\"0-m\">66,000</td><td id=\"0-n\">10 issues/year</td></tr>\n<tr><td id=\"0-o\">The Nurse Practitioner: American Journal of Primary Care</td><td id=\"0-p\">20,000</td><td id=\"0-q\">Monthly</td></tr>\n<tr><td id=\"0-r\">American Journal of Nursing</td><td id=\"0-s\">314,000</td><td id=\"0-t\">Monthly</td></tr>\n</table>\n\n<a id='1a9b1541-d12a-48ce-a79e-c1824822f8f9'></a>\n\n## 7. Types of Publications\nFollowing are some specific types of publications that can be prepared for the PREMARIN publication program.\n\n<a id='784b1d88-7664-4cd6-a721-74fe8cf8fe6d'></a>\n\n_Primary Papers_\n\nUpon receiving a complete list of clinical studies at the beginning of our work on the publications program, we would be in a position to make specific recommendations for primary publications, their timing and placement.\n\n<a id='42acd2f8-603d-4ee8-96c3-aba0a743bf7a'></a>\n\n**_Journal Supplements_**\n\nWe recommend that supplements be considered for the following key audiences;\n* The international community of OB/GYNs\n* Primary care physicians and internists\n* Consultant and clinical pharmacists\n\n<a id='bcd1e120-51a0-410a-bd12-92683cb3a625'></a>\n\nJournal supplements can be developed from CME/Convention spin-off activities.\n\n<a id='43254035-056f-4088-ac12-974cae45af9c'></a>\n\n*Review Articles*\n\nWe recommend that a number of full-length review articles (2500-3500 words) be published and that these reviews consist of two types:\n\n<a id='8e355ec2-47d4-46c7-bc0a-7a6858374e86'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kgww0217\n\n<a id='6d2178dc-5989-44d8-8e34-1f39438febdf'></a>\n\nDWRITE 065937",
+    "chunks": [
+        {
+            "markdown": "<a id='c8dbad80-a506-4402-b5bc-3e74570e2ded'></a>\n\n<u>*Premarin\u00ae Publication Program*</u>",
+            "type": "text",
+            "id": "c8dbad80-a506-4402-b5bc-3e74570e2ded",
+            "grounding": {
+                "box": {
+                    "left": 0.13798858225345612,
+                    "top": 0.0652598962187767,
+                    "right": 0.4070320725440979,
+                    "bottom": 0.0913001075387001
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='11b9763e-36d4-4068-9ddc-a7dd810ad9ec'></a>\n\n15",
+            "type": "marginalia",
+            "id": "11b9763e-36d4-4068-9ddc-a7dd810ad9ec",
+            "grounding": {
+                "box": {
+                    "left": 0.80849289894104,
+                    "top": 0.06705915927886963,
+                    "right": 0.8392173051834106,
+                    "bottom": 0.08651639521121979
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d4b234c1-fa0f-458c-98df-60675a1db46f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Clinical Therapeutics</td><td id=\"0-3\">6,000</td><td id=\"0-4\">Bi-monthly, non-p.r.</td></tr>\n<tr><td id=\"0-5\">Current Therapeutics Research</td><td id=\"0-6\">6,000</td><td id=\"0-7\">Monthly</td></tr>\n<tr><td id=\"0-8\">Today's Therapetic Trends</td><td id=\"0-9\">4,000</td><td id=\"0-a\">Qtrly, non-p.r.</td></tr>\n</table>",
+            "type": "table",
+            "id": "d4b234c1-fa0f-458c-98df-60675a1db46f",
+            "grounding": {
+                "box": {
+                    "left": 0.1376161277294159,
+                    "top": 0.10669835656881332,
+                    "right": 0.8262408971786499,
+                    "bottom": 0.17514580488204956
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='408847f5-9df8-4d6e-9d9a-096b7b1dbdf3'></a>\n\n6.13 Other Health Care Professional Journals\n<table id=\"0-b\">\n<tr><td id=\"0-c\">Journal</td><td id=\"0-d\">Circulation</td><td id=\"0-e\">Comments</td></tr>\n<tr><td id=\"0-f\">Physician Assistant</td><td id=\"0-g\">18,000</td><td id=\"0-h\">Monthly</td></tr>\n<tr><td id=\"0-i\">Advance for Physician Assistants</td><td id=\"0-j\">27,500</td><td id=\"0-k\">Monthly</td></tr>\n<tr><td id=\"0-l\">Clinician Reviews</td><td id=\"0-m\">66,000</td><td id=\"0-n\">10 issues/year</td></tr>\n<tr><td id=\"0-o\">The Nurse Practitioner: American Journal of Primary Care</td><td id=\"0-p\">20,000</td><td id=\"0-q\">Monthly</td></tr>\n<tr><td id=\"0-r\">American Journal of Nursing</td><td id=\"0-s\">314,000</td><td id=\"0-t\">Monthly</td></tr>\n</table>",
+            "type": "table",
+            "id": "408847f5-9df8-4d6e-9d9a-096b7b1dbdf3",
+            "grounding": {
+                "box": {
+                    "left": 0.1373145580291748,
+                    "top": 0.21712392568588257,
+                    "right": 0.8258184194564819,
+                    "bottom": 0.3866307735443115
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1a9b1541-d12a-48ce-a79e-c1824822f8f9'></a>\n\n## 7. Types of Publications\nFollowing are some specific types of publications that can be prepared for the PREMARIN publication program.",
+            "type": "text",
+            "id": "1a9b1541-d12a-48ce-a79e-c1824822f8f9",
+            "grounding": {
+                "box": {
+                    "left": 0.1374877393245697,
+                    "top": 0.4123684763908386,
+                    "right": 0.7482563257217407,
+                    "bottom": 0.4871414303779602
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='784b1d88-7664-4cd6-a721-74fe8cf8fe6d'></a>\n\n_Primary Papers_\n\nUpon receiving a complete list of clinical studies at the beginning of our work on the publications program, we would be in a position to make specific recommendations for primary publications, their timing and placement.",
+            "type": "text",
+            "id": "784b1d88-7664-4cd6-a721-74fe8cf8fe6d",
+            "grounding": {
+                "box": {
+                    "left": 0.13775622844696045,
+                    "top": 0.49918901920318604,
+                    "right": 0.818771243095398,
+                    "bottom": 0.5901302099227905
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='42acd2f8-603d-4ee8-96c3-aba0a743bf7a'></a>\n\n**_Journal Supplements_**\n\nWe recommend that supplements be considered for the following key audiences;\n* The international community of OB/GYNs\n* Primary care physicians and internists\n* Consultant and clinical pharmacists",
+            "type": "text",
+            "id": "42acd2f8-603d-4ee8-96c3-aba0a743bf7a",
+            "grounding": {
+                "box": {
+                    "left": 0.13697847723960876,
+                    "top": 0.6005427837371826,
+                    "right": 0.7694683074951172,
+                    "bottom": 0.7117464542388916
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bcd1e120-51a0-410a-bd12-92683cb3a625'></a>\n\nJournal supplements can be developed from CME/Convention spin-off activities.",
+            "type": "text",
+            "id": "bcd1e120-51a0-410a-bd12-92683cb3a625",
+            "grounding": {
+                "box": {
+                    "left": 0.1376446783542633,
+                    "top": 0.7223265171051025,
+                    "right": 0.7720805406570435,
+                    "bottom": 0.7459143400192261
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='43254035-056f-4088-ac12-974cae45af9c'></a>\n\n*Review Articles*\n\nWe recommend that a number of full-length review articles (2500-3500 words) be published and that these reviews consist of two types:",
+            "type": "text",
+            "id": "43254035-056f-4088-ac12-974cae45af9c",
+            "grounding": {
+                "box": {
+                    "left": 0.1382848620414734,
+                    "top": 0.8442999124526978,
+                    "right": 0.7810897827148438,
+                    "bottom": 0.9176429510116577
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8e355ec2-47d4-46c7-bc0a-7a6858374e86'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kgww0217",
+            "type": "marginalia",
+            "id": "8e355ec2-47d4-46c7-bc0a-7a6858374e86",
+            "grounding": {
+                "box": {
+                    "left": 0.4065130650997162,
+                    "top": 0.9908901453018188,
+                    "right": 0.5960720777511597,
+                    "bottom": 1.0001413822174072
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6d2178dc-5989-44d8-8e34-1f39438febdf'></a>\n\nDWRITE 065937",
+            "type": "marginalia",
+            "id": "6d2178dc-5989-44d8-8e34-1f39438febdf",
+            "grounding": {
+                "box": {
+                    "left": 0.84074467420578,
+                    "top": 0.9721016883850098,
+                    "right": 0.9739170670509338,
+                    "bottom": 0.9915024042129517
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c8dbad80-a506-4402-b5bc-3e74570e2ded'></a>\n\n<u>*Premarin\u00ae Publication Program*</u>\n\n<a id='11b9763e-36d4-4068-9ddc-a7dd810ad9ec'></a>\n\n15\n\n<a id='d4b234c1-fa0f-458c-98df-60675a1db46f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Clinical Therapeutics</td><td id=\"0-3\">6,000</td><td id=\"0-4\">Bi-monthly, non-p.r.</td></tr>\n<tr><td id=\"0-5\">Current Therapeutics Research</td><td id=\"0-6\">6,000</td><td id=\"0-7\">Monthly</td></tr>\n<tr><td id=\"0-8\">Today's Therapetic Trends</td><td id=\"0-9\">4,000</td><td id=\"0-a\">Qtrly, non-p.r.</td></tr>\n</table>\n\n<a id='408847f5-9df8-4d6e-9d9a-096b7b1dbdf3'></a>\n\n6.13 Other Health Care Professional Journals\n<table id=\"0-b\">\n<tr><td id=\"0-c\">Journal</td><td id=\"0-d\">Circulation</td><td id=\"0-e\">Comments</td></tr>\n<tr><td id=\"0-f\">Physician Assistant</td><td id=\"0-g\">18,000</td><td id=\"0-h\">Monthly</td></tr>\n<tr><td id=\"0-i\">Advance for Physician Assistants</td><td id=\"0-j\">27,500</td><td id=\"0-k\">Monthly</td></tr>\n<tr><td id=\"0-l\">Clinician Reviews</td><td id=\"0-m\">66,000</td><td id=\"0-n\">10 issues/year</td></tr>\n<tr><td id=\"0-o\">The Nurse Practitioner: American Journal of Primary Care</td><td id=\"0-p\">20,000</td><td id=\"0-q\">Monthly</td></tr>\n<tr><td id=\"0-r\">American Journal of Nursing</td><td id=\"0-s\">314,000</td><td id=\"0-t\">Monthly</td></tr>\n</table>\n\n<a id='1a9b1541-d12a-48ce-a79e-c1824822f8f9'></a>\n\n## 7. Types of Publications\nFollowing are some specific types of publications that can be prepared for the PREMARIN publication program.\n\n<a id='784b1d88-7664-4cd6-a721-74fe8cf8fe6d'></a>\n\n_Primary Papers_\n\nUpon receiving a complete list of clinical studies at the beginning of our work on the publications program, we would be in a position to make specific recommendations for primary publications, their timing and placement.\n\n<a id='42acd2f8-603d-4ee8-96c3-aba0a743bf7a'></a>\n\n**_Journal Supplements_**\n\nWe recommend that supplements be considered for the following key audiences;\n* The international community of OB/GYNs\n* Primary care physicians and internists\n* Consultant and clinical pharmacists\n\n<a id='bcd1e120-51a0-410a-bd12-92683cb3a625'></a>\n\nJournal supplements can be developed from CME/Convention spin-off activities.\n\n<a id='43254035-056f-4088-ac12-974cae45af9c'></a>\n\n*Review Articles*\n\nWe recommend that a number of full-length review articles (2500-3500 words) be published and that these reviews consist of two types:\n\n<a id='8e355ec2-47d4-46c7-bc0a-7a6858374e86'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kgww0217\n\n<a id='6d2178dc-5989-44d8-8e34-1f39438febdf'></a>\n\nDWRITE 065937",
+            "chunks": [
+                "c8dbad80-a506-4402-b5bc-3e74570e2ded",
+                "11b9763e-36d4-4068-9ddc-a7dd810ad9ec",
+                "d4b234c1-fa0f-458c-98df-60675a1db46f",
+                "408847f5-9df8-4d6e-9d9a-096b7b1dbdf3",
+                "1a9b1541-d12a-48ce-a79e-c1824822f8f9",
+                "784b1d88-7664-4cd6-a721-74fe8cf8fe6d",
+                "42acd2f8-603d-4ee8-96c3-aba0a743bf7a",
+                "bcd1e120-51a0-410a-bd12-92683cb3a625",
+                "43254035-056f-4088-ac12-974cae45af9c",
+                "8e355ec2-47d4-46c7-bc0a-7a6858374e86",
+                "6d2178dc-5989-44d8-8e34-1f39438febdf"
+            ]
+        }
+    ],
+    "grounding": {
+        "c8dbad80-a506-4402-b5bc-3e74570e2ded": {
+            "box": {
+                "left": 0.13798858225345612,
+                "top": 0.0652598962187767,
+                "right": 0.4070320725440979,
+                "bottom": 0.0913001075387001
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "11b9763e-36d4-4068-9ddc-a7dd810ad9ec": {
+            "box": {
+                "left": 0.80849289894104,
+                "top": 0.06705915927886963,
+                "right": 0.8392173051834106,
+                "bottom": 0.08651639521121979
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "d4b234c1-fa0f-458c-98df-60675a1db46f": {
+            "box": {
+                "left": 0.1376161277294159,
+                "top": 0.10669835656881332,
+                "right": 0.8262408971786499,
+                "bottom": 0.17514580488204956
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.14443299022461112,
+                "top": 0.11372710953311937,
+                "right": 0.8188323964842255,
+                "bottom": 0.16852497338499095
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.14443299022461112,
+                "top": 0.11372710953311937,
+                "right": 0.509278840459789,
+                "bottom": 0.1319017170654322
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.509278840459789,
+                "top": 0.11372710953311937,
+                "right": 0.639914658417883,
+                "bottom": 0.1319017170654322
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.639914658417883,
+                "top": 0.11372710953311937,
+                "right": 0.8187638919874001,
+                "bottom": 0.1319017170654322
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.14443299022461112,
+                "top": 0.1319017170654322,
+                "right": 0.509278840459789,
+                "bottom": 0.15011680015308837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.509278840459789,
+                "top": 0.1319017170654322,
+                "right": 0.639914658417883,
+                "bottom": 0.15011680015308837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.639914658417883,
+                "top": 0.1319017170654322,
+                "right": 0.8187638919874001,
+                "bottom": 0.15011680015308837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.14443299022461112,
+                "top": 0.15011680015308837,
+                "right": 0.509278840459789,
+                "bottom": 0.16852497338499095
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.509278840459789,
+                "top": 0.15011680015308837,
+                "right": 0.639914658417883,
+                "bottom": 0.16852497338499095
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.639914658417883,
+                "top": 0.15011680015308837,
+                "right": 0.8187638919874001,
+                "bottom": 0.16852497338499095
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "408847f5-9df8-4d6e-9d9a-096b7b1dbdf3": {
+            "box": {
+                "left": 0.1373145580291748,
+                "top": 0.21712392568588257,
+                "right": 0.8258184194564819,
+                "bottom": 0.3866307735443115
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.1450765817146482,
+                "top": 0.25443120593882096,
+                "right": 0.8189268213237995,
+                "bottom": 0.37967638417890015
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.1450765817146482,
+                "top": 0.25443120593882096,
+                "right": 0.5092588269817568,
+                "bottom": 0.27259049576621663
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5092588269817568,
+                "top": 0.25443120593882096,
+                "right": 0.6400767750649408,
+                "bottom": 0.27259049576621663
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.6400767750649408,
+                "top": 0.25443120593882096,
+                "right": 0.8187573753058288,
+                "bottom": 0.27259049576621663
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.1450765817146482,
+                "top": 0.27259049576621663,
+                "right": 0.5092588269817568,
+                "bottom": 0.2907925254822299
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5092588269817568,
+                "top": 0.27259049576621663,
+                "right": 0.6400767750649408,
+                "bottom": 0.2907925254822299
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6400767750649408,
+                "top": 0.27259049576621663,
+                "right": 0.8187573753058288,
+                "bottom": 0.2907925254822299
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.1450765817146482,
+                "top": 0.2907925254822299,
+                "right": 0.5092588269817568,
+                "bottom": 0.30902834095264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5092588269817568,
+                "top": 0.2907925254822299,
+                "right": 0.6400767750649408,
+                "bottom": 0.30902834095264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6400767750649408,
+                "top": 0.2907925254822299,
+                "right": 0.8187573753058288,
+                "bottom": 0.30902834095264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.1450765817146482,
+                "top": 0.30902834095264,
+                "right": 0.5092588269817568,
+                "bottom": 0.32685848994049493
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5092588269817568,
+                "top": 0.30902834095264,
+                "right": 0.6400767750649408,
+                "bottom": 0.32685848994049493
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.6400767750649408,
+                "top": 0.30902834095264,
+                "right": 0.8187573753058288,
+                "bottom": 0.32685848994049493
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.1450765817146482,
+                "top": 0.32685848994049493,
+                "right": 0.5092588269817568,
+                "bottom": 0.36186801811164315
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5092588269817568,
+                "top": 0.32685848994049493,
+                "right": 0.6400767750649408,
+                "bottom": 0.36186801811164315
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.6400767750649408,
+                "top": 0.32685848994049493,
+                "right": 0.8187573753058288,
+                "bottom": 0.36186801811164315
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.1450765817146482,
+                "top": 0.36186801811164315,
+                "right": 0.5092588269817568,
+                "bottom": 0.37967638417890015
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.5092588269817568,
+                "top": 0.36186801811164315,
+                "right": 0.6400767750649408,
+                "bottom": 0.37967638417890015
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.6400767750649408,
+                "top": 0.36186801811164315,
+                "right": 0.8187573753058288,
+                "bottom": 0.37967638417890015
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "1a9b1541-d12a-48ce-a79e-c1824822f8f9": {
+            "box": {
+                "left": 0.1374877393245697,
+                "top": 0.4123684763908386,
+                "right": 0.7482563257217407,
+                "bottom": 0.4871414303779602
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "784b1d88-7664-4cd6-a721-74fe8cf8fe6d": {
+            "box": {
+                "left": 0.13775622844696045,
+                "top": 0.49918901920318604,
+                "right": 0.818771243095398,
+                "bottom": 0.5901302099227905
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "42acd2f8-603d-4ee8-96c3-aba0a743bf7a": {
+            "box": {
+                "left": 0.13697847723960876,
+                "top": 0.6005427837371826,
+                "right": 0.7694683074951172,
+                "bottom": 0.7117464542388916
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bcd1e120-51a0-410a-bd12-92683cb3a625": {
+            "box": {
+                "left": 0.1376446783542633,
+                "top": 0.7223265171051025,
+                "right": 0.7720805406570435,
+                "bottom": 0.7459143400192261
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "43254035-056f-4088-ac12-974cae45af9c": {
+            "box": {
+                "left": 0.1382848620414734,
+                "top": 0.8442999124526978,
+                "right": 0.7810897827148438,
+                "bottom": 0.9176429510116577
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8e355ec2-47d4-46c7-bc0a-7a6858374e86": {
+            "box": {
+                "left": 0.4065130650997162,
+                "top": 0.9908901453018188,
+                "right": 0.5960720777511597,
+                "bottom": 1.0001413822174072
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "6d2178dc-5989-44d8-8e34-1f39438febdf": {
+            "box": {
+                "left": 0.84074467420578,
+                "top": 0.9721016883850098,
+                "right": 0.9739170670509338,
+                "bottom": 0.9915024042129517
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "kgww0217_15.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10609,
+        "credit_usage": 3.0,
+        "job_id": "twfm344ksggj6r0nzwpzo567o",
+        "version": "dpt-2-20250919"
+    }
+}

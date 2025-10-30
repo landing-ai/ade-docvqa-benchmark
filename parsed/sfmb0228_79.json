@@ -1,0 +1,333 @@
+{
+    "markdown": "<a id='56d251d1-52ae-4d65-9092-114ff7191e27'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DEC.</td><td id=\"0-3\">NOV.</td><td id=\"0-4\">OCT.</td><td id=\"0-5\">SEPT.</td><td id=\"0-6\">AUG.</td><td id=\"0-7\">JULY</td><td id=\"0-8\">JUNE</td><td id=\"0-9\">MAY</td><td id=\"0-a\">APRIL</td><td id=\"0-b\">MARCH (with dark smudge)</td><td id=\"0-c\">FEB.</td><td id=\"0-d\">JAN.</td></tr>\n</table>\n\n<a id='8a73cea9-1d48-4177-8e19-de8c77cacdb2'></a>\n\nVANDERBILT UNIVERSITY - LIVING ENDOWMENT PLEDGE\n\nOn behalf of Vanderbilt University we gratefully acknowledge your pledge in the amount of $6.00 for the Frank R. Blood Memorial Fund payable: through payroll deductions at $1.00 per month beginning March, 1971\n\n<a id='404e68bf-cf39-4392-ac2d-f2431b7ada4c'></a>\n\n<::logo: Vanderbilt Medical Center\nMiss Peggy Ann Garrett\nGeneral Clinical Lab\nVanderbilt Medical Center\nThe text is rendered in a monospace, typewriter-style font, appearing in dark gray on a light gray background.::>\n\n<a id='0b7a864e-5204-4254-bf83-af850e252e02'></a>\n\nFebruary 22, 1971 w\nGIFTS MADE TO VANDERBILT UNIVERSITY CONSTITUTE A DEDUCTION UNDER INCOME TAX LAWS.\n\n<a id='0dd03455-46ff-428f-a009-2c46fc4ae90a'></a>\n\nE - MEDICAL CENTER DEVELOPMENT COPY\n\n<a id='3913d7c2-7515-494f-babd-986bec8e19d7'></a>\n\nNo. 9018\n\n<a id='dabc495f-ac1c-48e6-bbe3-6bf56a042be2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/sfmb0228",
+    "chunks": [
+        {
+            "markdown": "<a id='56d251d1-52ae-4d65-9092-114ff7191e27'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DEC.</td><td id=\"0-3\">NOV.</td><td id=\"0-4\">OCT.</td><td id=\"0-5\">SEPT.</td><td id=\"0-6\">AUG.</td><td id=\"0-7\">JULY</td><td id=\"0-8\">JUNE</td><td id=\"0-9\">MAY</td><td id=\"0-a\">APRIL</td><td id=\"0-b\">MARCH (with dark smudge)</td><td id=\"0-c\">FEB.</td><td id=\"0-d\">JAN.</td></tr>\n</table>",
+            "type": "table",
+            "id": "56d251d1-52ae-4d65-9092-114ff7191e27",
+            "grounding": {
+                "box": {
+                    "left": 0.04641449451446533,
+                    "top": 0.0247238390147686,
+                    "right": 0.9410709738731384,
+                    "bottom": 0.09261023998260498
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8a73cea9-1d48-4177-8e19-de8c77cacdb2'></a>\n\nVANDERBILT UNIVERSITY - LIVING ENDOWMENT PLEDGE\n\nOn behalf of Vanderbilt University we gratefully acknowledge your pledge in the amount of $6.00 for the Frank R. Blood Memorial Fund payable: through payroll deductions at $1.00 per month beginning March, 1971",
+            "type": "text",
+            "id": "8a73cea9-1d48-4177-8e19-de8c77cacdb2",
+            "grounding": {
+                "box": {
+                    "left": 0.08383023738861084,
+                    "top": 0.10637321323156357,
+                    "right": 0.8983294367790222,
+                    "bottom": 0.3496086001396179
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='404e68bf-cf39-4392-ac2d-f2431b7ada4c'></a>\n\n<::logo: Vanderbilt Medical Center\nMiss Peggy Ann Garrett\nGeneral Clinical Lab\nVanderbilt Medical Center\nThe text is rendered in a monospace, typewriter-style font, appearing in dark gray on a light gray background.::>",
+            "type": "logo",
+            "id": "404e68bf-cf39-4392-ac2d-f2431b7ada4c",
+            "grounding": {
+                "box": {
+                    "left": 0.1353035867214203,
+                    "top": 0.5047289133071899,
+                    "right": 0.5160987377166748,
+                    "bottom": 0.647570013999939
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0b7a864e-5204-4254-bf83-af850e252e02'></a>\n\nFebruary 22, 1971 w\nGIFTS MADE TO VANDERBILT UNIVERSITY CONSTITUTE A DEDUCTION UNDER INCOME TAX LAWS.",
+            "type": "text",
+            "id": "0b7a864e-5204-4254-bf83-af850e252e02",
+            "grounding": {
+                "box": {
+                    "left": 0.0775606632232666,
+                    "top": 0.6914569735527039,
+                    "right": 0.9084227681159973,
+                    "bottom": 0.7774503827095032
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0dd03455-46ff-428f-a009-2c46fc4ae90a'></a>\n\nE - MEDICAL CENTER DEVELOPMENT COPY",
+            "type": "text",
+            "id": "0dd03455-46ff-428f-a009-2c46fc4ae90a",
+            "grounding": {
+                "box": {
+                    "left": 0.08605867624282837,
+                    "top": 0.9046180844306946,
+                    "right": 0.5706443190574646,
+                    "bottom": 0.953462541103363
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3913d7c2-7515-494f-babd-986bec8e19d7'></a>\n\nNo. 9018",
+            "type": "text",
+            "id": "3913d7c2-7515-494f-babd-986bec8e19d7",
+            "grounding": {
+                "box": {
+                    "left": 0.6931647062301636,
+                    "top": 0.8995403051376343,
+                    "right": 0.8990734815597534,
+                    "bottom": 0.958899736404419
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dabc495f-ac1c-48e6-bbe3-6bf56a042be2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/sfmb0228",
+            "type": "text",
+            "id": "dabc495f-ac1c-48e6-bbe3-6bf56a042be2",
+            "grounding": {
+                "box": {
+                    "left": 0.09163132309913635,
+                    "top": 0.9506431221961975,
+                    "right": 0.9084491729736328,
+                    "bottom": 0.9891560673713684
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='56d251d1-52ae-4d65-9092-114ff7191e27'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DEC.</td><td id=\"0-3\">NOV.</td><td id=\"0-4\">OCT.</td><td id=\"0-5\">SEPT.</td><td id=\"0-6\">AUG.</td><td id=\"0-7\">JULY</td><td id=\"0-8\">JUNE</td><td id=\"0-9\">MAY</td><td id=\"0-a\">APRIL</td><td id=\"0-b\">MARCH (with dark smudge)</td><td id=\"0-c\">FEB.</td><td id=\"0-d\">JAN.</td></tr>\n</table>\n\n<a id='8a73cea9-1d48-4177-8e19-de8c77cacdb2'></a>\n\nVANDERBILT UNIVERSITY - LIVING ENDOWMENT PLEDGE\n\nOn behalf of Vanderbilt University we gratefully acknowledge your pledge in the amount of $6.00 for the Frank R. Blood Memorial Fund payable: through payroll deductions at $1.00 per month beginning March, 1971\n\n<a id='404e68bf-cf39-4392-ac2d-f2431b7ada4c'></a>\n\n<::logo: Vanderbilt Medical Center\nMiss Peggy Ann Garrett\nGeneral Clinical Lab\nVanderbilt Medical Center\nThe text is rendered in a monospace, typewriter-style font, appearing in dark gray on a light gray background.::>\n\n<a id='0b7a864e-5204-4254-bf83-af850e252e02'></a>\n\nFebruary 22, 1971 w\nGIFTS MADE TO VANDERBILT UNIVERSITY CONSTITUTE A DEDUCTION UNDER INCOME TAX LAWS.\n\n<a id='0dd03455-46ff-428f-a009-2c46fc4ae90a'></a>\n\nE - MEDICAL CENTER DEVELOPMENT COPY\n\n<a id='3913d7c2-7515-494f-babd-986bec8e19d7'></a>\n\nNo. 9018\n\n<a id='dabc495f-ac1c-48e6-bbe3-6bf56a042be2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/sfmb0228",
+            "chunks": [
+                "56d251d1-52ae-4d65-9092-114ff7191e27",
+                "8a73cea9-1d48-4177-8e19-de8c77cacdb2",
+                "404e68bf-cf39-4392-ac2d-f2431b7ada4c",
+                "0b7a864e-5204-4254-bf83-af850e252e02",
+                "0dd03455-46ff-428f-a009-2c46fc4ae90a",
+                "3913d7c2-7515-494f-babd-986bec8e19d7",
+                "dabc495f-ac1c-48e6-bbe3-6bf56a042be2"
+            ]
+        }
+    ],
+    "grounding": {
+        "56d251d1-52ae-4d65-9092-114ff7191e27": {
+            "box": {
+                "left": 0.04641449451446533,
+                "top": 0.0247238390147686,
+                "right": 0.9410709738731384,
+                "bottom": 0.09261023998260498
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.9344443513917646,
+                "top": 0.08537427484801086,
+                "right": 0.05327585872948884,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.12816981680251605,
+                "top": 0.08537427484801086,
+                "right": 0.05400388634836989,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.2024885394992184,
+                "top": 0.08537427484801086,
+                "right": 0.12816981680251605,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.27561949929430973,
+                "top": 0.08537427484801086,
+                "right": 0.2024885394992184,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.3499614719882107,
+                "top": 0.08537427484801086,
+                "right": 0.27561949929430973,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.4222734159702881,
+                "top": 0.08537427484801086,
+                "right": 0.3499614719882107,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.49385482477662634,
+                "top": 0.08537427484801086,
+                "right": 0.4222734159702881,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5677961616243046,
+                "top": 0.08537427484801086,
+                "right": 0.49385482477662634,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6398754189945102,
+                "top": 0.08537427484801086,
+                "right": 0.5677961616243046,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.7132558229969312,
+                "top": 0.08537427484801086,
+                "right": 0.6398754189945102,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7861350722432228,
+                "top": 0.08537427484801086,
+                "right": 0.7132558229969312,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.859566988854116,
+                "top": 0.08537427484801086,
+                "right": 0.7861350722432228,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.9344443513917646,
+                "top": 0.08537427484801086,
+                "right": 0.859566988854116,
+                "bottom": 0.036826400718497354
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "8a73cea9-1d48-4177-8e19-de8c77cacdb2": {
+            "box": {
+                "left": 0.08383023738861084,
+                "top": 0.10637321323156357,
+                "right": 0.8983294367790222,
+                "bottom": 0.3496086001396179
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "404e68bf-cf39-4392-ac2d-f2431b7ada4c": {
+            "box": {
+                "left": 0.1353035867214203,
+                "top": 0.5047289133071899,
+                "right": 0.5160987377166748,
+                "bottom": 0.647570013999939
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "0b7a864e-5204-4254-bf83-af850e252e02": {
+            "box": {
+                "left": 0.0775606632232666,
+                "top": 0.6914569735527039,
+                "right": 0.9084227681159973,
+                "bottom": 0.7774503827095032
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0dd03455-46ff-428f-a009-2c46fc4ae90a": {
+            "box": {
+                "left": 0.08605867624282837,
+                "top": 0.9046180844306946,
+                "right": 0.5706443190574646,
+                "bottom": 0.953462541103363
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3913d7c2-7515-494f-babd-986bec8e19d7": {
+            "box": {
+                "left": 0.6931647062301636,
+                "top": 0.8995403051376343,
+                "right": 0.8990734815597534,
+                "bottom": 0.958899736404419
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dabc495f-ac1c-48e6-bbe3-6bf56a042be2": {
+            "box": {
+                "left": 0.09163132309913635,
+                "top": 0.9506431221961975,
+                "right": 0.9084491729736328,
+                "bottom": 0.9891560673713684
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "sfmb0228_79.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6984,
+        "credit_usage": 3.0,
+        "job_id": "qmdyn2w6o0qva0xfmzufykytp",
+        "version": "dpt-2-20250919"
+    }
+}

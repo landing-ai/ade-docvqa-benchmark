@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='32125b70-70ea-4f03-8a08-83a975efd328'></a>\n\n<::Total Platform Unit Growth\n: bar chart\n- vs. 01: 144%\n- vs. 02: 44%\n- vs. 03: 33%\n- vs. 04: 14%::>\n\n<a id='06a7f593-a583-45d9-87ee-f1b8115886d2'></a>\n\nDM\n\n<a id='1f0f2ee3-4b76-411c-a974-4e637bdfa271'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER. rydocuments.ucsf.edu/docs/rmwn0226\n\n<a id='0966be7b-8126-4175-b9ba-aeba4807af2f'></a>\n\nP-09686-00052\nDEPUY023041972",
+    "chunks": [
+        {
+            "markdown": "<a id='32125b70-70ea-4f03-8a08-83a975efd328'></a>\n\n<::Total Platform Unit Growth\n: bar chart\n- vs. 01: 144%\n- vs. 02: 44%\n- vs. 03: 33%\n- vs. 04: 14%::>",
+            "type": "figure",
+            "id": "32125b70-70ea-4f03-8a08-83a975efd328",
+            "grounding": {
+                "box": {
+                    "left": 0.06565141677856445,
+                    "top": 0.11366817355155945,
+                    "right": 0.9319178462028503,
+                    "bottom": 0.8619842529296875
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='06a7f593-a583-45d9-87ee-f1b8115886d2'></a>\n\nDM",
+            "type": "marginalia",
+            "id": "06a7f593-a583-45d9-87ee-f1b8115886d2",
+            "grounding": {
+                "box": {
+                    "left": 0.4853079617023468,
+                    "top": 0.9568219184875488,
+                    "right": 0.5116069316864014,
+                    "bottom": 0.9747940301895142
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1f0f2ee3-4b76-411c-a974-4e637bdfa271'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER. rydocuments.ucsf.edu/docs/rmwn0226",
+            "type": "marginalia",
+            "id": "1f0f2ee3-4b76-411c-a974-4e637bdfa271",
+            "grounding": {
+                "box": {
+                    "left": 0.019911080598831177,
+                    "top": 0.9753854870796204,
+                    "right": 0.7251228094100952,
+                    "bottom": 0.9993167519569397
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0966be7b-8126-4175-b9ba-aeba4807af2f'></a>\n\nP-09686-00052\nDEPUY023041972",
+            "type": "marginalia",
+            "id": "0966be7b-8126-4175-b9ba-aeba4807af2f",
+            "grounding": {
+                "box": {
+                    "left": 0.8703112006187439,
+                    "top": 0.9494368433952332,
+                    "right": 0.9798639416694641,
+                    "bottom": 0.999256432056427
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='32125b70-70ea-4f03-8a08-83a975efd328'></a>\n\n<::Total Platform Unit Growth\n: bar chart\n- vs. 01: 144%\n- vs. 02: 44%\n- vs. 03: 33%\n- vs. 04: 14%::>\n\n<a id='06a7f593-a583-45d9-87ee-f1b8115886d2'></a>\n\nDM\n\n<a id='1f0f2ee3-4b76-411c-a974-4e637bdfa271'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER. rydocuments.ucsf.edu/docs/rmwn0226\n\n<a id='0966be7b-8126-4175-b9ba-aeba4807af2f'></a>\n\nP-09686-00052\nDEPUY023041972",
+            "chunks": [
+                "32125b70-70ea-4f03-8a08-83a975efd328",
+                "06a7f593-a583-45d9-87ee-f1b8115886d2",
+                "1f0f2ee3-4b76-411c-a974-4e637bdfa271",
+                "0966be7b-8126-4175-b9ba-aeba4807af2f"
+            ]
+        }
+    ],
+    "grounding": {
+        "32125b70-70ea-4f03-8a08-83a975efd328": {
+            "box": {
+                "left": 0.06565141677856445,
+                "top": 0.11366817355155945,
+                "right": 0.9319178462028503,
+                "bottom": 0.8619842529296875
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "06a7f593-a583-45d9-87ee-f1b8115886d2": {
+            "box": {
+                "left": 0.4853079617023468,
+                "top": 0.9568219184875488,
+                "right": 0.5116069316864014,
+                "bottom": 0.9747940301895142
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "1f0f2ee3-4b76-411c-a974-4e637bdfa271": {
+            "box": {
+                "left": 0.019911080598831177,
+                "top": 0.9753854870796204,
+                "right": 0.7251228094100952,
+                "bottom": 0.9993167519569397
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "0966be7b-8126-4175-b9ba-aeba4807af2f": {
+            "box": {
+                "left": 0.8703112006187439,
+                "top": 0.9494368433952332,
+                "right": 0.9798639416694641,
+                "bottom": 0.999256432056427
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "rmwn0226_52.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6225,
+        "credit_usage": 3.0,
+        "job_id": "rrsy11j68jt3ldflwp42x0l69",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,383 @@
+{
+    "markdown": "<a id='6ef5d59a-9d8b-447a-89a9-1b7776017778'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">22</td><td id=\"0-3\">Walsh, 1998</td><td id=\"0-4\">23363</td></tr>\n<tr><td id=\"0-5\">23</td><td id=\"0-6\">Ceballos, 2000</td><td id=\"0-7\">18325</td></tr>\n<tr><td id=\"0-8\">24</td><td id=\"0-9\">Koh, 1999</td><td id=\"0-a\">13993</td></tr>\n<tr><td id=\"0-b\">25</td><td id=\"0-c\">Rossell\u0131, 1995</td><td id=\"0-d\">15128</td></tr>\n<tr><td id=\"0-e\">26</td><td id=\"0-f\">Van Baal, 1999</td><td id=\"0-g\">16501</td></tr>\n<tr><td id=\"0-h\">27</td><td id=\"0-i\">Sorensen, 1998</td><td id=\"0-j\">Circulation 97:1234-1238; no rm#</td></tr>\n<tr><td id=\"0-k\">28</td><td id=\"0-l\">Herrington, 1999</td><td id=\"0-m\">J Am Coll Cardiol 33:2030-2037; cant read #</td></tr>\n<tr><td id=\"0-n\">29</td><td id=\"0-o\">Hayashi, 1995</td><td id=\"0-p\">Biochem Biophys Res Commun 214: 847.</td></tr>\n<tr><td id=\"0-q\">30.</td><td id=\"0-r\">Duckles, 1996</td><td id=\"0-s\">J Pharmacol Exp Ther 1996:297. Effects of gonadal steroids...</td></tr>\n</table>\n\n<a id='2de6fb0a-a52e-4e35-bb47-dd2b50631f44'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217\n\n<a id='f60c2878-536c-48b1-bf7e-c7ebedeacbb3'></a>\n\nDWRITE 067872",
+    "chunks": [
+        {
+            "markdown": "<a id='6ef5d59a-9d8b-447a-89a9-1b7776017778'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">22</td><td id=\"0-3\">Walsh, 1998</td><td id=\"0-4\">23363</td></tr>\n<tr><td id=\"0-5\">23</td><td id=\"0-6\">Ceballos, 2000</td><td id=\"0-7\">18325</td></tr>\n<tr><td id=\"0-8\">24</td><td id=\"0-9\">Koh, 1999</td><td id=\"0-a\">13993</td></tr>\n<tr><td id=\"0-b\">25</td><td id=\"0-c\">Rossell\u0131, 1995</td><td id=\"0-d\">15128</td></tr>\n<tr><td id=\"0-e\">26</td><td id=\"0-f\">Van Baal, 1999</td><td id=\"0-g\">16501</td></tr>\n<tr><td id=\"0-h\">27</td><td id=\"0-i\">Sorensen, 1998</td><td id=\"0-j\">Circulation 97:1234-1238; no rm#</td></tr>\n<tr><td id=\"0-k\">28</td><td id=\"0-l\">Herrington, 1999</td><td id=\"0-m\">J Am Coll Cardiol 33:2030-2037; cant read #</td></tr>\n<tr><td id=\"0-n\">29</td><td id=\"0-o\">Hayashi, 1995</td><td id=\"0-p\">Biochem Biophys Res Commun 214: 847.</td></tr>\n<tr><td id=\"0-q\">30.</td><td id=\"0-r\">Duckles, 1996</td><td id=\"0-s\">J Pharmacol Exp Ther 1996:297. Effects of gonadal steroids...</td></tr>\n</table>",
+            "type": "table",
+            "id": "6ef5d59a-9d8b-447a-89a9-1b7776017778",
+            "grounding": {
+                "box": {
+                    "left": 0.17435994744300842,
+                    "top": 0.29539501667022705,
+                    "right": 0.8033105134963989,
+                    "bottom": 0.6883742213249207
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2de6fb0a-a52e-4e35-bb47-dd2b50631f44'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217",
+            "type": "marginalia",
+            "id": "2de6fb0a-a52e-4e35-bb47-dd2b50631f44",
+            "grounding": {
+                "box": {
+                    "left": 0.21377509832382202,
+                    "top": 0.9771603941917419,
+                    "right": 0.7873216271400452,
+                    "bottom": 0.9997448325157166
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f60c2878-536c-48b1-bf7e-c7ebedeacbb3'></a>\n\nDWRITE 067872",
+            "type": "marginalia",
+            "id": "f60c2878-536c-48b1-bf7e-c7ebedeacbb3",
+            "grounding": {
+                "box": {
+                    "left": 0.8376259803771973,
+                    "top": 0.9723533987998962,
+                    "right": 0.9718762636184692,
+                    "bottom": 0.9918085932731628
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6ef5d59a-9d8b-447a-89a9-1b7776017778'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">22</td><td id=\"0-3\">Walsh, 1998</td><td id=\"0-4\">23363</td></tr>\n<tr><td id=\"0-5\">23</td><td id=\"0-6\">Ceballos, 2000</td><td id=\"0-7\">18325</td></tr>\n<tr><td id=\"0-8\">24</td><td id=\"0-9\">Koh, 1999</td><td id=\"0-a\">13993</td></tr>\n<tr><td id=\"0-b\">25</td><td id=\"0-c\">Rossell\u0131, 1995</td><td id=\"0-d\">15128</td></tr>\n<tr><td id=\"0-e\">26</td><td id=\"0-f\">Van Baal, 1999</td><td id=\"0-g\">16501</td></tr>\n<tr><td id=\"0-h\">27</td><td id=\"0-i\">Sorensen, 1998</td><td id=\"0-j\">Circulation 97:1234-1238; no rm#</td></tr>\n<tr><td id=\"0-k\">28</td><td id=\"0-l\">Herrington, 1999</td><td id=\"0-m\">J Am Coll Cardiol 33:2030-2037; cant read #</td></tr>\n<tr><td id=\"0-n\">29</td><td id=\"0-o\">Hayashi, 1995</td><td id=\"0-p\">Biochem Biophys Res Commun 214: 847.</td></tr>\n<tr><td id=\"0-q\">30.</td><td id=\"0-r\">Duckles, 1996</td><td id=\"0-s\">J Pharmacol Exp Ther 1996:297. Effects of gonadal steroids...</td></tr>\n</table>\n\n<a id='2de6fb0a-a52e-4e35-bb47-dd2b50631f44'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217\n\n<a id='f60c2878-536c-48b1-bf7e-c7ebedeacbb3'></a>\n\nDWRITE 067872",
+            "chunks": [
+                "6ef5d59a-9d8b-447a-89a9-1b7776017778",
+                "2de6fb0a-a52e-4e35-bb47-dd2b50631f44",
+                "f60c2878-536c-48b1-bf7e-c7ebedeacbb3"
+            ]
+        }
+    ],
+    "grounding": {
+        "6ef5d59a-9d8b-447a-89a9-1b7776017778": {
+            "box": {
+                "left": 0.17435994744300842,
+                "top": 0.29539501667022705,
+                "right": 0.8033105134963989,
+                "bottom": 0.6883742213249207
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.18257220184679815,
+                "top": 0.3014976083855752,
+                "right": 0.7957027351246371,
+                "bottom": 0.6823676453622802
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.18257220184679815,
+                "top": 0.3014976083855752,
+                "right": 0.24137491180119164,
+                "bottom": 0.336207997456214
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.24137491180119164,
+                "top": 0.3014976083855752,
+                "right": 0.44832283687952934,
+                "bottom": 0.336207997456214
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.44832283687952934,
+                "top": 0.3014976083855752,
+                "right": 0.7933329449829056,
+                "bottom": 0.336207997456214
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.18257220184679815,
+                "top": 0.336207997456214,
+                "right": 0.24137491180119164,
+                "bottom": 0.3710409761108613
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.24137491180119164,
+                "top": 0.336207997456214,
+                "right": 0.44832283687952934,
+                "bottom": 0.3710409761108613
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.44832283687952934,
+                "top": 0.336207997456214,
+                "right": 0.7933329449829056,
+                "bottom": 0.3710409761108613
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.18257220184679815,
+                "top": 0.3710409761108613,
+                "right": 0.24137491180119164,
+                "bottom": 0.40587545679012926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.24137491180119164,
+                "top": 0.3710409761108613,
+                "right": 0.44832283687952934,
+                "bottom": 0.40587545679012926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.44832283687952934,
+                "top": 0.3710409761108613,
+                "right": 0.7933329449829056,
+                "bottom": 0.40587545679012926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.18257220184679815,
+                "top": 0.40587545679012926,
+                "right": 0.24137491180119164,
+                "bottom": 0.44082529178909624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.24137491180119164,
+                "top": 0.40587545679012926,
+                "right": 0.44832283687952934,
+                "bottom": 0.44082529178909624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.44832283687952934,
+                "top": 0.40587545679012926,
+                "right": 0.7933329449829056,
+                "bottom": 0.44082529178909624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.18257220184679815,
+                "top": 0.44082529178909624,
+                "right": 0.24137491180119164,
+                "bottom": 0.475860692416747
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.24137491180119164,
+                "top": 0.44082529178909624,
+                "right": 0.44832283687952934,
+                "bottom": 0.475860692416747
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.44832283687952934,
+                "top": 0.44082529178909624,
+                "right": 0.7933329449829056,
+                "bottom": 0.475860692416747
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.18257220184679815,
+                "top": 0.475860692416747,
+                "right": 0.24137491180119164,
+                "bottom": 0.5108399237650154
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.24137491180119164,
+                "top": 0.475860692416747,
+                "right": 0.44832283687952934,
+                "bottom": 0.5108399237650154
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.44832283687952934,
+                "top": 0.475860692416747,
+                "right": 0.7933329449829056,
+                "bottom": 0.5108399237650154
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.18257220184679815,
+                "top": 0.5108399237650154,
+                "right": 0.24137491180119164,
+                "bottom": 0.5792463294885941
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.24137491180119164,
+                "top": 0.5108399237650154,
+                "right": 0.44832283687952934,
+                "bottom": 0.5792463294885941
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.44832283687952934,
+                "top": 0.5108399237650154,
+                "right": 0.7933329449829056,
+                "bottom": 0.5792463294885941
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.18257220184679815,
+                "top": 0.5792463294885941,
+                "right": 0.24137491180119164,
+                "bottom": 0.6140661529841367
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.24137491180119164,
+                "top": 0.5792463294885941,
+                "right": 0.44832283687952934,
+                "bottom": 0.6140661529841367
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.44832283687952934,
+                "top": 0.5792463294885941,
+                "right": 0.7933329449829056,
+                "bottom": 0.6140661529841367
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.18257220184679815,
+                "top": 0.6140661529841367,
+                "right": 0.24137491180119164,
+                "bottom": 0.6823676453622802
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.24137491180119164,
+                "top": 0.6140661529841367,
+                "right": 0.44832283687952934,
+                "bottom": 0.6823676453622802
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.44832283687952934,
+                "top": 0.6140661529841367,
+                "right": 0.7933329449829056,
+                "bottom": 0.6823676453622802
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "2de6fb0a-a52e-4e35-bb47-dd2b50631f44": {
+            "box": {
+                "left": 0.21377509832382202,
+                "top": 0.9771603941917419,
+                "right": 0.7873216271400452,
+                "bottom": 0.9997448325157166
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "f60c2878-536c-48b1-bf7e-c7ebedeacbb3": {
+            "box": {
+                "left": 0.8376259803771973,
+                "top": 0.9723533987998962,
+                "right": 0.9718762636184692,
+                "bottom": 0.9918085932731628
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yscw0217_61.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5221,
+        "credit_usage": 3.0,
+        "job_id": "wp6q15avbfjhvzhopl1m9jpp4",
+        "version": "dpt-2-20250919"
+    }
+}

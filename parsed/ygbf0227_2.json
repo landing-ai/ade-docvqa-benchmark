@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='927f0ed1-2506-4b5e-ad98-1d576d045d99'></a>\n\nROBERT E. SHANK, M.D. Active\n4566 Scott Avenue (63110)\n454-2467\nHOME: 1325 Wilton Lane (63122)\nM.D.: Washington University\n1914 MO. LICENSE: 1939\nINTERNAL MEDICINE (PREVENTIVE)\nHOSPITAL: Barnes\nFACULTY: Washington University\n\n<a id='e04da9b2-1a1b-4078-bca5-e3354ead2919'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ygbf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='927f0ed1-2506-4b5e-ad98-1d576d045d99'></a>\n\nROBERT E. SHANK, M.D. Active\n4566 Scott Avenue (63110)\n454-2467\nHOME: 1325 Wilton Lane (63122)\nM.D.: Washington University\n1914 MO. LICENSE: 1939\nINTERNAL MEDICINE (PREVENTIVE)\nHOSPITAL: Barnes\nFACULTY: Washington University",
+            "type": "card",
+            "id": "927f0ed1-2506-4b5e-ad98-1d576d045d99",
+            "grounding": {
+                "box": {
+                    "left": 0.09829697012901306,
+                    "top": 0.11040395498275757,
+                    "right": 0.9279659986495972,
+                    "bottom": 0.8460510969161987
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e04da9b2-1a1b-4078-bca5-e3354ead2919'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ygbf0227",
+            "type": "text",
+            "id": "e04da9b2-1a1b-4078-bca5-e3354ead2919",
+            "grounding": {
+                "box": {
+                    "left": 0.08598560094833374,
+                    "top": 0.8935912847518921,
+                    "right": 0.914081871509552,
+                    "bottom": 0.9765753746032715
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='927f0ed1-2506-4b5e-ad98-1d576d045d99'></a>\n\nROBERT E. SHANK, M.D. Active\n4566 Scott Avenue (63110)\n454-2467\nHOME: 1325 Wilton Lane (63122)\nM.D.: Washington University\n1914 MO. LICENSE: 1939\nINTERNAL MEDICINE (PREVENTIVE)\nHOSPITAL: Barnes\nFACULTY: Washington University\n\n<a id='e04da9b2-1a1b-4078-bca5-e3354ead2919'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ygbf0227",
+            "chunks": [
+                "927f0ed1-2506-4b5e-ad98-1d576d045d99",
+                "e04da9b2-1a1b-4078-bca5-e3354ead2919"
+            ]
+        }
+    ],
+    "grounding": {
+        "927f0ed1-2506-4b5e-ad98-1d576d045d99": {
+            "box": {
+                "left": 0.09829697012901306,
+                "top": 0.11040395498275757,
+                "right": 0.9279659986495972,
+                "bottom": 0.8460510969161987
+            },
+            "page": 0,
+            "type": "chunkCard"
+        },
+        "e04da9b2-1a1b-4078-bca5-e3354ead2919": {
+            "box": {
+                "left": 0.08598560094833374,
+                "top": 0.8935912847518921,
+                "right": 0.914081871509552,
+                "bottom": 0.9765753746032715
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "ygbf0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3306,
+        "credit_usage": 3.0,
+        "job_id": "dlr61zxz3hkbhw3e5fjf8sq4y",
+        "version": "dpt-2-20250919"
+    }
+}

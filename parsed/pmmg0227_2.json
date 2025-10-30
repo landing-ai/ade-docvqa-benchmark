@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='5c55e788-3695-47b4-8610-4382ee5a1708'></a>\n\nVC176011\n\n<a id='56eb34f6-f477-4efb-9ca5-18b4f230da12'></a>\n\nDAVID P. WOHL JR. MEMORIAL\n\n<a id='21b2702f-92b5-4f01-a987-10855870edb9'></a>\n\n<::A black and white photograph of a tall, multi-story brick building, viewed from a low angle looking up. The building has a prominent vertical strip of lighter material with square dark windows running up its center, and multiple rows of rectangular windows on its right side. The base of the building features a lighter colored section with smaller windows and an entrance, with some landscaping and benches visible in the foreground.: figure::>\n\n<a id='d0673af3-35e4-4145-8eae-dc5481c56a7b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pmmg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='5c55e788-3695-47b4-8610-4382ee5a1708'></a>\n\nVC176011",
+            "type": "text",
+            "id": "5c55e788-3695-47b4-8610-4382ee5a1708",
+            "grounding": {
+                "box": {
+                    "left": 0.7988647222518921,
+                    "top": 0.055602364242076874,
+                    "right": 0.9179619550704956,
+                    "bottom": 0.09990818053483963
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='56eb34f6-f477-4efb-9ca5-18b4f230da12'></a>\n\nDAVID P. WOHL JR. MEMORIAL",
+            "type": "marginalia",
+            "id": "56eb34f6-f477-4efb-9ca5-18b4f230da12",
+            "grounding": {
+                "box": {
+                    "left": 0.8024169206619263,
+                    "top": 0.2763153612613678,
+                    "right": 0.9427121877670288,
+                    "bottom": 0.2904678285121918
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='21b2702f-92b5-4f01-a987-10855870edb9'></a>\n\n<::A black and white photograph of a tall, multi-story brick building, viewed from a low angle looking up. The building has a prominent vertical strip of lighter material with square dark windows running up its center, and multiple rows of rectangular windows on its right side. The base of the building features a lighter colored section with smaller windows and an entrance, with some landscaping and benches visible in the foreground.: figure::>",
+            "type": "figure",
+            "id": "21b2702f-92b5-4f01-a987-10855870edb9",
+            "grounding": {
+                "box": {
+                    "left": 0.12742021679878235,
+                    "top": 0.04837179183959961,
+                    "right": 0.7814254760742188,
+                    "bottom": 0.6894980072975159
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d0673af3-35e4-4145-8eae-dc5481c56a7b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pmmg0227",
+            "type": "marginalia",
+            "id": "d0673af3-35e4-4145-8eae-dc5481c56a7b",
+            "grounding": {
+                "box": {
+                    "left": 0.22286909818649292,
+                    "top": 0.978602409362793,
+                    "right": 0.7785962224006653,
+                    "bottom": 0.9996663331985474
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='5c55e788-3695-47b4-8610-4382ee5a1708'></a>\n\nVC176011\n\n<a id='56eb34f6-f477-4efb-9ca5-18b4f230da12'></a>\n\nDAVID P. WOHL JR. MEMORIAL\n\n<a id='21b2702f-92b5-4f01-a987-10855870edb9'></a>\n\n<::A black and white photograph of a tall, multi-story brick building, viewed from a low angle looking up. The building has a prominent vertical strip of lighter material with square dark windows running up its center, and multiple rows of rectangular windows on its right side. The base of the building features a lighter colored section with smaller windows and an entrance, with some landscaping and benches visible in the foreground.: figure::>\n\n<a id='d0673af3-35e4-4145-8eae-dc5481c56a7b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pmmg0227",
+            "chunks": [
+                "5c55e788-3695-47b4-8610-4382ee5a1708",
+                "56eb34f6-f477-4efb-9ca5-18b4f230da12",
+                "21b2702f-92b5-4f01-a987-10855870edb9",
+                "d0673af3-35e4-4145-8eae-dc5481c56a7b"
+            ]
+        }
+    ],
+    "grounding": {
+        "5c55e788-3695-47b4-8610-4382ee5a1708": {
+            "box": {
+                "left": 0.7988647222518921,
+                "top": 0.055602364242076874,
+                "right": 0.9179619550704956,
+                "bottom": 0.09990818053483963
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "56eb34f6-f477-4efb-9ca5-18b4f230da12": {
+            "box": {
+                "left": 0.8024169206619263,
+                "top": 0.2763153612613678,
+                "right": 0.9427121877670288,
+                "bottom": 0.2904678285121918
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "21b2702f-92b5-4f01-a987-10855870edb9": {
+            "box": {
+                "left": 0.12742021679878235,
+                "top": 0.04837179183959961,
+                "right": 0.7814254760742188,
+                "bottom": 0.6894980072975159
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "d0673af3-35e4-4145-8eae-dc5481c56a7b": {
+            "box": {
+                "left": 0.22286909818649292,
+                "top": 0.978602409362793,
+                "right": 0.7785962224006653,
+                "bottom": 0.9996663331985474
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "pmmg0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6518,
+        "credit_usage": 3.0,
+        "job_id": "ymzhj5c4qvkaklmcnijlo1jox",
+        "version": "dpt-2-20250919"
+    }
+}

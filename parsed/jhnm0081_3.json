@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='7548c751-30c4-4148-ac18-9015440ae423'></a>\n\n<::advertisement featuring: Large, stylized, angled text \"SMOOTH\" on the left. An illustration on the top right shows a hand holding a lit cigar and a glass with a drink, with the stylized text \"Smooth character\" integrated into the illustration. The text \"Foolproof dating advice\" is centered below the large \"SMOOTH\". Below that is the stylized, angled text \"SMOOTH MOVE #325\". Fragmented text \"imp a\" is on the bottom right.: advertisement::>\n\n<a id='96d8c18d-e8cc-4fe1-aa2b-28b1835a4b9f'></a>\n\n1. Never date a woman named Dave.\n2. Never date a woman who has\n12 older brothers.\n3. Never date a woman whose\nfather is called \"Captain.\"\n4. Always break the ice\nby offering her a Camel.\n\n< 1989 R. J. REYNOLDS TOBACCO CO.\n\n<::An illustration depicts a woman in a black dress standing in the center, surrounded by a group of men. In the foreground, a man with sunglasses and a cigarette in his mouth is prominently featured, looking towards the right.: illustration::>\n\nSURGEON GENERAL'S WARNING: Cigarette\nSmoke Contains Carbon Monoxide.\n\n<a id='7a8d7b84-1502-405e-8c3d-6e843244cd24'></a>\n\n1. Run into the\nto the shore, as\nThe more she!\n2. If you're over\na towel with ve\n3. If you're und\na towel with ho\n4. Always have\nready when th\nparty begins.\n\n<a id='a5a0723a-5b32-4de3-8979-70cf3db1d179'></a>\n\n51359 4334\n\nLOOK FOR MORE\nSMOOTH MOVES\nCOMING YOUR\nWAY SOON.\n\n<a id='f5ab0816-817c-4957-acf9-72adacee4aa4'></a>\n\n",
+    "chunks": [
+        {
+            "markdown": "<a id='7548c751-30c4-4148-ac18-9015440ae423'></a>\n\n<::advertisement featuring: Large, stylized, angled text \"SMOOTH\" on the left. An illustration on the top right shows a hand holding a lit cigar and a glass with a drink, with the stylized text \"Smooth character\" integrated into the illustration. The text \"Foolproof dating advice\" is centered below the large \"SMOOTH\". Below that is the stylized, angled text \"SMOOTH MOVE #325\". Fragmented text \"imp a\" is on the bottom right.: advertisement::>",
+            "type": "figure",
+            "id": "7548c751-30c4-4148-ac18-9015440ae423",
+            "grounding": {
+                "box": {
+                    "left": 0.005382150411605835,
+                    "top": 0.0006065070629119873,
+                    "right": 1.0021172761917114,
+                    "bottom": 0.5307533740997314
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='96d8c18d-e8cc-4fe1-aa2b-28b1835a4b9f'></a>\n\n1. Never date a woman named Dave.\n2. Never date a woman who has\n12 older brothers.\n3. Never date a woman whose\nfather is called \"Captain.\"\n4. Always break the ice\nby offering her a Camel.\n\n< 1989 R. J. REYNOLDS TOBACCO CO.\n\n<::An illustration depicts a woman in a black dress standing in the center, surrounded by a group of men. In the foreground, a man with sunglasses and a cigarette in his mouth is prominently featured, looking towards the right.: illustration::>\n\nSURGEON GENERAL'S WARNING: Cigarette\nSmoke Contains Carbon Monoxide.",
+            "type": "figure",
+            "id": "96d8c18d-e8cc-4fe1-aa2b-28b1835a4b9f",
+            "grounding": {
+                "box": {
+                    "left": 0.032958418130874634,
+                    "top": 0.5314820408821106,
+                    "right": 0.7998089790344238,
+                    "bottom": 0.9875373244285583
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7a8d7b84-1502-405e-8c3d-6e843244cd24'></a>\n\n1. Run into the\nto the shore, as\nThe more she!\n2. If you're over\na towel with ve\n3. If you're und\na towel with ho\n4. Always have\nready when th\nparty begins.",
+            "type": "text",
+            "id": "7a8d7b84-1502-405e-8c3d-6e843244cd24",
+            "grounding": {
+                "box": {
+                    "left": 0.8169869184494019,
+                    "top": 0.5246698260307312,
+                    "right": 0.9997982978820801,
+                    "bottom": 0.7780408263206482
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a5a0723a-5b32-4de3-8979-70cf3db1d179'></a>\n\n51359 4334\n\nLOOK FOR MORE\nSMOOTH MOVES\nCOMING YOUR\nWAY SOON.",
+            "type": "text",
+            "id": "a5a0723a-5b32-4de3-8979-70cf3db1d179",
+            "grounding": {
+                "box": {
+                    "left": 0.8227992653846741,
+                    "top": 0.8256068825721741,
+                    "right": 0.9986506104469299,
+                    "bottom": 0.9383757710456848
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f5ab0816-817c-4957-acf9-72adacee4aa4'></a>\n\n",
+            "type": "marginalia",
+            "id": "f5ab0816-817c-4957-acf9-72adacee4aa4",
+            "grounding": {
+                "box": {
+                    "left": 0.001954019069671631,
+                    "top": 0.87352454662323,
+                    "right": 0.017194880172610283,
+                    "bottom": 0.9838458299636841
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='7548c751-30c4-4148-ac18-9015440ae423'></a>\n\n<::advertisement featuring: Large, stylized, angled text \"SMOOTH\" on the left. An illustration on the top right shows a hand holding a lit cigar and a glass with a drink, with the stylized text \"Smooth character\" integrated into the illustration. The text \"Foolproof dating advice\" is centered below the large \"SMOOTH\". Below that is the stylized, angled text \"SMOOTH MOVE #325\". Fragmented text \"imp a\" is on the bottom right.: advertisement::>\n\n<a id='96d8c18d-e8cc-4fe1-aa2b-28b1835a4b9f'></a>\n\n1. Never date a woman named Dave.\n2. Never date a woman who has\n12 older brothers.\n3. Never date a woman whose\nfather is called \"Captain.\"\n4. Always break the ice\nby offering her a Camel.\n\n< 1989 R. J. REYNOLDS TOBACCO CO.\n\n<::An illustration depicts a woman in a black dress standing in the center, surrounded by a group of men. In the foreground, a man with sunglasses and a cigarette in his mouth is prominently featured, looking towards the right.: illustration::>\n\nSURGEON GENERAL'S WARNING: Cigarette\nSmoke Contains Carbon Monoxide.\n\n<a id='7a8d7b84-1502-405e-8c3d-6e843244cd24'></a>\n\n1. Run into the\nto the shore, as\nThe more she!\n2. If you're over\na towel with ve\n3. If you're und\na towel with ho\n4. Always have\nready when th\nparty begins.\n\n<a id='a5a0723a-5b32-4de3-8979-70cf3db1d179'></a>\n\n51359 4334\n\nLOOK FOR MORE\nSMOOTH MOVES\nCOMING YOUR\nWAY SOON.\n\n<a id='f5ab0816-817c-4957-acf9-72adacee4aa4'></a>\n\n",
+            "chunks": [
+                "7548c751-30c4-4148-ac18-9015440ae423",
+                "96d8c18d-e8cc-4fe1-aa2b-28b1835a4b9f",
+                "7a8d7b84-1502-405e-8c3d-6e843244cd24",
+                "a5a0723a-5b32-4de3-8979-70cf3db1d179",
+                "f5ab0816-817c-4957-acf9-72adacee4aa4"
+            ]
+        }
+    ],
+    "grounding": {
+        "7548c751-30c4-4148-ac18-9015440ae423": {
+            "box": {
+                "left": 0.005382150411605835,
+                "top": 0.0006065070629119873,
+                "right": 1.0021172761917114,
+                "bottom": 0.5307533740997314
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "96d8c18d-e8cc-4fe1-aa2b-28b1835a4b9f": {
+            "box": {
+                "left": 0.032958418130874634,
+                "top": 0.5314820408821106,
+                "right": 0.7998089790344238,
+                "bottom": 0.9875373244285583
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "7a8d7b84-1502-405e-8c3d-6e843244cd24": {
+            "box": {
+                "left": 0.8169869184494019,
+                "top": 0.5246698260307312,
+                "right": 0.9997982978820801,
+                "bottom": 0.7780408263206482
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a5a0723a-5b32-4de3-8979-70cf3db1d179": {
+            "box": {
+                "left": 0.8227992653846741,
+                "top": 0.8256068825721741,
+                "right": 0.9986506104469299,
+                "bottom": 0.9383757710456848
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f5ab0816-817c-4957-acf9-72adacee4aa4": {
+            "box": {
+                "left": 0.001954019069671631,
+                "top": 0.87352454662323,
+                "right": 0.017194880172610283,
+                "bottom": 0.9838458299636841
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "jhnm0081_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 34592,
+        "credit_usage": 3.0,
+        "job_id": "psjy62ykrywl1g6a7tdbimdr1",
+        "version": "dpt-2-20250919"
+    }
+}

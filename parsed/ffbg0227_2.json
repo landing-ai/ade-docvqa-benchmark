@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='c6822f59-be16-423f-b26b-fd77b5696527'></a>\n\nRobert E. Shank, M.D.\nPage 2\nApril 17, 1972\n\n<a id='d89a7de9-8ab2-4dc5-baa9-371867b9238d'></a>\n\nAs you know, each candidate selects the area of special emphasis\nto be covered in depth in his examinations. We are attempting to compile\nfor each area topics or rubrics within which questions may be developed.\nWe should like to express our appreciation for your response to Dr. Harold\nEllingson's request for help in this regard. The suggestions from last\nfall's examiners have given us an excellent start in this undertaking.\nWe hope, too, to have a list of recommended essential readings for each\narea, and will appreciate receiving your suggestions for such a list.\n\n<a id='1d7ffec8-2609-4c07-b603-19d64fb2d652'></a>\n\nPlease accept my personal thanks and those of the Board for your cooperation.\n\n<a id='9080b022-4af2-4f93-b39a-4707ba315e92'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Bill)\nSincerely,\nWilliam P. Richardson, M.D.\nVice Chairman, General Preventive Medicine\nA handwritten signature 'Bill' is placed above the typed name and title, following the salutation 'Sincerely,'.::>\n\n<a id='6e2b6474-13a6-498f-8dd7-953108f3231c'></a>\n\nWPR:mjm\nEnclosure\n\n<a id='2c5693d2-93b7-474a-a573-0915f4a44b5a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ffbg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='c6822f59-be16-423f-b26b-fd77b5696527'></a>\n\nRobert E. Shank, M.D.\nPage 2\nApril 17, 1972",
+            "type": "text",
+            "id": "c6822f59-be16-423f-b26b-fd77b5696527",
+            "grounding": {
+                "box": {
+                    "left": 0.1578514277935028,
+                    "top": 0.10696766525506973,
+                    "right": 0.3652922809123993,
+                    "bottom": 0.15658870339393616
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d89a7de9-8ab2-4dc5-baa9-371867b9238d'></a>\n\nAs you know, each candidate selects the area of special emphasis\nto be covered in depth in his examinations. We are attempting to compile\nfor each area topics or rubrics within which questions may be developed.\nWe should like to express our appreciation for your response to Dr. Harold\nEllingson's request for help in this regard. The suggestions from last\nfall's examiners have given us an excellent start in this undertaking.\nWe hope, too, to have a list of recommended essential readings for each\narea, and will appreciate receiving your suggestions for such a list.",
+            "type": "text",
+            "id": "d89a7de9-8ab2-4dc5-baa9-371867b9238d",
+            "grounding": {
+                "box": {
+                    "left": 0.15258851647377014,
+                    "top": 0.17931178212165833,
+                    "right": 0.8661983013153076,
+                    "bottom": 0.3026881814002991
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1d7ffec8-2609-4c07-b603-19d64fb2d652'></a>\n\nPlease accept my personal thanks and those of the Board for your cooperation.",
+            "type": "text",
+            "id": "1d7ffec8-2609-4c07-b603-19d64fb2d652",
+            "grounding": {
+                "box": {
+                    "left": 0.15533199906349182,
+                    "top": 0.31214773654937744,
+                    "right": 0.8647130727767944,
+                    "bottom": 0.34683746099472046
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9080b022-4af2-4f93-b39a-4707ba315e92'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Bill)\nSincerely,\nWilliam P. Richardson, M.D.\nVice Chairman, General Preventive Medicine\nA handwritten signature 'Bill' is placed above the typed name and title, following the salutation 'Sincerely,'.::>",
+            "type": "attestation",
+            "id": "9080b022-4af2-4f93-b39a-4707ba315e92",
+            "grounding": {
+                "box": {
+                    "left": 0.46208542585372925,
+                    "top": 0.35547617077827454,
+                    "right": 0.7889474034309387,
+                    "bottom": 0.4639991223812103
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6e2b6474-13a6-498f-8dd7-953108f3231c'></a>\n\nWPR:mjm\nEnclosure",
+            "type": "text",
+            "id": "6e2b6474-13a6-498f-8dd7-953108f3231c",
+            "grounding": {
+                "box": {
+                    "left": 0.15640762448310852,
+                    "top": 0.4746071696281433,
+                    "right": 0.2545093894004822,
+                    "bottom": 0.5094431638717651
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2c5693d2-93b7-474a-a573-0915f4a44b5a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ffbg0227",
+            "type": "marginalia",
+            "id": "2c5693d2-93b7-474a-a573-0915f4a44b5a",
+            "grounding": {
+                "box": {
+                    "left": 0.2303333580493927,
+                    "top": 0.9805378913879395,
+                    "right": 0.7732874155044556,
+                    "bottom": 0.9991626739501953
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c6822f59-be16-423f-b26b-fd77b5696527'></a>\n\nRobert E. Shank, M.D.\nPage 2\nApril 17, 1972\n\n<a id='d89a7de9-8ab2-4dc5-baa9-371867b9238d'></a>\n\nAs you know, each candidate selects the area of special emphasis\nto be covered in depth in his examinations. We are attempting to compile\nfor each area topics or rubrics within which questions may be developed.\nWe should like to express our appreciation for your response to Dr. Harold\nEllingson's request for help in this regard. The suggestions from last\nfall's examiners have given us an excellent start in this undertaking.\nWe hope, too, to have a list of recommended essential readings for each\narea, and will appreciate receiving your suggestions for such a list.\n\n<a id='1d7ffec8-2609-4c07-b603-19d64fb2d652'></a>\n\nPlease accept my personal thanks and those of the Board for your cooperation.\n\n<a id='9080b022-4af2-4f93-b39a-4707ba315e92'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Bill)\nSincerely,\nWilliam P. Richardson, M.D.\nVice Chairman, General Preventive Medicine\nA handwritten signature 'Bill' is placed above the typed name and title, following the salutation 'Sincerely,'.::>\n\n<a id='6e2b6474-13a6-498f-8dd7-953108f3231c'></a>\n\nWPR:mjm\nEnclosure\n\n<a id='2c5693d2-93b7-474a-a573-0915f4a44b5a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ffbg0227",
+            "chunks": [
+                "c6822f59-be16-423f-b26b-fd77b5696527",
+                "d89a7de9-8ab2-4dc5-baa9-371867b9238d",
+                "1d7ffec8-2609-4c07-b603-19d64fb2d652",
+                "9080b022-4af2-4f93-b39a-4707ba315e92",
+                "6e2b6474-13a6-498f-8dd7-953108f3231c",
+                "2c5693d2-93b7-474a-a573-0915f4a44b5a"
+            ]
+        }
+    ],
+    "grounding": {
+        "c6822f59-be16-423f-b26b-fd77b5696527": {
+            "box": {
+                "left": 0.1578514277935028,
+                "top": 0.10696766525506973,
+                "right": 0.3652922809123993,
+                "bottom": 0.15658870339393616
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d89a7de9-8ab2-4dc5-baa9-371867b9238d": {
+            "box": {
+                "left": 0.15258851647377014,
+                "top": 0.17931178212165833,
+                "right": 0.8661983013153076,
+                "bottom": 0.3026881814002991
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1d7ffec8-2609-4c07-b603-19d64fb2d652": {
+            "box": {
+                "left": 0.15533199906349182,
+                "top": 0.31214773654937744,
+                "right": 0.8647130727767944,
+                "bottom": 0.34683746099472046
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9080b022-4af2-4f93-b39a-4707ba315e92": {
+            "box": {
+                "left": 0.46208542585372925,
+                "top": 0.35547617077827454,
+                "right": 0.7889474034309387,
+                "bottom": 0.4639991223812103
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "6e2b6474-13a6-498f-8dd7-953108f3231c": {
+            "box": {
+                "left": 0.15640762448310852,
+                "top": 0.4746071696281433,
+                "right": 0.2545093894004822,
+                "bottom": 0.5094431638717651
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2c5693d2-93b7-474a-a573-0915f4a44b5a": {
+            "box": {
+                "left": 0.2303333580493927,
+                "top": 0.9805378913879395,
+                "right": 0.7732874155044556,
+                "bottom": 0.9991626739501953
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "ffbg0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9228,
+        "credit_usage": 3.0,
+        "job_id": "qedis9fbla9mfyfz0bvtndlll",
+        "version": "dpt-2-20250919"
+    }
+}

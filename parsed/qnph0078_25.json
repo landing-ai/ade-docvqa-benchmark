@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='bd4ccbc3-ea48-43e3-8a3a-3c1c42c6dfee'></a>\n\nCLASSIFIED MATERIAL RECEIPT\n\n<a id='049e1a18-f17c-4a49-984b-7f4483680c13'></a>\n\nTitle and/or Number of Document: GTC Testing Program Memo\n\n<a id='9dcb1a2a-7039-4aac-a3d1-4aafb740c011'></a>\n\nNumber of Copies: 1\n\n<a id='1f618f07-83a4-4ea0-92e3-8e41fc791640'></a>\n\nClassification:\noption Secret: [ ]\noption Confidential: [ ]\n\nDeliver To: Charlie Green\n\nFrom: Rhenda H. Steele\nDate: August 30, 1994\n\nReceived By:\nDate:\n\n<a id='34f1256f-2d2f-4b20-a780-a540dcb9cdf8'></a>\n\n**CLASSIFIED MATERIAL RECEIPT**\n\n<a id='639772b5-6da0-4943-8ae4-8a3e912dd4ff'></a>\n\nTitle and/or Number of Document: GTC Testing Program Memo\n\n<a id='4e1fa52d-5e9e-47ea-b9fe-014a31bf5afe'></a>\n\nNumber of Copies: 1\n\n<a id='3cf54954-e9c1-445e-84ad-744f705a467a'></a>\n\nClassification:\noption Secret: [x]\noption Confidential: [ ]\n\nDeliver To: Charlie Green\n\nFrom: Rhenda H. Steele\nDate: August 30, 1994\n\nReceived By:\nDate:\n\n<a id='08baa2c1-ae99-4e97-b135-539c209be552'></a>\n\n## INSTRUCTIONS FOR USE\n\nA. When Transmitting:\nPrepare top and bottom of form\nand forward form with material.\n\nB. When Receiving:\nVerify that material received is as described.\nSign and return bottom portion of form to\nsender. Retain top portion of form for your files.\n\n<a id='53d58b4e-15ac-4118-b06a-2dbf54f2ba77'></a>\n\n50940 6351",
+    "chunks": [
+        {
+            "markdown": "<a id='bd4ccbc3-ea48-43e3-8a3a-3c1c42c6dfee'></a>\n\nCLASSIFIED MATERIAL RECEIPT",
+            "type": "text",
+            "id": "bd4ccbc3-ea48-43e3-8a3a-3c1c42c6dfee",
+            "grounding": {
+                "box": {
+                    "left": 0.2783159613609314,
+                    "top": 0.09827247262001038,
+                    "right": 0.7186131477355957,
+                    "bottom": 0.12825867533683777
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='049e1a18-f17c-4a49-984b-7f4483680c13'></a>\n\nTitle and/or Number of Document: GTC Testing Program Memo",
+            "type": "text",
+            "id": "049e1a18-f17c-4a49-984b-7f4483680c13",
+            "grounding": {
+                "box": {
+                    "left": 0.12962877750396729,
+                    "top": 0.1506778448820114,
+                    "right": 0.8371881246566772,
+                    "bottom": 0.17758943140506744
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9dcb1a2a-7039-4aac-a3d1-4aafb740c011'></a>\n\nNumber of Copies: 1",
+            "type": "text",
+            "id": "9dcb1a2a-7039-4aac-a3d1-4aafb740c011",
+            "grounding": {
+                "box": {
+                    "left": 0.1275608390569687,
+                    "top": 0.2040492296218872,
+                    "right": 0.38041865825653076,
+                    "bottom": 0.23048549890518188
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1f618f07-83a4-4ea0-92e3-8e41fc791640'></a>\n\nClassification:\noption Secret: [ ]\noption Confidential: [ ]\n\nDeliver To: Charlie Green\n\nFrom: Rhenda H. Steele\nDate: August 30, 1994\n\nReceived By:\nDate:",
+            "type": "text",
+            "id": "1f618f07-83a4-4ea0-92e3-8e41fc791640",
+            "grounding": {
+                "box": {
+                    "left": 0.12481182813644409,
+                    "top": 0.23195618391036987,
+                    "right": 0.8468679785728455,
+                    "bottom": 0.3926103115081787
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='34f1256f-2d2f-4b20-a780-a540dcb9cdf8'></a>\n\n**CLASSIFIED MATERIAL RECEIPT**",
+            "type": "text",
+            "id": "34f1256f-2d2f-4b20-a780-a540dcb9cdf8",
+            "grounding": {
+                "box": {
+                    "left": 0.27294668555259705,
+                    "top": 0.45041021704673767,
+                    "right": 0.7259529829025269,
+                    "bottom": 0.48330339789390564
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='639772b5-6da0-4943-8ae4-8a3e912dd4ff'></a>\n\nTitle and/or Number of Document: GTC Testing Program Memo",
+            "type": "text",
+            "id": "639772b5-6da0-4943-8ae4-8a3e912dd4ff",
+            "grounding": {
+                "box": {
+                    "left": 0.12793847918510437,
+                    "top": 0.5009363889694214,
+                    "right": 0.8410714864730835,
+                    "bottom": 0.5336300134658813
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4e1fa52d-5e9e-47ea-b9fe-014a31bf5afe'></a>\n\nNumber of Copies: 1",
+            "type": "text",
+            "id": "4e1fa52d-5e9e-47ea-b9fe-014a31bf5afe",
+            "grounding": {
+                "box": {
+                    "left": 0.12692245841026306,
+                    "top": 0.5566568970680237,
+                    "right": 0.38368478417396545,
+                    "bottom": 0.5850898623466492
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3cf54954-e9c1-445e-84ad-744f705a467a'></a>\n\nClassification:\noption Secret: [x]\noption Confidential: [ ]\n\nDeliver To: Charlie Green\n\nFrom: Rhenda H. Steele\nDate: August 30, 1994\n\nReceived By:\nDate:",
+            "type": "text",
+            "id": "3cf54954-e9c1-445e-84ad-744f705a467a",
+            "grounding": {
+                "box": {
+                    "left": 0.12347495555877686,
+                    "top": 0.5866230726242065,
+                    "right": 0.851710319519043,
+                    "bottom": 0.7444730997085571
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='08baa2c1-ae99-4e97-b135-539c209be552'></a>\n\n## INSTRUCTIONS FOR USE\n\nA. When Transmitting:\nPrepare top and bottom of form\nand forward form with material.\n\nB. When Receiving:\nVerify that material received is as described.\nSign and return bottom portion of form to\nsender. Retain top portion of form for your files.",
+            "type": "text",
+            "id": "08baa2c1-ae99-4e97-b135-539c209be552",
+            "grounding": {
+                "box": {
+                    "left": 0.1296800673007965,
+                    "top": 0.7713789343833923,
+                    "right": 0.8703738451004028,
+                    "bottom": 0.8832224011421204
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='53d58b4e-15ac-4118-b06a-2dbf54f2ba77'></a>\n\n50940 6351",
+            "type": "marginalia",
+            "id": "53d58b4e-15ac-4118-b06a-2dbf54f2ba77",
+            "grounding": {
+                "box": {
+                    "left": 0.9103676676750183,
+                    "top": 0.8676918148994446,
+                    "right": 0.9426860213279724,
+                    "bottom": 0.9670204520225525
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='bd4ccbc3-ea48-43e3-8a3a-3c1c42c6dfee'></a>\n\nCLASSIFIED MATERIAL RECEIPT\n\n<a id='049e1a18-f17c-4a49-984b-7f4483680c13'></a>\n\nTitle and/or Number of Document: GTC Testing Program Memo\n\n<a id='9dcb1a2a-7039-4aac-a3d1-4aafb740c011'></a>\n\nNumber of Copies: 1\n\n<a id='1f618f07-83a4-4ea0-92e3-8e41fc791640'></a>\n\nClassification:\noption Secret: [ ]\noption Confidential: [ ]\n\nDeliver To: Charlie Green\n\nFrom: Rhenda H. Steele\nDate: August 30, 1994\n\nReceived By:\nDate:\n\n<a id='34f1256f-2d2f-4b20-a780-a540dcb9cdf8'></a>\n\n**CLASSIFIED MATERIAL RECEIPT**\n\n<a id='639772b5-6da0-4943-8ae4-8a3e912dd4ff'></a>\n\nTitle and/or Number of Document: GTC Testing Program Memo\n\n<a id='4e1fa52d-5e9e-47ea-b9fe-014a31bf5afe'></a>\n\nNumber of Copies: 1\n\n<a id='3cf54954-e9c1-445e-84ad-744f705a467a'></a>\n\nClassification:\noption Secret: [x]\noption Confidential: [ ]\n\nDeliver To: Charlie Green\n\nFrom: Rhenda H. Steele\nDate: August 30, 1994\n\nReceived By:\nDate:\n\n<a id='08baa2c1-ae99-4e97-b135-539c209be552'></a>\n\n## INSTRUCTIONS FOR USE\n\nA. When Transmitting:\nPrepare top and bottom of form\nand forward form with material.\n\nB. When Receiving:\nVerify that material received is as described.\nSign and return bottom portion of form to\nsender. Retain top portion of form for your files.\n\n<a id='53d58b4e-15ac-4118-b06a-2dbf54f2ba77'></a>\n\n50940 6351",
+            "chunks": [
+                "bd4ccbc3-ea48-43e3-8a3a-3c1c42c6dfee",
+                "049e1a18-f17c-4a49-984b-7f4483680c13",
+                "9dcb1a2a-7039-4aac-a3d1-4aafb740c011",
+                "1f618f07-83a4-4ea0-92e3-8e41fc791640",
+                "34f1256f-2d2f-4b20-a780-a540dcb9cdf8",
+                "639772b5-6da0-4943-8ae4-8a3e912dd4ff",
+                "4e1fa52d-5e9e-47ea-b9fe-014a31bf5afe",
+                "3cf54954-e9c1-445e-84ad-744f705a467a",
+                "08baa2c1-ae99-4e97-b135-539c209be552",
+                "53d58b4e-15ac-4118-b06a-2dbf54f2ba77"
+            ]
+        }
+    ],
+    "grounding": {
+        "bd4ccbc3-ea48-43e3-8a3a-3c1c42c6dfee": {
+            "box": {
+                "left": 0.2783159613609314,
+                "top": 0.09827247262001038,
+                "right": 0.7186131477355957,
+                "bottom": 0.12825867533683777
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "049e1a18-f17c-4a49-984b-7f4483680c13": {
+            "box": {
+                "left": 0.12962877750396729,
+                "top": 0.1506778448820114,
+                "right": 0.8371881246566772,
+                "bottom": 0.17758943140506744
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9dcb1a2a-7039-4aac-a3d1-4aafb740c011": {
+            "box": {
+                "left": 0.1275608390569687,
+                "top": 0.2040492296218872,
+                "right": 0.38041865825653076,
+                "bottom": 0.23048549890518188
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1f618f07-83a4-4ea0-92e3-8e41fc791640": {
+            "box": {
+                "left": 0.12481182813644409,
+                "top": 0.23195618391036987,
+                "right": 0.8468679785728455,
+                "bottom": 0.3926103115081787
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "34f1256f-2d2f-4b20-a780-a540dcb9cdf8": {
+            "box": {
+                "left": 0.27294668555259705,
+                "top": 0.45041021704673767,
+                "right": 0.7259529829025269,
+                "bottom": 0.48330339789390564
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "639772b5-6da0-4943-8ae4-8a3e912dd4ff": {
+            "box": {
+                "left": 0.12793847918510437,
+                "top": 0.5009363889694214,
+                "right": 0.8410714864730835,
+                "bottom": 0.5336300134658813
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4e1fa52d-5e9e-47ea-b9fe-014a31bf5afe": {
+            "box": {
+                "left": 0.12692245841026306,
+                "top": 0.5566568970680237,
+                "right": 0.38368478417396545,
+                "bottom": 0.5850898623466492
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3cf54954-e9c1-445e-84ad-744f705a467a": {
+            "box": {
+                "left": 0.12347495555877686,
+                "top": 0.5866230726242065,
+                "right": 0.851710319519043,
+                "bottom": 0.7444730997085571
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "08baa2c1-ae99-4e97-b135-539c209be552": {
+            "box": {
+                "left": 0.1296800673007965,
+                "top": 0.7713789343833923,
+                "right": 0.8703738451004028,
+                "bottom": 0.8832224011421204
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "53d58b4e-15ac-4118-b06a-2dbf54f2ba77": {
+            "box": {
+                "left": 0.9103676676750183,
+                "top": 0.8676918148994446,
+                "right": 0.9426860213279724,
+                "bottom": 0.9670204520225525
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "qnph0078_25.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5427,
+        "credit_usage": 3.0,
+        "job_id": "ijxz1qay6fo5b9wu4xrfi7an5",
+        "version": "dpt-2-20250919"
+    }
+}

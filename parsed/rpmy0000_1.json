@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='e0f8a39a-ca24-4cb1-8c6f-c9e77e860f2a'></a>\n\nJ. CAMPBELL\nR. J. REYNOLDS TOBACCO Co.\n(716) 634-4179\nFAX (716) 634-3145\n\n<a id='208d67ac-dcd3-4d39-b311-8a85b1a6c9a5'></a>\n\n*SENDING A FAX!!*\n\n<a id='af95d2de-5681-4338-a803-998dfc28460f'></a>\n\n<::attestation: Handwritten note/signature\nSignature: legible\nReadable Text: Winston, July, 80to 750\nHandwritten text with a name, month, and numbers, followed by an underline, positioned centrally::>\n\n<a id='544f411f-0206-4e82-9a5a-5a23865e333d'></a>\n\n<::A black and white illustration of a fax machine with paper being fed through it.\n: figure::>\n\n<a id='714270b4-068b-4c3d-9e72-7e0e04e30205'></a>\n\nDATE: 5-20-98\n\n<a id='8ad01bd7-c920-4116-bff7-376cfb733ee1'></a>\n\nTO: J. MITIGUY (FAX #(802) 893-5110\n\n<a id='795c37db-a078-4cae-9dff-87d96b65ad81'></a>\n\nNUMBER OF PAGES (INCLUDING COVER PAGE) 2\n\n<a id='12bd4ad2-9634-483b-91cd-7633b36e811c'></a>\n\nCOMMENTS:\n\n*Hi John, PO Numbers have been set up as indicated on*\n\n*the attached correspondence. Any questions, please call.*\n\nDetailed correspondence will be\nmailed.\n\nJudy\n\n<a id='8e14b388-371e-4a8a-817d-47d04c7f2758'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rpmy0000\n\n<a id='b81bc773-99f2-4677-aa5a-67918fb36ba6'></a>\n\n51845 7842",
+    "chunks": [
+        {
+            "markdown": "<a id='e0f8a39a-ca24-4cb1-8c6f-c9e77e860f2a'></a>\n\nJ. CAMPBELL\nR. J. REYNOLDS TOBACCO Co.\n(716) 634-4179\nFAX (716) 634-3145",
+            "type": "text",
+            "id": "e0f8a39a-ca24-4cb1-8c6f-c9e77e860f2a",
+            "grounding": {
+                "box": {
+                    "left": 0.6218629479408264,
+                    "top": 0.10818638652563095,
+                    "right": 0.8472141623497009,
+                    "bottom": 0.18290075659751892
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='208d67ac-dcd3-4d39-b311-8a85b1a6c9a5'></a>\n\n*SENDING A FAX!!*",
+            "type": "text",
+            "id": "208d67ac-dcd3-4d39-b311-8a85b1a6c9a5",
+            "grounding": {
+                "box": {
+                    "left": 0.3759053945541382,
+                    "top": 0.20353658497333527,
+                    "right": 0.6237142086029053,
+                    "bottom": 0.23715563118457794
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='af95d2de-5681-4338-a803-998dfc28460f'></a>\n\n<::attestation: Handwritten note/signature\nSignature: legible\nReadable Text: Winston, July, 80to 750\nHandwritten text with a name, month, and numbers, followed by an underline, positioned centrally::>",
+            "type": "attestation",
+            "id": "af95d2de-5681-4338-a803-998dfc28460f",
+            "grounding": {
+                "box": {
+                    "left": 0.6547479629516602,
+                    "top": 0.21189257502555847,
+                    "right": 0.884010910987854,
+                    "bottom": 0.4206513464450836
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='544f411f-0206-4e82-9a5a-5a23865e333d'></a>\n\n<::A black and white illustration of a fax machine with paper being fed through it.\n: figure::>",
+            "type": "figure",
+            "id": "544f411f-0206-4e82-9a5a-5a23865e333d",
+            "grounding": {
+                "box": {
+                    "left": 0.35058456659317017,
+                    "top": 0.24837547540664673,
+                    "right": 0.6449575424194336,
+                    "bottom": 0.3728829026222229
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='714270b4-068b-4c3d-9e72-7e0e04e30205'></a>\n\nDATE: 5-20-98",
+            "type": "text",
+            "id": "714270b4-068b-4c3d-9e72-7e0e04e30205",
+            "grounding": {
+                "box": {
+                    "left": 0.15578033030033112,
+                    "top": 0.3968052864074707,
+                    "right": 0.4539499282836914,
+                    "bottom": 0.4406081438064575
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ad01bd7-c920-4116-bff7-376cfb733ee1'></a>\n\nTO: J. MITIGUY (FAX #(802) 893-5110",
+            "type": "text",
+            "id": "8ad01bd7-c920-4116-bff7-376cfb733ee1",
+            "grounding": {
+                "box": {
+                    "left": 0.15804582834243774,
+                    "top": 0.4799495339393616,
+                    "right": 0.6801420450210571,
+                    "bottom": 0.5162990093231201
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='795c37db-a078-4cae-9dff-87d96b65ad81'></a>\n\nNUMBER OF PAGES (INCLUDING COVER PAGE) 2",
+            "type": "text",
+            "id": "795c37db-a078-4cae-9dff-87d96b65ad81",
+            "grounding": {
+                "box": {
+                    "left": 0.15785327553749084,
+                    "top": 0.5616006851196289,
+                    "right": 0.6840612888336182,
+                    "bottom": 0.6043647527694702
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='12bd4ad2-9634-483b-91cd-7633b36e811c'></a>\n\nCOMMENTS:\n\n*Hi John, PO Numbers have been set up as indicated on*\n\n*the attached correspondence. Any questions, please call.*\n\nDetailed correspondence will be\nmailed.\n\nJudy",
+            "type": "text",
+            "id": "12bd4ad2-9634-483b-91cd-7633b36e811c",
+            "grounding": {
+                "box": {
+                    "left": 0.1553063690662384,
+                    "top": 0.6615435481071472,
+                    "right": 0.850486159324646,
+                    "bottom": 0.9541216492652893
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8e14b388-371e-4a8a-817d-47d04c7f2758'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rpmy0000",
+            "type": "marginalia",
+            "id": "8e14b388-371e-4a8a-817d-47d04c7f2758",
+            "grounding": {
+                "box": {
+                    "left": 0.2094799280166626,
+                    "top": 0.9762489199638367,
+                    "right": 0.7912601232528687,
+                    "bottom": 0.9998506903648376
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b81bc773-99f2-4677-aa5a-67918fb36ba6'></a>\n\n51845 7842",
+            "type": "marginalia",
+            "id": "b81bc773-99f2-4677-aa5a-67918fb36ba6",
+            "grounding": {
+                "box": {
+                    "left": 0.8967331647872925,
+                    "top": 0.8420411944389343,
+                    "right": 0.9272527694702148,
+                    "bottom": 0.9404873251914978
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e0f8a39a-ca24-4cb1-8c6f-c9e77e860f2a'></a>\n\nJ. CAMPBELL\nR. J. REYNOLDS TOBACCO Co.\n(716) 634-4179\nFAX (716) 634-3145\n\n<a id='208d67ac-dcd3-4d39-b311-8a85b1a6c9a5'></a>\n\n*SENDING A FAX!!*\n\n<a id='af95d2de-5681-4338-a803-998dfc28460f'></a>\n\n<::attestation: Handwritten note/signature\nSignature: legible\nReadable Text: Winston, July, 80to 750\nHandwritten text with a name, month, and numbers, followed by an underline, positioned centrally::>\n\n<a id='544f411f-0206-4e82-9a5a-5a23865e333d'></a>\n\n<::A black and white illustration of a fax machine with paper being fed through it.\n: figure::>\n\n<a id='714270b4-068b-4c3d-9e72-7e0e04e30205'></a>\n\nDATE: 5-20-98\n\n<a id='8ad01bd7-c920-4116-bff7-376cfb733ee1'></a>\n\nTO: J. MITIGUY (FAX #(802) 893-5110\n\n<a id='795c37db-a078-4cae-9dff-87d96b65ad81'></a>\n\nNUMBER OF PAGES (INCLUDING COVER PAGE) 2\n\n<a id='12bd4ad2-9634-483b-91cd-7633b36e811c'></a>\n\nCOMMENTS:\n\n*Hi John, PO Numbers have been set up as indicated on*\n\n*the attached correspondence. Any questions, please call.*\n\nDetailed correspondence will be\nmailed.\n\nJudy\n\n<a id='8e14b388-371e-4a8a-817d-47d04c7f2758'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rpmy0000\n\n<a id='b81bc773-99f2-4677-aa5a-67918fb36ba6'></a>\n\n51845 7842",
+            "chunks": [
+                "e0f8a39a-ca24-4cb1-8c6f-c9e77e860f2a",
+                "208d67ac-dcd3-4d39-b311-8a85b1a6c9a5",
+                "af95d2de-5681-4338-a803-998dfc28460f",
+                "544f411f-0206-4e82-9a5a-5a23865e333d",
+                "714270b4-068b-4c3d-9e72-7e0e04e30205",
+                "8ad01bd7-c920-4116-bff7-376cfb733ee1",
+                "795c37db-a078-4cae-9dff-87d96b65ad81",
+                "12bd4ad2-9634-483b-91cd-7633b36e811c",
+                "8e14b388-371e-4a8a-817d-47d04c7f2758",
+                "b81bc773-99f2-4677-aa5a-67918fb36ba6"
+            ]
+        }
+    ],
+    "grounding": {
+        "e0f8a39a-ca24-4cb1-8c6f-c9e77e860f2a": {
+            "box": {
+                "left": 0.6218629479408264,
+                "top": 0.10818638652563095,
+                "right": 0.8472141623497009,
+                "bottom": 0.18290075659751892
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "208d67ac-dcd3-4d39-b311-8a85b1a6c9a5": {
+            "box": {
+                "left": 0.3759053945541382,
+                "top": 0.20353658497333527,
+                "right": 0.6237142086029053,
+                "bottom": 0.23715563118457794
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "af95d2de-5681-4338-a803-998dfc28460f": {
+            "box": {
+                "left": 0.6547479629516602,
+                "top": 0.21189257502555847,
+                "right": 0.884010910987854,
+                "bottom": 0.4206513464450836
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "544f411f-0206-4e82-9a5a-5a23865e333d": {
+            "box": {
+                "left": 0.35058456659317017,
+                "top": 0.24837547540664673,
+                "right": 0.6449575424194336,
+                "bottom": 0.3728829026222229
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "714270b4-068b-4c3d-9e72-7e0e04e30205": {
+            "box": {
+                "left": 0.15578033030033112,
+                "top": 0.3968052864074707,
+                "right": 0.4539499282836914,
+                "bottom": 0.4406081438064575
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8ad01bd7-c920-4116-bff7-376cfb733ee1": {
+            "box": {
+                "left": 0.15804582834243774,
+                "top": 0.4799495339393616,
+                "right": 0.6801420450210571,
+                "bottom": 0.5162990093231201
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "795c37db-a078-4cae-9dff-87d96b65ad81": {
+            "box": {
+                "left": 0.15785327553749084,
+                "top": 0.5616006851196289,
+                "right": 0.6840612888336182,
+                "bottom": 0.6043647527694702
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "12bd4ad2-9634-483b-91cd-7633b36e811c": {
+            "box": {
+                "left": 0.1553063690662384,
+                "top": 0.6615435481071472,
+                "right": 0.850486159324646,
+                "bottom": 0.9541216492652893
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8e14b388-371e-4a8a-817d-47d04c7f2758": {
+            "box": {
+                "left": 0.2094799280166626,
+                "top": 0.9762489199638367,
+                "right": 0.7912601232528687,
+                "bottom": 0.9998506903648376
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "b81bc773-99f2-4677-aa5a-67918fb36ba6": {
+            "box": {
+                "left": 0.8967331647872925,
+                "top": 0.8420411944389343,
+                "right": 0.9272527694702148,
+                "bottom": 0.9404873251914978
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "rpmy0000_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5390,
+        "credit_usage": 3.0,
+        "job_id": "s0ydcrj9lta7x08brjpxa9zdc",
+        "version": "dpt-2-20250919"
+    }
+}

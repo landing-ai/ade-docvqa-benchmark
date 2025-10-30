@@ -1,0 +1,998 @@
+{
+    "markdown": "<a id='8fac7a73-3579-48b2-a832-85489623f164'></a>\n\n5/80\n\n<a id='e5ee2366-0222-489f-ae2d-ca521c3d7113'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\"></td><td id=\"0-4\">G.P.</td><td id=\"0-5\">Spec.</td></tr>\n<tr><td id=\"0-6\">Excision</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">58700</td><td id=\"0-b\">Salpingectomy, complete or partial, unilateral or bilateral (separate procedure)</td><td id=\"0-c\">248.00</td><td id=\"0-d\">248.00</td></tr>\n<tr><td id=\"0-e\">58720</td><td id=\"0-f\">Salpingo-oophorectomy, complete or partial, unilateral or bilateral (separate procedure)</td><td id=\"0-g\">193.00</td><td id=\"0-h\">220.00</td></tr>\n<tr><td id=\"0-i\">Ovary</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Excision</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">58940</td><td id=\"0-r\">Oophorectomy, partial or total, unilateral or bilateral</td><td id=\"0-s\">193.00</td><td id=\"0-t\">220.00</td></tr>\n<tr><td id=\"0-u\" colspan=\"2\">Endoscopy-Laparoscopy</td><td id=\"0-v\"></td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">58980</td><td id=\"0-y\">Laparoscopy for visualization of pelvic viscera</td><td id=\"0-z\">60.00</td><td id=\"0-A\">75.00</td></tr>\n<tr><td id=\"0-B\">58982</td><td id=\"0-C\">With fulguration of oviducts (with or without transection)</td><td id=\"0-D\">88.00</td><td id=\"0-E\">110.00</td></tr>\n<tr><td id=\"0-F\">58984</td><td id=\"0-G\">With fulguration of ovarian or peritoneal lesions</td><td id=\"0-H\">88.00</td><td id=\"0-I\">110.00</td></tr>\n<tr><td id=\"0-J\">58985</td><td id=\"0-K\">With lysis of adhesions</td><td id=\"0-L\">88.00</td><td id=\"0-M\">110.00</td></tr>\n<tr><td id=\"0-N\">58986</td><td id=\"0-O\">With biopsy (single or multiple)</td><td id=\"0-P\">88.00</td><td id=\"0-Q\">110.00</td></tr>\n<tr><td id=\"0-R\">58987</td><td id=\"0-S\">With aspiration (single or multiple)</td><td id=\"0-T\">88.00</td><td id=\"0-U\">110.00</td></tr>\n<tr><td id=\"0-V\" colspan=\"2\">Maternity Care and Delivery</td><td id=\"0-W\"></td><td id=\"0-X\"></td></tr>\n<tr><td id=\"0-Y\">Incision</td><td id=\"0-Z\"></td><td id=\"0-10\"></td><td id=\"0-11\"></td></tr>\n<tr><td id=\"0-12\">59101</td><td id=\"0-13\">Hysterotomy for removal, Hydatiform mole, with tubal ligation</td><td id=\"0-14\">200.00</td><td id=\"0-15\">250.00</td></tr>\n<tr><td id=\"0-16\">Delivery</td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\"></td></tr>\n<tr><td id=\"0-1a\">59410</td><td id=\"0-1b\">Vaginal delivery only (with or without episiotomy, forceps or breech delivery including in-hospital postpartum care (separate procedure)</td><td id=\"0-1c\">193.00</td><td id=\"0-1d\">220.00</td></tr>\n<tr><td id=\"0-1e\">Cesarean Section</td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td></tr>\n<tr><td id=\"0-1i\">59500</td><td id=\"0-1j\">Cesarean section, low cervical, including in-hospital postpartum care (separate procedure)</td><td id=\"0-1k\">200.00</td><td id=\"0-1l\">250.00</td></tr>\n<tr><td id=\"0-1m\">59520</td><td id=\"0-1n\">Cesarean section, classic, including in-hospital postpartum care (separate procedure)</td><td id=\"0-1o\">220.00</td><td id=\"0-1p\">275.00</td></tr>\n</table>\n\n<a id='bf3b04d9-500c-4daf-b1a3-1594bedb2e0f'></a>\n\nMO MEDICAID PROVIDER MANUAL\nPHYSICIAN - PROCEDURE CODES\n19-43\n\n<a id='65590228-b9f4-4696-9b3a-aa5cb2a588dd'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nlcf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='8fac7a73-3579-48b2-a832-85489623f164'></a>\n\n5/80",
+            "type": "marginalia",
+            "id": "8fac7a73-3579-48b2-a832-85489623f164",
+            "grounding": {
+                "box": {
+                    "left": 0.1514306515455246,
+                    "top": 0.04193011671304703,
+                    "right": 0.19646485149860382,
+                    "bottom": 0.05962911993265152
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e5ee2366-0222-489f-ae2d-ca521c3d7113'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\"></td><td id=\"0-4\">G.P.</td><td id=\"0-5\">Spec.</td></tr>\n<tr><td id=\"0-6\">Excision</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">58700</td><td id=\"0-b\">Salpingectomy, complete or partial, unilateral or bilateral (separate procedure)</td><td id=\"0-c\">248.00</td><td id=\"0-d\">248.00</td></tr>\n<tr><td id=\"0-e\">58720</td><td id=\"0-f\">Salpingo-oophorectomy, complete or partial, unilateral or bilateral (separate procedure)</td><td id=\"0-g\">193.00</td><td id=\"0-h\">220.00</td></tr>\n<tr><td id=\"0-i\">Ovary</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Excision</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">58940</td><td id=\"0-r\">Oophorectomy, partial or total, unilateral or bilateral</td><td id=\"0-s\">193.00</td><td id=\"0-t\">220.00</td></tr>\n<tr><td id=\"0-u\" colspan=\"2\">Endoscopy-Laparoscopy</td><td id=\"0-v\"></td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">58980</td><td id=\"0-y\">Laparoscopy for visualization of pelvic viscera</td><td id=\"0-z\">60.00</td><td id=\"0-A\">75.00</td></tr>\n<tr><td id=\"0-B\">58982</td><td id=\"0-C\">With fulguration of oviducts (with or without transection)</td><td id=\"0-D\">88.00</td><td id=\"0-E\">110.00</td></tr>\n<tr><td id=\"0-F\">58984</td><td id=\"0-G\">With fulguration of ovarian or peritoneal lesions</td><td id=\"0-H\">88.00</td><td id=\"0-I\">110.00</td></tr>\n<tr><td id=\"0-J\">58985</td><td id=\"0-K\">With lysis of adhesions</td><td id=\"0-L\">88.00</td><td id=\"0-M\">110.00</td></tr>\n<tr><td id=\"0-N\">58986</td><td id=\"0-O\">With biopsy (single or multiple)</td><td id=\"0-P\">88.00</td><td id=\"0-Q\">110.00</td></tr>\n<tr><td id=\"0-R\">58987</td><td id=\"0-S\">With aspiration (single or multiple)</td><td id=\"0-T\">88.00</td><td id=\"0-U\">110.00</td></tr>\n<tr><td id=\"0-V\" colspan=\"2\">Maternity Care and Delivery</td><td id=\"0-W\"></td><td id=\"0-X\"></td></tr>\n<tr><td id=\"0-Y\">Incision</td><td id=\"0-Z\"></td><td id=\"0-10\"></td><td id=\"0-11\"></td></tr>\n<tr><td id=\"0-12\">59101</td><td id=\"0-13\">Hysterotomy for removal, Hydatiform mole, with tubal ligation</td><td id=\"0-14\">200.00</td><td id=\"0-15\">250.00</td></tr>\n<tr><td id=\"0-16\">Delivery</td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\"></td></tr>\n<tr><td id=\"0-1a\">59410</td><td id=\"0-1b\">Vaginal delivery only (with or without episiotomy, forceps or breech delivery including in-hospital postpartum care (separate procedure)</td><td id=\"0-1c\">193.00</td><td id=\"0-1d\">220.00</td></tr>\n<tr><td id=\"0-1e\">Cesarean Section</td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td></tr>\n<tr><td id=\"0-1i\">59500</td><td id=\"0-1j\">Cesarean section, low cervical, including in-hospital postpartum care (separate procedure)</td><td id=\"0-1k\">200.00</td><td id=\"0-1l\">250.00</td></tr>\n<tr><td id=\"0-1m\">59520</td><td id=\"0-1n\">Cesarean section, classic, including in-hospital postpartum care (separate procedure)</td><td id=\"0-1o\">220.00</td><td id=\"0-1p\">275.00</td></tr>\n</table>",
+            "type": "table",
+            "id": "e5ee2366-0222-489f-ae2d-ca521c3d7113",
+            "grounding": {
+                "box": {
+                    "left": 0.14614596962928772,
+                    "top": 0.09372854232788086,
+                    "right": 0.8841228485107422,
+                    "bottom": 0.845687747001648
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bf3b04d9-500c-4daf-b1a3-1594bedb2e0f'></a>\n\nMO MEDICAID PROVIDER MANUAL\nPHYSICIAN - PROCEDURE CODES\n19-43",
+            "type": "text",
+            "id": "bf3b04d9-500c-4daf-b1a3-1594bedb2e0f",
+            "grounding": {
+                "box": {
+                    "left": 0.38210025429725647,
+                    "top": 0.8888490200042725,
+                    "right": 0.64287269115448,
+                    "bottom": 0.9349737167358398
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='65590228-b9f4-4696-9b3a-aa5cb2a588dd'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nlcf0227",
+            "type": "text",
+            "id": "65590228-b9f4-4696-9b3a-aa5cb2a588dd",
+            "grounding": {
+                "box": {
+                    "left": 0.23341161012649536,
+                    "top": 0.9802525043487549,
+                    "right": 0.7690948843955994,
+                    "bottom": 0.9988470077514648
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='8fac7a73-3579-48b2-a832-85489623f164'></a>\n\n5/80\n\n<a id='e5ee2366-0222-489f-ae2d-ca521c3d7113'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\"></td><td id=\"0-4\">G.P.</td><td id=\"0-5\">Spec.</td></tr>\n<tr><td id=\"0-6\">Excision</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">58700</td><td id=\"0-b\">Salpingectomy, complete or partial, unilateral or bilateral (separate procedure)</td><td id=\"0-c\">248.00</td><td id=\"0-d\">248.00</td></tr>\n<tr><td id=\"0-e\">58720</td><td id=\"0-f\">Salpingo-oophorectomy, complete or partial, unilateral or bilateral (separate procedure)</td><td id=\"0-g\">193.00</td><td id=\"0-h\">220.00</td></tr>\n<tr><td id=\"0-i\">Ovary</td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Excision</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">58940</td><td id=\"0-r\">Oophorectomy, partial or total, unilateral or bilateral</td><td id=\"0-s\">193.00</td><td id=\"0-t\">220.00</td></tr>\n<tr><td id=\"0-u\" colspan=\"2\">Endoscopy-Laparoscopy</td><td id=\"0-v\"></td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">58980</td><td id=\"0-y\">Laparoscopy for visualization of pelvic viscera</td><td id=\"0-z\">60.00</td><td id=\"0-A\">75.00</td></tr>\n<tr><td id=\"0-B\">58982</td><td id=\"0-C\">With fulguration of oviducts (with or without transection)</td><td id=\"0-D\">88.00</td><td id=\"0-E\">110.00</td></tr>\n<tr><td id=\"0-F\">58984</td><td id=\"0-G\">With fulguration of ovarian or peritoneal lesions</td><td id=\"0-H\">88.00</td><td id=\"0-I\">110.00</td></tr>\n<tr><td id=\"0-J\">58985</td><td id=\"0-K\">With lysis of adhesions</td><td id=\"0-L\">88.00</td><td id=\"0-M\">110.00</td></tr>\n<tr><td id=\"0-N\">58986</td><td id=\"0-O\">With biopsy (single or multiple)</td><td id=\"0-P\">88.00</td><td id=\"0-Q\">110.00</td></tr>\n<tr><td id=\"0-R\">58987</td><td id=\"0-S\">With aspiration (single or multiple)</td><td id=\"0-T\">88.00</td><td id=\"0-U\">110.00</td></tr>\n<tr><td id=\"0-V\" colspan=\"2\">Maternity Care and Delivery</td><td id=\"0-W\"></td><td id=\"0-X\"></td></tr>\n<tr><td id=\"0-Y\">Incision</td><td id=\"0-Z\"></td><td id=\"0-10\"></td><td id=\"0-11\"></td></tr>\n<tr><td id=\"0-12\">59101</td><td id=\"0-13\">Hysterotomy for removal, Hydatiform mole, with tubal ligation</td><td id=\"0-14\">200.00</td><td id=\"0-15\">250.00</td></tr>\n<tr><td id=\"0-16\">Delivery</td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\"></td></tr>\n<tr><td id=\"0-1a\">59410</td><td id=\"0-1b\">Vaginal delivery only (with or without episiotomy, forceps or breech delivery including in-hospital postpartum care (separate procedure)</td><td id=\"0-1c\">193.00</td><td id=\"0-1d\">220.00</td></tr>\n<tr><td id=\"0-1e\">Cesarean Section</td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td></tr>\n<tr><td id=\"0-1i\">59500</td><td id=\"0-1j\">Cesarean section, low cervical, including in-hospital postpartum care (separate procedure)</td><td id=\"0-1k\">200.00</td><td id=\"0-1l\">250.00</td></tr>\n<tr><td id=\"0-1m\">59520</td><td id=\"0-1n\">Cesarean section, classic, including in-hospital postpartum care (separate procedure)</td><td id=\"0-1o\">220.00</td><td id=\"0-1p\">275.00</td></tr>\n</table>\n\n<a id='bf3b04d9-500c-4daf-b1a3-1594bedb2e0f'></a>\n\nMO MEDICAID PROVIDER MANUAL\nPHYSICIAN - PROCEDURE CODES\n19-43\n\n<a id='65590228-b9f4-4696-9b3a-aa5cb2a588dd'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nlcf0227",
+            "chunks": [
+                "8fac7a73-3579-48b2-a832-85489623f164",
+                "e5ee2366-0222-489f-ae2d-ca521c3d7113",
+                "bf3b04d9-500c-4daf-b1a3-1594bedb2e0f",
+                "65590228-b9f4-4696-9b3a-aa5cb2a588dd"
+            ]
+        }
+    ],
+    "grounding": {
+        "8fac7a73-3579-48b2-a832-85489623f164": {
+            "box": {
+                "left": 0.1514306515455246,
+                "top": 0.04193011671304703,
+                "right": 0.19646485149860382,
+                "bottom": 0.05962911993265152
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "e5ee2366-0222-489f-ae2d-ca521c3d7113": {
+            "box": {
+                "left": 0.14614596962928772,
+                "top": 0.09372854232788086,
+                "right": 0.8841228485107422,
+                "bottom": 0.845687747001648
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.09890099586793843,
+                "right": 0.8758540685401695,
+                "bottom": 0.8456643060049984
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.09890099586793843,
+                "right": 0.31143216576869026,
+                "bottom": 0.1171830200716204
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.09890099586793843,
+                "right": 0.7187416627693732,
+                "bottom": 0.1171830200716204
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.09890099586793843,
+                "right": 0.7900289947519923,
+                "bottom": 0.1171830200716204
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.09890099586793843,
+                "right": 0.8757013901847976,
+                "bottom": 0.1171830200716204
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.1171830200716204,
+                "right": 0.31143216576869026,
+                "bottom": 0.13510993264486304
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.1171830200716204,
+                "right": 0.7187416627693732,
+                "bottom": 0.13510993264486304
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.1171830200716204,
+                "right": 0.7900289947519923,
+                "bottom": 0.13510993264486304
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.1171830200716204,
+                "right": 0.8757013901847976,
+                "bottom": 0.13510993264486304
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.13510993264486304,
+                "right": 0.31143216576869026,
+                "bottom": 0.18693300398923007
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.13510993264486304,
+                "right": 0.7187416627693732,
+                "bottom": 0.18693300398923007
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.13510993264486304,
+                "right": 0.7900289947519923,
+                "bottom": 0.18693300398923007
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.13510993264486304,
+                "right": 0.8757013901847976,
+                "bottom": 0.18693300398923007
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.18693300398923007,
+                "right": 0.31143216576869026,
+                "bottom": 0.23654696028928868
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.18693300398923007,
+                "right": 0.7187416627693732,
+                "bottom": 0.23654696028928868
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.18693300398923007,
+                "right": 0.7900289947519923,
+                "bottom": 0.23654696028928868
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.18693300398923007,
+                "right": 0.8757013901847976,
+                "bottom": 0.23654696028928868
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.23654696028928868,
+                "right": 0.31143216576869026,
+                "bottom": 0.2661742398868139
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.23654696028928868,
+                "right": 0.7187416627693732,
+                "bottom": 0.2661742398868139
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.23654696028928868,
+                "right": 0.7900289947519923,
+                "bottom": 0.2661742398868139
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.23654696028928868,
+                "right": 0.8757013901847976,
+                "bottom": 0.2661742398868139
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.2661742398868139,
+                "right": 0.31143216576869026,
+                "bottom": 0.2950865690865285
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.2661742398868139,
+                "right": 0.7187416627693732,
+                "bottom": 0.2950865690865285
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.2661742398868139,
+                "right": 0.7900289947519923,
+                "bottom": 0.2950865690865285
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.2661742398868139,
+                "right": 0.8757013901847976,
+                "bottom": 0.2950865690865285
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.2950865690865285,
+                "right": 0.31143216576869026,
+                "bottom": 0.3372626590524703
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.2950865690865285,
+                "right": 0.7187416627693732,
+                "bottom": 0.3372626590524703
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.2950865690865285,
+                "right": 0.7900289947519923,
+                "bottom": 0.3372626590524703
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.2950865690865285,
+                "right": 0.8757013901847976,
+                "bottom": 0.3372626590524703
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.3372626590524703,
+                "right": 0.7900289947519923,
+                "bottom": 0.40671402937993406
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.3372626590524703,
+                "right": 0.7900289947519923,
+                "bottom": 0.3688532117599159
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.3372626590524703,
+                "right": 0.8757013901847976,
+                "bottom": 0.3688532117599159
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.3688532117599159,
+                "right": 0.31143216576869026,
+                "bottom": 0.40671402937993406
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.3688532117599159,
+                "right": 0.7187416627693732,
+                "bottom": 0.40671402937993406
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.3688532117599159,
+                "right": 0.7900289947519923,
+                "bottom": 0.40671402937993406
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.3688532117599159,
+                "right": 0.8757013901847976,
+                "bottom": 0.40671402937993406
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.40671402937993406,
+                "right": 0.31143216576869026,
+                "bottom": 0.43661660622730736
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.40671402937993406,
+                "right": 0.7187416627693732,
+                "bottom": 0.43661660622730736
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.40671402937993406,
+                "right": 0.7900289947519923,
+                "bottom": 0.43661660622730736
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.40671402937993406,
+                "right": 0.8757013901847976,
+                "bottom": 0.43661660622730736
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.43661660622730736,
+                "right": 0.31143216576869026,
+                "bottom": 0.4658243569741849
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.43661660622730736,
+                "right": 0.7187416627693732,
+                "bottom": 0.4658243569741849
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.43661660622730736,
+                "right": 0.7900289947519923,
+                "bottom": 0.4658243569741849
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.43661660622730736,
+                "right": 0.8757013901847976,
+                "bottom": 0.4658243569741849
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.4658243569741849,
+                "right": 0.31143216576869026,
+                "bottom": 0.4807866375669505
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.4658243569741849,
+                "right": 0.7187416627693732,
+                "bottom": 0.4807866375669505
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.4658243569741849,
+                "right": 0.7900289947519923,
+                "bottom": 0.4807866375669505
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.4658243569741849,
+                "right": 0.8757013901847976,
+                "bottom": 0.4807866375669505
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.4807866375669505,
+                "right": 0.31143216576869026,
+                "bottom": 0.49549292723741445
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.4807866375669505,
+                "right": 0.7187416627693732,
+                "bottom": 0.49549292723741445
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.4807866375669505,
+                "right": 0.7900289947519923,
+                "bottom": 0.49549292723741445
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.4807866375669505,
+                "right": 0.8757013901847976,
+                "bottom": 0.49549292723741445
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.49549292723741445,
+                "right": 0.31143216576869026,
+                "bottom": 0.5137725122384396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.49549292723741445,
+                "right": 0.7187416627693732,
+                "bottom": 0.5137725122384396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.49549292723741445,
+                "right": 0.7900289947519923,
+                "bottom": 0.5137725122384396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.49549292723741445,
+                "right": 0.8757013901847976,
+                "bottom": 0.5137725122384396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.5137725122384396,
+                "right": 0.7900289947519923,
+                "bottom": 0.572836787014225
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.5137725122384396,
+                "right": 0.7900289947519923,
+                "bottom": 0.5441084337820001
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.5137725122384396,
+                "right": 0.8757013901847976,
+                "bottom": 0.5441084337820001
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.5441084337820001,
+                "right": 0.31143216576869026,
+                "bottom": 0.572836787014225
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.5441084337820001,
+                "right": 0.7187416627693732,
+                "bottom": 0.572836787014225
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.5441084337820001,
+                "right": 0.7900289947519923,
+                "bottom": 0.572836787014225
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.5441084337820001,
+                "right": 0.8757013901847976,
+                "bottom": 0.572836787014225
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.572836787014225,
+                "right": 0.31143216576869026,
+                "bottom": 0.6169219511891342
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.572836787014225,
+                "right": 0.7187416627693732,
+                "bottom": 0.6169219511891342
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.572836787014225,
+                "right": 0.7900289947519923,
+                "bottom": 0.6169219511891342
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.572836787014225,
+                "right": 0.8757013901847976,
+                "bottom": 0.6169219511891342
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-16": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.6169219511891342,
+                "right": 0.31143216576869026,
+                "bottom": 0.6465347874574618
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-17": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.6169219511891342,
+                "right": 0.7187416627693732,
+                "bottom": 0.6465347874574618
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-18": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.6169219511891342,
+                "right": 0.7900289947519923,
+                "bottom": 0.6465347874574618
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-19": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.6169219511891342,
+                "right": 0.8757013901847976,
+                "bottom": 0.6465347874574618
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1a": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.6465347874574618,
+                "right": 0.31143216576869026,
+                "bottom": 0.7188170503076421
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1b": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.6465347874574618,
+                "right": 0.7187416627693732,
+                "bottom": 0.7188170503076421
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1c": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.6465347874574618,
+                "right": 0.7900289947519923,
+                "bottom": 0.7188170503076421
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1d": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.6465347874574618,
+                "right": 0.8757013901847976,
+                "bottom": 0.7188170503076421
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1e": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.7188170503076421,
+                "right": 0.31143216576869026,
+                "bottom": 0.7477610338168859
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1f": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.7188170503076421,
+                "right": 0.7187416627693732,
+                "bottom": 0.7477610338168859
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1g": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.7188170503076421,
+                "right": 0.7900289947519923,
+                "bottom": 0.7477610338168859
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1h": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.7188170503076421,
+                "right": 0.8757013901847976,
+                "bottom": 0.7477610338168859
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1i": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.7477610338168859,
+                "right": 0.31143216576869026,
+                "bottom": 0.8020272548023684
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1j": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.7477610338168859,
+                "right": 0.7187416627693732,
+                "bottom": 0.8020272548023684
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1k": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.7477610338168859,
+                "right": 0.7900289947519923,
+                "bottom": 0.8020272548023684
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1l": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.7477610338168859,
+                "right": 0.8757013901847976,
+                "bottom": 0.8020272548023684
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1m": {
+            "box": {
+                "left": 0.14996706499569268,
+                "top": 0.8020272548023684,
+                "right": 0.31143216576869026,
+                "bottom": 0.8456643060049984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1n": {
+            "box": {
+                "left": 0.31143216576869026,
+                "top": 0.8020272548023684,
+                "right": 0.7187416627693732,
+                "bottom": 0.8456643060049984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1o": {
+            "box": {
+                "left": 0.7187416627693732,
+                "top": 0.8020272548023684,
+                "right": 0.7900289947519923,
+                "bottom": 0.8456643060049984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1p": {
+            "box": {
+                "left": 0.7900289947519923,
+                "top": 0.8020272548023684,
+                "right": 0.8757013901847976,
+                "bottom": 0.8456643060049984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "bf3b04d9-500c-4daf-b1a3-1594bedb2e0f": {
+            "box": {
+                "left": 0.38210025429725647,
+                "top": 0.8888490200042725,
+                "right": 0.64287269115448,
+                "bottom": 0.9349737167358398
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "65590228-b9f4-4696-9b3a-aa5cb2a588dd": {
+            "box": {
+                "left": 0.23341161012649536,
+                "top": 0.9802525043487549,
+                "right": 0.7690948843955994,
+                "bottom": 0.9988470077514648
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "nlcf0227_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7238,
+        "credit_usage": 3.0,
+        "job_id": "e0j6g6odqh7kzrdi2iycp6hau",
+        "version": "dpt-2-20250919"
+    }
+}

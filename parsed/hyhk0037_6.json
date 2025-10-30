@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='cf0b826b-96d2-4f20-b08c-758b87b83069'></a>\n\n<::logo: Brown & Williamson\nB&W\nThe logo features three stylized black leaf-like shapes arranged in a cluster above the text \"B&W\".::>\n\n<a id='d7224797-972b-4c2a-a9e0-4e5e3bcd4d10'></a>\n\nKOOL 100\n\n<a id='bd8ff983-0da5-4c78-9cc5-d13471329ec1'></a>\n\n**Objective**\n\n* Using KOOL \"C\" Technologies, Develop A KOOL 100 Product That Is Superior To Newport 100 Among KOOL 100 Smokers\n\n<a id='7e8abf17-8837-4ccb-a846-17be379bb183'></a>\n\n# CPT Results\n\n* *KOOL \"C\" Was Superior (94% C.L.) To Newport 100 And At Parity With Current KOOL 100 Among KOOL 100 Smokers*\n* *KOOL 100 Smokers Found KOOL \"C\" To Have More And Better Menthol Taste*\n\n<a id='4abf0719-9daa-4f36-a145-c6d1da96bd25'></a>\n\n\u25ba **Status**\n* *KOOL \"C\" With 0.57% Menthol And 17% Vent Was Implemented October 1994*\n\n<a id='f00931bd-b095-41bc-b7b8-cb94a14cdfe3'></a>\n\nDMP5\n\n<a id='fd4e3c6b-a467-424c-b701-6b5e77a78b20'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hyhk0037.\n\n<a id='5ed0d41d-6ac4-4f09-9293-a3422178581d'></a>\n\n399000383",
+    "chunks": [
+        {
+            "markdown": "<a id='cf0b826b-96d2-4f20-b08c-758b87b83069'></a>\n\n<::logo: Brown & Williamson\nB&W\nThe logo features three stylized black leaf-like shapes arranged in a cluster above the text \"B&W\".::>",
+            "type": "logo",
+            "id": "cf0b826b-96d2-4f20-b08c-758b87b83069",
+            "grounding": {
+                "box": {
+                    "left": 0.0612071268260479,
+                    "top": 0.07058590650558472,
+                    "right": 0.14556677639484406,
+                    "bottom": 0.18689429759979248
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d7224797-972b-4c2a-a9e0-4e5e3bcd4d10'></a>\n\nKOOL 100",
+            "type": "text",
+            "id": "d7224797-972b-4c2a-a9e0-4e5e3bcd4d10",
+            "grounding": {
+                "box": {
+                    "left": 0.37426334619522095,
+                    "top": 0.09326055645942688,
+                    "right": 0.6375451683998108,
+                    "bottom": 0.1664997935295105
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bd8ff983-0da5-4c78-9cc5-d13471329ec1'></a>\n\n**Objective**\n\n* Using KOOL \"C\" Technologies, Develop A KOOL 100 Product That Is Superior To Newport 100 Among KOOL 100 Smokers",
+            "type": "text",
+            "id": "bd8ff983-0da5-4c78-9cc5-d13471329ec1",
+            "grounding": {
+                "box": {
+                    "left": 0.1218850314617157,
+                    "top": 0.26460012793540955,
+                    "right": 0.8594242334365845,
+                    "bottom": 0.40846875309944153
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7e8abf17-8837-4ccb-a846-17be379bb183'></a>\n\n# CPT Results\n\n* *KOOL \"C\" Was Superior (94% C.L.) To Newport 100 And At Parity With Current KOOL 100 Among KOOL 100 Smokers*\n* *KOOL 100 Smokers Found KOOL \"C\" To Have More And Better Menthol Taste*",
+            "type": "text",
+            "id": "7e8abf17-8837-4ccb-a846-17be379bb183",
+            "grounding": {
+                "box": {
+                    "left": 0.12108016014099121,
+                    "top": 0.44553905725479126,
+                    "right": 0.8499881029129028,
+                    "bottom": 0.673266589641571
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4abf0719-9daa-4f36-a145-c6d1da96bd25'></a>\n\n\u25ba **Status**\n* *KOOL \"C\" With 0.57% Menthol And 17% Vent Was Implemented October 1994*",
+            "type": "text",
+            "id": "4abf0719-9daa-4f36-a145-c6d1da96bd25",
+            "grounding": {
+                "box": {
+                    "left": 0.11942031979560852,
+                    "top": 0.71526038646698,
+                    "right": 0.8862791061401367,
+                    "bottom": 0.8604112863540649
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f00931bd-b095-41bc-b7b8-cb94a14cdfe3'></a>\n\nDMP5",
+            "type": "marginalia",
+            "id": "f00931bd-b095-41bc-b7b8-cb94a14cdfe3",
+            "grounding": {
+                "box": {
+                    "left": 0.9035942554473877,
+                    "top": 0.9502416849136353,
+                    "right": 0.9361785650253296,
+                    "bottom": 0.9729396104812622
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fd4e3c6b-a467-424c-b701-6b5e77a78b20'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hyhk0037.",
+            "type": "marginalia",
+            "id": "fd4e3c6b-a467-424c-b701-6b5e77a78b20",
+            "grounding": {
+                "box": {
+                    "left": 0.28459632396698,
+                    "top": 0.969017744064331,
+                    "right": 0.7165192365646362,
+                    "bottom": 0.9997789859771729
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5ed0d41d-6ac4-4f09-9293-a3422178581d'></a>\n\n399000383",
+            "type": "text",
+            "id": "5ed0d41d-6ac4-4f09-9293-a3422178581d",
+            "grounding": {
+                "box": {
+                    "left": 0.043011851608753204,
+                    "top": 0.7519599795341492,
+                    "right": 0.07545915991067886,
+                    "bottom": 0.931713879108429
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='cf0b826b-96d2-4f20-b08c-758b87b83069'></a>\n\n<::logo: Brown & Williamson\nB&W\nThe logo features three stylized black leaf-like shapes arranged in a cluster above the text \"B&W\".::>\n\n<a id='d7224797-972b-4c2a-a9e0-4e5e3bcd4d10'></a>\n\nKOOL 100\n\n<a id='bd8ff983-0da5-4c78-9cc5-d13471329ec1'></a>\n\n**Objective**\n\n* Using KOOL \"C\" Technologies, Develop A KOOL 100 Product That Is Superior To Newport 100 Among KOOL 100 Smokers\n\n<a id='7e8abf17-8837-4ccb-a846-17be379bb183'></a>\n\n# CPT Results\n\n* *KOOL \"C\" Was Superior (94% C.L.) To Newport 100 And At Parity With Current KOOL 100 Among KOOL 100 Smokers*\n* *KOOL 100 Smokers Found KOOL \"C\" To Have More And Better Menthol Taste*\n\n<a id='4abf0719-9daa-4f36-a145-c6d1da96bd25'></a>\n\n\u25ba **Status**\n* *KOOL \"C\" With 0.57% Menthol And 17% Vent Was Implemented October 1994*\n\n<a id='f00931bd-b095-41bc-b7b8-cb94a14cdfe3'></a>\n\nDMP5\n\n<a id='fd4e3c6b-a467-424c-b701-6b5e77a78b20'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hyhk0037.\n\n<a id='5ed0d41d-6ac4-4f09-9293-a3422178581d'></a>\n\n399000383",
+            "chunks": [
+                "cf0b826b-96d2-4f20-b08c-758b87b83069",
+                "d7224797-972b-4c2a-a9e0-4e5e3bcd4d10",
+                "bd8ff983-0da5-4c78-9cc5-d13471329ec1",
+                "7e8abf17-8837-4ccb-a846-17be379bb183",
+                "4abf0719-9daa-4f36-a145-c6d1da96bd25",
+                "f00931bd-b095-41bc-b7b8-cb94a14cdfe3",
+                "fd4e3c6b-a467-424c-b701-6b5e77a78b20",
+                "5ed0d41d-6ac4-4f09-9293-a3422178581d"
+            ]
+        }
+    ],
+    "grounding": {
+        "cf0b826b-96d2-4f20-b08c-758b87b83069": {
+            "box": {
+                "left": 0.0612071268260479,
+                "top": 0.07058590650558472,
+                "right": 0.14556677639484406,
+                "bottom": 0.18689429759979248
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "d7224797-972b-4c2a-a9e0-4e5e3bcd4d10": {
+            "box": {
+                "left": 0.37426334619522095,
+                "top": 0.09326055645942688,
+                "right": 0.6375451683998108,
+                "bottom": 0.1664997935295105
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bd8ff983-0da5-4c78-9cc5-d13471329ec1": {
+            "box": {
+                "left": 0.1218850314617157,
+                "top": 0.26460012793540955,
+                "right": 0.8594242334365845,
+                "bottom": 0.40846875309944153
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7e8abf17-8837-4ccb-a846-17be379bb183": {
+            "box": {
+                "left": 0.12108016014099121,
+                "top": 0.44553905725479126,
+                "right": 0.8499881029129028,
+                "bottom": 0.673266589641571
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4abf0719-9daa-4f36-a145-c6d1da96bd25": {
+            "box": {
+                "left": 0.11942031979560852,
+                "top": 0.71526038646698,
+                "right": 0.8862791061401367,
+                "bottom": 0.8604112863540649
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f00931bd-b095-41bc-b7b8-cb94a14cdfe3": {
+            "box": {
+                "left": 0.9035942554473877,
+                "top": 0.9502416849136353,
+                "right": 0.9361785650253296,
+                "bottom": 0.9729396104812622
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "fd4e3c6b-a467-424c-b701-6b5e77a78b20": {
+            "box": {
+                "left": 0.28459632396698,
+                "top": 0.969017744064331,
+                "right": 0.7165192365646362,
+                "bottom": 0.9997789859771729
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "5ed0d41d-6ac4-4f09-9293-a3422178581d": {
+            "box": {
+                "left": 0.043011851608753204,
+                "top": 0.7519599795341492,
+                "right": 0.07545915991067886,
+                "bottom": 0.931713879108429
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "hyhk0037_6.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8378,
+        "credit_usage": 3.0,
+        "job_id": "byzeay6xs9zux89lmbqol8pif",
+        "version": "dpt-2-20250919"
+    }
+}

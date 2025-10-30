@@ -1,0 +1,303 @@
+{
+    "markdown": "<a id='42e995d3-49a8-4e0c-902d-26f4954624d2'></a>\n\n<::logo: Elsevier\nELSEVIER\nThe logo features a stylized tree with roots and branches, rendered in a halftone dot pattern, above the company name.::>\n\n<a id='37c779a1-a556-4a7b-afcc-500ba4ee0ae6'></a>\n\nREGULATORY TOXICOLOGY\nAND PHARMACOLOGY\n\nAN INTERNATIONAL JOURNAL\n\n<a id='a8527b7d-4428-41ad-9d24-37eb620fbb5e'></a>\n\n<::attestation: Typed signature block\nSignature: legible\nReadable Text: Dr. Gio Batta Gori\nEditor-in-Chief\nShort description of visual elements and positioning: Centered text block::>\n\n<a id='76a865f6-3070-4447-b338-67878d7fef65'></a>\n\nThe Honorable John Barrasso\nChairman, Senate Committee on Environment & Public Works\n410 Dirksen Senate Office Building\nWashington, DC 20510-6175\n\n<a id='d7332862-8bfe-4c55-b79c-bf85adf58cc7'></a>\n\nDear Senator Barrasso,\n\n<a id='ae577ed4-cd75-4c63-bedd-db81c6d6c421'></a>\n\nThis letter is to endorse the nomination of Dr. Michael L. Dourson, as Assistant Administrator of the Environmental Protection Agency's Office of Chemical Safety and Pollution Prevention.\n\n<a id='14c52efb-c406-4c9f-b385-43771610a451'></a>\n\nDr. Dourson is an outstanding scientist whose career in toxicology spans nearly forty years, the early half of which with the EPA itself in critical positions of science, policy and administration. Dr. Dourson would bring an unparalleled breadth of experience and savvy to this position, and is ready to run full speed from the start.\n\n<a id='5d10a4bf-69b7-4540-af3f-7f02cb8f1728'></a>\n\nDr. Dourson has a can do and winning temperament that inspires confidence, and is well known as an engaging and skillful negotiator. I wholeheartedly endorse his nomination.\n\n<a id='73a9963d-8466-403e-bd93-4b8454a55a0e'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nRespectfully,\nA handwritten signature is present below the word \"Respectfully,\" on the left side of the document.::>\n\n<a id='9e885277-e1e5-47ae-b374-a976983fc2b5'></a>\n\n6704 Barr Road\nBethesda, MD 2016\n+1-301-229-4277\ngorigb@msn.com\n\n<a id='f67686c5-875c-49cf-91e5-e18ff1add530'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ppbn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='42e995d3-49a8-4e0c-902d-26f4954624d2'></a>\n\n<::logo: Elsevier\nELSEVIER\nThe logo features a stylized tree with roots and branches, rendered in a halftone dot pattern, above the company name.::>",
+            "type": "logo",
+            "id": "42e995d3-49a8-4e0c-902d-26f4954624d2",
+            "grounding": {
+                "box": {
+                    "left": 0.10915616154670715,
+                    "top": 0.15307503938674927,
+                    "right": 0.28073227405548096,
+                    "bottom": 0.2856568396091461
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='37c779a1-a556-4a7b-afcc-500ba4ee0ae6'></a>\n\nREGULATORY TOXICOLOGY\nAND PHARMACOLOGY\n\nAN INTERNATIONAL JOURNAL",
+            "type": "text",
+            "id": "37c779a1-a556-4a7b-afcc-500ba4ee0ae6",
+            "grounding": {
+                "box": {
+                    "left": 0.38191354274749756,
+                    "top": 0.18521958589553833,
+                    "right": 0.7685461044311523,
+                    "bottom": 0.27704232931137085
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a8527b7d-4428-41ad-9d24-37eb620fbb5e'></a>\n\n<::attestation: Typed signature block\nSignature: legible\nReadable Text: Dr. Gio Batta Gori\nEditor-in-Chief\nShort description of visual elements and positioning: Centered text block::>",
+            "type": "attestation",
+            "id": "a8527b7d-4428-41ad-9d24-37eb620fbb5e",
+            "grounding": {
+                "box": {
+                    "left": 0.6426628232002258,
+                    "top": 0.29194214940071106,
+                    "right": 0.802856981754303,
+                    "bottom": 0.32320764660835266
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='76a865f6-3070-4447-b338-67878d7fef65'></a>\n\nThe Honorable John Barrasso\nChairman, Senate Committee on Environment & Public Works\n410 Dirksen Senate Office Building\nWashington, DC 20510-6175",
+            "type": "text",
+            "id": "76a865f6-3070-4447-b338-67878d7fef65",
+            "grounding": {
+                "box": {
+                    "left": 0.11254540085792542,
+                    "top": 0.33808499574661255,
+                    "right": 0.5768089294433594,
+                    "bottom": 0.40955132246017456
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d7332862-8bfe-4c55-b79c-bf85adf58cc7'></a>\n\nDear Senator Barrasso,",
+            "type": "text",
+            "id": "d7332862-8bfe-4c55-b79c-bf85adf58cc7",
+            "grounding": {
+                "box": {
+                    "left": 0.113005131483078,
+                    "top": 0.42370274662971497,
+                    "right": 0.2912406623363495,
+                    "bottom": 0.4423842132091522
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ae577ed4-cd75-4c63-bedd-db81c6d6c421'></a>\n\nThis letter is to endorse the nomination of Dr. Michael L. Dourson, as Assistant Administrator of the Environmental Protection Agency's Office of Chemical Safety and Pollution Prevention.",
+            "type": "text",
+            "id": "ae577ed4-cd75-4c63-bedd-db81c6d6c421",
+            "grounding": {
+                "box": {
+                    "left": 0.1125253438949585,
+                    "top": 0.4561382234096527,
+                    "right": 0.8512486815452576,
+                    "bottom": 0.4937610328197479
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='14c52efb-c406-4c9f-b385-43771610a451'></a>\n\nDr. Dourson is an outstanding scientist whose career in toxicology spans nearly forty years, the early half of which with the EPA itself in critical positions of science, policy and administration. Dr. Dourson would bring an unparalleled breadth of experience and savvy to this position, and is ready to run full speed from the start.",
+            "type": "text",
+            "id": "14c52efb-c406-4c9f-b385-43771610a451",
+            "grounding": {
+                "box": {
+                    "left": 0.11263549327850342,
+                    "top": 0.5074629783630371,
+                    "right": 0.8880354166030884,
+                    "bottom": 0.5777895450592041
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5d10a4bf-69b7-4540-af3f-7f02cb8f1728'></a>\n\nDr. Dourson has a can do and winning temperament that inspires confidence, and is well known as an engaging and skillful negotiator. I wholeheartedly endorse his nomination.",
+            "type": "text",
+            "id": "5d10a4bf-69b7-4540-af3f-7f02cb8f1728",
+            "grounding": {
+                "box": {
+                    "left": 0.11217758059501648,
+                    "top": 0.5924615859985352,
+                    "right": 0.8648756742477417,
+                    "bottom": 0.6303813457489014
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='73a9963d-8466-403e-bd93-4b8454a55a0e'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nRespectfully,\nA handwritten signature is present below the word \"Respectfully,\" on the left side of the document.::>",
+            "type": "attestation",
+            "id": "73a9963d-8466-403e-bd93-4b8454a55a0e",
+            "grounding": {
+                "box": {
+                    "left": 0.11375510692596436,
+                    "top": 0.642880380153656,
+                    "right": 0.6176913976669312,
+                    "bottom": 0.7203056216239929
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9e885277-e1e5-47ae-b374-a976983fc2b5'></a>\n\n6704 Barr Road\nBethesda, MD 2016\n+1-301-229-4277\ngorigb@msn.com",
+            "type": "text",
+            "id": "9e885277-e1e5-47ae-b374-a976983fc2b5",
+            "grounding": {
+                "box": {
+                    "left": 0.11180708557367325,
+                    "top": 0.7532615661621094,
+                    "right": 0.2682635188102722,
+                    "bottom": 0.8268855810165405
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f67686c5-875c-49cf-91e5-e18ff1add530'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ppbn0226",
+            "type": "marginalia",
+            "id": "f67686c5-875c-49cf-91e5-e18ff1add530",
+            "grounding": {
+                "box": {
+                    "left": 0.21222060918807983,
+                    "top": 0.9771783351898193,
+                    "right": 0.7878215909004211,
+                    "bottom": 0.9995685815811157
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='42e995d3-49a8-4e0c-902d-26f4954624d2'></a>\n\n<::logo: Elsevier\nELSEVIER\nThe logo features a stylized tree with roots and branches, rendered in a halftone dot pattern, above the company name.::>\n\n<a id='37c779a1-a556-4a7b-afcc-500ba4ee0ae6'></a>\n\nREGULATORY TOXICOLOGY\nAND PHARMACOLOGY\n\nAN INTERNATIONAL JOURNAL\n\n<a id='a8527b7d-4428-41ad-9d24-37eb620fbb5e'></a>\n\n<::attestation: Typed signature block\nSignature: legible\nReadable Text: Dr. Gio Batta Gori\nEditor-in-Chief\nShort description of visual elements and positioning: Centered text block::>\n\n<a id='76a865f6-3070-4447-b338-67878d7fef65'></a>\n\nThe Honorable John Barrasso\nChairman, Senate Committee on Environment & Public Works\n410 Dirksen Senate Office Building\nWashington, DC 20510-6175\n\n<a id='d7332862-8bfe-4c55-b79c-bf85adf58cc7'></a>\n\nDear Senator Barrasso,\n\n<a id='ae577ed4-cd75-4c63-bedd-db81c6d6c421'></a>\n\nThis letter is to endorse the nomination of Dr. Michael L. Dourson, as Assistant Administrator of the Environmental Protection Agency's Office of Chemical Safety and Pollution Prevention.\n\n<a id='14c52efb-c406-4c9f-b385-43771610a451'></a>\n\nDr. Dourson is an outstanding scientist whose career in toxicology spans nearly forty years, the early half of which with the EPA itself in critical positions of science, policy and administration. Dr. Dourson would bring an unparalleled breadth of experience and savvy to this position, and is ready to run full speed from the start.\n\n<a id='5d10a4bf-69b7-4540-af3f-7f02cb8f1728'></a>\n\nDr. Dourson has a can do and winning temperament that inspires confidence, and is well known as an engaging and skillful negotiator. I wholeheartedly endorse his nomination.\n\n<a id='73a9963d-8466-403e-bd93-4b8454a55a0e'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nRespectfully,\nA handwritten signature is present below the word \"Respectfully,\" on the left side of the document.::>\n\n<a id='9e885277-e1e5-47ae-b374-a976983fc2b5'></a>\n\n6704 Barr Road\nBethesda, MD 2016\n+1-301-229-4277\ngorigb@msn.com\n\n<a id='f67686c5-875c-49cf-91e5-e18ff1add530'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ppbn0226",
+            "chunks": [
+                "42e995d3-49a8-4e0c-902d-26f4954624d2",
+                "37c779a1-a556-4a7b-afcc-500ba4ee0ae6",
+                "a8527b7d-4428-41ad-9d24-37eb620fbb5e",
+                "76a865f6-3070-4447-b338-67878d7fef65",
+                "d7332862-8bfe-4c55-b79c-bf85adf58cc7",
+                "ae577ed4-cd75-4c63-bedd-db81c6d6c421",
+                "14c52efb-c406-4c9f-b385-43771610a451",
+                "5d10a4bf-69b7-4540-af3f-7f02cb8f1728",
+                "73a9963d-8466-403e-bd93-4b8454a55a0e",
+                "9e885277-e1e5-47ae-b374-a976983fc2b5",
+                "f67686c5-875c-49cf-91e5-e18ff1add530"
+            ]
+        }
+    ],
+    "grounding": {
+        "42e995d3-49a8-4e0c-902d-26f4954624d2": {
+            "box": {
+                "left": 0.10915616154670715,
+                "top": 0.15307503938674927,
+                "right": 0.28073227405548096,
+                "bottom": 0.2856568396091461
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "37c779a1-a556-4a7b-afcc-500ba4ee0ae6": {
+            "box": {
+                "left": 0.38191354274749756,
+                "top": 0.18521958589553833,
+                "right": 0.7685461044311523,
+                "bottom": 0.27704232931137085
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a8527b7d-4428-41ad-9d24-37eb620fbb5e": {
+            "box": {
+                "left": 0.6426628232002258,
+                "top": 0.29194214940071106,
+                "right": 0.802856981754303,
+                "bottom": 0.32320764660835266
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "76a865f6-3070-4447-b338-67878d7fef65": {
+            "box": {
+                "left": 0.11254540085792542,
+                "top": 0.33808499574661255,
+                "right": 0.5768089294433594,
+                "bottom": 0.40955132246017456
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d7332862-8bfe-4c55-b79c-bf85adf58cc7": {
+            "box": {
+                "left": 0.113005131483078,
+                "top": 0.42370274662971497,
+                "right": 0.2912406623363495,
+                "bottom": 0.4423842132091522
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ae577ed4-cd75-4c63-bedd-db81c6d6c421": {
+            "box": {
+                "left": 0.1125253438949585,
+                "top": 0.4561382234096527,
+                "right": 0.8512486815452576,
+                "bottom": 0.4937610328197479
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "14c52efb-c406-4c9f-b385-43771610a451": {
+            "box": {
+                "left": 0.11263549327850342,
+                "top": 0.5074629783630371,
+                "right": 0.8880354166030884,
+                "bottom": 0.5777895450592041
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5d10a4bf-69b7-4540-af3f-7f02cb8f1728": {
+            "box": {
+                "left": 0.11217758059501648,
+                "top": 0.5924615859985352,
+                "right": 0.8648756742477417,
+                "bottom": 0.6303813457489014
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "73a9963d-8466-403e-bd93-4b8454a55a0e": {
+            "box": {
+                "left": 0.11375510692596436,
+                "top": 0.642880380153656,
+                "right": 0.6176913976669312,
+                "bottom": 0.7203056216239929
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "9e885277-e1e5-47ae-b374-a976983fc2b5": {
+            "box": {
+                "left": 0.11180708557367325,
+                "top": 0.7532615661621094,
+                "right": 0.2682635188102722,
+                "bottom": 0.8268855810165405
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f67686c5-875c-49cf-91e5-e18ff1add530": {
+            "box": {
+                "left": 0.21222060918807983,
+                "top": 0.9771783351898193,
+                "right": 0.7878215909004211,
+                "bottom": 0.9995685815811157
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "ppbn0226_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5092,
+        "credit_usage": 3.0,
+        "job_id": "z4myovdd3hphfnewcr4w2ncuq",
+        "version": "dpt-2-20250919"
+    }
+}

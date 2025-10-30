@@ -1,0 +1,698 @@
+{
+    "markdown": "<a id='e07231c2-df40-4ebb-afb5-069e08e74707'></a>\n\nMay 3, 1968\n\n<a id='41d65786-f62d-4542-9aee-cf410c0533c7'></a>\n\nMANUSCRIPT COMMITMENTS\n\n<a id='419f0815-7271-4a99-b5c6-aaf8a7eb9906'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Author</td><td id=\"0-3\">Subject</td><td id=\"0-4\">Date</td><td id=\"0-5\">Manuscript Due</td></tr>\n<tr><td id=\"0-6\">Thomas Brewer, M.D.</td><td id=\"0-7\">Nutritional Aspects in Eclampsia</td><td id=\"0-8\">4/68</td><td id=\"0-9\">5/68</td></tr>\n<tr><td id=\"0-a\">Frances Berkeley Floore</td><td id=\"0-b\">Little Land Snail</td><td id=\"0-c\">3/68</td><td id=\"0-d\">In possession</td></tr>\n<tr><td id=\"0-e\">William Darby, M.D.</td><td id=\"0-f\">Nutritional Status of Man</td><td id=\"0-g\">1/68</td><td id=\"0-h\">5/1</td></tr>\n<tr><td id=\"0-i\">Dr. F. W. Hill</td><td id=\"0-j\">Programming Nutrition -- Animals</td><td id=\"0-k\">3/68</td><td id=\"0-l\">7/1</td></tr>\n<tr><td id=\"0-m\">Sir Raymond Priestly</td><td id=\"0-n\">An Interview with Sir Raymond Priestly</td><td id=\"0-o\">5/68</td><td id=\"0-p\">5/68</td></tr>\n<tr><td id=\"0-q\">Dr. William Siri</td><td id=\"0-r\">Nutrition and Mountain Climbing</td><td id=\"0-s\">3/68</td><td id=\"0-t\">7/1/68</td></tr>\n<tr><td id=\"0-u\">Capt. Villiers:</td><td id=\"0-v\">An Afternoon with Alan Villiers (The explorer and his food)</td><td id=\"0-w\">4/68</td><td id=\"0-x\">5/68</td></tr>\n<tr><td id=\"0-y\">Samuel Lepkovsky, Ph. D.</td><td id=\"0-z\">Taste</td><td id=\"0-A\">1967</td><td id=\"0-B\">6/15/68</td></tr>\n<tr><td id=\"0-C\">Franz J. Ingelfinger, M.D.</td><td id=\"0-D\">The Large Bowel</td><td id=\"0-E\">12/67</td><td id=\"0-F\">7/68</td></tr>\n<tr><td id=\"0-G\">Lowell Thomas Willard Krehl, M.D.</td><td id=\"0-H\">Nutrition and the Explorer</td><td id=\"0-I\">11/67</td><td id=\"0-J\">5/14</td></tr>\n<tr><td id=\"0-K\"></td><td id=\"0-L\">SUBJECTS UNDER DISCUSSION</td><td id=\"0-M\"></td><td id=\"0-N\"></td></tr>\n<tr><td id=\"0-O\">C.B. Brown, M.D.</td><td id=\"0-P\">Hospital \"Eat-In\"</td><td id=\"0-Q\">4/68</td><td id=\"0-R\">No reply as yet</td></tr>\n<tr><td id=\"0-S\">Mrs. John P. Conrad</td><td id=\"0-T\">Food Allergies</td><td id=\"0-U\">2/68</td><td id=\"0-V\">Would like to do article.</td></tr>\n</table>\n\n<a id='c1db4159-04b3-4def-9a32-0bca33882393'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rlvd0227",
+    "chunks": [
+        {
+            "markdown": "<a id='e07231c2-df40-4ebb-afb5-069e08e74707'></a>\n\nMay 3, 1968",
+            "type": "marginalia",
+            "id": "e07231c2-df40-4ebb-afb5-069e08e74707",
+            "grounding": {
+                "box": {
+                    "left": 0.7301322221755981,
+                    "top": 0.03112853690981865,
+                    "right": 0.8616741895675659,
+                    "bottom": 0.05306212231516838
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='41d65786-f62d-4542-9aee-cf410c0533c7'></a>\n\nMANUSCRIPT COMMITMENTS",
+            "type": "text",
+            "id": "41d65786-f62d-4542-9aee-cf410c0533c7",
+            "grounding": {
+                "box": {
+                    "left": 0.35356196761131287,
+                    "top": 0.08865442872047424,
+                    "right": 0.5883290767669678,
+                    "bottom": 0.11431913077831268
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='419f0815-7271-4a99-b5c6-aaf8a7eb9906'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Author</td><td id=\"0-3\">Subject</td><td id=\"0-4\">Date</td><td id=\"0-5\">Manuscript Due</td></tr>\n<tr><td id=\"0-6\">Thomas Brewer, M.D.</td><td id=\"0-7\">Nutritional Aspects in Eclampsia</td><td id=\"0-8\">4/68</td><td id=\"0-9\">5/68</td></tr>\n<tr><td id=\"0-a\">Frances Berkeley Floore</td><td id=\"0-b\">Little Land Snail</td><td id=\"0-c\">3/68</td><td id=\"0-d\">In possession</td></tr>\n<tr><td id=\"0-e\">William Darby, M.D.</td><td id=\"0-f\">Nutritional Status of Man</td><td id=\"0-g\">1/68</td><td id=\"0-h\">5/1</td></tr>\n<tr><td id=\"0-i\">Dr. F. W. Hill</td><td id=\"0-j\">Programming Nutrition -- Animals</td><td id=\"0-k\">3/68</td><td id=\"0-l\">7/1</td></tr>\n<tr><td id=\"0-m\">Sir Raymond Priestly</td><td id=\"0-n\">An Interview with Sir Raymond Priestly</td><td id=\"0-o\">5/68</td><td id=\"0-p\">5/68</td></tr>\n<tr><td id=\"0-q\">Dr. William Siri</td><td id=\"0-r\">Nutrition and Mountain Climbing</td><td id=\"0-s\">3/68</td><td id=\"0-t\">7/1/68</td></tr>\n<tr><td id=\"0-u\">Capt. Villiers:</td><td id=\"0-v\">An Afternoon with Alan Villiers (The explorer and his food)</td><td id=\"0-w\">4/68</td><td id=\"0-x\">5/68</td></tr>\n<tr><td id=\"0-y\">Samuel Lepkovsky, Ph. D.</td><td id=\"0-z\">Taste</td><td id=\"0-A\">1967</td><td id=\"0-B\">6/15/68</td></tr>\n<tr><td id=\"0-C\">Franz J. Ingelfinger, M.D.</td><td id=\"0-D\">The Large Bowel</td><td id=\"0-E\">12/67</td><td id=\"0-F\">7/68</td></tr>\n<tr><td id=\"0-G\">Lowell Thomas Willard Krehl, M.D.</td><td id=\"0-H\">Nutrition and the Explorer</td><td id=\"0-I\">11/67</td><td id=\"0-J\">5/14</td></tr>\n<tr><td id=\"0-K\"></td><td id=\"0-L\">SUBJECTS UNDER DISCUSSION</td><td id=\"0-M\"></td><td id=\"0-N\"></td></tr>\n<tr><td id=\"0-O\">C.B. Brown, M.D.</td><td id=\"0-P\">Hospital \"Eat-In\"</td><td id=\"0-Q\">4/68</td><td id=\"0-R\">No reply as yet</td></tr>\n<tr><td id=\"0-S\">Mrs. John P. Conrad</td><td id=\"0-T\">Food Allergies</td><td id=\"0-U\">2/68</td><td id=\"0-V\">Would like to do article.</td></tr>\n</table>",
+            "type": "table",
+            "id": "419f0815-7271-4a99-b5c6-aaf8a7eb9906",
+            "grounding": {
+                "box": {
+                    "left": 0.044737935066223145,
+                    "top": 0.1459071934223175,
+                    "right": 0.9550501704216003,
+                    "bottom": 0.8249547481536865
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c1db4159-04b3-4def-9a32-0bca33882393'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rlvd0227",
+            "type": "text",
+            "id": "c1db4159-04b3-4def-9a32-0bca33882393",
+            "grounding": {
+                "box": {
+                    "left": 0.23152607679367065,
+                    "top": 0.9791672825813293,
+                    "right": 0.7728027701377869,
+                    "bottom": 0.9994896054267883
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e07231c2-df40-4ebb-afb5-069e08e74707'></a>\n\nMay 3, 1968\n\n<a id='41d65786-f62d-4542-9aee-cf410c0533c7'></a>\n\nMANUSCRIPT COMMITMENTS\n\n<a id='419f0815-7271-4a99-b5c6-aaf8a7eb9906'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Author</td><td id=\"0-3\">Subject</td><td id=\"0-4\">Date</td><td id=\"0-5\">Manuscript Due</td></tr>\n<tr><td id=\"0-6\">Thomas Brewer, M.D.</td><td id=\"0-7\">Nutritional Aspects in Eclampsia</td><td id=\"0-8\">4/68</td><td id=\"0-9\">5/68</td></tr>\n<tr><td id=\"0-a\">Frances Berkeley Floore</td><td id=\"0-b\">Little Land Snail</td><td id=\"0-c\">3/68</td><td id=\"0-d\">In possession</td></tr>\n<tr><td id=\"0-e\">William Darby, M.D.</td><td id=\"0-f\">Nutritional Status of Man</td><td id=\"0-g\">1/68</td><td id=\"0-h\">5/1</td></tr>\n<tr><td id=\"0-i\">Dr. F. W. Hill</td><td id=\"0-j\">Programming Nutrition -- Animals</td><td id=\"0-k\">3/68</td><td id=\"0-l\">7/1</td></tr>\n<tr><td id=\"0-m\">Sir Raymond Priestly</td><td id=\"0-n\">An Interview with Sir Raymond Priestly</td><td id=\"0-o\">5/68</td><td id=\"0-p\">5/68</td></tr>\n<tr><td id=\"0-q\">Dr. William Siri</td><td id=\"0-r\">Nutrition and Mountain Climbing</td><td id=\"0-s\">3/68</td><td id=\"0-t\">7/1/68</td></tr>\n<tr><td id=\"0-u\">Capt. Villiers:</td><td id=\"0-v\">An Afternoon with Alan Villiers (The explorer and his food)</td><td id=\"0-w\">4/68</td><td id=\"0-x\">5/68</td></tr>\n<tr><td id=\"0-y\">Samuel Lepkovsky, Ph. D.</td><td id=\"0-z\">Taste</td><td id=\"0-A\">1967</td><td id=\"0-B\">6/15/68</td></tr>\n<tr><td id=\"0-C\">Franz J. Ingelfinger, M.D.</td><td id=\"0-D\">The Large Bowel</td><td id=\"0-E\">12/67</td><td id=\"0-F\">7/68</td></tr>\n<tr><td id=\"0-G\">Lowell Thomas Willard Krehl, M.D.</td><td id=\"0-H\">Nutrition and the Explorer</td><td id=\"0-I\">11/67</td><td id=\"0-J\">5/14</td></tr>\n<tr><td id=\"0-K\"></td><td id=\"0-L\">SUBJECTS UNDER DISCUSSION</td><td id=\"0-M\"></td><td id=\"0-N\"></td></tr>\n<tr><td id=\"0-O\">C.B. Brown, M.D.</td><td id=\"0-P\">Hospital \"Eat-In\"</td><td id=\"0-Q\">4/68</td><td id=\"0-R\">No reply as yet</td></tr>\n<tr><td id=\"0-S\">Mrs. John P. Conrad</td><td id=\"0-T\">Food Allergies</td><td id=\"0-U\">2/68</td><td id=\"0-V\">Would like to do article.</td></tr>\n</table>\n\n<a id='c1db4159-04b3-4def-9a32-0bca33882393'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rlvd0227",
+            "chunks": [
+                "e07231c2-df40-4ebb-afb5-069e08e74707",
+                "41d65786-f62d-4542-9aee-cf410c0533c7",
+                "419f0815-7271-4a99-b5c6-aaf8a7eb9906",
+                "c1db4159-04b3-4def-9a32-0bca33882393"
+            ]
+        }
+    ],
+    "grounding": {
+        "e07231c2-df40-4ebb-afb5-069e08e74707": {
+            "box": {
+                "left": 0.7301322221755981,
+                "top": 0.03112853690981865,
+                "right": 0.8616741895675659,
+                "bottom": 0.05306212231516838
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "41d65786-f62d-4542-9aee-cf410c0533c7": {
+            "box": {
+                "left": 0.35356196761131287,
+                "top": 0.08865442872047424,
+                "right": 0.5883290767669678,
+                "bottom": 0.11431913077831268
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "419f0815-7271-4a99-b5c6-aaf8a7eb9906": {
+            "box": {
+                "left": 0.044737935066223145,
+                "top": 0.1459071934223175,
+                "right": 0.9550501704216003,
+                "bottom": 0.8249547481536865
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.14893377110300615,
+                "right": 0.9388563490985042,
+                "bottom": 0.8248499194880274
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.14893377110300615,
+                "right": 0.3064947479040132,
+                "bottom": 0.16779526450332904
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.14893377110300615,
+                "right": 0.6849642190980916,
+                "bottom": 0.16779526450332904
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.14893377110300615,
+                "right": 0.7760605206832345,
+                "bottom": 0.16779526450332904
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.14893377110300615,
+                "right": 0.9334562383039753,
+                "bottom": 0.16779526450332904
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.16779526450332904,
+                "right": 0.3064947479040132,
+                "bottom": 0.21734118502403565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.16779526450332904,
+                "right": 0.6849642190980916,
+                "bottom": 0.21734118502403565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.16779526450332904,
+                "right": 0.7760605206832345,
+                "bottom": 0.21734118502403565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.16779526450332904,
+                "right": 0.9334562383039753,
+                "bottom": 0.21734118502403565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.21734118502403565,
+                "right": 0.3064947479040132,
+                "bottom": 0.2738033867224896
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.21734118502403565,
+                "right": 0.6849642190980916,
+                "bottom": 0.2738033867224896
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.21734118502403565,
+                "right": 0.7760605206832345,
+                "bottom": 0.2738033867224896
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.21734118502403565,
+                "right": 0.9334562383039753,
+                "bottom": 0.2738033867224896
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.2738033867224896,
+                "right": 0.3064947479040132,
+                "bottom": 0.32061466784694215
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.2738033867224896,
+                "right": 0.6849642190980916,
+                "bottom": 0.32061466784694215
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.2738033867224896,
+                "right": 0.7760605206832345,
+                "bottom": 0.32061466784694215
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.2738033867224896,
+                "right": 0.9334562383039753,
+                "bottom": 0.32061466784694215
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.32061466784694215,
+                "right": 0.3064947479040132,
+                "bottom": 0.36722896012360984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.32061466784694215,
+                "right": 0.6849642190980916,
+                "bottom": 0.36722896012360984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.32061466784694215,
+                "right": 0.7760605206832345,
+                "bottom": 0.36722896012360984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.32061466784694215,
+                "right": 0.9334562383039753,
+                "bottom": 0.36722896012360984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.36722896012360984,
+                "right": 0.3064947479040132,
+                "bottom": 0.41065271708332496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.36722896012360984,
+                "right": 0.6849642190980916,
+                "bottom": 0.41065271708332496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.36722896012360984,
+                "right": 0.7760605206832345,
+                "bottom": 0.41065271708332496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.36722896012360984,
+                "right": 0.9334562383039753,
+                "bottom": 0.41065271708332496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.41065271708332496,
+                "right": 0.3064947479040132,
+                "bottom": 0.45446403654806655
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.41065271708332496,
+                "right": 0.6849642190980916,
+                "bottom": 0.45446403654806655
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.41065271708332496,
+                "right": 0.7760605206832345,
+                "bottom": 0.45446403654806655
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.41065271708332496,
+                "right": 0.9334562383039753,
+                "bottom": 0.45446403654806655
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.45446403654806655,
+                "right": 0.3064947479040132,
+                "bottom": 0.5125620055897748
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.45446403654806655,
+                "right": 0.6849642190980916,
+                "bottom": 0.5125620055897748
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.45446403654806655,
+                "right": 0.7760605206832345,
+                "bottom": 0.5125620055897748
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.45446403654806655,
+                "right": 0.9334562383039753,
+                "bottom": 0.5125620055897748
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.5125620055897748,
+                "right": 0.3064947479040132,
+                "bottom": 0.5590781272376564
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.5125620055897748,
+                "right": 0.6849642190980916,
+                "bottom": 0.5590781272376564
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.5125620055897748,
+                "right": 0.7760605206832345,
+                "bottom": 0.5590781272376564
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.5125620055897748,
+                "right": 0.9334562383039753,
+                "bottom": 0.5590781272376564
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.5590781272376564,
+                "right": 0.3064947479040132,
+                "bottom": 0.6017143335501149
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.5590781272376564,
+                "right": 0.6849642190980916,
+                "bottom": 0.6017143335501149
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.5590781272376564,
+                "right": 0.7760605206832345,
+                "bottom": 0.6017143335501149
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.5590781272376564,
+                "right": 0.9334562383039753,
+                "bottom": 0.6017143335501149
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.6017143335501149,
+                "right": 0.3064947479040132,
+                "bottom": 0.6588689053124739
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.6017143335501149,
+                "right": 0.6849642190980916,
+                "bottom": 0.6588689053124739
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.6017143335501149,
+                "right": 0.7760605206832345,
+                "bottom": 0.6588689053124739
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.6017143335501149,
+                "right": 0.9334562383039753,
+                "bottom": 0.6588689053124739
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.6588689053124739,
+                "right": 0.3064947479040132,
+                "bottom": 0.7147219421707405
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.6588689053124739,
+                "right": 0.6849642190980916,
+                "bottom": 0.7147219421707405
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.6588689053124739,
+                "right": 0.7760605206832345,
+                "bottom": 0.7147219421707405
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.6588689053124739,
+                "right": 0.9334562383039753,
+                "bottom": 0.7147219421707405
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.7147219421707405,
+                "right": 0.3064947479040132,
+                "bottom": 0.762831864280523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.7147219421707405,
+                "right": 0.6849642190980916,
+                "bottom": 0.762831864280523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.7147219421707405,
+                "right": 0.7760605206832345,
+                "bottom": 0.762831864280523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.7147219421707405,
+                "right": 0.9334562383039753,
+                "bottom": 0.762831864280523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.05016975930343154,
+                "top": 0.762831864280523,
+                "right": 0.3064947479040132,
+                "bottom": 0.8248499194880274
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.3064947479040132,
+                "top": 0.762831864280523,
+                "right": 0.6849642190980916,
+                "bottom": 0.8248499194880274
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.6849642190980916,
+                "top": 0.762831864280523,
+                "right": 0.7760605206832345,
+                "bottom": 0.8248499194880274
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.7760605206832345,
+                "top": 0.762831864280523,
+                "right": 0.9334562383039753,
+                "bottom": 0.8248499194880274
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "c1db4159-04b3-4def-9a32-0bca33882393": {
+            "box": {
+                "left": 0.23152607679367065,
+                "top": 0.9791672825813293,
+                "right": 0.7728027701377869,
+                "bottom": 0.9994896054267883
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rlvd0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7083,
+        "credit_usage": 3.0,
+        "job_id": "mirw9m1jn9s9lcv3unrisakfy",
+        "version": "dpt-2-20250919"
+    }
+}

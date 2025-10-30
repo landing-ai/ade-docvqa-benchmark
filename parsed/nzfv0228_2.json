@@ -1,0 +1,328 @@
+{
+    "markdown": "<a id='fb1a78df-5d5e-4149-9bab-2bb0ec25908f'></a>\n\nFor: WJD\nDate: 12-17\nTime: 10:30\n\nWHILE YOU WERE OUT\n\n<a id='a583b0d6-7ef8-4c47-a658-450148c01a4d'></a>\n\nM: Dr Alex Wang\n\nFrom: Houston\n\nPhone No.: 713-792-3493\n\nArea Code\n\nNumber\n\nExtension\n\n<a id='19891427-10c5-472b-95a0-c7abb9732ae6'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TELEPHONED</td><td id=\"0-3\">(check mark)</td><td id=\"0-4\">URGENT</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">PLEASE CALL</td><td id=\"0-7\"></td><td id=\"0-8\">WANTS TO SEE YOU</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">WILL CALL AGAIN</td><td id=\"0-b\"></td><td id=\"0-c\">CAME TO SEE YOU</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-f\"></td></tr>\n</table>\n\n<a id='09e8e406-2e69-448e-ac00-c04f50f361d7'></a>\n\nMessage Re your abstract\nfor march meeting -\nthis was due Dec. 1st\nand they must\nhave it by the\nend of the year.\nHe also wishes you\na merry Christmas\nOperator\n\n<a id='6debac54-8d49-4ba8-bd24-e6c7336e2308'></a>\n\nDATACOM 9161\n\n<a id='d0d5b66b-27ec-4a0a-9e5e-2c4b7ff92ddb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hzfv0228",
+    "chunks": [
+        {
+            "markdown": "<a id='fb1a78df-5d5e-4149-9bab-2bb0ec25908f'></a>\n\nFor: WJD\nDate: 12-17\nTime: 10:30\n\nWHILE YOU WERE OUT",
+            "type": "text",
+            "id": "fb1a78df-5d5e-4149-9bab-2bb0ec25908f",
+            "grounding": {
+                "box": {
+                    "left": 0.08223161101341248,
+                    "top": 0.061590686440467834,
+                    "right": 0.8903567790985107,
+                    "bottom": 0.225042924284935
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a583b0d6-7ef8-4c47-a658-450148c01a4d'></a>\n\nM: Dr Alex Wang\n\nFrom: Houston\n\nPhone No.: 713-792-3493\n\nArea Code\n\nNumber\n\nExtension",
+            "type": "text",
+            "id": "a583b0d6-7ef8-4c47-a658-450148c01a4d",
+            "grounding": {
+                "box": {
+                    "left": 0.1038665771484375,
+                    "top": 0.23123317956924438,
+                    "right": 0.8735835552215576,
+                    "bottom": 0.40236932039260864
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='19891427-10c5-472b-95a0-c7abb9732ae6'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TELEPHONED</td><td id=\"0-3\">(check mark)</td><td id=\"0-4\">URGENT</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">PLEASE CALL</td><td id=\"0-7\"></td><td id=\"0-8\">WANTS TO SEE YOU</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">WILL CALL AGAIN</td><td id=\"0-b\"></td><td id=\"0-c\">CAME TO SEE YOU</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-f\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "19891427-10c5-472b-95a0-c7abb9732ae6",
+            "grounding": {
+                "box": {
+                    "left": 0.11191907525062561,
+                    "top": 0.4039927124977112,
+                    "right": 0.8683645725250244,
+                    "bottom": 0.5545445084571838
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='09e8e406-2e69-448e-ac00-c04f50f361d7'></a>\n\nMessage Re your abstract\nfor march meeting -\nthis was due Dec. 1st\nand they must\nhave it by the\nend of the year.\nHe also wishes you\na merry Christmas\nOperator",
+            "type": "text",
+            "id": "09e8e406-2e69-448e-ac00-c04f50f361d7",
+            "grounding": {
+                "box": {
+                    "left": 0.1108054518699646,
+                    "top": 0.5488514304161072,
+                    "right": 0.8761812448501587,
+                    "bottom": 0.9395262598991394
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6debac54-8d49-4ba8-bd24-e6c7336e2308'></a>\n\nDATACOM 9161",
+            "type": "text",
+            "id": "6debac54-8d49-4ba8-bd24-e6c7336e2308",
+            "grounding": {
+                "box": {
+                    "left": 0.11974203586578369,
+                    "top": 0.9339322447776794,
+                    "right": 0.27285557985305786,
+                    "bottom": 0.9607236981391907
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d0d5b66b-27ec-4a0a-9e5e-2c4b7ff92ddb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hzfv0228",
+            "type": "text",
+            "id": "d0d5b66b-27ec-4a0a-9e5e-2c4b7ff92ddb",
+            "grounding": {
+                "box": {
+                    "left": 0.06935641169548035,
+                    "top": 0.9686185121536255,
+                    "right": 0.9341073036193848,
+                    "bottom": 0.9955050945281982
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='fb1a78df-5d5e-4149-9bab-2bb0ec25908f'></a>\n\nFor: WJD\nDate: 12-17\nTime: 10:30\n\nWHILE YOU WERE OUT\n\n<a id='a583b0d6-7ef8-4c47-a658-450148c01a4d'></a>\n\nM: Dr Alex Wang\n\nFrom: Houston\n\nPhone No.: 713-792-3493\n\nArea Code\n\nNumber\n\nExtension\n\n<a id='19891427-10c5-472b-95a0-c7abb9732ae6'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TELEPHONED</td><td id=\"0-3\">(check mark)</td><td id=\"0-4\">URGENT</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">PLEASE CALL</td><td id=\"0-7\"></td><td id=\"0-8\">WANTS TO SEE YOU</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">WILL CALL AGAIN</td><td id=\"0-b\"></td><td id=\"0-c\">CAME TO SEE YOU</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-f\"></td></tr>\n</table>\n\n<a id='09e8e406-2e69-448e-ac00-c04f50f361d7'></a>\n\nMessage Re your abstract\nfor march meeting -\nthis was due Dec. 1st\nand they must\nhave it by the\nend of the year.\nHe also wishes you\na merry Christmas\nOperator\n\n<a id='6debac54-8d49-4ba8-bd24-e6c7336e2308'></a>\n\nDATACOM 9161\n\n<a id='d0d5b66b-27ec-4a0a-9e5e-2c4b7ff92ddb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hzfv0228",
+            "chunks": [
+                "fb1a78df-5d5e-4149-9bab-2bb0ec25908f",
+                "a583b0d6-7ef8-4c47-a658-450148c01a4d",
+                "19891427-10c5-472b-95a0-c7abb9732ae6",
+                "09e8e406-2e69-448e-ac00-c04f50f361d7",
+                "6debac54-8d49-4ba8-bd24-e6c7336e2308",
+                "d0d5b66b-27ec-4a0a-9e5e-2c4b7ff92ddb"
+            ]
+        }
+    ],
+    "grounding": {
+        "fb1a78df-5d5e-4149-9bab-2bb0ec25908f": {
+            "box": {
+                "left": 0.08223161101341248,
+                "top": 0.061590686440467834,
+                "right": 0.8903567790985107,
+                "bottom": 0.225042924284935
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a583b0d6-7ef8-4c47-a658-450148c01a4d": {
+            "box": {
+                "left": 0.1038665771484375,
+                "top": 0.23123317956924438,
+                "right": 0.8735835552215576,
+                "bottom": 0.40236932039260864
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "19891427-10c5-472b-95a0-c7abb9732ae6": {
+            "box": {
+                "left": 0.11191907525062561,
+                "top": 0.4039927124977112,
+                "right": 0.8683645725250244,
+                "bottom": 0.5545445084571838
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.12520815168345556,
+                "top": 0.412200302831895,
+                "right": 0.8570332306931014,
+                "bottom": 0.5482392808456211
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.12520815168345556,
+                "top": 0.412200302831895,
+                "right": 0.43955988857397355,
+                "bottom": 0.44600127362474495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.43955988857397355,
+                "top": 0.412200302831895,
+                "right": 0.486856691516822,
+                "bottom": 0.44600127362474495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.486856691516822,
+                "top": 0.412200302831895,
+                "right": 0.8095822955669139,
+                "bottom": 0.44600127362474495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.8095822955669139,
+                "top": 0.412200302831895,
+                "right": 0.8571521719537856,
+                "bottom": 0.44600127362474495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.12520815168345556,
+                "top": 0.44600127362474495,
+                "right": 0.43955988857397355,
+                "bottom": 0.48006234213448806
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.43955988857397355,
+                "top": 0.44600127362474495,
+                "right": 0.486856691516822,
+                "bottom": 0.48006234213448806
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.486856691516822,
+                "top": 0.44600127362474495,
+                "right": 0.8095822955669139,
+                "bottom": 0.48006234213448806
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.8095822955669139,
+                "top": 0.44600127362474495,
+                "right": 0.8571521719537856,
+                "bottom": 0.48006234213448806
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.12520815168345556,
+                "top": 0.48006234213448806,
+                "right": 0.43955988857397355,
+                "bottom": 0.5141480969801933
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.43955988857397355,
+                "top": 0.48006234213448806,
+                "right": 0.486856691516822,
+                "bottom": 0.5141480969801933
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.486856691516822,
+                "top": 0.48006234213448806,
+                "right": 0.8095822955669139,
+                "bottom": 0.5141480969801933
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.8095822955669139,
+                "top": 0.48006234213448806,
+                "right": 0.8571521719537856,
+                "bottom": 0.5141480969801933
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.12520815168345556,
+                "top": 0.5141480969801933,
+                "right": 0.8571521719537856,
+                "bottom": 0.5482392808456211
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.8095822955669139,
+                "top": 0.5141480969801933,
+                "right": 0.8571521719537856,
+                "bottom": 0.5482392808456211
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "09e8e406-2e69-448e-ac00-c04f50f361d7": {
+            "box": {
+                "left": 0.1108054518699646,
+                "top": 0.5488514304161072,
+                "right": 0.8761812448501587,
+                "bottom": 0.9395262598991394
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6debac54-8d49-4ba8-bd24-e6c7336e2308": {
+            "box": {
+                "left": 0.11974203586578369,
+                "top": 0.9339322447776794,
+                "right": 0.27285557985305786,
+                "bottom": 0.9607236981391907
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d0d5b66b-27ec-4a0a-9e5e-2c4b7ff92ddb": {
+            "box": {
+                "left": 0.06935641169548035,
+                "top": 0.9686185121536255,
+                "right": 0.9341073036193848,
+                "bottom": 0.9955050945281982
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "nzfv0228_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7382,
+        "credit_usage": 3.0,
+        "job_id": "hm13295osgi32liey0uvk736d",
+        "version": "dpt-2-20250919"
+    }
+}

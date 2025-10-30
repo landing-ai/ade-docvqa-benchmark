@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='66214b65-7e88-49f2-a793-ee0abf7e608e'></a>\n\nABSTRACT\n\n<a id='cda6baa9-4b32-405c-ba3d-110914c8a0f0'></a>\n\n1 - Institution: University of Maryland\n\n2 - Title of Report: Chromium(III) Complexes of Insulin and Related Compounds\n\n3 - Principal Investigator: Carl L. Rollinson\n\n4 - Number of pages: 7\n\nNumber of illustrations: None\n\nDate: February 25, 1964\n\n5 - Contract Number: DA-49-193-MD-2444\n\n6 - Supported by: U. S. Army Medical Research and Development Command, Department of the Army, Washington 25 D C\n\n<a id='ae39eb8c-0a1e-48a9-9d3a-670f121e9339'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hzkg0227\n\n<a id='e23722ca-e209-44f0-bb90-c9771c0ca7d4'></a>\n\nthe Army, Washington 25, D. C.",
+    "chunks": [
+        {
+            "markdown": "<a id='66214b65-7e88-49f2-a793-ee0abf7e608e'></a>\n\nABSTRACT",
+            "type": "text",
+            "id": "66214b65-7e88-49f2-a793-ee0abf7e608e",
+            "grounding": {
+                "box": {
+                    "left": 0.47108033299446106,
+                    "top": 0.12529562413692474,
+                    "right": 0.565460741519928,
+                    "bottom": 0.1445288211107254
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cda6baa9-4b32-405c-ba3d-110914c8a0f0'></a>\n\n1 - Institution: University of Maryland\n\n2 - Title of Report: Chromium(III) Complexes of Insulin and Related Compounds\n\n3 - Principal Investigator: Carl L. Rollinson\n\n4 - Number of pages: 7\n\nNumber of illustrations: None\n\nDate: February 25, 1964\n\n5 - Contract Number: DA-49-193-MD-2444\n\n6 - Supported by: U. S. Army Medical Research and Development Command, Department of the Army, Washington 25 D C",
+            "type": "text",
+            "id": "cda6baa9-4b32-405c-ba3d-110914c8a0f0",
+            "grounding": {
+                "box": {
+                    "left": 0.2039170265197754,
+                    "top": 0.17786633968353271,
+                    "right": 0.8216311931610107,
+                    "bottom": 0.48800939321517944
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ae39eb8c-0a1e-48a9-9d3a-670f121e9339'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hzkg0227",
+            "type": "text",
+            "id": "ae39eb8c-0a1e-48a9-9d3a-670f121e9339",
+            "grounding": {
+                "box": {
+                    "left": 0.22618308663368225,
+                    "top": 0.9788306355476379,
+                    "right": 0.7785441875457764,
+                    "bottom": 0.9996594786643982
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e23722ca-e209-44f0-bb90-c9771c0ca7d4'></a>\n\nthe Army, Washington 25, D. C.",
+            "type": "text",
+            "id": "e23722ca-e209-44f0-bb90-c9771c0ca7d4",
+            "grounding": {
+                "box": {
+                    "left": 0.48833560943603516,
+                    "top": 0.48527172207832336,
+                    "right": 0.7759406566619873,
+                    "bottom": 0.49479159712791443
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='66214b65-7e88-49f2-a793-ee0abf7e608e'></a>\n\nABSTRACT\n\n<a id='cda6baa9-4b32-405c-ba3d-110914c8a0f0'></a>\n\n1 - Institution: University of Maryland\n\n2 - Title of Report: Chromium(III) Complexes of Insulin and Related Compounds\n\n3 - Principal Investigator: Carl L. Rollinson\n\n4 - Number of pages: 7\n\nNumber of illustrations: None\n\nDate: February 25, 1964\n\n5 - Contract Number: DA-49-193-MD-2444\n\n6 - Supported by: U. S. Army Medical Research and Development Command, Department of the Army, Washington 25 D C\n\n<a id='ae39eb8c-0a1e-48a9-9d3a-670f121e9339'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hzkg0227\n\n<a id='e23722ca-e209-44f0-bb90-c9771c0ca7d4'></a>\n\nthe Army, Washington 25, D. C.",
+            "chunks": [
+                "66214b65-7e88-49f2-a793-ee0abf7e608e",
+                "cda6baa9-4b32-405c-ba3d-110914c8a0f0",
+                "ae39eb8c-0a1e-48a9-9d3a-670f121e9339",
+                "e23722ca-e209-44f0-bb90-c9771c0ca7d4"
+            ]
+        }
+    ],
+    "grounding": {
+        "66214b65-7e88-49f2-a793-ee0abf7e608e": {
+            "box": {
+                "left": 0.47108033299446106,
+                "top": 0.12529562413692474,
+                "right": 0.565460741519928,
+                "bottom": 0.1445288211107254
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cda6baa9-4b32-405c-ba3d-110914c8a0f0": {
+            "box": {
+                "left": 0.2039170265197754,
+                "top": 0.17786633968353271,
+                "right": 0.8216311931610107,
+                "bottom": 0.48800939321517944
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ae39eb8c-0a1e-48a9-9d3a-670f121e9339": {
+            "box": {
+                "left": 0.22618308663368225,
+                "top": 0.9788306355476379,
+                "right": 0.7785441875457764,
+                "bottom": 0.9996594786643982
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e23722ca-e209-44f0-bb90-c9771c0ca7d4": {
+            "box": {
+                "left": 0.48833560943603516,
+                "top": 0.48527172207832336,
+                "right": 0.7759406566619873,
+                "bottom": 0.49479159712791443
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "hzkg0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5112,
+        "credit_usage": 3.0,
+        "job_id": "sgn9wa4dzzjwa7uvw52bkldrn",
+        "version": "dpt-2-20250919"
+    }
+}

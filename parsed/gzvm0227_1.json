@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='c8c604c3-ed71-44f4-ba2c-d06e4a4a0bf3'></a>\n\nmay 5.\n\n<a id='bfc39ff3-0504-4b20-9bcf-5fafe9a27406'></a>\n\nClinical\nNutrition\nSymposium\nMAY 2 197\n\n<a id='d861cd2a-128a-4814-a2e8-66d68b71cdfb'></a>\n\n<::attestation: [Type of attestation: Stamp]\n[Status indicators: Stamped, Received]\n[Readable Text: RECEIVED MAY 2 1977]\n[A rectangular stamp with the word \"RECEIVED\" in a stylized font, and the date \"MAY 2 1977\" centered within it. The stamp is partially visible on the left edge of the image.]::>\n\n<a id='b2f7b1c3-a5ad-4de5-aa6d-9e74f340a5bd'></a>\n\n---COM...\n<::Outline drawing of an apple with a stem and a leaf, and a bite taken out of its left side.\n: drawing::>\n\n<a id='24cf1e07-d964-4ca6-866f-7534cb0ccbc2'></a>\n\nThe Obese Patient\nMay 5, 1977\n\n<a id='1796a850-7313-45e7-8743-364dc80e5b42'></a>\n\nThis program is sponsored by\nThe Nutrition Foundation, Inc. and\nThe American Medical Association\nDepartment of Foods and Nutrition\n\n<a id='47ee7c4d-42bb-4569-892a-33f48490c716'></a>\n\nIn cooperation with\nThe Departments of Behavioral Science,\nMedicine, Pediatrics, and Continuing Education,\nThe College of Medicine, and the\nCollege of Human Development,\nThe Pennsylvania State University\n\n<a id='2d8e237e-0fd0-4c1c-8a4b-2cf52e7d745f'></a>\n\nContinuing Medical Education\nThe Milton S. Hershey Medical Center\nThe Pennsylvania State University\nHershey, PA 17033",
+    "chunks": [
+        {
+            "markdown": "<a id='c8c604c3-ed71-44f4-ba2c-d06e4a4a0bf3'></a>\n\nmay 5.",
+            "type": "text",
+            "id": "c8c604c3-ed71-44f4-ba2c-d06e4a4a0bf3",
+            "grounding": {
+                "box": {
+                    "left": 0.7559090256690979,
+                    "top": 0.013961438089609146,
+                    "right": 0.8528762459754944,
+                    "bottom": 0.059061963111162186
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bfc39ff3-0504-4b20-9bcf-5fafe9a27406'></a>\n\nClinical\nNutrition\nSymposium\nMAY 2 197",
+            "type": "text",
+            "id": "bfc39ff3-0504-4b20-9bcf-5fafe9a27406",
+            "grounding": {
+                "box": {
+                    "left": 0.5528103709220886,
+                    "top": 0.1982535719871521,
+                    "right": 0.8769221901893616,
+                    "bottom": 0.3354973793029785
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d861cd2a-128a-4814-a2e8-66d68b71cdfb'></a>\n\n<::attestation: [Type of attestation: Stamp]\n[Status indicators: Stamped, Received]\n[Readable Text: RECEIVED MAY 2 1977]\n[A rectangular stamp with the word \"RECEIVED\" in a stylized font, and the date \"MAY 2 1977\" centered within it. The stamp is partially visible on the left edge of the image.]::>",
+            "type": "attestation",
+            "id": "d861cd2a-128a-4814-a2e8-66d68b71cdfb",
+            "grounding": {
+                "box": {
+                    "left": 0.716526985168457,
+                    "top": 0.164216086268425,
+                    "right": 0.9485559463500977,
+                    "bottom": 0.2622423768043518
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b2f7b1c3-a5ad-4de5-aa6d-9e74f340a5bd'></a>\n\n---COM...\n<::Outline drawing of an apple with a stem and a leaf, and a bite taken out of its left side.\n: drawing::>",
+            "type": "figure",
+            "id": "b2f7b1c3-a5ad-4de5-aa6d-9e74f340a5bd",
+            "grounding": {
+                "box": {
+                    "left": 0.7064179182052612,
+                    "top": 0.31638872623443604,
+                    "right": 0.9596614837646484,
+                    "bottom": 0.5718360543251038
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='24cf1e07-d964-4ca6-866f-7534cb0ccbc2'></a>\n\nThe Obese Patient\nMay 5, 1977",
+            "type": "text",
+            "id": "24cf1e07-d964-4ca6-866f-7534cb0ccbc2",
+            "grounding": {
+                "box": {
+                    "left": 0.5570323467254639,
+                    "top": 0.5690767168998718,
+                    "right": 0.7055679559707642,
+                    "bottom": 0.6046276688575745
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1796a850-7313-45e7-8743-364dc80e5b42'></a>\n\nThis program is sponsored by\nThe Nutrition Foundation, Inc. and\nThe American Medical Association\nDepartment of Foods and Nutrition",
+            "type": "text",
+            "id": "1796a850-7313-45e7-8743-364dc80e5b42",
+            "grounding": {
+                "box": {
+                    "left": 0.5577369928359985,
+                    "top": 0.6333195567131042,
+                    "right": 0.7803592681884766,
+                    "bottom": 0.6857816576957703
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='47ee7c4d-42bb-4569-892a-33f48490c716'></a>\n\nIn cooperation with\nThe Departments of Behavioral Science,\nMedicine, Pediatrics, and Continuing Education,\nThe College of Medicine, and the\nCollege of Human Development,\nThe Pennsylvania State University",
+            "type": "text",
+            "id": "47ee7c4d-42bb-4569-892a-33f48490c716",
+            "grounding": {
+                "box": {
+                    "left": 0.5562847256660461,
+                    "top": 0.6898642778396606,
+                    "right": 0.8601509928703308,
+                    "bottom": 0.7663606405258179
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2d8e237e-0fd0-4c1c-8a4b-2cf52e7d745f'></a>\n\nContinuing Medical Education\nThe Milton S. Hershey Medical Center\nThe Pennsylvania State University\nHershey, PA 17033",
+            "type": "text",
+            "id": "2d8e237e-0fd0-4c1c-8a4b-2cf52e7d745f",
+            "grounding": {
+                "box": {
+                    "left": 0.1705200970172882,
+                    "top": 0.6057863235473633,
+                    "right": 0.264348566532135,
+                    "bottom": 0.8348512649536133
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c8c604c3-ed71-44f4-ba2c-d06e4a4a0bf3'></a>\n\nmay 5.\n\n<a id='bfc39ff3-0504-4b20-9bcf-5fafe9a27406'></a>\n\nClinical\nNutrition\nSymposium\nMAY 2 197\n\n<a id='d861cd2a-128a-4814-a2e8-66d68b71cdfb'></a>\n\n<::attestation: [Type of attestation: Stamp]\n[Status indicators: Stamped, Received]\n[Readable Text: RECEIVED MAY 2 1977]\n[A rectangular stamp with the word \"RECEIVED\" in a stylized font, and the date \"MAY 2 1977\" centered within it. The stamp is partially visible on the left edge of the image.]::>\n\n<a id='b2f7b1c3-a5ad-4de5-aa6d-9e74f340a5bd'></a>\n\n---COM...\n<::Outline drawing of an apple with a stem and a leaf, and a bite taken out of its left side.\n: drawing::>\n\n<a id='24cf1e07-d964-4ca6-866f-7534cb0ccbc2'></a>\n\nThe Obese Patient\nMay 5, 1977\n\n<a id='1796a850-7313-45e7-8743-364dc80e5b42'></a>\n\nThis program is sponsored by\nThe Nutrition Foundation, Inc. and\nThe American Medical Association\nDepartment of Foods and Nutrition\n\n<a id='47ee7c4d-42bb-4569-892a-33f48490c716'></a>\n\nIn cooperation with\nThe Departments of Behavioral Science,\nMedicine, Pediatrics, and Continuing Education,\nThe College of Medicine, and the\nCollege of Human Development,\nThe Pennsylvania State University\n\n<a id='2d8e237e-0fd0-4c1c-8a4b-2cf52e7d745f'></a>\n\nContinuing Medical Education\nThe Milton S. Hershey Medical Center\nThe Pennsylvania State University\nHershey, PA 17033",
+            "chunks": [
+                "c8c604c3-ed71-44f4-ba2c-d06e4a4a0bf3",
+                "bfc39ff3-0504-4b20-9bcf-5fafe9a27406",
+                "d861cd2a-128a-4814-a2e8-66d68b71cdfb",
+                "b2f7b1c3-a5ad-4de5-aa6d-9e74f340a5bd",
+                "24cf1e07-d964-4ca6-866f-7534cb0ccbc2",
+                "1796a850-7313-45e7-8743-364dc80e5b42",
+                "47ee7c4d-42bb-4569-892a-33f48490c716",
+                "2d8e237e-0fd0-4c1c-8a4b-2cf52e7d745f"
+            ]
+        }
+    ],
+    "grounding": {
+        "c8c604c3-ed71-44f4-ba2c-d06e4a4a0bf3": {
+            "box": {
+                "left": 0.7559090256690979,
+                "top": 0.013961438089609146,
+                "right": 0.8528762459754944,
+                "bottom": 0.059061963111162186
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bfc39ff3-0504-4b20-9bcf-5fafe9a27406": {
+            "box": {
+                "left": 0.5528103709220886,
+                "top": 0.1982535719871521,
+                "right": 0.8769221901893616,
+                "bottom": 0.3354973793029785
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d861cd2a-128a-4814-a2e8-66d68b71cdfb": {
+            "box": {
+                "left": 0.716526985168457,
+                "top": 0.164216086268425,
+                "right": 0.9485559463500977,
+                "bottom": 0.2622423768043518
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "b2f7b1c3-a5ad-4de5-aa6d-9e74f340a5bd": {
+            "box": {
+                "left": 0.7064179182052612,
+                "top": 0.31638872623443604,
+                "right": 0.9596614837646484,
+                "bottom": 0.5718360543251038
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "24cf1e07-d964-4ca6-866f-7534cb0ccbc2": {
+            "box": {
+                "left": 0.5570323467254639,
+                "top": 0.5690767168998718,
+                "right": 0.7055679559707642,
+                "bottom": 0.6046276688575745
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1796a850-7313-45e7-8743-364dc80e5b42": {
+            "box": {
+                "left": 0.5577369928359985,
+                "top": 0.6333195567131042,
+                "right": 0.7803592681884766,
+                "bottom": 0.6857816576957703
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "47ee7c4d-42bb-4569-892a-33f48490c716": {
+            "box": {
+                "left": 0.5562847256660461,
+                "top": 0.6898642778396606,
+                "right": 0.8601509928703308,
+                "bottom": 0.7663606405258179
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2d8e237e-0fd0-4c1c-8a4b-2cf52e7d745f": {
+            "box": {
+                "left": 0.1705200970172882,
+                "top": 0.6057863235473633,
+                "right": 0.264348566532135,
+                "bottom": 0.8348512649536133
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "gzvm0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 20314,
+        "credit_usage": 3.0,
+        "job_id": "s0z90i812x5ly9b69qmtyzmp4",
+        "version": "dpt-2-20250919"
+    }
+}

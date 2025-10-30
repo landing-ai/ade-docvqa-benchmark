@@ -1,0 +1,563 @@
+{
+    "markdown": "<a id='74fb6e22-a9d1-4704-b06f-df47a3987f01'></a>\n\n<::attestation: Handwritten note\nSignature: legible\nReadable Text: 4 BSKNS eth\nCentered, handwritten text::>\n\n<a id='bda046c4-33c1-4afc-9504-8a8deee1812f'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a distinctive black script font, with \"Tobacco Company\" in a smaller, sans-serif font underneath a horizontal line.::>\n\n<a id='86004f8b-5e59-437c-a42f-9442099840ab'></a>\n\nGrowers Questionnaire\n\n<a id='3df6f39b-32b8-49e3-8c95-8624e4350402'></a>\n\nName: Alvin Rice Jr\n\nMailing Address: 7971 Lew Janer Rd.\n\nCity: Rawlings\n\nState: Va.\n\nZip Code: 23876\n\nHome Telephone: 804-848-3661-949-7632\n\nWork Telephone:\n\nCell Telephone: 804-586-2857\n\nE-Mail Address:\n\n<a id='c1f0b738-c8b0-417f-b4d0-fa0ddea89114'></a>\n\nOwned Barns\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Type</td><td id=\"0-4\">Model</td><td id=\"0-5\">Fuel</td><td id=\"0-6\">Number</td></tr>\n<tr><td id=\"0-7\">Manufacturer</td><td id=\"0-8\">(Box or Rack)</td><td id=\"0-9\">Year</td><td id=\"0-a\">(NG, LPG, Oil)</td><td id=\"0-b\">Of Barns</td></tr>\n<tr><td id=\"0-c\">Roanoke</td><td id=\"0-d\">BOX</td><td id=\"0-e\">75</td><td id=\"0-f\">LPG</td><td id=\"0-g\">4</td></tr>\n<tr><td id=\"0-h\">Lona</td><td id=\"0-i\">Rock</td><td id=\"0-j\">72</td><td id=\"0-k\">LPG</td><td id=\"0-l\">2.</td></tr>\n<tr><td id=\"0-m\">Powell</td><td id=\"0-n\">Rock</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">1</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n</table>\n\n<a id='106fcaa3-7068-4bd4-b01b-8c5c13ba721f'></a>\n\nLand (Acres)\nOwned:\nLeased:\n\nProduction 1999 Crop (Pounds)\nOwned:\nLeased:\n\n2000 Crop (Pounds)\nOwned: 24,100\nLeased: 48,800\n\nIrrigation\noption Yes: [x]\noption No: [ ]\n\n<a id='caabaf0b-76f5-4e24-9673-20071cafe7f8'></a>\n\nWhen will your farm be available for a visit from RJR representatives?\nAnytime\nComments:\n\n<a id='cd2f0222-f431-4001-b2c6-d776b2e34f4a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nnfg0224\n\n<a id='a38b368f-7abb-4549-8891-8343f795c48e'></a>\n\n52384 2385",
+    "chunks": [
+        {
+            "markdown": "<a id='74fb6e22-a9d1-4704-b06f-df47a3987f01'></a>\n\n<::attestation: Handwritten note\nSignature: legible\nReadable Text: 4 BSKNS eth\nCentered, handwritten text::>",
+            "type": "attestation",
+            "id": "74fb6e22-a9d1-4704-b06f-df47a3987f01",
+            "grounding": {
+                "box": {
+                    "left": 0.017177656292915344,
+                    "top": 0.060584355145692825,
+                    "right": 0.2051999717950821,
+                    "bottom": 0.16248400509357452
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bda046c4-33c1-4afc-9504-8a8deee1812f'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a distinctive black script font, with \"Tobacco Company\" in a smaller, sans-serif font underneath a horizontal line.::>",
+            "type": "logo",
+            "id": "bda046c4-33c1-4afc-9504-8a8deee1812f",
+            "grounding": {
+                "box": {
+                    "left": 0.27247875928878784,
+                    "top": 0.02721567079424858,
+                    "right": 0.736861526966095,
+                    "bottom": 0.12696078419685364
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='86004f8b-5e59-437c-a42f-9442099840ab'></a>\n\nGrowers Questionnaire",
+            "type": "text",
+            "id": "86004f8b-5e59-437c-a42f-9442099840ab",
+            "grounding": {
+                "box": {
+                    "left": 0.32946649193763733,
+                    "top": 0.12416479736566544,
+                    "right": 0.6493710279464722,
+                    "bottom": 0.15169106423854828
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3df6f39b-32b8-49e3-8c95-8624e4350402'></a>\n\nName: Alvin Rice Jr\n\nMailing Address: 7971 Lew Janer Rd.\n\nCity: Rawlings\n\nState: Va.\n\nZip Code: 23876\n\nHome Telephone: 804-848-3661-949-7632\n\nWork Telephone:\n\nCell Telephone: 804-586-2857\n\nE-Mail Address:",
+            "type": "text",
+            "id": "3df6f39b-32b8-49e3-8c95-8624e4350402",
+            "grounding": {
+                "box": {
+                    "left": 0.1552923321723938,
+                    "top": 0.15406334400177002,
+                    "right": 0.8301042318344116,
+                    "bottom": 0.3698989748954773
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c1f0b738-c8b0-417f-b4d0-fa0ddea89114'></a>\n\nOwned Barns\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Type</td><td id=\"0-4\">Model</td><td id=\"0-5\">Fuel</td><td id=\"0-6\">Number</td></tr>\n<tr><td id=\"0-7\">Manufacturer</td><td id=\"0-8\">(Box or Rack)</td><td id=\"0-9\">Year</td><td id=\"0-a\">(NG, LPG, Oil)</td><td id=\"0-b\">Of Barns</td></tr>\n<tr><td id=\"0-c\">Roanoke</td><td id=\"0-d\">BOX</td><td id=\"0-e\">75</td><td id=\"0-f\">LPG</td><td id=\"0-g\">4</td></tr>\n<tr><td id=\"0-h\">Lona</td><td id=\"0-i\">Rock</td><td id=\"0-j\">72</td><td id=\"0-k\">LPG</td><td id=\"0-l\">2.</td></tr>\n<tr><td id=\"0-m\">Powell</td><td id=\"0-n\">Rock</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">1</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "c1f0b738-c8b0-417f-b4d0-fa0ddea89114",
+            "grounding": {
+                "box": {
+                    "left": 0.1475619673728943,
+                    "top": 0.3815527558326721,
+                    "right": 0.8389231562614441,
+                    "bottom": 0.5160748362541199
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='106fcaa3-7068-4bd4-b01b-8c5c13ba721f'></a>\n\nLand (Acres)\nOwned:\nLeased:\n\nProduction 1999 Crop (Pounds)\nOwned:\nLeased:\n\n2000 Crop (Pounds)\nOwned: 24,100\nLeased: 48,800\n\nIrrigation\noption Yes: [x]\noption No: [ ]",
+            "type": "text",
+            "id": "106fcaa3-7068-4bd4-b01b-8c5c13ba721f",
+            "grounding": {
+                "box": {
+                    "left": 0.14877742528915405,
+                    "top": 0.5347068309783936,
+                    "right": 0.8530800938606262,
+                    "bottom": 0.697502613067627
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='caabaf0b-76f5-4e24-9673-20071cafe7f8'></a>\n\nWhen will your farm be available for a visit from RJR representatives?\nAnytime\nComments:",
+            "type": "text",
+            "id": "caabaf0b-76f5-4e24-9673-20071cafe7f8",
+            "grounding": {
+                "box": {
+                    "left": 0.15094336867332458,
+                    "top": 0.7007384896278381,
+                    "right": 0.8215692043304443,
+                    "bottom": 0.7817704081535339
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cd2f0222-f431-4001-b2c6-d776b2e34f4a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nnfg0224",
+            "type": "marginalia",
+            "id": "cd2f0222-f431-4001-b2c6-d776b2e34f4a",
+            "grounding": {
+                "box": {
+                    "left": 0.21867772936820984,
+                    "top": 0.9781452417373657,
+                    "right": 0.781408429145813,
+                    "bottom": 0.9989932775497437
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a38b368f-7abb-4549-8891-8343f795c48e'></a>\n\n52384 2385",
+            "type": "marginalia",
+            "id": "a38b368f-7abb-4549-8891-8343f795c48e",
+            "grounding": {
+                "box": {
+                    "left": 0.8803876638412476,
+                    "top": 0.7914012670516968,
+                    "right": 0.9052133560180664,
+                    "bottom": 0.8792771100997925
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='74fb6e22-a9d1-4704-b06f-df47a3987f01'></a>\n\n<::attestation: Handwritten note\nSignature: legible\nReadable Text: 4 BSKNS eth\nCentered, handwritten text::>\n\n<a id='bda046c4-33c1-4afc-9504-8a8deee1812f'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a distinctive black script font, with \"Tobacco Company\" in a smaller, sans-serif font underneath a horizontal line.::>\n\n<a id='86004f8b-5e59-437c-a42f-9442099840ab'></a>\n\nGrowers Questionnaire\n\n<a id='3df6f39b-32b8-49e3-8c95-8624e4350402'></a>\n\nName: Alvin Rice Jr\n\nMailing Address: 7971 Lew Janer Rd.\n\nCity: Rawlings\n\nState: Va.\n\nZip Code: 23876\n\nHome Telephone: 804-848-3661-949-7632\n\nWork Telephone:\n\nCell Telephone: 804-586-2857\n\nE-Mail Address:\n\n<a id='c1f0b738-c8b0-417f-b4d0-fa0ddea89114'></a>\n\nOwned Barns\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Type</td><td id=\"0-4\">Model</td><td id=\"0-5\">Fuel</td><td id=\"0-6\">Number</td></tr>\n<tr><td id=\"0-7\">Manufacturer</td><td id=\"0-8\">(Box or Rack)</td><td id=\"0-9\">Year</td><td id=\"0-a\">(NG, LPG, Oil)</td><td id=\"0-b\">Of Barns</td></tr>\n<tr><td id=\"0-c\">Roanoke</td><td id=\"0-d\">BOX</td><td id=\"0-e\">75</td><td id=\"0-f\">LPG</td><td id=\"0-g\">4</td></tr>\n<tr><td id=\"0-h\">Lona</td><td id=\"0-i\">Rock</td><td id=\"0-j\">72</td><td id=\"0-k\">LPG</td><td id=\"0-l\">2.</td></tr>\n<tr><td id=\"0-m\">Powell</td><td id=\"0-n\">Rock</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\">1</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n</table>\n\n<a id='106fcaa3-7068-4bd4-b01b-8c5c13ba721f'></a>\n\nLand (Acres)\nOwned:\nLeased:\n\nProduction 1999 Crop (Pounds)\nOwned:\nLeased:\n\n2000 Crop (Pounds)\nOwned: 24,100\nLeased: 48,800\n\nIrrigation\noption Yes: [x]\noption No: [ ]\n\n<a id='caabaf0b-76f5-4e24-9673-20071cafe7f8'></a>\n\nWhen will your farm be available for a visit from RJR representatives?\nAnytime\nComments:\n\n<a id='cd2f0222-f431-4001-b2c6-d776b2e34f4a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nnfg0224\n\n<a id='a38b368f-7abb-4549-8891-8343f795c48e'></a>\n\n52384 2385",
+            "chunks": [
+                "74fb6e22-a9d1-4704-b06f-df47a3987f01",
+                "bda046c4-33c1-4afc-9504-8a8deee1812f",
+                "86004f8b-5e59-437c-a42f-9442099840ab",
+                "3df6f39b-32b8-49e3-8c95-8624e4350402",
+                "c1f0b738-c8b0-417f-b4d0-fa0ddea89114",
+                "106fcaa3-7068-4bd4-b01b-8c5c13ba721f",
+                "caabaf0b-76f5-4e24-9673-20071cafe7f8",
+                "cd2f0222-f431-4001-b2c6-d776b2e34f4a",
+                "a38b368f-7abb-4549-8891-8343f795c48e"
+            ]
+        }
+    ],
+    "grounding": {
+        "74fb6e22-a9d1-4704-b06f-df47a3987f01": {
+            "box": {
+                "left": 0.017177656292915344,
+                "top": 0.060584355145692825,
+                "right": 0.2051999717950821,
+                "bottom": 0.16248400509357452
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "bda046c4-33c1-4afc-9504-8a8deee1812f": {
+            "box": {
+                "left": 0.27247875928878784,
+                "top": 0.02721567079424858,
+                "right": 0.736861526966095,
+                "bottom": 0.12696078419685364
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "86004f8b-5e59-437c-a42f-9442099840ab": {
+            "box": {
+                "left": 0.32946649193763733,
+                "top": 0.12416479736566544,
+                "right": 0.6493710279464722,
+                "bottom": 0.15169106423854828
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3df6f39b-32b8-49e3-8c95-8624e4350402": {
+            "box": {
+                "left": 0.1552923321723938,
+                "top": 0.15406334400177002,
+                "right": 0.8301042318344116,
+                "bottom": 0.3698989748954773
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c1f0b738-c8b0-417f-b4d0-fa0ddea89114": {
+            "box": {
+                "left": 0.1475619673728943,
+                "top": 0.3815527558326721,
+                "right": 0.8389231562614441,
+                "bottom": 0.5160748362541199
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.15476999079086617,
+                "top": 0.4121336983545678,
+                "right": 0.8293284128657064,
+                "bottom": 0.510665157007054
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.15476999079086617,
+                "top": 0.4121336983545678,
+                "right": 0.2885054244038159,
+                "bottom": 0.42853588183312397
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.2885054244038159,
+                "top": 0.4121336983545678,
+                "right": 0.4388803573950213,
+                "bottom": 0.42853588183312397
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.4388803573950213,
+                "top": 0.4121336983545678,
+                "right": 0.5122927644259505,
+                "bottom": 0.42853588183312397
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5122927644259505,
+                "top": 0.4121336983545678,
+                "right": 0.6840337880215941,
+                "bottom": 0.42853588183312397
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6840337880215941,
+                "top": 0.4121336983545678,
+                "right": 0.829587984187242,
+                "bottom": 0.42853588183312397
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.15476999079086617,
+                "top": 0.42853588183312397,
+                "right": 0.2885054244038159,
+                "bottom": 0.44512141413322937
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.2885054244038159,
+                "top": 0.42853588183312397,
+                "right": 0.4388803573950213,
+                "bottom": 0.44512141413322937
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.4388803573950213,
+                "top": 0.42853588183312397,
+                "right": 0.5122927644259505,
+                "bottom": 0.44512141413322937
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5122927644259505,
+                "top": 0.42853588183312397,
+                "right": 0.6840337880215941,
+                "bottom": 0.44512141413322937
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6840337880215941,
+                "top": 0.42853588183312397,
+                "right": 0.829587984187242,
+                "bottom": 0.44512141413322937
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.15476999079086617,
+                "top": 0.44512141413322937,
+                "right": 0.2885054244038159,
+                "bottom": 0.46166445429606995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.2885054244038159,
+                "top": 0.44512141413322937,
+                "right": 0.4388803573950213,
+                "bottom": 0.46166445429606995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.4388803573950213,
+                "top": 0.44512141413322937,
+                "right": 0.5122927644259505,
+                "bottom": 0.46166445429606995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5122927644259505,
+                "top": 0.44512141413322937,
+                "right": 0.6840337880215941,
+                "bottom": 0.46166445429606995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6840337880215941,
+                "top": 0.44512141413322937,
+                "right": 0.829587984187242,
+                "bottom": 0.46166445429606995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.15476999079086617,
+                "top": 0.46166445429606995,
+                "right": 0.2885054244038159,
+                "bottom": 0.4777038148980779
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.2885054244038159,
+                "top": 0.46166445429606995,
+                "right": 0.4388803573950213,
+                "bottom": 0.4777038148980779
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.4388803573950213,
+                "top": 0.46166445429606995,
+                "right": 0.5122927644259505,
+                "bottom": 0.4777038148980779
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5122927644259505,
+                "top": 0.46166445429606995,
+                "right": 0.6840337880215941,
+                "bottom": 0.4777038148980779
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6840337880215941,
+                "top": 0.46166445429606995,
+                "right": 0.829587984187242,
+                "bottom": 0.4777038148980779
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.15476999079086617,
+                "top": 0.4777038148980779,
+                "right": 0.2885054244038159,
+                "bottom": 0.49412024460833237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.2885054244038159,
+                "top": 0.4777038148980779,
+                "right": 0.4388803573950213,
+                "bottom": 0.49412024460833237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.4388803573950213,
+                "top": 0.4777038148980779,
+                "right": 0.5122927644259505,
+                "bottom": 0.49412024460833237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5122927644259505,
+                "top": 0.4777038148980779,
+                "right": 0.6840337880215941,
+                "bottom": 0.49412024460833237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.6840337880215941,
+                "top": 0.4777038148980779,
+                "right": 0.829587984187242,
+                "bottom": 0.49412024460833237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.15476999079086617,
+                "top": 0.49412024460833237,
+                "right": 0.2885054244038159,
+                "bottom": 0.510665157007054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.2885054244038159,
+                "top": 0.49412024460833237,
+                "right": 0.4388803573950213,
+                "bottom": 0.510665157007054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.4388803573950213,
+                "top": 0.49412024460833237,
+                "right": 0.5122927644259505,
+                "bottom": 0.510665157007054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.5122927644259505,
+                "top": 0.49412024460833237,
+                "right": 0.6840337880215941,
+                "bottom": 0.510665157007054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6840337880215941,
+                "top": 0.49412024460833237,
+                "right": 0.829587984187242,
+                "bottom": 0.510665157007054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "106fcaa3-7068-4bd4-b01b-8c5c13ba721f": {
+            "box": {
+                "left": 0.14877742528915405,
+                "top": 0.5347068309783936,
+                "right": 0.8530800938606262,
+                "bottom": 0.697502613067627
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "caabaf0b-76f5-4e24-9673-20071cafe7f8": {
+            "box": {
+                "left": 0.15094336867332458,
+                "top": 0.7007384896278381,
+                "right": 0.8215692043304443,
+                "bottom": 0.7817704081535339
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cd2f0222-f431-4001-b2c6-d776b2e34f4a": {
+            "box": {
+                "left": 0.21867772936820984,
+                "top": 0.9781452417373657,
+                "right": 0.781408429145813,
+                "bottom": 0.9989932775497437
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "a38b368f-7abb-4549-8891-8343f795c48e": {
+            "box": {
+                "left": 0.8803876638412476,
+                "top": 0.7914012670516968,
+                "right": 0.9052133560180664,
+                "bottom": 0.8792771100997925
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "nnfg0224_13.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9509,
+        "credit_usage": 3.0,
+        "job_id": "jdzopeeo0r9of1hqmntb76h6m",
+        "version": "dpt-2-20250919"
+    }
+}

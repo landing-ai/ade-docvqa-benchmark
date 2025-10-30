@@ -1,0 +1,288 @@
+{
+    "markdown": "<a id='564c1048-0582-4369-8a0b-e059aedc9aab'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Sugar</td><td id=\"0-3\">1944 against 1943</td><td id=\"0-4\"></td><td id=\"0-5\">Other Groups of Food Manfrs Division</td></tr>\n<tr><td id=\"0-6\">Employees</td><td id=\"0-7\">68%</td><td id=\"0-8\">decrease</td><td id=\"0-9\">Only one other group was lower</td></tr>\n<tr><td id=\"0-a\">Firms</td><td id=\"0-b\">89%</td><td id=\"0-c\">increase</td><td id=\"0-d\">Only one group was higher - Distilling 145%</td></tr>\n<tr><td id=\"0-e\">Executives</td><td id=\"0-f\">114%</td><td id=\"0-g\">\"</td><td id=\"0-h\">\" \" \" \" \" Bakeries 150%</td></tr>\n<tr><td id=\"0-i\">Total</td><td id=\"0-j\">81%</td><td id=\"0-k\">\"</td><td id=\"0-l\">No other group was higher</td></tr>\n</table>\n\n<a id='33bd8d0f-81c4-4eaf-afa6-03767e580fd8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/thxl0226",
+    "chunks": [
+        {
+            "markdown": "<a id='564c1048-0582-4369-8a0b-e059aedc9aab'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Sugar</td><td id=\"0-3\">1944 against 1943</td><td id=\"0-4\"></td><td id=\"0-5\">Other Groups of Food Manfrs Division</td></tr>\n<tr><td id=\"0-6\">Employees</td><td id=\"0-7\">68%</td><td id=\"0-8\">decrease</td><td id=\"0-9\">Only one other group was lower</td></tr>\n<tr><td id=\"0-a\">Firms</td><td id=\"0-b\">89%</td><td id=\"0-c\">increase</td><td id=\"0-d\">Only one group was higher - Distilling 145%</td></tr>\n<tr><td id=\"0-e\">Executives</td><td id=\"0-f\">114%</td><td id=\"0-g\">\"</td><td id=\"0-h\">\" \" \" \" \" Bakeries 150%</td></tr>\n<tr><td id=\"0-i\">Total</td><td id=\"0-j\">81%</td><td id=\"0-k\">\"</td><td id=\"0-l\">No other group was higher</td></tr>\n</table>",
+            "type": "table",
+            "id": "564c1048-0582-4369-8a0b-e059aedc9aab",
+            "grounding": {
+                "box": {
+                    "left": 0.016247272491455078,
+                    "top": 0.07176996767520905,
+                    "right": 0.9927480220794678,
+                    "bottom": 0.45041877031326294
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='33bd8d0f-81c4-4eaf-afa6-03767e580fd8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/thxl0226",
+            "type": "text",
+            "id": "33bd8d0f-81c4-4eaf-afa6-03767e580fd8",
+            "grounding": {
+                "box": {
+                    "left": 0.03453189134597778,
+                    "top": 0.9249773621559143,
+                    "right": 0.9664154648780823,
+                    "bottom": 0.9877563118934631
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='564c1048-0582-4369-8a0b-e059aedc9aab'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Sugar</td><td id=\"0-3\">1944 against 1943</td><td id=\"0-4\"></td><td id=\"0-5\">Other Groups of Food Manfrs Division</td></tr>\n<tr><td id=\"0-6\">Employees</td><td id=\"0-7\">68%</td><td id=\"0-8\">decrease</td><td id=\"0-9\">Only one other group was lower</td></tr>\n<tr><td id=\"0-a\">Firms</td><td id=\"0-b\">89%</td><td id=\"0-c\">increase</td><td id=\"0-d\">Only one group was higher - Distilling 145%</td></tr>\n<tr><td id=\"0-e\">Executives</td><td id=\"0-f\">114%</td><td id=\"0-g\">\"</td><td id=\"0-h\">\" \" \" \" \" Bakeries 150%</td></tr>\n<tr><td id=\"0-i\">Total</td><td id=\"0-j\">81%</td><td id=\"0-k\">\"</td><td id=\"0-l\">No other group was higher</td></tr>\n</table>\n\n<a id='33bd8d0f-81c4-4eaf-afa6-03767e580fd8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/thxl0226",
+            "chunks": [
+                "564c1048-0582-4369-8a0b-e059aedc9aab",
+                "33bd8d0f-81c4-4eaf-afa6-03767e580fd8"
+            ]
+        }
+    ],
+    "grounding": {
+        "564c1048-0582-4369-8a0b-e059aedc9aab": {
+            "box": {
+                "left": 0.016247272491455078,
+                "top": 0.07176996767520905,
+                "right": 0.9927480220794678,
+                "bottom": 0.45041877031326294
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.025066612417986356,
+                "top": 0.0779695115642397,
+                "right": 0.9906584409826422,
+                "bottom": 0.4487836297898813
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.025066612417986356,
+                "top": 0.0779695115642397,
+                "right": 0.18631160545778513,
+                "bottom": 0.16985223005896577
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.18631160545778513,
+                "top": 0.0779695115642397,
+                "right": 0.31166445561176914,
+                "bottom": 0.16985223005896577
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.31166445561176914,
+                "top": 0.0779695115642397,
+                "right": 0.4351822361237936,
+                "bottom": 0.16985223005896577
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.4351822361237936,
+                "top": 0.0779695115642397,
+                "right": 0.9905210795891293,
+                "bottom": 0.16985223005896577
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.025066612417986356,
+                "top": 0.16985223005896577,
+                "right": 0.18631160545778513,
+                "bottom": 0.23543092311436364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.18631160545778513,
+                "top": 0.16985223005896577,
+                "right": 0.31166445561176914,
+                "bottom": 0.23543092311436364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.31166445561176914,
+                "top": 0.16985223005896577,
+                "right": 0.4351822361237936,
+                "bottom": 0.23543092311436364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.4351822361237936,
+                "top": 0.16985223005896577,
+                "right": 0.9905210795891293,
+                "bottom": 0.23543092311436364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.025066612417986356,
+                "top": 0.23543092311436364,
+                "right": 0.18631160545778513,
+                "bottom": 0.30091903457568847
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.18631160545778513,
+                "top": 0.23543092311436364,
+                "right": 0.31166445561176914,
+                "bottom": 0.30091903457568847
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.31166445561176914,
+                "top": 0.23543092311436364,
+                "right": 0.4351822361237936,
+                "bottom": 0.30091903457568847
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.4351822361237936,
+                "top": 0.23543092311436364,
+                "right": 0.9905210795891293,
+                "bottom": 0.30091903457568847
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.025066612417986356,
+                "top": 0.30091903457568847,
+                "right": 0.18631160545778513,
+                "bottom": 0.37338498691094735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.18631160545778513,
+                "top": 0.30091903457568847,
+                "right": 0.31166445561176914,
+                "bottom": 0.37338498691094735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.31166445561176914,
+                "top": 0.30091903457568847,
+                "right": 0.4351822361237936,
+                "bottom": 0.37338498691094735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.4351822361237936,
+                "top": 0.30091903457568847,
+                "right": 0.9905210795891293,
+                "bottom": 0.37338498691094735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.025066612417986356,
+                "top": 0.37338498691094735,
+                "right": 0.18631160545778513,
+                "bottom": 0.4487836297898813
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.18631160545778513,
+                "top": 0.37338498691094735,
+                "right": 0.31166445561176914,
+                "bottom": 0.4487836297898813
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.31166445561176914,
+                "top": 0.37338498691094735,
+                "right": 0.4351822361237936,
+                "bottom": 0.4487836297898813
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.4351822361237936,
+                "top": 0.37338498691094735,
+                "right": 0.9905210795891293,
+                "bottom": 0.4487836297898813
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "33bd8d0f-81c4-4eaf-afa6-03767e580fd8": {
+            "box": {
+                "left": 0.03453189134597778,
+                "top": 0.9249773621559143,
+                "right": 0.9664154648780823,
+                "bottom": 0.9877563118934631
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "thxl0226_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5016,
+        "credit_usage": 3.0,
+        "job_id": "ud1r85xgkpzr4jy3tqwza1max",
+        "version": "dpt-2-20250919"
+    }
+}

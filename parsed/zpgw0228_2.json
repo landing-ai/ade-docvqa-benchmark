@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='d012e089-39ff-4680-bacd-05514afc289e'></a>\n\n<::logo: Helen Keller International\nHELEN KELLER INTERNATIONAL INCORPORATED\nThe logo features a stylized \"HKI\" in black, with the \"H\" and \"I\" as vertical bars and the \"K\" as a chevron shape, next to the full company name in a sans-serif font.::>\n\n<a id='17a0369e-b213-4167-8739-d7aa673c86f3'></a>\n\n11/18/82\n\n<a id='b084b1db-7970-4423-9d69-4f094d53ce73'></a>\n\nMEMO TO: Dr. Darby\n\nHere are two Expense\nReport forms for reporting\nyour Annual Meeting-\nrelated travel expenses.\nNext time I'll bring\nsome to the meeting.\nEnclosed also is a\nself-addressed postage\npaid envelope for your\nuse.\n\n<a id='85aa232d-df7c-47b2-b2bc-ce18f7b078d6'></a>\n\nHope your trip back to\nNashville was uneventful.\nJeanette Connors",
+    "chunks": [
+        {
+            "markdown": "<a id='d012e089-39ff-4680-bacd-05514afc289e'></a>\n\n<::logo: Helen Keller International\nHELEN KELLER INTERNATIONAL INCORPORATED\nThe logo features a stylized \"HKI\" in black, with the \"H\" and \"I\" as vertical bars and the \"K\" as a chevron shape, next to the full company name in a sans-serif font.::>",
+            "type": "logo",
+            "id": "d012e089-39ff-4680-bacd-05514afc289e",
+            "grounding": {
+                "box": {
+                    "left": 0.08311378955841064,
+                    "top": 0.07331544905900955,
+                    "right": 0.6330574154853821,
+                    "bottom": 0.1640297770500183
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='17a0369e-b213-4167-8739-d7aa673c86f3'></a>\n\n11/18/82",
+            "type": "text",
+            "id": "17a0369e-b213-4167-8739-d7aa673c86f3",
+            "grounding": {
+                "box": {
+                    "left": 0.6913545727729797,
+                    "top": 0.11821449548006058,
+                    "right": 0.8488543629646301,
+                    "bottom": 0.17824161052703857
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b084b1db-7970-4423-9d69-4f094d53ce73'></a>\n\nMEMO TO: Dr. Darby\n\nHere are two Expense\nReport forms for reporting\nyour Annual Meeting-\nrelated travel expenses.\nNext time I'll bring\nsome to the meeting.\nEnclosed also is a\nself-addressed postage\npaid envelope for your\nuse.",
+            "type": "text",
+            "id": "b084b1db-7970-4423-9d69-4f094d53ce73",
+            "grounding": {
+                "box": {
+                    "left": 0.085080087184906,
+                    "top": 0.2010524868965149,
+                    "right": 0.8945283889770508,
+                    "bottom": 0.7720077037811279
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='85aa232d-df7c-47b2-b2bc-ce18f7b078d6'></a>\n\nHope your trip back to\nNashville was uneventful.\nJeanette Connors",
+            "type": "text",
+            "id": "85aa232d-df7c-47b2-b2bc-ce18f7b078d6",
+            "grounding": {
+                "box": {
+                    "left": 0.10562655329704285,
+                    "top": 0.7716375589370728,
+                    "right": 0.9562333822250366,
+                    "bottom": 0.940998911857605
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d012e089-39ff-4680-bacd-05514afc289e'></a>\n\n<::logo: Helen Keller International\nHELEN KELLER INTERNATIONAL INCORPORATED\nThe logo features a stylized \"HKI\" in black, with the \"H\" and \"I\" as vertical bars and the \"K\" as a chevron shape, next to the full company name in a sans-serif font.::>\n\n<a id='17a0369e-b213-4167-8739-d7aa673c86f3'></a>\n\n11/18/82\n\n<a id='b084b1db-7970-4423-9d69-4f094d53ce73'></a>\n\nMEMO TO: Dr. Darby\n\nHere are two Expense\nReport forms for reporting\nyour Annual Meeting-\nrelated travel expenses.\nNext time I'll bring\nsome to the meeting.\nEnclosed also is a\nself-addressed postage\npaid envelope for your\nuse.\n\n<a id='85aa232d-df7c-47b2-b2bc-ce18f7b078d6'></a>\n\nHope your trip back to\nNashville was uneventful.\nJeanette Connors",
+            "chunks": [
+                "d012e089-39ff-4680-bacd-05514afc289e",
+                "17a0369e-b213-4167-8739-d7aa673c86f3",
+                "b084b1db-7970-4423-9d69-4f094d53ce73",
+                "85aa232d-df7c-47b2-b2bc-ce18f7b078d6"
+            ]
+        }
+    ],
+    "grounding": {
+        "d012e089-39ff-4680-bacd-05514afc289e": {
+            "box": {
+                "left": 0.08311378955841064,
+                "top": 0.07331544905900955,
+                "right": 0.6330574154853821,
+                "bottom": 0.1640297770500183
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "17a0369e-b213-4167-8739-d7aa673c86f3": {
+            "box": {
+                "left": 0.6913545727729797,
+                "top": 0.11821449548006058,
+                "right": 0.8488543629646301,
+                "bottom": 0.17824161052703857
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b084b1db-7970-4423-9d69-4f094d53ce73": {
+            "box": {
+                "left": 0.085080087184906,
+                "top": 0.2010524868965149,
+                "right": 0.8945283889770508,
+                "bottom": 0.7720077037811279
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "85aa232d-df7c-47b2-b2bc-ce18f7b078d6": {
+            "box": {
+                "left": 0.10562655329704285,
+                "top": 0.7716375589370728,
+                "right": 0.9562333822250366,
+                "bottom": 0.940998911857605
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "zpgw0228_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3806,
+        "credit_usage": 3.0,
+        "job_id": "yx6g5u4ib7psm0sruydtbhx3q",
+        "version": "dpt-2-20250919"
+    }
+}

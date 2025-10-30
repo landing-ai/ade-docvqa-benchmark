@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='c6619d51-df31-4220-b8b5-4cbfedb95024'></a>\n\nAPPENDIX\n\n<a id='0e847872-4253-4629-9278-f1935af5a747'></a>\n\n<::Icon representing molecules: vitamins\nIcon representing a drop: fats\nIcon representing a crystal: minerals\nIcon representing connected circles: carbohydrates\nIcon representing a twisted strand: proteins\n: figure::>\n\n<a id='d8122a6a-bf36-44f3-ad51-2c570c7ef0b0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rlnf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='c6619d51-df31-4220-b8b5-4cbfedb95024'></a>\n\nAPPENDIX",
+            "type": "text",
+            "id": "c6619d51-df31-4220-b8b5-4cbfedb95024",
+            "grounding": {
+                "box": {
+                    "left": 0.5498403906822205,
+                    "top": 0.2094910442829132,
+                    "right": 0.7970482707023621,
+                    "bottom": 0.26229357719421387
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0e847872-4253-4629-9278-f1935af5a747'></a>\n\n<::Icon representing molecules: vitamins\nIcon representing a drop: fats\nIcon representing a crystal: minerals\nIcon representing connected circles: carbohydrates\nIcon representing a twisted strand: proteins\n: figure::>",
+            "type": "figure",
+            "id": "0e847872-4253-4629-9278-f1935af5a747",
+            "grounding": {
+                "box": {
+                    "left": 0.5473431944847107,
+                    "top": 0.3714892268180847,
+                    "right": 0.801544725894928,
+                    "bottom": 0.6537675261497498
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d8122a6a-bf36-44f3-ad51-2c570c7ef0b0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rlnf0227",
+            "type": "text",
+            "id": "d8122a6a-bf36-44f3-ad51-2c570c7ef0b0",
+            "grounding": {
+                "box": {
+                    "left": 0.2377159595489502,
+                    "top": 0.9742289781570435,
+                    "right": 0.7622263431549072,
+                    "bottom": 1.0000941753387451
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c6619d51-df31-4220-b8b5-4cbfedb95024'></a>\n\nAPPENDIX\n\n<a id='0e847872-4253-4629-9278-f1935af5a747'></a>\n\n<::Icon representing molecules: vitamins\nIcon representing a drop: fats\nIcon representing a crystal: minerals\nIcon representing connected circles: carbohydrates\nIcon representing a twisted strand: proteins\n: figure::>\n\n<a id='d8122a6a-bf36-44f3-ad51-2c570c7ef0b0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rlnf0227",
+            "chunks": [
+                "c6619d51-df31-4220-b8b5-4cbfedb95024",
+                "0e847872-4253-4629-9278-f1935af5a747",
+                "d8122a6a-bf36-44f3-ad51-2c570c7ef0b0"
+            ]
+        }
+    ],
+    "grounding": {
+        "c6619d51-df31-4220-b8b5-4cbfedb95024": {
+            "box": {
+                "left": 0.5498403906822205,
+                "top": 0.2094910442829132,
+                "right": 0.7970482707023621,
+                "bottom": 0.26229357719421387
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0e847872-4253-4629-9278-f1935af5a747": {
+            "box": {
+                "left": 0.5473431944847107,
+                "top": 0.3714892268180847,
+                "right": 0.801544725894928,
+                "bottom": 0.6537675261497498
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "d8122a6a-bf36-44f3-ad51-2c570c7ef0b0": {
+            "box": {
+                "left": 0.2377159595489502,
+                "top": 0.9742289781570435,
+                "right": 0.7622263431549072,
+                "bottom": 1.0000941753387451
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rlnf0227_47.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5288,
+        "credit_usage": 3.0,
+        "job_id": "hjpg39g7ao1q6kgtau4xl5a6a",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,643 @@
+{
+    "markdown": "<a id='b555dc38-b922-462b-99c6-f4d2e546711f'></a>\n\nRIP-6\n\n<a id='656d19e9-a658-48b0-9b83-c6214765a0bc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Cig. Code</td><td id=\"0-3\">B&W</td><td id=\"0-4\">Ecusta</td></tr>\n<tr><td id=\"0-5\">498057</td><td id=\"0-6\">4I/6</td><td id=\"0-7\">6I/6</td></tr>\n<tr><td id=\"0-8\">498058</td><td id=\"0-9\">6I/6</td><td id=\"0-a\">5I/6</td></tr>\n<tr><td id=\"0-b\">498059</td><td id=\"0-c\">4I/6</td><td id=\"0-d\">6I/6</td></tr>\n<tr><td id=\"0-e\">498060</td><td id=\"0-f\">5I/6</td><td id=\"0-g\">5I/6</td></tr>\n<tr><td id=\"0-h\">498061</td><td id=\"0-i\">51/6</td><td id=\"0-j\">61/6</td></tr>\n<tr><td id=\"0-k\">498062</td><td id=\"0-l\">61/6</td><td id=\"0-m\">61/6</td></tr>\n</table>\n\n<a id='ab45e8e8-9fff-4a4a-a7f9-03aa8d0f7ce1'></a>\n\nRIP-4\n\n<a id='0a94a87b-017d-4a17-ad4c-696f2abecc59'></a>\n\n<table id=\"0-n\">\n<tr><td id=\"0-o\">Cig. Code</td><td id=\"0-p\">B&W</td><td id=\"0-q\">Ecusta</td></tr>\n<tr><td id=\"0-r\">498057</td><td id=\"0-s\">1I/5SE</td><td id=\"0-t\">3I/1NI/2SE</td></tr>\n<tr><td id=\"0-u\">498058</td><td id=\"0-v\">1I/5SE</td><td id=\"0-w\">1I/1NI/4SE</td></tr>\n<tr><td id=\"0-x\">498059</td><td id=\"0-y\">6SE</td><td id=\"0-z\">6NI</td></tr>\n<tr><td id=\"0-A\">498060</td><td id=\"0-B\">6SE</td><td id=\"0-C\">2NI/4SE</td></tr>\n<tr><td id=\"0-D\">498061</td><td id=\"0-E\">In progress</td><td id=\"0-F\">1NI/5SE</td></tr>\n<tr><td id=\"0-G\">498062</td><td id=\"0-H\">In progress</td><td id=\"0-I\">4NI/2SE</td></tr>\n</table>\n\n<a id='39577e9c-9755-4015-b8bc-5315ca629438'></a>\n\np4f448.wp .3\n\n<a id='daf8e8c8-1917-46c2-b82a-b5259b1f19d1'></a>\n\n584100572\n\n<a id='6dff710b-f43e-4248-bd66-de8b0f0e2b8b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qncj0037",
+    "chunks": [
+        {
+            "markdown": "<a id='b555dc38-b922-462b-99c6-f4d2e546711f'></a>\n\nRIP-6",
+            "type": "text",
+            "id": "b555dc38-b922-462b-99c6-f4d2e546711f",
+            "grounding": {
+                "box": {
+                    "left": 0.4441121816635132,
+                    "top": 0.10420247912406921,
+                    "right": 0.5046066641807556,
+                    "bottom": 0.12343981862068176
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='656d19e9-a658-48b0-9b83-c6214765a0bc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Cig. Code</td><td id=\"0-3\">B&W</td><td id=\"0-4\">Ecusta</td></tr>\n<tr><td id=\"0-5\">498057</td><td id=\"0-6\">4I/6</td><td id=\"0-7\">6I/6</td></tr>\n<tr><td id=\"0-8\">498058</td><td id=\"0-9\">6I/6</td><td id=\"0-a\">5I/6</td></tr>\n<tr><td id=\"0-b\">498059</td><td id=\"0-c\">4I/6</td><td id=\"0-d\">6I/6</td></tr>\n<tr><td id=\"0-e\">498060</td><td id=\"0-f\">5I/6</td><td id=\"0-g\">5I/6</td></tr>\n<tr><td id=\"0-h\">498061</td><td id=\"0-i\">51/6</td><td id=\"0-j\">61/6</td></tr>\n<tr><td id=\"0-k\">498062</td><td id=\"0-l\">61/6</td><td id=\"0-m\">61/6</td></tr>\n</table>",
+            "type": "table",
+            "id": "656d19e9-a658-48b0-9b83-c6214765a0bc",
+            "grounding": {
+                "box": {
+                    "left": 0.27207040786743164,
+                    "top": 0.1420326828956604,
+                    "right": 0.7040306925773621,
+                    "bottom": 0.2923007309436798
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ab45e8e8-9fff-4a4a-a7f9-03aa8d0f7ce1'></a>\n\nRIP-4",
+            "type": "text",
+            "id": "ab45e8e8-9fff-4a4a-a7f9-03aa8d0f7ce1",
+            "grounding": {
+                "box": {
+                    "left": 0.44258400797843933,
+                    "top": 0.35249489545822144,
+                    "right": 0.5070087909698486,
+                    "bottom": 0.37301069498062134
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0a94a87b-017d-4a17-ad4c-696f2abecc59'></a>\n\n<table id=\"0-n\">\n<tr><td id=\"0-o\">Cig. Code</td><td id=\"0-p\">B&W</td><td id=\"0-q\">Ecusta</td></tr>\n<tr><td id=\"0-r\">498057</td><td id=\"0-s\">1I/5SE</td><td id=\"0-t\">3I/1NI/2SE</td></tr>\n<tr><td id=\"0-u\">498058</td><td id=\"0-v\">1I/5SE</td><td id=\"0-w\">1I/1NI/4SE</td></tr>\n<tr><td id=\"0-x\">498059</td><td id=\"0-y\">6SE</td><td id=\"0-z\">6NI</td></tr>\n<tr><td id=\"0-A\">498060</td><td id=\"0-B\">6SE</td><td id=\"0-C\">2NI/4SE</td></tr>\n<tr><td id=\"0-D\">498061</td><td id=\"0-E\">In progress</td><td id=\"0-F\">1NI/5SE</td></tr>\n<tr><td id=\"0-G\">498062</td><td id=\"0-H\">In progress</td><td id=\"0-I\">4NI/2SE</td></tr>\n</table>",
+            "type": "table",
+            "id": "0a94a87b-017d-4a17-ad4c-696f2abecc59",
+            "grounding": {
+                "box": {
+                    "left": 0.27370941638946533,
+                    "top": 0.39386776089668274,
+                    "right": 0.7399656772613525,
+                    "bottom": 0.5417606830596924
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='39577e9c-9755-4015-b8bc-5315ca629438'></a>\n\np4f448.wp .3",
+            "type": "text",
+            "id": "39577e9c-9755-4015-b8bc-5315ca629438",
+            "grounding": {
+                "box": {
+                    "left": 0.1300530731678009,
+                    "top": 0.7646974325180054,
+                    "right": 0.25878819823265076,
+                    "bottom": 0.7882602214813232
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='daf8e8c8-1917-46c2-b82a-b5259b1f19d1'></a>\n\n584100572",
+            "type": "text",
+            "id": "daf8e8c8-1917-46c2-b82a-b5259b1f19d1",
+            "grounding": {
+                "box": {
+                    "left": 0.6338742971420288,
+                    "top": 0.8632726669311523,
+                    "right": 0.8064085245132446,
+                    "bottom": 0.8957222700119019
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6dff710b-f43e-4248-bd66-de8b0f0e2b8b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qncj0037",
+            "type": "marginalia",
+            "id": "6dff710b-f43e-4248-bd66-de8b0f0e2b8b",
+            "grounding": {
+                "box": {
+                    "left": 0.19324606657028198,
+                    "top": 0.9741594791412354,
+                    "right": 0.8054985404014587,
+                    "bottom": 1.000048279762268
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='b555dc38-b922-462b-99c6-f4d2e546711f'></a>\n\nRIP-6\n\n<a id='656d19e9-a658-48b0-9b83-c6214765a0bc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Cig. Code</td><td id=\"0-3\">B&W</td><td id=\"0-4\">Ecusta</td></tr>\n<tr><td id=\"0-5\">498057</td><td id=\"0-6\">4I/6</td><td id=\"0-7\">6I/6</td></tr>\n<tr><td id=\"0-8\">498058</td><td id=\"0-9\">6I/6</td><td id=\"0-a\">5I/6</td></tr>\n<tr><td id=\"0-b\">498059</td><td id=\"0-c\">4I/6</td><td id=\"0-d\">6I/6</td></tr>\n<tr><td id=\"0-e\">498060</td><td id=\"0-f\">5I/6</td><td id=\"0-g\">5I/6</td></tr>\n<tr><td id=\"0-h\">498061</td><td id=\"0-i\">51/6</td><td id=\"0-j\">61/6</td></tr>\n<tr><td id=\"0-k\">498062</td><td id=\"0-l\">61/6</td><td id=\"0-m\">61/6</td></tr>\n</table>\n\n<a id='ab45e8e8-9fff-4a4a-a7f9-03aa8d0f7ce1'></a>\n\nRIP-4\n\n<a id='0a94a87b-017d-4a17-ad4c-696f2abecc59'></a>\n\n<table id=\"0-n\">\n<tr><td id=\"0-o\">Cig. Code</td><td id=\"0-p\">B&W</td><td id=\"0-q\">Ecusta</td></tr>\n<tr><td id=\"0-r\">498057</td><td id=\"0-s\">1I/5SE</td><td id=\"0-t\">3I/1NI/2SE</td></tr>\n<tr><td id=\"0-u\">498058</td><td id=\"0-v\">1I/5SE</td><td id=\"0-w\">1I/1NI/4SE</td></tr>\n<tr><td id=\"0-x\">498059</td><td id=\"0-y\">6SE</td><td id=\"0-z\">6NI</td></tr>\n<tr><td id=\"0-A\">498060</td><td id=\"0-B\">6SE</td><td id=\"0-C\">2NI/4SE</td></tr>\n<tr><td id=\"0-D\">498061</td><td id=\"0-E\">In progress</td><td id=\"0-F\">1NI/5SE</td></tr>\n<tr><td id=\"0-G\">498062</td><td id=\"0-H\">In progress</td><td id=\"0-I\">4NI/2SE</td></tr>\n</table>\n\n<a id='39577e9c-9755-4015-b8bc-5315ca629438'></a>\n\np4f448.wp .3\n\n<a id='daf8e8c8-1917-46c2-b82a-b5259b1f19d1'></a>\n\n584100572\n\n<a id='6dff710b-f43e-4248-bd66-de8b0f0e2b8b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qncj0037",
+            "chunks": [
+                "b555dc38-b922-462b-99c6-f4d2e546711f",
+                "656d19e9-a658-48b0-9b83-c6214765a0bc",
+                "ab45e8e8-9fff-4a4a-a7f9-03aa8d0f7ce1",
+                "0a94a87b-017d-4a17-ad4c-696f2abecc59",
+                "39577e9c-9755-4015-b8bc-5315ca629438",
+                "daf8e8c8-1917-46c2-b82a-b5259b1f19d1",
+                "6dff710b-f43e-4248-bd66-de8b0f0e2b8b"
+            ]
+        }
+    ],
+    "grounding": {
+        "b555dc38-b922-462b-99c6-f4d2e546711f": {
+            "box": {
+                "left": 0.4441121816635132,
+                "top": 0.10420247912406921,
+                "right": 0.5046066641807556,
+                "bottom": 0.12343981862068176
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "656d19e9-a658-48b0-9b83-c6214765a0bc": {
+            "box": {
+                "left": 0.27207040786743164,
+                "top": 0.1420326828956604,
+                "right": 0.7040306925773621,
+                "bottom": 0.2923007309436798
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.28144439919773334,
+                "top": 0.14607779548117406,
+                "right": 0.6928580061323544,
+                "bottom": 0.28881250961705796
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.28144439919773334,
+                "top": 0.14607779548117406,
+                "right": 0.3719612185572352,
+                "bottom": 0.15901039922501758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3719612185572352,
+                "top": 0.14607779548117406,
+                "right": 0.5200769664209979,
+                "bottom": 0.15901039922501758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5200769664209979,
+                "top": 0.14607779548117406,
+                "right": 0.6925684829241199,
+                "bottom": 0.15901039922501758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.28144439919773334,
+                "top": 0.15901039922501758,
+                "right": 0.3719612185572352,
+                "bottom": 0.1820743656118724
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.3719612185572352,
+                "top": 0.15901039922501758,
+                "right": 0.5200769664209979,
+                "bottom": 0.1820743656118724
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5200769664209979,
+                "top": 0.15901039922501758,
+                "right": 0.6925684829241199,
+                "bottom": 0.1820743656118724
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.28144439919773334,
+                "top": 0.1820743656118724,
+                "right": 0.3719612185572352,
+                "bottom": 0.2033028375140047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.3719612185572352,
+                "top": 0.1820743656118724,
+                "right": 0.5200769664209979,
+                "bottom": 0.2033028375140047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5200769664209979,
+                "top": 0.1820743656118724,
+                "right": 0.6925684829241199,
+                "bottom": 0.2033028375140047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.28144439919773334,
+                "top": 0.2033028375140047,
+                "right": 0.3719612185572352,
+                "bottom": 0.22394724025071433
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.3719612185572352,
+                "top": 0.2033028375140047,
+                "right": 0.5200769664209979,
+                "bottom": 0.22394724025071433
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5200769664209979,
+                "top": 0.2033028375140047,
+                "right": 0.6925684829241199,
+                "bottom": 0.22394724025071433
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.28144439919773334,
+                "top": 0.22394724025071433,
+                "right": 0.3719612185572352,
+                "bottom": 0.24548049879963152
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3719612185572352,
+                "top": 0.22394724025071433,
+                "right": 0.5200769664209979,
+                "bottom": 0.24548049879963152
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5200769664209979,
+                "top": 0.22394724025071433,
+                "right": 0.6925684829241199,
+                "bottom": 0.24548049879963152
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.28144439919773334,
+                "top": 0.24548049879963152,
+                "right": 0.3719612185572352,
+                "bottom": 0.2664966437968097
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.3719612185572352,
+                "top": 0.24548049879963152,
+                "right": 0.5200769664209979,
+                "bottom": 0.2664966437968097
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5200769664209979,
+                "top": 0.24548049879963152,
+                "right": 0.6925684829241199,
+                "bottom": 0.2664966437968097
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.28144439919773334,
+                "top": 0.2664966437968097,
+                "right": 0.3719612185572352,
+                "bottom": 0.28881250961705796
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.3719612185572352,
+                "top": 0.2664966437968097,
+                "right": 0.5200769664209979,
+                "bottom": 0.28881250961705796
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5200769664209979,
+                "top": 0.2664966437968097,
+                "right": 0.6925684829241199,
+                "bottom": 0.28881250961705796
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "ab45e8e8-9fff-4a4a-a7f9-03aa8d0f7ce1": {
+            "box": {
+                "left": 0.44258400797843933,
+                "top": 0.35249489545822144,
+                "right": 0.5070087909698486,
+                "bottom": 0.37301069498062134
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0a94a87b-017d-4a17-ad4c-696f2abecc59": {
+            "box": {
+                "left": 0.27370941638946533,
+                "top": 0.39386776089668274,
+                "right": 0.7399656772613525,
+                "bottom": 0.5417606830596924
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.280164061885232,
+                "top": 0.3972727574908472,
+                "right": 0.7328935804528527,
+                "bottom": 0.5376232077042893
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.280164061885232,
+                "top": 0.3972727574908472,
+                "right": 0.36991384300529795,
+                "bottom": 0.41015604873131273
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.36991384300529795,
+                "top": 0.3972727574908472,
+                "right": 0.5824409001894963,
+                "bottom": 0.41015604873131273
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.5824409001894963,
+                "top": 0.3972727574908472,
+                "right": 0.7329808998967735,
+                "bottom": 0.41015604873131273
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.280164061885232,
+                "top": 0.41015604873131273,
+                "right": 0.36991384300529795,
+                "bottom": 0.43304249782045456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.36991384300529795,
+                "top": 0.41015604873131273,
+                "right": 0.5824409001894963,
+                "bottom": 0.43304249782045456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.5824409001894963,
+                "top": 0.41015604873131273,
+                "right": 0.7329808998967735,
+                "bottom": 0.43304249782045456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.280164061885232,
+                "top": 0.43304249782045456,
+                "right": 0.36991384300529795,
+                "bottom": 0.45458542902956367
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.36991384300529795,
+                "top": 0.43304249782045456,
+                "right": 0.5824409001894963,
+                "bottom": 0.45458542902956367
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.5824409001894963,
+                "top": 0.43304249782045456,
+                "right": 0.7329808998967735,
+                "bottom": 0.45458542902956367
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.280164061885232,
+                "top": 0.45458542902956367,
+                "right": 0.36991384300529795,
+                "bottom": 0.4747035792104768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.36991384300529795,
+                "top": 0.45458542902956367,
+                "right": 0.5824409001894963,
+                "bottom": 0.4747035792104768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.5824409001894963,
+                "top": 0.45458542902956367,
+                "right": 0.7329808998967735,
+                "bottom": 0.4747035792104768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.280164061885232,
+                "top": 0.4747035792104768,
+                "right": 0.36991384300529795,
+                "bottom": 0.49622108324895287
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.36991384300529795,
+                "top": 0.4747035792104768,
+                "right": 0.5824409001894963,
+                "bottom": 0.49622108324895287
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.5824409001894963,
+                "top": 0.4747035792104768,
+                "right": 0.7329808998967735,
+                "bottom": 0.49622108324895287
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.280164061885232,
+                "top": 0.49622108324895287,
+                "right": 0.36991384300529795,
+                "bottom": 0.517371922991197
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.36991384300529795,
+                "top": 0.49622108324895287,
+                "right": 0.5824409001894963,
+                "bottom": 0.517371922991197
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.5824409001894963,
+                "top": 0.49622108324895287,
+                "right": 0.7329808998967735,
+                "bottom": 0.517371922991197
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.280164061885232,
+                "top": 0.517371922991197,
+                "right": 0.36991384300529795,
+                "bottom": 0.5376232077042893
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.36991384300529795,
+                "top": 0.517371922991197,
+                "right": 0.5824409001894963,
+                "bottom": 0.5376232077042893
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.5824409001894963,
+                "top": 0.517371922991197,
+                "right": 0.7329808998967735,
+                "bottom": 0.5376232077042893
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "39577e9c-9755-4015-b8bc-5315ca629438": {
+            "box": {
+                "left": 0.1300530731678009,
+                "top": 0.7646974325180054,
+                "right": 0.25878819823265076,
+                "bottom": 0.7882602214813232
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "daf8e8c8-1917-46c2-b82a-b5259b1f19d1": {
+            "box": {
+                "left": 0.6338742971420288,
+                "top": 0.8632726669311523,
+                "right": 0.8064085245132446,
+                "bottom": 0.8957222700119019
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6dff710b-f43e-4248-bd66-de8b0f0e2b8b": {
+            "box": {
+                "left": 0.19324606657028198,
+                "top": 0.9741594791412354,
+                "right": 0.8054985404014587,
+                "bottom": 1.000048279762268
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "qncj0037_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8243,
+        "credit_usage": 3.0,
+        "job_id": "vgu1w0fs25ltr6bg0blr7yem7",
+        "version": "dpt-2-20250919"
+    }
+}

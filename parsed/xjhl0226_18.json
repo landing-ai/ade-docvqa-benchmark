@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='d6c59a23-d405-41f3-936f-86787f3cc1e7'></a>\n\nARE PROFITS OF FOOD\nMANUFACTURERS REASONABLE ?\n\n<a id='a0a97ab2-dac4-44b7-9b0f-bab66e241a26'></a>\n\n<table><thead><tr><th></th><th>Total<br>%</th><th>B<br>%</th><th>C<br>%</th></tr></thead><tbody><tr><td>Reasonable</td><td>28.9</td><td>34</td><td>24</td></tr><tr><td>Too high</td><td>42.5</td><td>36</td><td>49</td></tr><tr><td>Too low</td><td>.3</td><td>*</td><td>*</td></tr><tr><td>Don't Know</td><td>28.3</td><td>30</td><td>27</td></tr></tbody><tfoot><tr><td>Total %</td><td>100.0</td><td>100</td><td>100</td></tr><tr><td>Total Interviews</td><td>1000</td><td>500</td><td>500</td></tr></tfoot></table>\n\n<a id='28daa983-dbb3-4497-86a6-c76afeeca72d'></a>\n\nSource-Link, 1943\n\n<a id='5d7ae594-6385-4fa3-98c7-91e65cf49b8b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xjhl0226\n\n<a id='2a2928d0-9e54-41f9-864b-34d262823ac4'></a>\n\n7",
+    "chunks": [
+        {
+            "markdown": "<a id='d6c59a23-d405-41f3-936f-86787f3cc1e7'></a>\n\nARE PROFITS OF FOOD\nMANUFACTURERS REASONABLE ?",
+            "type": "text",
+            "id": "d6c59a23-d405-41f3-936f-86787f3cc1e7",
+            "grounding": {
+                "box": {
+                    "left": 0.16425547003746033,
+                    "top": 0.08371102064847946,
+                    "right": 0.8661776781082153,
+                    "bottom": 0.23803859949111938
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a0a97ab2-dac4-44b7-9b0f-bab66e241a26'></a>\n\n<table><thead><tr><th></th><th>Total<br>%</th><th>B<br>%</th><th>C<br>%</th></tr></thead><tbody><tr><td>Reasonable</td><td>28.9</td><td>34</td><td>24</td></tr><tr><td>Too high</td><td>42.5</td><td>36</td><td>49</td></tr><tr><td>Too low</td><td>.3</td><td>*</td><td>*</td></tr><tr><td>Don't Know</td><td>28.3</td><td>30</td><td>27</td></tr></tbody><tfoot><tr><td>Total %</td><td>100.0</td><td>100</td><td>100</td></tr><tr><td>Total Interviews</td><td>1000</td><td>500</td><td>500</td></tr></tfoot></table>",
+            "type": "table",
+            "id": "a0a97ab2-dac4-44b7-9b0f-bab66e241a26",
+            "grounding": {
+                "box": {
+                    "left": 0.13802099227905273,
+                    "top": 0.2616492807865143,
+                    "right": 0.860801637172699,
+                    "bottom": 0.8589205741882324
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='28daa983-dbb3-4497-86a6-c76afeeca72d'></a>\n\nSource-Link, 1943",
+            "type": "marginalia",
+            "id": "28daa983-dbb3-4497-86a6-c76afeeca72d",
+            "grounding": {
+                "box": {
+                    "left": 0.03166676312685013,
+                    "top": 0.9242377877235413,
+                    "right": 0.1478511393070221,
+                    "bottom": 0.9569584727287292
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5d7ae594-6385-4fa3-98c7-91e65cf49b8b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xjhl0226",
+            "type": "text",
+            "id": "5d7ae594-6385-4fa3-98c7-91e65cf49b8b",
+            "grounding": {
+                "box": {
+                    "left": 0.1785508394241333,
+                    "top": 0.9510349035263062,
+                    "right": 0.823477029800415,
+                    "bottom": 0.9939240217208862
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2a2928d0-9e54-41f9-864b-34d262823ac4'></a>\n\n7",
+            "type": "marginalia",
+            "id": "2a2928d0-9e54-41f9-864b-34d262823ac4",
+            "grounding": {
+                "box": {
+                    "left": 0.9745725989341736,
+                    "top": 0.9435368776321411,
+                    "right": 0.9906468987464905,
+                    "bottom": 0.9645668268203735
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d6c59a23-d405-41f3-936f-86787f3cc1e7'></a>\n\nARE PROFITS OF FOOD\nMANUFACTURERS REASONABLE ?\n\n<a id='a0a97ab2-dac4-44b7-9b0f-bab66e241a26'></a>\n\n<table><thead><tr><th></th><th>Total<br>%</th><th>B<br>%</th><th>C<br>%</th></tr></thead><tbody><tr><td>Reasonable</td><td>28.9</td><td>34</td><td>24</td></tr><tr><td>Too high</td><td>42.5</td><td>36</td><td>49</td></tr><tr><td>Too low</td><td>.3</td><td>*</td><td>*</td></tr><tr><td>Don't Know</td><td>28.3</td><td>30</td><td>27</td></tr></tbody><tfoot><tr><td>Total %</td><td>100.0</td><td>100</td><td>100</td></tr><tr><td>Total Interviews</td><td>1000</td><td>500</td><td>500</td></tr></tfoot></table>\n\n<a id='28daa983-dbb3-4497-86a6-c76afeeca72d'></a>\n\nSource-Link, 1943\n\n<a id='5d7ae594-6385-4fa3-98c7-91e65cf49b8b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xjhl0226\n\n<a id='2a2928d0-9e54-41f9-864b-34d262823ac4'></a>\n\n7",
+            "chunks": [
+                "d6c59a23-d405-41f3-936f-86787f3cc1e7",
+                "a0a97ab2-dac4-44b7-9b0f-bab66e241a26",
+                "28daa983-dbb3-4497-86a6-c76afeeca72d",
+                "5d7ae594-6385-4fa3-98c7-91e65cf49b8b",
+                "2a2928d0-9e54-41f9-864b-34d262823ac4"
+            ]
+        }
+    ],
+    "grounding": {
+        "d6c59a23-d405-41f3-936f-86787f3cc1e7": {
+            "box": {
+                "left": 0.16425547003746033,
+                "top": 0.08371102064847946,
+                "right": 0.8661776781082153,
+                "bottom": 0.23803859949111938
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a0a97ab2-dac4-44b7-9b0f-bab66e241a26": {
+            "box": {
+                "left": 0.13802099227905273,
+                "top": 0.2616492807865143,
+                "right": 0.860801637172699,
+                "bottom": 0.8589205741882324
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "28daa983-dbb3-4497-86a6-c76afeeca72d": {
+            "box": {
+                "left": 0.03166676312685013,
+                "top": 0.9242377877235413,
+                "right": 0.1478511393070221,
+                "bottom": 0.9569584727287292
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "5d7ae594-6385-4fa3-98c7-91e65cf49b8b": {
+            "box": {
+                "left": 0.1785508394241333,
+                "top": 0.9510349035263062,
+                "right": 0.823477029800415,
+                "bottom": 0.9939240217208862
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2a2928d0-9e54-41f9-864b-34d262823ac4": {
+            "box": {
+                "left": 0.9745725989341736,
+                "top": 0.9435368776321411,
+                "right": 0.9906468987464905,
+                "bottom": 0.9645668268203735
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xjhl0226_18.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5142,
+        "credit_usage": 3.0,
+        "job_id": "elxjdg8hvo5eq6rc39cvnutc4",
+        "version": "dpt-2-20250919"
+    }
+}

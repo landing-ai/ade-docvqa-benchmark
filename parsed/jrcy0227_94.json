@@ -1,0 +1,748 @@
+{
+    "markdown": "<a id='2e336a1b-d30b-4300-8c52-930ed8169635'></a>\n\n<::attestation: Acknowledgment/Signature\nSigned\nSignature: illegible\nI ACKNOWLEDGE RECEIPT OF TICKET(S) AND/\nOR COUPONS FOR RELATED CHARGES DESCRIBED\nTON. PAYMENT IN FULL TO BE MADE WHEN\nB OR IN EXTENDED PAYMENTS IN ACCORD-\nANG ITH STANDARD POLICY OF COMPANY ISSUING\nCARD AND AS REFLECTED IN APPLICABLE TARIFFS.\nX\nong\nAn 'X' mark and an illegible signature are present below a block of acknowledgment text, positioned at the bottom left of the visible area.::>\n\n<a id='fea9bdef-6d36-4d4d-a5b8-bdc7fe17f8be'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Page 7</td><td id=\"0-3\" colspan=\"2\">UNIVERSAL CREDIT CARD CHARGE FORM</td><td id=\"0-4\">Page 8 on reverse</td></tr>\n<tr><td id=\"0-5\" colspan=\"2\">EASTERN AIR LINES 007</td><td id=\"0-6\" colspan=\"2\">CONTRACTOR INVOICE COPY</td></tr>\n<tr><td id=\"0-7\" rowspan=\"2\" colspan=\"2\">DATE OF ISSUE 22 MAY 74</td><td id=\"0-8\" colspan=\"2\">IF EXTENDED PAYMENT DESIRED. CIRCLE NO. OF MONTHS</td></tr>\n<tr><td id=\"0-9\" colspan=\"2\">3 6 9 12</td></tr>\n</table>\n\n<a id='489ca8d3-06fc-48dd-971a-e2cc136ccd20'></a>\n\nDATE AND PLACE OF ISSUE\n\nEASTERN AIRLINES\nIN FLIGHT SERVICES\n\n<a id='1b7d0a95-72ba-4d11-8830-9abad481dcd7'></a>\n\n<table id=\"0-a\">\n<tr><td id=\"0-b\"></td><td id=\"0-c\">COMPLETE ROUTING</td><td id=\"0-d\">FARE BASIS</td><td id=\"0-e\">CARRIER</td></tr>\n<tr><td id=\"0-f\">FROM</td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td></tr>\n<tr><td id=\"0-j\" colspan=\"2\">EITHER DIRECTION</td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\" rowspan=\"2\" colspan=\"2\">TO --- BETWEEN</td><td id=\"0-n\">(letter Y)</td><td id=\"0-o\" rowspan=\"2\">EA</td></tr>\n<tr><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\" colspan=\"2\">NYC/NEWARK</td><td id=\"0-r\">(gray textured square)</td><td id=\"0-s\"></td></tr>\n<tr><td id=\"0-t\" colspan=\"2\">WASH DC</td><td id=\"0-u\">(gray textured square)</td><td id=\"0-v\"></td></tr>\n</table>\n\n<a id='e210750c-0cef-4759-b034-9f5738d0ef1a'></a>\n\n<table id=\"0-w\">\n<tr><td id=\"0-x\" colspan=\"3\">TICKETS NOT TRANSFERABLE NO CASH REFUNDS</td><td id=\"0-y\">CREDIT CARD NAME/CODE</td></tr>\n<tr><td id=\"0-z\">AIRLINE</td><td id=\"0-A\">FORM</td><td id=\"0-B\">SERIAL NO.</td><td id=\"0-C\" rowspan=\"3\">FORM OF CREDIT UAQ 53 1 CITIZENS C DR CHANNIN</td></tr>\n<tr><td id=\"0-D\">007:409</td><td id=\"0-E\" colspan=\"2\">3; 568; 325</td></tr>\n<tr><td id=\"0-F\" colspan=\"3\">light gray rectangle</td></tr>\n</table>\n\n<a id='aa46b6b5-e1c2-4d3a-8d58-708df1a4c799'></a>\n\nFORM OF CREDIT\n\nUA9 53 12 09 Y\nCITIZENS COMMISSION\nDR CHANNING H LUSHBOUGH\n\nEXP. DATE\n\n<a id='fa24916e-2587-480f-b886-2438b193c128'></a>\n\n<table id=\"0-G\">\n<tr><td id=\"0-H\">27 44</td><td id=\"0-I\" rowspan=\"2\">SC .64</td><td id=\"0-J\">ROUTE CODE</td><td id=\"0-K\"></td></tr>\n<tr><td id=\"0-L\">21077</td><td id=\"0-M\"></td><td id=\"0-N\" rowspan=\"3\">4093568325 0 \u00a4</td></tr>\n<tr><td id=\"0-O\" rowspan=\"2\">2.20 (partially obscured)</td><td id=\"0-P\" rowspan=\"2\">29.64</td><td id=\"0-Q\" rowspan=\"2\">850014</td></tr>\n</table>\n\n<a id='233ffaf5-552a-4822-857c-98a9df21333f'></a>\n\n0165312090\u00a4",
+    "chunks": [
+        {
+            "markdown": "<a id='2e336a1b-d30b-4300-8c52-930ed8169635'></a>\n\n<::attestation: Acknowledgment/Signature\nSigned\nSignature: illegible\nI ACKNOWLEDGE RECEIPT OF TICKET(S) AND/\nOR COUPONS FOR RELATED CHARGES DESCRIBED\nTON. PAYMENT IN FULL TO BE MADE WHEN\nB OR IN EXTENDED PAYMENTS IN ACCORD-\nANG ITH STANDARD POLICY OF COMPANY ISSUING\nCARD AND AS REFLECTED IN APPLICABLE TARIFFS.\nX\nong\nAn 'X' mark and an illegible signature are present below a block of acknowledgment text, positioned at the bottom left of the visible area.::>",
+            "type": "attestation",
+            "id": "2e336a1b-d30b-4300-8c52-930ed8169635",
+            "grounding": {
+                "box": {
+                    "left": 0.009723365306854248,
+                    "top": 0.018332868814468384,
+                    "right": 0.33739057183265686,
+                    "bottom": 0.25552698969841003
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fea9bdef-6d36-4d4d-a5b8-bdc7fe17f8be'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Page 7</td><td id=\"0-3\" colspan=\"2\">UNIVERSAL CREDIT CARD CHARGE FORM</td><td id=\"0-4\">Page 8 on reverse</td></tr>\n<tr><td id=\"0-5\" colspan=\"2\">EASTERN AIR LINES 007</td><td id=\"0-6\" colspan=\"2\">CONTRACTOR INVOICE COPY</td></tr>\n<tr><td id=\"0-7\" rowspan=\"2\" colspan=\"2\">DATE OF ISSUE 22 MAY 74</td><td id=\"0-8\" colspan=\"2\">IF EXTENDED PAYMENT DESIRED. CIRCLE NO. OF MONTHS</td></tr>\n<tr><td id=\"0-9\" colspan=\"2\">3 6 9 12</td></tr>\n</table>",
+            "type": "table",
+            "id": "fea9bdef-6d36-4d4d-a5b8-bdc7fe17f8be",
+            "grounding": {
+                "box": {
+                    "left": 0.3322233259677887,
+                    "top": 0.015088856220245361,
+                    "right": 0.7733184099197388,
+                    "bottom": 0.2581822872161865
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='489ca8d3-06fc-48dd-971a-e2cc136ccd20'></a>\n\nDATE AND PLACE OF ISSUE\n\nEASTERN AIRLINES\nIN FLIGHT SERVICES",
+            "type": "text",
+            "id": "489ca8d3-06fc-48dd-971a-e2cc136ccd20",
+            "grounding": {
+                "box": {
+                    "left": 0.7605141997337341,
+                    "top": 0.021992027759552002,
+                    "right": 0.9906482100486755,
+                    "bottom": 0.26754873991012573
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1b7d0a95-72ba-4d11-8830-9abad481dcd7'></a>\n\n<table id=\"0-a\">\n<tr><td id=\"0-b\"></td><td id=\"0-c\">COMPLETE ROUTING</td><td id=\"0-d\">FARE BASIS</td><td id=\"0-e\">CARRIER</td></tr>\n<tr><td id=\"0-f\">FROM</td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td></tr>\n<tr><td id=\"0-j\" colspan=\"2\">EITHER DIRECTION</td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\" rowspan=\"2\" colspan=\"2\">TO --- BETWEEN</td><td id=\"0-n\">(letter Y)</td><td id=\"0-o\" rowspan=\"2\">EA</td></tr>\n<tr><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\" colspan=\"2\">NYC/NEWARK</td><td id=\"0-r\">(gray textured square)</td><td id=\"0-s\"></td></tr>\n<tr><td id=\"0-t\" colspan=\"2\">WASH DC</td><td id=\"0-u\">(gray textured square)</td><td id=\"0-v\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "1b7d0a95-72ba-4d11-8830-9abad481dcd7",
+            "grounding": {
+                "box": {
+                    "left": 0.005004361271858215,
+                    "top": 0.33620041608810425,
+                    "right": 0.3950474262237549,
+                    "bottom": 0.7817465662956238
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e210750c-0cef-4759-b034-9f5738d0ef1a'></a>\n\n<table id=\"0-w\">\n<tr><td id=\"0-x\" colspan=\"3\">TICKETS NOT TRANSFERABLE NO CASH REFUNDS</td><td id=\"0-y\">CREDIT CARD NAME/CODE</td></tr>\n<tr><td id=\"0-z\">AIRLINE</td><td id=\"0-A\">FORM</td><td id=\"0-B\">SERIAL NO.</td><td id=\"0-C\" rowspan=\"3\">FORM OF CREDIT UAQ 53 1 CITIZENS C DR CHANNIN</td></tr>\n<tr><td id=\"0-D\">007:409</td><td id=\"0-E\" colspan=\"2\">3; 568; 325</td></tr>\n<tr><td id=\"0-F\" colspan=\"3\">light gray rectangle</td></tr>\n</table>",
+            "type": "table",
+            "id": "e210750c-0cef-4759-b034-9f5738d0ef1a",
+            "grounding": {
+                "box": {
+                    "left": 0.3871840238571167,
+                    "top": 0.33461350202560425,
+                    "right": 0.7633203268051147,
+                    "bottom": 0.7863304018974304
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='aa46b6b5-e1c2-4d3a-8d58-708df1a4c799'></a>\n\nFORM OF CREDIT\n\nUA9 53 12 09 Y\nCITIZENS COMMISSION\nDR CHANNING H LUSHBOUGH\n\nEXP. DATE",
+            "type": "text",
+            "id": "aa46b6b5-e1c2-4d3a-8d58-708df1a4c799",
+            "grounding": {
+                "box": {
+                    "left": 0.6044074296951294,
+                    "top": 0.4952924847602844,
+                    "right": 0.9657883644104004,
+                    "bottom": 0.7822595238685608
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fa24916e-2587-480f-b886-2438b193c128'></a>\n\n<table id=\"0-G\">\n<tr><td id=\"0-H\">27 44</td><td id=\"0-I\" rowspan=\"2\">SC .64</td><td id=\"0-J\">ROUTE CODE</td><td id=\"0-K\"></td></tr>\n<tr><td id=\"0-L\">21077</td><td id=\"0-M\"></td><td id=\"0-N\" rowspan=\"3\">4093568325 0 \u00a4</td></tr>\n<tr><td id=\"0-O\" rowspan=\"2\">2.20 (partially obscured)</td><td id=\"0-P\" rowspan=\"2\">29.64</td><td id=\"0-Q\" rowspan=\"2\">850014</td></tr>\n</table>",
+            "type": "table",
+            "id": "fa24916e-2587-480f-b886-2438b193c128",
+            "grounding": {
+                "box": {
+                    "left": 0.009994566440582275,
+                    "top": 0.7707805037498474,
+                    "right": 0.6043374538421631,
+                    "bottom": 0.9771745800971985
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='233ffaf5-552a-4822-857c-98a9df21333f'></a>\n\n0165312090\u00a4",
+            "type": "text",
+            "id": "233ffaf5-552a-4822-857c-98a9df21333f",
+            "grounding": {
+                "box": {
+                    "left": 0.6663886308670044,
+                    "top": 0.8239545822143555,
+                    "right": 0.8416866064071655,
+                    "bottom": 0.9082018136978149
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2e336a1b-d30b-4300-8c52-930ed8169635'></a>\n\n<::attestation: Acknowledgment/Signature\nSigned\nSignature: illegible\nI ACKNOWLEDGE RECEIPT OF TICKET(S) AND/\nOR COUPONS FOR RELATED CHARGES DESCRIBED\nTON. PAYMENT IN FULL TO BE MADE WHEN\nB OR IN EXTENDED PAYMENTS IN ACCORD-\nANG ITH STANDARD POLICY OF COMPANY ISSUING\nCARD AND AS REFLECTED IN APPLICABLE TARIFFS.\nX\nong\nAn 'X' mark and an illegible signature are present below a block of acknowledgment text, positioned at the bottom left of the visible area.::>\n\n<a id='fea9bdef-6d36-4d4d-a5b8-bdc7fe17f8be'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Page 7</td><td id=\"0-3\" colspan=\"2\">UNIVERSAL CREDIT CARD CHARGE FORM</td><td id=\"0-4\">Page 8 on reverse</td></tr>\n<tr><td id=\"0-5\" colspan=\"2\">EASTERN AIR LINES 007</td><td id=\"0-6\" colspan=\"2\">CONTRACTOR INVOICE COPY</td></tr>\n<tr><td id=\"0-7\" rowspan=\"2\" colspan=\"2\">DATE OF ISSUE 22 MAY 74</td><td id=\"0-8\" colspan=\"2\">IF EXTENDED PAYMENT DESIRED. CIRCLE NO. OF MONTHS</td></tr>\n<tr><td id=\"0-9\" colspan=\"2\">3 6 9 12</td></tr>\n</table>\n\n<a id='489ca8d3-06fc-48dd-971a-e2cc136ccd20'></a>\n\nDATE AND PLACE OF ISSUE\n\nEASTERN AIRLINES\nIN FLIGHT SERVICES\n\n<a id='1b7d0a95-72ba-4d11-8830-9abad481dcd7'></a>\n\n<table id=\"0-a\">\n<tr><td id=\"0-b\"></td><td id=\"0-c\">COMPLETE ROUTING</td><td id=\"0-d\">FARE BASIS</td><td id=\"0-e\">CARRIER</td></tr>\n<tr><td id=\"0-f\">FROM</td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\"></td></tr>\n<tr><td id=\"0-j\" colspan=\"2\">EITHER DIRECTION</td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\" rowspan=\"2\" colspan=\"2\">TO --- BETWEEN</td><td id=\"0-n\">(letter Y)</td><td id=\"0-o\" rowspan=\"2\">EA</td></tr>\n<tr><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\" colspan=\"2\">NYC/NEWARK</td><td id=\"0-r\">(gray textured square)</td><td id=\"0-s\"></td></tr>\n<tr><td id=\"0-t\" colspan=\"2\">WASH DC</td><td id=\"0-u\">(gray textured square)</td><td id=\"0-v\"></td></tr>\n</table>\n\n<a id='e210750c-0cef-4759-b034-9f5738d0ef1a'></a>\n\n<table id=\"0-w\">\n<tr><td id=\"0-x\" colspan=\"3\">TICKETS NOT TRANSFERABLE NO CASH REFUNDS</td><td id=\"0-y\">CREDIT CARD NAME/CODE</td></tr>\n<tr><td id=\"0-z\">AIRLINE</td><td id=\"0-A\">FORM</td><td id=\"0-B\">SERIAL NO.</td><td id=\"0-C\" rowspan=\"3\">FORM OF CREDIT UAQ 53 1 CITIZENS C DR CHANNIN</td></tr>\n<tr><td id=\"0-D\">007:409</td><td id=\"0-E\" colspan=\"2\">3; 568; 325</td></tr>\n<tr><td id=\"0-F\" colspan=\"3\">light gray rectangle</td></tr>\n</table>\n\n<a id='aa46b6b5-e1c2-4d3a-8d58-708df1a4c799'></a>\n\nFORM OF CREDIT\n\nUA9 53 12 09 Y\nCITIZENS COMMISSION\nDR CHANNING H LUSHBOUGH\n\nEXP. DATE\n\n<a id='fa24916e-2587-480f-b886-2438b193c128'></a>\n\n<table id=\"0-G\">\n<tr><td id=\"0-H\">27 44</td><td id=\"0-I\" rowspan=\"2\">SC .64</td><td id=\"0-J\">ROUTE CODE</td><td id=\"0-K\"></td></tr>\n<tr><td id=\"0-L\">21077</td><td id=\"0-M\"></td><td id=\"0-N\" rowspan=\"3\">4093568325 0 \u00a4</td></tr>\n<tr><td id=\"0-O\" rowspan=\"2\">2.20 (partially obscured)</td><td id=\"0-P\" rowspan=\"2\">29.64</td><td id=\"0-Q\" rowspan=\"2\">850014</td></tr>\n</table>\n\n<a id='233ffaf5-552a-4822-857c-98a9df21333f'></a>\n\n0165312090\u00a4",
+            "chunks": [
+                "2e336a1b-d30b-4300-8c52-930ed8169635",
+                "fea9bdef-6d36-4d4d-a5b8-bdc7fe17f8be",
+                "489ca8d3-06fc-48dd-971a-e2cc136ccd20",
+                "1b7d0a95-72ba-4d11-8830-9abad481dcd7",
+                "e210750c-0cef-4759-b034-9f5738d0ef1a",
+                "aa46b6b5-e1c2-4d3a-8d58-708df1a4c799",
+                "fa24916e-2587-480f-b886-2438b193c128",
+                "233ffaf5-552a-4822-857c-98a9df21333f"
+            ]
+        }
+    ],
+    "grounding": {
+        "2e336a1b-d30b-4300-8c52-930ed8169635": {
+            "box": {
+                "left": 0.009723365306854248,
+                "top": 0.018332868814468384,
+                "right": 0.33739057183265686,
+                "bottom": 0.25552698969841003
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "fea9bdef-6d36-4d4d-a5b8-bdc7fe17f8be": {
+            "box": {
+                "left": 0.3322233259677887,
+                "top": 0.015088856220245361,
+                "right": 0.7733184099197388,
+                "bottom": 0.2581822872161865
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.3378480317342855,
+                "top": 0.024936959317437113,
+                "right": 0.7691441114202657,
+                "bottom": 0.25175449975859365
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.3378480317342855,
+                "top": 0.024936959317437113,
+                "right": 0.3768176567426984,
+                "bottom": 0.07243918969917384
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3768176567426984,
+                "top": 0.024936959317437113,
+                "right": 0.7689072266649877,
+                "bottom": 0.1293431886939782
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.7280644037403139,
+                "top": 0.024936959317437113,
+                "right": 0.7689072266649877,
+                "bottom": 0.07243918969917384
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.3378480317342855,
+                "top": 0.07243918969917384,
+                "right": 0.7280644037403139,
+                "bottom": 0.19205704516452826
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.5751395720014862,
+                "top": 0.07243918969917384,
+                "right": 0.7689072266649877,
+                "bottom": 0.19205704516452826
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.3378480317342855,
+                "top": 0.1293431886939782,
+                "right": 0.7280644037403139,
+                "bottom": 0.25175449975859365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5751395720014862,
+                "top": 0.1293431886939782,
+                "right": 0.7689072266649877,
+                "bottom": 0.25175449975859365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5751395720014862,
+                "top": 0.19205704516452826,
+                "right": 0.7689072266649877,
+                "bottom": 0.25175449975859365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "489ca8d3-06fc-48dd-971a-e2cc136ccd20": {
+            "box": {
+                "left": 0.7605141997337341,
+                "top": 0.021992027759552002,
+                "right": 0.9906482100486755,
+                "bottom": 0.26754873991012573
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1b7d0a95-72ba-4d11-8830-9abad481dcd7": {
+            "box": {
+                "left": 0.005004361271858215,
+                "top": 0.33620041608810425,
+                "right": 0.3950474262237549,
+                "bottom": 0.7817465662956238
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.013792116783304859,
+                "top": 0.3427790381809528,
+                "right": 0.3914110776234674,
+                "bottom": 0.7777632060765995
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.013792116783304859,
+                "top": 0.3427790381809528,
+                "right": 0.07513200765336214,
+                "bottom": 0.37076347860470094
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.07513200765336214,
+                "top": 0.3427790381809528,
+                "right": 0.28015054623605273,
+                "bottom": 0.37076347860470094
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.28015054623605273,
+                "top": 0.3427790381809528,
+                "right": 0.33799988126588776,
+                "bottom": 0.37076347860470094
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.33799988126588776,
+                "top": 0.3427790381809528,
+                "right": 0.3917110746974837,
+                "bottom": 0.37076347860470094
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.013792116783304859,
+                "top": 0.37076347860470094,
+                "right": 0.07513200765336214,
+                "bottom": 0.4033428678327198
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.07513200765336214,
+                "top": 0.37076347860470094,
+                "right": 0.28015054623605273,
+                "bottom": 0.4033428678327198
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.28015054623605273,
+                "top": 0.37076347860470094,
+                "right": 0.33799988126588776,
+                "bottom": 0.4033428678327198
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.33799988126588776,
+                "top": 0.37076347860470094,
+                "right": 0.3917110746974837,
+                "bottom": 0.4033428678327198
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.013792116783304859,
+                "top": 0.4033428678327198,
+                "right": 0.33799988126588776,
+                "bottom": 0.5602375863045381
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.28015054623605273,
+                "top": 0.4033428678327198,
+                "right": 0.33799988126588776,
+                "bottom": 0.5018540920862335
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.33799988126588776,
+                "top": 0.4033428678327198,
+                "right": 0.3917110746974837,
+                "bottom": 0.5018540920862335
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.013792116783304859,
+                "top": 0.5018540920862335,
+                "right": 0.33799988126588776,
+                "bottom": 0.6532972144883047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.28015054623605273,
+                "top": 0.5018540920862335,
+                "right": 0.33799988126588776,
+                "bottom": 0.5602375863045381
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.33799988126588776,
+                "top": 0.5018540920862335,
+                "right": 0.3917110746974837,
+                "bottom": 0.6532972144883047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.28015054623605273,
+                "top": 0.5602375863045381,
+                "right": 0.33799988126588776,
+                "bottom": 0.5934750286590429
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.013792116783304859,
+                "top": 0.5934750286590429,
+                "right": 0.33799988126588776,
+                "bottom": 0.7777632060765995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.28015054623605273,
+                "top": 0.5934750286590429,
+                "right": 0.33799988126588776,
+                "bottom": 0.6532972144883047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.33799988126588776,
+                "top": 0.5934750286590429,
+                "right": 0.3917110746974837,
+                "bottom": 0.6532972144883047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.013792116783304859,
+                "top": 0.6532972144883047,
+                "right": 0.33799988126588776,
+                "bottom": 0.7777632060765995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.28015054623605273,
+                "top": 0.6532972144883047,
+                "right": 0.33799988126588776,
+                "bottom": 0.7777632060765995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.33799988126588776,
+                "top": 0.6532972144883047,
+                "right": 0.3917110746974837,
+                "bottom": 0.7777632060765995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "e210750c-0cef-4759-b034-9f5738d0ef1a": {
+            "box": {
+                "left": 0.3871840238571167,
+                "top": 0.33461350202560425,
+                "right": 0.7633203268051147,
+                "bottom": 0.7863304018974304
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.3902098456542613,
+                "top": 0.3415913972266975,
+                "right": 0.7633165827535038,
+                "bottom": 0.7776053533898732
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.3902098456542613,
+                "top": 0.3415913972266975,
+                "right": 0.7633084893245723,
+                "bottom": 0.5005884624836341
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.5995748125057787,
+                "top": 0.3415913972266975,
+                "right": 0.7633084893245723,
+                "bottom": 0.4755554510845599
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.3902098456542613,
+                "top": 0.4755554510845599,
+                "right": 0.47197691706863054,
+                "bottom": 0.5005884624836341
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.47197691706863054,
+                "top": 0.4755554510845599,
+                "right": 0.5324920456761362,
+                "bottom": 0.5005884624836341
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.5324920456761362,
+                "top": 0.4755554510845599,
+                "right": 0.5995748125057787,
+                "bottom": 0.5005884624836341
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.5995748125057787,
+                "top": 0.4755554510845599,
+                "right": 0.7633084893245723,
+                "bottom": 0.7776053533898732
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.3902098456542613,
+                "top": 0.5005884624836341,
+                "right": 0.47197691706863054,
+                "bottom": 0.6412761372695286
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.47197691706863054,
+                "top": 0.5005884624836341,
+                "right": 0.7633084893245723,
+                "bottom": 0.7776053533898732
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.3902098456542613,
+                "top": 0.6412761372695286,
+                "right": 0.7633084893245723,
+                "bottom": 0.7776053533898732
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "aa46b6b5-e1c2-4d3a-8d58-708df1a4c799": {
+            "box": {
+                "left": 0.6044074296951294,
+                "top": 0.4952924847602844,
+                "right": 0.9657883644104004,
+                "bottom": 0.7822595238685608
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fa24916e-2587-480f-b886-2438b193c128": {
+            "box": {
+                "left": 0.009994566440582275,
+                "top": 0.7707805037498474,
+                "right": 0.6043374538421631,
+                "bottom": 0.9771745800971985
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.013453156097028268,
+                "top": 0.7772622778124267,
+                "right": 0.5998771940923753,
+                "bottom": 0.932997466853962
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.013453156097028268,
+                "top": 0.7772622778124267,
+                "right": 0.13160715927248834,
+                "bottom": 0.8415688915096915
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.13160715927248834,
+                "top": 0.7772622778124267,
+                "right": 0.38038366878178564,
+                "bottom": 0.907058480676568
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.248467638576372,
+                "top": 0.7772622778124267,
+                "right": 0.38038366878178564,
+                "bottom": 0.8415688915096915
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.38038366878178564,
+                "top": 0.7772622778124267,
+                "right": 0.5989819538387167,
+                "bottom": 0.8415688915096915
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.013453156097028268,
+                "top": 0.8415688915096915,
+                "right": 0.13160715927248834,
+                "bottom": 0.8646329449885357
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.248467638576372,
+                "top": 0.8415688915096915,
+                "right": 0.38038366878178564,
+                "bottom": 0.8646329449885357
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.38038366878178564,
+                "top": 0.8415688915096915,
+                "right": 0.5989819538387167,
+                "bottom": 0.932997466853962
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.013453156097028268,
+                "top": 0.8646329449885357,
+                "right": 0.248467638576372,
+                "bottom": 0.932997466853962
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.13160715927248834,
+                "top": 0.8646329449885357,
+                "right": 0.38038366878178564,
+                "bottom": 0.932997466853962
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.248467638576372,
+                "top": 0.8646329449885357,
+                "right": 0.5989819538387167,
+                "bottom": 0.932997466853962
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "233ffaf5-552a-4822-857c-98a9df21333f": {
+            "box": {
+                "left": 0.6663886308670044,
+                "top": 0.8239545822143555,
+                "right": 0.8416866064071655,
+                "bottom": 0.9082018136978149
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "jrcy0227_94.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10161,
+        "credit_usage": 3.0,
+        "job_id": "g4fe090xpnvywm67b7qylabk0",
+        "version": "dpt-2-20250919"
+    }
+}

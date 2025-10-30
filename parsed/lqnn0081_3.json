@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='2189d99d-dbf3-4645-af5a-d002e78b04c3'></a>\n\nDATA SOURCES - RJR BRAND TRACKER\n\n<a id='8ec5e26e-491c-436b-970a-5540155118a0'></a>\n\n## System Overview\n\n* Captures Consumers Perceptions and Attitudes and How They Trend Over Time\n* Nationally Projectable Random Sample (n=2000 per month)\n* Telephone Survey Administered Monthly\n* Results Available at Mid-Year and Year-End\n* Data Available on Total US, Sales Area and Region Levels\n\n<a id='acc4ec72-3ce7-47e5-8566-4ee8da1ec010'></a>\n\n51338 6440",
+    "chunks": [
+        {
+            "markdown": "<a id='2189d99d-dbf3-4645-af5a-d002e78b04c3'></a>\n\nDATA SOURCES - RJR BRAND TRACKER",
+            "type": "text",
+            "id": "2189d99d-dbf3-4645-af5a-d002e78b04c3",
+            "grounding": {
+                "box": {
+                    "left": 0.07628422975540161,
+                    "top": 0.13910534977912903,
+                    "right": 0.9182460308074951,
+                    "bottom": 0.217564195394516
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ec5e26e-491c-436b-970a-5540155118a0'></a>\n\n## System Overview\n\n* Captures Consumers Perceptions and Attitudes and How They Trend Over Time\n* Nationally Projectable Random Sample (n=2000 per month)\n* Telephone Survey Administered Monthly\n* Results Available at Mid-Year and Year-End\n* Data Available on Total US, Sales Area and Region Levels",
+            "type": "text",
+            "id": "8ec5e26e-491c-436b-970a-5540155118a0",
+            "grounding": {
+                "box": {
+                    "left": 0.08005613088607788,
+                    "top": 0.26633644104003906,
+                    "right": 0.8243387341499329,
+                    "bottom": 0.6563422679901123
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='acc4ec72-3ce7-47e5-8566-4ee8da1ec010'></a>\n\n51338 6440",
+            "type": "marginalia",
+            "id": "acc4ec72-3ce7-47e5-8566-4ee8da1ec010",
+            "grounding": {
+                "box": {
+                    "left": 0.05867914855480194,
+                    "top": 0.9306154251098633,
+                    "right": 0.1617598831653595,
+                    "bottom": 0.9608571529388428
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2189d99d-dbf3-4645-af5a-d002e78b04c3'></a>\n\nDATA SOURCES - RJR BRAND TRACKER\n\n<a id='8ec5e26e-491c-436b-970a-5540155118a0'></a>\n\n## System Overview\n\n* Captures Consumers Perceptions and Attitudes and How They Trend Over Time\n* Nationally Projectable Random Sample (n=2000 per month)\n* Telephone Survey Administered Monthly\n* Results Available at Mid-Year and Year-End\n* Data Available on Total US, Sales Area and Region Levels\n\n<a id='acc4ec72-3ce7-47e5-8566-4ee8da1ec010'></a>\n\n51338 6440",
+            "chunks": [
+                "2189d99d-dbf3-4645-af5a-d002e78b04c3",
+                "8ec5e26e-491c-436b-970a-5540155118a0",
+                "acc4ec72-3ce7-47e5-8566-4ee8da1ec010"
+            ]
+        }
+    ],
+    "grounding": {
+        "2189d99d-dbf3-4645-af5a-d002e78b04c3": {
+            "box": {
+                "left": 0.07628422975540161,
+                "top": 0.13910534977912903,
+                "right": 0.9182460308074951,
+                "bottom": 0.217564195394516
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8ec5e26e-491c-436b-970a-5540155118a0": {
+            "box": {
+                "left": 0.08005613088607788,
+                "top": 0.26633644104003906,
+                "right": 0.8243387341499329,
+                "bottom": 0.6563422679901123
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "acc4ec72-3ce7-47e5-8566-4ee8da1ec010": {
+            "box": {
+                "left": 0.05867914855480194,
+                "top": 0.9306154251098633,
+                "right": 0.1617598831653595,
+                "bottom": 0.9608571529388428
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lqnn0081_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4100,
+        "credit_usage": 3.0,
+        "job_id": "u77l2y8uokp37oa9kjqsykz95",
+        "version": "dpt-2-20250919"
+    }
+}

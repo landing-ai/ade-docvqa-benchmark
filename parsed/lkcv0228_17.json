@@ -1,0 +1,463 @@
+{
+    "markdown": "<a id='d474ec29-a9b3-42c4-8c22-ec3232786a82'></a>\n\nTABLE G: ALCOHOL USE GROUPS - HOSPITALIZATIONS FROM DATE OF CHECKUP TO DECEMBER, 1976\n\n<a id='dd860c99-f6ff-4241-b915-446566a2694b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">n</td><td id=\"0-4\">% hospitalized once or more</td><td id=\"0-5\">Total no. hospitalizations</td><td id=\"0-6\">Mean no. hospitalizations</td></tr>\n<tr><td id=\"0-7\">Nondrinkers</td><td id=\"0-8\">2,015</td><td id=\"0-9\">39.9</td><td id=\"0-a\">1,712</td><td id=\"0-b\">0.87</td></tr>\n<tr><td id=\"0-c\">\u2264 2 drinks daily</td><td id=\"0-d\">2,015</td><td id=\"0-e\">37.3</td><td id=\"0-f\">1,540</td><td id=\"0-g\">0.76</td></tr>\n<tr><td id=\"0-h\">3-5 drinks daily</td><td id=\"0-i\">2,015</td><td id=\"0-j\">37.6</td><td id=\"0-k\">1,744</td><td id=\"0-l\">0.89</td></tr>\n<tr><td id=\"0-m\">6+ drinks daily</td><td id=\"0-n\">2,015</td><td id=\"0-o\">41.3</td><td id=\"0-p\">1,966</td><td id=\"0-q\">0.98</td></tr>\n<tr><td id=\"0-r\">6-8 drinks daily</td><td id=\"0-s\">1,245</td><td id=\"0-t\">40.3</td><td id=\"0-u\">1,163</td><td id=\"0-v\">0.93</td></tr>\n<tr><td id=\"0-w\">9+ drinks daily</td><td id=\"0-x\">770</td><td id=\"0-y\">43.0</td><td id=\"0-z\">803</td><td id=\"0-A\">1.04</td></tr>\n</table>\n\n<a id='71d8bb5a-5a7e-4670-9a44-c0ec3f3d3502'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lkev0228",
+    "chunks": [
+        {
+            "markdown": "<a id='d474ec29-a9b3-42c4-8c22-ec3232786a82'></a>\n\nTABLE G: ALCOHOL USE GROUPS - HOSPITALIZATIONS FROM DATE OF CHECKUP TO DECEMBER, 1976",
+            "type": "text",
+            "id": "d474ec29-a9b3-42c4-8c22-ec3232786a82",
+            "grounding": {
+                "box": {
+                    "left": 0.2310394048690796,
+                    "top": 0.08925745636224747,
+                    "right": 0.7568244338035583,
+                    "bottom": 0.12520036101341248
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dd860c99-f6ff-4241-b915-446566a2694b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">n</td><td id=\"0-4\">% hospitalized once or more</td><td id=\"0-5\">Total no. hospitalizations</td><td id=\"0-6\">Mean no. hospitalizations</td></tr>\n<tr><td id=\"0-7\">Nondrinkers</td><td id=\"0-8\">2,015</td><td id=\"0-9\">39.9</td><td id=\"0-a\">1,712</td><td id=\"0-b\">0.87</td></tr>\n<tr><td id=\"0-c\">\u2264 2 drinks daily</td><td id=\"0-d\">2,015</td><td id=\"0-e\">37.3</td><td id=\"0-f\">1,540</td><td id=\"0-g\">0.76</td></tr>\n<tr><td id=\"0-h\">3-5 drinks daily</td><td id=\"0-i\">2,015</td><td id=\"0-j\">37.6</td><td id=\"0-k\">1,744</td><td id=\"0-l\">0.89</td></tr>\n<tr><td id=\"0-m\">6+ drinks daily</td><td id=\"0-n\">2,015</td><td id=\"0-o\">41.3</td><td id=\"0-p\">1,966</td><td id=\"0-q\">0.98</td></tr>\n<tr><td id=\"0-r\">6-8 drinks daily</td><td id=\"0-s\">1,245</td><td id=\"0-t\">40.3</td><td id=\"0-u\">1,163</td><td id=\"0-v\">0.93</td></tr>\n<tr><td id=\"0-w\">9+ drinks daily</td><td id=\"0-x\">770</td><td id=\"0-y\">43.0</td><td id=\"0-z\">803</td><td id=\"0-A\">1.04</td></tr>\n</table>",
+            "type": "table",
+            "id": "dd860c99-f6ff-4241-b915-446566a2694b",
+            "grounding": {
+                "box": {
+                    "left": 0.18634605407714844,
+                    "top": 0.13461728394031525,
+                    "right": 0.7965936660766602,
+                    "bottom": 0.47061264514923096
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='71d8bb5a-5a7e-4670-9a44-c0ec3f3d3502'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lkev0228",
+            "type": "text",
+            "id": "71d8bb5a-5a7e-4670-9a44-c0ec3f3d3502",
+            "grounding": {
+                "box": {
+                    "left": 0.22473874688148499,
+                    "top": 0.9765920639038086,
+                    "right": 0.774040937423706,
+                    "bottom": 0.9989856481552124
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d474ec29-a9b3-42c4-8c22-ec3232786a82'></a>\n\nTABLE G: ALCOHOL USE GROUPS - HOSPITALIZATIONS FROM DATE OF CHECKUP TO DECEMBER, 1976\n\n<a id='dd860c99-f6ff-4241-b915-446566a2694b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">n</td><td id=\"0-4\">% hospitalized once or more</td><td id=\"0-5\">Total no. hospitalizations</td><td id=\"0-6\">Mean no. hospitalizations</td></tr>\n<tr><td id=\"0-7\">Nondrinkers</td><td id=\"0-8\">2,015</td><td id=\"0-9\">39.9</td><td id=\"0-a\">1,712</td><td id=\"0-b\">0.87</td></tr>\n<tr><td id=\"0-c\">\u2264 2 drinks daily</td><td id=\"0-d\">2,015</td><td id=\"0-e\">37.3</td><td id=\"0-f\">1,540</td><td id=\"0-g\">0.76</td></tr>\n<tr><td id=\"0-h\">3-5 drinks daily</td><td id=\"0-i\">2,015</td><td id=\"0-j\">37.6</td><td id=\"0-k\">1,744</td><td id=\"0-l\">0.89</td></tr>\n<tr><td id=\"0-m\">6+ drinks daily</td><td id=\"0-n\">2,015</td><td id=\"0-o\">41.3</td><td id=\"0-p\">1,966</td><td id=\"0-q\">0.98</td></tr>\n<tr><td id=\"0-r\">6-8 drinks daily</td><td id=\"0-s\">1,245</td><td id=\"0-t\">40.3</td><td id=\"0-u\">1,163</td><td id=\"0-v\">0.93</td></tr>\n<tr><td id=\"0-w\">9+ drinks daily</td><td id=\"0-x\">770</td><td id=\"0-y\">43.0</td><td id=\"0-z\">803</td><td id=\"0-A\">1.04</td></tr>\n</table>\n\n<a id='71d8bb5a-5a7e-4670-9a44-c0ec3f3d3502'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lkev0228",
+            "chunks": [
+                "d474ec29-a9b3-42c4-8c22-ec3232786a82",
+                "dd860c99-f6ff-4241-b915-446566a2694b",
+                "71d8bb5a-5a7e-4670-9a44-c0ec3f3d3502"
+            ]
+        }
+    ],
+    "grounding": {
+        "d474ec29-a9b3-42c4-8c22-ec3232786a82": {
+            "box": {
+                "left": 0.2310394048690796,
+                "top": 0.08925745636224747,
+                "right": 0.7568244338035583,
+                "bottom": 0.12520036101341248
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dd860c99-f6ff-4241-b915-446566a2694b": {
+            "box": {
+                "left": 0.18634605407714844,
+                "top": 0.13461728394031525,
+                "right": 0.7965936660766602,
+                "bottom": 0.47061264514923096
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.19719515198051418,
+                "top": 0.13808972598221944,
+                "right": 0.7866959024255493,
+                "bottom": 0.47060942082088264
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.19719515198051418,
+                "top": 0.13808972598221944,
+                "right": 0.33703369862132604,
+                "bottom": 0.18715147600172566
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.33703369862132604,
+                "top": 0.13808972598221944,
+                "right": 0.41200521899108367,
+                "bottom": 0.18715147600172566
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.41200521899108367,
+                "top": 0.13808972598221944,
+                "right": 0.5561879739984192,
+                "bottom": 0.18715147600172566
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5561879739984192,
+                "top": 0.13808972598221944,
+                "right": 0.6762691685586333,
+                "bottom": 0.18715147600172566
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6762691685586333,
+                "top": 0.13808972598221944,
+                "right": 0.7886043520578596,
+                "bottom": 0.18715147600172566
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.19719515198051418,
+                "top": 0.18715147600172566,
+                "right": 0.33703369862132604,
+                "bottom": 0.21800615541851398
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.33703369862132604,
+                "top": 0.18715147600172566,
+                "right": 0.41200521899108367,
+                "bottom": 0.21800615541851398
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.41200521899108367,
+                "top": 0.18715147600172566,
+                "right": 0.5561879739984192,
+                "bottom": 0.21800615541851398
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5561879739984192,
+                "top": 0.18715147600172566,
+                "right": 0.6762691685586333,
+                "bottom": 0.21800615541851398
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6762691685586333,
+                "top": 0.18715147600172566,
+                "right": 0.7886043520578596,
+                "bottom": 0.21800615541851398
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.19719515198051418,
+                "top": 0.21800615541851398,
+                "right": 0.33703369862132604,
+                "bottom": 0.263533902005916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.33703369862132604,
+                "top": 0.21800615541851398,
+                "right": 0.41200521899108367,
+                "bottom": 0.263533902005916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.41200521899108367,
+                "top": 0.21800615541851398,
+                "right": 0.5561879739984192,
+                "bottom": 0.263533902005916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5561879739984192,
+                "top": 0.21800615541851398,
+                "right": 0.6762691685586333,
+                "bottom": 0.263533902005916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6762691685586333,
+                "top": 0.21800615541851398,
+                "right": 0.7886043520578596,
+                "bottom": 0.263533902005916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.19719515198051418,
+                "top": 0.263533902005916,
+                "right": 0.33703369862132604,
+                "bottom": 0.30924154008020466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.33703369862132604,
+                "top": 0.263533902005916,
+                "right": 0.41200521899108367,
+                "bottom": 0.30924154008020466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.41200521899108367,
+                "top": 0.263533902005916,
+                "right": 0.5561879739984192,
+                "bottom": 0.30924154008020466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5561879739984192,
+                "top": 0.263533902005916,
+                "right": 0.6762691685586333,
+                "bottom": 0.30924154008020466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6762691685586333,
+                "top": 0.263533902005916,
+                "right": 0.7886043520578596,
+                "bottom": 0.30924154008020466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.19719515198051418,
+                "top": 0.30924154008020466,
+                "right": 0.33703369862132604,
+                "bottom": 0.372003672159833
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.33703369862132604,
+                "top": 0.30924154008020466,
+                "right": 0.41200521899108367,
+                "bottom": 0.372003672159833
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.41200521899108367,
+                "top": 0.30924154008020466,
+                "right": 0.5561879739984192,
+                "bottom": 0.372003672159833
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5561879739984192,
+                "top": 0.30924154008020466,
+                "right": 0.6762691685586333,
+                "bottom": 0.372003672159833
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.6762691685586333,
+                "top": 0.30924154008020466,
+                "right": 0.7886043520578596,
+                "bottom": 0.372003672159833
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.19719515198051418,
+                "top": 0.372003672159833,
+                "right": 0.33703369862132604,
+                "bottom": 0.417657918560975
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.33703369862132604,
+                "top": 0.372003672159833,
+                "right": 0.41200521899108367,
+                "bottom": 0.417657918560975
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.41200521899108367,
+                "top": 0.372003672159833,
+                "right": 0.5561879739984192,
+                "bottom": 0.417657918560975
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.5561879739984192,
+                "top": 0.372003672159833,
+                "right": 0.6762691685586333,
+                "bottom": 0.417657918560975
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6762691685586333,
+                "top": 0.372003672159833,
+                "right": 0.7886043520578596,
+                "bottom": 0.417657918560975
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.19719515198051418,
+                "top": 0.417657918560975,
+                "right": 0.33703369862132604,
+                "bottom": 0.47060942082088264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.33703369862132604,
+                "top": 0.417657918560975,
+                "right": 0.41200521899108367,
+                "bottom": 0.47060942082088264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.41200521899108367,
+                "top": 0.417657918560975,
+                "right": 0.5561879739984192,
+                "bottom": 0.47060942082088264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.5561879739984192,
+                "top": 0.417657918560975,
+                "right": 0.6762691685586333,
+                "bottom": 0.47060942082088264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.6762691685586333,
+                "top": 0.417657918560975,
+                "right": 0.7886043520578596,
+                "bottom": 0.47060942082088264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "71d8bb5a-5a7e-4670-9a44-c0ec3f3d3502": {
+            "box": {
+                "left": 0.22473874688148499,
+                "top": 0.9765920639038086,
+                "right": 0.774040937423706,
+                "bottom": 0.9989856481552124
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lkcv0228_17.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6004,
+        "credit_usage": 3.0,
+        "job_id": "jlbxuh9gu96ek30n5jxhsiscr",
+        "version": "dpt-2-20250919"
+    }
+}

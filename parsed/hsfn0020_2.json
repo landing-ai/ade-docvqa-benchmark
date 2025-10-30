@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='b3efd98a-8c70-4ac9-be60-e8d231e1b704'></a>\n\n<::attestation: Initials/Handwritten mark\nSignature: D.F.\nReadable Text: 1700\nHandwritten initials \"D.F.\" and the number \"1700\" are present in the upper-left quadrant of the image.::>\n\n<a id='6e27edce-5138-4202-bd48-65db764a1347'></a>\n\nFIELD SALES SURVEY MAY PROMOTIONS\n\n<a id='f0627e0b-32fc-4c38-88cc-e7a8969dee9f'></a>\n\nWINSTON B2G1F\n\n* Did retailers place the \"No Bull 5\" ballots box shipped in the promotional sku?\nAbout **50% were placed by retailer**\n\n* Did the Winston sleeve header card stand up when sleeves were placed in the display?\nYes\n\n* Did the retailers place the easel card? If not why?\n**SOME DID , COMMENTS \u2013 FORGOT ABOUT IT !**\n\n<a id='55616044-59c8-4b0b-8095-de8853fa74c1'></a>\n\nSALEM B1G1F\n\n<a id='949f8e8b-4bd4-4be9-9f2d-707893eaeaf1'></a>\n\n\u2022 What % of the time was the Salem easel card placed?\n25%\n\n\u2022 Where was the easel card placed? (e.g. next to the cash register)\n**On front counter or selling area.**\n\n\u2022 What % of the time was the display placed?\n75%\n\n\u2022 What % of the time were both the easel and the display placed?\n35%\n\n\u2022 Was the ORB e paster placed? 50%\n\n<a id='b69a3b87-2d2a-4ef4-bdb7-1c30705779a8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hsfn0020\n\n<a id='dcac4d6d-fcb3-4665-9ad2-b5726bcb0d29'></a>\n\n52422 7221",
+    "chunks": [
+        {
+            "markdown": "<a id='b3efd98a-8c70-4ac9-be60-e8d231e1b704'></a>\n\n<::attestation: Initials/Handwritten mark\nSignature: D.F.\nReadable Text: 1700\nHandwritten initials \"D.F.\" and the number \"1700\" are present in the upper-left quadrant of the image.::>",
+            "type": "attestation",
+            "id": "b3efd98a-8c70-4ac9-be60-e8d231e1b704",
+            "grounding": {
+                "box": {
+                    "left": 0.627912163734436,
+                    "top": 0.01659112609922886,
+                    "right": 0.7927241325378418,
+                    "bottom": 0.07038716971874237
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6e27edce-5138-4202-bd48-65db764a1347'></a>\n\nFIELD SALES SURVEY MAY PROMOTIONS",
+            "type": "text",
+            "id": "6e27edce-5138-4202-bd48-65db764a1347",
+            "grounding": {
+                "box": {
+                    "left": 0.1320740431547165,
+                    "top": 0.08780035376548767,
+                    "right": 0.5952998399734497,
+                    "bottom": 0.11710292100906372
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f0627e0b-32fc-4c38-88cc-e7a8969dee9f'></a>\n\nWINSTON B2G1F\n\n* Did retailers place the \"No Bull 5\" ballots box shipped in the promotional sku?\nAbout **50% were placed by retailer**\n\n* Did the Winston sleeve header card stand up when sleeves were placed in the display?\nYes\n\n* Did the retailers place the easel card? If not why?\n**SOME DID , COMMENTS \u2013 FORGOT ABOUT IT !**",
+            "type": "text",
+            "id": "f0627e0b-32fc-4c38-88cc-e7a8969dee9f",
+            "grounding": {
+                "box": {
+                    "left": 0.12740346789360046,
+                    "top": 0.13760419189929962,
+                    "right": 0.8527051210403442,
+                    "bottom": 0.4213380813598633
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='55616044-59c8-4b0b-8095-de8853fa74c1'></a>\n\nSALEM B1G1F",
+            "type": "text",
+            "id": "55616044-59c8-4b0b-8095-de8853fa74c1",
+            "grounding": {
+                "box": {
+                    "left": 0.1272508203983307,
+                    "top": 0.4450112581253052,
+                    "right": 0.8530735969543457,
+                    "bottom": 0.480537474155426
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='949f8e8b-4bd4-4be9-9f2d-707893eaeaf1'></a>\n\n\u2022 What % of the time was the Salem easel card placed?\n25%\n\n\u2022 Where was the easel card placed? (e.g. next to the cash register)\n**On front counter or selling area.**\n\n\u2022 What % of the time was the display placed?\n75%\n\n\u2022 What % of the time were both the easel and the display placed?\n35%\n\n\u2022 Was the ORB e paster placed? 50%",
+            "type": "text",
+            "id": "949f8e8b-4bd4-4be9-9f2d-707893eaeaf1",
+            "grounding": {
+                "box": {
+                    "left": 0.13378259539604187,
+                    "top": 0.5028292536735535,
+                    "right": 0.6722726821899414,
+                    "bottom": 0.8812434077262878
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b69a3b87-2d2a-4ef4-bdb7-1c30705779a8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hsfn0020",
+            "type": "marginalia",
+            "id": "b69a3b87-2d2a-4ef4-bdb7-1c30705779a8",
+            "grounding": {
+                "box": {
+                    "left": 0.21516761183738708,
+                    "top": 0.9768772721290588,
+                    "right": 0.784439206123352,
+                    "bottom": 0.9992731213569641
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dcac4d6d-fcb3-4665-9ad2-b5726bcb0d29'></a>\n\n52422 7221",
+            "type": "marginalia",
+            "id": "dcac4d6d-fcb3-4665-9ad2-b5726bcb0d29",
+            "grounding": {
+                "box": {
+                    "left": 0.9144327044487,
+                    "top": 0.8340553045272827,
+                    "right": 0.942445695400238,
+                    "bottom": 0.9306796789169312
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='b3efd98a-8c70-4ac9-be60-e8d231e1b704'></a>\n\n<::attestation: Initials/Handwritten mark\nSignature: D.F.\nReadable Text: 1700\nHandwritten initials \"D.F.\" and the number \"1700\" are present in the upper-left quadrant of the image.::>\n\n<a id='6e27edce-5138-4202-bd48-65db764a1347'></a>\n\nFIELD SALES SURVEY MAY PROMOTIONS\n\n<a id='f0627e0b-32fc-4c38-88cc-e7a8969dee9f'></a>\n\nWINSTON B2G1F\n\n* Did retailers place the \"No Bull 5\" ballots box shipped in the promotional sku?\nAbout **50% were placed by retailer**\n\n* Did the Winston sleeve header card stand up when sleeves were placed in the display?\nYes\n\n* Did the retailers place the easel card? If not why?\n**SOME DID , COMMENTS \u2013 FORGOT ABOUT IT !**\n\n<a id='55616044-59c8-4b0b-8095-de8853fa74c1'></a>\n\nSALEM B1G1F\n\n<a id='949f8e8b-4bd4-4be9-9f2d-707893eaeaf1'></a>\n\n\u2022 What % of the time was the Salem easel card placed?\n25%\n\n\u2022 Where was the easel card placed? (e.g. next to the cash register)\n**On front counter or selling area.**\n\n\u2022 What % of the time was the display placed?\n75%\n\n\u2022 What % of the time were both the easel and the display placed?\n35%\n\n\u2022 Was the ORB e paster placed? 50%\n\n<a id='b69a3b87-2d2a-4ef4-bdb7-1c30705779a8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hsfn0020\n\n<a id='dcac4d6d-fcb3-4665-9ad2-b5726bcb0d29'></a>\n\n52422 7221",
+            "chunks": [
+                "b3efd98a-8c70-4ac9-be60-e8d231e1b704",
+                "6e27edce-5138-4202-bd48-65db764a1347",
+                "f0627e0b-32fc-4c38-88cc-e7a8969dee9f",
+                "55616044-59c8-4b0b-8095-de8853fa74c1",
+                "949f8e8b-4bd4-4be9-9f2d-707893eaeaf1",
+                "b69a3b87-2d2a-4ef4-bdb7-1c30705779a8",
+                "dcac4d6d-fcb3-4665-9ad2-b5726bcb0d29"
+            ]
+        }
+    ],
+    "grounding": {
+        "b3efd98a-8c70-4ac9-be60-e8d231e1b704": {
+            "box": {
+                "left": 0.627912163734436,
+                "top": 0.01659112609922886,
+                "right": 0.7927241325378418,
+                "bottom": 0.07038716971874237
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "6e27edce-5138-4202-bd48-65db764a1347": {
+            "box": {
+                "left": 0.1320740431547165,
+                "top": 0.08780035376548767,
+                "right": 0.5952998399734497,
+                "bottom": 0.11710292100906372
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f0627e0b-32fc-4c38-88cc-e7a8969dee9f": {
+            "box": {
+                "left": 0.12740346789360046,
+                "top": 0.13760419189929962,
+                "right": 0.8527051210403442,
+                "bottom": 0.4213380813598633
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "55616044-59c8-4b0b-8095-de8853fa74c1": {
+            "box": {
+                "left": 0.1272508203983307,
+                "top": 0.4450112581253052,
+                "right": 0.8530735969543457,
+                "bottom": 0.480537474155426
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "949f8e8b-4bd4-4be9-9f2d-707893eaeaf1": {
+            "box": {
+                "left": 0.13378259539604187,
+                "top": 0.5028292536735535,
+                "right": 0.6722726821899414,
+                "bottom": 0.8812434077262878
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b69a3b87-2d2a-4ef4-bdb7-1c30705779a8": {
+            "box": {
+                "left": 0.21516761183738708,
+                "top": 0.9768772721290588,
+                "right": 0.784439206123352,
+                "bottom": 0.9992731213569641
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "dcac4d6d-fcb3-4665-9ad2-b5726bcb0d29": {
+            "box": {
+                "left": 0.9144327044487,
+                "top": 0.8340553045272827,
+                "right": 0.942445695400238,
+                "bottom": 0.9306796789169312
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hsfn0020_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5028,
+        "credit_usage": 3.0,
+        "job_id": "yb69x9dimhh6njpj8oyp97zxn",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='e499dc1d-ae8a-4e54-ab98-a530a3b7a9d6'></a>\n\n<::black and white photograph of a dead bird, lying on its back with its head pointing towards the bottom left. The bird has dark feathers on its back and wings, and lighter feathers on its belly. The background is a plain, dark gray. Below the bird, the word \"THE\" is written in large, bold, sans-serif capital letters.\n: photograph::>\n\n<a id='14088e35-d547-4842-81b6-b7896cc2850b'></a>\n\nSEA BIRD WRECK\nIN THE IRISH SEA\nAUTUMN 1969\n\n<a id='d1238d17-237e-44c1-ac14-df8bf71453fc'></a>\n\nTHE NATURAL ENVIRONMENT RESEARCH COUNCIL\nPUBLICATIONS SERIES C No4 1971\n\n<a id='9bffc057-dde8-445d-9e17-d09573f1c212'></a>\n\n<::logo: Natural Environment Research Council\nNATURAL ENVIRONMENT RESEARCH COUNCIL\nA circular monochrome logo featuring a coat of arms with a lion and a unicorn supporting a shield and crown, encircled by the organization's name.::>",
+    "chunks": [
+        {
+            "markdown": "<a id='e499dc1d-ae8a-4e54-ab98-a530a3b7a9d6'></a>\n\n<::black and white photograph of a dead bird, lying on its back with its head pointing towards the bottom left. The bird has dark feathers on its back and wings, and lighter feathers on its belly. The background is a plain, dark gray. Below the bird, the word \"THE\" is written in large, bold, sans-serif capital letters.\n: photograph::>",
+            "type": "figure",
+            "id": "e499dc1d-ae8a-4e54-ab98-a530a3b7a9d6",
+            "grounding": {
+                "box": {
+                    "left": 0.19300001859664917,
+                    "top": 0.21198076009750366,
+                    "right": 0.8229871392250061,
+                    "bottom": 0.5649451613426208
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='14088e35-d547-4842-81b6-b7896cc2850b'></a>\n\nSEA BIRD WRECK\nIN THE IRISH SEA\nAUTUMN 1969",
+            "type": "text",
+            "id": "14088e35-d547-4842-81b6-b7896cc2850b",
+            "grounding": {
+                "box": {
+                    "left": 0.34047141671180725,
+                    "top": 0.5615895986557007,
+                    "right": 0.6989362239837646,
+                    "bottom": 0.6886827945709229
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d1238d17-237e-44c1-ac14-df8bf71453fc'></a>\n\nTHE NATURAL ENVIRONMENT RESEARCH COUNCIL\nPUBLICATIONS SERIES C No4 1971",
+            "type": "text",
+            "id": "d1238d17-237e-44c1-ac14-df8bf71453fc",
+            "grounding": {
+                "box": {
+                    "left": 0.24494293332099915,
+                    "top": 0.7637507915496826,
+                    "right": 0.7908463478088379,
+                    "bottom": 0.8152905702590942
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9bffc057-dde8-445d-9e17-d09573f1c212'></a>\n\n<::logo: Natural Environment Research Council\nNATURAL ENVIRONMENT RESEARCH COUNCIL\nA circular monochrome logo featuring a coat of arms with a lion and a unicorn supporting a shield and crown, encircled by the organization's name.::>",
+            "type": "logo",
+            "id": "9bffc057-dde8-445d-9e17-d09573f1c212",
+            "grounding": {
+                "box": {
+                    "left": 0.681549072265625,
+                    "top": 0.7873162031173706,
+                    "right": 0.8189624547958374,
+                    "bottom": 0.885839581489563
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e499dc1d-ae8a-4e54-ab98-a530a3b7a9d6'></a>\n\n<::black and white photograph of a dead bird, lying on its back with its head pointing towards the bottom left. The bird has dark feathers on its back and wings, and lighter feathers on its belly. The background is a plain, dark gray. Below the bird, the word \"THE\" is written in large, bold, sans-serif capital letters.\n: photograph::>\n\n<a id='14088e35-d547-4842-81b6-b7896cc2850b'></a>\n\nSEA BIRD WRECK\nIN THE IRISH SEA\nAUTUMN 1969\n\n<a id='d1238d17-237e-44c1-ac14-df8bf71453fc'></a>\n\nTHE NATURAL ENVIRONMENT RESEARCH COUNCIL\nPUBLICATIONS SERIES C No4 1971\n\n<a id='9bffc057-dde8-445d-9e17-d09573f1c212'></a>\n\n<::logo: Natural Environment Research Council\nNATURAL ENVIRONMENT RESEARCH COUNCIL\nA circular monochrome logo featuring a coat of arms with a lion and a unicorn supporting a shield and crown, encircled by the organization's name.::>",
+            "chunks": [
+                "e499dc1d-ae8a-4e54-ab98-a530a3b7a9d6",
+                "14088e35-d547-4842-81b6-b7896cc2850b",
+                "d1238d17-237e-44c1-ac14-df8bf71453fc",
+                "9bffc057-dde8-445d-9e17-d09573f1c212"
+            ]
+        }
+    ],
+    "grounding": {
+        "e499dc1d-ae8a-4e54-ab98-a530a3b7a9d6": {
+            "box": {
+                "left": 0.19300001859664917,
+                "top": 0.21198076009750366,
+                "right": 0.8229871392250061,
+                "bottom": 0.5649451613426208
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "14088e35-d547-4842-81b6-b7896cc2850b": {
+            "box": {
+                "left": 0.34047141671180725,
+                "top": 0.5615895986557007,
+                "right": 0.6989362239837646,
+                "bottom": 0.6886827945709229
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d1238d17-237e-44c1-ac14-df8bf71453fc": {
+            "box": {
+                "left": 0.24494293332099915,
+                "top": 0.7637507915496826,
+                "right": 0.7908463478088379,
+                "bottom": 0.8152905702590942
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9bffc057-dde8-445d-9e17-d09573f1c212": {
+            "box": {
+                "left": 0.681549072265625,
+                "top": 0.7873162031173706,
+                "right": 0.8189624547958374,
+                "bottom": 0.885839581489563
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        }
+    },
+    "metadata": {
+        "filename": "hqgb0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6010,
+        "credit_usage": 3.0,
+        "job_id": "h33cj1otephfyywcdwdh1ymul",
+        "version": "dpt-2-20250919"
+    }
+}

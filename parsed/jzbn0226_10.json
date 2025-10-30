@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='92ce35e5-7529-4d12-b288-2d1fa0a4a13f'></a>\n\nPRIORITIZATION PROCESS STEPS\nEPA Must First Clarify Criteria, Methods, Tools, Approaches, etc. for Prioritization Process Rule\n<::flowchart:\nThe flowchart illustrates the prioritization process steps.\nThe process begins with an oval labeled \"Identify Pool from \"Active\" Inventory and Workplan and Batch\".\nThis step is associated with \"Public Comment\" and \"B1-5: Batches\".\nFrom this oval, arrows point to four smaller ovals labeled \"B3\", \"B1\", \"B2\", and \"B4\".\nAn arrow then leads to a box titled \"Progression of Information Gathering\", which contains a funnel icon and the following list:\n1. Reasonably available information\n2. Voluntary Call-ins\n3. Section 8a and 8d rules\n4. Section 4 rules, orders, consent agreements (if necessary, using tiered approach)\n\nFrom \"Progression of Information Gathering\", the process branches:\n- To the left, an \"Information Screening Bridge\" box asks:\n  - Is information sufficient for priority decision?\n  - Is information sufficient for scoping?\n  A decision point follows:\n  - If \"No\", the path leads to a \"Gather/develop information\" box, which loops back to the \"Information Screening Bridge\".\n  - If \"Yes\", the path leads to the \"Sufficient Information to Designate High Priority or Low Priority\" box.\n- To the right, an \"Iterate?\" box asks:\n  - Is additional information needed to designate?\n  A decision point follows:\n  - If \"Yes\", the path loops back to \"Progression of Information Gathering\".\n  - If \"No\", the path leads to the \"Sufficient Information to Designate High Priority or Low Priority\" box.\n\nAll paths converge at the \"Sufficient Information to Designate High Priority or Low Priority\" box.\nA \"Yes\" decision from this box leads to the next sequential steps:\n1. Initiate Priority Designation (box)\n2. Propose Priority Designation (box)\n3. Finalize Priority Designation (box)\n\nFrom \"Finalize Priority Designation\", the process splits into two outcomes:\n- High Priority (box), which leads to \"Risk Evaluation\" (box).\n- Low Priority (box), which leads to \"Subject to Judicial Review\" (box).\n: flowchart::>\n\n<a id='549ba66b-6ed6-48a9-a146-cbaafba8b626'></a>\n\n8\n\n<a id='0069c1dd-5d9e-4b54-9ee5-0e95827a3c6f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jzbn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='92ce35e5-7529-4d12-b288-2d1fa0a4a13f'></a>\n\nPRIORITIZATION PROCESS STEPS\nEPA Must First Clarify Criteria, Methods, Tools, Approaches, etc. for Prioritization Process Rule\n<::flowchart:\nThe flowchart illustrates the prioritization process steps.\nThe process begins with an oval labeled \"Identify Pool from \"Active\" Inventory and Workplan and Batch\".\nThis step is associated with \"Public Comment\" and \"B1-5: Batches\".\nFrom this oval, arrows point to four smaller ovals labeled \"B3\", \"B1\", \"B2\", and \"B4\".\nAn arrow then leads to a box titled \"Progression of Information Gathering\", which contains a funnel icon and the following list:\n1. Reasonably available information\n2. Voluntary Call-ins\n3. Section 8a and 8d rules\n4. Section 4 rules, orders, consent agreements (if necessary, using tiered approach)\n\nFrom \"Progression of Information Gathering\", the process branches:\n- To the left, an \"Information Screening Bridge\" box asks:\n  - Is information sufficient for priority decision?\n  - Is information sufficient for scoping?\n  A decision point follows:\n  - If \"No\", the path leads to a \"Gather/develop information\" box, which loops back to the \"Information Screening Bridge\".\n  - If \"Yes\", the path leads to the \"Sufficient Information to Designate High Priority or Low Priority\" box.\n- To the right, an \"Iterate?\" box asks:\n  - Is additional information needed to designate?\n  A decision point follows:\n  - If \"Yes\", the path loops back to \"Progression of Information Gathering\".\n  - If \"No\", the path leads to the \"Sufficient Information to Designate High Priority or Low Priority\" box.\n\nAll paths converge at the \"Sufficient Information to Designate High Priority or Low Priority\" box.\nA \"Yes\" decision from this box leads to the next sequential steps:\n1. Initiate Priority Designation (box)\n2. Propose Priority Designation (box)\n3. Finalize Priority Designation (box)\n\nFrom \"Finalize Priority Designation\", the process splits into two outcomes:\n- High Priority (box), which leads to \"Risk Evaluation\" (box).\n- Low Priority (box), which leads to \"Subject to Judicial Review\" (box).\n: flowchart::>",
+            "type": "figure",
+            "id": "92ce35e5-7529-4d12-b288-2d1fa0a4a13f",
+            "grounding": {
+                "box": {
+                    "left": 0.11216422915458679,
+                    "top": 0.05511435866355896,
+                    "right": 0.8841884136199951,
+                    "bottom": 0.6611201763153076
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='549ba66b-6ed6-48a9-a146-cbaafba8b626'></a>\n\n8",
+            "type": "marginalia",
+            "id": "549ba66b-6ed6-48a9-a146-cbaafba8b626",
+            "grounding": {
+                "box": {
+                    "left": 0.5096122026443481,
+                    "top": 0.9102869033813477,
+                    "right": 0.5311334133148193,
+                    "bottom": 0.9309338331222534
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0069c1dd-5d9e-4b54-9ee5-0e95827a3c6f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jzbn0226",
+            "type": "marginalia",
+            "id": "0069c1dd-5d9e-4b54-9ee5-0e95827a3c6f",
+            "grounding": {
+                "box": {
+                    "left": 0.21430861949920654,
+                    "top": 0.9751189351081848,
+                    "right": 0.7871522903442383,
+                    "bottom": 1.0001740455627441
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='92ce35e5-7529-4d12-b288-2d1fa0a4a13f'></a>\n\nPRIORITIZATION PROCESS STEPS\nEPA Must First Clarify Criteria, Methods, Tools, Approaches, etc. for Prioritization Process Rule\n<::flowchart:\nThe flowchart illustrates the prioritization process steps.\nThe process begins with an oval labeled \"Identify Pool from \"Active\" Inventory and Workplan and Batch\".\nThis step is associated with \"Public Comment\" and \"B1-5: Batches\".\nFrom this oval, arrows point to four smaller ovals labeled \"B3\", \"B1\", \"B2\", and \"B4\".\nAn arrow then leads to a box titled \"Progression of Information Gathering\", which contains a funnel icon and the following list:\n1. Reasonably available information\n2. Voluntary Call-ins\n3. Section 8a and 8d rules\n4. Section 4 rules, orders, consent agreements (if necessary, using tiered approach)\n\nFrom \"Progression of Information Gathering\", the process branches:\n- To the left, an \"Information Screening Bridge\" box asks:\n  - Is information sufficient for priority decision?\n  - Is information sufficient for scoping?\n  A decision point follows:\n  - If \"No\", the path leads to a \"Gather/develop information\" box, which loops back to the \"Information Screening Bridge\".\n  - If \"Yes\", the path leads to the \"Sufficient Information to Designate High Priority or Low Priority\" box.\n- To the right, an \"Iterate?\" box asks:\n  - Is additional information needed to designate?\n  A decision point follows:\n  - If \"Yes\", the path loops back to \"Progression of Information Gathering\".\n  - If \"No\", the path leads to the \"Sufficient Information to Designate High Priority or Low Priority\" box.\n\nAll paths converge at the \"Sufficient Information to Designate High Priority or Low Priority\" box.\nA \"Yes\" decision from this box leads to the next sequential steps:\n1. Initiate Priority Designation (box)\n2. Propose Priority Designation (box)\n3. Finalize Priority Designation (box)\n\nFrom \"Finalize Priority Designation\", the process splits into two outcomes:\n- High Priority (box), which leads to \"Risk Evaluation\" (box).\n- Low Priority (box), which leads to \"Subject to Judicial Review\" (box).\n: flowchart::>\n\n<a id='549ba66b-6ed6-48a9-a146-cbaafba8b626'></a>\n\n8\n\n<a id='0069c1dd-5d9e-4b54-9ee5-0e95827a3c6f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jzbn0226",
+            "chunks": [
+                "92ce35e5-7529-4d12-b288-2d1fa0a4a13f",
+                "549ba66b-6ed6-48a9-a146-cbaafba8b626",
+                "0069c1dd-5d9e-4b54-9ee5-0e95827a3c6f"
+            ]
+        }
+    ],
+    "grounding": {
+        "92ce35e5-7529-4d12-b288-2d1fa0a4a13f": {
+            "box": {
+                "left": 0.11216422915458679,
+                "top": 0.05511435866355896,
+                "right": 0.8841884136199951,
+                "bottom": 0.6611201763153076
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "549ba66b-6ed6-48a9-a146-cbaafba8b626": {
+            "box": {
+                "left": 0.5096122026443481,
+                "top": 0.9102869033813477,
+                "right": 0.5311334133148193,
+                "bottom": 0.9309338331222534
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "0069c1dd-5d9e-4b54-9ee5-0e95827a3c6f": {
+            "box": {
+                "left": 0.21430861949920654,
+                "top": 0.9751189351081848,
+                "right": 0.7871522903442383,
+                "bottom": 1.0001740455627441
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "jzbn0226_10.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 19596,
+        "credit_usage": 3.0,
+        "job_id": "sdwb5zgekki518812i35w6naa",
+        "version": "dpt-2-20250919"
+    }
+}

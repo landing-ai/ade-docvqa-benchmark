@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='87fce8e6-aa13-4147-b360-37b5e68e7891'></a>\n\nSUGAR\nRESEARCH\n\n<a id='fd03d0dd-43c1-43da-a4d1-a5e2672e957e'></a>\n\nFOUNDATION, Inc.\n\n<a id='5fc40619-e1c2-4695-ad92-b5f154cbc97a'></a>\n\nA non-profit corporation created\nunder the laws of the State\nof New York, June 10, 1943\n\n<a id='5cc109fe-9a78-4f83-82ad-3f47ec80d54d'></a>\n\nExecutive Offices\n99 WALL STREET, NEW YORK 5, N. Y.\n\n<a id='5b3939ef-bf69-4f74-a18b-f1cdc27957be'></a>\n\nJune 28, 1943\n\n<a id='a35a946e-e8dd-4b4f-8f67-6b1a489f8d45'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zngl0226",
+    "chunks": [
+        {
+            "markdown": "<a id='87fce8e6-aa13-4147-b360-37b5e68e7891'></a>\n\nSUGAR\nRESEARCH",
+            "type": "text",
+            "id": "87fce8e6-aa13-4147-b360-37b5e68e7891",
+            "grounding": {
+                "box": {
+                    "left": 0.07125391066074371,
+                    "top": 0.17282357811927795,
+                    "right": 0.421880304813385,
+                    "bottom": 0.2761583626270294
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fd03d0dd-43c1-43da-a4d1-a5e2672e957e'></a>\n\nFOUNDATION, Inc.",
+            "type": "text",
+            "id": "fd03d0dd-43c1-43da-a4d1-a5e2672e957e",
+            "grounding": {
+                "box": {
+                    "left": 0.07436317205429077,
+                    "top": 0.2990981340408325,
+                    "right": 0.6636928915977478,
+                    "bottom": 0.3440496325492859
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5fc40619-e1c2-4695-ad92-b5f154cbc97a'></a>\n\nA non-profit corporation created\nunder the laws of the State\nof New York, June 10, 1943",
+            "type": "text",
+            "id": "5fc40619-e1c2-4695-ad92-b5f154cbc97a",
+            "grounding": {
+                "box": {
+                    "left": 0.21968618035316467,
+                    "top": 0.3981182873249054,
+                    "right": 0.7743182182312012,
+                    "bottom": 0.4936966001987457
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5cc109fe-9a78-4f83-82ad-3f47ec80d54d'></a>\n\nExecutive Offices\n99 WALL STREET, NEW YORK 5, N. Y.",
+            "type": "text",
+            "id": "5cc109fe-9a78-4f83-82ad-3f47ec80d54d",
+            "grounding": {
+                "box": {
+                    "left": 0.16222673654556274,
+                    "top": 0.6587340831756592,
+                    "right": 0.8343074917793274,
+                    "bottom": 0.7349990606307983
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5b3939ef-bf69-4f74-a18b-f1cdc27957be'></a>\n\nJune 28, 1943",
+            "type": "marginalia",
+            "id": "5b3939ef-bf69-4f74-a18b-f1cdc27957be",
+            "grounding": {
+                "box": {
+                    "left": 0.07659749686717987,
+                    "top": 0.8585461974143982,
+                    "right": 0.3313109874725342,
+                    "bottom": 0.8951815962791443
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a35a946e-e8dd-4b4f-8f67-6b1a489f8d45'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zngl0226",
+            "type": "marginalia",
+            "id": "a35a946e-e8dd-4b4f-8f67-6b1a489f8d45",
+            "grounding": {
+                "box": {
+                    "left": 0.16956239938735962,
+                    "top": 0.9627314209938049,
+                    "right": 0.8288945555686951,
+                    "bottom": 0.9864155650138855
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='87fce8e6-aa13-4147-b360-37b5e68e7891'></a>\n\nSUGAR\nRESEARCH\n\n<a id='fd03d0dd-43c1-43da-a4d1-a5e2672e957e'></a>\n\nFOUNDATION, Inc.\n\n<a id='5fc40619-e1c2-4695-ad92-b5f154cbc97a'></a>\n\nA non-profit corporation created\nunder the laws of the State\nof New York, June 10, 1943\n\n<a id='5cc109fe-9a78-4f83-82ad-3f47ec80d54d'></a>\n\nExecutive Offices\n99 WALL STREET, NEW YORK 5, N. Y.\n\n<a id='5b3939ef-bf69-4f74-a18b-f1cdc27957be'></a>\n\nJune 28, 1943\n\n<a id='a35a946e-e8dd-4b4f-8f67-6b1a489f8d45'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zngl0226",
+            "chunks": [
+                "87fce8e6-aa13-4147-b360-37b5e68e7891",
+                "fd03d0dd-43c1-43da-a4d1-a5e2672e957e",
+                "5fc40619-e1c2-4695-ad92-b5f154cbc97a",
+                "5cc109fe-9a78-4f83-82ad-3f47ec80d54d",
+                "5b3939ef-bf69-4f74-a18b-f1cdc27957be",
+                "a35a946e-e8dd-4b4f-8f67-6b1a489f8d45"
+            ]
+        }
+    ],
+    "grounding": {
+        "87fce8e6-aa13-4147-b360-37b5e68e7891": {
+            "box": {
+                "left": 0.07125391066074371,
+                "top": 0.17282357811927795,
+                "right": 0.421880304813385,
+                "bottom": 0.2761583626270294
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fd03d0dd-43c1-43da-a4d1-a5e2672e957e": {
+            "box": {
+                "left": 0.07436317205429077,
+                "top": 0.2990981340408325,
+                "right": 0.6636928915977478,
+                "bottom": 0.3440496325492859
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5fc40619-e1c2-4695-ad92-b5f154cbc97a": {
+            "box": {
+                "left": 0.21968618035316467,
+                "top": 0.3981182873249054,
+                "right": 0.7743182182312012,
+                "bottom": 0.4936966001987457
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5cc109fe-9a78-4f83-82ad-3f47ec80d54d": {
+            "box": {
+                "left": 0.16222673654556274,
+                "top": 0.6587340831756592,
+                "right": 0.8343074917793274,
+                "bottom": 0.7349990606307983
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5b3939ef-bf69-4f74-a18b-f1cdc27957be": {
+            "box": {
+                "left": 0.07659749686717987,
+                "top": 0.8585461974143982,
+                "right": 0.3313109874725342,
+                "bottom": 0.8951815962791443
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "a35a946e-e8dd-4b4f-8f67-6b1a489f8d45": {
+            "box": {
+                "left": 0.16956239938735962,
+                "top": 0.9627314209938049,
+                "right": 0.8288945555686951,
+                "bottom": 0.9864155650138855
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "zngl0226_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3983,
+        "credit_usage": 3.0,
+        "job_id": "bme63jgvniivr45ceo7p1p04v",
+        "version": "dpt-2-20250919"
+    }
+}

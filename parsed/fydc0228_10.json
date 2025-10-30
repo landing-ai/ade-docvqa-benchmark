@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='62bc4b25-8f41-4021-9a6f-ef3a43f249c4'></a>\n\n<::A map titled \"Points of interest about Evansville\".\n\nThe map shows a grid of streets, including numbered streets (First Street, Second Street, Third Street, Fourth Street, Fifth Street, Sixth Street, Seventh Street, Eighth Street) and named streets (Riverside Drive, Court Street, Vine Street, Sycamore Street, Main Street, Locust Street, Walnut Street, Chestnut Street, Cherry Street, Oak Street). Major avenues and streets include St. Joseph Avenue, Franklin Street, Pennsylvania Street, Virginia Street, Division Street, Lincoln Avenue, Washington Avenue, and Kentucky Avenue. Highways 460, 62, and 41 are also marked.\n\nThe Ohio River flows along the southern edge of the mapped area, with Kentucky labeled on the opposite bank. Pigeon Creek runs through the western part of the map.\n\nSeveral points of interest are marked with numbers and icons:\n- A deer icon with '17' in the northwest.\n- A fisherman icon along Pigeon Creek.\n- An airplane icon near \"To Airport\" road.\n- A farm/house icon in the northeast.\n- A compass rose with 'N' indicating North.\n- A steamboat on the Ohio River.\n- A man with a rifle (pioneer) on the Kentucky side of the Ohio River.\n- Various building icons are marked with numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20.\n: map::>\n\n<a id='05a1ec21-8a8e-4cf5-8354-f8445bdba766'></a>\n\n1. Vanderburgh County Court House\n2. Memorial Coliseum\n3. Hotel McCurdy\n4. Museum of Arts and Sciences\n5. Vendome Hotel\n6. Union Station\n7. Mead Johnson & Company\n8. Bus Terminal\n9. Post Office\n10. St. Mary's Hospital\n\n<a id='b303b543-478c-4789-bac2-8ac20833dfe6'></a>\n\n11. Welborn Memorial Baptist Hospital\n12. Deaconess Hospital\n13. Evansville College\n14. Roberts Municipal Stadium\n15. Public Library\n16. City Hall\n17. Mesker Memorial Amphitheater and Zoo\n18. Evansville State Hospital\n19. Mead Johnson Main Street Office\n20. Mead Johnson Eighth Street Office\n\n<a id='70c0353b-de21-41de-97c8-f3aa0074716b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fydc0228",
+    "chunks": [
+        {
+            "markdown": "<a id='62bc4b25-8f41-4021-9a6f-ef3a43f249c4'></a>\n\n<::A map titled \"Points of interest about Evansville\".\n\nThe map shows a grid of streets, including numbered streets (First Street, Second Street, Third Street, Fourth Street, Fifth Street, Sixth Street, Seventh Street, Eighth Street) and named streets (Riverside Drive, Court Street, Vine Street, Sycamore Street, Main Street, Locust Street, Walnut Street, Chestnut Street, Cherry Street, Oak Street). Major avenues and streets include St. Joseph Avenue, Franklin Street, Pennsylvania Street, Virginia Street, Division Street, Lincoln Avenue, Washington Avenue, and Kentucky Avenue. Highways 460, 62, and 41 are also marked.\n\nThe Ohio River flows along the southern edge of the mapped area, with Kentucky labeled on the opposite bank. Pigeon Creek runs through the western part of the map.\n\nSeveral points of interest are marked with numbers and icons:\n- A deer icon with '17' in the northwest.\n- A fisherman icon along Pigeon Creek.\n- An airplane icon near \"To Airport\" road.\n- A farm/house icon in the northeast.\n- A compass rose with 'N' indicating North.\n- A steamboat on the Ohio River.\n- A man with a rifle (pioneer) on the Kentucky side of the Ohio River.\n- Various building icons are marked with numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20.\n: map::>",
+            "type": "figure",
+            "id": "62bc4b25-8f41-4021-9a6f-ef3a43f249c4",
+            "grounding": {
+                "box": {
+                    "left": 0.13265621662139893,
+                    "top": 0.11311855912208557,
+                    "right": 0.8903071880340576,
+                    "bottom": 0.6359783411026001
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='05a1ec21-8a8e-4cf5-8354-f8445bdba766'></a>\n\n1. Vanderburgh County Court House\n2. Memorial Coliseum\n3. Hotel McCurdy\n4. Museum of Arts and Sciences\n5. Vendome Hotel\n6. Union Station\n7. Mead Johnson & Company\n8. Bus Terminal\n9. Post Office\n10. St. Mary's Hospital",
+            "type": "text",
+            "id": "05a1ec21-8a8e-4cf5-8354-f8445bdba766",
+            "grounding": {
+                "box": {
+                    "left": 0.12375083565711975,
+                    "top": 0.6564924716949463,
+                    "right": 0.43343743681907654,
+                    "bottom": 0.8739874362945557
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b303b543-478c-4789-bac2-8ac20833dfe6'></a>\n\n11. Welborn Memorial Baptist Hospital\n12. Deaconess Hospital\n13. Evansville College\n14. Roberts Municipal Stadium\n15. Public Library\n16. City Hall\n17. Mesker Memorial Amphitheater and Zoo\n18. Evansville State Hospital\n19. Mead Johnson Main Street Office\n20. Mead Johnson Eighth Street Office",
+            "type": "text",
+            "id": "b303b543-478c-4789-bac2-8ac20833dfe6",
+            "grounding": {
+                "box": {
+                    "left": 0.5435096025466919,
+                    "top": 0.6579192876815796,
+                    "right": 0.9010162353515625,
+                    "bottom": 0.8738311529159546
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='70c0353b-de21-41de-97c8-f3aa0074716b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fydc0228",
+            "type": "marginalia",
+            "id": "70c0353b-de21-41de-97c8-f3aa0074716b",
+            "grounding": {
+                "box": {
+                    "left": 0.2726435661315918,
+                    "top": 0.9726487398147583,
+                    "right": 0.7248846888542175,
+                    "bottom": 0.9948052167892456
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='62bc4b25-8f41-4021-9a6f-ef3a43f249c4'></a>\n\n<::A map titled \"Points of interest about Evansville\".\n\nThe map shows a grid of streets, including numbered streets (First Street, Second Street, Third Street, Fourth Street, Fifth Street, Sixth Street, Seventh Street, Eighth Street) and named streets (Riverside Drive, Court Street, Vine Street, Sycamore Street, Main Street, Locust Street, Walnut Street, Chestnut Street, Cherry Street, Oak Street). Major avenues and streets include St. Joseph Avenue, Franklin Street, Pennsylvania Street, Virginia Street, Division Street, Lincoln Avenue, Washington Avenue, and Kentucky Avenue. Highways 460, 62, and 41 are also marked.\n\nThe Ohio River flows along the southern edge of the mapped area, with Kentucky labeled on the opposite bank. Pigeon Creek runs through the western part of the map.\n\nSeveral points of interest are marked with numbers and icons:\n- A deer icon with '17' in the northwest.\n- A fisherman icon along Pigeon Creek.\n- An airplane icon near \"To Airport\" road.\n- A farm/house icon in the northeast.\n- A compass rose with 'N' indicating North.\n- A steamboat on the Ohio River.\n- A man with a rifle (pioneer) on the Kentucky side of the Ohio River.\n- Various building icons are marked with numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20.\n: map::>\n\n<a id='05a1ec21-8a8e-4cf5-8354-f8445bdba766'></a>\n\n1. Vanderburgh County Court House\n2. Memorial Coliseum\n3. Hotel McCurdy\n4. Museum of Arts and Sciences\n5. Vendome Hotel\n6. Union Station\n7. Mead Johnson & Company\n8. Bus Terminal\n9. Post Office\n10. St. Mary's Hospital\n\n<a id='b303b543-478c-4789-bac2-8ac20833dfe6'></a>\n\n11. Welborn Memorial Baptist Hospital\n12. Deaconess Hospital\n13. Evansville College\n14. Roberts Municipal Stadium\n15. Public Library\n16. City Hall\n17. Mesker Memorial Amphitheater and Zoo\n18. Evansville State Hospital\n19. Mead Johnson Main Street Office\n20. Mead Johnson Eighth Street Office\n\n<a id='70c0353b-de21-41de-97c8-f3aa0074716b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fydc0228",
+            "chunks": [
+                "62bc4b25-8f41-4021-9a6f-ef3a43f249c4",
+                "05a1ec21-8a8e-4cf5-8354-f8445bdba766",
+                "b303b543-478c-4789-bac2-8ac20833dfe6",
+                "70c0353b-de21-41de-97c8-f3aa0074716b"
+            ]
+        }
+    ],
+    "grounding": {
+        "62bc4b25-8f41-4021-9a6f-ef3a43f249c4": {
+            "box": {
+                "left": 0.13265621662139893,
+                "top": 0.11311855912208557,
+                "right": 0.8903071880340576,
+                "bottom": 0.6359783411026001
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "05a1ec21-8a8e-4cf5-8354-f8445bdba766": {
+            "box": {
+                "left": 0.12375083565711975,
+                "top": 0.6564924716949463,
+                "right": 0.43343743681907654,
+                "bottom": 0.8739874362945557
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b303b543-478c-4789-bac2-8ac20833dfe6": {
+            "box": {
+                "left": 0.5435096025466919,
+                "top": 0.6579192876815796,
+                "right": 0.9010162353515625,
+                "bottom": 0.8738311529159546
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "70c0353b-de21-41de-97c8-f3aa0074716b": {
+            "box": {
+                "left": 0.2726435661315918,
+                "top": 0.9726487398147583,
+                "right": 0.7248846888542175,
+                "bottom": 0.9948052167892456
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fydc0228_10.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10814,
+        "credit_usage": 3.0,
+        "job_id": "par6owwpgvhit7cp337u8s57i",
+        "version": "dpt-2-20250919"
+    }
+}

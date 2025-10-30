@@ -1,0 +1,643 @@
+{
+    "markdown": "<a id='642a8382-60fb-4714-a9cb-950256246358'></a>\n\n19\n\n<a id='99128dbe-7f88-427a-9edb-217910b5afd9'></a>\n\nTable 2. Effect of HRT or Raloxifene on Endothelial Function\n---\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">HRT</td><td id=\"0-4\" colspan=\"2\">Raloxifene</td></tr>\n<tr><td id=\"0-5\"></td><td id=\"0-6\">Baseline</td><td id=\"0-7\">After Therapy</td><td id=\"0-8\">Baseline</td><td id=\"0-9\">After Therapy</td></tr>\n<tr><td id=\"0-a\">Vasomotor function</td><td id=\"0-b\" colspan=\"2\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Serum nitrogen oxides, \u00b5mol/L</td><td id=\"0-f\">41.1 \u00b1 10.3</td><td id=\"0-g\">47.3 \u00b1 8.4</td><td id=\"0-h\">40.1 \u00b1 11.7</td><td id=\"0-i\">38.8 \u00b1 6.8</td></tr>\n<tr><td id=\"0-j\">Endothelin-1 (pg/mL)</td><td id=\"0-k\">3.2 \u00b1 0.6</td><td id=\"0-l\">2.8 \u00b1 0.6</td><td id=\"0-m\">3.3 \u00b1 0.9</td><td id=\"0-n\">3.2 \u00b1 0.7</td></tr>\n<tr><td id=\"0-o\" colspan=\"5\">Brachial artery diameter, mm</td></tr>\n<tr><td id=\"0-p\">Basal-1</td><td id=\"0-q\">4.08 \u0013 0.31</td><td id=\"0-r\">4.07 \u0013 0.27</td><td id=\"0-s\">4.07 \u0013 0.44</td><td id=\"0-t\">4.08 \u0013 0.24</td></tr>\n<tr><td id=\"0-u\">Hyperemia</td><td id=\"0-v\">4.38 \u0013 0.74</td><td id=\"0-w\">4.57 \u0013 0.53</td><td id=\"0-x\">4.37 \u0013 0.57</td><td id=\"0-y\">4.33 \u0013 0.66</td></tr>\n<tr><td id=\"0-z\">FMD (%)</td><td id=\"0-A\">7.4 \u0013 0.5</td><td id=\"0-B\">12.4 \u0013 0.6</td><td id=\"0-C\">7.3 \u0013 0.8</td><td id=\"0-D\">6.1 \u0013 2.0</td></tr>\n<tr><td id=\"0-E\">Basal-2</td><td id=\"0-F\">4.07 \u0013 0.48</td><td id=\"0-G\">4.07 \u0013 0.60</td><td id=\"0-H\">4.07 \u0013 0.79</td><td id=\"0-I\">4.08 \u0013 0.77</td></tr>\n<tr><td id=\"0-J\">Nitroglycerin</td><td id=\"0-K\">4.83 \u0013 0.62</td><td id=\"0-L\">4.82 \u0013 0.59</td><td id=\"0-M\">4.84 \u0013 0.54</td><td id=\"0-N\">4.83 \u0013 0.56</td></tr>\n</table>\n\n<a id='cbe2c1eb-39c4-4d79-b6c3-cf1cd16c315f'></a>\n\n19\n\n<a id='059313e1-746d-453e-887b-1611b409ae94'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217\n\n<a id='aee9821d-8c8c-439c-a1c2-f0f1086726e8'></a>\n\nDWRITE 068019",
+    "chunks": [
+        {
+            "markdown": "<a id='642a8382-60fb-4714-a9cb-950256246358'></a>\n\n19",
+            "type": "marginalia",
+            "id": "642a8382-60fb-4714-a9cb-950256246358",
+            "grounding": {
+                "box": {
+                    "left": 0.8929799199104309,
+                    "top": 0.06318081170320511,
+                    "right": 0.9145793318748474,
+                    "bottom": 0.08831465989351273
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='99128dbe-7f88-427a-9edb-217910b5afd9'></a>\n\nTable 2. Effect of HRT or Raloxifene on Endothelial Function\n---\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">HRT</td><td id=\"0-4\" colspan=\"2\">Raloxifene</td></tr>\n<tr><td id=\"0-5\"></td><td id=\"0-6\">Baseline</td><td id=\"0-7\">After Therapy</td><td id=\"0-8\">Baseline</td><td id=\"0-9\">After Therapy</td></tr>\n<tr><td id=\"0-a\">Vasomotor function</td><td id=\"0-b\" colspan=\"2\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Serum nitrogen oxides, \u00b5mol/L</td><td id=\"0-f\">41.1 \u00b1 10.3</td><td id=\"0-g\">47.3 \u00b1 8.4</td><td id=\"0-h\">40.1 \u00b1 11.7</td><td id=\"0-i\">38.8 \u00b1 6.8</td></tr>\n<tr><td id=\"0-j\">Endothelin-1 (pg/mL)</td><td id=\"0-k\">3.2 \u00b1 0.6</td><td id=\"0-l\">2.8 \u00b1 0.6</td><td id=\"0-m\">3.3 \u00b1 0.9</td><td id=\"0-n\">3.2 \u00b1 0.7</td></tr>\n<tr><td id=\"0-o\" colspan=\"5\">Brachial artery diameter, mm</td></tr>\n<tr><td id=\"0-p\">Basal-1</td><td id=\"0-q\">4.08 \u0013 0.31</td><td id=\"0-r\">4.07 \u0013 0.27</td><td id=\"0-s\">4.07 \u0013 0.44</td><td id=\"0-t\">4.08 \u0013 0.24</td></tr>\n<tr><td id=\"0-u\">Hyperemia</td><td id=\"0-v\">4.38 \u0013 0.74</td><td id=\"0-w\">4.57 \u0013 0.53</td><td id=\"0-x\">4.37 \u0013 0.57</td><td id=\"0-y\">4.33 \u0013 0.66</td></tr>\n<tr><td id=\"0-z\">FMD (%)</td><td id=\"0-A\">7.4 \u0013 0.5</td><td id=\"0-B\">12.4 \u0013 0.6</td><td id=\"0-C\">7.3 \u0013 0.8</td><td id=\"0-D\">6.1 \u0013 2.0</td></tr>\n<tr><td id=\"0-E\">Basal-2</td><td id=\"0-F\">4.07 \u0013 0.48</td><td id=\"0-G\">4.07 \u0013 0.60</td><td id=\"0-H\">4.07 \u0013 0.79</td><td id=\"0-I\">4.08 \u0013 0.77</td></tr>\n<tr><td id=\"0-J\">Nitroglycerin</td><td id=\"0-K\">4.83 \u0013 0.62</td><td id=\"0-L\">4.82 \u0013 0.59</td><td id=\"0-M\">4.84 \u0013 0.54</td><td id=\"0-N\">4.83 \u0013 0.56</td></tr>\n</table>",
+            "type": "table",
+            "id": "99128dbe-7f88-427a-9edb-217910b5afd9",
+            "grounding": {
+                "box": {
+                    "left": 0.10171326994895935,
+                    "top": 0.11530864238739014,
+                    "right": 0.7582275867462158,
+                    "bottom": 0.79654860496521
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cbe2c1eb-39c4-4d79-b6c3-cf1cd16c315f'></a>\n\n19",
+            "type": "marginalia",
+            "id": "cbe2c1eb-39c4-4d79-b6c3-cf1cd16c315f",
+            "grounding": {
+                "box": {
+                    "left": 0.892723023891449,
+                    "top": 0.8971640467643738,
+                    "right": 0.9140518307685852,
+                    "bottom": 0.920988142490387
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='059313e1-746d-453e-887b-1611b409ae94'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217",
+            "type": "marginalia",
+            "id": "059313e1-746d-453e-887b-1611b409ae94",
+            "grounding": {
+                "box": {
+                    "left": 0.2784014344215393,
+                    "top": 0.9719501733779907,
+                    "right": 0.7218452095985413,
+                    "bottom": 0.9999858140945435
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='aee9821d-8c8c-439c-a1c2-f0f1086726e8'></a>\n\nDWRITE 068019",
+            "type": "marginalia",
+            "id": "aee9821d-8c8c-439c-a1c2-f0f1086726e8",
+            "grounding": {
+                "box": {
+                    "left": 0.008903415873646736,
+                    "top": 0.8340753316879272,
+                    "right": 0.029483752325177193,
+                    "bottom": 0.9677637815475464
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='642a8382-60fb-4714-a9cb-950256246358'></a>\n\n19\n\n<a id='99128dbe-7f88-427a-9edb-217910b5afd9'></a>\n\nTable 2. Effect of HRT or Raloxifene on Endothelial Function\n---\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">HRT</td><td id=\"0-4\" colspan=\"2\">Raloxifene</td></tr>\n<tr><td id=\"0-5\"></td><td id=\"0-6\">Baseline</td><td id=\"0-7\">After Therapy</td><td id=\"0-8\">Baseline</td><td id=\"0-9\">After Therapy</td></tr>\n<tr><td id=\"0-a\">Vasomotor function</td><td id=\"0-b\" colspan=\"2\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Serum nitrogen oxides, \u00b5mol/L</td><td id=\"0-f\">41.1 \u00b1 10.3</td><td id=\"0-g\">47.3 \u00b1 8.4</td><td id=\"0-h\">40.1 \u00b1 11.7</td><td id=\"0-i\">38.8 \u00b1 6.8</td></tr>\n<tr><td id=\"0-j\">Endothelin-1 (pg/mL)</td><td id=\"0-k\">3.2 \u00b1 0.6</td><td id=\"0-l\">2.8 \u00b1 0.6</td><td id=\"0-m\">3.3 \u00b1 0.9</td><td id=\"0-n\">3.2 \u00b1 0.7</td></tr>\n<tr><td id=\"0-o\" colspan=\"5\">Brachial artery diameter, mm</td></tr>\n<tr><td id=\"0-p\">Basal-1</td><td id=\"0-q\">4.08 \u0013 0.31</td><td id=\"0-r\">4.07 \u0013 0.27</td><td id=\"0-s\">4.07 \u0013 0.44</td><td id=\"0-t\">4.08 \u0013 0.24</td></tr>\n<tr><td id=\"0-u\">Hyperemia</td><td id=\"0-v\">4.38 \u0013 0.74</td><td id=\"0-w\">4.57 \u0013 0.53</td><td id=\"0-x\">4.37 \u0013 0.57</td><td id=\"0-y\">4.33 \u0013 0.66</td></tr>\n<tr><td id=\"0-z\">FMD (%)</td><td id=\"0-A\">7.4 \u0013 0.5</td><td id=\"0-B\">12.4 \u0013 0.6</td><td id=\"0-C\">7.3 \u0013 0.8</td><td id=\"0-D\">6.1 \u0013 2.0</td></tr>\n<tr><td id=\"0-E\">Basal-2</td><td id=\"0-F\">4.07 \u0013 0.48</td><td id=\"0-G\">4.07 \u0013 0.60</td><td id=\"0-H\">4.07 \u0013 0.79</td><td id=\"0-I\">4.08 \u0013 0.77</td></tr>\n<tr><td id=\"0-J\">Nitroglycerin</td><td id=\"0-K\">4.83 \u0013 0.62</td><td id=\"0-L\">4.82 \u0013 0.59</td><td id=\"0-M\">4.84 \u0013 0.54</td><td id=\"0-N\">4.83 \u0013 0.56</td></tr>\n</table>\n\n<a id='cbe2c1eb-39c4-4d79-b6c3-cf1cd16c315f'></a>\n\n19\n\n<a id='059313e1-746d-453e-887b-1611b409ae94'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217\n\n<a id='aee9821d-8c8c-439c-a1c2-f0f1086726e8'></a>\n\nDWRITE 068019",
+            "chunks": [
+                "642a8382-60fb-4714-a9cb-950256246358",
+                "99128dbe-7f88-427a-9edb-217910b5afd9",
+                "cbe2c1eb-39c4-4d79-b6c3-cf1cd16c315f",
+                "059313e1-746d-453e-887b-1611b409ae94",
+                "aee9821d-8c8c-439c-a1c2-f0f1086726e8"
+            ]
+        }
+    ],
+    "grounding": {
+        "642a8382-60fb-4714-a9cb-950256246358": {
+            "box": {
+                "left": 0.8929799199104309,
+                "top": 0.06318081170320511,
+                "right": 0.9145793318748474,
+                "bottom": 0.08831465989351273
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "99128dbe-7f88-427a-9edb-217910b5afd9": {
+            "box": {
+                "left": 0.10171326994895935,
+                "top": 0.11530864238739014,
+                "right": 0.7582275867462158,
+                "bottom": 0.79654860496521
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.17637111414903384,
+                "right": 0.750380743152494,
+                "bottom": 0.7921734903164008
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.17637111414903384,
+                "right": 0.3090881995768342,
+                "bottom": 0.23177548314348329
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3090881995768342,
+                "top": 0.17637111414903384,
+                "right": 0.6311153024130274,
+                "bottom": 0.3309796891757628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5299068056215024,
+                "top": 0.17637111414903384,
+                "right": 0.7504835802158389,
+                "bottom": 0.3309796891757628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.23177548314348329,
+                "right": 0.3090881995768342,
+                "bottom": 0.3309796891757628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.3090881995768342,
+                "top": 0.23177548314348329,
+                "right": 0.3960505151969702,
+                "bottom": 0.3309796891757628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.3960505151969702,
+                "top": 0.23177548314348329,
+                "right": 0.5299068056215024,
+                "bottom": 0.3309796891757628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5299068056215024,
+                "top": 0.23177548314348329,
+                "right": 0.6311153024130274,
+                "bottom": 0.3309796891757628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6311153024130274,
+                "top": 0.23177548314348329,
+                "right": 0.7504835802158389,
+                "bottom": 0.3309796891757628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.3309796891757628,
+                "right": 0.3090881995768342,
+                "bottom": 0.35863655080590817
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.3090881995768342,
+                "top": 0.3309796891757628,
+                "right": 0.6311153024130274,
+                "bottom": 0.4157191931603883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5299068056215024,
+                "top": 0.3309796891757628,
+                "right": 0.6311153024130274,
+                "bottom": 0.35863655080590817
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6311153024130274,
+                "top": 0.3309796891757628,
+                "right": 0.7504835802158389,
+                "bottom": 0.35863655080590817
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.35863655080590817,
+                "right": 0.3090881995768342,
+                "bottom": 0.4157191931603883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3090881995768342,
+                "top": 0.35863655080590817,
+                "right": 0.3960505151969702,
+                "bottom": 0.4157191931603883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.3960505151969702,
+                "top": 0.35863655080590817,
+                "right": 0.5299068056215024,
+                "bottom": 0.4157191931603883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.5299068056215024,
+                "top": 0.35863655080590817,
+                "right": 0.6311153024130274,
+                "bottom": 0.4157191931603883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.6311153024130274,
+                "top": 0.35863655080590817,
+                "right": 0.7504835802158389,
+                "bottom": 0.4157191931603883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.4157191931603883,
+                "right": 0.3090881995768342,
+                "bottom": 0.4702683433308792
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.3090881995768342,
+                "top": 0.4157191931603883,
+                "right": 0.3960505151969702,
+                "bottom": 0.4702683433308792
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.3960505151969702,
+                "top": 0.4157191931603883,
+                "right": 0.5299068056215024,
+                "bottom": 0.4702683433308792
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5299068056215024,
+                "top": 0.4157191931603883,
+                "right": 0.6311153024130274,
+                "bottom": 0.4702683433308792
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.6311153024130274,
+                "top": 0.4157191931603883,
+                "right": 0.7504835802158389,
+                "bottom": 0.4702683433308792
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.4702683433308792,
+                "right": 0.7504835802158389,
+                "bottom": 0.5791873723055758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.5236172280536451,
+                "right": 0.3090881995768342,
+                "bottom": 0.5791873723055758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.3090881995768342,
+                "top": 0.5236172280536451,
+                "right": 0.3960505151969702,
+                "bottom": 0.5791873723055758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.3960505151969702,
+                "top": 0.5236172280536451,
+                "right": 0.5299068056215024,
+                "bottom": 0.5791873723055758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.5299068056215024,
+                "top": 0.5236172280536451,
+                "right": 0.6311153024130274,
+                "bottom": 0.5791873723055758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.6311153024130274,
+                "top": 0.5236172280536451,
+                "right": 0.7504835802158389,
+                "bottom": 0.5791873723055758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.5791873723055758,
+                "right": 0.3090881995768342,
+                "bottom": 0.6327314049754236
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.3090881995768342,
+                "top": 0.5791873723055758,
+                "right": 0.3960505151969702,
+                "bottom": 0.6327314049754236
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.3960505151969702,
+                "top": 0.5791873723055758,
+                "right": 0.5299068056215024,
+                "bottom": 0.6327314049754236
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.5299068056215024,
+                "top": 0.5791873723055758,
+                "right": 0.6311153024130274,
+                "bottom": 0.6327314049754236
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.6311153024130274,
+                "top": 0.5791873723055758,
+                "right": 0.7504835802158389,
+                "bottom": 0.6327314049754236
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.6327314049754236,
+                "right": 0.3090881995768342,
+                "bottom": 0.687192421850213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.3090881995768342,
+                "top": 0.6327314049754236,
+                "right": 0.3960505151969702,
+                "bottom": 0.687192421850213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.3960505151969702,
+                "top": 0.6327314049754236,
+                "right": 0.5299068056215024,
+                "bottom": 0.687192421850213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.5299068056215024,
+                "top": 0.6327314049754236,
+                "right": 0.6311153024130274,
+                "bottom": 0.687192421850213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.6311153024130274,
+                "top": 0.6327314049754236,
+                "right": 0.7504835802158389,
+                "bottom": 0.687192421850213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.687192421850213,
+                "right": 0.3090881995768342,
+                "bottom": 0.7412906730655706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.3090881995768342,
+                "top": 0.687192421850213,
+                "right": 0.3960505151969702,
+                "bottom": 0.7412906730655706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.3960505151969702,
+                "top": 0.687192421850213,
+                "right": 0.5299068056215024,
+                "bottom": 0.7412906730655706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.5299068056215024,
+                "top": 0.687192421850213,
+                "right": 0.6311153024130274,
+                "bottom": 0.7412906730655706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.6311153024130274,
+                "top": 0.687192421850213,
+                "right": 0.7504835802158389,
+                "bottom": 0.7412906730655706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.10700732431783333,
+                "top": 0.7412906730655706,
+                "right": 0.3090881995768342,
+                "bottom": 0.7921734903164008
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.3090881995768342,
+                "top": 0.7412906730655706,
+                "right": 0.3960505151969702,
+                "bottom": 0.7921734903164008
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.3960505151969702,
+                "top": 0.7412906730655706,
+                "right": 0.5299068056215024,
+                "bottom": 0.7921734903164008
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.5299068056215024,
+                "top": 0.7412906730655706,
+                "right": 0.6311153024130274,
+                "bottom": 0.7921734903164008
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.6311153024130274,
+                "top": 0.7412906730655706,
+                "right": 0.7504835802158389,
+                "bottom": 0.7921734903164008
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "cbe2c1eb-39c4-4d79-b6c3-cf1cd16c315f": {
+            "box": {
+                "left": 0.892723023891449,
+                "top": 0.8971640467643738,
+                "right": 0.9140518307685852,
+                "bottom": 0.920988142490387
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "059313e1-746d-453e-887b-1611b409ae94": {
+            "box": {
+                "left": 0.2784014344215393,
+                "top": 0.9719501733779907,
+                "right": 0.7218452095985413,
+                "bottom": 0.9999858140945435
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "aee9821d-8c8c-439c-a1c2-f0f1086726e8": {
+            "box": {
+                "left": 0.008903415873646736,
+                "top": 0.8340753316879272,
+                "right": 0.029483752325177193,
+                "bottom": 0.9677637815475464
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yscw0217_208.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6972,
+        "credit_usage": 3.0,
+        "job_id": "msdds3ekmd02204zn2nrw7074",
+        "version": "dpt-2-20250919"
+    }
+}

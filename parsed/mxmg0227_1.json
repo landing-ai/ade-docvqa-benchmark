@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='f7edfd33-d381-4ea6-8c63-3098adfb37ae'></a>\n\nDepartment of the Army\n\n<a id='6e07c94e-bc46-480c-8d4a-503e4c92b050'></a>\n\n<::logo: Washington University\nWashington University\nLindell & Skinker Boulevards\nSt. Louis, Missouri 63130\nThe text is presented in a simple, dark, typewritten font against a light, textured background.::>\n\n<a id='34c345b6-153d-459e-8e7d-515ac09eb88e'></a>\n\nContract No.: BA-69-007-NB-1024\n\nTarget/Estimated Costs: 207,785.00\n\n<a id='e5326789-53f7-46fb-8e26-6ea9f19afc06'></a>\n\n<::logo: \nAnalysis of Claimed Current and Cumulative Costs and Fee Earned\nThe text is presented in a faded, grey, serif font on a light grey, textured background.::>\n\n<a id='024c912a-b732-4530-aaaa-56723c1fe8f8'></a>\n\n<::logo: Unknown Amount for Current Period Billed July 1967 Cumulative Am't From Inception To Date of This Billing Text is presented in a typewriter-like font on a textured, light gray background, with an underline beneath 'Billing'.::>\n\n<a id='e24c1f83-34a2-462e-9ea0-7edf74f42d80'></a>\n\n<table><thead><tr><th>Major Cost Elements:</th><th>Col&nbsp;1</th><th>Col&nbsp;2</th></tr></thead><tbody><tr><td>Direct Salaries</td><td>735.00</td><td>89,450.18</td></tr><tr><td>Direct Materials</td><td>68.24</td><td>20,506.65</td></tr><tr><td>Freight</td><td></td><td>18.62</td></tr><tr><td>Equipment</td><td></td><td>17,830.45</td></tr><tr><td>Other Direct Costs</td><td>22.83</td><td>9,237.80</td></tr><tr><td>Overhead</td><td>396.90</td><td>43,916.01</td></tr></tbody><tfoot><tr><td>Total Amounts Claimed</td><td>1,222.97</td><td>180,959.71</td></tr><tr><td>Less: Contract Reserve Withheld</td><td></td><td>(2,077.65)</td></tr><tr><td></td><td></td><td>178,881.86</td></tr></tfoot></table>\n\n<a id='f3d80741-ea83-4348-b6d7-281f62773604'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mxmg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='f7edfd33-d381-4ea6-8c63-3098adfb37ae'></a>\n\nDepartment of the Army",
+            "type": "text",
+            "id": "f7edfd33-d381-4ea6-8c63-3098adfb37ae",
+            "grounding": {
+                "box": {
+                    "left": 0.08306309580802917,
+                    "top": 0.14090994000434875,
+                    "right": 0.3041125237941742,
+                    "bottom": 0.1641562581062317
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6e07c94e-bc46-480c-8d4a-503e4c92b050'></a>\n\n<::logo: Washington University\nWashington University\nLindell & Skinker Boulevards\nSt. Louis, Missouri 63130\nThe text is presented in a simple, dark, typewritten font against a light, textured background.::>",
+            "type": "logo",
+            "id": "6e07c94e-bc46-480c-8d4a-503e4c92b050",
+            "grounding": {
+                "box": {
+                    "left": 0.09943635761737823,
+                    "top": 0.2119370549917221,
+                    "right": 0.3785143494606018,
+                    "bottom": 0.26457640528678894
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='34c345b6-153d-459e-8e7d-515ac09eb88e'></a>\n\nContract No.: BA-69-007-NB-1024\n\nTarget/Estimated Costs: 207,785.00",
+            "type": "text",
+            "id": "34c345b6-153d-459e-8e7d-515ac09eb88e",
+            "grounding": {
+                "box": {
+                    "left": 0.4951601028442383,
+                    "top": 0.21319833397865295,
+                    "right": 0.8838142156600952,
+                    "bottom": 0.24956446886062622
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e5326789-53f7-46fb-8e26-6ea9f19afc06'></a>\n\n<::logo: \nAnalysis of Claimed Current and Cumulative Costs and Fee Earned\nThe text is presented in a faded, grey, serif font on a light grey, textured background.::>",
+            "type": "logo",
+            "id": "e5326789-53f7-46fb-8e26-6ea9f19afc06",
+            "grounding": {
+                "box": {
+                    "left": 0.256148099899292,
+                    "top": 0.28473517298698425,
+                    "right": 0.5718340277671814,
+                    "bottom": 0.3238324820995331
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='024c912a-b732-4530-aaaa-56723c1fe8f8'></a>\n\n<::logo: Unknown Amount for Current Period Billed July 1967 Cumulative Am't From Inception To Date of This Billing Text is presented in a typewriter-like font on a textured, light gray background, with an underline beneath 'Billing'.::>",
+            "type": "logo",
+            "id": "024c912a-b732-4530-aaaa-56723c1fe8f8",
+            "grounding": {
+                "box": {
+                    "left": 0.5381260514259338,
+                    "top": 0.34201881289482117,
+                    "right": 0.9076369404792786,
+                    "bottom": 0.4150110185146332
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e24c1f83-34a2-462e-9ea0-7edf74f42d80'></a>\n\n<table><thead><tr><th>Major Cost Elements:</th><th>Col&nbsp;1</th><th>Col&nbsp;2</th></tr></thead><tbody><tr><td>Direct Salaries</td><td>735.00</td><td>89,450.18</td></tr><tr><td>Direct Materials</td><td>68.24</td><td>20,506.65</td></tr><tr><td>Freight</td><td></td><td>18.62</td></tr><tr><td>Equipment</td><td></td><td>17,830.45</td></tr><tr><td>Other Direct Costs</td><td>22.83</td><td>9,237.80</td></tr><tr><td>Overhead</td><td>396.90</td><td>43,916.01</td></tr></tbody><tfoot><tr><td>Total Amounts Claimed</td><td>1,222.97</td><td>180,959.71</td></tr><tr><td>Less: Contract Reserve Withheld</td><td></td><td>(2,077.65)</td></tr><tr><td></td><td></td><td>178,881.86</td></tr></tfoot></table>",
+            "type": "table",
+            "id": "e24c1f83-34a2-462e-9ea0-7edf74f42d80",
+            "grounding": {
+                "box": {
+                    "left": 0.09647724032402039,
+                    "top": 0.4328920543193817,
+                    "right": 0.8731499910354614,
+                    "bottom": 0.6507381200790405
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f3d80741-ea83-4348-b6d7-281f62773604'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mxmg0227",
+            "type": "marginalia",
+            "id": "f3d80741-ea83-4348-b6d7-281f62773604",
+            "grounding": {
+                "box": {
+                    "left": 0.21979066729545593,
+                    "top": 0.9791043996810913,
+                    "right": 0.7863579988479614,
+                    "bottom": 0.9998475313186646
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='f7edfd33-d381-4ea6-8c63-3098adfb37ae'></a>\n\nDepartment of the Army\n\n<a id='6e07c94e-bc46-480c-8d4a-503e4c92b050'></a>\n\n<::logo: Washington University\nWashington University\nLindell & Skinker Boulevards\nSt. Louis, Missouri 63130\nThe text is presented in a simple, dark, typewritten font against a light, textured background.::>\n\n<a id='34c345b6-153d-459e-8e7d-515ac09eb88e'></a>\n\nContract No.: BA-69-007-NB-1024\n\nTarget/Estimated Costs: 207,785.00\n\n<a id='e5326789-53f7-46fb-8e26-6ea9f19afc06'></a>\n\n<::logo: \nAnalysis of Claimed Current and Cumulative Costs and Fee Earned\nThe text is presented in a faded, grey, serif font on a light grey, textured background.::>\n\n<a id='024c912a-b732-4530-aaaa-56723c1fe8f8'></a>\n\n<::logo: Unknown Amount for Current Period Billed July 1967 Cumulative Am't From Inception To Date of This Billing Text is presented in a typewriter-like font on a textured, light gray background, with an underline beneath 'Billing'.::>\n\n<a id='e24c1f83-34a2-462e-9ea0-7edf74f42d80'></a>\n\n<table><thead><tr><th>Major Cost Elements:</th><th>Col&nbsp;1</th><th>Col&nbsp;2</th></tr></thead><tbody><tr><td>Direct Salaries</td><td>735.00</td><td>89,450.18</td></tr><tr><td>Direct Materials</td><td>68.24</td><td>20,506.65</td></tr><tr><td>Freight</td><td></td><td>18.62</td></tr><tr><td>Equipment</td><td></td><td>17,830.45</td></tr><tr><td>Other Direct Costs</td><td>22.83</td><td>9,237.80</td></tr><tr><td>Overhead</td><td>396.90</td><td>43,916.01</td></tr></tbody><tfoot><tr><td>Total Amounts Claimed</td><td>1,222.97</td><td>180,959.71</td></tr><tr><td>Less: Contract Reserve Withheld</td><td></td><td>(2,077.65)</td></tr><tr><td></td><td></td><td>178,881.86</td></tr></tfoot></table>\n\n<a id='f3d80741-ea83-4348-b6d7-281f62773604'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mxmg0227",
+            "chunks": [
+                "f7edfd33-d381-4ea6-8c63-3098adfb37ae",
+                "6e07c94e-bc46-480c-8d4a-503e4c92b050",
+                "34c345b6-153d-459e-8e7d-515ac09eb88e",
+                "e5326789-53f7-46fb-8e26-6ea9f19afc06",
+                "024c912a-b732-4530-aaaa-56723c1fe8f8",
+                "e24c1f83-34a2-462e-9ea0-7edf74f42d80",
+                "f3d80741-ea83-4348-b6d7-281f62773604"
+            ]
+        }
+    ],
+    "grounding": {
+        "f7edfd33-d381-4ea6-8c63-3098adfb37ae": {
+            "box": {
+                "left": 0.08306309580802917,
+                "top": 0.14090994000434875,
+                "right": 0.3041125237941742,
+                "bottom": 0.1641562581062317
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6e07c94e-bc46-480c-8d4a-503e4c92b050": {
+            "box": {
+                "left": 0.09943635761737823,
+                "top": 0.2119370549917221,
+                "right": 0.3785143494606018,
+                "bottom": 0.26457640528678894
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "34c345b6-153d-459e-8e7d-515ac09eb88e": {
+            "box": {
+                "left": 0.4951601028442383,
+                "top": 0.21319833397865295,
+                "right": 0.8838142156600952,
+                "bottom": 0.24956446886062622
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e5326789-53f7-46fb-8e26-6ea9f19afc06": {
+            "box": {
+                "left": 0.256148099899292,
+                "top": 0.28473517298698425,
+                "right": 0.5718340277671814,
+                "bottom": 0.3238324820995331
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "024c912a-b732-4530-aaaa-56723c1fe8f8": {
+            "box": {
+                "left": 0.5381260514259338,
+                "top": 0.34201881289482117,
+                "right": 0.9076369404792786,
+                "bottom": 0.4150110185146332
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "e24c1f83-34a2-462e-9ea0-7edf74f42d80": {
+            "box": {
+                "left": 0.09647724032402039,
+                "top": 0.4328920543193817,
+                "right": 0.8731499910354614,
+                "bottom": 0.6507381200790405
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "f3d80741-ea83-4348-b6d7-281f62773604": {
+            "box": {
+                "left": 0.21979066729545593,
+                "top": 0.9791043996810913,
+                "right": 0.7863579988479614,
+                "bottom": 0.9998475313186646
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "mxmg0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 24211,
+        "credit_usage": 3.0,
+        "job_id": "p9fkzvhq3i0hd40oeu34cy8ff",
+        "version": "dpt-2-20250919"
+    }
+}

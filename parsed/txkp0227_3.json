@@ -1,0 +1,403 @@
+{
+    "markdown": "<a id='42461666-0b52-4c21-9ef7-ad079d99b3c3'></a>\n\n<::logo: Unknown\nNF\nThe logo features stylized, connected letters \"NF\" in white, enclosed within a white circle, set against a dark, textured square background.::>\n\n<a id='8ff46f6f-84e7-4784-a2bd-96ceb8cc31b1'></a>\n\nNov. 13-14, 1981\nSan Francisco\nWere Institute\n\n<a id='300370ac-ed6b-498a-beb0-2ee2e036870f'></a>\n\nStatement of Expenses\nDr. William J. Darby\n\n<a id='c602fb3e-9d42-4ba5-902f-65170009c5a1'></a>\n\nWine Institute Symposium\nSan Francisco\nNovember 13-14, 1981\n\n<a id='d5e8cd79-66a7-4ed7-bcc9-4a428899f714'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Air Fare: New York - San Francisco - New York................$ 400.00</td></tr>\n<tr><td id=\"0-3\">Hotel: St. Francis................................</td><td id=\"0-4\">386.47</td></tr>\n<tr><td id=\"0-5\">Taxi to JFK Airport, New York.....................</td><td id=\"0-6\">28.00</td></tr>\n<tr><td id=\"0-7\">Taxi, San Francisco Airport to St. Francis Hotel..</td><td id=\"0-8\">23.00</td></tr>\n<tr><td id=\"0-9\">Taxi, St. Francis Hotel to Medical Center.........</td><td id=\"0-a\">5.00</td></tr>\n<tr><td id=\"0-b\">Taxi, Medical Center to St. Francis Hotel</td><td id=\"0-c\">4.50</td></tr>\n<tr><td id=\"0-d\">Taxi, St. Francis Hotel to San Francisco Airport</td><td id=\"0-e\">23.00</td></tr>\n<tr><td id=\"0-f\">Taxi from JFK Airport, New York</td><td id=\"0-g\">19.00</td></tr>\n<tr><td id=\"0-h\">Gratuities</td><td id=\"0-i\">6.00</td></tr>\n<tr><td id=\"0-j\">TOTAL</td><td id=\"0-k\">$ 894.97</td></tr>\n</table>\n\n<a id='e388ad90-4746-454e-8957-83643def6124'></a>\n\n---\nWilliam J. Darby\nNovember 18, 1981\n\n<a id='a627c977-febe-455c-aa4d-1128b7bd585c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/txkp0227",
+    "chunks": [
+        {
+            "markdown": "<a id='42461666-0b52-4c21-9ef7-ad079d99b3c3'></a>\n\n<::logo: Unknown\nNF\nThe logo features stylized, connected letters \"NF\" in white, enclosed within a white circle, set against a dark, textured square background.::>",
+            "type": "logo",
+            "id": "42461666-0b52-4c21-9ef7-ad079d99b3c3",
+            "grounding": {
+                "box": {
+                    "left": 0.08639480173587799,
+                    "top": 0.049412183463573456,
+                    "right": 0.18189556896686554,
+                    "bottom": 0.12143806368112564
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ff46f6f-84e7-4784-a2bd-96ceb8cc31b1'></a>\n\nNov. 13-14, 1981\nSan Francisco\nWere Institute",
+            "type": "text",
+            "id": "8ff46f6f-84e7-4784-a2bd-96ceb8cc31b1",
+            "grounding": {
+                "box": {
+                    "left": 0.7396596670150757,
+                    "top": 0.010889984667301178,
+                    "right": 0.964475154876709,
+                    "bottom": 0.07802717387676239
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='300370ac-ed6b-498a-beb0-2ee2e036870f'></a>\n\nStatement of Expenses\nDr. William J. Darby",
+            "type": "text",
+            "id": "300370ac-ed6b-498a-beb0-2ee2e036870f",
+            "grounding": {
+                "box": {
+                    "left": 0.13372166454792023,
+                    "top": 0.20185011625289917,
+                    "right": 0.35161280632019043,
+                    "bottom": 0.23775115609169006
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c602fb3e-9d42-4ba5-902f-65170009c5a1'></a>\n\nWine Institute Symposium\nSan Francisco\nNovember 13-14, 1981",
+            "type": "text",
+            "id": "c602fb3e-9d42-4ba5-902f-65170009c5a1",
+            "grounding": {
+                "box": {
+                    "left": 0.1329658329486847,
+                    "top": 0.26212233304977417,
+                    "right": 0.37911829352378845,
+                    "bottom": 0.3119407892227173
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d5e8cd79-66a7-4ed7-bcc9-4a428899f714'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Air Fare: New York - San Francisco - New York................$ 400.00</td></tr>\n<tr><td id=\"0-3\">Hotel: St. Francis................................</td><td id=\"0-4\">386.47</td></tr>\n<tr><td id=\"0-5\">Taxi to JFK Airport, New York.....................</td><td id=\"0-6\">28.00</td></tr>\n<tr><td id=\"0-7\">Taxi, San Francisco Airport to St. Francis Hotel..</td><td id=\"0-8\">23.00</td></tr>\n<tr><td id=\"0-9\">Taxi, St. Francis Hotel to Medical Center.........</td><td id=\"0-a\">5.00</td></tr>\n<tr><td id=\"0-b\">Taxi, Medical Center to St. Francis Hotel</td><td id=\"0-c\">4.50</td></tr>\n<tr><td id=\"0-d\">Taxi, St. Francis Hotel to San Francisco Airport</td><td id=\"0-e\">23.00</td></tr>\n<tr><td id=\"0-f\">Taxi from JFK Airport, New York</td><td id=\"0-g\">19.00</td></tr>\n<tr><td id=\"0-h\">Gratuities</td><td id=\"0-i\">6.00</td></tr>\n<tr><td id=\"0-j\">TOTAL</td><td id=\"0-k\">$ 894.97</td></tr>\n</table>",
+            "type": "table",
+            "id": "d5e8cd79-66a7-4ed7-bcc9-4a428899f714",
+            "grounding": {
+                "box": {
+                    "left": 0.1322486698627472,
+                    "top": 0.3637467324733734,
+                    "right": 0.8564945459365845,
+                    "bottom": 0.6526224613189697
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e388ad90-4746-454e-8957-83643def6124'></a>\n\n---\nWilliam J. Darby\nNovember 18, 1981",
+            "type": "text",
+            "id": "e388ad90-4746-454e-8957-83643def6124",
+            "grounding": {
+                "box": {
+                    "left": 0.13238006830215454,
+                    "top": 0.7471970319747925,
+                    "right": 0.5366880297660828,
+                    "bottom": 0.7870625257492065
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a627c977-febe-455c-aa4d-1128b7bd585c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/txkp0227",
+            "type": "text",
+            "id": "a627c977-febe-455c-aa4d-1128b7bd585c",
+            "grounding": {
+                "box": {
+                    "left": 0.22469016909599304,
+                    "top": 0.9780732989311218,
+                    "right": 0.7746500968933105,
+                    "bottom": 0.9989835619926453
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='42461666-0b52-4c21-9ef7-ad079d99b3c3'></a>\n\n<::logo: Unknown\nNF\nThe logo features stylized, connected letters \"NF\" in white, enclosed within a white circle, set against a dark, textured square background.::>\n\n<a id='8ff46f6f-84e7-4784-a2bd-96ceb8cc31b1'></a>\n\nNov. 13-14, 1981\nSan Francisco\nWere Institute\n\n<a id='300370ac-ed6b-498a-beb0-2ee2e036870f'></a>\n\nStatement of Expenses\nDr. William J. Darby\n\n<a id='c602fb3e-9d42-4ba5-902f-65170009c5a1'></a>\n\nWine Institute Symposium\nSan Francisco\nNovember 13-14, 1981\n\n<a id='d5e8cd79-66a7-4ed7-bcc9-4a428899f714'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Air Fare: New York - San Francisco - New York................$ 400.00</td></tr>\n<tr><td id=\"0-3\">Hotel: St. Francis................................</td><td id=\"0-4\">386.47</td></tr>\n<tr><td id=\"0-5\">Taxi to JFK Airport, New York.....................</td><td id=\"0-6\">28.00</td></tr>\n<tr><td id=\"0-7\">Taxi, San Francisco Airport to St. Francis Hotel..</td><td id=\"0-8\">23.00</td></tr>\n<tr><td id=\"0-9\">Taxi, St. Francis Hotel to Medical Center.........</td><td id=\"0-a\">5.00</td></tr>\n<tr><td id=\"0-b\">Taxi, Medical Center to St. Francis Hotel</td><td id=\"0-c\">4.50</td></tr>\n<tr><td id=\"0-d\">Taxi, St. Francis Hotel to San Francisco Airport</td><td id=\"0-e\">23.00</td></tr>\n<tr><td id=\"0-f\">Taxi from JFK Airport, New York</td><td id=\"0-g\">19.00</td></tr>\n<tr><td id=\"0-h\">Gratuities</td><td id=\"0-i\">6.00</td></tr>\n<tr><td id=\"0-j\">TOTAL</td><td id=\"0-k\">$ 894.97</td></tr>\n</table>\n\n<a id='e388ad90-4746-454e-8957-83643def6124'></a>\n\n---\nWilliam J. Darby\nNovember 18, 1981\n\n<a id='a627c977-febe-455c-aa4d-1128b7bd585c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/txkp0227",
+            "chunks": [
+                "42461666-0b52-4c21-9ef7-ad079d99b3c3",
+                "8ff46f6f-84e7-4784-a2bd-96ceb8cc31b1",
+                "300370ac-ed6b-498a-beb0-2ee2e036870f",
+                "c602fb3e-9d42-4ba5-902f-65170009c5a1",
+                "d5e8cd79-66a7-4ed7-bcc9-4a428899f714",
+                "e388ad90-4746-454e-8957-83643def6124",
+                "a627c977-febe-455c-aa4d-1128b7bd585c"
+            ]
+        }
+    ],
+    "grounding": {
+        "42461666-0b52-4c21-9ef7-ad079d99b3c3": {
+            "box": {
+                "left": 0.08639480173587799,
+                "top": 0.049412183463573456,
+                "right": 0.18189556896686554,
+                "bottom": 0.12143806368112564
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "8ff46f6f-84e7-4784-a2bd-96ceb8cc31b1": {
+            "box": {
+                "left": 0.7396596670150757,
+                "top": 0.010889984667301178,
+                "right": 0.964475154876709,
+                "bottom": 0.07802717387676239
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "300370ac-ed6b-498a-beb0-2ee2e036870f": {
+            "box": {
+                "left": 0.13372166454792023,
+                "top": 0.20185011625289917,
+                "right": 0.35161280632019043,
+                "bottom": 0.23775115609169006
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c602fb3e-9d42-4ba5-902f-65170009c5a1": {
+            "box": {
+                "left": 0.1329658329486847,
+                "top": 0.26212233304977417,
+                "right": 0.37911829352378845,
+                "bottom": 0.3119407892227173
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d5e8cd79-66a7-4ed7-bcc9-4a428899f714": {
+            "box": {
+                "left": 0.1322486698627472,
+                "top": 0.3637467324733734,
+                "right": 0.8564945459365845,
+                "bottom": 0.6526224613189697
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.3647621301863956,
+                "right": 0.8497297957983001,
+                "bottom": 0.6526164521199842
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.3647621301863956,
+                "right": 0.8504548525499409,
+                "bottom": 0.4171013814703106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.3853974459598355,
+                "right": 0.7716146868715104,
+                "bottom": 0.4171013814703106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.7716146868715104,
+                "top": 0.3853974459598355,
+                "right": 0.8504548525499409,
+                "bottom": 0.4171013814703106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.4171013814703106,
+                "right": 0.7716146868715104,
+                "bottom": 0.4460734473084571
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.7716146868715104,
+                "top": 0.4171013814703106,
+                "right": 0.8504548525499409,
+                "bottom": 0.4460734473084571
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.4460734473084571,
+                "right": 0.7716146868715104,
+                "bottom": 0.47671222647124534
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7716146868715104,
+                "top": 0.4460734473084571,
+                "right": 0.8504548525499409,
+                "bottom": 0.47671222647124534
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.47671222647124534,
+                "right": 0.7716146868715104,
+                "bottom": 0.5059787731917691
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.7716146868715104,
+                "top": 0.47671222647124534,
+                "right": 0.8504548525499409,
+                "bottom": 0.5059787731917691
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.5059787731917691,
+                "right": 0.7716146868715104,
+                "bottom": 0.535825638072776
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7716146868715104,
+                "top": 0.5059787731917691,
+                "right": 0.8504548525499409,
+                "bottom": 0.535825638072776
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.535825638072776,
+                "right": 0.7716146868715104,
+                "bottom": 0.5663803831506105
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.7716146868715104,
+                "top": 0.535825638072776,
+                "right": 0.8504548525499409,
+                "bottom": 0.5663803831506105
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.5663803831506105,
+                "right": 0.7716146868715104,
+                "bottom": 0.596170220905428
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7716146868715104,
+                "top": 0.5663803831506105,
+                "right": 0.8504548525499409,
+                "bottom": 0.596170220905428
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.596170220905428,
+                "right": 0.7716146868715104,
+                "bottom": 0.6204776890768997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.7716146868715104,
+                "top": 0.596170220905428,
+                "right": 0.8504548525499409,
+                "bottom": 0.6204776890768997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.13744498118903006,
+                "top": 0.6204776890768997,
+                "right": 0.7716146868715104,
+                "bottom": 0.6526164521199842
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.7716146868715104,
+                "top": 0.6204776890768997,
+                "right": 0.8504548525499409,
+                "bottom": 0.6526164521199842
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "e388ad90-4746-454e-8957-83643def6124": {
+            "box": {
+                "left": 0.13238006830215454,
+                "top": 0.7471970319747925,
+                "right": 0.5366880297660828,
+                "bottom": 0.7870625257492065
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a627c977-febe-455c-aa4d-1128b7bd585c": {
+            "box": {
+                "left": 0.22469016909599304,
+                "top": 0.9780732989311218,
+                "right": 0.7746500968933105,
+                "bottom": 0.9989835619926453
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "txkp0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5459,
+        "credit_usage": 3.0,
+        "job_id": "dm6ulcjjbb1e5smz6x7xtdxhf",
+        "version": "dpt-2-20250919"
+    }
+}

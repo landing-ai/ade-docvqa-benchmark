@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='991c69ed-4727-46a1-99de-0df868d991e7'></a>\n\n<::chart\n  title: \"Average increases in weight of the two experimental groups (A and B) and of the unsupplemented control group (C)\"\n  x_axis: \"WEEKS\" (0, 1, 2, 3, 4, 5, 6)\n  y_axis: \"CUMULATIVE INCREASE IN WEIGHT IN GRAMS\" (0, 100, 200, 300, 400, 500)\n  series:\n    - name: \"GROUP A 42% POWDER\" (solid line with circles)\n      data: [(0, 0), (1, 175), (2, 350), (3, 405), (4, 410), (5, 450), (6, 500)]\n    - name: \"GROUP B 21% POWDER\" (dashed line with circles)\n      data: [(0, 0), (1, 75), (2, 90), (3, 280), (4, 205), (5, 270), (6, 385)]\n    - name: \"GROUP C CONTROL\" (dashed line with triangles)\n      data: [(0, 0), (1, 20), (2, 170), (3, 310), (4, 75), (5, 180), (6, 240)]\n::>\nFig. 5 Average increases in weight of the two experimental groups (A and B)\nand of the unsupplemented control group (C).\n\n<a id='4dcd8345-95d9-4143-a16f-85772e06c7d1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xkwc0228",
+    "chunks": [
+        {
+            "markdown": "<a id='991c69ed-4727-46a1-99de-0df868d991e7'></a>\n\n<::chart\n  title: \"Average increases in weight of the two experimental groups (A and B) and of the unsupplemented control group (C)\"\n  x_axis: \"WEEKS\" (0, 1, 2, 3, 4, 5, 6)\n  y_axis: \"CUMULATIVE INCREASE IN WEIGHT IN GRAMS\" (0, 100, 200, 300, 400, 500)\n  series:\n    - name: \"GROUP A 42% POWDER\" (solid line with circles)\n      data: [(0, 0), (1, 175), (2, 350), (3, 405), (4, 410), (5, 450), (6, 500)]\n    - name: \"GROUP B 21% POWDER\" (dashed line with circles)\n      data: [(0, 0), (1, 75), (2, 90), (3, 280), (4, 205), (5, 270), (6, 385)]\n    - name: \"GROUP C CONTROL\" (dashed line with triangles)\n      data: [(0, 0), (1, 20), (2, 170), (3, 310), (4, 75), (5, 180), (6, 240)]\n::>\nFig. 5 Average increases in weight of the two experimental groups (A and B)\nand of the unsupplemented control group (C).",
+            "type": "figure",
+            "id": "991c69ed-4727-46a1-99de-0df868d991e7",
+            "grounding": {
+                "box": {
+                    "left": 0.13627418875694275,
+                    "top": 0.16743764281272888,
+                    "right": 0.845841646194458,
+                    "bottom": 0.8129823207855225
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4dcd8345-95d9-4143-a16f-85772e06c7d1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xkwc0228",
+            "type": "marginalia",
+            "id": "4dcd8345-95d9-4143-a16f-85772e06c7d1",
+            "grounding": {
+                "box": {
+                    "left": 0.21967938542366028,
+                    "top": 0.9767829775810242,
+                    "right": 0.7815349102020264,
+                    "bottom": 0.9984655976295471
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='991c69ed-4727-46a1-99de-0df868d991e7'></a>\n\n<::chart\n  title: \"Average increases in weight of the two experimental groups (A and B) and of the unsupplemented control group (C)\"\n  x_axis: \"WEEKS\" (0, 1, 2, 3, 4, 5, 6)\n  y_axis: \"CUMULATIVE INCREASE IN WEIGHT IN GRAMS\" (0, 100, 200, 300, 400, 500)\n  series:\n    - name: \"GROUP A 42% POWDER\" (solid line with circles)\n      data: [(0, 0), (1, 175), (2, 350), (3, 405), (4, 410), (5, 450), (6, 500)]\n    - name: \"GROUP B 21% POWDER\" (dashed line with circles)\n      data: [(0, 0), (1, 75), (2, 90), (3, 280), (4, 205), (5, 270), (6, 385)]\n    - name: \"GROUP C CONTROL\" (dashed line with triangles)\n      data: [(0, 0), (1, 20), (2, 170), (3, 310), (4, 75), (5, 180), (6, 240)]\n::>\nFig. 5 Average increases in weight of the two experimental groups (A and B)\nand of the unsupplemented control group (C).\n\n<a id='4dcd8345-95d9-4143-a16f-85772e06c7d1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xkwc0228",
+            "chunks": [
+                "991c69ed-4727-46a1-99de-0df868d991e7",
+                "4dcd8345-95d9-4143-a16f-85772e06c7d1"
+            ]
+        }
+    ],
+    "grounding": {
+        "991c69ed-4727-46a1-99de-0df868d991e7": {
+            "box": {
+                "left": 0.13627418875694275,
+                "top": 0.16743764281272888,
+                "right": 0.845841646194458,
+                "bottom": 0.8129823207855225
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "4dcd8345-95d9-4143-a16f-85772e06c7d1": {
+            "box": {
+                "left": 0.21967938542366028,
+                "top": 0.9767829775810242,
+                "right": 0.7815349102020264,
+                "bottom": 0.9984655976295471
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xkwc0228_25.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9049,
+        "credit_usage": 3.0,
+        "job_id": "heogwu717vgeyyhh7m0xnaeib",
+        "version": "dpt-2-20250919"
+    }
+}

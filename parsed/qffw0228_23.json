@@ -1,0 +1,773 @@
+{
+    "markdown": "<a id='62d487c3-d278-420d-beed-6b89095439f4'></a>\n\nTable 17. Relative body fat values for males and females in various sports.*\n\n<a id='091ff7bd-daaa-4a5c-a02a-cdcf5e829fd3'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Sport</td><td id=\"0-3\">Males fat %</td><td id=\"0-4\">Females fat %</td></tr>\n<tr><td id=\"0-5\">Baseball/Softball</td><td id=\"0-6\">12-14</td><td id=\"0-7\">16-26</td></tr>\n<tr><td id=\"0-8\">Basketball</td><td id=\"0-9\">7-10</td><td id=\"0-a\">16-27</td></tr>\n<tr><td id=\"0-b\">Football</td><td id=\"0-c\">8-18</td><td id=\"0-d\">--</td></tr>\n<tr><td id=\"0-e\">Gymnastics</td><td id=\"0-f\">4-6</td><td id=\"0-g\">9-15</td></tr>\n<tr><td id=\"0-h\">Ice Hockey</td><td id=\"0-i\">13-15</td><td id=\"0-j\">\"\"</td></tr>\n<tr><td id=\"0-k\">Jockeys</td><td id=\"0-l\">12-15</td><td id=\"0-m\">\"\"</td></tr>\n<tr><td id=\"0-n\">Skiing</td><td id=\"0-o\">7-14</td><td id=\"0-p\">18-20</td></tr>\n<tr><td id=\"0-q\">Soccer</td><td id=\"0-r\">9-12</td><td id=\"0-s\">\"\"</td></tr>\n<tr><td id=\"0-t\">Speed Skating</td><td id=\"0-u\">10-12</td><td id=\"0-v\">\"\"</td></tr>\n<tr><td id=\"0-w\">Swimming</td><td id=\"0-x\">5-10</td><td id=\"0-y\">14-26</td></tr>\n<tr><td id=\"0-z\">Track and Field</td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n<tr><td id=\"0-C\">Sprinters</td><td id=\"0-D\">6- 9</td><td id=\"0-E\">8-20</td></tr>\n<tr><td id=\"0-F\">Middle Distance Runners</td><td id=\"0-G\">6-12</td><td id=\"0-H\">8-16</td></tr>\n<tr><td id=\"0-I\">Distance Runners</td><td id=\"0-J\">4- 8</td><td id=\"0-K\">6-12</td></tr>\n<tr><td id=\"0-L\">Discus</td><td id=\"0-M\">14-18</td><td id=\"0-N\">16-24.</td></tr>\n<tr><td id=\"0-O\">Shot Put</td><td id=\"0-P\">14-18</td><td id=\"0-Q\">20-30</td></tr>\n<tr><td id=\"0-R\">Jumpers and Hurdlers</td><td id=\"0-S\">6- 9</td><td id=\"0-T\">8-16</td></tr>\n<tr><td id=\"0-U\">Tennis</td><td id=\"0-V\">14-16</td><td id=\"0-W\">18-22</td></tr>\n<tr><td id=\"0-X\">Volleyball</td><td id=\"0-Y\">8-14</td><td id=\"0-Z\">16-26</td></tr>\n<tr><td id=\"0-10\">Weighlifting</td><td id=\"0-11\">8-16</td><td id=\"0-12\">\"\"</td></tr>\n<tr><td id=\"0-13\">Wrestling</td><td id=\"0-14\">4-12</td><td id=\"0-15\">\"\"</td></tr>\n</table>\n\n<a id='a30b9ab4-dfcc-46f7-a47f-beb7c9f01556'></a>\n\n* Reprinted with permission from Wilmore.3",
+    "chunks": [
+        {
+            "markdown": "<a id='62d487c3-d278-420d-beed-6b89095439f4'></a>\n\nTable 17. Relative body fat values for males and females in various sports.*",
+            "type": "marginalia",
+            "id": "62d487c3-d278-420d-beed-6b89095439f4",
+            "grounding": {
+                "box": {
+                    "left": 0.1241997480392456,
+                    "top": 0.1656906008720398,
+                    "right": 0.8722952008247375,
+                    "bottom": 0.1895829439163208
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='091ff7bd-daaa-4a5c-a02a-cdcf5e829fd3'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Sport</td><td id=\"0-3\">Males fat %</td><td id=\"0-4\">Females fat %</td></tr>\n<tr><td id=\"0-5\">Baseball/Softball</td><td id=\"0-6\">12-14</td><td id=\"0-7\">16-26</td></tr>\n<tr><td id=\"0-8\">Basketball</td><td id=\"0-9\">7-10</td><td id=\"0-a\">16-27</td></tr>\n<tr><td id=\"0-b\">Football</td><td id=\"0-c\">8-18</td><td id=\"0-d\">--</td></tr>\n<tr><td id=\"0-e\">Gymnastics</td><td id=\"0-f\">4-6</td><td id=\"0-g\">9-15</td></tr>\n<tr><td id=\"0-h\">Ice Hockey</td><td id=\"0-i\">13-15</td><td id=\"0-j\">\"\"</td></tr>\n<tr><td id=\"0-k\">Jockeys</td><td id=\"0-l\">12-15</td><td id=\"0-m\">\"\"</td></tr>\n<tr><td id=\"0-n\">Skiing</td><td id=\"0-o\">7-14</td><td id=\"0-p\">18-20</td></tr>\n<tr><td id=\"0-q\">Soccer</td><td id=\"0-r\">9-12</td><td id=\"0-s\">\"\"</td></tr>\n<tr><td id=\"0-t\">Speed Skating</td><td id=\"0-u\">10-12</td><td id=\"0-v\">\"\"</td></tr>\n<tr><td id=\"0-w\">Swimming</td><td id=\"0-x\">5-10</td><td id=\"0-y\">14-26</td></tr>\n<tr><td id=\"0-z\">Track and Field</td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n<tr><td id=\"0-C\">Sprinters</td><td id=\"0-D\">6- 9</td><td id=\"0-E\">8-20</td></tr>\n<tr><td id=\"0-F\">Middle Distance Runners</td><td id=\"0-G\">6-12</td><td id=\"0-H\">8-16</td></tr>\n<tr><td id=\"0-I\">Distance Runners</td><td id=\"0-J\">4- 8</td><td id=\"0-K\">6-12</td></tr>\n<tr><td id=\"0-L\">Discus</td><td id=\"0-M\">14-18</td><td id=\"0-N\">16-24.</td></tr>\n<tr><td id=\"0-O\">Shot Put</td><td id=\"0-P\">14-18</td><td id=\"0-Q\">20-30</td></tr>\n<tr><td id=\"0-R\">Jumpers and Hurdlers</td><td id=\"0-S\">6- 9</td><td id=\"0-T\">8-16</td></tr>\n<tr><td id=\"0-U\">Tennis</td><td id=\"0-V\">14-16</td><td id=\"0-W\">18-22</td></tr>\n<tr><td id=\"0-X\">Volleyball</td><td id=\"0-Y\">8-14</td><td id=\"0-Z\">16-26</td></tr>\n<tr><td id=\"0-10\">Weighlifting</td><td id=\"0-11\">8-16</td><td id=\"0-12\">\"\"</td></tr>\n<tr><td id=\"0-13\">Wrestling</td><td id=\"0-14\">4-12</td><td id=\"0-15\">\"\"</td></tr>\n</table>",
+            "type": "table",
+            "id": "091ff7bd-daaa-4a5c-a02a-cdcf5e829fd3",
+            "grounding": {
+                "box": {
+                    "left": 0.10494422912597656,
+                    "top": 0.19735531508922577,
+                    "right": 0.8791468739509583,
+                    "bottom": 0.5983203053474426
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a30b9ab4-dfcc-46f7-a47f-beb7c9f01556'></a>\n\n* Reprinted with permission from Wilmore.3",
+            "type": "text",
+            "id": "a30b9ab4-dfcc-46f7-a47f-beb7c9f01556",
+            "grounding": {
+                "box": {
+                    "left": 0.10661588609218597,
+                    "top": 0.63045734167099,
+                    "right": 0.5280499458312988,
+                    "bottom": 0.6554445624351501
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='62d487c3-d278-420d-beed-6b89095439f4'></a>\n\nTable 17. Relative body fat values for males and females in various sports.*\n\n<a id='091ff7bd-daaa-4a5c-a02a-cdcf5e829fd3'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Sport</td><td id=\"0-3\">Males fat %</td><td id=\"0-4\">Females fat %</td></tr>\n<tr><td id=\"0-5\">Baseball/Softball</td><td id=\"0-6\">12-14</td><td id=\"0-7\">16-26</td></tr>\n<tr><td id=\"0-8\">Basketball</td><td id=\"0-9\">7-10</td><td id=\"0-a\">16-27</td></tr>\n<tr><td id=\"0-b\">Football</td><td id=\"0-c\">8-18</td><td id=\"0-d\">--</td></tr>\n<tr><td id=\"0-e\">Gymnastics</td><td id=\"0-f\">4-6</td><td id=\"0-g\">9-15</td></tr>\n<tr><td id=\"0-h\">Ice Hockey</td><td id=\"0-i\">13-15</td><td id=\"0-j\">\"\"</td></tr>\n<tr><td id=\"0-k\">Jockeys</td><td id=\"0-l\">12-15</td><td id=\"0-m\">\"\"</td></tr>\n<tr><td id=\"0-n\">Skiing</td><td id=\"0-o\">7-14</td><td id=\"0-p\">18-20</td></tr>\n<tr><td id=\"0-q\">Soccer</td><td id=\"0-r\">9-12</td><td id=\"0-s\">\"\"</td></tr>\n<tr><td id=\"0-t\">Speed Skating</td><td id=\"0-u\">10-12</td><td id=\"0-v\">\"\"</td></tr>\n<tr><td id=\"0-w\">Swimming</td><td id=\"0-x\">5-10</td><td id=\"0-y\">14-26</td></tr>\n<tr><td id=\"0-z\">Track and Field</td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n<tr><td id=\"0-C\">Sprinters</td><td id=\"0-D\">6- 9</td><td id=\"0-E\">8-20</td></tr>\n<tr><td id=\"0-F\">Middle Distance Runners</td><td id=\"0-G\">6-12</td><td id=\"0-H\">8-16</td></tr>\n<tr><td id=\"0-I\">Distance Runners</td><td id=\"0-J\">4- 8</td><td id=\"0-K\">6-12</td></tr>\n<tr><td id=\"0-L\">Discus</td><td id=\"0-M\">14-18</td><td id=\"0-N\">16-24.</td></tr>\n<tr><td id=\"0-O\">Shot Put</td><td id=\"0-P\">14-18</td><td id=\"0-Q\">20-30</td></tr>\n<tr><td id=\"0-R\">Jumpers and Hurdlers</td><td id=\"0-S\">6- 9</td><td id=\"0-T\">8-16</td></tr>\n<tr><td id=\"0-U\">Tennis</td><td id=\"0-V\">14-16</td><td id=\"0-W\">18-22</td></tr>\n<tr><td id=\"0-X\">Volleyball</td><td id=\"0-Y\">8-14</td><td id=\"0-Z\">16-26</td></tr>\n<tr><td id=\"0-10\">Weighlifting</td><td id=\"0-11\">8-16</td><td id=\"0-12\">\"\"</td></tr>\n<tr><td id=\"0-13\">Wrestling</td><td id=\"0-14\">4-12</td><td id=\"0-15\">\"\"</td></tr>\n</table>\n\n<a id='a30b9ab4-dfcc-46f7-a47f-beb7c9f01556'></a>\n\n* Reprinted with permission from Wilmore.3",
+            "chunks": [
+                "62d487c3-d278-420d-beed-6b89095439f4",
+                "091ff7bd-daaa-4a5c-a02a-cdcf5e829fd3",
+                "a30b9ab4-dfcc-46f7-a47f-beb7c9f01556"
+            ]
+        }
+    ],
+    "grounding": {
+        "62d487c3-d278-420d-beed-6b89095439f4": {
+            "box": {
+                "left": 0.1241997480392456,
+                "top": 0.1656906008720398,
+                "right": 0.8722952008247375,
+                "bottom": 0.1895829439163208
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "091ff7bd-daaa-4a5c-a02a-cdcf5e829fd3": {
+            "box": {
+                "left": 0.10494422912597656,
+                "top": 0.19735531508922577,
+                "right": 0.8791468739509583,
+                "bottom": 0.5983203053474426
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.2020814282322514,
+                "right": 0.8740522089841001,
+                "bottom": 0.5917581581333184
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.2020814282322514,
+                "right": 0.36302855918974686,
+                "bottom": 0.26248649153569037
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.2020814282322514,
+                "right": 0.6646116549305319,
+                "bottom": 0.26248649153569037
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.2020814282322514,
+                "right": 0.8746102534524951,
+                "bottom": 0.26248649153569037
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.26248649153569037,
+                "right": 0.36302855918974686,
+                "bottom": 0.2920240348184231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.26248649153569037,
+                "right": 0.6646116549305319,
+                "bottom": 0.2920240348184231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.26248649153569037,
+                "right": 0.8746102534524951,
+                "bottom": 0.2920240348184231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.2920240348184231,
+                "right": 0.36302855918974686,
+                "bottom": 0.3071628853068118
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.2920240348184231,
+                "right": 0.6646116549305319,
+                "bottom": 0.3071628853068118
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.2920240348184231,
+                "right": 0.8746102534524951,
+                "bottom": 0.3071628853068118
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.3071628853068118,
+                "right": 0.36302855918974686,
+                "bottom": 0.32214071972551306
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.3071628853068118,
+                "right": 0.6646116549305319,
+                "bottom": 0.32214071972551306
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.3071628853068118,
+                "right": 0.8746102534524951,
+                "bottom": 0.32214071972551306
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.32214071972551306,
+                "right": 0.36302855918974686,
+                "bottom": 0.3380227631286745
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.32214071972551306,
+                "right": 0.6646116549305319,
+                "bottom": 0.3380227631286745
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.32214071972551306,
+                "right": 0.8746102534524951,
+                "bottom": 0.3380227631286745
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.3380227631286745,
+                "right": 0.36302855918974686,
+                "bottom": 0.35242103768394184
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.3380227631286745,
+                "right": 0.6646116549305319,
+                "bottom": 0.35242103768394184
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.3380227631286745,
+                "right": 0.8746102534524951,
+                "bottom": 0.35242103768394184
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.35242103768394184,
+                "right": 0.36302855918974686,
+                "bottom": 0.36727095069361093
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.35242103768394184,
+                "right": 0.6646116549305319,
+                "bottom": 0.36727095069361093
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.35242103768394184,
+                "right": 0.8746102534524951,
+                "bottom": 0.36727095069361093
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.36727095069361093,
+                "right": 0.36302855918974686,
+                "bottom": 0.3823080316649494
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.36727095069361093,
+                "right": 0.6646116549305319,
+                "bottom": 0.3823080316649494
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.36727095069361093,
+                "right": 0.8746102534524951,
+                "bottom": 0.3823080316649494
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.3823080316649494,
+                "right": 0.36302855918974686,
+                "bottom": 0.3968262332880399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.3823080316649494,
+                "right": 0.6646116549305319,
+                "bottom": 0.3968262332880399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.3823080316649494,
+                "right": 0.8746102534524951,
+                "bottom": 0.3968262332880399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.3968262332880399,
+                "right": 0.36302855918974686,
+                "bottom": 0.41283870753469376
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.3968262332880399,
+                "right": 0.6646116549305319,
+                "bottom": 0.41283870753469376
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.3968262332880399,
+                "right": 0.8746102534524951,
+                "bottom": 0.41283870753469376
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.41283870753469376,
+                "right": 0.36302855918974686,
+                "bottom": 0.42746531672646615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.41283870753469376,
+                "right": 0.6646116549305319,
+                "bottom": 0.42746531672646615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.41283870753469376,
+                "right": 0.8746102534524951,
+                "bottom": 0.42746531672646615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.42746531672646615,
+                "right": 0.36302855918974686,
+                "bottom": 0.4419620806094535
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.42746531672646615,
+                "right": 0.6646116549305319,
+                "bottom": 0.4419620806094535
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.42746531672646615,
+                "right": 0.8746102534524951,
+                "bottom": 0.4419620806094535
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.4419620806094535,
+                "right": 0.36302855918974686,
+                "bottom": 0.45686721312693557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.4419620806094535,
+                "right": 0.6646116549305319,
+                "bottom": 0.45686721312693557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.4419620806094535,
+                "right": 0.8746102534524951,
+                "bottom": 0.45686721312693557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.45686721312693557,
+                "right": 0.36302855918974686,
+                "bottom": 0.47207997840986593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.45686721312693557,
+                "right": 0.6646116549305319,
+                "bottom": 0.47207997840986593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.45686721312693557,
+                "right": 0.8746102534524951,
+                "bottom": 0.47207997840986593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.47207997840986593,
+                "right": 0.36302855918974686,
+                "bottom": 0.4873551688624165
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.47207997840986593,
+                "right": 0.6646116549305319,
+                "bottom": 0.4873551688624165
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.47207997840986593,
+                "right": 0.8746102534524951,
+                "bottom": 0.4873551688624165
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.4873551688624165,
+                "right": 0.36302855918974686,
+                "bottom": 0.5023001655387525
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.4873551688624165,
+                "right": 0.6646116549305319,
+                "bottom": 0.5023001655387525
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.4873551688624165,
+                "right": 0.8746102534524951,
+                "bottom": 0.5023001655387525
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.5023001655387525,
+                "right": 0.36302855918974686,
+                "bottom": 0.5177488415603202
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.5023001655387525,
+                "right": 0.6646116549305319,
+                "bottom": 0.5177488415603202
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.5023001655387525,
+                "right": 0.8746102534524951,
+                "bottom": 0.5177488415603202
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.5177488415603202,
+                "right": 0.36302855918974686,
+                "bottom": 0.5327245250351984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.5177488415603202,
+                "right": 0.6646116549305319,
+                "bottom": 0.5327245250351984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.5177488415603202,
+                "right": 0.8746102534524951,
+                "bottom": 0.5327245250351984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.5327245250351984,
+                "right": 0.36302855918974686,
+                "bottom": 0.5467258787569849
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.5327245250351984,
+                "right": 0.6646116549305319,
+                "bottom": 0.5467258787569849
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.5327245250351984,
+                "right": 0.8746102534524951,
+                "bottom": 0.5467258787569849
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.5467258787569849,
+                "right": 0.36302855918974686,
+                "bottom": 0.5623000743003157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.5467258787569849,
+                "right": 0.6646116549305319,
+                "bottom": 0.5623000743003157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.5467258787569849,
+                "right": 0.8746102534524951,
+                "bottom": 0.5623000743003157
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.5623000743003157,
+                "right": 0.36302855918974686,
+                "bottom": 0.5780090384238488
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.5623000743003157,
+                "right": 0.6646116549305319,
+                "bottom": 0.5780090384238488
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.5623000743003157,
+                "right": 0.8746102534524951,
+                "bottom": 0.5780090384238488
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.11071170348582879,
+                "top": 0.5780090384238488,
+                "right": 0.36302855918974686,
+                "bottom": 0.5917581581333184
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.36302855918974686,
+                "top": 0.5780090384238488,
+                "right": 0.6646116549305319,
+                "bottom": 0.5917581581333184
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.6646116549305319,
+                "top": 0.5780090384238488,
+                "right": 0.8746102534524951,
+                "bottom": 0.5917581581333184
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "a30b9ab4-dfcc-46f7-a47f-beb7c9f01556": {
+            "box": {
+                "left": 0.10661588609218597,
+                "top": 0.63045734167099,
+                "right": 0.5280499458312988,
+                "bottom": 0.6554445624351501
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qffw0228_23.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6215,
+        "credit_usage": 3.0,
+        "job_id": "nd9ftva29vwkownor2cf1m7er",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='fe8c7e0e-3087-408d-8cdd-5f6e62f17e35'></a>\n\n<::Number of Patients Currently in Each Interval\n: chart\n: Y-axis: Number of Patients\n: X-axis: Time Interval\n: Data points:\n: PreOp: 0\n: 6 mo: 119\n: 12 mo: 212\n: 24 mo: 217\n: 36 mo: 42\n: 48 mo: 0\n: 60 mo: 0::>\n\n<a id='a2acdd7b-ee88-4993-9b25-a87012057b93'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER. industrydocuments.ucsf.edu/docs/lngn0226\n\n<a id='7e97a150-aaaf-4571-b393-6b5c2a54a865'></a>\n\nDEPUY048356009",
+    "chunks": [
+        {
+            "markdown": "<a id='fe8c7e0e-3087-408d-8cdd-5f6e62f17e35'></a>\n\n<::Number of Patients Currently in Each Interval\n: chart\n: Y-axis: Number of Patients\n: X-axis: Time Interval\n: Data points:\n: PreOp: 0\n: 6 mo: 119\n: 12 mo: 212\n: 24 mo: 217\n: 36 mo: 42\n: 48 mo: 0\n: 60 mo: 0::>",
+            "type": "figure",
+            "id": "fe8c7e0e-3087-408d-8cdd-5f6e62f17e35",
+            "grounding": {
+                "box": {
+                    "left": 0.07673180103302002,
+                    "top": 0.1348714828491211,
+                    "right": 0.8166589140892029,
+                    "bottom": 0.849543571472168
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a2acdd7b-ee88-4993-9b25-a87012057b93'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER. industrydocuments.ucsf.edu/docs/lngn0226",
+            "type": "marginalia",
+            "id": "a2acdd7b-ee88-4993-9b25-a87012057b93",
+            "grounding": {
+                "box": {
+                    "left": 0.018133699893951416,
+                    "top": 0.9729598164558411,
+                    "right": 0.7088284492492676,
+                    "bottom": 0.9995414614677429
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7e97a150-aaaf-4571-b393-6b5c2a54a865'></a>\n\nDEPUY048356009",
+            "type": "marginalia",
+            "id": "7e97a150-aaaf-4571-b393-6b5c2a54a865",
+            "grounding": {
+                "box": {
+                    "left": 0.7941274642944336,
+                    "top": 0.9731202721595764,
+                    "right": 0.8990530967712402,
+                    "bottom": 0.9982811808586121
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='fe8c7e0e-3087-408d-8cdd-5f6e62f17e35'></a>\n\n<::Number of Patients Currently in Each Interval\n: chart\n: Y-axis: Number of Patients\n: X-axis: Time Interval\n: Data points:\n: PreOp: 0\n: 6 mo: 119\n: 12 mo: 212\n: 24 mo: 217\n: 36 mo: 42\n: 48 mo: 0\n: 60 mo: 0::>\n\n<a id='a2acdd7b-ee88-4993-9b25-a87012057b93'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER. industrydocuments.ucsf.edu/docs/lngn0226\n\n<a id='7e97a150-aaaf-4571-b393-6b5c2a54a865'></a>\n\nDEPUY048356009",
+            "chunks": [
+                "fe8c7e0e-3087-408d-8cdd-5f6e62f17e35",
+                "a2acdd7b-ee88-4993-9b25-a87012057b93",
+                "7e97a150-aaaf-4571-b393-6b5c2a54a865"
+            ]
+        }
+    ],
+    "grounding": {
+        "fe8c7e0e-3087-408d-8cdd-5f6e62f17e35": {
+            "box": {
+                "left": 0.07673180103302002,
+                "top": 0.1348714828491211,
+                "right": 0.8166589140892029,
+                "bottom": 0.849543571472168
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "a2acdd7b-ee88-4993-9b25-a87012057b93": {
+            "box": {
+                "left": 0.018133699893951416,
+                "top": 0.9729598164558411,
+                "right": 0.7088284492492676,
+                "bottom": 0.9995414614677429
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "7e97a150-aaaf-4571-b393-6b5c2a54a865": {
+            "box": {
+                "left": 0.7941274642944336,
+                "top": 0.9731202721595764,
+                "right": 0.8990530967712402,
+                "bottom": 0.9982811808586121
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lngn0226_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6672,
+        "credit_usage": 3.0,
+        "job_id": "efc9l8hfiuw83myqldsvltnnh",
+        "version": "dpt-2-20250919"
+    }
+}

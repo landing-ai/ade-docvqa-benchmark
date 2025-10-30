@@ -1,0 +1,413 @@
+{
+    "markdown": "<a id='4699dada-9c27-4991-b698-480a3306fc70'></a>\n\nTREATMENT OF HYPERTENSION\n---\n\n<a id='4aa322ed-1d9f-4dc2-8a78-25e5c9113d40'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Ambard, Beaujard</td><td id=\"0-3\">1904</td></tr>\n<tr><td id=\"0-4\">Allen, Sherrill</td><td id=\"0-5\">1922</td></tr>\n<tr><td id=\"0-6\">Kempner</td><td id=\"0-7\">1948</td></tr>\n<tr><td id=\"0-8\">Dahl</td><td id=\"0-9\">1958</td></tr>\n<tr><td id=\"0-a\">Owens</td><td id=\"0-b\">1978</td></tr>\n<tr><td id=\"0-c\">Kawasaki</td><td id=\"0-d\">1978</td></tr>\n<tr><td id=\"0-e\">Parijys</td><td id=\"0-f\">1973</td></tr>\n<tr><td id=\"0-g\">Morgan</td><td id=\"0-h\">1975</td></tr>\n<tr><td id=\"0-i\">Morgnani</td><td id=\"0-j\">1976</td></tr>\n<tr><td id=\"0-k\">Morgan</td><td id=\"0-l\">1978</td></tr>\n</table>\n\n<a id='35281467-776f-452f-9d9f-0e83c2a10412'></a>\n\n<::attestation: Status indicator\nStatus: severe restriction\nReadable Text: severe restriction\nDescription: Two words, \"severe\" and \"restriction\", stacked vertically, centered.::>\n\n<a id='5446c794-fd75-4f3e-ac05-37f573c1c286'></a>\n\n<::attestation: Status indicator\nStatus: moderate restriction\nShort description: Text \"moderate restriction\" centered on a light grey background.::>\n\n<a id='abff899d-b5ed-4199-9859-40f01e7a9504'></a>\n\nCOMMUNITY INTERVENTION\n\n<a id='26d6216c-5fdc-4b4c-83a3-d6c7524665a9'></a>\n\nSasaki 1977\nFarquhar 1978\n\n<a id='64a00d22-fbd2-4925-968b-f15fa783fc57'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/njnf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='4699dada-9c27-4991-b698-480a3306fc70'></a>\n\nTREATMENT OF HYPERTENSION\n---",
+            "type": "text",
+            "id": "4699dada-9c27-4991-b698-480a3306fc70",
+            "grounding": {
+                "box": {
+                    "left": 0.36705589294433594,
+                    "top": 0.20141200721263885,
+                    "right": 0.6212449073791504,
+                    "bottom": 0.2298399657011032
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4aa322ed-1d9f-4dc2-8a78-25e5c9113d40'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Ambard, Beaujard</td><td id=\"0-3\">1904</td></tr>\n<tr><td id=\"0-4\">Allen, Sherrill</td><td id=\"0-5\">1922</td></tr>\n<tr><td id=\"0-6\">Kempner</td><td id=\"0-7\">1948</td></tr>\n<tr><td id=\"0-8\">Dahl</td><td id=\"0-9\">1958</td></tr>\n<tr><td id=\"0-a\">Owens</td><td id=\"0-b\">1978</td></tr>\n<tr><td id=\"0-c\">Kawasaki</td><td id=\"0-d\">1978</td></tr>\n<tr><td id=\"0-e\">Parijys</td><td id=\"0-f\">1973</td></tr>\n<tr><td id=\"0-g\">Morgan</td><td id=\"0-h\">1975</td></tr>\n<tr><td id=\"0-i\">Morgnani</td><td id=\"0-j\">1976</td></tr>\n<tr><td id=\"0-k\">Morgan</td><td id=\"0-l\">1978</td></tr>\n</table>",
+            "type": "table",
+            "id": "4aa322ed-1d9f-4dc2-8a78-25e5c9113d40",
+            "grounding": {
+                "box": {
+                    "left": 0.3565816879272461,
+                    "top": 0.24616560339927673,
+                    "right": 0.6246092915534973,
+                    "bottom": 0.4952637851238251
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='35281467-776f-452f-9d9f-0e83c2a10412'></a>\n\n<::attestation: Status indicator\nStatus: severe restriction\nReadable Text: severe restriction\nDescription: Two words, \"severe\" and \"restriction\", stacked vertically, centered.::>",
+            "type": "attestation",
+            "id": "35281467-776f-452f-9d9f-0e83c2a10412",
+            "grounding": {
+                "box": {
+                    "left": 0.16906991600990295,
+                    "top": 0.3161293566226959,
+                    "right": 0.2865622937679291,
+                    "bottom": 0.3535231053829193
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5446c794-fd75-4f3e-ac05-37f573c1c286'></a>\n\n<::attestation: Status indicator\nStatus: moderate restriction\nShort description: Text \"moderate restriction\" centered on a light grey background.::>",
+            "type": "attestation",
+            "id": "5446c794-fd75-4f3e-ac05-37f573c1c286",
+            "grounding": {
+                "box": {
+                    "left": 0.1689961701631546,
+                    "top": 0.4335572123527527,
+                    "right": 0.28678643703460693,
+                    "bottom": 0.4722190499305725
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='abff899d-b5ed-4199-9859-40f01e7a9504'></a>\n\nCOMMUNITY INTERVENTION",
+            "type": "text",
+            "id": "abff899d-b5ed-4199-9859-40f01e7a9504",
+            "grounding": {
+                "box": {
+                    "left": 0.3786996006965637,
+                    "top": 0.5653187036514282,
+                    "right": 0.6065893173217773,
+                    "bottom": 0.5928943157196045
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='26d6216c-5fdc-4b4c-83a3-d6c7524665a9'></a>\n\nSasaki 1977\nFarquhar 1978",
+            "type": "text",
+            "id": "26d6216c-5fdc-4b4c-83a3-d6c7524665a9",
+            "grounding": {
+                "box": {
+                    "left": 0.36049360036849976,
+                    "top": 0.6102023124694824,
+                    "right": 0.6222588419914246,
+                    "bottom": 0.6649225950241089
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='64a00d22-fbd2-4925-968b-f15fa783fc57'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/njnf0227",
+            "type": "marginalia",
+            "id": "64a00d22-fbd2-4925-968b-f15fa783fc57",
+            "grounding": {
+                "box": {
+                    "left": 0.22816318273544312,
+                    "top": 0.9798685312271118,
+                    "right": 0.7691224217414856,
+                    "bottom": 0.9992648363113403
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4699dada-9c27-4991-b698-480a3306fc70'></a>\n\nTREATMENT OF HYPERTENSION\n---\n\n<a id='4aa322ed-1d9f-4dc2-8a78-25e5c9113d40'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Ambard, Beaujard</td><td id=\"0-3\">1904</td></tr>\n<tr><td id=\"0-4\">Allen, Sherrill</td><td id=\"0-5\">1922</td></tr>\n<tr><td id=\"0-6\">Kempner</td><td id=\"0-7\">1948</td></tr>\n<tr><td id=\"0-8\">Dahl</td><td id=\"0-9\">1958</td></tr>\n<tr><td id=\"0-a\">Owens</td><td id=\"0-b\">1978</td></tr>\n<tr><td id=\"0-c\">Kawasaki</td><td id=\"0-d\">1978</td></tr>\n<tr><td id=\"0-e\">Parijys</td><td id=\"0-f\">1973</td></tr>\n<tr><td id=\"0-g\">Morgan</td><td id=\"0-h\">1975</td></tr>\n<tr><td id=\"0-i\">Morgnani</td><td id=\"0-j\">1976</td></tr>\n<tr><td id=\"0-k\">Morgan</td><td id=\"0-l\">1978</td></tr>\n</table>\n\n<a id='35281467-776f-452f-9d9f-0e83c2a10412'></a>\n\n<::attestation: Status indicator\nStatus: severe restriction\nReadable Text: severe restriction\nDescription: Two words, \"severe\" and \"restriction\", stacked vertically, centered.::>\n\n<a id='5446c794-fd75-4f3e-ac05-37f573c1c286'></a>\n\n<::attestation: Status indicator\nStatus: moderate restriction\nShort description: Text \"moderate restriction\" centered on a light grey background.::>\n\n<a id='abff899d-b5ed-4199-9859-40f01e7a9504'></a>\n\nCOMMUNITY INTERVENTION\n\n<a id='26d6216c-5fdc-4b4c-83a3-d6c7524665a9'></a>\n\nSasaki 1977\nFarquhar 1978\n\n<a id='64a00d22-fbd2-4925-968b-f15fa783fc57'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/njnf0227",
+            "chunks": [
+                "4699dada-9c27-4991-b698-480a3306fc70",
+                "4aa322ed-1d9f-4dc2-8a78-25e5c9113d40",
+                "35281467-776f-452f-9d9f-0e83c2a10412",
+                "5446c794-fd75-4f3e-ac05-37f573c1c286",
+                "abff899d-b5ed-4199-9859-40f01e7a9504",
+                "26d6216c-5fdc-4b4c-83a3-d6c7524665a9",
+                "64a00d22-fbd2-4925-968b-f15fa783fc57"
+            ]
+        }
+    ],
+    "grounding": {
+        "4699dada-9c27-4991-b698-480a3306fc70": {
+            "box": {
+                "left": 0.36705589294433594,
+                "top": 0.20141200721263885,
+                "right": 0.6212449073791504,
+                "bottom": 0.2298399657011032
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4aa322ed-1d9f-4dc2-8a78-25e5c9113d40": {
+            "box": {
+                "left": 0.3565816879272461,
+                "top": 0.24616560339927673,
+                "right": 0.6246092915534973,
+                "bottom": 0.4952637851238251
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.2492650614295696,
+                "right": 0.6206467612585165,
+                "bottom": 0.4921611221411837
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.2492650614295696,
+                "right": 0.5203891133647396,
+                "bottom": 0.2696676314864357
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.5203891133647396,
+                "top": 0.2492650614295696,
+                "right": 0.6208298586428,
+                "bottom": 0.2696676314864357
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.2696676314864357,
+                "right": 0.5203891133647396,
+                "bottom": 0.29166932521908606
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5203891133647396,
+                "top": 0.2696676314864357,
+                "right": 0.6208298586428,
+                "bottom": 0.29166932521908606
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.29166932521908606,
+                "right": 0.5203891133647396,
+                "bottom": 0.3142552552019282
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5203891133647396,
+                "top": 0.29166932521908606,
+                "right": 0.6208298586428,
+                "bottom": 0.3142552552019282
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.3142552552019282,
+                "right": 0.5203891133647396,
+                "bottom": 0.3355639294331638
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5203891133647396,
+                "top": 0.3142552552019282,
+                "right": 0.6208298586428,
+                "bottom": 0.3355639294331638
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.3355639294331638,
+                "right": 0.5203891133647396,
+                "bottom": 0.35812837521570984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5203891133647396,
+                "top": 0.3355639294331638,
+                "right": 0.6208298586428,
+                "bottom": 0.35812837521570984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.35812837521570984,
+                "right": 0.5203891133647396,
+                "bottom": 0.38004418225717984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5203891133647396,
+                "top": 0.35812837521570984,
+                "right": 0.6208298586428,
+                "bottom": 0.38004418225717984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.38004418225717984,
+                "right": 0.5203891133647396,
+                "bottom": 0.4251384645127416
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5203891133647396,
+                "top": 0.38004418225717984,
+                "right": 0.6208298586428,
+                "bottom": 0.4251384645127416
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.4251384645127416,
+                "right": 0.5203891133647396,
+                "bottom": 0.44787055980989976
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.5203891133647396,
+                "top": 0.4251384645127416,
+                "right": 0.6208298586428,
+                "bottom": 0.44787055980989976
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.44787055980989976,
+                "right": 0.5203891133647396,
+                "bottom": 0.4705159016983984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5203891133647396,
+                "top": 0.44787055980989976,
+                "right": 0.6208298586428,
+                "bottom": 0.4705159016983984
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.3628700760098218,
+                "top": 0.4705159016983984,
+                "right": 0.5203891133647396,
+                "bottom": 0.4921611221411837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.5203891133647396,
+                "top": 0.4705159016983984,
+                "right": 0.6208298586428,
+                "bottom": 0.4921611221411837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "35281467-776f-452f-9d9f-0e83c2a10412": {
+            "box": {
+                "left": 0.16906991600990295,
+                "top": 0.3161293566226959,
+                "right": 0.2865622937679291,
+                "bottom": 0.3535231053829193
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "5446c794-fd75-4f3e-ac05-37f573c1c286": {
+            "box": {
+                "left": 0.1689961701631546,
+                "top": 0.4335572123527527,
+                "right": 0.28678643703460693,
+                "bottom": 0.4722190499305725
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "abff899d-b5ed-4199-9859-40f01e7a9504": {
+            "box": {
+                "left": 0.3786996006965637,
+                "top": 0.5653187036514282,
+                "right": 0.6065893173217773,
+                "bottom": 0.5928943157196045
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "26d6216c-5fdc-4b4c-83a3-d6c7524665a9": {
+            "box": {
+                "left": 0.36049360036849976,
+                "top": 0.6102023124694824,
+                "right": 0.6222588419914246,
+                "bottom": 0.6649225950241089
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "64a00d22-fbd2-4925-968b-f15fa783fc57": {
+            "box": {
+                "left": 0.22816318273544312,
+                "top": 0.9798685312271118,
+                "right": 0.7691224217414856,
+                "bottom": 0.9992648363113403
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "njnf0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8738,
+        "credit_usage": 3.0,
+        "job_id": "nok17kef5n21pzq5ok0jt3jbv",
+        "version": "dpt-2-20250919"
+    }
+}

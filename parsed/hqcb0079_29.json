@@ -1,0 +1,723 @@
+{
+    "markdown": "<a id='554ccef1-cccc-4baa-8080-773766c98597'></a>\n\nSUBSTRATE LOADING\n\n<a id='1e053cb6-bfc4-4158-abb8-3cf39da9c303'></a>\n\nR&D TEST NO.: 9-046 J\n\nQUANTITY REQUIRED: 150 LBS.\n\n<a id='81740620-7cdd-42cc-8a9e-65e413c3e97f'></a>\n\nSUBSTRATE TYPE: 98621\n\n<a id='9e04f7cc-f69e-4c7f-a70b-08b83b14ddba'></a>\n\nINFORMATION:\n___\n___\n___\n___\n\n<a id='fae5d24f-6dde-4416-b83b-c4253daac28d'></a>\n\nLOADED FORMULATION:\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\"></td><td id=\"0-4\" rowspan=\"2\">67.65</td><td id=\"0-5\">STEP</td></tr>\n<tr><td id=\"0-6\">1-</td><td id=\"0-7\">Alumina</td><td id=\"0-8\">% 1ST</td></tr>\n<tr><td id=\"0-9\">2-</td><td id=\"0-a\">CAG2</td><td id=\"0-b\">10.00</td><td id=\"0-c\">% 1ST</td></tr>\n<tr><td id=\"0-d\">3-</td><td id=\"0-e\">FRUCTOSE</td><td id=\"0-f\">2.35</td><td id=\"0-g\">% 1ST</td></tr>\n<tr><td id=\"0-h\">4-</td><td id=\"0-i\">B3</td><td id=\"0-j\">19.94</td><td id=\"0-k\">% 2ND</td></tr>\n<tr><td id=\"0-l\">5-</td><td id=\"0-m\">FLAV. 98621</td><td id=\"0-n\">0.06</td><td id=\"0-o\">% 2ND</td></tr>\n<tr><td id=\"0-p\">6-</td><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\"></td></tr>\n<tr><td id=\"0-t\">7-</td><td id=\"0-u\">TOTAL:</td><td id=\"0-v\">100.00</td><td id=\"0-w\">%</td></tr>\n<tr><td id=\"0-x\">8-</td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">9-</td><td id=\"0-C\">FLOW AGENT:</td><td id=\"0-D\">0.60</td><td id=\"0-E\">% 3RD</td></tr>\n<tr><td id=\"0-F\">10-</td><td id=\"0-G\"></td><td id=\"0-H\"></td><td id=\"0-I\"></td></tr>\n<tr><td id=\"0-J\">11-</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">12-</td><td id=\"0-O\"></td><td id=\"0-P\"></td><td id=\"0-Q\"></td></tr>\n</table>\n\n<a id='9a613209-ede5-4d30-9eb3-eaf6682ba528'></a>\n\nSPECIAL INSTRUCTIONS (SAMPLING, TESTING, STORAGE, ETC.):\nLABEL: ATTN. DAN CHRISTOPHERSON, TRIAL #9-046-J, DATE, RECIPE\n\nSEND SAMPLES FOR ANALYSIS TO OA AND MILHOUS LABS.\n\n\n\n\n\n\n\n<a id='be19d8d5-90e5-4150-b3e4-c098ecfc35bd'></a>\n\n51479 8606",
+    "chunks": [
+        {
+            "markdown": "<a id='554ccef1-cccc-4baa-8080-773766c98597'></a>\n\nSUBSTRATE LOADING",
+            "type": "text",
+            "id": "554ccef1-cccc-4baa-8080-773766c98597",
+            "grounding": {
+                "box": {
+                    "left": 0.3909483850002289,
+                    "top": 0.07103870809078217,
+                    "right": 0.6022679805755615,
+                    "bottom": 0.09149077534675598
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1e053cb6-bfc4-4158-abb8-3cf39da9c303'></a>\n\nR&D TEST NO.: 9-046 J\n\nQUANTITY REQUIRED: 150 LBS.",
+            "type": "text",
+            "id": "1e053cb6-bfc4-4158-abb8-3cf39da9c303",
+            "grounding": {
+                "box": {
+                    "left": 0.07188424468040466,
+                    "top": 0.09922599792480469,
+                    "right": 0.5580174922943115,
+                    "bottom": 0.15405115485191345
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='81740620-7cdd-42cc-8a9e-65e413c3e97f'></a>\n\nSUBSTRATE TYPE: 98621",
+            "type": "text",
+            "id": "81740620-7cdd-42cc-8a9e-65e413c3e97f",
+            "grounding": {
+                "box": {
+                    "left": 0.07308050990104675,
+                    "top": 0.17270761728286743,
+                    "right": 0.755770206451416,
+                    "bottom": 0.1989130973815918
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9e04f7cc-f69e-4c7f-a70b-08b83b14ddba'></a>\n\nINFORMATION:\n___\n___\n___\n___",
+            "type": "text",
+            "id": "9e04f7cc-f69e-4c7f-a70b-08b83b14ddba",
+            "grounding": {
+                "box": {
+                    "left": 0.06963038444519043,
+                    "top": 0.2032996118068695,
+                    "right": 0.9310040473937988,
+                    "bottom": 0.29247167706489563
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fae5d24f-6dde-4416-b83b-c4253daac28d'></a>\n\nLOADED FORMULATION:\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\"></td><td id=\"0-4\" rowspan=\"2\">67.65</td><td id=\"0-5\">STEP</td></tr>\n<tr><td id=\"0-6\">1-</td><td id=\"0-7\">Alumina</td><td id=\"0-8\">% 1ST</td></tr>\n<tr><td id=\"0-9\">2-</td><td id=\"0-a\">CAG2</td><td id=\"0-b\">10.00</td><td id=\"0-c\">% 1ST</td></tr>\n<tr><td id=\"0-d\">3-</td><td id=\"0-e\">FRUCTOSE</td><td id=\"0-f\">2.35</td><td id=\"0-g\">% 1ST</td></tr>\n<tr><td id=\"0-h\">4-</td><td id=\"0-i\">B3</td><td id=\"0-j\">19.94</td><td id=\"0-k\">% 2ND</td></tr>\n<tr><td id=\"0-l\">5-</td><td id=\"0-m\">FLAV. 98621</td><td id=\"0-n\">0.06</td><td id=\"0-o\">% 2ND</td></tr>\n<tr><td id=\"0-p\">6-</td><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\"></td></tr>\n<tr><td id=\"0-t\">7-</td><td id=\"0-u\">TOTAL:</td><td id=\"0-v\">100.00</td><td id=\"0-w\">%</td></tr>\n<tr><td id=\"0-x\">8-</td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">9-</td><td id=\"0-C\">FLOW AGENT:</td><td id=\"0-D\">0.60</td><td id=\"0-E\">% 3RD</td></tr>\n<tr><td id=\"0-F\">10-</td><td id=\"0-G\"></td><td id=\"0-H\"></td><td id=\"0-I\"></td></tr>\n<tr><td id=\"0-J\">11-</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">12-</td><td id=\"0-O\"></td><td id=\"0-P\"></td><td id=\"0-Q\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "fae5d24f-6dde-4416-b83b-c4253daac28d",
+            "grounding": {
+                "box": {
+                    "left": 0.06716728210449219,
+                    "top": 0.3071690499782562,
+                    "right": 0.9296982884407043,
+                    "bottom": 0.5363472700119019
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9a613209-ede5-4d30-9eb3-eaf6682ba528'></a>\n\nSPECIAL INSTRUCTIONS (SAMPLING, TESTING, STORAGE, ETC.):\nLABEL: ATTN. DAN CHRISTOPHERSON, TRIAL #9-046-J, DATE, RECIPE\n\nSEND SAMPLES FOR ANALYSIS TO OA AND MILHOUS LABS.\n\n\n\n\n\n",
+            "type": "text",
+            "id": "9a613209-ede5-4d30-9eb3-eaf6682ba528",
+            "grounding": {
+                "box": {
+                    "left": 0.06411439180374146,
+                    "top": 0.5641717314720154,
+                    "right": 0.9254295229911804,
+                    "bottom": 0.7144779562950134
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='be19d8d5-90e5-4150-b3e4-c098ecfc35bd'></a>\n\n51479 8606",
+            "type": "marginalia",
+            "id": "be19d8d5-90e5-4150-b3e4-c098ecfc35bd",
+            "grounding": {
+                "box": {
+                    "left": 0.9425227046012878,
+                    "top": 0.8212598562240601,
+                    "right": 0.9687531590461731,
+                    "bottom": 0.9192186594009399
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='554ccef1-cccc-4baa-8080-773766c98597'></a>\n\nSUBSTRATE LOADING\n\n<a id='1e053cb6-bfc4-4158-abb8-3cf39da9c303'></a>\n\nR&D TEST NO.: 9-046 J\n\nQUANTITY REQUIRED: 150 LBS.\n\n<a id='81740620-7cdd-42cc-8a9e-65e413c3e97f'></a>\n\nSUBSTRATE TYPE: 98621\n\n<a id='9e04f7cc-f69e-4c7f-a70b-08b83b14ddba'></a>\n\nINFORMATION:\n___\n___\n___\n___\n\n<a id='fae5d24f-6dde-4416-b83b-c4253daac28d'></a>\n\nLOADED FORMULATION:\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\"></td><td id=\"0-4\" rowspan=\"2\">67.65</td><td id=\"0-5\">STEP</td></tr>\n<tr><td id=\"0-6\">1-</td><td id=\"0-7\">Alumina</td><td id=\"0-8\">% 1ST</td></tr>\n<tr><td id=\"0-9\">2-</td><td id=\"0-a\">CAG2</td><td id=\"0-b\">10.00</td><td id=\"0-c\">% 1ST</td></tr>\n<tr><td id=\"0-d\">3-</td><td id=\"0-e\">FRUCTOSE</td><td id=\"0-f\">2.35</td><td id=\"0-g\">% 1ST</td></tr>\n<tr><td id=\"0-h\">4-</td><td id=\"0-i\">B3</td><td id=\"0-j\">19.94</td><td id=\"0-k\">% 2ND</td></tr>\n<tr><td id=\"0-l\">5-</td><td id=\"0-m\">FLAV. 98621</td><td id=\"0-n\">0.06</td><td id=\"0-o\">% 2ND</td></tr>\n<tr><td id=\"0-p\">6-</td><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\"></td></tr>\n<tr><td id=\"0-t\">7-</td><td id=\"0-u\">TOTAL:</td><td id=\"0-v\">100.00</td><td id=\"0-w\">%</td></tr>\n<tr><td id=\"0-x\">8-</td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">9-</td><td id=\"0-C\">FLOW AGENT:</td><td id=\"0-D\">0.60</td><td id=\"0-E\">% 3RD</td></tr>\n<tr><td id=\"0-F\">10-</td><td id=\"0-G\"></td><td id=\"0-H\"></td><td id=\"0-I\"></td></tr>\n<tr><td id=\"0-J\">11-</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">12-</td><td id=\"0-O\"></td><td id=\"0-P\"></td><td id=\"0-Q\"></td></tr>\n</table>\n\n<a id='9a613209-ede5-4d30-9eb3-eaf6682ba528'></a>\n\nSPECIAL INSTRUCTIONS (SAMPLING, TESTING, STORAGE, ETC.):\nLABEL: ATTN. DAN CHRISTOPHERSON, TRIAL #9-046-J, DATE, RECIPE\n\nSEND SAMPLES FOR ANALYSIS TO OA AND MILHOUS LABS.\n\n\n\n\n\n\n\n<a id='be19d8d5-90e5-4150-b3e4-c098ecfc35bd'></a>\n\n51479 8606",
+            "chunks": [
+                "554ccef1-cccc-4baa-8080-773766c98597",
+                "1e053cb6-bfc4-4158-abb8-3cf39da9c303",
+                "81740620-7cdd-42cc-8a9e-65e413c3e97f",
+                "9e04f7cc-f69e-4c7f-a70b-08b83b14ddba",
+                "fae5d24f-6dde-4416-b83b-c4253daac28d",
+                "9a613209-ede5-4d30-9eb3-eaf6682ba528",
+                "be19d8d5-90e5-4150-b3e4-c098ecfc35bd"
+            ]
+        }
+    ],
+    "grounding": {
+        "554ccef1-cccc-4baa-8080-773766c98597": {
+            "box": {
+                "left": 0.3909483850002289,
+                "top": 0.07103870809078217,
+                "right": 0.6022679805755615,
+                "bottom": 0.09149077534675598
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1e053cb6-bfc4-4158-abb8-3cf39da9c303": {
+            "box": {
+                "left": 0.07188424468040466,
+                "top": 0.09922599792480469,
+                "right": 0.5580174922943115,
+                "bottom": 0.15405115485191345
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "81740620-7cdd-42cc-8a9e-65e413c3e97f": {
+            "box": {
+                "left": 0.07308050990104675,
+                "top": 0.17270761728286743,
+                "right": 0.755770206451416,
+                "bottom": 0.1989130973815918
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9e04f7cc-f69e-4c7f-a70b-08b83b14ddba": {
+            "box": {
+                "left": 0.06963038444519043,
+                "top": 0.2032996118068695,
+                "right": 0.9310040473937988,
+                "bottom": 0.29247167706489563
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fae5d24f-6dde-4416-b83b-c4253daac28d": {
+            "box": {
+                "left": 0.06716728210449219,
+                "top": 0.3071690499782562,
+                "right": 0.9296982884407043,
+                "bottom": 0.5363472700119019
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.32924605302522925,
+                "right": 0.9208979840552445,
+                "bottom": 0.5266457537131384
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.32924605302522925,
+                "right": 0.11032221506865758,
+                "bottom": 0.3444709552500145
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.32924605302522925,
+                "right": 0.26932098169122654,
+                "bottom": 0.3444709552500145
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.32924605302522925,
+                "right": 0.9209674915301775,
+                "bottom": 0.37187840233271796
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.32924605302522925,
+                "right": 0.9209674915301775,
+                "bottom": 0.3444709552500145
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.3444709552500145,
+                "right": 0.11032221506865758,
+                "bottom": 0.3570573076293768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.3444709552500145,
+                "right": 0.26932098169122654,
+                "bottom": 0.3570573076293768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.3444709552500145,
+                "right": 0.9209674915301775,
+                "bottom": 0.3570573076293768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.3570573076293768,
+                "right": 0.11032221506865758,
+                "bottom": 0.37187840233271796
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.3570573076293768,
+                "right": 0.26932098169122654,
+                "bottom": 0.37187840233271796
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.3570573076293768,
+                "right": 0.42713163704594237,
+                "bottom": 0.37187840233271796
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.3570573076293768,
+                "right": 0.9209674915301775,
+                "bottom": 0.37187840233271796
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.37187840233271796,
+                "right": 0.11032221506865758,
+                "bottom": 0.3870246719776791
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.37187840233271796,
+                "right": 0.26932098169122654,
+                "bottom": 0.3870246719776791
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.37187840233271796,
+                "right": 0.42713163704594237,
+                "bottom": 0.3870246719776791
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.37187840233271796,
+                "right": 0.9209674915301775,
+                "bottom": 0.3870246719776791
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.3870246719776791,
+                "right": 0.11032221506865758,
+                "bottom": 0.4020257553943871
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.3870246719776791,
+                "right": 0.26932098169122654,
+                "bottom": 0.4020257553943871
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.3870246719776791,
+                "right": 0.42713163704594237,
+                "bottom": 0.4020257553943871
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.3870246719776791,
+                "right": 0.9209674915301775,
+                "bottom": 0.4020257553943871
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.4020257553943871,
+                "right": 0.11032221506865758,
+                "bottom": 0.41696525914162486
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.4020257553943871,
+                "right": 0.26932098169122654,
+                "bottom": 0.41696525914162486
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.4020257553943871,
+                "right": 0.42713163704594237,
+                "bottom": 0.41696525914162486
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.4020257553943871,
+                "right": 0.9209674915301775,
+                "bottom": 0.41696525914162486
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.41696525914162486,
+                "right": 0.11032221506865758,
+                "bottom": 0.43195175358606264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.41696525914162486,
+                "right": 0.26932098169122654,
+                "bottom": 0.43195175358606264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.41696525914162486,
+                "right": 0.42713163704594237,
+                "bottom": 0.43195175358606264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.41696525914162486,
+                "right": 0.9209674915301775,
+                "bottom": 0.43195175358606264
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.43195175358606264,
+                "right": 0.11032221506865758,
+                "bottom": 0.44741057283779284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.43195175358606264,
+                "right": 0.26932098169122654,
+                "bottom": 0.44741057283779284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.43195175358606264,
+                "right": 0.42713163704594237,
+                "bottom": 0.44741057283779284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.43195175358606264,
+                "right": 0.9209674915301775,
+                "bottom": 0.44741057283779284
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.44741057283779284,
+                "right": 0.11032221506865758,
+                "bottom": 0.4625028373311899
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.44741057283779284,
+                "right": 0.26932098169122654,
+                "bottom": 0.4625028373311899
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.44741057283779284,
+                "right": 0.42713163704594237,
+                "bottom": 0.4625028373311899
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.44741057283779284,
+                "right": 0.9209674915301775,
+                "bottom": 0.4625028373311899
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.4625028373311899,
+                "right": 0.11032221506865758,
+                "bottom": 0.4777887881895868
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.4625028373311899,
+                "right": 0.26932098169122654,
+                "bottom": 0.4777887881895868
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.4625028373311899,
+                "right": 0.42713163704594237,
+                "bottom": 0.4777887881895868
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.4625028373311899,
+                "right": 0.9209674915301775,
+                "bottom": 0.4777887881895868
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.4777887881895868,
+                "right": 0.11032221506865758,
+                "bottom": 0.4928235710394322
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.4777887881895868,
+                "right": 0.26932098169122654,
+                "bottom": 0.4928235710394322
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.4777887881895868,
+                "right": 0.42713163704594237,
+                "bottom": 0.4928235710394322
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.4777887881895868,
+                "right": 0.9209674915301775,
+                "bottom": 0.4928235710394322
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.4928235710394322,
+                "right": 0.11032221506865758,
+                "bottom": 0.5079608181973292
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.4928235710394322,
+                "right": 0.26932098169122654,
+                "bottom": 0.5079608181973292
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.4928235710394322,
+                "right": 0.42713163704594237,
+                "bottom": 0.5079608181973292
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.4928235710394322,
+                "right": 0.9209674915301775,
+                "bottom": 0.5079608181973292
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.07450423516450383,
+                "top": 0.5079608181973292,
+                "right": 0.11032221506865758,
+                "bottom": 0.5266457537131384
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.11032221506865758,
+                "top": 0.5079608181973292,
+                "right": 0.26932098169122654,
+                "bottom": 0.5266457537131384
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.26932098169122654,
+                "top": 0.5079608181973292,
+                "right": 0.42713163704594237,
+                "bottom": 0.5266457537131384
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.42713163704594237,
+                "top": 0.5079608181973292,
+                "right": 0.9209674915301775,
+                "bottom": 0.5266457537131384
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "9a613209-ede5-4d30-9eb3-eaf6682ba528": {
+            "box": {
+                "left": 0.06411439180374146,
+                "top": 0.5641717314720154,
+                "right": 0.9254295229911804,
+                "bottom": 0.7144779562950134
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "be19d8d5-90e5-4150-b3e4-c098ecfc35bd": {
+            "box": {
+                "left": 0.9425227046012878,
+                "top": 0.8212598562240601,
+                "right": 0.9687531590461731,
+                "bottom": 0.9192186594009399
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hqcb0079_29.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10940,
+        "credit_usage": 3.0,
+        "job_id": "o0c29hvsskjknxmfhb6c1slir",
+        "version": "dpt-2-20250919"
+    }
+}

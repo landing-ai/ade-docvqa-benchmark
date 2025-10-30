@@ -1,0 +1,428 @@
+{
+    "markdown": "<a id='89a9c973-67a0-4345-a4be-e1e32d6b7c3e'></a>\n\n<::attestation: [Official Stamp]\n[stamped]\n[OFICINA SANITARIA PANAMERICANA]\n[PRO SALUTE NOVI MUNDI]\n[PAN AMERICAN SANITARY BUREAU]\n[WASHINGTON]\nA circular stamp featuring a map of the Americas in the center, surrounded by text, positioned in the upper right quadrant of the image.\n::>\n\n<a id='7e3ce84d-3249-4d48-86c4-c6e5f5c2f61c'></a>\n\n<::logo: World Health Organization (WHO)\nA globe with a staff of Asclepius in the center, encircled by olive branches, rendered in black and white.::>\n\n<a id='52ed957c-8946-4c56-b5e7-f38fb26d5813'></a>\n\nPAN AMERICAN HEALTH ORGANIZATION\nPan American Sanitary Bureau, Regional Office of the\n\n<a id='87fb936f-f4f2-4cb1-81e9-6ab7d4783652'></a>\n\nWORLD HEALTH ORGANIZATION\n\n<a id='0166bc84-1fd0-4c5b-9e7b-6bd8fe72666a'></a>\n\n525 TWENTY-THIRD STREET, N.W., WASHINGTON, D. C. 20037, U.S.A.\n\n<a id='6d5aa02b-72ed-4406-8d77-74e193e8c770'></a>\n\nCABLE ADDRESS: OFSANPAN\n\n<a id='6879243d-a715-4019-aac3-d8d71c453670'></a>\n\nTELEPHONE 223-4700\n\n<a id='cfc8f84f-4aeb-472f-ba41-612e7eeb7d61'></a>\n\nTECHNICAL GROUP MEETING ON MATERNAL\nNUTRITION AND FAMILY PLANNING\n\n<a id='77dc3bc3-8ea5-4c65-8bcd-b953d559c6d4'></a>\n\nOctober 20 - 24, 1969\nWashington, D.C.\n\n<a id='29ba7fe3-a2ab-4b04-be92-269773277b92'></a>\n\nTENTATIVE AGENDA\n---\n\n<a id='c6a40094-2d79-45af-8722-8b84968d930a'></a>\n\nSecretary General - Drs. J. Kevany, R. Camacho and J. Chopra\n\nFirst Day - Monday 20th\n\nI Session - A.M.\n\n9:00 - 10:00 a.m.\nInauguration of the Meeting\nOpening Remarks - Dr. Abraham Horwitz\nOutline of the objectives of the Meeting\nDr. J. Kevany/Dr. R. Camacho\n\n10:00 - 10:20 a.m.\nEffects of Maternal Nutritional Status on:\n(a) Maternal Morbidity and Mortality\n(b) Pregnancy\n(c) Lactation Performance\nDr. Robert E. Shank\n\n<a id='bbd39901-bc20-4934-9d8b-db43eec04f5e'></a>\n\n10:20 - 10:35 a.m. COFFEE BREAK\n\n<a id='4c1b963a-bc50-4146-87c6-c47de597fdb8'></a>\n\n10:35 - 12:30 p.m. Discussion\n\n<a id='19edee5d-b971-4dcf-8887-6f8cec1d082d'></a>\n\nLUNCH BREAK\n\n<a id='ae6e6f35-376a-4171-bc5a-83118aba06a2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pzbd0227\n\n<a id='389194ef-b5f0-4baa-94a1-dde6d3a135b5'></a>\n\nIN REPLY REFER TO:",
+    "chunks": [
+        {
+            "markdown": "<a id='89a9c973-67a0-4345-a4be-e1e32d6b7c3e'></a>\n\n<::attestation: [Official Stamp]\n[stamped]\n[OFICINA SANITARIA PANAMERICANA]\n[PRO SALUTE NOVI MUNDI]\n[PAN AMERICAN SANITARY BUREAU]\n[WASHINGTON]\nA circular stamp featuring a map of the Americas in the center, surrounded by text, positioned in the upper right quadrant of the image.\n::>",
+            "type": "attestation",
+            "id": "89a9c973-67a0-4345-a4be-e1e32d6b7c3e",
+            "grounding": {
+                "box": {
+                    "left": 0.18204733729362488,
+                    "top": 0.046165451407432556,
+                    "right": 0.2836875915527344,
+                    "bottom": 0.12483114004135132
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7e3ce84d-3249-4d48-86c4-c6e5f5c2f61c'></a>\n\n<::logo: World Health Organization (WHO)\nA globe with a staff of Asclepius in the center, encircled by olive branches, rendered in black and white.::>",
+            "type": "logo",
+            "id": "7e3ce84d-3249-4d48-86c4-c6e5f5c2f61c",
+            "grounding": {
+                "box": {
+                    "left": 0.10842344164848328,
+                    "top": 0.10693344473838806,
+                    "right": 0.21683847904205322,
+                    "bottom": 0.18409466743469238
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='52ed957c-8946-4c56-b5e7-f38fb26d5813'></a>\n\nPAN AMERICAN HEALTH ORGANIZATION\nPan American Sanitary Bureau, Regional Office of the",
+            "type": "text",
+            "id": "52ed957c-8946-4c56-b5e7-f38fb26d5813",
+            "grounding": {
+                "box": {
+                    "left": 0.27609017491340637,
+                    "top": 0.07253237068653107,
+                    "right": 0.8974639177322388,
+                    "bottom": 0.13407407701015472
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='87fb936f-f4f2-4cb1-81e9-6ab7d4783652'></a>\n\nWORLD HEALTH ORGANIZATION",
+            "type": "text",
+            "id": "87fb936f-f4f2-4cb1-81e9-6ab7d4783652",
+            "grounding": {
+                "box": {
+                    "left": 0.22933651506900787,
+                    "top": 0.13000795245170593,
+                    "right": 0.7197872400283813,
+                    "bottom": 0.1524474322795868
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0166bc84-1fd0-4c5b-9e7b-6bd8fe72666a'></a>\n\n525 TWENTY-THIRD STREET, N.W., WASHINGTON, D. C. 20037, U.S.A.",
+            "type": "text",
+            "id": "0166bc84-1fd0-4c5b-9e7b-6bd8fe72666a",
+            "grounding": {
+                "box": {
+                    "left": 0.23235270380973816,
+                    "top": 0.16963790357112885,
+                    "right": 0.6579521894454956,
+                    "bottom": 0.18735940754413605
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6d5aa02b-72ed-4406-8d77-74e193e8c770'></a>\n\nCABLE ADDRESS: OFSANPAN",
+            "type": "text",
+            "id": "6d5aa02b-72ed-4406-8d77-74e193e8c770",
+            "grounding": {
+                "box": {
+                    "left": 0.6943649649620056,
+                    "top": 0.16814535856246948,
+                    "right": 0.8936594128608704,
+                    "bottom": 0.1868046522140503
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6879243d-a715-4019-aac3-d8d71c453670'></a>\n\nTELEPHONE 223-4700",
+            "type": "text",
+            "id": "6879243d-a715-4019-aac3-d8d71c453670",
+            "grounding": {
+                "box": {
+                    "left": 0.6985281705856323,
+                    "top": 0.2007495015859604,
+                    "right": 0.843440055847168,
+                    "bottom": 0.21884001791477203
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cfc8f84f-4aeb-472f-ba41-612e7eeb7d61'></a>\n\nTECHNICAL GROUP MEETING ON MATERNAL\nNUTRITION AND FAMILY PLANNING",
+            "type": "text",
+            "id": "cfc8f84f-4aeb-472f-ba41-612e7eeb7d61",
+            "grounding": {
+                "box": {
+                    "left": 0.2825845181941986,
+                    "top": 0.25774261355400085,
+                    "right": 0.708107590675354,
+                    "bottom": 0.31786981225013733
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='77dc3bc3-8ea5-4c65-8bcd-b953d559c6d4'></a>\n\nOctober 20 - 24, 1969\nWashington, D.C.",
+            "type": "text",
+            "id": "77dc3bc3-8ea5-4c65-8bcd-b953d559c6d4",
+            "grounding": {
+                "box": {
+                    "left": 0.3777114450931549,
+                    "top": 0.34361353516578674,
+                    "right": 0.5973717570304871,
+                    "bottom": 0.39162763953208923
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='29ba7fe3-a2ab-4b04-be92-269773277b92'></a>\n\nTENTATIVE AGENDA\n---",
+            "type": "text",
+            "id": "29ba7fe3-a2ab-4b04-be92-269773277b92",
+            "grounding": {
+                "box": {
+                    "left": 0.37992897629737854,
+                    "top": 0.4065341651439667,
+                    "right": 0.5779370665550232,
+                    "bottom": 0.4347420036792755
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c6a40094-2d79-45af-8722-8b84968d930a'></a>\n\nSecretary General - Drs. J. Kevany, R. Camacho and J. Chopra\n\nFirst Day - Monday 20th\n\nI Session - A.M.\n\n9:00 - 10:00 a.m.\nInauguration of the Meeting\nOpening Remarks - Dr. Abraham Horwitz\nOutline of the objectives of the Meeting\nDr. J. Kevany/Dr. R. Camacho\n\n10:00 - 10:20 a.m.\nEffects of Maternal Nutritional Status on:\n(a) Maternal Morbidity and Mortality\n(b) Pregnancy\n(c) Lactation Performance\nDr. Robert E. Shank",
+            "type": "text",
+            "id": "c6a40094-2d79-45af-8722-8b84968d930a",
+            "grounding": {
+                "box": {
+                    "left": 0.043149083852767944,
+                    "top": 0.47928386926651,
+                    "right": 0.9159471988677979,
+                    "bottom": 0.8336461186408997
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bbd39901-bc20-4934-9d8b-db43eec04f5e'></a>\n\n10:20 - 10:35 a.m. COFFEE BREAK",
+            "type": "text",
+            "id": "bbd39901-bc20-4934-9d8b-db43eec04f5e",
+            "grounding": {
+                "box": {
+                    "left": 0.035828739404678345,
+                    "top": 0.8411646485328674,
+                    "right": 0.5248978137969971,
+                    "bottom": 0.8689553141593933
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4c1b963a-bc50-4146-87c6-c47de597fdb8'></a>\n\n10:35 - 12:30 p.m. Discussion",
+            "type": "text",
+            "id": "4c1b963a-bc50-4146-87c6-c47de597fdb8",
+            "grounding": {
+                "box": {
+                    "left": 0.03493413329124451,
+                    "top": 0.87465500831604,
+                    "right": 0.4098871648311615,
+                    "bottom": 0.903386116027832
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='19edee5d-b971-4dcf-8887-6f8cec1d082d'></a>\n\nLUNCH BREAK",
+            "type": "text",
+            "id": "19edee5d-b971-4dcf-8887-6f8cec1d082d",
+            "grounding": {
+                "box": {
+                    "left": 0.3694915175437927,
+                    "top": 0.9115543961524963,
+                    "right": 0.5199049711227417,
+                    "bottom": 0.9384540915489197
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ae6e6f35-376a-4171-bc5a-83118aba06a2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pzbd0227",
+            "type": "marginalia",
+            "id": "ae6e6f35-376a-4171-bc5a-83118aba06a2",
+            "grounding": {
+                "box": {
+                    "left": 0.2248978316783905,
+                    "top": 0.9782989621162415,
+                    "right": 0.7798510789871216,
+                    "bottom": 1.0000059604644775
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='389194ef-b5f0-4baa-94a1-dde6d3a135b5'></a>\n\nIN REPLY REFER TO:",
+            "type": "text",
+            "id": "389194ef-b5f0-4baa-94a1-dde6d3a135b5",
+            "grounding": {
+                "box": {
+                    "left": 0.05450867861509323,
+                    "top": 0.20179612934589386,
+                    "right": 0.2027662694454193,
+                    "bottom": 0.22101522982120514
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='89a9c973-67a0-4345-a4be-e1e32d6b7c3e'></a>\n\n<::attestation: [Official Stamp]\n[stamped]\n[OFICINA SANITARIA PANAMERICANA]\n[PRO SALUTE NOVI MUNDI]\n[PAN AMERICAN SANITARY BUREAU]\n[WASHINGTON]\nA circular stamp featuring a map of the Americas in the center, surrounded by text, positioned in the upper right quadrant of the image.\n::>\n\n<a id='7e3ce84d-3249-4d48-86c4-c6e5f5c2f61c'></a>\n\n<::logo: World Health Organization (WHO)\nA globe with a staff of Asclepius in the center, encircled by olive branches, rendered in black and white.::>\n\n<a id='52ed957c-8946-4c56-b5e7-f38fb26d5813'></a>\n\nPAN AMERICAN HEALTH ORGANIZATION\nPan American Sanitary Bureau, Regional Office of the\n\n<a id='87fb936f-f4f2-4cb1-81e9-6ab7d4783652'></a>\n\nWORLD HEALTH ORGANIZATION\n\n<a id='0166bc84-1fd0-4c5b-9e7b-6bd8fe72666a'></a>\n\n525 TWENTY-THIRD STREET, N.W., WASHINGTON, D. C. 20037, U.S.A.\n\n<a id='6d5aa02b-72ed-4406-8d77-74e193e8c770'></a>\n\nCABLE ADDRESS: OFSANPAN\n\n<a id='6879243d-a715-4019-aac3-d8d71c453670'></a>\n\nTELEPHONE 223-4700\n\n<a id='cfc8f84f-4aeb-472f-ba41-612e7eeb7d61'></a>\n\nTECHNICAL GROUP MEETING ON MATERNAL\nNUTRITION AND FAMILY PLANNING\n\n<a id='77dc3bc3-8ea5-4c65-8bcd-b953d559c6d4'></a>\n\nOctober 20 - 24, 1969\nWashington, D.C.\n\n<a id='29ba7fe3-a2ab-4b04-be92-269773277b92'></a>\n\nTENTATIVE AGENDA\n---\n\n<a id='c6a40094-2d79-45af-8722-8b84968d930a'></a>\n\nSecretary General - Drs. J. Kevany, R. Camacho and J. Chopra\n\nFirst Day - Monday 20th\n\nI Session - A.M.\n\n9:00 - 10:00 a.m.\nInauguration of the Meeting\nOpening Remarks - Dr. Abraham Horwitz\nOutline of the objectives of the Meeting\nDr. J. Kevany/Dr. R. Camacho\n\n10:00 - 10:20 a.m.\nEffects of Maternal Nutritional Status on:\n(a) Maternal Morbidity and Mortality\n(b) Pregnancy\n(c) Lactation Performance\nDr. Robert E. Shank\n\n<a id='bbd39901-bc20-4934-9d8b-db43eec04f5e'></a>\n\n10:20 - 10:35 a.m. COFFEE BREAK\n\n<a id='4c1b963a-bc50-4146-87c6-c47de597fdb8'></a>\n\n10:35 - 12:30 p.m. Discussion\n\n<a id='19edee5d-b971-4dcf-8887-6f8cec1d082d'></a>\n\nLUNCH BREAK\n\n<a id='ae6e6f35-376a-4171-bc5a-83118aba06a2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pzbd0227\n\n<a id='389194ef-b5f0-4baa-94a1-dde6d3a135b5'></a>\n\nIN REPLY REFER TO:",
+            "chunks": [
+                "89a9c973-67a0-4345-a4be-e1e32d6b7c3e",
+                "7e3ce84d-3249-4d48-86c4-c6e5f5c2f61c",
+                "52ed957c-8946-4c56-b5e7-f38fb26d5813",
+                "87fb936f-f4f2-4cb1-81e9-6ab7d4783652",
+                "0166bc84-1fd0-4c5b-9e7b-6bd8fe72666a",
+                "6d5aa02b-72ed-4406-8d77-74e193e8c770",
+                "6879243d-a715-4019-aac3-d8d71c453670",
+                "cfc8f84f-4aeb-472f-ba41-612e7eeb7d61",
+                "77dc3bc3-8ea5-4c65-8bcd-b953d559c6d4",
+                "29ba7fe3-a2ab-4b04-be92-269773277b92",
+                "c6a40094-2d79-45af-8722-8b84968d930a",
+                "bbd39901-bc20-4934-9d8b-db43eec04f5e",
+                "4c1b963a-bc50-4146-87c6-c47de597fdb8",
+                "19edee5d-b971-4dcf-8887-6f8cec1d082d",
+                "ae6e6f35-376a-4171-bc5a-83118aba06a2",
+                "389194ef-b5f0-4baa-94a1-dde6d3a135b5"
+            ]
+        }
+    ],
+    "grounding": {
+        "89a9c973-67a0-4345-a4be-e1e32d6b7c3e": {
+            "box": {
+                "left": 0.18204733729362488,
+                "top": 0.046165451407432556,
+                "right": 0.2836875915527344,
+                "bottom": 0.12483114004135132
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "7e3ce84d-3249-4d48-86c4-c6e5f5c2f61c": {
+            "box": {
+                "left": 0.10842344164848328,
+                "top": 0.10693344473838806,
+                "right": 0.21683847904205322,
+                "bottom": 0.18409466743469238
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "52ed957c-8946-4c56-b5e7-f38fb26d5813": {
+            "box": {
+                "left": 0.27609017491340637,
+                "top": 0.07253237068653107,
+                "right": 0.8974639177322388,
+                "bottom": 0.13407407701015472
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "87fb936f-f4f2-4cb1-81e9-6ab7d4783652": {
+            "box": {
+                "left": 0.22933651506900787,
+                "top": 0.13000795245170593,
+                "right": 0.7197872400283813,
+                "bottom": 0.1524474322795868
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0166bc84-1fd0-4c5b-9e7b-6bd8fe72666a": {
+            "box": {
+                "left": 0.23235270380973816,
+                "top": 0.16963790357112885,
+                "right": 0.6579521894454956,
+                "bottom": 0.18735940754413605
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6d5aa02b-72ed-4406-8d77-74e193e8c770": {
+            "box": {
+                "left": 0.6943649649620056,
+                "top": 0.16814535856246948,
+                "right": 0.8936594128608704,
+                "bottom": 0.1868046522140503
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6879243d-a715-4019-aac3-d8d71c453670": {
+            "box": {
+                "left": 0.6985281705856323,
+                "top": 0.2007495015859604,
+                "right": 0.843440055847168,
+                "bottom": 0.21884001791477203
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cfc8f84f-4aeb-472f-ba41-612e7eeb7d61": {
+            "box": {
+                "left": 0.2825845181941986,
+                "top": 0.25774261355400085,
+                "right": 0.708107590675354,
+                "bottom": 0.31786981225013733
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "77dc3bc3-8ea5-4c65-8bcd-b953d559c6d4": {
+            "box": {
+                "left": 0.3777114450931549,
+                "top": 0.34361353516578674,
+                "right": 0.5973717570304871,
+                "bottom": 0.39162763953208923
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "29ba7fe3-a2ab-4b04-be92-269773277b92": {
+            "box": {
+                "left": 0.37992897629737854,
+                "top": 0.4065341651439667,
+                "right": 0.5779370665550232,
+                "bottom": 0.4347420036792755
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c6a40094-2d79-45af-8722-8b84968d930a": {
+            "box": {
+                "left": 0.043149083852767944,
+                "top": 0.47928386926651,
+                "right": 0.9159471988677979,
+                "bottom": 0.8336461186408997
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bbd39901-bc20-4934-9d8b-db43eec04f5e": {
+            "box": {
+                "left": 0.035828739404678345,
+                "top": 0.8411646485328674,
+                "right": 0.5248978137969971,
+                "bottom": 0.8689553141593933
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4c1b963a-bc50-4146-87c6-c47de597fdb8": {
+            "box": {
+                "left": 0.03493413329124451,
+                "top": 0.87465500831604,
+                "right": 0.4098871648311615,
+                "bottom": 0.903386116027832
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "19edee5d-b971-4dcf-8887-6f8cec1d082d": {
+            "box": {
+                "left": 0.3694915175437927,
+                "top": 0.9115543961524963,
+                "right": 0.5199049711227417,
+                "bottom": 0.9384540915489197
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ae6e6f35-376a-4171-bc5a-83118aba06a2": {
+            "box": {
+                "left": 0.2248978316783905,
+                "top": 0.9782989621162415,
+                "right": 0.7798510789871216,
+                "bottom": 1.0000059604644775
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "389194ef-b5f0-4baa-94a1-dde6d3a135b5": {
+            "box": {
+                "left": 0.05450867861509323,
+                "top": 0.20179612934589386,
+                "right": 0.2027662694454193,
+                "bottom": 0.22101522982120514
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "pzbd0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8026,
+        "credit_usage": 3.0,
+        "job_id": "xhtot4y3wsqisrq6jt4ve873f",
+        "version": "dpt-2-20250919"
+    }
+}

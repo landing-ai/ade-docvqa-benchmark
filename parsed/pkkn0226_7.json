@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='d2d20a0f-6574-4c4f-8996-4a7d9cfd1594'></a>\n\n2012 US Tobacco Brand Tracker\nUsual Brand\nFactory-Made Versus Roll-Your-Own\n\n<a id='61a749ff-1d58-4449-b30e-32f50f62c8d0'></a>\n\n<table><thead><tr><th>Usual Brand</th><th>%</th></tr></thead><tbody><tr><td>Factory-Made</td><td>97.9%</td></tr><tr><td>Roll-Your-Own</td><td>1.3%</td></tr><tr><td>No Usual Brand</td><td>0.8%</td></tr></tbody></table>\n\n<a id='1588de60-a248-4a6a-883b-21cd5da62ac8'></a>\n\nBase: *Adult Smokers 21+ (21,294)*\n\n<a id='4550457c-07c0-4a9e-b50e-8da3f3dd7f4d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pkkn0226\n\n<a id='5343771c-2656-4857-9a94-b5607a853ee6'></a>\n\n53717 2573",
+    "chunks": [
+        {
+            "markdown": "<a id='d2d20a0f-6574-4c4f-8996-4a7d9cfd1594'></a>\n\n2012 US Tobacco Brand Tracker\nUsual Brand\nFactory-Made Versus Roll-Your-Own",
+            "type": "text",
+            "id": "d2d20a0f-6574-4c4f-8996-4a7d9cfd1594",
+            "grounding": {
+                "box": {
+                    "left": 0.14626091718673706,
+                    "top": 0.06818884611129761,
+                    "right": 0.8009622097015381,
+                    "bottom": 0.2786908745765686
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='61a749ff-1d58-4449-b30e-32f50f62c8d0'></a>\n\n<table><thead><tr><th>Usual Brand</th><th>%</th></tr></thead><tbody><tr><td>Factory-Made</td><td>97.9%</td></tr><tr><td>Roll-Your-Own</td><td>1.3%</td></tr><tr><td>No Usual Brand</td><td>0.8%</td></tr></tbody></table>",
+            "type": "table",
+            "id": "61a749ff-1d58-4449-b30e-32f50f62c8d0",
+            "grounding": {
+                "box": {
+                    "left": 0.3041221499443054,
+                    "top": 0.3574677109718323,
+                    "right": 0.7204093337059021,
+                    "bottom": 0.7184290289878845
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1588de60-a248-4a6a-883b-21cd5da62ac8'></a>\n\nBase: *Adult Smokers 21+ (21,294)*",
+            "type": "text",
+            "id": "1588de60-a248-4a6a-883b-21cd5da62ac8",
+            "grounding": {
+                "box": {
+                    "left": 0.221064031124115,
+                    "top": 0.8525876402854919,
+                    "right": 0.4715754985809326,
+                    "bottom": 0.8904715180397034
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4550457c-07c0-4a9e-b50e-8da3f3dd7f4d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pkkn0226",
+            "type": "marginalia",
+            "id": "4550457c-07c0-4a9e-b50e-8da3f3dd7f4d",
+            "grounding": {
+                "box": {
+                    "left": 0.2761714458465576,
+                    "top": 0.9683083295822144,
+                    "right": 0.7235298752784729,
+                    "bottom": 0.999779462814331
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5343771c-2656-4857-9a94-b5607a853ee6'></a>\n\n53717 2573",
+            "type": "marginalia",
+            "id": "5343771c-2656-4857-9a94-b5607a853ee6",
+            "grounding": {
+                "box": {
+                    "left": 0.028174985200166702,
+                    "top": 0.8154332637786865,
+                    "right": 0.05564593896269798,
+                    "bottom": 0.9471559524536133
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d2d20a0f-6574-4c4f-8996-4a7d9cfd1594'></a>\n\n2012 US Tobacco Brand Tracker\nUsual Brand\nFactory-Made Versus Roll-Your-Own\n\n<a id='61a749ff-1d58-4449-b30e-32f50f62c8d0'></a>\n\n<table><thead><tr><th>Usual Brand</th><th>%</th></tr></thead><tbody><tr><td>Factory-Made</td><td>97.9%</td></tr><tr><td>Roll-Your-Own</td><td>1.3%</td></tr><tr><td>No Usual Brand</td><td>0.8%</td></tr></tbody></table>\n\n<a id='1588de60-a248-4a6a-883b-21cd5da62ac8'></a>\n\nBase: *Adult Smokers 21+ (21,294)*\n\n<a id='4550457c-07c0-4a9e-b50e-8da3f3dd7f4d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pkkn0226\n\n<a id='5343771c-2656-4857-9a94-b5607a853ee6'></a>\n\n53717 2573",
+            "chunks": [
+                "d2d20a0f-6574-4c4f-8996-4a7d9cfd1594",
+                "61a749ff-1d58-4449-b30e-32f50f62c8d0",
+                "1588de60-a248-4a6a-883b-21cd5da62ac8",
+                "4550457c-07c0-4a9e-b50e-8da3f3dd7f4d",
+                "5343771c-2656-4857-9a94-b5607a853ee6"
+            ]
+        }
+    ],
+    "grounding": {
+        "d2d20a0f-6574-4c4f-8996-4a7d9cfd1594": {
+            "box": {
+                "left": 0.14626091718673706,
+                "top": 0.06818884611129761,
+                "right": 0.8009622097015381,
+                "bottom": 0.2786908745765686
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "61a749ff-1d58-4449-b30e-32f50f62c8d0": {
+            "box": {
+                "left": 0.3041221499443054,
+                "top": 0.3574677109718323,
+                "right": 0.7204093337059021,
+                "bottom": 0.7184290289878845
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "1588de60-a248-4a6a-883b-21cd5da62ac8": {
+            "box": {
+                "left": 0.221064031124115,
+                "top": 0.8525876402854919,
+                "right": 0.4715754985809326,
+                "bottom": 0.8904715180397034
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4550457c-07c0-4a9e-b50e-8da3f3dd7f4d": {
+            "box": {
+                "left": 0.2761714458465576,
+                "top": 0.9683083295822144,
+                "right": 0.7235298752784729,
+                "bottom": 0.999779462814331
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "5343771c-2656-4857-9a94-b5607a853ee6": {
+            "box": {
+                "left": 0.028174985200166702,
+                "top": 0.8154332637786865,
+                "right": 0.05564593896269798,
+                "bottom": 0.9471559524536133
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "pkkn0226_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 24067,
+        "credit_usage": 3.0,
+        "job_id": "v88616umsnkxwnsxynv67vf75",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='9635edd1-3008-4261-aac3-1696ca7d94c2'></a>\n\n<::attestation: Signature/Handwritten name\nSignature: legible\nReadable Text: SABRY\nA handwritten name, centrally located::>\n\n<a id='e49d1b5f-b4af-43ae-b378-d66083e9dafe'></a>\n\n10/81\n\n<a id='24f89677-b409-4492-b67c-77e275390536'></a>\n\nCURRICULUM VITA\n\n<a id='895971c3-b2c5-4843-836e-1c00b8db3be5'></a>\n\nZ.I. Sabry\nDirector, Food Policy and Nutrition Division\nFood and Agriculture Organization of the United Nations\nVia delle Terme di Caracalla\n00100 Rome, Italy\nTelephone: 06-57973330\n\n<a id='f508ba5b-ccb1-4a9f-8b7a-54e2630607d1'></a>\n\nGeneral Information\n\nDate and Place of Birth: 16 August 1932, Egypt\nSex: Male\nMarital Status: Separated\nCitizenship: Canadian\n\nHeight: 165 cm (5'6\")\nWeight: 59 kg (130 lb.)\nChildren: Two\n\n<a id='5f2af612-7220-4e3a-8365-3e9f7b4bce14'></a>\n\nEducation\nB.Sc. Food Technology (Ain Shamse University, Cairo, Egypt)\n1952\nM.Sc. Food Technology (University of Massachusetts, Amherst,\nMassachusetts) 1954\nPh.D. Biochemistry (Pennsylvania State University, University Park,\nPennsylvania) 1957\n\n<a id='008769f6-6588-4d14-a594-a9c549736dfd'></a>\n\nSocieties\n\nCanadian Institute of Food Science and Technology\nThe Nutrition Society of Canada\nAmerican Institute of Nutrition\nThe Nutrition Society\nAmerican Association for the Advancement of Science\nGamma Sigma Delta (Honorary Agriculture)\nPhi Lambda Upsilon (Honorary Chemistry)\nSigma Xi (Honorary Science)\n\n<a id='1325b2d2-18b7-447e-ba45-c2f324572245'></a>\n\nExperience\n\n1957 - 1961 Assistant Professor, Division of Food Technology\nAmerican University of Beirut, Lebanon\n\n1961 - 1962 NRC Postdoctoral Fellow, Nutrition Division, Food and\nDrug Laboratories, Ottawa, Canada\n\n1962 - 1964 Associate Professor and Head, Division of Food Technology\nand Nutrition, American University of Beirut, Lebanon\n\n1964 - 1969 Associate Professor, Department of Nutrition, School of\nHygiene, University of Toronto, Canada",
+    "chunks": [
+        {
+            "markdown": "<a id='9635edd1-3008-4261-aac3-1696ca7d94c2'></a>\n\n<::attestation: Signature/Handwritten name\nSignature: legible\nReadable Text: SABRY\nA handwritten name, centrally located::>",
+            "type": "attestation",
+            "id": "9635edd1-3008-4261-aac3-1696ca7d94c2",
+            "grounding": {
+                "box": {
+                    "left": 0.7840985655784607,
+                    "top": 0.010154296644032001,
+                    "right": 0.880086362361908,
+                    "bottom": 0.03625073656439781
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e49d1b5f-b4af-43ae-b378-d66083e9dafe'></a>\n\n10/81",
+            "type": "marginalia",
+            "id": "e49d1b5f-b4af-43ae-b378-d66083e9dafe",
+            "grounding": {
+                "box": {
+                    "left": 0.8495557308197021,
+                    "top": 0.04135618731379509,
+                    "right": 0.9207243919372559,
+                    "bottom": 0.06541892886161804
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='24f89677-b409-4492-b67c-77e275390536'></a>\n\nCURRICULUM VITA",
+            "type": "marginalia",
+            "id": "24f89677-b409-4492-b67c-77e275390536",
+            "grounding": {
+                "box": {
+                    "left": 0.40342965722084045,
+                    "top": 0.11064475774765015,
+                    "right": 0.5733352899551392,
+                    "bottom": 0.13405799865722656
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='895971c3-b2c5-4843-836e-1c00b8db3be5'></a>\n\nZ.I. Sabry\nDirector, Food Policy and Nutrition Division\nFood and Agriculture Organization of the United Nations\nVia delle Terme di Caracalla\n00100 Rome, Italy\nTelephone: 06-57973330",
+            "type": "text",
+            "id": "895971c3-b2c5-4843-836e-1c00b8db3be5",
+            "grounding": {
+                "box": {
+                    "left": 0.1434822678565979,
+                    "top": 0.18187734484672546,
+                    "right": 0.7123516201972961,
+                    "bottom": 0.27673742175102234
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f508ba5b-ccb1-4a9f-8b7a-54e2630607d1'></a>\n\nGeneral Information\n\nDate and Place of Birth: 16 August 1932, Egypt\nSex: Male\nMarital Status: Separated\nCitizenship: Canadian\n\nHeight: 165 cm (5'6\")\nWeight: 59 kg (130 lb.)\nChildren: Two",
+            "type": "text",
+            "id": "f508ba5b-ccb1-4a9f-8b7a-54e2630607d1",
+            "grounding": {
+                "box": {
+                    "left": 0.14473533630371094,
+                    "top": 0.2972007393836975,
+                    "right": 0.940158486366272,
+                    "bottom": 0.39064109325408936
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5f2af612-7220-4e3a-8365-3e9f7b4bce14'></a>\n\nEducation\nB.Sc. Food Technology (Ain Shamse University, Cairo, Egypt)\n1952\nM.Sc. Food Technology (University of Massachusetts, Amherst,\nMassachusetts) 1954\nPh.D. Biochemistry (Pennsylvania State University, University Park,\nPennsylvania) 1957",
+            "type": "text",
+            "id": "5f2af612-7220-4e3a-8365-3e9f7b4bce14",
+            "grounding": {
+                "box": {
+                    "left": 0.1431645154953003,
+                    "top": 0.41101691126823425,
+                    "right": 0.8570730686187744,
+                    "bottom": 0.5461863875389099
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='008769f6-6588-4d14-a594-a9c549736dfd'></a>\n\nSocieties\n\nCanadian Institute of Food Science and Technology\nThe Nutrition Society of Canada\nAmerican Institute of Nutrition\nThe Nutrition Society\nAmerican Association for the Advancement of Science\nGamma Sigma Delta (Honorary Agriculture)\nPhi Lambda Upsilon (Honorary Chemistry)\nSigma Xi (Honorary Science)",
+            "type": "text",
+            "id": "008769f6-6588-4d14-a594-a9c549736dfd",
+            "grounding": {
+                "box": {
+                    "left": 0.14458751678466797,
+                    "top": 0.5660985112190247,
+                    "right": 0.6824869513511658,
+                    "bottom": 0.7172039151191711
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1325b2d2-18b7-447e-ba45-c2f324572245'></a>\n\nExperience\n\n1957 - 1961 Assistant Professor, Division of Food Technology\nAmerican University of Beirut, Lebanon\n\n1961 - 1962 NRC Postdoctoral Fellow, Nutrition Division, Food and\nDrug Laboratories, Ottawa, Canada\n\n1962 - 1964 Associate Professor and Head, Division of Food Technology\nand Nutrition, American University of Beirut, Lebanon\n\n1964 - 1969 Associate Professor, Department of Nutrition, School of\nHygiene, University of Toronto, Canada",
+            "type": "text",
+            "id": "1325b2d2-18b7-447e-ba45-c2f324572245",
+            "grounding": {
+                "box": {
+                    "left": 0.14675506949424744,
+                    "top": 0.7343096733093262,
+                    "right": 0.8851543664932251,
+                    "bottom": 0.9095932245254517
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='9635edd1-3008-4261-aac3-1696ca7d94c2'></a>\n\n<::attestation: Signature/Handwritten name\nSignature: legible\nReadable Text: SABRY\nA handwritten name, centrally located::>\n\n<a id='e49d1b5f-b4af-43ae-b378-d66083e9dafe'></a>\n\n10/81\n\n<a id='24f89677-b409-4492-b67c-77e275390536'></a>\n\nCURRICULUM VITA\n\n<a id='895971c3-b2c5-4843-836e-1c00b8db3be5'></a>\n\nZ.I. Sabry\nDirector, Food Policy and Nutrition Division\nFood and Agriculture Organization of the United Nations\nVia delle Terme di Caracalla\n00100 Rome, Italy\nTelephone: 06-57973330\n\n<a id='f508ba5b-ccb1-4a9f-8b7a-54e2630607d1'></a>\n\nGeneral Information\n\nDate and Place of Birth: 16 August 1932, Egypt\nSex: Male\nMarital Status: Separated\nCitizenship: Canadian\n\nHeight: 165 cm (5'6\")\nWeight: 59 kg (130 lb.)\nChildren: Two\n\n<a id='5f2af612-7220-4e3a-8365-3e9f7b4bce14'></a>\n\nEducation\nB.Sc. Food Technology (Ain Shamse University, Cairo, Egypt)\n1952\nM.Sc. Food Technology (University of Massachusetts, Amherst,\nMassachusetts) 1954\nPh.D. Biochemistry (Pennsylvania State University, University Park,\nPennsylvania) 1957\n\n<a id='008769f6-6588-4d14-a594-a9c549736dfd'></a>\n\nSocieties\n\nCanadian Institute of Food Science and Technology\nThe Nutrition Society of Canada\nAmerican Institute of Nutrition\nThe Nutrition Society\nAmerican Association for the Advancement of Science\nGamma Sigma Delta (Honorary Agriculture)\nPhi Lambda Upsilon (Honorary Chemistry)\nSigma Xi (Honorary Science)\n\n<a id='1325b2d2-18b7-447e-ba45-c2f324572245'></a>\n\nExperience\n\n1957 - 1961 Assistant Professor, Division of Food Technology\nAmerican University of Beirut, Lebanon\n\n1961 - 1962 NRC Postdoctoral Fellow, Nutrition Division, Food and\nDrug Laboratories, Ottawa, Canada\n\n1962 - 1964 Associate Professor and Head, Division of Food Technology\nand Nutrition, American University of Beirut, Lebanon\n\n1964 - 1969 Associate Professor, Department of Nutrition, School of\nHygiene, University of Toronto, Canada",
+            "chunks": [
+                "9635edd1-3008-4261-aac3-1696ca7d94c2",
+                "e49d1b5f-b4af-43ae-b378-d66083e9dafe",
+                "24f89677-b409-4492-b67c-77e275390536",
+                "895971c3-b2c5-4843-836e-1c00b8db3be5",
+                "f508ba5b-ccb1-4a9f-8b7a-54e2630607d1",
+                "5f2af612-7220-4e3a-8365-3e9f7b4bce14",
+                "008769f6-6588-4d14-a594-a9c549736dfd",
+                "1325b2d2-18b7-447e-ba45-c2f324572245"
+            ]
+        }
+    ],
+    "grounding": {
+        "9635edd1-3008-4261-aac3-1696ca7d94c2": {
+            "box": {
+                "left": 0.7840985655784607,
+                "top": 0.010154296644032001,
+                "right": 0.880086362361908,
+                "bottom": 0.03625073656439781
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "e49d1b5f-b4af-43ae-b378-d66083e9dafe": {
+            "box": {
+                "left": 0.8495557308197021,
+                "top": 0.04135618731379509,
+                "right": 0.9207243919372559,
+                "bottom": 0.06541892886161804
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "24f89677-b409-4492-b67c-77e275390536": {
+            "box": {
+                "left": 0.40342965722084045,
+                "top": 0.11064475774765015,
+                "right": 0.5733352899551392,
+                "bottom": 0.13405799865722656
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "895971c3-b2c5-4843-836e-1c00b8db3be5": {
+            "box": {
+                "left": 0.1434822678565979,
+                "top": 0.18187734484672546,
+                "right": 0.7123516201972961,
+                "bottom": 0.27673742175102234
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f508ba5b-ccb1-4a9f-8b7a-54e2630607d1": {
+            "box": {
+                "left": 0.14473533630371094,
+                "top": 0.2972007393836975,
+                "right": 0.940158486366272,
+                "bottom": 0.39064109325408936
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5f2af612-7220-4e3a-8365-3e9f7b4bce14": {
+            "box": {
+                "left": 0.1431645154953003,
+                "top": 0.41101691126823425,
+                "right": 0.8570730686187744,
+                "bottom": 0.5461863875389099
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "008769f6-6588-4d14-a594-a9c549736dfd": {
+            "box": {
+                "left": 0.14458751678466797,
+                "top": 0.5660985112190247,
+                "right": 0.6824869513511658,
+                "bottom": 0.7172039151191711
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1325b2d2-18b7-447e-ba45-c2f324572245": {
+            "box": {
+                "left": 0.14675506949424744,
+                "top": 0.7343096733093262,
+                "right": 0.8851543664932251,
+                "bottom": 0.9095932245254517
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "zmcj0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5566,
+        "credit_usage": 3.0,
+        "job_id": "yvjq6s14kkqgk4an6zie2n73p",
+        "version": "dpt-2-20250919"
+    }
+}

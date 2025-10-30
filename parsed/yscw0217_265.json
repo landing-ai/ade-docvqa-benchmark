@@ -1,0 +1,318 @@
+{
+    "markdown": "<a id='a9e1d2ce-fa0c-4e99-815a-51481176d4dd'></a>\n\nTable 1. Baseline Clinical Characteristics of Study Participants (n=20)\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Age, y, mean \u00b1 SD</td><td id=\"0-3\">52 \u00b1 6</td></tr>\n<tr><td id=\"0-4\">Years since menopause, mean \u00b1 SD</td><td id=\"0-5\">4 \u00b1 3</td></tr>\n<tr><td id=\"0-6\">Body mass index, kg/m\u00b2, mean \u00b1 SD</td><td id=\"0-7\">26.1 \u00b1 3.2</td></tr>\n<tr><td id=\"0-8\">CAD Risk Factors</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Hypercholesterolemia (Serum Chol > 200mg/dL), n</td><td id=\"0-b\">12</td></tr>\n<tr><td id=\"0-c\">Diagnosed Type II Diabetes, n</td><td id=\"0-d\">4</td></tr>\n<tr><td id=\"0-e\">Hypertension (Grade II or Greater), n</td><td id=\"0-f\">0</td></tr>\n<tr><td id=\"0-g\">Current Cigarette Smoking, n</td><td id=\"0-h\">7</td></tr>\n<tr><td id=\"0-i\">Family History, n</td><td id=\"0-j\">14</td></tr>\n</table>\n\n<a id='12883adc-bf60-4caf-93d0-b45331577a3d'></a>\n\n21\n\n<a id='ee239507-958a-43f1-9323-8122c43f1892'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217\n\n<a id='f8ad79d2-dd96-4bc5-a8ea-378fbf44c099'></a>\n\nDWRITE 068076",
+    "chunks": [
+        {
+            "markdown": "<a id='a9e1d2ce-fa0c-4e99-815a-51481176d4dd'></a>\n\nTable 1. Baseline Clinical Characteristics of Study Participants (n=20)\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Age, y, mean \u00b1 SD</td><td id=\"0-3\">52 \u00b1 6</td></tr>\n<tr><td id=\"0-4\">Years since menopause, mean \u00b1 SD</td><td id=\"0-5\">4 \u00b1 3</td></tr>\n<tr><td id=\"0-6\">Body mass index, kg/m\u00b2, mean \u00b1 SD</td><td id=\"0-7\">26.1 \u00b1 3.2</td></tr>\n<tr><td id=\"0-8\">CAD Risk Factors</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Hypercholesterolemia (Serum Chol > 200mg/dL), n</td><td id=\"0-b\">12</td></tr>\n<tr><td id=\"0-c\">Diagnosed Type II Diabetes, n</td><td id=\"0-d\">4</td></tr>\n<tr><td id=\"0-e\">Hypertension (Grade II or Greater), n</td><td id=\"0-f\">0</td></tr>\n<tr><td id=\"0-g\">Current Cigarette Smoking, n</td><td id=\"0-h\">7</td></tr>\n<tr><td id=\"0-i\">Family History, n</td><td id=\"0-j\">14</td></tr>\n</table>",
+            "type": "table",
+            "id": "a9e1d2ce-fa0c-4e99-815a-51481176d4dd",
+            "grounding": {
+                "box": {
+                    "left": 0.1547001600265503,
+                    "top": 0.0778188705444336,
+                    "right": 0.8889974355697632,
+                    "bottom": 0.5135719776153564
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='12883adc-bf60-4caf-93d0-b45331577a3d'></a>\n\n21",
+            "type": "marginalia",
+            "id": "12883adc-bf60-4caf-93d0-b45331577a3d",
+            "grounding": {
+                "box": {
+                    "left": 0.8596460223197937,
+                    "top": 0.8827868103981018,
+                    "right": 0.8913337588310242,
+                    "bottom": 0.9045117497444153
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ee239507-958a-43f1-9323-8122c43f1892'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217",
+            "type": "marginalia",
+            "id": "ee239507-958a-43f1-9323-8122c43f1892",
+            "grounding": {
+                "box": {
+                    "left": 0.21178799867630005,
+                    "top": 0.9758492112159729,
+                    "right": 0.7887528538703918,
+                    "bottom": 1.0000545978546143
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f8ad79d2-dd96-4bc5-a8ea-378fbf44c099'></a>\n\nDWRITE 068076",
+            "type": "marginalia",
+            "id": "f8ad79d2-dd96-4bc5-a8ea-378fbf44c099",
+            "grounding": {
+                "box": {
+                    "left": 0.8395742774009705,
+                    "top": 0.9720489382743835,
+                    "right": 0.9762805104255676,
+                    "bottom": 0.9933518767356873
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a9e1d2ce-fa0c-4e99-815a-51481176d4dd'></a>\n\nTable 1. Baseline Clinical Characteristics of Study Participants (n=20)\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Age, y, mean \u00b1 SD</td><td id=\"0-3\">52 \u00b1 6</td></tr>\n<tr><td id=\"0-4\">Years since menopause, mean \u00b1 SD</td><td id=\"0-5\">4 \u00b1 3</td></tr>\n<tr><td id=\"0-6\">Body mass index, kg/m\u00b2, mean \u00b1 SD</td><td id=\"0-7\">26.1 \u00b1 3.2</td></tr>\n<tr><td id=\"0-8\">CAD Risk Factors</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Hypercholesterolemia (Serum Chol > 200mg/dL), n</td><td id=\"0-b\">12</td></tr>\n<tr><td id=\"0-c\">Diagnosed Type II Diabetes, n</td><td id=\"0-d\">4</td></tr>\n<tr><td id=\"0-e\">Hypertension (Grade II or Greater), n</td><td id=\"0-f\">0</td></tr>\n<tr><td id=\"0-g\">Current Cigarette Smoking, n</td><td id=\"0-h\">7</td></tr>\n<tr><td id=\"0-i\">Family History, n</td><td id=\"0-j\">14</td></tr>\n</table>\n\n<a id='12883adc-bf60-4caf-93d0-b45331577a3d'></a>\n\n21\n\n<a id='ee239507-958a-43f1-9323-8122c43f1892'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217\n\n<a id='f8ad79d2-dd96-4bc5-a8ea-378fbf44c099'></a>\n\nDWRITE 068076",
+            "chunks": [
+                "a9e1d2ce-fa0c-4e99-815a-51481176d4dd",
+                "12883adc-bf60-4caf-93d0-b45331577a3d",
+                "ee239507-958a-43f1-9323-8122c43f1892",
+                "f8ad79d2-dd96-4bc5-a8ea-378fbf44c099"
+            ]
+        }
+    ],
+    "grounding": {
+        "a9e1d2ce-fa0c-4e99-815a-51481176d4dd": {
+            "box": {
+                "left": 0.1547001600265503,
+                "top": 0.0778188705444336,
+                "right": 0.8889974355697632,
+                "bottom": 0.5135719776153564
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.16997807880954507,
+                "top": 0.10935606316806634,
+                "right": 0.8761122314800502,
+                "bottom": 0.5052429331611563
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.16997807880954507,
+                "top": 0.10935606316806634,
+                "right": 0.6963424925240247,
+                "bottom": 0.15526362488866496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.6963424925240247,
+                "top": 0.10935606316806634,
+                "right": 0.8735000978579421,
+                "bottom": 0.15526362488866496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.16997807880954507,
+                "top": 0.15526362488866496,
+                "right": 0.6963424925240247,
+                "bottom": 0.20036440636519615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6963424925240247,
+                "top": 0.15526362488866496,
+                "right": 0.8735000978579421,
+                "bottom": 0.20036440636519615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.16997807880954507,
+                "top": 0.20036440636519615,
+                "right": 0.6963424925240247,
+                "bottom": 0.24526060572952701
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6963424925240247,
+                "top": 0.20036440636519615,
+                "right": 0.8735000978579421,
+                "bottom": 0.24526060572952701
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.16997807880954507,
+                "top": 0.24526060572952701,
+                "right": 0.6963424925240247,
+                "bottom": 0.28850617477112905
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6963424925240247,
+                "top": 0.24526060572952701,
+                "right": 0.8735000978579421,
+                "bottom": 0.28850617477112905
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.16997807880954507,
+                "top": 0.28850617477112905,
+                "right": 0.6963424925240247,
+                "bottom": 0.3316745263538081
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6963424925240247,
+                "top": 0.28850617477112905,
+                "right": 0.8735000978579421,
+                "bottom": 0.3316745263538081
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.16997807880954507,
+                "top": 0.3316745263538081,
+                "right": 0.6963424925240247,
+                "bottom": 0.37505294682574686
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6963424925240247,
+                "top": 0.3316745263538081,
+                "right": 0.8735000978579421,
+                "bottom": 0.37505294682574686
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.16997807880954507,
+                "top": 0.37505294682574686,
+                "right": 0.6963424925240247,
+                "bottom": 0.4187475614937597
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.6963424925240247,
+                "top": 0.37505294682574686,
+                "right": 0.8735000978579421,
+                "bottom": 0.4187475614937597
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.16997807880954507,
+                "top": 0.4187475614937597,
+                "right": 0.6963424925240247,
+                "bottom": 0.46216901907617114
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6963424925240247,
+                "top": 0.4187475614937597,
+                "right": 0.8735000978579421,
+                "bottom": 0.46216901907617114
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.16997807880954507,
+                "top": 0.46216901907617114,
+                "right": 0.6963424925240247,
+                "bottom": 0.5052429331611563
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6963424925240247,
+                "top": 0.46216901907617114,
+                "right": 0.8735000978579421,
+                "bottom": 0.5052429331611563
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "12883adc-bf60-4caf-93d0-b45331577a3d": {
+            "box": {
+                "left": 0.8596460223197937,
+                "top": 0.8827868103981018,
+                "right": 0.8913337588310242,
+                "bottom": 0.9045117497444153
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "ee239507-958a-43f1-9323-8122c43f1892": {
+            "box": {
+                "left": 0.21178799867630005,
+                "top": 0.9758492112159729,
+                "right": 0.7887528538703918,
+                "bottom": 1.0000545978546143
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "f8ad79d2-dd96-4bc5-a8ea-378fbf44c099": {
+            "box": {
+                "left": 0.8395742774009705,
+                "top": 0.9720489382743835,
+                "right": 0.9762805104255676,
+                "bottom": 0.9933518767356873
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yscw0217_265.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5347,
+        "credit_usage": 3.0,
+        "job_id": "zlr79fw15b0mpv50i9gmpclmp",
+        "version": "dpt-2-20250919"
+    }
+}

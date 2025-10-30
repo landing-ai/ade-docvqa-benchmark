@@ -1,0 +1,673 @@
+{
+    "markdown": "<a id='0dd5126a-63e1-4c8f-bd26-bbc547715d5f'></a>\n\n5\n\n<a id='83327add-d344-4212-9e92-9e335665913b'></a>\n\nAgenda for Menopausal Health Publication Management Meeting\nApril 2004, 10:30 AM-12:00 PM, CVCRE5101\n\n<a id='5348261b-9c79-490b-a04e-ef0dd5394f6e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"5\">Submitted Papers</td></tr>\n<tr><td id=\"0-3\">Status</td><td id=\"0-4\">Publication</td><td id=\"0-5\">Author</td><td id=\"0-6\">Title</td><td id=\"0-7\">Source</td></tr>\n<tr><td id=\"0-8\">SUBMITTED</td><td id=\"0-9\">J Clin Invest</td><td id=\"0-a\">Arnaud</td><td id=\"0-b\">PTH and estrogen in osteoporosis treatment</td><td id=\"0-c\">GMA</td></tr>\n<tr><td id=\"0-d\">In progress</td><td id=\"0-e\">J Pharm Sci</td><td id=\"0-f\">Raveendranath</td><td id=\"0-g\">Use of C-14 analysis to identify the source of steroid compounds</td><td id=\"0-h\">Wyeth Chemical Development</td></tr>\n<tr><td id=\"0-i\">In preparation</td><td id=\"0-j\">Climacteric</td><td id=\"0-k\">Raymundo</td><td id=\"0-l\">Treatment of atrophic vaginitis with topical conjugated equine estrogens in postmenopausal Asian women</td><td id=\"0-m\">GMA</td></tr>\n<tr><td id=\"0-n\">SUBMITTED</td><td id=\"0-o\">Microcirculation</td><td id=\"0-p\">Thomas</td><td id=\"0-q\">Anti-inflammatory activity of 17\u03b2-estradiol vs CE</td><td id=\"0-r\">GMA</td></tr>\n<tr><td id=\"0-s\">SUBMITTED</td><td id=\"0-t\">Endocrinol</td><td id=\"0-u\">Hrabowsky (with WHRI contributors)</td><td id=\"0-v\">Estrogen receptor \u03b2 in LHRH neurons</td><td id=\"0-w\">WHRI</td></tr>\n<tr><td id=\"0-x\">SUBMITTED</td><td id=\"0-y\">J Endocrinol</td><td id=\"0-z\">Deecher</td><td id=\"0-A\">Characterization of a membrane-associated estrogen receptor in a rat hypothalamic cell line</td><td id=\"0-B\">WHRI</td></tr>\n<tr><td id=\"0-C\">SUBMITTED</td><td id=\"0-D\">Gastroenterol</td><td id=\"0-E\">Harnish</td><td id=\"0-F\">Beneficial effects of estrogen treatments in the HLA-B27 rat model of inflammatory bowel disease</td><td id=\"0-G\">WHRI</td></tr>\n<tr><td id=\"0-H\">SUBMITTED</td><td id=\"0-I\">J Pharmacol Exp Ther</td><td id=\"0-J\">Kilbourne</td><td id=\"0-K\">17\u03b2-estradiol attenuates ischemia-reperfusion injury in isolated rat hearts by an estrogen receptor-dependent mechanism</td><td id=\"0-L\">WHRI</td></tr>\n<tr><td id=\"0-M\">SUBMITTED</td><td id=\"0-N\">J Neurosci</td><td id=\"0-O\">Dubal</td><td id=\"0-P\">Differential modulation of estrogen receptors (ERs) in ischemic brain injury: a novel role for ERa in estradiol-mediated protection against delayed cell death</td><td id=\"0-Q\">WHRI</td></tr>\n</table>\n\n<a id='4b17737d-73d4-4a7a-b2b4-a9a694065f2e'></a>\n\nDESIGN134418\n\n<a id='010abdc2-b236-4228-89fa-ec19c51af2f2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ysbw0217",
+    "chunks": [
+        {
+            "markdown": "<a id='0dd5126a-63e1-4c8f-bd26-bbc547715d5f'></a>\n\n5",
+            "type": "marginalia",
+            "id": "0dd5126a-63e1-4c8f-bd26-bbc547715d5f",
+            "grounding": {
+                "box": {
+                    "left": 0.8672202825546265,
+                    "top": 0.04072640463709831,
+                    "right": 0.8911377191543579,
+                    "bottom": 0.06137004867196083
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='83327add-d344-4212-9e92-9e335665913b'></a>\n\nAgenda for Menopausal Health Publication Management Meeting\nApril 2004, 10:30 AM-12:00 PM, CVCRE5101",
+            "type": "text",
+            "id": "83327add-d344-4212-9e92-9e335665913b",
+            "grounding": {
+                "box": {
+                    "left": 0.11284404993057251,
+                    "top": 0.057484306395053864,
+                    "right": 0.6317757368087769,
+                    "bottom": 0.09218933433294296
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5348261b-9c79-490b-a04e-ef0dd5394f6e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"5\">Submitted Papers</td></tr>\n<tr><td id=\"0-3\">Status</td><td id=\"0-4\">Publication</td><td id=\"0-5\">Author</td><td id=\"0-6\">Title</td><td id=\"0-7\">Source</td></tr>\n<tr><td id=\"0-8\">SUBMITTED</td><td id=\"0-9\">J Clin Invest</td><td id=\"0-a\">Arnaud</td><td id=\"0-b\">PTH and estrogen in osteoporosis treatment</td><td id=\"0-c\">GMA</td></tr>\n<tr><td id=\"0-d\">In progress</td><td id=\"0-e\">J Pharm Sci</td><td id=\"0-f\">Raveendranath</td><td id=\"0-g\">Use of C-14 analysis to identify the source of steroid compounds</td><td id=\"0-h\">Wyeth Chemical Development</td></tr>\n<tr><td id=\"0-i\">In preparation</td><td id=\"0-j\">Climacteric</td><td id=\"0-k\">Raymundo</td><td id=\"0-l\">Treatment of atrophic vaginitis with topical conjugated equine estrogens in postmenopausal Asian women</td><td id=\"0-m\">GMA</td></tr>\n<tr><td id=\"0-n\">SUBMITTED</td><td id=\"0-o\">Microcirculation</td><td id=\"0-p\">Thomas</td><td id=\"0-q\">Anti-inflammatory activity of 17\u03b2-estradiol vs CE</td><td id=\"0-r\">GMA</td></tr>\n<tr><td id=\"0-s\">SUBMITTED</td><td id=\"0-t\">Endocrinol</td><td id=\"0-u\">Hrabowsky (with WHRI contributors)</td><td id=\"0-v\">Estrogen receptor \u03b2 in LHRH neurons</td><td id=\"0-w\">WHRI</td></tr>\n<tr><td id=\"0-x\">SUBMITTED</td><td id=\"0-y\">J Endocrinol</td><td id=\"0-z\">Deecher</td><td id=\"0-A\">Characterization of a membrane-associated estrogen receptor in a rat hypothalamic cell line</td><td id=\"0-B\">WHRI</td></tr>\n<tr><td id=\"0-C\">SUBMITTED</td><td id=\"0-D\">Gastroenterol</td><td id=\"0-E\">Harnish</td><td id=\"0-F\">Beneficial effects of estrogen treatments in the HLA-B27 rat model of inflammatory bowel disease</td><td id=\"0-G\">WHRI</td></tr>\n<tr><td id=\"0-H\">SUBMITTED</td><td id=\"0-I\">J Pharmacol Exp Ther</td><td id=\"0-J\">Kilbourne</td><td id=\"0-K\">17\u03b2-estradiol attenuates ischemia-reperfusion injury in isolated rat hearts by an estrogen receptor-dependent mechanism</td><td id=\"0-L\">WHRI</td></tr>\n<tr><td id=\"0-M\">SUBMITTED</td><td id=\"0-N\">J Neurosci</td><td id=\"0-O\">Dubal</td><td id=\"0-P\">Differential modulation of estrogen receptors (ERs) in ischemic brain injury: a novel role for ERa in estradiol-mediated protection against delayed cell death</td><td id=\"0-Q\">WHRI</td></tr>\n</table>",
+            "type": "table",
+            "id": "5348261b-9c79-490b-a04e-ef0dd5394f6e",
+            "grounding": {
+                "box": {
+                    "left": 0.07598429918289185,
+                    "top": 0.1323922574520111,
+                    "right": 0.9272851347923279,
+                    "bottom": 0.7917678356170654
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4b17737d-73d4-4a7a-b2b4-a9a694065f2e'></a>\n\nDESIGN134418",
+            "type": "marginalia",
+            "id": "4b17737d-73d4-4a7a-b2b4-a9a694065f2e",
+            "grounding": {
+                "box": {
+                    "left": 0.8603433966636658,
+                    "top": 0.9496643543243408,
+                    "right": 0.9920476078987122,
+                    "bottom": 0.9691817760467529
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='010abdc2-b236-4228-89fa-ec19c51af2f2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ysbw0217",
+            "type": "text",
+            "id": "010abdc2-b236-4228-89fa-ec19c51af2f2",
+            "grounding": {
+                "box": {
+                    "left": 0.21296042203903198,
+                    "top": 0.9771772027015686,
+                    "right": 0.7873430848121643,
+                    "bottom": 0.9998371005058289
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='0dd5126a-63e1-4c8f-bd26-bbc547715d5f'></a>\n\n5\n\n<a id='83327add-d344-4212-9e92-9e335665913b'></a>\n\nAgenda for Menopausal Health Publication Management Meeting\nApril 2004, 10:30 AM-12:00 PM, CVCRE5101\n\n<a id='5348261b-9c79-490b-a04e-ef0dd5394f6e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"5\">Submitted Papers</td></tr>\n<tr><td id=\"0-3\">Status</td><td id=\"0-4\">Publication</td><td id=\"0-5\">Author</td><td id=\"0-6\">Title</td><td id=\"0-7\">Source</td></tr>\n<tr><td id=\"0-8\">SUBMITTED</td><td id=\"0-9\">J Clin Invest</td><td id=\"0-a\">Arnaud</td><td id=\"0-b\">PTH and estrogen in osteoporosis treatment</td><td id=\"0-c\">GMA</td></tr>\n<tr><td id=\"0-d\">In progress</td><td id=\"0-e\">J Pharm Sci</td><td id=\"0-f\">Raveendranath</td><td id=\"0-g\">Use of C-14 analysis to identify the source of steroid compounds</td><td id=\"0-h\">Wyeth Chemical Development</td></tr>\n<tr><td id=\"0-i\">In preparation</td><td id=\"0-j\">Climacteric</td><td id=\"0-k\">Raymundo</td><td id=\"0-l\">Treatment of atrophic vaginitis with topical conjugated equine estrogens in postmenopausal Asian women</td><td id=\"0-m\">GMA</td></tr>\n<tr><td id=\"0-n\">SUBMITTED</td><td id=\"0-o\">Microcirculation</td><td id=\"0-p\">Thomas</td><td id=\"0-q\">Anti-inflammatory activity of 17\u03b2-estradiol vs CE</td><td id=\"0-r\">GMA</td></tr>\n<tr><td id=\"0-s\">SUBMITTED</td><td id=\"0-t\">Endocrinol</td><td id=\"0-u\">Hrabowsky (with WHRI contributors)</td><td id=\"0-v\">Estrogen receptor \u03b2 in LHRH neurons</td><td id=\"0-w\">WHRI</td></tr>\n<tr><td id=\"0-x\">SUBMITTED</td><td id=\"0-y\">J Endocrinol</td><td id=\"0-z\">Deecher</td><td id=\"0-A\">Characterization of a membrane-associated estrogen receptor in a rat hypothalamic cell line</td><td id=\"0-B\">WHRI</td></tr>\n<tr><td id=\"0-C\">SUBMITTED</td><td id=\"0-D\">Gastroenterol</td><td id=\"0-E\">Harnish</td><td id=\"0-F\">Beneficial effects of estrogen treatments in the HLA-B27 rat model of inflammatory bowel disease</td><td id=\"0-G\">WHRI</td></tr>\n<tr><td id=\"0-H\">SUBMITTED</td><td id=\"0-I\">J Pharmacol Exp Ther</td><td id=\"0-J\">Kilbourne</td><td id=\"0-K\">17\u03b2-estradiol attenuates ischemia-reperfusion injury in isolated rat hearts by an estrogen receptor-dependent mechanism</td><td id=\"0-L\">WHRI</td></tr>\n<tr><td id=\"0-M\">SUBMITTED</td><td id=\"0-N\">J Neurosci</td><td id=\"0-O\">Dubal</td><td id=\"0-P\">Differential modulation of estrogen receptors (ERs) in ischemic brain injury: a novel role for ERa in estradiol-mediated protection against delayed cell death</td><td id=\"0-Q\">WHRI</td></tr>\n</table>\n\n<a id='4b17737d-73d4-4a7a-b2b4-a9a694065f2e'></a>\n\nDESIGN134418\n\n<a id='010abdc2-b236-4228-89fa-ec19c51af2f2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ysbw0217",
+            "chunks": [
+                "0dd5126a-63e1-4c8f-bd26-bbc547715d5f",
+                "83327add-d344-4212-9e92-9e335665913b",
+                "5348261b-9c79-490b-a04e-ef0dd5394f6e",
+                "4b17737d-73d4-4a7a-b2b4-a9a694065f2e",
+                "010abdc2-b236-4228-89fa-ec19c51af2f2"
+            ]
+        }
+    ],
+    "grounding": {
+        "0dd5126a-63e1-4c8f-bd26-bbc547715d5f": {
+            "box": {
+                "left": 0.8672202825546265,
+                "top": 0.04072640463709831,
+                "right": 0.8911377191543579,
+                "bottom": 0.06137004867196083
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "83327add-d344-4212-9e92-9e335665913b": {
+            "box": {
+                "left": 0.11284404993057251,
+                "top": 0.057484306395053864,
+                "right": 0.6317757368087769,
+                "bottom": 0.09218933433294296
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5348261b-9c79-490b-a04e-ef0dd5394f6e": {
+            "box": {
+                "left": 0.07598429918289185,
+                "top": 0.1323922574520111,
+                "right": 0.9272851347923279,
+                "bottom": 0.7917678356170654
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.13770111964098344,
+                "right": 0.9215063394150107,
+                "bottom": 0.7858801438070433
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.13770111964098344,
+                "right": 0.9215783415806698,
+                "bottom": 0.18466260383125777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.16150353353766111,
+                "right": 0.22218007907857285,
+                "bottom": 0.18466260383125777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.22218007907857285,
+                "top": 0.16150353353766111,
+                "right": 0.38399352956342625,
+                "bottom": 0.18466260383125777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.38399352956342625,
+                "top": 0.16150353353766111,
+                "right": 0.524025665297124,
+                "bottom": 0.18466260383125777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.524025665297124,
+                "top": 0.16150353353766111,
+                "right": 0.8117673769865377,
+                "bottom": 0.18466260383125777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.8117673769865377,
+                "top": 0.16150353353766111,
+                "right": 0.9215783415806698,
+                "bottom": 0.18466260383125777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.18466260383125777,
+                "right": 0.22218007907857285,
+                "bottom": 0.2310788713052232
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.22218007907857285,
+                "top": 0.18466260383125777,
+                "right": 0.38399352956342625,
+                "bottom": 0.2310788713052232
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.38399352956342625,
+                "top": 0.18466260383125777,
+                "right": 0.524025665297124,
+                "bottom": 0.2310788713052232
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.524025665297124,
+                "top": 0.18466260383125777,
+                "right": 0.8117673769865377,
+                "bottom": 0.2310788713052232
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.8117673769865377,
+                "top": 0.18466260383125777,
+                "right": 0.9215783415806698,
+                "bottom": 0.2310788713052232
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.2310788713052232,
+                "right": 0.22218007907857285,
+                "bottom": 0.3079270207932394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.22218007907857285,
+                "top": 0.2310788713052232,
+                "right": 0.38399352956342625,
+                "bottom": 0.3079270207932394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.38399352956342625,
+                "top": 0.2310788713052232,
+                "right": 0.524025665297124,
+                "bottom": 0.3079270207932394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.524025665297124,
+                "top": 0.2310788713052232,
+                "right": 0.8117673769865377,
+                "bottom": 0.3079270207932394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.8117673769865377,
+                "top": 0.2310788713052232,
+                "right": 0.9215783415806698,
+                "bottom": 0.3079270207932394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.3079270207932394,
+                "right": 0.22218007907857285,
+                "bottom": 0.3689137406500249
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.22218007907857285,
+                "top": 0.3079270207932394,
+                "right": 0.38399352956342625,
+                "bottom": 0.3689137406500249
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.38399352956342625,
+                "top": 0.3079270207932394,
+                "right": 0.524025665297124,
+                "bottom": 0.3689137406500249
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.524025665297124,
+                "top": 0.3079270207932394,
+                "right": 0.8117673769865377,
+                "bottom": 0.3689137406500249
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.8117673769865377,
+                "top": 0.3079270207932394,
+                "right": 0.9215783415806698,
+                "bottom": 0.3689137406500249
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.3689137406500249,
+                "right": 0.22218007907857285,
+                "bottom": 0.41635617935203495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.22218007907857285,
+                "top": 0.3689137406500249,
+                "right": 0.38399352956342625,
+                "bottom": 0.41635617935203495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.38399352956342625,
+                "top": 0.3689137406500249,
+                "right": 0.524025665297124,
+                "bottom": 0.41635617935203495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.524025665297124,
+                "top": 0.3689137406500249,
+                "right": 0.8117673769865377,
+                "bottom": 0.41635617935203495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.8117673769865377,
+                "top": 0.3689137406500249,
+                "right": 0.9215783415806698,
+                "bottom": 0.41635617935203495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.41635617935203495,
+                "right": 0.22218007907857285,
+                "bottom": 0.4775294061242814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.22218007907857285,
+                "top": 0.41635617935203495,
+                "right": 0.38399352956342625,
+                "bottom": 0.4775294061242814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.38399352956342625,
+                "top": 0.41635617935203495,
+                "right": 0.524025665297124,
+                "bottom": 0.4775294061242814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.524025665297124,
+                "top": 0.41635617935203495,
+                "right": 0.8117673769865377,
+                "bottom": 0.4775294061242814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.8117673769865377,
+                "top": 0.41635617935203495,
+                "right": 0.9215783415806698,
+                "bottom": 0.4775294061242814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.4775294061242814,
+                "right": 0.22218007907857285,
+                "bottom": 0.538936341330368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.22218007907857285,
+                "top": 0.4775294061242814,
+                "right": 0.38399352956342625,
+                "bottom": 0.538936341330368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.38399352956342625,
+                "top": 0.4775294061242814,
+                "right": 0.524025665297124,
+                "bottom": 0.538936341330368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.524025665297124,
+                "top": 0.4775294061242814,
+                "right": 0.8117673769865377,
+                "bottom": 0.538936341330368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.8117673769865377,
+                "top": 0.4775294061242814,
+                "right": 0.9215783415806698,
+                "bottom": 0.538936341330368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.538936341330368,
+                "right": 0.22218007907857285,
+                "bottom": 0.615810911485104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.22218007907857285,
+                "top": 0.538936341330368,
+                "right": 0.38399352956342625,
+                "bottom": 0.615810911485104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.38399352956342625,
+                "top": 0.538936341330368,
+                "right": 0.524025665297124,
+                "bottom": 0.615810911485104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.524025665297124,
+                "top": 0.538936341330368,
+                "right": 0.8117673769865377,
+                "bottom": 0.615810911485104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.8117673769865377,
+                "top": 0.538936341330368,
+                "right": 0.9215783415806698,
+                "bottom": 0.615810911485104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.615810911485104,
+                "right": 0.22218007907857285,
+                "bottom": 0.6934570162004583
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.22218007907857285,
+                "top": 0.615810911485104,
+                "right": 0.38399352956342625,
+                "bottom": 0.6934570162004583
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.38399352956342625,
+                "top": 0.615810911485104,
+                "right": 0.524025665297124,
+                "bottom": 0.6934570162004583
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.524025665297124,
+                "top": 0.615810911485104,
+                "right": 0.8117673769865377,
+                "bottom": 0.6934570162004583
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.8117673769865377,
+                "top": 0.615810911485104,
+                "right": 0.9215783415806698,
+                "bottom": 0.6934570162004583
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.08180160734649178,
+                "top": 0.6934570162004583,
+                "right": 0.22218007907857285,
+                "bottom": 0.7858801438070433
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.22218007907857285,
+                "top": 0.6934570162004583,
+                "right": 0.38399352956342625,
+                "bottom": 0.7858801438070433
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.38399352956342625,
+                "top": 0.6934570162004583,
+                "right": 0.524025665297124,
+                "bottom": 0.7858801438070433
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.524025665297124,
+                "top": 0.6934570162004583,
+                "right": 0.8117673769865377,
+                "bottom": 0.7858801438070433
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.8117673769865377,
+                "top": 0.6934570162004583,
+                "right": 0.9215783415806698,
+                "bottom": 0.7858801438070433
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "4b17737d-73d4-4a7a-b2b4-a9a694065f2e": {
+            "box": {
+                "left": 0.8603433966636658,
+                "top": 0.9496643543243408,
+                "right": 0.9920476078987122,
+                "bottom": 0.9691817760467529
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "010abdc2-b236-4228-89fa-ec19c51af2f2": {
+            "box": {
+                "left": 0.21296042203903198,
+                "top": 0.9771772027015686,
+                "right": 0.7873430848121643,
+                "bottom": 0.9998371005058289
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "ysbw0217_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6520,
+        "credit_usage": 3.0,
+        "job_id": "fatwv4t4e27b60omnatkbadt4",
+        "version": "dpt-2-20250919"
+    }
+}

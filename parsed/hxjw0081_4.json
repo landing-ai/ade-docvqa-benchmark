@@ -1,0 +1,768 @@
+{
+    "markdown": "<a id='bacca74f-e5f1-4e6b-84d6-fdbd70fc44cc'></a>\n\noption NEW BRAND: [ ]\n\n<a id='f5376a9b-6ccd-4891-9ce5-79ac6b9f8169'></a>\n\noption NEW ACCOUNT: [ ]\n\n<a id='4100b625-2348-42b8-81ef-29862df4059e'></a>\n\noption LINE EXTENSION: [ ]\n\n<a id='11906808-5272-498b-a630-d89f4299a7c5'></a>\n\nForsyth/Field Sales Contact Person: ___\nPhone: ___\nVoice Mail: ___\n\nCustomer Services Contact Person: ___\n(Completed by Forsyth)\nPhone: ___\n(Completed by Forsyth)\n\nBrand Name: ___\n(Completed by Forsyth)\n\n<a id='01bb201a-a001-495e-ae80-f5a6aeb4c1d9'></a>\n\nBrand Styles indicated below are those currently manufactured - if style(s) not needed, mark out; if additional styles needed, check appropriate block (current styles will be filled out by Forsyth when Brand is determined).\n\noption FF 85: [ ]\noption LT 85: [ ]\noption LT M 85: [ ]\noption ULT 85: [ ]\noption FF M 85: [ ]\noption FF BOX: [ ]\noption FF M BOX: [ ]\noption LT 100 BOX: [ ]\n\noption FF 100: [ ]\noption LT 100: [ ]\noption LT M 100: [ ]\noption ULT 100: [ ]\noption FF M 100: [ ]\noption LT BOX: [ ]\noption LT M BOX: [ ]\noption NON-FILTER: [ ]\n\n<a id='2ffcba71-a58e-4fb9-82fd-f325bb91bfc8'></a>\n\nDo you expect this new brand to behave like any of the following brands?\noption GPC: [ ]\noption BASIC: [ ]\noption MONARCH: [ ]\noption BEST VALUE: [ ]\noption : [ ] _______________ (Other)\n\nIs the new brand replacing an existing brand? _______________ (brand being replaced)\n\n<a id='801ad1cd-4989-4ca9-8a69-017ee1f7aa1b'></a>\n\nPlease note any other pertinent information that may aid in the forecasting process (e.g., comparable accounts, estimated share, pricing issues, etc.)\n\n---\n---\n---\n---\n---\n\nAre introductory promotions expected? option YES: [ ] option NO: [ ] If yes, attach promotions form from Forsyth Planning Guide.\n\n<a id='655e3107-0708-4f9a-8758-320580e078f9'></a>\n\nTO BE FILLED OUT BY FORSYTH/CUSTOMER SERVICES\n[ ] Check here if a forecast is needed for all accounts currently purchasing the brand (for line extensions only), or provide\naccount information in the spaces below.\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Account Names:</td><td id=\"0-3\">Account Numbers:</td><td id=\"0-4\"># of Stores to receive brand:</td><td id=\"0-5\">Whse Name/Number.</td></tr>\n<tr><td id=\"0-6\"></td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">scatter plot with points concentrated on the left</td><td id=\"0-n\">scatter plot with points concentrated on the left</td><td id=\"0-o\">scatter plot with points concentrated on the left</td><td id=\"0-p\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-q\">scatter plot with points concentrated on the left</td><td id=\"0-r\">scatter plot with points concentrated on the left</td><td id=\"0-s\">scatter plot with points concentrated on the left</td><td id=\"0-t\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-u\">scatter plot with points concentrated on the left</td><td id=\"0-v\">scatter plot with points concentrated on the left</td><td id=\"0-w\">scatter plot with points concentrated on the left</td><td id=\"0-x\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-y\">scatter plot with points concentrated on the left</td><td id=\"0-z\">scatter plot with points concentrated on the left</td><td id=\"0-A\">scatter plot with points concentrated on the left</td><td id=\"0-B\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-C\">scatter plot with points concentrated on the left</td><td id=\"0-D\">scatter plot with points concentrated on the left</td><td id=\"0-E\">scatter plot with points concentrated on the left</td><td id=\"0-F\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-G\">scatter plot of dots</td><td id=\"0-H\">scatter plot of dots</td><td id=\"0-I\">scatter plot of dots</td><td id=\"0-J\">scatter plot of dots</td></tr>\n<tr><td id=\"0-K\">scatter plot of dots</td><td id=\"0-L\">scatter plot of dots</td><td id=\"0-M\">scatter plot of dots</td><td id=\"0-N\">scatter plot of dots</td></tr>\n</table>\n\n<a id='6d2c69de-b2d3-4deb-a363-57604c823a22'></a>\n\n\u2022 When providing AIM data, Customer Services will pull 13 weeks of current information, when available.\n\n<a id='ed01cf9d-a0fd-45fb-b740-e0e03992a16d'></a>\n\n51981 1752",
+    "chunks": [
+        {
+            "markdown": "<a id='bacca74f-e5f1-4e6b-84d6-fdbd70fc44cc'></a>\n\noption NEW BRAND: [ ]",
+            "type": "text",
+            "id": "bacca74f-e5f1-4e6b-84d6-fdbd70fc44cc",
+            "grounding": {
+                "box": {
+                    "left": 0.1567314863204956,
+                    "top": 0.03548700734972954,
+                    "right": 0.339874804019928,
+                    "bottom": 0.06736031174659729
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f5376a9b-6ccd-4891-9ce5-79ac6b9f8169'></a>\n\noption NEW ACCOUNT: [ ]",
+            "type": "text",
+            "id": "f5376a9b-6ccd-4891-9ce5-79ac6b9f8169",
+            "grounding": {
+                "box": {
+                    "left": 0.379114031791687,
+                    "top": 0.036278530955314636,
+                    "right": 0.5903764963150024,
+                    "bottom": 0.06726653128862381
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4100b625-2348-42b8-81ef-29862df4059e'></a>\n\noption LINE EXTENSION: [ ]",
+            "type": "text",
+            "id": "4100b625-2348-42b8-81ef-29862df4059e",
+            "grounding": {
+                "box": {
+                    "left": 0.6263236999511719,
+                    "top": 0.03666386753320694,
+                    "right": 0.8562681674957275,
+                    "bottom": 0.06678140163421631
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='11906808-5272-498b-a630-d89f4299a7c5'></a>\n\nForsyth/Field Sales Contact Person: ___\nPhone: ___\nVoice Mail: ___\n\nCustomer Services Contact Person: ___\n(Completed by Forsyth)\nPhone: ___\n(Completed by Forsyth)\n\nBrand Name: ___\n(Completed by Forsyth)",
+            "type": "text",
+            "id": "11906808-5272-498b-a630-d89f4299a7c5",
+            "grounding": {
+                "box": {
+                    "left": 0.06353279948234558,
+                    "top": 0.07644957304000854,
+                    "right": 0.9250282049179077,
+                    "bottom": 0.19520750641822815
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='01bb201a-a001-495e-ae80-f5a6aeb4c1d9'></a>\n\nBrand Styles indicated below are those currently manufactured - if style(s) not needed, mark out; if additional styles needed, check appropriate block (current styles will be filled out by Forsyth when Brand is determined).\n\noption FF 85: [ ]\noption LT 85: [ ]\noption LT M 85: [ ]\noption ULT 85: [ ]\noption FF M 85: [ ]\noption FF BOX: [ ]\noption FF M BOX: [ ]\noption LT 100 BOX: [ ]\n\noption FF 100: [ ]\noption LT 100: [ ]\noption LT M 100: [ ]\noption ULT 100: [ ]\noption FF M 100: [ ]\noption LT BOX: [ ]\noption LT M BOX: [ ]\noption NON-FILTER: [ ]",
+            "type": "text",
+            "id": "01bb201a-a001-495e-ae80-f5a6aeb4c1d9",
+            "grounding": {
+                "box": {
+                    "left": 0.06403365731239319,
+                    "top": 0.19400261342525482,
+                    "right": 0.9120326042175293,
+                    "bottom": 0.29504233598709106
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2ffcba71-a58e-4fb9-82fd-f325bb91bfc8'></a>\n\nDo you expect this new brand to behave like any of the following brands?\noption GPC: [ ]\noption BASIC: [ ]\noption MONARCH: [ ]\noption BEST VALUE: [ ]\noption : [ ] _______________ (Other)\n\nIs the new brand replacing an existing brand? _______________ (brand being replaced)",
+            "type": "text",
+            "id": "2ffcba71-a58e-4fb9-82fd-f325bb91bfc8",
+            "grounding": {
+                "box": {
+                    "left": 0.06582716107368469,
+                    "top": 0.3026916980743408,
+                    "right": 0.8553557395935059,
+                    "bottom": 0.408896803855896
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='801ad1cd-4989-4ca9-8a69-017ee1f7aa1b'></a>\n\nPlease note any other pertinent information that may aid in the forecasting process (e.g., comparable accounts, estimated share, pricing issues, etc.)\n\n---\n---\n---\n---\n---\n\nAre introductory promotions expected? option YES: [ ] option NO: [ ] If yes, attach promotions form from Forsyth Planning Guide.",
+            "type": "text",
+            "id": "801ad1cd-4989-4ca9-8a69-017ee1f7aa1b",
+            "grounding": {
+                "box": {
+                    "left": 0.06399068236351013,
+                    "top": 0.4187825620174408,
+                    "right": 0.9360834360122681,
+                    "bottom": 0.6082249879837036
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='655e3107-0708-4f9a-8758-320580e078f9'></a>\n\nTO BE FILLED OUT BY FORSYTH/CUSTOMER SERVICES\n[ ] Check here if a forecast is needed for all accounts currently purchasing the brand (for line extensions only), or provide\naccount information in the spaces below.\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Account Names:</td><td id=\"0-3\">Account Numbers:</td><td id=\"0-4\"># of Stores to receive brand:</td><td id=\"0-5\">Whse Name/Number.</td></tr>\n<tr><td id=\"0-6\"></td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">scatter plot with points concentrated on the left</td><td id=\"0-n\">scatter plot with points concentrated on the left</td><td id=\"0-o\">scatter plot with points concentrated on the left</td><td id=\"0-p\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-q\">scatter plot with points concentrated on the left</td><td id=\"0-r\">scatter plot with points concentrated on the left</td><td id=\"0-s\">scatter plot with points concentrated on the left</td><td id=\"0-t\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-u\">scatter plot with points concentrated on the left</td><td id=\"0-v\">scatter plot with points concentrated on the left</td><td id=\"0-w\">scatter plot with points concentrated on the left</td><td id=\"0-x\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-y\">scatter plot with points concentrated on the left</td><td id=\"0-z\">scatter plot with points concentrated on the left</td><td id=\"0-A\">scatter plot with points concentrated on the left</td><td id=\"0-B\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-C\">scatter plot with points concentrated on the left</td><td id=\"0-D\">scatter plot with points concentrated on the left</td><td id=\"0-E\">scatter plot with points concentrated on the left</td><td id=\"0-F\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-G\">scatter plot of dots</td><td id=\"0-H\">scatter plot of dots</td><td id=\"0-I\">scatter plot of dots</td><td id=\"0-J\">scatter plot of dots</td></tr>\n<tr><td id=\"0-K\">scatter plot of dots</td><td id=\"0-L\">scatter plot of dots</td><td id=\"0-M\">scatter plot of dots</td><td id=\"0-N\">scatter plot of dots</td></tr>\n</table>",
+            "type": "table",
+            "id": "655e3107-0708-4f9a-8758-320580e078f9",
+            "grounding": {
+                "box": {
+                    "left": 0.06108608841896057,
+                    "top": 0.6086927652359009,
+                    "right": 0.9429134130477905,
+                    "bottom": 0.920007586479187
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6d2c69de-b2d3-4deb-a363-57604c823a22'></a>\n\n\u2022 When providing AIM data, Customer Services will pull 13 weeks of current information, when available.",
+            "type": "text",
+            "id": "6d2c69de-b2d3-4deb-a363-57604c823a22",
+            "grounding": {
+                "box": {
+                    "left": 0.07621300220489502,
+                    "top": 0.9293873906135559,
+                    "right": 0.8467250466346741,
+                    "bottom": 0.9548521637916565
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ed01cf9d-a0fd-45fb-b740-e0e03992a16d'></a>\n\n51981 1752",
+            "type": "marginalia",
+            "id": "ed01cf9d-a0fd-45fb-b740-e0e03992a16d",
+            "grounding": {
+                "box": {
+                    "left": 0.920222818851471,
+                    "top": 0.8594539761543274,
+                    "right": 0.9490774273872375,
+                    "bottom": 0.9604393839836121
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='bacca74f-e5f1-4e6b-84d6-fdbd70fc44cc'></a>\n\noption NEW BRAND: [ ]\n\n<a id='f5376a9b-6ccd-4891-9ce5-79ac6b9f8169'></a>\n\noption NEW ACCOUNT: [ ]\n\n<a id='4100b625-2348-42b8-81ef-29862df4059e'></a>\n\noption LINE EXTENSION: [ ]\n\n<a id='11906808-5272-498b-a630-d89f4299a7c5'></a>\n\nForsyth/Field Sales Contact Person: ___\nPhone: ___\nVoice Mail: ___\n\nCustomer Services Contact Person: ___\n(Completed by Forsyth)\nPhone: ___\n(Completed by Forsyth)\n\nBrand Name: ___\n(Completed by Forsyth)\n\n<a id='01bb201a-a001-495e-ae80-f5a6aeb4c1d9'></a>\n\nBrand Styles indicated below are those currently manufactured - if style(s) not needed, mark out; if additional styles needed, check appropriate block (current styles will be filled out by Forsyth when Brand is determined).\n\noption FF 85: [ ]\noption LT 85: [ ]\noption LT M 85: [ ]\noption ULT 85: [ ]\noption FF M 85: [ ]\noption FF BOX: [ ]\noption FF M BOX: [ ]\noption LT 100 BOX: [ ]\n\noption FF 100: [ ]\noption LT 100: [ ]\noption LT M 100: [ ]\noption ULT 100: [ ]\noption FF M 100: [ ]\noption LT BOX: [ ]\noption LT M BOX: [ ]\noption NON-FILTER: [ ]\n\n<a id='2ffcba71-a58e-4fb9-82fd-f325bb91bfc8'></a>\n\nDo you expect this new brand to behave like any of the following brands?\noption GPC: [ ]\noption BASIC: [ ]\noption MONARCH: [ ]\noption BEST VALUE: [ ]\noption : [ ] _______________ (Other)\n\nIs the new brand replacing an existing brand? _______________ (brand being replaced)\n\n<a id='801ad1cd-4989-4ca9-8a69-017ee1f7aa1b'></a>\n\nPlease note any other pertinent information that may aid in the forecasting process (e.g., comparable accounts, estimated share, pricing issues, etc.)\n\n---\n---\n---\n---\n---\n\nAre introductory promotions expected? option YES: [ ] option NO: [ ] If yes, attach promotions form from Forsyth Planning Guide.\n\n<a id='655e3107-0708-4f9a-8758-320580e078f9'></a>\n\nTO BE FILLED OUT BY FORSYTH/CUSTOMER SERVICES\n[ ] Check here if a forecast is needed for all accounts currently purchasing the brand (for line extensions only), or provide\naccount information in the spaces below.\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Account Names:</td><td id=\"0-3\">Account Numbers:</td><td id=\"0-4\"># of Stores to receive brand:</td><td id=\"0-5\">Whse Name/Number.</td></tr>\n<tr><td id=\"0-6\"></td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">scatter plot with points concentrated on the left</td><td id=\"0-n\">scatter plot with points concentrated on the left</td><td id=\"0-o\">scatter plot with points concentrated on the left</td><td id=\"0-p\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-q\">scatter plot with points concentrated on the left</td><td id=\"0-r\">scatter plot with points concentrated on the left</td><td id=\"0-s\">scatter plot with points concentrated on the left</td><td id=\"0-t\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-u\">scatter plot with points concentrated on the left</td><td id=\"0-v\">scatter plot with points concentrated on the left</td><td id=\"0-w\">scatter plot with points concentrated on the left</td><td id=\"0-x\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-y\">scatter plot with points concentrated on the left</td><td id=\"0-z\">scatter plot with points concentrated on the left</td><td id=\"0-A\">scatter plot with points concentrated on the left</td><td id=\"0-B\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-C\">scatter plot with points concentrated on the left</td><td id=\"0-D\">scatter plot with points concentrated on the left</td><td id=\"0-E\">scatter plot with points concentrated on the left</td><td id=\"0-F\">scatter plot with points concentrated on the left</td></tr>\n<tr><td id=\"0-G\">scatter plot of dots</td><td id=\"0-H\">scatter plot of dots</td><td id=\"0-I\">scatter plot of dots</td><td id=\"0-J\">scatter plot of dots</td></tr>\n<tr><td id=\"0-K\">scatter plot of dots</td><td id=\"0-L\">scatter plot of dots</td><td id=\"0-M\">scatter plot of dots</td><td id=\"0-N\">scatter plot of dots</td></tr>\n</table>\n\n<a id='6d2c69de-b2d3-4deb-a363-57604c823a22'></a>\n\n\u2022 When providing AIM data, Customer Services will pull 13 weeks of current information, when available.\n\n<a id='ed01cf9d-a0fd-45fb-b740-e0e03992a16d'></a>\n\n51981 1752",
+            "chunks": [
+                "bacca74f-e5f1-4e6b-84d6-fdbd70fc44cc",
+                "f5376a9b-6ccd-4891-9ce5-79ac6b9f8169",
+                "4100b625-2348-42b8-81ef-29862df4059e",
+                "11906808-5272-498b-a630-d89f4299a7c5",
+                "01bb201a-a001-495e-ae80-f5a6aeb4c1d9",
+                "2ffcba71-a58e-4fb9-82fd-f325bb91bfc8",
+                "801ad1cd-4989-4ca9-8a69-017ee1f7aa1b",
+                "655e3107-0708-4f9a-8758-320580e078f9",
+                "6d2c69de-b2d3-4deb-a363-57604c823a22",
+                "ed01cf9d-a0fd-45fb-b740-e0e03992a16d"
+            ]
+        }
+    ],
+    "grounding": {
+        "bacca74f-e5f1-4e6b-84d6-fdbd70fc44cc": {
+            "box": {
+                "left": 0.1567314863204956,
+                "top": 0.03548700734972954,
+                "right": 0.339874804019928,
+                "bottom": 0.06736031174659729
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f5376a9b-6ccd-4891-9ce5-79ac6b9f8169": {
+            "box": {
+                "left": 0.379114031791687,
+                "top": 0.036278530955314636,
+                "right": 0.5903764963150024,
+                "bottom": 0.06726653128862381
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4100b625-2348-42b8-81ef-29862df4059e": {
+            "box": {
+                "left": 0.6263236999511719,
+                "top": 0.03666386753320694,
+                "right": 0.8562681674957275,
+                "bottom": 0.06678140163421631
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "11906808-5272-498b-a630-d89f4299a7c5": {
+            "box": {
+                "left": 0.06353279948234558,
+                "top": 0.07644957304000854,
+                "right": 0.9250282049179077,
+                "bottom": 0.19520750641822815
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "01bb201a-a001-495e-ae80-f5a6aeb4c1d9": {
+            "box": {
+                "left": 0.06403365731239319,
+                "top": 0.19400261342525482,
+                "right": 0.9120326042175293,
+                "bottom": 0.29504233598709106
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2ffcba71-a58e-4fb9-82fd-f325bb91bfc8": {
+            "box": {
+                "left": 0.06582716107368469,
+                "top": 0.3026916980743408,
+                "right": 0.8553557395935059,
+                "bottom": 0.408896803855896
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "801ad1cd-4989-4ca9-8a69-017ee1f7aa1b": {
+            "box": {
+                "left": 0.06399068236351013,
+                "top": 0.4187825620174408,
+                "right": 0.9360834360122681,
+                "bottom": 0.6082249879837036
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "655e3107-0708-4f9a-8758-320580e078f9": {
+            "box": {
+                "left": 0.06108608841896057,
+                "top": 0.6086927652359009,
+                "right": 0.9429134130477905,
+                "bottom": 0.920007586479187
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.6819581099416148,
+                "right": 0.9359909710803276,
+                "bottom": 0.9136223654852387
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.6819581099416148,
+                "right": 0.2904663852630778,
+                "bottom": 0.698822144387627
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.6819581099416148,
+                "right": 0.45664959049445386,
+                "bottom": 0.698822144387627
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.6819581099416148,
+                "right": 0.6957503880967746,
+                "bottom": 0.698822144387627
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.6819581099416148,
+                "right": 0.9322985079575723,
+                "bottom": 0.698822144387627
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.698822144387627,
+                "right": 0.2904663852630778,
+                "bottom": 0.7176671738433242
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.698822144387627,
+                "right": 0.45664959049445386,
+                "bottom": 0.7176671738433242
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.698822144387627,
+                "right": 0.6957503880967746,
+                "bottom": 0.7176671738433242
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.698822144387627,
+                "right": 0.9322985079575723,
+                "bottom": 0.7176671738433242
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.7176671738433242,
+                "right": 0.2904663852630778,
+                "bottom": 0.7374328405011994
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.7176671738433242,
+                "right": 0.45664959049445386,
+                "bottom": 0.7374328405011994
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.7176671738433242,
+                "right": 0.6957503880967746,
+                "bottom": 0.7374328405011994
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.7176671738433242,
+                "right": 0.9322985079575723,
+                "bottom": 0.7374328405011994
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.7374328405011994,
+                "right": 0.2904663852630778,
+                "bottom": 0.7571183275069444
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.7374328405011994,
+                "right": 0.45664959049445386,
+                "bottom": 0.7571183275069444
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.7374328405011994,
+                "right": 0.6957503880967746,
+                "bottom": 0.7571183275069444
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.7374328405011994,
+                "right": 0.9322985079575723,
+                "bottom": 0.7571183275069444
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.7571183275069444,
+                "right": 0.2904663852630778,
+                "bottom": 0.7769700003410804
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.7571183275069444,
+                "right": 0.45664959049445386,
+                "bottom": 0.7769700003410804
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.7571183275069444,
+                "right": 0.6957503880967746,
+                "bottom": 0.7769700003410804
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.7571183275069444,
+                "right": 0.9322985079575723,
+                "bottom": 0.7769700003410804
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.7769700003410804,
+                "right": 0.2904663852630778,
+                "bottom": 0.7960279113193565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.7769700003410804,
+                "right": 0.45664959049445386,
+                "bottom": 0.7960279113193565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.7769700003410804,
+                "right": 0.6957503880967746,
+                "bottom": 0.7960279113193565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.7769700003410804,
+                "right": 0.9322985079575723,
+                "bottom": 0.7960279113193565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.7960279113193565,
+                "right": 0.2904663852630778,
+                "bottom": 0.8149179293347828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.7960279113193565,
+                "right": 0.45664959049445386,
+                "bottom": 0.8149179293347828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.7960279113193565,
+                "right": 0.6957503880967746,
+                "bottom": 0.8149179293347828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.7960279113193565,
+                "right": 0.9322985079575723,
+                "bottom": 0.8149179293347828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.8149179293347828,
+                "right": 0.2904663852630778,
+                "bottom": 0.8341847972819636
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.8149179293347828,
+                "right": 0.45664959049445386,
+                "bottom": 0.8341847972819636
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.8149179293347828,
+                "right": 0.6957503880967746,
+                "bottom": 0.8341847972819636
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.8149179293347828,
+                "right": 0.9322985079575723,
+                "bottom": 0.8341847972819636
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.8341847972819636,
+                "right": 0.2904663852630778,
+                "bottom": 0.8535559117659801
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.8341847972819636,
+                "right": 0.45664959049445386,
+                "bottom": 0.8535559117659801
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.8341847972819636,
+                "right": 0.6957503880967746,
+                "bottom": 0.8535559117659801
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.8341847972819636,
+                "right": 0.9322985079575723,
+                "bottom": 0.8535559117659801
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.8535559117659801,
+                "right": 0.2904663852630778,
+                "bottom": 0.8730452081996418
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.8535559117659801,
+                "right": 0.45664959049445386,
+                "bottom": 0.8730452081996418
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.8535559117659801,
+                "right": 0.6957503880967746,
+                "bottom": 0.8730452081996418
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.8535559117659801,
+                "right": 0.9322985079575723,
+                "bottom": 0.8730452081996418
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.8730452081996418,
+                "right": 0.2904663852630778,
+                "bottom": 0.8930829215781557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.8730452081996418,
+                "right": 0.45664959049445386,
+                "bottom": 0.8930829215781557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.8730452081996418,
+                "right": 0.6957503880967746,
+                "bottom": 0.8930829215781557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.8730452081996418,
+                "right": 0.9322985079575723,
+                "bottom": 0.8930829215781557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.06998507381805341,
+                "top": 0.8930829215781557,
+                "right": 0.2904663852630778,
+                "bottom": 0.9136223654852387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.2904663852630778,
+                "top": 0.8930829215781557,
+                "right": 0.45664959049445386,
+                "bottom": 0.9136223654852387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.45664959049445386,
+                "top": 0.8930829215781557,
+                "right": 0.6957503880967746,
+                "bottom": 0.9136223654852387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.6957503880967746,
+                "top": 0.8930829215781557,
+                "right": 0.9322985079575723,
+                "bottom": 0.9136223654852387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "6d2c69de-b2d3-4deb-a363-57604c823a22": {
+            "box": {
+                "left": 0.07621300220489502,
+                "top": 0.9293873906135559,
+                "right": 0.8467250466346741,
+                "bottom": 0.9548521637916565
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ed01cf9d-a0fd-45fb-b740-e0e03992a16d": {
+            "box": {
+                "left": 0.920222818851471,
+                "top": 0.8594539761543274,
+                "right": 0.9490774273872375,
+                "bottom": 0.9604393839836121
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hxjw0081_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8256,
+        "credit_usage": 3.0,
+        "job_id": "yj3y4xy0ka8h28mtpl0wv1v57",
+        "version": "dpt-2-20250919"
+    }
+}

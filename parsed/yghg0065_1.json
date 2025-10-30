@@ -1,0 +1,378 @@
+{
+    "markdown": "<a id='abc9c3d8-8f76-4437-9b49-ed112423dc5f'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nR.J. Reynolds\nMaria Burger\nA stylized signature with a printed name below it, positioned horizontally in the lower middle section of the image, above a dashed line.::>\n\n<a id='59584b3b-68fa-4752-b8f1-90d1c129f521'></a>\n\nDate: 10/10/05\nNumber of pages including cover sheet: 3\n\n<a id='cdc7d560-4392-4746-b907-e6ceb567fcbb'></a>\n\nFROM: Michele M. LaMachio\nSolentifio & Regulatory Affairs\nResearch & Development\nRJ Reynolds Tobacco\nP.O. Dox 1407\nWinston-Salem, NC 27102\n\nPhone 010-741-4085\nFax 010-741-0815\n\n<a id='e4216e24-8bcc-4f17-b3ff-d2ddc3c22c77'></a>\n\nTO: Mr. Laurent Coppolos\nJob Lana Industries\nGroupe Lana 15-17 Rue Rivay BP\n101\n92305 Levallois Cedex France\n\nPhone: 0011-33-1-42709260\nFax: 0011-33-1-47392519\n\n<a id='dd9d5713-4257-48a9-867c-923c6f04a6ad'></a>\n\nCC:\nDr. D.C. Rene\nDr. D.H. Pence\nDr. R.L. Subor\nMs. C.A. Rahn\nJob Lana/ Non-tobacco\n\n<a id='fc210593-abdf-46be-b266-165f8bf1f7de'></a>\n\nREMARKS:\noption Urgent: [x]\noption For your review: [ ]\noption Reply ASAP: [x]\noption Please Comment: [x]\n\nDear Mr. Goppolos:\n\nI am re-sending the letter of September 22, 1995. Please confirm that you have received this transmission. Unfortunately, we are facing a November 1st, 1996 deadline to acquire all our formulations world-wide. We must have these formulations not only in hand, but also entered into our database, so you can understand our sense of urgency. Please let me know if there is anything I can do to expedite the formulation request process.\n\n<a id='109e6e01-d24c-4a01-82cc-e951de69271a'></a>\n\n<::attestation: Signature\\nSigned\\nSignature: illegible\\nReadable Text: Again, many thanks for your cooperation and assistance.\\nBest Regards,\\nMichele M. LaMachio\\nR&D Toxicologist II\\nDescription: A closing remark followed by a handwritten signature above a typed name and title, positioned on the right side of the document.::>\n\n<a id='1268a8c8-5da3-4416-aa5d-5dc8993aa5a6'></a>\n\nTRANSMISSION REPORT\n\n<a id='170c2d42-f850-4996-8c58-a6b8996fa2c4'></a>\n\nTHIS DOCUMENT WAS CONFIRMED\n(REDUCED SAMPLE ABOVE - SEE DETAILS BELOW)\n\n<a id='0ef35c1b-41d2-453a-b010-1c95b7360166'></a>\n\n** COUNT **\nTOTAL PAGES SCANNED : 3\nTOTAL PAGES CONFIRMED : 3\n\n<a id='25a756df-8e9c-48dc-9132-aff098bd0793'></a>\n\n*** SEND ***\n<table><thead><tr><th>No.</th><th>REMOTE STATION</th><th>START TIME</th><th>DURATION</th><th>#PAGES</th><th>MODE</th><th>RESULTS</th></tr></thead><tbody><tr><td>1</td><td>33 1 47392519</td><td>10-16-95 11:23AM</td><td>1'32\"</td><td>3/ 3</td><td>EC</td><td>COMPLETED<br>9000</td></tr><tr><td></td><td>TOTAL</td><td></td><td>0:01'32\"</td><td>3</td><td></td><td></td></tr></tbody></table>\n\n<a id='faab68c3-36fe-41be-a052-9c974af8ff88'></a>\n\nNOTE:\nNo. : OPERATION NUMBER\nPD : POLLED BY REMOTE\nMB : SEND TO MAILBOX\n\n48 : 4800BPS SELECTED\nSF : STORE & FORWARD\nPG : POLLING A REMOTE\n\nEC : ERROR CORRECT\nRI : RELAY INITIATE\nMP : MULTI-POLLING\n\nG2 : G2 COMMUNICATION\nRS : RELAY STATION\nRM : RECEIVE TO MEMORY\n\n<a id='ca1b3d7d-e473-4a96-a082-fe2a18b1fbc6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yghg0065\n\n<a id='56144ff6-5a5d-45b3-85fc-daf70e8113de'></a>\n\n52143 5768",
+    "chunks": [
+        {
+            "markdown": "<a id='abc9c3d8-8f76-4437-9b49-ed112423dc5f'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nR.J. Reynolds\nMaria Burger\nA stylized signature with a printed name below it, positioned horizontally in the lower middle section of the image, above a dashed line.::>",
+            "type": "attestation",
+            "id": "abc9c3d8-8f76-4437-9b49-ed112423dc5f",
+            "grounding": {
+                "box": {
+                    "left": 0.1156873106956482,
+                    "top": 0.043221987783908844,
+                    "right": 0.4813040494918823,
+                    "bottom": 0.1005987897515297
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='59584b3b-68fa-4752-b8f1-90d1c129f521'></a>\n\nDate: 10/10/05\nNumber of pages including cover sheet: 3",
+            "type": "text",
+            "id": "59584b3b-68fa-4752-b8f1-90d1c129f521",
+            "grounding": {
+                "box": {
+                    "left": 0.5578535199165344,
+                    "top": 0.05836179107427597,
+                    "right": 0.9310187697410583,
+                    "bottom": 0.0996110662817955
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cdc7d560-4392-4746-b907-e6ceb567fcbb'></a>\n\nFROM: Michele M. LaMachio\nSolentifio & Regulatory Affairs\nResearch & Development\nRJ Reynolds Tobacco\nP.O. Dox 1407\nWinston-Salem, NC 27102\n\nPhone 010-741-4085\nFax 010-741-0815",
+            "type": "text",
+            "id": "cdc7d560-4392-4746-b907-e6ceb567fcbb",
+            "grounding": {
+                "box": {
+                    "left": 0.5606348514556885,
+                    "top": 0.10446097701787949,
+                    "right": 0.9268896579742432,
+                    "bottom": 0.2210155725479126
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e4216e24-8bcc-4f17-b3ff-d2ddc3c22c77'></a>\n\nTO: Mr. Laurent Coppolos\nJob Lana Industries\nGroupe Lana 15-17 Rue Rivay BP\n101\n92305 Levallois Cedex France\n\nPhone: 0011-33-1-42709260\nFax: 0011-33-1-47392519",
+            "type": "text",
+            "id": "e4216e24-8bcc-4f17-b3ff-d2ddc3c22c77",
+            "grounding": {
+                "box": {
+                    "left": 0.11308091878890991,
+                    "top": 0.10468558967113495,
+                    "right": 0.5294715762138367,
+                    "bottom": 0.20781157910823822
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dd9d5713-4257-48a9-867c-923c6f04a6ad'></a>\n\nCC:\nDr. D.C. Rene\nDr. D.H. Pence\nDr. R.L. Subor\nMs. C.A. Rahn\nJob Lana/ Non-tobacco",
+            "type": "text",
+            "id": "dd9d5713-4257-48a9-867c-923c6f04a6ad",
+            "grounding": {
+                "box": {
+                    "left": 0.11086785793304443,
+                    "top": 0.2137473225593567,
+                    "right": 0.536909818649292,
+                    "bottom": 0.28421300649642944
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fc210593-abdf-46be-b266-165f8bf1f7de'></a>\n\nREMARKS:\noption Urgent: [x]\noption For your review: [ ]\noption Reply ASAP: [x]\noption Please Comment: [x]\n\nDear Mr. Goppolos:\n\nI am re-sending the letter of September 22, 1995. Please confirm that you have received this transmission. Unfortunately, we are facing a November 1st, 1996 deadline to acquire all our formulations world-wide. We must have these formulations not only in hand, but also entered into our database, so you can understand our sense of urgency. Please let me know if there is anything I can do to expedite the formulation request process.",
+            "type": "text",
+            "id": "fc210593-abdf-46be-b266-165f8bf1f7de",
+            "grounding": {
+                "box": {
+                    "left": 0.111530601978302,
+                    "top": 0.288271963596344,
+                    "right": 0.9211551547050476,
+                    "bottom": 0.36752384901046753
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='109e6e01-d24c-4a01-82cc-e951de69271a'></a>\n\n<::attestation: Signature\\nSigned\\nSignature: illegible\\nReadable Text: Again, many thanks for your cooperation and assistance.\\nBest Regards,\\nMichele M. LaMachio\\nR&D Toxicologist II\\nDescription: A closing remark followed by a handwritten signature above a typed name and title, positioned on the right side of the document.::>",
+            "type": "attestation",
+            "id": "109e6e01-d24c-4a01-82cc-e951de69271a",
+            "grounding": {
+                "box": {
+                    "left": 0.12473732233047485,
+                    "top": 0.3780905604362488,
+                    "right": 0.807384729385376,
+                    "bottom": 0.45383018255233765
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1268a8c8-5da3-4416-aa5d-5dc8993aa5a6'></a>\n\nTRANSMISSION REPORT",
+            "type": "text",
+            "id": "1268a8c8-5da3-4416-aa5d-5dc8993aa5a6",
+            "grounding": {
+                "box": {
+                    "left": 0.24076619744300842,
+                    "top": 0.5160940289497375,
+                    "right": 0.783197283744812,
+                    "bottom": 0.5682516694068909
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='170c2d42-f850-4996-8c58-a6b8996fa2c4'></a>\n\nTHIS DOCUMENT WAS CONFIRMED\n(REDUCED SAMPLE ABOVE - SEE DETAILS BELOW)",
+            "type": "text",
+            "id": "170c2d42-f850-4996-8c58-a6b8996fa2c4",
+            "grounding": {
+                "box": {
+                    "left": 0.1059311032295227,
+                    "top": 0.5994161367416382,
+                    "right": 0.8575791120529175,
+                    "bottom": 0.648421049118042
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0ef35c1b-41d2-453a-b010-1c95b7360166'></a>\n\n** COUNT **\nTOTAL PAGES SCANNED : 3\nTOTAL PAGES CONFIRMED : 3",
+            "type": "text",
+            "id": "0ef35c1b-41d2-453a-b010-1c95b7360166",
+            "grounding": {
+                "box": {
+                    "left": 0.10558910667896271,
+                    "top": 0.6637560725212097,
+                    "right": 0.5834597945213318,
+                    "bottom": 0.7308513522148132
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='25a756df-8e9c-48dc-9132-aff098bd0793'></a>\n\n*** SEND ***\n<table><thead><tr><th>No.</th><th>REMOTE STATION</th><th>START TIME</th><th>DURATION</th><th>#PAGES</th><th>MODE</th><th>RESULTS</th></tr></thead><tbody><tr><td>1</td><td>33 1 47392519</td><td>10-16-95 11:23AM</td><td>1'32\"</td><td>3/ 3</td><td>EC</td><td>COMPLETED<br>9000</td></tr><tr><td></td><td>TOTAL</td><td></td><td>0:01'32\"</td><td>3</td><td></td><td></td></tr></tbody></table>",
+            "type": "table",
+            "id": "25a756df-8e9c-48dc-9132-aff098bd0793",
+            "grounding": {
+                "box": {
+                    "left": 0.11132147908210754,
+                    "top": 0.7455505132675171,
+                    "right": 0.9541225433349609,
+                    "bottom": 0.8354671001434326
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='faab68c3-36fe-41be-a052-9c974af8ff88'></a>\n\nNOTE:\nNo. : OPERATION NUMBER\nPD : POLLED BY REMOTE\nMB : SEND TO MAILBOX\n\n48 : 4800BPS SELECTED\nSF : STORE & FORWARD\nPG : POLLING A REMOTE\n\nEC : ERROR CORRECT\nRI : RELAY INITIATE\nMP : MULTI-POLLING\n\nG2 : G2 COMMUNICATION\nRS : RELAY STATION\nRM : RECEIVE TO MEMORY",
+            "type": "text",
+            "id": "faab68c3-36fe-41be-a052-9c974af8ff88",
+            "grounding": {
+                "box": {
+                    "left": 0.1125929057598114,
+                    "top": 0.8310911059379578,
+                    "right": 0.9254268407821655,
+                    "bottom": 0.8816612362861633
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ca1b3d7d-e473-4a96-a082-fe2a18b1fbc6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yghg0065",
+            "type": "marginalia",
+            "id": "ca1b3d7d-e473-4a96-a082-fe2a18b1fbc6",
+            "grounding": {
+                "box": {
+                    "left": 0.2121381163597107,
+                    "top": 0.977515459060669,
+                    "right": 0.7893089652061462,
+                    "bottom": 0.9995015859603882
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='56144ff6-5a5d-45b3-85fc-daf70e8113de'></a>\n\n52143 5768",
+            "type": "marginalia",
+            "id": "56144ff6-5a5d-45b3-85fc-daf70e8113de",
+            "grounding": {
+                "box": {
+                    "left": 0.9458850026130676,
+                    "top": 0.8380155563354492,
+                    "right": 0.9700742363929749,
+                    "bottom": 0.9306511878967285
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='abc9c3d8-8f76-4437-9b49-ed112423dc5f'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nR.J. Reynolds\nMaria Burger\nA stylized signature with a printed name below it, positioned horizontally in the lower middle section of the image, above a dashed line.::>\n\n<a id='59584b3b-68fa-4752-b8f1-90d1c129f521'></a>\n\nDate: 10/10/05\nNumber of pages including cover sheet: 3\n\n<a id='cdc7d560-4392-4746-b907-e6ceb567fcbb'></a>\n\nFROM: Michele M. LaMachio\nSolentifio & Regulatory Affairs\nResearch & Development\nRJ Reynolds Tobacco\nP.O. Dox 1407\nWinston-Salem, NC 27102\n\nPhone 010-741-4085\nFax 010-741-0815\n\n<a id='e4216e24-8bcc-4f17-b3ff-d2ddc3c22c77'></a>\n\nTO: Mr. Laurent Coppolos\nJob Lana Industries\nGroupe Lana 15-17 Rue Rivay BP\n101\n92305 Levallois Cedex France\n\nPhone: 0011-33-1-42709260\nFax: 0011-33-1-47392519\n\n<a id='dd9d5713-4257-48a9-867c-923c6f04a6ad'></a>\n\nCC:\nDr. D.C. Rene\nDr. D.H. Pence\nDr. R.L. Subor\nMs. C.A. Rahn\nJob Lana/ Non-tobacco\n\n<a id='fc210593-abdf-46be-b266-165f8bf1f7de'></a>\n\nREMARKS:\noption Urgent: [x]\noption For your review: [ ]\noption Reply ASAP: [x]\noption Please Comment: [x]\n\nDear Mr. Goppolos:\n\nI am re-sending the letter of September 22, 1995. Please confirm that you have received this transmission. Unfortunately, we are facing a November 1st, 1996 deadline to acquire all our formulations world-wide. We must have these formulations not only in hand, but also entered into our database, so you can understand our sense of urgency. Please let me know if there is anything I can do to expedite the formulation request process.\n\n<a id='109e6e01-d24c-4a01-82cc-e951de69271a'></a>\n\n<::attestation: Signature\\nSigned\\nSignature: illegible\\nReadable Text: Again, many thanks for your cooperation and assistance.\\nBest Regards,\\nMichele M. LaMachio\\nR&D Toxicologist II\\nDescription: A closing remark followed by a handwritten signature above a typed name and title, positioned on the right side of the document.::>\n\n<a id='1268a8c8-5da3-4416-aa5d-5dc8993aa5a6'></a>\n\nTRANSMISSION REPORT\n\n<a id='170c2d42-f850-4996-8c58-a6b8996fa2c4'></a>\n\nTHIS DOCUMENT WAS CONFIRMED\n(REDUCED SAMPLE ABOVE - SEE DETAILS BELOW)\n\n<a id='0ef35c1b-41d2-453a-b010-1c95b7360166'></a>\n\n** COUNT **\nTOTAL PAGES SCANNED : 3\nTOTAL PAGES CONFIRMED : 3\n\n<a id='25a756df-8e9c-48dc-9132-aff098bd0793'></a>\n\n*** SEND ***\n<table><thead><tr><th>No.</th><th>REMOTE STATION</th><th>START TIME</th><th>DURATION</th><th>#PAGES</th><th>MODE</th><th>RESULTS</th></tr></thead><tbody><tr><td>1</td><td>33 1 47392519</td><td>10-16-95 11:23AM</td><td>1'32\"</td><td>3/ 3</td><td>EC</td><td>COMPLETED<br>9000</td></tr><tr><td></td><td>TOTAL</td><td></td><td>0:01'32\"</td><td>3</td><td></td><td></td></tr></tbody></table>\n\n<a id='faab68c3-36fe-41be-a052-9c974af8ff88'></a>\n\nNOTE:\nNo. : OPERATION NUMBER\nPD : POLLED BY REMOTE\nMB : SEND TO MAILBOX\n\n48 : 4800BPS SELECTED\nSF : STORE & FORWARD\nPG : POLLING A REMOTE\n\nEC : ERROR CORRECT\nRI : RELAY INITIATE\nMP : MULTI-POLLING\n\nG2 : G2 COMMUNICATION\nRS : RELAY STATION\nRM : RECEIVE TO MEMORY\n\n<a id='ca1b3d7d-e473-4a96-a082-fe2a18b1fbc6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yghg0065\n\n<a id='56144ff6-5a5d-45b3-85fc-daf70e8113de'></a>\n\n52143 5768",
+            "chunks": [
+                "abc9c3d8-8f76-4437-9b49-ed112423dc5f",
+                "59584b3b-68fa-4752-b8f1-90d1c129f521",
+                "cdc7d560-4392-4746-b907-e6ceb567fcbb",
+                "e4216e24-8bcc-4f17-b3ff-d2ddc3c22c77",
+                "dd9d5713-4257-48a9-867c-923c6f04a6ad",
+                "fc210593-abdf-46be-b266-165f8bf1f7de",
+                "109e6e01-d24c-4a01-82cc-e951de69271a",
+                "1268a8c8-5da3-4416-aa5d-5dc8993aa5a6",
+                "170c2d42-f850-4996-8c58-a6b8996fa2c4",
+                "0ef35c1b-41d2-453a-b010-1c95b7360166",
+                "25a756df-8e9c-48dc-9132-aff098bd0793",
+                "faab68c3-36fe-41be-a052-9c974af8ff88",
+                "ca1b3d7d-e473-4a96-a082-fe2a18b1fbc6",
+                "56144ff6-5a5d-45b3-85fc-daf70e8113de"
+            ]
+        }
+    ],
+    "grounding": {
+        "abc9c3d8-8f76-4437-9b49-ed112423dc5f": {
+            "box": {
+                "left": 0.1156873106956482,
+                "top": 0.043221987783908844,
+                "right": 0.4813040494918823,
+                "bottom": 0.1005987897515297
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "59584b3b-68fa-4752-b8f1-90d1c129f521": {
+            "box": {
+                "left": 0.5578535199165344,
+                "top": 0.05836179107427597,
+                "right": 0.9310187697410583,
+                "bottom": 0.0996110662817955
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cdc7d560-4392-4746-b907-e6ceb567fcbb": {
+            "box": {
+                "left": 0.5606348514556885,
+                "top": 0.10446097701787949,
+                "right": 0.9268896579742432,
+                "bottom": 0.2210155725479126
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e4216e24-8bcc-4f17-b3ff-d2ddc3c22c77": {
+            "box": {
+                "left": 0.11308091878890991,
+                "top": 0.10468558967113495,
+                "right": 0.5294715762138367,
+                "bottom": 0.20781157910823822
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dd9d5713-4257-48a9-867c-923c6f04a6ad": {
+            "box": {
+                "left": 0.11086785793304443,
+                "top": 0.2137473225593567,
+                "right": 0.536909818649292,
+                "bottom": 0.28421300649642944
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fc210593-abdf-46be-b266-165f8bf1f7de": {
+            "box": {
+                "left": 0.111530601978302,
+                "top": 0.288271963596344,
+                "right": 0.9211551547050476,
+                "bottom": 0.36752384901046753
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "109e6e01-d24c-4a01-82cc-e951de69271a": {
+            "box": {
+                "left": 0.12473732233047485,
+                "top": 0.3780905604362488,
+                "right": 0.807384729385376,
+                "bottom": 0.45383018255233765
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "1268a8c8-5da3-4416-aa5d-5dc8993aa5a6": {
+            "box": {
+                "left": 0.24076619744300842,
+                "top": 0.5160940289497375,
+                "right": 0.783197283744812,
+                "bottom": 0.5682516694068909
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "170c2d42-f850-4996-8c58-a6b8996fa2c4": {
+            "box": {
+                "left": 0.1059311032295227,
+                "top": 0.5994161367416382,
+                "right": 0.8575791120529175,
+                "bottom": 0.648421049118042
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0ef35c1b-41d2-453a-b010-1c95b7360166": {
+            "box": {
+                "left": 0.10558910667896271,
+                "top": 0.6637560725212097,
+                "right": 0.5834597945213318,
+                "bottom": 0.7308513522148132
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "25a756df-8e9c-48dc-9132-aff098bd0793": {
+            "box": {
+                "left": 0.11132147908210754,
+                "top": 0.7455505132675171,
+                "right": 0.9541225433349609,
+                "bottom": 0.8354671001434326
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "faab68c3-36fe-41be-a052-9c974af8ff88": {
+            "box": {
+                "left": 0.1125929057598114,
+                "top": 0.8310911059379578,
+                "right": 0.9254268407821655,
+                "bottom": 0.8816612362861633
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ca1b3d7d-e473-4a96-a082-fe2a18b1fbc6": {
+            "box": {
+                "left": 0.2121381163597107,
+                "top": 0.977515459060669,
+                "right": 0.7893089652061462,
+                "bottom": 0.9995015859603882
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "56144ff6-5a5d-45b3-85fc-daf70e8113de": {
+            "box": {
+                "left": 0.9458850026130676,
+                "top": 0.8380155563354492,
+                "right": 0.9700742363929749,
+                "bottom": 0.9306511878967285
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yghg0065_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 17578,
+        "credit_usage": 3.0,
+        "job_id": "z8mo6ii98glu3pbriem5d4tza",
+        "version": "dpt-2-20250919"
+    }
+}

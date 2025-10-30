@@ -1,0 +1,328 @@
+{
+    "markdown": "<a id='539915a0-8d31-4554-b1ee-9c3d8d54c2cf'></a>\n\nMCCANN-ERICKSON, INC.\n615 PEACHTREE STREET, N. E., ATLANTA, GEORGIA 30308\n\n<a id='cd04fe1c-b307-4461-8a01-117d586bc9b6'></a>\n\nSIDNEY B. MCALLISTER\nEXECUTIVE VICE PRESIDENT\n\n<a id='4e4dadd6-2ed5-4853-b171-593bb72bd551'></a>\n\nSeptember 8, 1972\n\n<a id='4794d197-5541-440a-888f-3d8d4a747d22'></a>\n\nMr. Michael F. Jacobson\nCenter for Science in the Public Interest\n1346 Connecticut Avenue, N. W.\nRoom 812\nWashington, D. C. 20036\n\n<a id='c8332a24-a559-4f68-956e-b6243c357ce2'></a>\n\nDear Mr. Jacobson:\n\n<a id='7b1962b4-3711-49c9-b9ed-a40d844c19e8'></a>\n\nWe are the advertising agency for Coca-Cola and prepare all\nof the advertising for that product. Your letter to The Company\nrequesting scripts of radio and television commercials was\nsent to us for handling. Sorry our response is late, but\nI have been out of the office for several weeks.\n\n<a id='d7cf5fbd-9e48-4b91-b1ba-fe6cbb69fe03'></a>\n\nI am attaching scripts of the following commercials:\n\n<a id='daf228d7-66d9-45ca-a16e-3d2b73ddaa7d'></a>\n\nTelevision and Radio Commercials - \"Country Girl\", \"Bicycle\",\n\"Buy The World A Coke\", \"Sing With Me\", \"Have A Good Day\", \"Raft\".\n\n<a id='d3a59b92-7d5f-46be-b797-44bb5992fcbb'></a>\n\nThese commercials were used on both television and radio and\nrepresent the Main Thrust of our advertising message to consumers.\nWe use \"song forms\" commercials. Therefore, the attached\nscripts are all song lyrics.\n\n<a id='1976dbee-a321-488c-9036-7178458c069e'></a>\n\nWe have some other radio commercials for use on Black radio stations and Country and Western stations, but they follow the same general pattern as the attached.\n\n<a id='d68d559c-1cf8-4bf8-b7b6-7e58965d371f'></a>\n\nIn your letter, you refer to \"an older radio commercial that\ncompared the caloric content of grapefruit and Coca-Cola.\"\n\n<a id='e988a2fb-04cb-4827-8c6a-e0d73d006454'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rzyj0226",
+    "chunks": [
+        {
+            "markdown": "<a id='539915a0-8d31-4554-b1ee-9c3d8d54c2cf'></a>\n\nMCCANN-ERICKSON, INC.\n615 PEACHTREE STREET, N. E., ATLANTA, GEORGIA 30308",
+            "type": "text",
+            "id": "539915a0-8d31-4554-b1ee-9c3d8d54c2cf",
+            "grounding": {
+                "box": {
+                    "left": 0.3153507113456726,
+                    "top": 0.06956299394369125,
+                    "right": 0.684123158454895,
+                    "bottom": 0.11149469763040543
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cd04fe1c-b307-4461-8a01-117d586bc9b6'></a>\n\nSIDNEY B. MCALLISTER\nEXECUTIVE VICE PRESIDENT",
+            "type": "text",
+            "id": "cd04fe1c-b307-4461-8a01-117d586bc9b6",
+            "grounding": {
+                "box": {
+                    "left": 0.0963076651096344,
+                    "top": 0.16790857911109924,
+                    "right": 0.2924935221672058,
+                    "bottom": 0.19817927479743958
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4e4dadd6-2ed5-4853-b171-593bb72bd551'></a>\n\nSeptember 8, 1972",
+            "type": "text",
+            "id": "4e4dadd6-2ed5-4853-b171-593bb72bd551",
+            "grounding": {
+                "box": {
+                    "left": 0.47609251737594604,
+                    "top": 0.20565205812454224,
+                    "right": 0.6899442076683044,
+                    "bottom": 0.2319830060005188
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4794d197-5541-440a-888f-3d8d4a747d22'></a>\n\nMr. Michael F. Jacobson\nCenter for Science in the Public Interest\n1346 Connecticut Avenue, N. W.\nRoom 812\nWashington, D. C. 20036",
+            "type": "text",
+            "id": "4794d197-5541-440a-888f-3d8d4a747d22",
+            "grounding": {
+                "box": {
+                    "left": 0.1418578177690506,
+                    "top": 0.2844267785549164,
+                    "right": 0.6339384317398071,
+                    "bottom": 0.37292560935020447
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c8332a24-a559-4f68-956e-b6243c357ce2'></a>\n\nDear Mr. Jacobson:",
+            "type": "text",
+            "id": "c8332a24-a559-4f68-956e-b6243c357ce2",
+            "grounding": {
+                "box": {
+                    "left": 0.1427016258239746,
+                    "top": 0.38208523392677307,
+                    "right": 0.36409151554107666,
+                    "bottom": 0.40449967980384827
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7b1962b4-3711-49c9-b9ed-a40d844c19e8'></a>\n\nWe are the advertising agency for Coca-Cola and prepare all\nof the advertising for that product. Your letter to The Company\nrequesting scripts of radio and television commercials was\nsent to us for handling. Sorry our response is late, but\nI have been out of the office for several weeks.",
+            "type": "text",
+            "id": "7b1962b4-3711-49c9-b9ed-a40d844c19e8",
+            "grounding": {
+                "box": {
+                    "left": 0.14361339807510376,
+                    "top": 0.4128217101097107,
+                    "right": 0.8956977725028992,
+                    "bottom": 0.5005356073379517
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d7cf5fbd-9e48-4b91-b1ba-fe6cbb69fe03'></a>\n\nI am attaching scripts of the following commercials:",
+            "type": "text",
+            "id": "d7cf5fbd-9e48-4b91-b1ba-fe6cbb69fe03",
+            "grounding": {
+                "box": {
+                    "left": 0.14519569277763367,
+                    "top": 0.5088062286376953,
+                    "right": 0.7624309062957764,
+                    "bottom": 0.5340980291366577
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='daf228d7-66d9-45ca-a16e-3d2b73ddaa7d'></a>\n\nTelevision and Radio Commercials - \"Country Girl\", \"Bicycle\",\n\"Buy The World A Coke\", \"Sing With Me\", \"Have A Good Day\", \"Raft\".",
+            "type": "text",
+            "id": "daf228d7-66d9-45ca-a16e-3d2b73ddaa7d",
+            "grounding": {
+                "box": {
+                    "left": 0.1442752480506897,
+                    "top": 0.5402960181236267,
+                    "right": 0.9156959652900696,
+                    "bottom": 0.5814509987831116
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d3a59b92-7d5f-46be-b797-44bb5992fcbb'></a>\n\nThese commercials were used on both television and radio and\nrepresent the Main Thrust of our advertising message to consumers.\nWe use \"song forms\" commercials. Therefore, the attached\nscripts are all song lyrics.",
+            "type": "text",
+            "id": "d3a59b92-7d5f-46be-b797-44bb5992fcbb",
+            "grounding": {
+                "box": {
+                    "left": 0.14504483342170715,
+                    "top": 0.5882980227470398,
+                    "right": 0.9170018434524536,
+                    "bottom": 0.6591581702232361
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1976dbee-a321-488c-9036-7178458c069e'></a>\n\nWe have some other radio commercials for use on Black radio stations and Country and Western stations, but they follow the same general pattern as the attached.",
+            "type": "text",
+            "id": "1976dbee-a321-488c-9036-7178458c069e",
+            "grounding": {
+                "box": {
+                    "left": 0.14494943618774414,
+                    "top": 0.6666904091835022,
+                    "right": 0.8734856843948364,
+                    "bottom": 0.7231462597846985
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d68d559c-1cf8-4bf8-b7b6-7e58965d371f'></a>\n\nIn your letter, you refer to \"an older radio commercial that\ncompared the caloric content of grapefruit and Coca-Cola.\"",
+            "type": "text",
+            "id": "d68d559c-1cf8-4bf8-b7b6-7e58965d371f",
+            "grounding": {
+                "box": {
+                    "left": 0.1466142237186432,
+                    "top": 0.7291216850280762,
+                    "right": 0.8517768383026123,
+                    "bottom": 0.7704287767410278
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e988a2fb-04cb-4827-8c6a-e0d73d006454'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rzyj0226",
+            "type": "text",
+            "id": "e988a2fb-04cb-4827-8c6a-e0d73d006454",
+            "grounding": {
+                "box": {
+                    "left": 0.16972249746322632,
+                    "top": 0.9764667749404907,
+                    "right": 0.8307051062583923,
+                    "bottom": 0.9996006488800049
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='539915a0-8d31-4554-b1ee-9c3d8d54c2cf'></a>\n\nMCCANN-ERICKSON, INC.\n615 PEACHTREE STREET, N. E., ATLANTA, GEORGIA 30308\n\n<a id='cd04fe1c-b307-4461-8a01-117d586bc9b6'></a>\n\nSIDNEY B. MCALLISTER\nEXECUTIVE VICE PRESIDENT\n\n<a id='4e4dadd6-2ed5-4853-b171-593bb72bd551'></a>\n\nSeptember 8, 1972\n\n<a id='4794d197-5541-440a-888f-3d8d4a747d22'></a>\n\nMr. Michael F. Jacobson\nCenter for Science in the Public Interest\n1346 Connecticut Avenue, N. W.\nRoom 812\nWashington, D. C. 20036\n\n<a id='c8332a24-a559-4f68-956e-b6243c357ce2'></a>\n\nDear Mr. Jacobson:\n\n<a id='7b1962b4-3711-49c9-b9ed-a40d844c19e8'></a>\n\nWe are the advertising agency for Coca-Cola and prepare all\nof the advertising for that product. Your letter to The Company\nrequesting scripts of radio and television commercials was\nsent to us for handling. Sorry our response is late, but\nI have been out of the office for several weeks.\n\n<a id='d7cf5fbd-9e48-4b91-b1ba-fe6cbb69fe03'></a>\n\nI am attaching scripts of the following commercials:\n\n<a id='daf228d7-66d9-45ca-a16e-3d2b73ddaa7d'></a>\n\nTelevision and Radio Commercials - \"Country Girl\", \"Bicycle\",\n\"Buy The World A Coke\", \"Sing With Me\", \"Have A Good Day\", \"Raft\".\n\n<a id='d3a59b92-7d5f-46be-b797-44bb5992fcbb'></a>\n\nThese commercials were used on both television and radio and\nrepresent the Main Thrust of our advertising message to consumers.\nWe use \"song forms\" commercials. Therefore, the attached\nscripts are all song lyrics.\n\n<a id='1976dbee-a321-488c-9036-7178458c069e'></a>\n\nWe have some other radio commercials for use on Black radio stations and Country and Western stations, but they follow the same general pattern as the attached.\n\n<a id='d68d559c-1cf8-4bf8-b7b6-7e58965d371f'></a>\n\nIn your letter, you refer to \"an older radio commercial that\ncompared the caloric content of grapefruit and Coca-Cola.\"\n\n<a id='e988a2fb-04cb-4827-8c6a-e0d73d006454'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rzyj0226",
+            "chunks": [
+                "539915a0-8d31-4554-b1ee-9c3d8d54c2cf",
+                "cd04fe1c-b307-4461-8a01-117d586bc9b6",
+                "4e4dadd6-2ed5-4853-b171-593bb72bd551",
+                "4794d197-5541-440a-888f-3d8d4a747d22",
+                "c8332a24-a559-4f68-956e-b6243c357ce2",
+                "7b1962b4-3711-49c9-b9ed-a40d844c19e8",
+                "d7cf5fbd-9e48-4b91-b1ba-fe6cbb69fe03",
+                "daf228d7-66d9-45ca-a16e-3d2b73ddaa7d",
+                "d3a59b92-7d5f-46be-b797-44bb5992fcbb",
+                "1976dbee-a321-488c-9036-7178458c069e",
+                "d68d559c-1cf8-4bf8-b7b6-7e58965d371f",
+                "e988a2fb-04cb-4827-8c6a-e0d73d006454"
+            ]
+        }
+    ],
+    "grounding": {
+        "539915a0-8d31-4554-b1ee-9c3d8d54c2cf": {
+            "box": {
+                "left": 0.3153507113456726,
+                "top": 0.06956299394369125,
+                "right": 0.684123158454895,
+                "bottom": 0.11149469763040543
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cd04fe1c-b307-4461-8a01-117d586bc9b6": {
+            "box": {
+                "left": 0.0963076651096344,
+                "top": 0.16790857911109924,
+                "right": 0.2924935221672058,
+                "bottom": 0.19817927479743958
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4e4dadd6-2ed5-4853-b171-593bb72bd551": {
+            "box": {
+                "left": 0.47609251737594604,
+                "top": 0.20565205812454224,
+                "right": 0.6899442076683044,
+                "bottom": 0.2319830060005188
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4794d197-5541-440a-888f-3d8d4a747d22": {
+            "box": {
+                "left": 0.1418578177690506,
+                "top": 0.2844267785549164,
+                "right": 0.6339384317398071,
+                "bottom": 0.37292560935020447
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c8332a24-a559-4f68-956e-b6243c357ce2": {
+            "box": {
+                "left": 0.1427016258239746,
+                "top": 0.38208523392677307,
+                "right": 0.36409151554107666,
+                "bottom": 0.40449967980384827
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7b1962b4-3711-49c9-b9ed-a40d844c19e8": {
+            "box": {
+                "left": 0.14361339807510376,
+                "top": 0.4128217101097107,
+                "right": 0.8956977725028992,
+                "bottom": 0.5005356073379517
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d7cf5fbd-9e48-4b91-b1ba-fe6cbb69fe03": {
+            "box": {
+                "left": 0.14519569277763367,
+                "top": 0.5088062286376953,
+                "right": 0.7624309062957764,
+                "bottom": 0.5340980291366577
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "daf228d7-66d9-45ca-a16e-3d2b73ddaa7d": {
+            "box": {
+                "left": 0.1442752480506897,
+                "top": 0.5402960181236267,
+                "right": 0.9156959652900696,
+                "bottom": 0.5814509987831116
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d3a59b92-7d5f-46be-b797-44bb5992fcbb": {
+            "box": {
+                "left": 0.14504483342170715,
+                "top": 0.5882980227470398,
+                "right": 0.9170018434524536,
+                "bottom": 0.6591581702232361
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1976dbee-a321-488c-9036-7178458c069e": {
+            "box": {
+                "left": 0.14494943618774414,
+                "top": 0.6666904091835022,
+                "right": 0.8734856843948364,
+                "bottom": 0.7231462597846985
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d68d559c-1cf8-4bf8-b7b6-7e58965d371f": {
+            "box": {
+                "left": 0.1466142237186432,
+                "top": 0.7291216850280762,
+                "right": 0.8517768383026123,
+                "bottom": 0.7704287767410278
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e988a2fb-04cb-4827-8c6a-e0d73d006454": {
+            "box": {
+                "left": 0.16972249746322632,
+                "top": 0.9764667749404907,
+                "right": 0.8307051062583923,
+                "bottom": 0.9996006488800049
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rzyj0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5320,
+        "credit_usage": 3.0,
+        "job_id": "zppnwmsqb85lrrc6ggc8bza17",
+        "version": "dpt-2-20250919"
+    }
+}

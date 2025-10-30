@@ -1,0 +1,648 @@
+{
+    "markdown": "<a id='4e042c2f-b4bb-4e7a-bd55-c2e823dc0a5b'></a>\n\nQuestion 1: What does the word calories mean to you?\n\n<a id='3754f897-be66-4c68-85aa-1eb33703fb6f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Respondents</td><td id=\"0-3\">Total* (506=100%)</td><td id=\"0-4\">Men* (249=100%)</td><td id=\"0-5\">Women* (257=100%)</td></tr>\n<tr><td id=\"0-6\">Fattening food, fat in food, fat building components, fattening qualities in foods, concerns weight</td><td id=\"0-7\">36%</td><td id=\"0-8\">28%</td><td id=\"0-9\">44%</td></tr>\n<tr><td id=\"0-a\">Energy, heat, unit of heat, unit of energy, heat burned in body, heat energy, amount of heat needed to raise 1 gram of water 1\u00b0C</td><td id=\"0-b\">25</td><td id=\"0-c\">28</td><td id=\"0-d\">22</td></tr>\n<tr><td id=\"0-e\">Body requirement, need them for balanced diet, beneficial to body, something vital to body, nourishment in food, food value, unit of nutrition</td><td id=\"0-f\">16</td><td id=\"0-g\">16</td><td id=\"0-h\">15</td></tr>\n<tr><td id=\"0-i\" colspan=\"2\">Measurement of food content, method of counting food value, method of measuring food consumption, food weight, food is measured in calories, different foods have different amounts. 11</td><td id=\"0-j\">12</td><td id=\"0-k\">11</td></tr>\n<tr><td id=\"0-l\">Vitamins in food, vitamin content, sort of a vitamin, mineral</td><td id=\"0-m\">4</td><td id=\"0-n\">3</td><td id=\"0-o\">4</td></tr>\n<tr><td id=\"0-p\">Just food</td><td id=\"0-q\">2</td><td id=\"0-r\">3</td><td id=\"0-s\">1</td></tr>\n<tr><td id=\"0-t\">Something in food, content in food</td><td id=\"0-u\">2</td><td id=\"0-v\">2</td><td id=\"0-w\">2</td></tr>\n<tr><td id=\"0-x\">Dieting, on a diet</td><td id=\"0-y\">1</td><td id=\"0-z\">1</td><td id=\"0-A\">2</td></tr>\n<tr><td id=\"0-B\">Protein in food, food value such as high or low protein</td><td id=\"0-C\">1</td><td id=\"0-D\">1</td><td id=\"0-E\">1</td></tr>\n<tr><td id=\"0-F\">All other</td><td id=\"0-G\">2</td><td id=\"0-H\">2</td><td id=\"0-I\">2</td></tr>\n<tr><td id=\"0-J\">Nothing</td><td id=\"0-K\">4</td><td id=\"0-L\">6</td><td id=\"0-M\">2</td></tr>\n<tr><td id=\"0-N\">Don't know</td><td id=\"0-O\">4</td><td id=\"0-P\">5</td><td id=\"0-Q\">2</td></tr>\n</table>\n\n<a id='8adc2b68-4421-4fda-920e-051dd9307a56'></a>\n\n*Adds to more than 100% because some respondents gave more\nthan one answer.\n\n<a id='b7508514-7fb1-4846-87aa-d5fd0e478282'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lpdl0226",
+    "chunks": [
+        {
+            "markdown": "<a id='4e042c2f-b4bb-4e7a-bd55-c2e823dc0a5b'></a>\n\nQuestion 1: What does the word calories mean to you?",
+            "type": "text",
+            "id": "4e042c2f-b4bb-4e7a-bd55-c2e823dc0a5b",
+            "grounding": {
+                "box": {
+                    "left": 0.17539691925048828,
+                    "top": 0.12956278026103973,
+                    "right": 0.6821840405464172,
+                    "bottom": 0.15330766141414642
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3754f897-be66-4c68-85aa-1eb33703fb6f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Respondents</td><td id=\"0-3\">Total* (506=100%)</td><td id=\"0-4\">Men* (249=100%)</td><td id=\"0-5\">Women* (257=100%)</td></tr>\n<tr><td id=\"0-6\">Fattening food, fat in food, fat building components, fattening qualities in foods, concerns weight</td><td id=\"0-7\">36%</td><td id=\"0-8\">28%</td><td id=\"0-9\">44%</td></tr>\n<tr><td id=\"0-a\">Energy, heat, unit of heat, unit of energy, heat burned in body, heat energy, amount of heat needed to raise 1 gram of water 1\u00b0C</td><td id=\"0-b\">25</td><td id=\"0-c\">28</td><td id=\"0-d\">22</td></tr>\n<tr><td id=\"0-e\">Body requirement, need them for balanced diet, beneficial to body, something vital to body, nourishment in food, food value, unit of nutrition</td><td id=\"0-f\">16</td><td id=\"0-g\">16</td><td id=\"0-h\">15</td></tr>\n<tr><td id=\"0-i\" colspan=\"2\">Measurement of food content, method of counting food value, method of measuring food consumption, food weight, food is measured in calories, different foods have different amounts. 11</td><td id=\"0-j\">12</td><td id=\"0-k\">11</td></tr>\n<tr><td id=\"0-l\">Vitamins in food, vitamin content, sort of a vitamin, mineral</td><td id=\"0-m\">4</td><td id=\"0-n\">3</td><td id=\"0-o\">4</td></tr>\n<tr><td id=\"0-p\">Just food</td><td id=\"0-q\">2</td><td id=\"0-r\">3</td><td id=\"0-s\">1</td></tr>\n<tr><td id=\"0-t\">Something in food, content in food</td><td id=\"0-u\">2</td><td id=\"0-v\">2</td><td id=\"0-w\">2</td></tr>\n<tr><td id=\"0-x\">Dieting, on a diet</td><td id=\"0-y\">1</td><td id=\"0-z\">1</td><td id=\"0-A\">2</td></tr>\n<tr><td id=\"0-B\">Protein in food, food value such as high or low protein</td><td id=\"0-C\">1</td><td id=\"0-D\">1</td><td id=\"0-E\">1</td></tr>\n<tr><td id=\"0-F\">All other</td><td id=\"0-G\">2</td><td id=\"0-H\">2</td><td id=\"0-I\">2</td></tr>\n<tr><td id=\"0-J\">Nothing</td><td id=\"0-K\">4</td><td id=\"0-L\">6</td><td id=\"0-M\">2</td></tr>\n<tr><td id=\"0-N\">Don't know</td><td id=\"0-O\">4</td><td id=\"0-P\">5</td><td id=\"0-Q\">2</td></tr>\n</table>",
+            "type": "table",
+            "id": "3754f897-be66-4c68-85aa-1eb33703fb6f",
+            "grounding": {
+                "box": {
+                    "left": 0.17174291610717773,
+                    "top": 0.17231595516204834,
+                    "right": 0.812778651714325,
+                    "bottom": 0.8064170479774475
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8adc2b68-4421-4fda-920e-051dd9307a56'></a>\n\n*Adds to more than 100% because some respondents gave more\nthan one answer.",
+            "type": "text",
+            "id": "8adc2b68-4421-4fda-920e-051dd9307a56",
+            "grounding": {
+                "box": {
+                    "left": 0.21860694885253906,
+                    "top": 0.809684157371521,
+                    "right": 0.783928632736206,
+                    "bottom": 0.8446171283721924
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b7508514-7fb1-4846-87aa-d5fd0e478282'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lpdl0226",
+            "type": "marginalia",
+            "id": "b7508514-7fb1-4846-87aa-d5fd0e478282",
+            "grounding": {
+                "box": {
+                    "left": 0.23761802911758423,
+                    "top": 0.9809380769729614,
+                    "right": 0.7651010155677795,
+                    "bottom": 0.9990760087966919
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4e042c2f-b4bb-4e7a-bd55-c2e823dc0a5b'></a>\n\nQuestion 1: What does the word calories mean to you?\n\n<a id='3754f897-be66-4c68-85aa-1eb33703fb6f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Respondents</td><td id=\"0-3\">Total* (506=100%)</td><td id=\"0-4\">Men* (249=100%)</td><td id=\"0-5\">Women* (257=100%)</td></tr>\n<tr><td id=\"0-6\">Fattening food, fat in food, fat building components, fattening qualities in foods, concerns weight</td><td id=\"0-7\">36%</td><td id=\"0-8\">28%</td><td id=\"0-9\">44%</td></tr>\n<tr><td id=\"0-a\">Energy, heat, unit of heat, unit of energy, heat burned in body, heat energy, amount of heat needed to raise 1 gram of water 1\u00b0C</td><td id=\"0-b\">25</td><td id=\"0-c\">28</td><td id=\"0-d\">22</td></tr>\n<tr><td id=\"0-e\">Body requirement, need them for balanced diet, beneficial to body, something vital to body, nourishment in food, food value, unit of nutrition</td><td id=\"0-f\">16</td><td id=\"0-g\">16</td><td id=\"0-h\">15</td></tr>\n<tr><td id=\"0-i\" colspan=\"2\">Measurement of food content, method of counting food value, method of measuring food consumption, food weight, food is measured in calories, different foods have different amounts. 11</td><td id=\"0-j\">12</td><td id=\"0-k\">11</td></tr>\n<tr><td id=\"0-l\">Vitamins in food, vitamin content, sort of a vitamin, mineral</td><td id=\"0-m\">4</td><td id=\"0-n\">3</td><td id=\"0-o\">4</td></tr>\n<tr><td id=\"0-p\">Just food</td><td id=\"0-q\">2</td><td id=\"0-r\">3</td><td id=\"0-s\">1</td></tr>\n<tr><td id=\"0-t\">Something in food, content in food</td><td id=\"0-u\">2</td><td id=\"0-v\">2</td><td id=\"0-w\">2</td></tr>\n<tr><td id=\"0-x\">Dieting, on a diet</td><td id=\"0-y\">1</td><td id=\"0-z\">1</td><td id=\"0-A\">2</td></tr>\n<tr><td id=\"0-B\">Protein in food, food value such as high or low protein</td><td id=\"0-C\">1</td><td id=\"0-D\">1</td><td id=\"0-E\">1</td></tr>\n<tr><td id=\"0-F\">All other</td><td id=\"0-G\">2</td><td id=\"0-H\">2</td><td id=\"0-I\">2</td></tr>\n<tr><td id=\"0-J\">Nothing</td><td id=\"0-K\">4</td><td id=\"0-L\">6</td><td id=\"0-M\">2</td></tr>\n<tr><td id=\"0-N\">Don't know</td><td id=\"0-O\">4</td><td id=\"0-P\">5</td><td id=\"0-Q\">2</td></tr>\n</table>\n\n<a id='8adc2b68-4421-4fda-920e-051dd9307a56'></a>\n\n*Adds to more than 100% because some respondents gave more\nthan one answer.\n\n<a id='b7508514-7fb1-4846-87aa-d5fd0e478282'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lpdl0226",
+            "chunks": [
+                "4e042c2f-b4bb-4e7a-bd55-c2e823dc0a5b",
+                "3754f897-be66-4c68-85aa-1eb33703fb6f",
+                "8adc2b68-4421-4fda-920e-051dd9307a56",
+                "b7508514-7fb1-4846-87aa-d5fd0e478282"
+            ]
+        }
+    ],
+    "grounding": {
+        "4e042c2f-b4bb-4e7a-bd55-c2e823dc0a5b": {
+            "box": {
+                "left": 0.17539691925048828,
+                "top": 0.12956278026103973,
+                "right": 0.6821840405464172,
+                "bottom": 0.15330766141414642
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3754f897-be66-4c68-85aa-1eb33703fb6f": {
+            "box": {
+                "left": 0.17174291610717773,
+                "top": 0.17231595516204834,
+                "right": 0.812778651714325,
+                "bottom": 0.8064170479774475
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.17362340922880792,
+                "right": 0.8089369572379219,
+                "bottom": 0.8064106983552222
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.17362340922880792,
+                "right": 0.5062847550066891,
+                "bottom": 0.2088382664523969
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.17362340922880792,
+                "right": 0.6055518936049538,
+                "bottom": 0.2088382664523969
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.17362340922880792,
+                "right": 0.707659964217779,
+                "bottom": 0.2088382664523969
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.17362340922880792,
+                "right": 0.8092261207348379,
+                "bottom": 0.2088382664523969
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.2088382664523969,
+                "right": 0.5062847550066891,
+                "bottom": 0.28314081581027484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.2088382664523969,
+                "right": 0.6055518936049538,
+                "bottom": 0.28314081581027484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.2088382664523969,
+                "right": 0.707659964217779,
+                "bottom": 0.28314081581027484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.2088382664523969,
+                "right": 0.8092261207348379,
+                "bottom": 0.28314081581027484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.28314081581027484,
+                "right": 0.5062847550066891,
+                "bottom": 0.3576308325674926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.28314081581027484,
+                "right": 0.6055518936049538,
+                "bottom": 0.3576308325674926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.28314081581027484,
+                "right": 0.707659964217779,
+                "bottom": 0.3576308325674926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.28314081581027484,
+                "right": 0.8092261207348379,
+                "bottom": 0.3576308325674926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.3576308325674926,
+                "right": 0.5062847550066891,
+                "bottom": 0.44634463618193365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.3576308325674926,
+                "right": 0.6055518936049538,
+                "bottom": 0.44634463618193365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.3576308325674926,
+                "right": 0.707659964217779,
+                "bottom": 0.44634463618193365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.3576308325674926,
+                "right": 0.8092261207348379,
+                "bottom": 0.44634463618193365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.44634463618193365,
+                "right": 0.707659964217779,
+                "bottom": 0.5948714843077205
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.44634463618193365,
+                "right": 0.707659964217779,
+                "bottom": 0.5488858949508568
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.44634463618193365,
+                "right": 0.8092261207348379,
+                "bottom": 0.5488858949508568
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.5488858949508568,
+                "right": 0.5062847550066891,
+                "bottom": 0.5948714843077205
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.5488858949508568,
+                "right": 0.6055518936049538,
+                "bottom": 0.5948714843077205
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.5488858949508568,
+                "right": 0.707659964217779,
+                "bottom": 0.5948714843077205
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.5488858949508568,
+                "right": 0.8092261207348379,
+                "bottom": 0.5948714843077205
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.5948714843077205,
+                "right": 0.5062847550066891,
+                "bottom": 0.6248829737558061
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.5948714843077205,
+                "right": 0.6055518936049538,
+                "bottom": 0.6248829737558061
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.5948714843077205,
+                "right": 0.707659964217779,
+                "bottom": 0.6248829737558061
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.5948714843077205,
+                "right": 0.8092261207348379,
+                "bottom": 0.6248829737558061
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.6248829737558061,
+                "right": 0.5062847550066891,
+                "bottom": 0.6541695479998317
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.6248829737558061,
+                "right": 0.6055518936049538,
+                "bottom": 0.6541695479998317
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.6248829737558061,
+                "right": 0.707659964217779,
+                "bottom": 0.6541695479998317
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.6248829737558061,
+                "right": 0.8092261207348379,
+                "bottom": 0.6541695479998317
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.6541695479998317,
+                "right": 0.5062847550066891,
+                "bottom": 0.6826358115249356
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.6541695479998317,
+                "right": 0.6055518936049538,
+                "bottom": 0.6826358115249356
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.6541695479998317,
+                "right": 0.707659964217779,
+                "bottom": 0.6826358115249356
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.6541695479998317,
+                "right": 0.8092261207348379,
+                "bottom": 0.6826358115249356
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.6826358115249356,
+                "right": 0.5062847550066891,
+                "bottom": 0.7219674125387137
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.6826358115249356,
+                "right": 0.6055518936049538,
+                "bottom": 0.7219674125387137
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.6826358115249356,
+                "right": 0.707659964217779,
+                "bottom": 0.7219674125387137
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.6826358115249356,
+                "right": 0.8092261207348379,
+                "bottom": 0.7219674125387137
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.7219674125387137,
+                "right": 0.5062847550066891,
+                "bottom": 0.7495047792457683
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.7219674125387137,
+                "right": 0.6055518936049538,
+                "bottom": 0.7495047792457683
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.7219674125387137,
+                "right": 0.707659964217779,
+                "bottom": 0.7495047792457683
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.7219674125387137,
+                "right": 0.8092261207348379,
+                "bottom": 0.7495047792457683
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.7495047792457683,
+                "right": 0.5062847550066891,
+                "bottom": 0.7786770602897377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.7495047792457683,
+                "right": 0.6055518936049538,
+                "bottom": 0.7786770602897377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.7495047792457683,
+                "right": 0.707659964217779,
+                "bottom": 0.7786770602897377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.7495047792457683,
+                "right": 0.8092261207348379,
+                "bottom": 0.7786770602897377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.17753813581870848,
+                "top": 0.7786770602897377,
+                "right": 0.5062847550066891,
+                "bottom": 0.8064106983552222
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.5062847550066891,
+                "top": 0.7786770602897377,
+                "right": 0.6055518936049538,
+                "bottom": 0.8064106983552222
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.6055518936049538,
+                "top": 0.7786770602897377,
+                "right": 0.707659964217779,
+                "bottom": 0.8064106983552222
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.707659964217779,
+                "top": 0.7786770602897377,
+                "right": 0.8092261207348379,
+                "bottom": 0.8064106983552222
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "8adc2b68-4421-4fda-920e-051dd9307a56": {
+            "box": {
+                "left": 0.21860694885253906,
+                "top": 0.809684157371521,
+                "right": 0.783928632736206,
+                "bottom": 0.8446171283721924
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b7508514-7fb1-4846-87aa-d5fd0e478282": {
+            "box": {
+                "left": 0.23761802911758423,
+                "top": 0.9809380769729614,
+                "right": 0.7651010155677795,
+                "bottom": 0.9990760087966919
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lpdl0226_11.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7233,
+        "credit_usage": 3.0,
+        "job_id": "ahao0y8j2vpw1cbjfw92hm4ud",
+        "version": "dpt-2-20250919"
+    }
+}

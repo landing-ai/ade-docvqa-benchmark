@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='87777207-d0ec-4ab5-82e1-710b404b3c5d'></a>\n\nsecond announcement =\n\n<a id='02cdf326-ca98-48e5-8482-000f58a03bf2'></a>\n\nHEALTH EFFECTS AND INTERACTIONS\nOF\nESSENTIAL AND TOXIC ELEMENTS\n\n<a id='9ff74f5b-9154-46ca-80ce-dc50d04ecef8'></a>\n\n<::A world map, likely in an oval projection, showing outlines of continents. Overlaid on parts of Europe, Asia, and Africa is a rectangular grid structure. From a central point in Europe, multiple lines radiate outwards, connecting to various points within the grid. This suggests a network or communication system originating from Europe and extending across the grid-covered regions\n: figure::>\n\n<a id='a724d7b7-b8d6-4cda-94b9-b4375ec822ef'></a>\n\ninternational symposium\nLund , Sweden\nJune 13 - June 18\n== 1983 ==\n\n<a id='000e57d8-727c-4b78-87b0-de81d15a7db2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qncj0227",
+    "chunks": [
+        {
+            "markdown": "<a id='87777207-d0ec-4ab5-82e1-710b404b3c5d'></a>\n\nsecond announcement =",
+            "type": "text",
+            "id": "87777207-d0ec-4ab5-82e1-710b404b3c5d",
+            "grounding": {
+                "box": {
+                    "left": 0.2743018865585327,
+                    "top": 0.10889546573162079,
+                    "right": 0.6826950311660767,
+                    "bottom": 0.14489634335041046
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='02cdf326-ca98-48e5-8482-000f58a03bf2'></a>\n\nHEALTH EFFECTS AND INTERACTIONS\nOF\nESSENTIAL AND TOXIC ELEMENTS",
+            "type": "text",
+            "id": "02cdf326-ca98-48e5-8482-000f58a03bf2",
+            "grounding": {
+                "box": {
+                    "left": 0.07404851913452148,
+                    "top": 0.21424728631973267,
+                    "right": 0.8631421327590942,
+                    "bottom": 0.32431530952453613
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9ff74f5b-9154-46ca-80ce-dc50d04ecef8'></a>\n\n<::A world map, likely in an oval projection, showing outlines of continents. Overlaid on parts of Europe, Asia, and Africa is a rectangular grid structure. From a central point in Europe, multiple lines radiate outwards, connecting to various points within the grid. This suggests a network or communication system originating from Europe and extending across the grid-covered regions\n: figure::>",
+            "type": "figure",
+            "id": "9ff74f5b-9154-46ca-80ce-dc50d04ecef8",
+            "grounding": {
+                "box": {
+                    "left": 0.11573740839958191,
+                    "top": 0.38374656438827515,
+                    "right": 0.8707669973373413,
+                    "bottom": 0.6665356755256653
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a724d7b7-b8d6-4cda-94b9-b4375ec822ef'></a>\n\ninternational symposium\nLund , Sweden\nJune 13 - June 18\n== 1983 ==",
+            "type": "text",
+            "id": "a724d7b7-b8d6-4cda-94b9-b4375ec822ef",
+            "grounding": {
+                "box": {
+                    "left": 0.2832763195037842,
+                    "top": 0.7235532999038696,
+                    "right": 0.731406569480896,
+                    "bottom": 0.8963607549667358
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='000e57d8-727c-4b78-87b0-de81d15a7db2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qncj0227",
+            "type": "text",
+            "id": "000e57d8-727c-4b78-87b0-de81d15a7db2",
+            "grounding": {
+                "box": {
+                    "left": 0.10250571370124817,
+                    "top": 0.9698598980903625,
+                    "right": 0.8995444774627686,
+                    "bottom": 0.9989855885505676
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='87777207-d0ec-4ab5-82e1-710b404b3c5d'></a>\n\nsecond announcement =\n\n<a id='02cdf326-ca98-48e5-8482-000f58a03bf2'></a>\n\nHEALTH EFFECTS AND INTERACTIONS\nOF\nESSENTIAL AND TOXIC ELEMENTS\n\n<a id='9ff74f5b-9154-46ca-80ce-dc50d04ecef8'></a>\n\n<::A world map, likely in an oval projection, showing outlines of continents. Overlaid on parts of Europe, Asia, and Africa is a rectangular grid structure. From a central point in Europe, multiple lines radiate outwards, connecting to various points within the grid. This suggests a network or communication system originating from Europe and extending across the grid-covered regions\n: figure::>\n\n<a id='a724d7b7-b8d6-4cda-94b9-b4375ec822ef'></a>\n\ninternational symposium\nLund , Sweden\nJune 13 - June 18\n== 1983 ==\n\n<a id='000e57d8-727c-4b78-87b0-de81d15a7db2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qncj0227",
+            "chunks": [
+                "87777207-d0ec-4ab5-82e1-710b404b3c5d",
+                "02cdf326-ca98-48e5-8482-000f58a03bf2",
+                "9ff74f5b-9154-46ca-80ce-dc50d04ecef8",
+                "a724d7b7-b8d6-4cda-94b9-b4375ec822ef",
+                "000e57d8-727c-4b78-87b0-de81d15a7db2"
+            ]
+        }
+    ],
+    "grounding": {
+        "87777207-d0ec-4ab5-82e1-710b404b3c5d": {
+            "box": {
+                "left": 0.2743018865585327,
+                "top": 0.10889546573162079,
+                "right": 0.6826950311660767,
+                "bottom": 0.14489634335041046
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "02cdf326-ca98-48e5-8482-000f58a03bf2": {
+            "box": {
+                "left": 0.07404851913452148,
+                "top": 0.21424728631973267,
+                "right": 0.8631421327590942,
+                "bottom": 0.32431530952453613
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9ff74f5b-9154-46ca-80ce-dc50d04ecef8": {
+            "box": {
+                "left": 0.11573740839958191,
+                "top": 0.38374656438827515,
+                "right": 0.8707669973373413,
+                "bottom": 0.6665356755256653
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "a724d7b7-b8d6-4cda-94b9-b4375ec822ef": {
+            "box": {
+                "left": 0.2832763195037842,
+                "top": 0.7235532999038696,
+                "right": 0.731406569480896,
+                "bottom": 0.8963607549667358
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "000e57d8-727c-4b78-87b0-de81d15a7db2": {
+            "box": {
+                "left": 0.10250571370124817,
+                "top": 0.9698598980903625,
+                "right": 0.8995444774627686,
+                "bottom": 0.9989855885505676
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qncj0227_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11945,
+        "credit_usage": 3.0,
+        "job_id": "xagyh5e5tfydg5kdnqvwno3zk",
+        "version": "dpt-2-20250919"
+    }
+}

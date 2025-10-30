@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='1efb3ef8-a0ec-48a2-940f-3314be026f69'></a>\n\nfile: Haring Endowment:\nPenn State\n\n<a id='5841a9f0-f74d-4da3-83b0-26e393522d20'></a>\n\nMAY 15 1980\n\n<a id='c5bead9c-5185-4b63-9d7e-8e2f3429c9db'></a>\n\nDR. DARBY.\n\nThis is not quite complete-\nI'll put the rest in the mail\nto-morrow.\n\n<a id='2cab5b28-a1de-46bd-9b50-8dc27815cad5'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nHelen. G.\nA handwritten signature in black ink, positioned centrally in the image.\n::>\n\n<a id='52455884-2992-4453-8a3c-03e37a0546cb'></a>\n\nBudget rec'd 5/16\n\n<a id='4725a87a-9186-4217-a9d9-c123a116808e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qznm0227",
+    "chunks": [
+        {
+            "markdown": "<a id='1efb3ef8-a0ec-48a2-940f-3314be026f69'></a>\n\nfile: Haring Endowment:\nPenn State",
+            "type": "text",
+            "id": "1efb3ef8-a0ec-48a2-940f-3314be026f69",
+            "grounding": {
+                "box": {
+                    "left": 0.058297187089920044,
+                    "top": 0.027951888740062714,
+                    "right": 0.6030423641204834,
+                    "bottom": 0.16163504123687744
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5841a9f0-f74d-4da3-83b0-26e393522d20'></a>\n\nMAY 15 1980",
+            "type": "text",
+            "id": "5841a9f0-f74d-4da3-83b0-26e393522d20",
+            "grounding": {
+                "box": {
+                    "left": 0.6583406329154968,
+                    "top": 0.1678856760263443,
+                    "right": 0.8709627985954285,
+                    "bottom": 0.24666287004947662
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c5bead9c-5185-4b63-9d7e-8e2f3429c9db'></a>\n\nDR. DARBY.\n\nThis is not quite complete-\nI'll put the rest in the mail\nto-morrow.",
+            "type": "text",
+            "id": "c5bead9c-5185-4b63-9d7e-8e2f3429c9db",
+            "grounding": {
+                "box": {
+                    "left": 0.12453234195709229,
+                    "top": 0.237897127866745,
+                    "right": 0.7831358909606934,
+                    "bottom": 0.6199585199356079
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2cab5b28-a1de-46bd-9b50-8dc27815cad5'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nHelen. G.\nA handwritten signature in black ink, positioned centrally in the image.\n::>",
+            "type": "attestation",
+            "id": "2cab5b28-a1de-46bd-9b50-8dc27815cad5",
+            "grounding": {
+                "box": {
+                    "left": 0.49906373023986816,
+                    "top": 0.5848396420478821,
+                    "right": 0.7381347417831421,
+                    "bottom": 0.7049779295921326
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='52455884-2992-4453-8a3c-03e37a0546cb'></a>\n\nBudget rec'd 5/16",
+            "type": "text",
+            "id": "52455884-2992-4453-8a3c-03e37a0546cb",
+            "grounding": {
+                "box": {
+                    "left": 0.06663006544113159,
+                    "top": 0.8515528440475464,
+                    "right": 0.4436638355255127,
+                    "bottom": 0.9414417743682861
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4725a87a-9186-4217-a9d9-c123a116808e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qznm0227",
+            "type": "text",
+            "id": "4725a87a-9186-4217-a9d9-c123a116808e",
+            "grounding": {
+                "box": {
+                    "left": 0.07043963670730591,
+                    "top": 0.9453919529914856,
+                    "right": 0.9295409321784973,
+                    "bottom": 0.994918167591095
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='1efb3ef8-a0ec-48a2-940f-3314be026f69'></a>\n\nfile: Haring Endowment:\nPenn State\n\n<a id='5841a9f0-f74d-4da3-83b0-26e393522d20'></a>\n\nMAY 15 1980\n\n<a id='c5bead9c-5185-4b63-9d7e-8e2f3429c9db'></a>\n\nDR. DARBY.\n\nThis is not quite complete-\nI'll put the rest in the mail\nto-morrow.\n\n<a id='2cab5b28-a1de-46bd-9b50-8dc27815cad5'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nHelen. G.\nA handwritten signature in black ink, positioned centrally in the image.\n::>\n\n<a id='52455884-2992-4453-8a3c-03e37a0546cb'></a>\n\nBudget rec'd 5/16\n\n<a id='4725a87a-9186-4217-a9d9-c123a116808e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qznm0227",
+            "chunks": [
+                "1efb3ef8-a0ec-48a2-940f-3314be026f69",
+                "5841a9f0-f74d-4da3-83b0-26e393522d20",
+                "c5bead9c-5185-4b63-9d7e-8e2f3429c9db",
+                "2cab5b28-a1de-46bd-9b50-8dc27815cad5",
+                "52455884-2992-4453-8a3c-03e37a0546cb",
+                "4725a87a-9186-4217-a9d9-c123a116808e"
+            ]
+        }
+    ],
+    "grounding": {
+        "1efb3ef8-a0ec-48a2-940f-3314be026f69": {
+            "box": {
+                "left": 0.058297187089920044,
+                "top": 0.027951888740062714,
+                "right": 0.6030423641204834,
+                "bottom": 0.16163504123687744
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5841a9f0-f74d-4da3-83b0-26e393522d20": {
+            "box": {
+                "left": 0.6583406329154968,
+                "top": 0.1678856760263443,
+                "right": 0.8709627985954285,
+                "bottom": 0.24666287004947662
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c5bead9c-5185-4b63-9d7e-8e2f3429c9db": {
+            "box": {
+                "left": 0.12453234195709229,
+                "top": 0.237897127866745,
+                "right": 0.7831358909606934,
+                "bottom": 0.6199585199356079
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2cab5b28-a1de-46bd-9b50-8dc27815cad5": {
+            "box": {
+                "left": 0.49906373023986816,
+                "top": 0.5848396420478821,
+                "right": 0.7381347417831421,
+                "bottom": 0.7049779295921326
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "52455884-2992-4453-8a3c-03e37a0546cb": {
+            "box": {
+                "left": 0.06663006544113159,
+                "top": 0.8515528440475464,
+                "right": 0.4436638355255127,
+                "bottom": 0.9414417743682861
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4725a87a-9186-4217-a9d9-c123a116808e": {
+            "box": {
+                "left": 0.07043963670730591,
+                "top": 0.9453919529914856,
+                "right": 0.9295409321784973,
+                "bottom": 0.994918167591095
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qznm0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3268,
+        "credit_usage": 3.0,
+        "job_id": "orylsvhwlfpbvoiq0o0gb1cnd",
+        "version": "dpt-2-20250919"
+    }
+}

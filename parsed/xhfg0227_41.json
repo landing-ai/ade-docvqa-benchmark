@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='a8cec893-ee0d-485b-898b-212775d70a94'></a>\n\nFigure V - 8\nEXPENDITURES FOR HEALTH CARE SERVICES\nUNDER PUBLIC HEALTH AND FAMILY AND CHILD WELFARE PROGRAMS\nIN CUYAHOGA COUNTY, BY SOURCE OF FUNDS\n1955 - 1960\n\n<a id='3c537024-ea13-4c29-8609-ff97d83472b5'></a>\n\n<::Stacked Bar Chart\n: Y-axis: DOLLARS (000) with values 0, 250, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750.\n: X-axis: Years 1955 and 1960, grouped by program type.\n: Chart Title 1: LOCAL HEALTH DEPT PROGRAMS (including nursing and school health services)\n: Chart Title 2: FAMILY AND CHILD WELFARE PROGRAMS (including public assistance and other health and welfare programs)\n: Legend (KEY):\n:   - Local: [dark gray, cross-hatch pattern]\n:   - State: [light gray, dotted pattern]\n:   - Federal: [light gray, cross-hatch pattern]\n:   - Private: [white]\n:   - (2) Percent of Total: [label for circled numbers within bars]\n: Data:\n:   - LOCAL HEALTH DEPT PROGRAMS\n:     - 1955: Total $1,906,000\n:       - Private: 23%\n:       - Local: 76%\n:     - 1960: Total $2,496,000\n:       - Private: 18%\n:       - Federal: 8%\n:       - Local: 73%\n:   - FAMILY AND CHILD WELFARE PROGRAMS\n:     - 1955: Total $709,000\n:       - Private: 27%\n:       - State: 48%\n:       - Local: 25%\n:     - 1960: Total $1,897,000\n:       - Private: 36%\n:       - State: 45%\n:       - Local: 18%\n: Page Number: -37-\n: chart::>\n\n<a id='2a2b15d0-e72d-4ba2-8b67-95fe29d81072'></a>\n\n-37-\n\n<a id='7f4e8679-4033-4501-b982-0a38578db7c6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhfg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='a8cec893-ee0d-485b-898b-212775d70a94'></a>\n\nFigure V - 8\nEXPENDITURES FOR HEALTH CARE SERVICES\nUNDER PUBLIC HEALTH AND FAMILY AND CHILD WELFARE PROGRAMS\nIN CUYAHOGA COUNTY, BY SOURCE OF FUNDS\n1955 - 1960",
+            "type": "text",
+            "id": "a8cec893-ee0d-485b-898b-212775d70a94",
+            "grounding": {
+                "box": {
+                    "left": 0.3360406160354614,
+                    "top": 0.04476289823651314,
+                    "right": 0.7644234895706177,
+                    "bottom": 0.10519227385520935
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3c537024-ea13-4c29-8609-ff97d83472b5'></a>\n\n<::Stacked Bar Chart\n: Y-axis: DOLLARS (000) with values 0, 250, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750.\n: X-axis: Years 1955 and 1960, grouped by program type.\n: Chart Title 1: LOCAL HEALTH DEPT PROGRAMS (including nursing and school health services)\n: Chart Title 2: FAMILY AND CHILD WELFARE PROGRAMS (including public assistance and other health and welfare programs)\n: Legend (KEY):\n:   - Local: [dark gray, cross-hatch pattern]\n:   - State: [light gray, dotted pattern]\n:   - Federal: [light gray, cross-hatch pattern]\n:   - Private: [white]\n:   - (2) Percent of Total: [label for circled numbers within bars]\n: Data:\n:   - LOCAL HEALTH DEPT PROGRAMS\n:     - 1955: Total $1,906,000\n:       - Private: 23%\n:       - Local: 76%\n:     - 1960: Total $2,496,000\n:       - Private: 18%\n:       - Federal: 8%\n:       - Local: 73%\n:   - FAMILY AND CHILD WELFARE PROGRAMS\n:     - 1955: Total $709,000\n:       - Private: 27%\n:       - State: 48%\n:       - Local: 25%\n:     - 1960: Total $1,897,000\n:       - Private: 36%\n:       - State: 45%\n:       - Local: 18%\n: Page Number: -37-\n: chart::>",
+            "type": "figure",
+            "id": "3c537024-ea13-4c29-8609-ff97d83472b5",
+            "grounding": {
+                "box": {
+                    "left": 0.16094884276390076,
+                    "top": 0.15456509590148926,
+                    "right": 0.9395109415054321,
+                    "bottom": 0.9618561267852783
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2a2b15d0-e72d-4ba2-8b67-95fe29d81072'></a>\n\n-37-",
+            "type": "text",
+            "id": "2a2b15d0-e72d-4ba2-8b67-95fe29d81072",
+            "grounding": {
+                "box": {
+                    "left": 0.642757773399353,
+                    "top": 0.9457218647003174,
+                    "right": 0.6840159893035889,
+                    "bottom": 0.9646714925765991
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7f4e8679-4033-4501-b982-0a38578db7c6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhfg0227",
+            "type": "text",
+            "id": "7f4e8679-4033-4501-b982-0a38578db7c6",
+            "grounding": {
+                "box": {
+                    "left": 0.22734001278877258,
+                    "top": 0.9797649383544922,
+                    "right": 0.7741777896881104,
+                    "bottom": 0.9995830059051514
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a8cec893-ee0d-485b-898b-212775d70a94'></a>\n\nFigure V - 8\nEXPENDITURES FOR HEALTH CARE SERVICES\nUNDER PUBLIC HEALTH AND FAMILY AND CHILD WELFARE PROGRAMS\nIN CUYAHOGA COUNTY, BY SOURCE OF FUNDS\n1955 - 1960\n\n<a id='3c537024-ea13-4c29-8609-ff97d83472b5'></a>\n\n<::Stacked Bar Chart\n: Y-axis: DOLLARS (000) with values 0, 250, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750.\n: X-axis: Years 1955 and 1960, grouped by program type.\n: Chart Title 1: LOCAL HEALTH DEPT PROGRAMS (including nursing and school health services)\n: Chart Title 2: FAMILY AND CHILD WELFARE PROGRAMS (including public assistance and other health and welfare programs)\n: Legend (KEY):\n:   - Local: [dark gray, cross-hatch pattern]\n:   - State: [light gray, dotted pattern]\n:   - Federal: [light gray, cross-hatch pattern]\n:   - Private: [white]\n:   - (2) Percent of Total: [label for circled numbers within bars]\n: Data:\n:   - LOCAL HEALTH DEPT PROGRAMS\n:     - 1955: Total $1,906,000\n:       - Private: 23%\n:       - Local: 76%\n:     - 1960: Total $2,496,000\n:       - Private: 18%\n:       - Federal: 8%\n:       - Local: 73%\n:   - FAMILY AND CHILD WELFARE PROGRAMS\n:     - 1955: Total $709,000\n:       - Private: 27%\n:       - State: 48%\n:       - Local: 25%\n:     - 1960: Total $1,897,000\n:       - Private: 36%\n:       - State: 45%\n:       - Local: 18%\n: Page Number: -37-\n: chart::>\n\n<a id='2a2b15d0-e72d-4ba2-8b67-95fe29d81072'></a>\n\n-37-\n\n<a id='7f4e8679-4033-4501-b982-0a38578db7c6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhfg0227",
+            "chunks": [
+                "a8cec893-ee0d-485b-898b-212775d70a94",
+                "3c537024-ea13-4c29-8609-ff97d83472b5",
+                "2a2b15d0-e72d-4ba2-8b67-95fe29d81072",
+                "7f4e8679-4033-4501-b982-0a38578db7c6"
+            ]
+        }
+    ],
+    "grounding": {
+        "a8cec893-ee0d-485b-898b-212775d70a94": {
+            "box": {
+                "left": 0.3360406160354614,
+                "top": 0.04476289823651314,
+                "right": 0.7644234895706177,
+                "bottom": 0.10519227385520935
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3c537024-ea13-4c29-8609-ff97d83472b5": {
+            "box": {
+                "left": 0.16094884276390076,
+                "top": 0.15456509590148926,
+                "right": 0.9395109415054321,
+                "bottom": 0.9618561267852783
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "2a2b15d0-e72d-4ba2-8b67-95fe29d81072": {
+            "box": {
+                "left": 0.642757773399353,
+                "top": 0.9457218647003174,
+                "right": 0.6840159893035889,
+                "bottom": 0.9646714925765991
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7f4e8679-4033-4501-b982-0a38578db7c6": {
+            "box": {
+                "left": 0.22734001278877258,
+                "top": 0.9797649383544922,
+                "right": 0.7741777896881104,
+                "bottom": 0.9995830059051514
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "xhfg0227_41.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 13604,
+        "credit_usage": 3.0,
+        "job_id": "uova4914ip0dql6izv69i49fx",
+        "version": "dpt-2-20250919"
+    }
+}

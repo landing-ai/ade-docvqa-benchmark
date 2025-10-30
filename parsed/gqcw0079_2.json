@@ -1,0 +1,488 @@
+{
+    "markdown": "<a id='6f195190-254d-4961-a6df-7bb1d6785f1b'></a>\n\n<::logo: Wake Forest University School of Medicine\nSCHOOL OF MEDICINE, WAKE FOREST UNI, A, \u03a9, WA, UN\nA circular black and white seal featuring a central crest with a Chi-Rho symbol, Alpha and Omega, and surrounding text.::>\n\n<a id='14911a9c-9c54-4e49-934c-56f35fd01581'></a>\n\nTHE BOWMAN GRAY SCHOOL OF MEDICINE\nOF WAKE FOREST UNIVERSITY\n\n<a id='b9aa4db2-e5eb-4fd1-b6b8-455decc5ee08'></a>\n\n300 South Hawthorne Road, Winston-Salem, North Carolina 27103\nOffice of the Controller\n(919) 748-4445\n\n<a id='c9dcad20-45a7-4a54-90ba-ad489fabd895'></a>\n\n<::WAKE FOREST\nUNIVERSITY\n: logo::>\n\n<a id='8058be96-35a6-48e9-84a1-625a3c99be1e'></a>\n\nDr. J. H. Robinson\nBowman Gray Technical Center\nR. J. Reynolds Tobacco Co.\nWinston-Salem, NC 27102\n\n<a id='766d57e6-b2cc-4f30-9389-69b1ce94828f'></a>\n\nInvoice No. G-1704\nDate 10/9/91\n\n<a id='c5ed3c3c-cd59-4d5a-948b-46ef6419ca9d'></a>\n\nCASHIER\nCredit: 2-144-831-1140-751\nCredit: ---\nCredit: ---\n\n<a id='c36b824a-0bf7-40e7-b7d5-fd42db4f37ef'></a>\n\nINVOICE\nREFER TO INVOICE NUMBER WHEN PAYING\n\n<a id='dc841e1c-67e9-43f3-b351-6314bd1ba366'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">Ref.</td><td id=\"0-4\">Description</td><td id=\"0-5\"></td><td id=\"0-6\">Total</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\">Contract #91-771-014 Support of \"Investigation of the Effects of Nicotine in the Mammalian Brain\" Dr. Samuel Deadwyler</td><td id=\"0-a\"></td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\">Quarterly Billing for October 1, 1991 - December 31, 1991</td><td id=\"0-f\"></td><td id=\"0-g\">$17,019.25</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\">50820 2227</td></tr>\n</table>\n\n<a id='da445fad-fd54-4a71-847b-8bd2cc2a732f'></a>\n\n50820 2227",
+    "chunks": [
+        {
+            "markdown": "<a id='6f195190-254d-4961-a6df-7bb1d6785f1b'></a>\n\n<::logo: Wake Forest University School of Medicine\nSCHOOL OF MEDICINE, WAKE FOREST UNI, A, \u03a9, WA, UN\nA circular black and white seal featuring a central crest with a Chi-Rho symbol, Alpha and Omega, and surrounding text.::>",
+            "type": "logo",
+            "id": "6f195190-254d-4961-a6df-7bb1d6785f1b",
+            "grounding": {
+                "box": {
+                    "left": 0.06010429561138153,
+                    "top": 0.012321215122938156,
+                    "right": 0.1959153264760971,
+                    "bottom": 0.12966375052928925
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='14911a9c-9c54-4e49-934c-56f35fd01581'></a>\n\nTHE BOWMAN GRAY SCHOOL OF MEDICINE\nOF WAKE FOREST UNIVERSITY",
+            "type": "text",
+            "id": "14911a9c-9c54-4e49-934c-56f35fd01581",
+            "grounding": {
+                "box": {
+                    "left": 0.3617655336856842,
+                    "top": 0.03043833002448082,
+                    "right": 0.8942998647689819,
+                    "bottom": 0.07786256074905396
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b9aa4db2-e5eb-4fd1-b6b8-455decc5ee08'></a>\n\n300 South Hawthorne Road, Winston-Salem, North Carolina 27103\nOffice of the Controller\n(919) 748-4445",
+            "type": "text",
+            "id": "b9aa4db2-e5eb-4fd1-b6b8-455decc5ee08",
+            "grounding": {
+                "box": {
+                    "left": 0.35131213068962097,
+                    "top": 0.07771088182926178,
+                    "right": 0.8986649513244629,
+                    "bottom": 0.1329946368932724
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c9dcad20-45a7-4a54-90ba-ad489fabd895'></a>\n\n<::WAKE FOREST\nUNIVERSITY\n: logo::>",
+            "type": "figure",
+            "id": "c9dcad20-45a7-4a54-90ba-ad489fabd895",
+            "grounding": {
+                "box": {
+                    "left": 0.15512515604496002,
+                    "top": 0.0957489162683487,
+                    "right": 0.32188475131988525,
+                    "bottom": 0.1367250680923462
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8058be96-35a6-48e9-84a1-625a3c99be1e'></a>\n\nDr. J. H. Robinson\nBowman Gray Technical Center\nR. J. Reynolds Tobacco Co.\nWinston-Salem, NC 27102",
+            "type": "text",
+            "id": "8058be96-35a6-48e9-84a1-625a3c99be1e",
+            "grounding": {
+                "box": {
+                    "left": 0.14909504354000092,
+                    "top": 0.16427259147167206,
+                    "right": 0.4459214210510254,
+                    "bottom": 0.27642378211021423
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='766d57e6-b2cc-4f30-9389-69b1ce94828f'></a>\n\nInvoice No. G-1704\nDate 10/9/91",
+            "type": "text",
+            "id": "766d57e6-b2cc-4f30-9389-69b1ce94828f",
+            "grounding": {
+                "box": {
+                    "left": 0.5865792036056519,
+                    "top": 0.16015799343585968,
+                    "right": 0.9533306360244751,
+                    "bottom": 0.22561462223529816
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c5ed3c3c-cd59-4d5a-948b-46ef6419ca9d'></a>\n\nCASHIER\nCredit: 2-144-831-1140-751\nCredit: ---\nCredit: ---",
+            "type": "text",
+            "id": "c5ed3c3c-cd59-4d5a-948b-46ef6419ca9d",
+            "grounding": {
+                "box": {
+                    "left": 0.642289400100708,
+                    "top": 0.22299498319625854,
+                    "right": 0.9532231092453003,
+                    "bottom": 0.31305837631225586
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c36b824a-0bf7-40e7-b7d5-fd42db4f37ef'></a>\n\nINVOICE\nREFER TO INVOICE NUMBER WHEN PAYING",
+            "type": "text",
+            "id": "c36b824a-0bf7-40e7-b7d5-fd42db4f37ef",
+            "grounding": {
+                "box": {
+                    "left": 0.28746896982192993,
+                    "top": 0.3253774642944336,
+                    "right": 0.7003662586212158,
+                    "bottom": 0.36752593517303467
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dc841e1c-67e9-43f3-b351-6314bd1ba366'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">Ref.</td><td id=\"0-4\">Description</td><td id=\"0-5\"></td><td id=\"0-6\">Total</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\">Contract #91-771-014 Support of \"Investigation of the Effects of Nicotine in the Mammalian Brain\" Dr. Samuel Deadwyler</td><td id=\"0-a\"></td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\">Quarterly Billing for October 1, 1991 - December 31, 1991</td><td id=\"0-f\"></td><td id=\"0-g\">$17,019.25</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\">50820 2227</td></tr>\n</table>",
+            "type": "table",
+            "id": "dc841e1c-67e9-43f3-b351-6314bd1ba366",
+            "grounding": {
+                "box": {
+                    "left": 0.03468966484069824,
+                    "top": 0.36457619071006775,
+                    "right": 0.9516417980194092,
+                    "bottom": 0.97483229637146
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='da445fad-fd54-4a71-847b-8bd2cc2a732f'></a>\n\n50820 2227",
+            "type": "marginalia",
+            "id": "da445fad-fd54-4a71-847b-8bd2cc2a732f",
+            "grounding": {
+                "box": {
+                    "left": 0.9203003644943237,
+                    "top": 0.8582943677902222,
+                    "right": 0.9460387229919434,
+                    "bottom": 0.9551774263381958
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6f195190-254d-4961-a6df-7bb1d6785f1b'></a>\n\n<::logo: Wake Forest University School of Medicine\nSCHOOL OF MEDICINE, WAKE FOREST UNI, A, \u03a9, WA, UN\nA circular black and white seal featuring a central crest with a Chi-Rho symbol, Alpha and Omega, and surrounding text.::>\n\n<a id='14911a9c-9c54-4e49-934c-56f35fd01581'></a>\n\nTHE BOWMAN GRAY SCHOOL OF MEDICINE\nOF WAKE FOREST UNIVERSITY\n\n<a id='b9aa4db2-e5eb-4fd1-b6b8-455decc5ee08'></a>\n\n300 South Hawthorne Road, Winston-Salem, North Carolina 27103\nOffice of the Controller\n(919) 748-4445\n\n<a id='c9dcad20-45a7-4a54-90ba-ad489fabd895'></a>\n\n<::WAKE FOREST\nUNIVERSITY\n: logo::>\n\n<a id='8058be96-35a6-48e9-84a1-625a3c99be1e'></a>\n\nDr. J. H. Robinson\nBowman Gray Technical Center\nR. J. Reynolds Tobacco Co.\nWinston-Salem, NC 27102\n\n<a id='766d57e6-b2cc-4f30-9389-69b1ce94828f'></a>\n\nInvoice No. G-1704\nDate 10/9/91\n\n<a id='c5ed3c3c-cd59-4d5a-948b-46ef6419ca9d'></a>\n\nCASHIER\nCredit: 2-144-831-1140-751\nCredit: ---\nCredit: ---\n\n<a id='c36b824a-0bf7-40e7-b7d5-fd42db4f37ef'></a>\n\nINVOICE\nREFER TO INVOICE NUMBER WHEN PAYING\n\n<a id='dc841e1c-67e9-43f3-b351-6314bd1ba366'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">Ref.</td><td id=\"0-4\">Description</td><td id=\"0-5\"></td><td id=\"0-6\">Total</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\">Contract #91-771-014 Support of \"Investigation of the Effects of Nicotine in the Mammalian Brain\" Dr. Samuel Deadwyler</td><td id=\"0-a\"></td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\">Quarterly Billing for October 1, 1991 - December 31, 1991</td><td id=\"0-f\"></td><td id=\"0-g\">$17,019.25</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\">50820 2227</td></tr>\n</table>\n\n<a id='da445fad-fd54-4a71-847b-8bd2cc2a732f'></a>\n\n50820 2227",
+            "chunks": [
+                "6f195190-254d-4961-a6df-7bb1d6785f1b",
+                "14911a9c-9c54-4e49-934c-56f35fd01581",
+                "b9aa4db2-e5eb-4fd1-b6b8-455decc5ee08",
+                "c9dcad20-45a7-4a54-90ba-ad489fabd895",
+                "8058be96-35a6-48e9-84a1-625a3c99be1e",
+                "766d57e6-b2cc-4f30-9389-69b1ce94828f",
+                "c5ed3c3c-cd59-4d5a-948b-46ef6419ca9d",
+                "c36b824a-0bf7-40e7-b7d5-fd42db4f37ef",
+                "dc841e1c-67e9-43f3-b351-6314bd1ba366",
+                "da445fad-fd54-4a71-847b-8bd2cc2a732f"
+            ]
+        }
+    ],
+    "grounding": {
+        "6f195190-254d-4961-a6df-7bb1d6785f1b": {
+            "box": {
+                "left": 0.06010429561138153,
+                "top": 0.012321215122938156,
+                "right": 0.1959153264760971,
+                "bottom": 0.12966375052928925
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "14911a9c-9c54-4e49-934c-56f35fd01581": {
+            "box": {
+                "left": 0.3617655336856842,
+                "top": 0.03043833002448082,
+                "right": 0.8942998647689819,
+                "bottom": 0.07786256074905396
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b9aa4db2-e5eb-4fd1-b6b8-455decc5ee08": {
+            "box": {
+                "left": 0.35131213068962097,
+                "top": 0.07771088182926178,
+                "right": 0.8986649513244629,
+                "bottom": 0.1329946368932724
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c9dcad20-45a7-4a54-90ba-ad489fabd895": {
+            "box": {
+                "left": 0.15512515604496002,
+                "top": 0.0957489162683487,
+                "right": 0.32188475131988525,
+                "bottom": 0.1367250680923462
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "8058be96-35a6-48e9-84a1-625a3c99be1e": {
+            "box": {
+                "left": 0.14909504354000092,
+                "top": 0.16427259147167206,
+                "right": 0.4459214210510254,
+                "bottom": 0.27642378211021423
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "766d57e6-b2cc-4f30-9389-69b1ce94828f": {
+            "box": {
+                "left": 0.5865792036056519,
+                "top": 0.16015799343585968,
+                "right": 0.9533306360244751,
+                "bottom": 0.22561462223529816
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c5ed3c3c-cd59-4d5a-948b-46ef6419ca9d": {
+            "box": {
+                "left": 0.642289400100708,
+                "top": 0.22299498319625854,
+                "right": 0.9532231092453003,
+                "bottom": 0.31305837631225586
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c36b824a-0bf7-40e7-b7d5-fd42db4f37ef": {
+            "box": {
+                "left": 0.28746896982192993,
+                "top": 0.3253774642944336,
+                "right": 0.7003662586212158,
+                "bottom": 0.36752593517303467
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dc841e1c-67e9-43f3-b351-6314bd1ba366": {
+            "box": {
+                "left": 0.03468966484069824,
+                "top": 0.36457619071006775,
+                "right": 0.9516417980194092,
+                "bottom": 0.97483229637146
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.04330175424539995,
+                "top": 0.3730401416163909,
+                "right": 0.9442432586362202,
+                "bottom": 0.963358414398078
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.04330175424539995,
+                "top": 0.3730401416163909,
+                "right": 0.1550996512761742,
+                "bottom": 0.40567825807472735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.1550996512761742,
+                "top": 0.3730401416163909,
+                "right": 0.26675607400488843,
+                "bottom": 0.40567825807472735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.26675607400488843,
+                "top": 0.3730401416163909,
+                "right": 0.6981939603738283,
+                "bottom": 0.40567825807472735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6981939603738283,
+                "top": 0.3730401416163909,
+                "right": 0.8310629151872035,
+                "bottom": 0.40567825807472735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.8310629151872035,
+                "top": 0.3730401416163909,
+                "right": 0.9446887483311457,
+                "bottom": 0.40567825807472735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.04330175424539995,
+                "top": 0.40567825807472735,
+                "right": 0.1550996512761742,
+                "bottom": 0.5424788323729599
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.1550996512761742,
+                "top": 0.40567825807472735,
+                "right": 0.26675607400488843,
+                "bottom": 0.5424788323729599
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.26675607400488843,
+                "top": 0.40567825807472735,
+                "right": 0.6981939603738283,
+                "bottom": 0.5424788323729599
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6981939603738283,
+                "top": 0.40567825807472735,
+                "right": 0.8310629151872035,
+                "bottom": 0.5424788323729599
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.8310629151872035,
+                "top": 0.40567825807472735,
+                "right": 0.9446887483311457,
+                "bottom": 0.5424788323729599
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.04330175424539995,
+                "top": 0.5424788323729599,
+                "right": 0.1550996512761742,
+                "bottom": 0.6070042095533399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.1550996512761742,
+                "top": 0.5424788323729599,
+                "right": 0.26675607400488843,
+                "bottom": 0.6070042095533399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.26675607400488843,
+                "top": 0.5424788323729599,
+                "right": 0.6981939603738283,
+                "bottom": 0.6070042095533399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.6981939603738283,
+                "top": 0.5424788323729599,
+                "right": 0.8310629151872035,
+                "bottom": 0.6070042095533399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.8310629151872035,
+                "top": 0.5424788323729599,
+                "right": 0.9446887483311457,
+                "bottom": 0.6070042095533399
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.04330175424539995,
+                "top": 0.6070042095533399,
+                "right": 0.1550996512761742,
+                "bottom": 0.963358414398078
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.1550996512761742,
+                "top": 0.6070042095533399,
+                "right": 0.26675607400488843,
+                "bottom": 0.963358414398078
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.26675607400488843,
+                "top": 0.6070042095533399,
+                "right": 0.6981939603738283,
+                "bottom": 0.963358414398078
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6981939603738283,
+                "top": 0.6070042095533399,
+                "right": 0.8310629151872035,
+                "bottom": 0.963358414398078
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.8310629151872035,
+                "top": 0.6070042095533399,
+                "right": 0.9446887483311457,
+                "bottom": 0.963358414398078
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "da445fad-fd54-4a71-847b-8bd2cc2a732f": {
+            "box": {
+                "left": 0.9203003644943237,
+                "top": 0.8582943677902222,
+                "right": 0.9460387229919434,
+                "bottom": 0.9551774263381958
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "gqcw0079_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6841,
+        "credit_usage": 3.0,
+        "job_id": "oa0pbf9kuyeguphvkrlrb213l",
+        "version": "dpt-2-20250919"
+    }
+}

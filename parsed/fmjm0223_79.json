@@ -1,0 +1,763 @@
+{
+    "markdown": "<a id='ccb983c1-2ba2-49e7-a1c3-5838fa9942e9'></a>\n\nTable 3. Mean daily diary pain scores: descriptive statistics (intent-to-treat population) at baseline and at endpoint (treatment groups: placebo or gabapentin 600, 1200, or 2400 mg/day).\n\n<a id='10d8d73a-62f0-463f-b995-779e60d14cee'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Placebo</td><td id=\"0-4\">Gabapentin</td><td id=\"0-5\">Gabapentin</td><td id=\"0-6\">Gabapentin</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\">600 mg/day</td><td id=\"0-a\">1200 mg/day</td><td id=\"0-b\">2400 mg/day</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">(n = 77)</td><td id=\"0-e\">(n = 82)</td><td id=\"0-f\">(n = 82)</td><td id=\"0-g\">(n = 83)</td></tr>\n<tr><td id=\"0-h\">Baseline</td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Mean (SD)</td><td id=\"0-n\">6.2 (1.7)</td><td id=\"0-o\">6.3 (1.5)</td><td id=\"0-p\">6.1 (1.6)</td><td id=\"0-q\">6.2 (1.6)</td></tr>\n<tr><td id=\"0-r\">Range</td><td id=\"0-s\">1.0 \u2013 10.0</td><td id=\"0-t\">3.1 \u2013 10.0</td><td id=\"0-u\">3.1 \u2013 10.0</td><td id=\"0-v\">3.7 \u2013 10.0</td></tr>\n<tr><td id=\"0-w\">Endpoint</td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">Mean (SD)</td><td id=\"0-C\">4.5 (2.3)</td><td id=\"0-D\">4.9 (2.3)</td><td id=\"0-E\">3.9 (2.4)</td><td id=\"0-F\">4.1 (2.5)</td></tr>\n<tr><td id=\"0-G\">Range</td><td id=\"0-H\">0.1 \u2013 9.4</td><td id=\"0-I\">0.0 \u2013 9.4</td><td id=\"0-J\">0.0 \u2013 9.0</td><td id=\"0-K\">0.0 \u2013 9.1</td></tr>\n<tr><td id=\"0-L\">Change</td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\"></td></tr>\n<tr><td id=\"0-Q\">Mean (SD)</td><td id=\"0-R\">-1.7 (2.1)</td><td id=\"0-S\">-1.4 (2.0)</td><td id=\"0-T\">-2.2 (2.2)</td><td id=\"0-U\">-2.1 (2.5)</td></tr>\n<tr><td id=\"0-V\">Range</td><td id=\"0-W\">-7.3-1.9</td><td id=\"0-X\">-7.0-3.0</td><td id=\"0-Y\">-7.0-3.3</td><td id=\"0-Z\">-9.7-3.0</td></tr>\n</table>\nScores from last 7 days before taking study medication, up to and including Day 0.\n\n<a id='33824398-8acb-4d49-ba3d-cce6afec45f2'></a>\n\n\u2020Last 7 available scores.\n\nSD = Standard deviation.\n\n<a id='a72532a7-4730-4693-b591-66b9146cc077'></a>\n\nCONFIDENTIAL\n\n<a id='031e3805-cd2a-4c4f-84c7-c242763918ff'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fmjm0223_Pfizer_LeslieTive_0020919l",
+    "chunks": [
+        {
+            "markdown": "<a id='ccb983c1-2ba2-49e7-a1c3-5838fa9942e9'></a>\n\nTable 3. Mean daily diary pain scores: descriptive statistics (intent-to-treat population) at baseline and at endpoint (treatment groups: placebo or gabapentin 600, 1200, or 2400 mg/day).",
+            "type": "text",
+            "id": "ccb983c1-2ba2-49e7-a1c3-5838fa9942e9",
+            "grounding": {
+                "box": {
+                    "left": 0.15949943661689758,
+                    "top": 0.16266770660877228,
+                    "right": 0.7894423007965088,
+                    "bottom": 0.24980397522449493
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='10d8d73a-62f0-463f-b995-779e60d14cee'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Placebo</td><td id=\"0-4\">Gabapentin</td><td id=\"0-5\">Gabapentin</td><td id=\"0-6\">Gabapentin</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\">600 mg/day</td><td id=\"0-a\">1200 mg/day</td><td id=\"0-b\">2400 mg/day</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">(n = 77)</td><td id=\"0-e\">(n = 82)</td><td id=\"0-f\">(n = 82)</td><td id=\"0-g\">(n = 83)</td></tr>\n<tr><td id=\"0-h\">Baseline</td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Mean (SD)</td><td id=\"0-n\">6.2 (1.7)</td><td id=\"0-o\">6.3 (1.5)</td><td id=\"0-p\">6.1 (1.6)</td><td id=\"0-q\">6.2 (1.6)</td></tr>\n<tr><td id=\"0-r\">Range</td><td id=\"0-s\">1.0 \u2013 10.0</td><td id=\"0-t\">3.1 \u2013 10.0</td><td id=\"0-u\">3.1 \u2013 10.0</td><td id=\"0-v\">3.7 \u2013 10.0</td></tr>\n<tr><td id=\"0-w\">Endpoint</td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">Mean (SD)</td><td id=\"0-C\">4.5 (2.3)</td><td id=\"0-D\">4.9 (2.3)</td><td id=\"0-E\">3.9 (2.4)</td><td id=\"0-F\">4.1 (2.5)</td></tr>\n<tr><td id=\"0-G\">Range</td><td id=\"0-H\">0.1 \u2013 9.4</td><td id=\"0-I\">0.0 \u2013 9.4</td><td id=\"0-J\">0.0 \u2013 9.0</td><td id=\"0-K\">0.0 \u2013 9.1</td></tr>\n<tr><td id=\"0-L\">Change</td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\"></td></tr>\n<tr><td id=\"0-Q\">Mean (SD)</td><td id=\"0-R\">-1.7 (2.1)</td><td id=\"0-S\">-1.4 (2.0)</td><td id=\"0-T\">-2.2 (2.2)</td><td id=\"0-U\">-2.1 (2.5)</td></tr>\n<tr><td id=\"0-V\">Range</td><td id=\"0-W\">-7.3-1.9</td><td id=\"0-X\">-7.0-3.0</td><td id=\"0-Y\">-7.0-3.3</td><td id=\"0-Z\">-9.7-3.0</td></tr>\n</table>\nScores from last 7 days before taking study medication, up to and including Day 0.",
+            "type": "table",
+            "id": "10d8d73a-62f0-463f-b995-779e60d14cee",
+            "grounding": {
+                "box": {
+                    "left": 0.16059714555740356,
+                    "top": 0.25536811351776123,
+                    "right": 0.7679392695426941,
+                    "bottom": 0.5926674008369446
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='33824398-8acb-4d49-ba3d-cce6afec45f2'></a>\n\n\u2020Last 7 available scores.\n\nSD = Standard deviation.",
+            "type": "text",
+            "id": "33824398-8acb-4d49-ba3d-cce6afec45f2",
+            "grounding": {
+                "box": {
+                    "left": 0.15930287539958954,
+                    "top": 0.5992531180381775,
+                    "right": 0.3147832155227661,
+                    "bottom": 0.6497566103935242
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a72532a7-4730-4693-b591-66b9146cc077'></a>\n\nCONFIDENTIAL",
+            "type": "marginalia",
+            "id": "a72532a7-4730-4693-b591-66b9146cc077",
+            "grounding": {
+                "box": {
+                    "left": 0.03318173065781593,
+                    "top": 0.9781107306480408,
+                    "right": 0.14799582958221436,
+                    "bottom": 0.9930251240730286
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='031e3805-cd2a-4c4f-84c7-c242763918ff'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fmjm0223_Pfizer_LeslieTive_0020919l",
+            "type": "text",
+            "id": "031e3805-cd2a-4c4f-84c7-c242763918ff",
+            "grounding": {
+                "box": {
+                    "left": 0.22087544202804565,
+                    "top": 0.9764306545257568,
+                    "right": 0.9201541543006897,
+                    "bottom": 0.9979708194732666
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ccb983c1-2ba2-49e7-a1c3-5838fa9942e9'></a>\n\nTable 3. Mean daily diary pain scores: descriptive statistics (intent-to-treat population) at baseline and at endpoint (treatment groups: placebo or gabapentin 600, 1200, or 2400 mg/day).\n\n<a id='10d8d73a-62f0-463f-b995-779e60d14cee'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Placebo</td><td id=\"0-4\">Gabapentin</td><td id=\"0-5\">Gabapentin</td><td id=\"0-6\">Gabapentin</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\">600 mg/day</td><td id=\"0-a\">1200 mg/day</td><td id=\"0-b\">2400 mg/day</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">(n = 77)</td><td id=\"0-e\">(n = 82)</td><td id=\"0-f\">(n = 82)</td><td id=\"0-g\">(n = 83)</td></tr>\n<tr><td id=\"0-h\">Baseline</td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Mean (SD)</td><td id=\"0-n\">6.2 (1.7)</td><td id=\"0-o\">6.3 (1.5)</td><td id=\"0-p\">6.1 (1.6)</td><td id=\"0-q\">6.2 (1.6)</td></tr>\n<tr><td id=\"0-r\">Range</td><td id=\"0-s\">1.0 \u2013 10.0</td><td id=\"0-t\">3.1 \u2013 10.0</td><td id=\"0-u\">3.1 \u2013 10.0</td><td id=\"0-v\">3.7 \u2013 10.0</td></tr>\n<tr><td id=\"0-w\">Endpoint</td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">Mean (SD)</td><td id=\"0-C\">4.5 (2.3)</td><td id=\"0-D\">4.9 (2.3)</td><td id=\"0-E\">3.9 (2.4)</td><td id=\"0-F\">4.1 (2.5)</td></tr>\n<tr><td id=\"0-G\">Range</td><td id=\"0-H\">0.1 \u2013 9.4</td><td id=\"0-I\">0.0 \u2013 9.4</td><td id=\"0-J\">0.0 \u2013 9.0</td><td id=\"0-K\">0.0 \u2013 9.1</td></tr>\n<tr><td id=\"0-L\">Change</td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\"></td></tr>\n<tr><td id=\"0-Q\">Mean (SD)</td><td id=\"0-R\">-1.7 (2.1)</td><td id=\"0-S\">-1.4 (2.0)</td><td id=\"0-T\">-2.2 (2.2)</td><td id=\"0-U\">-2.1 (2.5)</td></tr>\n<tr><td id=\"0-V\">Range</td><td id=\"0-W\">-7.3-1.9</td><td id=\"0-X\">-7.0-3.0</td><td id=\"0-Y\">-7.0-3.3</td><td id=\"0-Z\">-9.7-3.0</td></tr>\n</table>\nScores from last 7 days before taking study medication, up to and including Day 0.\n\n<a id='33824398-8acb-4d49-ba3d-cce6afec45f2'></a>\n\n\u2020Last 7 available scores.\n\nSD = Standard deviation.\n\n<a id='a72532a7-4730-4693-b591-66b9146cc077'></a>\n\nCONFIDENTIAL\n\n<a id='031e3805-cd2a-4c4f-84c7-c242763918ff'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fmjm0223_Pfizer_LeslieTive_0020919l",
+            "chunks": [
+                "ccb983c1-2ba2-49e7-a1c3-5838fa9942e9",
+                "10d8d73a-62f0-463f-b995-779e60d14cee",
+                "33824398-8acb-4d49-ba3d-cce6afec45f2",
+                "a72532a7-4730-4693-b591-66b9146cc077",
+                "031e3805-cd2a-4c4f-84c7-c242763918ff"
+            ]
+        }
+    ],
+    "grounding": {
+        "ccb983c1-2ba2-49e7-a1c3-5838fa9942e9": {
+            "box": {
+                "left": 0.15949943661689758,
+                "top": 0.16266770660877228,
+                "right": 0.7894423007965088,
+                "bottom": 0.24980397522449493
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "10d8d73a-62f0-463f-b995-779e60d14cee": {
+            "box": {
+                "left": 0.16059714555740356,
+                "top": 0.25536811351776123,
+                "right": 0.7679392695426941,
+                "bottom": 0.5926674008369446
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.2612229587624202,
+                "right": 0.7617560582466538,
+                "bottom": 0.5758649979783463
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.2612229587624202,
+                "right": 0.31860886496992435,
+                "bottom": 0.2784001416002808
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.2612229587624202,
+                "right": 0.44356350886130613,
+                "bottom": 0.2784001416002808
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.2612229587624202,
+                "right": 0.5495459152600475,
+                "bottom": 0.2784001416002808
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.2612229587624202,
+                "right": 0.6536883452403615,
+                "bottom": 0.2784001416002808
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.2612229587624202,
+                "right": 0.7621523079515597,
+                "bottom": 0.2784001416002808
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.2784001416002808,
+                "right": 0.31860886496992435,
+                "bottom": 0.3086385394058233
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.2784001416002808,
+                "right": 0.44356350886130613,
+                "bottom": 0.3086385394058233
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.2784001416002808,
+                "right": 0.5495459152600475,
+                "bottom": 0.3086385394058233
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.2784001416002808,
+                "right": 0.6536883452403615,
+                "bottom": 0.3086385394058233
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.2784001416002808,
+                "right": 0.7621523079515597,
+                "bottom": 0.3086385394058233
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.3086385394058233,
+                "right": 0.31860886496992435,
+                "bottom": 0.34048430283052333
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.3086385394058233,
+                "right": 0.44356350886130613,
+                "bottom": 0.34048430283052333
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.3086385394058233,
+                "right": 0.5495459152600475,
+                "bottom": 0.34048430283052333
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.3086385394058233,
+                "right": 0.6536883452403615,
+                "bottom": 0.34048430283052333
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.3086385394058233,
+                "right": 0.7621523079515597,
+                "bottom": 0.34048430283052333
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.34048430283052333,
+                "right": 0.31860886496992435,
+                "bottom": 0.36310006256993077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.34048430283052333,
+                "right": 0.44356350886130613,
+                "bottom": 0.36310006256993077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.34048430283052333,
+                "right": 0.5495459152600475,
+                "bottom": 0.36310006256993077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.34048430283052333,
+                "right": 0.6536883452403615,
+                "bottom": 0.36310006256993077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.34048430283052333,
+                "right": 0.7621523079515597,
+                "bottom": 0.36310006256993077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.36310006256993077,
+                "right": 0.31860886496992435,
+                "bottom": 0.387073697329555
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.36310006256993077,
+                "right": 0.44356350886130613,
+                "bottom": 0.387073697329555
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.36310006256993077,
+                "right": 0.5495459152600475,
+                "bottom": 0.387073697329555
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.36310006256993077,
+                "right": 0.6536883452403615,
+                "bottom": 0.387073697329555
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.36310006256993077,
+                "right": 0.7621523079515597,
+                "bottom": 0.387073697329555
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.387073697329555,
+                "right": 0.31860886496992435,
+                "bottom": 0.4139031006455891
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.387073697329555,
+                "right": 0.44356350886130613,
+                "bottom": 0.4139031006455891
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.387073697329555,
+                "right": 0.5495459152600475,
+                "bottom": 0.4139031006455891
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.387073697329555,
+                "right": 0.6536883452403615,
+                "bottom": 0.4139031006455891
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.387073697329555,
+                "right": 0.7621523079515597,
+                "bottom": 0.4139031006455891
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.4139031006455891,
+                "right": 0.31860886496992435,
+                "bottom": 0.4407021460092757
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.4139031006455891,
+                "right": 0.44356350886130613,
+                "bottom": 0.4407021460092757
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.4139031006455891,
+                "right": 0.5495459152600475,
+                "bottom": 0.4407021460092757
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.4139031006455891,
+                "right": 0.6536883452403615,
+                "bottom": 0.4407021460092757
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.4139031006455891,
+                "right": 0.7621523079515597,
+                "bottom": 0.4407021460092757
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.4407021460092757,
+                "right": 0.31860886496992435,
+                "bottom": 0.464604610470019
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.4407021460092757,
+                "right": 0.44356350886130613,
+                "bottom": 0.464604610470019
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.4407021460092757,
+                "right": 0.5495459152600475,
+                "bottom": 0.464604610470019
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.4407021460092757,
+                "right": 0.6536883452403615,
+                "bottom": 0.464604610470019
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.4407021460092757,
+                "right": 0.7621523079515597,
+                "bottom": 0.464604610470019
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.464604610470019,
+                "right": 0.31860886496992435,
+                "bottom": 0.49165221910777746
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.464604610470019,
+                "right": 0.44356350886130613,
+                "bottom": 0.49165221910777746
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.464604610470019,
+                "right": 0.5495459152600475,
+                "bottom": 0.49165221910777746
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.464604610470019,
+                "right": 0.6536883452403615,
+                "bottom": 0.49165221910777746
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.464604610470019,
+                "right": 0.7621523079515597,
+                "bottom": 0.49165221910777746
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.49165221910777746,
+                "right": 0.31860886496992435,
+                "bottom": 0.5180859336561774
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.49165221910777746,
+                "right": 0.44356350886130613,
+                "bottom": 0.5180859336561774
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.49165221910777746,
+                "right": 0.5495459152600475,
+                "bottom": 0.5180859336561774
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.49165221910777746,
+                "right": 0.6536883452403615,
+                "bottom": 0.5180859336561774
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.49165221910777746,
+                "right": 0.7621523079515597,
+                "bottom": 0.5180859336561774
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.5180859336561774,
+                "right": 0.31860886496992435,
+                "bottom": 0.543690172444343
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.5180859336561774,
+                "right": 0.44356350886130613,
+                "bottom": 0.543690172444343
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.5180859336561774,
+                "right": 0.5495459152600475,
+                "bottom": 0.543690172444343
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.5180859336561774,
+                "right": 0.6536883452403615,
+                "bottom": 0.543690172444343
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.5180859336561774,
+                "right": 0.7621523079515597,
+                "bottom": 0.543690172444343
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.19142489339613666,
+                "top": 0.543690172444343,
+                "right": 0.31860886496992435,
+                "bottom": 0.5758649979783463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.31860886496992435,
+                "top": 0.543690172444343,
+                "right": 0.44356350886130613,
+                "bottom": 0.5758649979783463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.44356350886130613,
+                "top": 0.543690172444343,
+                "right": 0.5495459152600475,
+                "bottom": 0.5758649979783463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.5495459152600475,
+                "top": 0.543690172444343,
+                "right": 0.6536883452403615,
+                "bottom": 0.5758649979783463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.6536883452403615,
+                "top": 0.543690172444343,
+                "right": 0.7621523079515597,
+                "bottom": 0.5758649979783463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "33824398-8acb-4d49-ba3d-cce6afec45f2": {
+            "box": {
+                "left": 0.15930287539958954,
+                "top": 0.5992531180381775,
+                "right": 0.3147832155227661,
+                "bottom": 0.6497566103935242
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a72532a7-4730-4693-b591-66b9146cc077": {
+            "box": {
+                "left": 0.03318173065781593,
+                "top": 0.9781107306480408,
+                "right": 0.14799582958221436,
+                "bottom": 0.9930251240730286
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "031e3805-cd2a-4c4f-84c7-c242763918ff": {
+            "box": {
+                "left": 0.22087544202804565,
+                "top": 0.9764306545257568,
+                "right": 0.9201541543006897,
+                "bottom": 0.9979708194732666
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "fmjm0223_79.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9498,
+        "credit_usage": 3.0,
+        "job_id": "bo6pbx5zyzqxwv3wk2byyqynx",
+        "version": "dpt-2-20250919"
+    }
+}

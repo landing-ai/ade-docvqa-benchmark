@@ -1,0 +1,523 @@
+{
+    "markdown": "<a id='3c191458-4ad0-4c2f-a4ab-a3e601cafbce'></a>\n\nMetabolic Effects of Amino Acids\n\nDirectional Changes in\nUrinary Electrolyte Excretion\n\n<a id='4b2093c6-6e64-4ea2-a92f-c4a31768ada5'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">AMINO ACID</td><td id=\"0-3\">T.A.</td><td id=\"0-4\">NH3</td><td id=\"0-5\">pH</td><td id=\"0-6\">K</td><td id=\"0-7\">Na</td></tr>\n<tr><td id=\"0-8\">Glutamic Acid</td><td id=\"0-9\">0</td><td id=\"0-a\">0</td><td id=\"0-b\">0</td><td id=\"0-c\">0</td><td id=\"0-d\">0</td></tr>\n<tr><td id=\"0-e\">Aspartic Acid</td><td id=\"0-f\">0</td><td id=\"0-g\">0</td><td id=\"0-h\">0</td><td id=\"0-i\">0</td><td id=\"0-j\">0</td></tr>\n<tr><td id=\"0-k\">Arginine</td><td id=\"0-l\">\u2193 (down arrow)</td><td id=\"0-m\">\u2193 (down arrow)</td><td id=\"0-n\">\u2191 (up arrow)</td><td id=\"0-o\">\u2191 (up arrow)</td><td id=\"0-p\">two arrows pointing up and down</td></tr>\n<tr><td id=\"0-q\">Arginine-HC1</td><td id=\"0-r\">\u2191 (up arrow)</td><td id=\"0-s\">\u2191 (up arrow)</td><td id=\"0-t\">\u2193 (down arrow)</td><td id=\"0-u\">\u2191 (up arrow)</td><td id=\"0-v\">arrow pointing up</td></tr>\n<tr><td id=\"0-w\">Arginine-Glutamate</td><td id=\"0-x\">down arrow</td><td id=\"0-y\">down arrow</td><td id=\"0-z\">up arrow</td><td id=\"0-A\">up arrow</td><td id=\"0-B\">two arrows, one down, one up</td></tr>\n<tr><td id=\"0-C\">Lysine</td><td id=\"0-D\">down arrow</td><td id=\"0-E\" colspan=\"2\">Table 2 (with down and up arrows)</td><td id=\"0-F\">up arrow</td><td id=\"0-G\">two arrows, one down, one up</td></tr>\n</table>\n\n<a id='feb9b1d9-25fd-4f06-8a5f-f583c5d559fe'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xglg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='3c191458-4ad0-4c2f-a4ab-a3e601cafbce'></a>\n\nMetabolic Effects of Amino Acids\n\nDirectional Changes in\nUrinary Electrolyte Excretion",
+            "type": "text",
+            "id": "3c191458-4ad0-4c2f-a4ab-a3e601cafbce",
+            "grounding": {
+                "box": {
+                    "left": 0.3685494065284729,
+                    "top": 0.14006595313549042,
+                    "right": 0.6149805784225464,
+                    "bottom": 0.22377963364124298
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4b2093c6-6e64-4ea2-a92f-c4a31768ada5'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">AMINO ACID</td><td id=\"0-3\">T.A.</td><td id=\"0-4\">NH3</td><td id=\"0-5\">pH</td><td id=\"0-6\">K</td><td id=\"0-7\">Na</td></tr>\n<tr><td id=\"0-8\">Glutamic Acid</td><td id=\"0-9\">0</td><td id=\"0-a\">0</td><td id=\"0-b\">0</td><td id=\"0-c\">0</td><td id=\"0-d\">0</td></tr>\n<tr><td id=\"0-e\">Aspartic Acid</td><td id=\"0-f\">0</td><td id=\"0-g\">0</td><td id=\"0-h\">0</td><td id=\"0-i\">0</td><td id=\"0-j\">0</td></tr>\n<tr><td id=\"0-k\">Arginine</td><td id=\"0-l\">\u2193 (down arrow)</td><td id=\"0-m\">\u2193 (down arrow)</td><td id=\"0-n\">\u2191 (up arrow)</td><td id=\"0-o\">\u2191 (up arrow)</td><td id=\"0-p\">two arrows pointing up and down</td></tr>\n<tr><td id=\"0-q\">Arginine-HC1</td><td id=\"0-r\">\u2191 (up arrow)</td><td id=\"0-s\">\u2191 (up arrow)</td><td id=\"0-t\">\u2193 (down arrow)</td><td id=\"0-u\">\u2191 (up arrow)</td><td id=\"0-v\">arrow pointing up</td></tr>\n<tr><td id=\"0-w\">Arginine-Glutamate</td><td id=\"0-x\">down arrow</td><td id=\"0-y\">down arrow</td><td id=\"0-z\">up arrow</td><td id=\"0-A\">up arrow</td><td id=\"0-B\">two arrows, one down, one up</td></tr>\n<tr><td id=\"0-C\">Lysine</td><td id=\"0-D\">down arrow</td><td id=\"0-E\" colspan=\"2\">Table 2 (with down and up arrows)</td><td id=\"0-F\">up arrow</td><td id=\"0-G\">two arrows, one down, one up</td></tr>\n</table>",
+            "type": "table",
+            "id": "4b2093c6-6e64-4ea2-a92f-c4a31768ada5",
+            "grounding": {
+                "box": {
+                    "left": 0.14549970626831055,
+                    "top": 0.2467034012079239,
+                    "right": 0.7831981182098389,
+                    "bottom": 0.5791494250297546
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='feb9b1d9-25fd-4f06-8a5f-f583c5d559fe'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xglg0227",
+            "type": "text",
+            "id": "feb9b1d9-25fd-4f06-8a5f-f583c5d559fe",
+            "grounding": {
+                "box": {
+                    "left": 0.2874518036842346,
+                    "top": 0.9741427302360535,
+                    "right": 0.7132906317710876,
+                    "bottom": 0.9999421238899231
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3c191458-4ad0-4c2f-a4ab-a3e601cafbce'></a>\n\nMetabolic Effects of Amino Acids\n\nDirectional Changes in\nUrinary Electrolyte Excretion\n\n<a id='4b2093c6-6e64-4ea2-a92f-c4a31768ada5'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">AMINO ACID</td><td id=\"0-3\">T.A.</td><td id=\"0-4\">NH3</td><td id=\"0-5\">pH</td><td id=\"0-6\">K</td><td id=\"0-7\">Na</td></tr>\n<tr><td id=\"0-8\">Glutamic Acid</td><td id=\"0-9\">0</td><td id=\"0-a\">0</td><td id=\"0-b\">0</td><td id=\"0-c\">0</td><td id=\"0-d\">0</td></tr>\n<tr><td id=\"0-e\">Aspartic Acid</td><td id=\"0-f\">0</td><td id=\"0-g\">0</td><td id=\"0-h\">0</td><td id=\"0-i\">0</td><td id=\"0-j\">0</td></tr>\n<tr><td id=\"0-k\">Arginine</td><td id=\"0-l\">\u2193 (down arrow)</td><td id=\"0-m\">\u2193 (down arrow)</td><td id=\"0-n\">\u2191 (up arrow)</td><td id=\"0-o\">\u2191 (up arrow)</td><td id=\"0-p\">two arrows pointing up and down</td></tr>\n<tr><td id=\"0-q\">Arginine-HC1</td><td id=\"0-r\">\u2191 (up arrow)</td><td id=\"0-s\">\u2191 (up arrow)</td><td id=\"0-t\">\u2193 (down arrow)</td><td id=\"0-u\">\u2191 (up arrow)</td><td id=\"0-v\">arrow pointing up</td></tr>\n<tr><td id=\"0-w\">Arginine-Glutamate</td><td id=\"0-x\">down arrow</td><td id=\"0-y\">down arrow</td><td id=\"0-z\">up arrow</td><td id=\"0-A\">up arrow</td><td id=\"0-B\">two arrows, one down, one up</td></tr>\n<tr><td id=\"0-C\">Lysine</td><td id=\"0-D\">down arrow</td><td id=\"0-E\" colspan=\"2\">Table 2 (with down and up arrows)</td><td id=\"0-F\">up arrow</td><td id=\"0-G\">two arrows, one down, one up</td></tr>\n</table>\n\n<a id='feb9b1d9-25fd-4f06-8a5f-f583c5d559fe'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xglg0227",
+            "chunks": [
+                "3c191458-4ad0-4c2f-a4ab-a3e601cafbce",
+                "4b2093c6-6e64-4ea2-a92f-c4a31768ada5",
+                "feb9b1d9-25fd-4f06-8a5f-f583c5d559fe"
+            ]
+        }
+    ],
+    "grounding": {
+        "3c191458-4ad0-4c2f-a4ab-a3e601cafbce": {
+            "box": {
+                "left": 0.3685494065284729,
+                "top": 0.14006595313549042,
+                "right": 0.6149805784225464,
+                "bottom": 0.22377963364124298
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4b2093c6-6e64-4ea2-a92f-c4a31768ada5": {
+            "box": {
+                "left": 0.14549970626831055,
+                "top": 0.2467034012079239,
+                "right": 0.7831981182098389,
+                "bottom": 0.5791494250297546
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.14850960719237782,
+                "top": 0.24822026961042296,
+                "right": 0.7799480153256724,
+                "bottom": 0.5791300456397952
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.14850960719237782,
+                "top": 0.24822026961042296,
+                "right": 0.2909779766473939,
+                "bottom": 0.28034974745901664
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.2909779766473939,
+                "top": 0.24822026961042296,
+                "right": 0.40923373237407645,
+                "bottom": 0.28034974745901664
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.40923373237407645,
+                "top": 0.24822026961042296,
+                "right": 0.5173138404257287,
+                "bottom": 0.28034974745901664
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5173138404257287,
+                "top": 0.24822026961042296,
+                "right": 0.6015050252069898,
+                "bottom": 0.28034974745901664
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6015050252069898,
+                "top": 0.24822026961042296,
+                "right": 0.6919232014053449,
+                "bottom": 0.28034974745901664
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6919232014053449,
+                "top": 0.24822026961042296,
+                "right": 0.7798119402870753,
+                "bottom": 0.28034974745901664
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.14850960719237782,
+                "top": 0.28034974745901664,
+                "right": 0.2909779766473939,
+                "bottom": 0.3173859017268388
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.2909779766473939,
+                "top": 0.28034974745901664,
+                "right": 0.40923373237407645,
+                "bottom": 0.3173859017268388
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.40923373237407645,
+                "top": 0.28034974745901664,
+                "right": 0.5173138404257287,
+                "bottom": 0.3173859017268388
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5173138404257287,
+                "top": 0.28034974745901664,
+                "right": 0.6015050252069898,
+                "bottom": 0.3173859017268388
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.6015050252069898,
+                "top": 0.28034974745901664,
+                "right": 0.6919232014053449,
+                "bottom": 0.3173859017268388
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6919232014053449,
+                "top": 0.28034974745901664,
+                "right": 0.7798119402870753,
+                "bottom": 0.3173859017268388
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.14850960719237782,
+                "top": 0.3173859017268388,
+                "right": 0.2909779766473939,
+                "bottom": 0.3596348840174879
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.2909779766473939,
+                "top": 0.3173859017268388,
+                "right": 0.40923373237407645,
+                "bottom": 0.3596348840174879
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.40923373237407645,
+                "top": 0.3173859017268388,
+                "right": 0.5173138404257287,
+                "bottom": 0.3596348840174879
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.5173138404257287,
+                "top": 0.3173859017268388,
+                "right": 0.6015050252069898,
+                "bottom": 0.3596348840174879
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.6015050252069898,
+                "top": 0.3173859017268388,
+                "right": 0.6919232014053449,
+                "bottom": 0.3596348840174879
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6919232014053449,
+                "top": 0.3173859017268388,
+                "right": 0.7798119402870753,
+                "bottom": 0.3596348840174879
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.14850960719237782,
+                "top": 0.3596348840174879,
+                "right": 0.2909779766473939,
+                "bottom": 0.43283941002328685
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.2909779766473939,
+                "top": 0.3596348840174879,
+                "right": 0.40923373237407645,
+                "bottom": 0.43283941002328685
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.40923373237407645,
+                "top": 0.3596348840174879,
+                "right": 0.5173138404257287,
+                "bottom": 0.43283941002328685
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.5173138404257287,
+                "top": 0.3596348840174879,
+                "right": 0.6015050252069898,
+                "bottom": 0.43283941002328685
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.6015050252069898,
+                "top": 0.3596348840174879,
+                "right": 0.6919232014053449,
+                "bottom": 0.43283941002328685
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.6919232014053449,
+                "top": 0.3596348840174879,
+                "right": 0.7798119402870753,
+                "bottom": 0.43283941002328685
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.14850960719237782,
+                "top": 0.43283941002328685,
+                "right": 0.2909779766473939,
+                "bottom": 0.47087685258767387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.2909779766473939,
+                "top": 0.43283941002328685,
+                "right": 0.40923373237407645,
+                "bottom": 0.47087685258767387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.40923373237407645,
+                "top": 0.43283941002328685,
+                "right": 0.5173138404257287,
+                "bottom": 0.47087685258767387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.5173138404257287,
+                "top": 0.43283941002328685,
+                "right": 0.6015050252069898,
+                "bottom": 0.47087685258767387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.6015050252069898,
+                "top": 0.43283941002328685,
+                "right": 0.6919232014053449,
+                "bottom": 0.47087685258767387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6919232014053449,
+                "top": 0.43283941002328685,
+                "right": 0.7798119402870753,
+                "bottom": 0.47087685258767387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.14850960719237782,
+                "top": 0.47087685258767387,
+                "right": 0.2909779766473939,
+                "bottom": 0.5123957886875452
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.2909779766473939,
+                "top": 0.47087685258767387,
+                "right": 0.40923373237407645,
+                "bottom": 0.5123957886875452
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.40923373237407645,
+                "top": 0.47087685258767387,
+                "right": 0.5173138404257287,
+                "bottom": 0.5123957886875452
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.5173138404257287,
+                "top": 0.47087685258767387,
+                "right": 0.6015050252069898,
+                "bottom": 0.5123957886875452
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.6015050252069898,
+                "top": 0.47087685258767387,
+                "right": 0.6919232014053449,
+                "bottom": 0.5123957886875452
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.6919232014053449,
+                "top": 0.47087685258767387,
+                "right": 0.7798119402870753,
+                "bottom": 0.5123957886875452
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.14850960719237782,
+                "top": 0.5123957886875452,
+                "right": 0.2909779766473939,
+                "bottom": 0.5791300456397952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.2909779766473939,
+                "top": 0.5123957886875452,
+                "right": 0.40923373237407645,
+                "bottom": 0.5791300456397952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.40923373237407645,
+                "top": 0.5123957886875452,
+                "right": 0.6919232014053449,
+                "bottom": 0.5791300456397952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.6015050252069898,
+                "top": 0.5123957886875452,
+                "right": 0.6919232014053449,
+                "bottom": 0.5791300456397952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.6919232014053449,
+                "top": 0.5123957886875452,
+                "right": 0.7798119402870753,
+                "bottom": 0.5791300456397952
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "feb9b1d9-25fd-4f06-8a5f-f583c5d559fe": {
+            "box": {
+                "left": 0.2874518036842346,
+                "top": 0.9741427302360535,
+                "right": 0.7132906317710876,
+                "bottom": 0.9999421238899231
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "xglg0227_9.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5721,
+        "credit_usage": 3.0,
+        "job_id": "objml4rjqzy9e6rqgntqoort3",
+        "version": "dpt-2-20250919"
+    }
+}

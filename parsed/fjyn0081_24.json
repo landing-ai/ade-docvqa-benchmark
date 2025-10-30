@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='d543712e-4dbe-4dab-aef3-3ee66e742233'></a>\n\n51337 9206\n\n<a id='de559ce1-a5fd-463d-99e6-dd25dee4a3d2'></a>\n\n<::Line chart titled \"Select Share Of Market\".\n\nThe x-axis represents months: Oct, Nov, Dec, Jan, Feb, Mar.\nThe y-axis represents numerical values from 0 to 3.5.\n\nThere are two lines:\n- **High Mkt** (represented by filled squares):\n  - Oct: 3.1\n  - Nov: 2.1\n  - Dec: 1.5\n  - Jan: 1.5\n  - Feb: 1.25\n  - Mar: 1.2\n- **Weak Mkt** (represented by empty squares):\n  - Oct: 1.4\n  - Nov: 0.85\n  - Dec: 0.6\n  - Jan: 0.65\n  - Feb: 0.7\n  - Mar: 0.6\n: chart::>",
+    "chunks": [
+        {
+            "markdown": "<a id='d543712e-4dbe-4dab-aef3-3ee66e742233'></a>\n\n51337 9206",
+            "type": "marginalia",
+            "id": "d543712e-4dbe-4dab-aef3-3ee66e742233",
+            "grounding": {
+                "box": {
+                    "left": 0.8582420945167542,
+                    "top": 0.020611420273780823,
+                    "right": 0.9592738747596741,
+                    "bottom": 0.046218447387218475
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='de559ce1-a5fd-463d-99e6-dd25dee4a3d2'></a>\n\n<::Line chart titled \"Select Share Of Market\".\n\nThe x-axis represents months: Oct, Nov, Dec, Jan, Feb, Mar.\nThe y-axis represents numerical values from 0 to 3.5.\n\nThere are two lines:\n- **High Mkt** (represented by filled squares):\n  - Oct: 3.1\n  - Nov: 2.1\n  - Dec: 1.5\n  - Jan: 1.5\n  - Feb: 1.25\n  - Mar: 1.2\n- **Weak Mkt** (represented by empty squares):\n  - Oct: 1.4\n  - Nov: 0.85\n  - Dec: 0.6\n  - Jan: 0.65\n  - Feb: 0.7\n  - Mar: 0.6\n: chart::>",
+            "type": "figure",
+            "id": "de559ce1-a5fd-463d-99e6-dd25dee4a3d2",
+            "grounding": {
+                "box": {
+                    "left": 0.09331709146499634,
+                    "top": 0.1849271059036255,
+                    "right": 0.9093671441078186,
+                    "bottom": 0.8736928701400757
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d543712e-4dbe-4dab-aef3-3ee66e742233'></a>\n\n51337 9206\n\n<a id='de559ce1-a5fd-463d-99e6-dd25dee4a3d2'></a>\n\n<::Line chart titled \"Select Share Of Market\".\n\nThe x-axis represents months: Oct, Nov, Dec, Jan, Feb, Mar.\nThe y-axis represents numerical values from 0 to 3.5.\n\nThere are two lines:\n- **High Mkt** (represented by filled squares):\n  - Oct: 3.1\n  - Nov: 2.1\n  - Dec: 1.5\n  - Jan: 1.5\n  - Feb: 1.25\n  - Mar: 1.2\n- **Weak Mkt** (represented by empty squares):\n  - Oct: 1.4\n  - Nov: 0.85\n  - Dec: 0.6\n  - Jan: 0.65\n  - Feb: 0.7\n  - Mar: 0.6\n: chart::>",
+            "chunks": [
+                "d543712e-4dbe-4dab-aef3-3ee66e742233",
+                "de559ce1-a5fd-463d-99e6-dd25dee4a3d2"
+            ]
+        }
+    ],
+    "grounding": {
+        "d543712e-4dbe-4dab-aef3-3ee66e742233": {
+            "box": {
+                "left": 0.8582420945167542,
+                "top": 0.020611420273780823,
+                "right": 0.9592738747596741,
+                "bottom": 0.046218447387218475
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "de559ce1-a5fd-463d-99e6-dd25dee4a3d2": {
+            "box": {
+                "left": 0.09331709146499634,
+                "top": 0.1849271059036255,
+                "right": 0.9093671441078186,
+                "bottom": 0.8736928701400757
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "fjyn0081_24.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7847,
+        "credit_usage": 3.0,
+        "job_id": "kqsw3fe2jtkkh51y11awypo6u",
+        "version": "dpt-2-20250919"
+    }
+}

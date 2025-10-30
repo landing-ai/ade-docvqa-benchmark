@@ -1,0 +1,643 @@
+{
+    "markdown": "<a id='b1f0b80b-ea0a-4b95-ac4e-549b31ab6ccc'></a>\n\nReport of the Board of Directors to the Members\n\n<a id='23c00f7a-1a07-4747-a05f-a8cdaefa1df0'></a>\n\nDear Members,\n\n<a id='537e7d8e-51ba-447d-881c-cb90e6e11db6'></a>\n\nYour Directors are pleased to present the 39th Annual Report and Audited Accounts of the company for the financial year ended March 31, 2009.\n\n<a id='cd90f658-905a-4a65-96f6-da1753617a35'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">(Rupees in Lakhs)</td></tr>\n<tr><td id=\"0-4\">FINANCIAL RESULTS</td><td id=\"0-5\">For the year ended 31.3.2009</td><td id=\"0-6\">For the year ended 31.3.2008</td></tr>\n<tr><td id=\"0-7\">Gross Revenue</td><td id=\"0-8\">7765.98</td><td id=\"0-9\">7294.05</td></tr>\n<tr><td id=\"0-a\">Profit before Tax, interest and depreciation</td><td id=\"0-b\">598.20</td><td id=\"0-c\">824.21</td></tr>\n<tr><td id=\"0-d\">Profit before tax and depreciation</td><td id=\"0-e\">292.77</td><td id=\"0-f\">534.21</td></tr>\n<tr><td id=\"0-g\">Profit before taxation</td><td id=\"0-h\">81.02</td><td id=\"0-i\">316.61</td></tr>\n<tr><td id=\"0-j\">Profit after taxation</td><td id=\"0-k\">65.54</td><td id=\"0-l\">243.61</td></tr>\n<tr><td id=\"0-m\">Reserves & Surplus</td><td id=\"0-n\">1104.63</td><td id=\"0-o\">1039.09</td></tr>\n</table>\n\n<a id='324ae201-142c-413f-ba19-5525d8087964'></a>\n\nThe highlights of performance of your company is as follows:\n<table id=\"0-p\">\n<tr><td id=\"0-q\">Production</td><td id=\"0-r\">For the year ended 31.3.2009</td><td id=\"0-s\">For the year ended 31.3.2008</td></tr>\n<tr><td id=\"0-t\">Filter Rods (in Million number of rods)</td><td id=\"0-u\">2798.7348</td><td id=\"0-v\">2356.4770</td></tr>\n<tr><td id=\"0-w\">Polymer Sacks/Fabrics (in MTs)</td><td id=\"0-x\">2172.023</td><td id=\"0-y\">2382.54</td></tr>\n</table>\n\n<a id='ecb0d558-7bbe-4e9b-8c7c-8d8832c98914'></a>\n\n<table id=\"0-z\">\n<tr><td id=\"0-A\">Foreign Exchange</td><td id=\"0-B\">Forthe yearended 31.3.2009</td><td id=\"0-C\">Forthe yearended 31.3.2008</td></tr>\n<tr><td id=\"0-D\">Eamings (Rupees in lakhs)</td><td id=\"0-E\">1625.07</td><td id=\"0-F\">2044.25</td></tr>\n<tr><td id=\"0-G\">Outgo (Rupees in lakhs)</td><td id=\"0-H\">1851.29</td><td id=\"0-I\">1264.81</td></tr>\n</table>\n\n<a id='add24841-e411-4e1b-8bf8-e9fc8c24b0f2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/klvj0223",
+    "chunks": [
+        {
+            "markdown": "<a id='b1f0b80b-ea0a-4b95-ac4e-549b31ab6ccc'></a>\n\nReport of the Board of Directors to the Members",
+            "type": "text",
+            "id": "b1f0b80b-ea0a-4b95-ac4e-549b31ab6ccc",
+            "grounding": {
+                "box": {
+                    "left": 0.24114587903022766,
+                    "top": 0.08361250162124634,
+                    "right": 0.7583847045898438,
+                    "bottom": 0.10635697841644287
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='23c00f7a-1a07-4747-a05f-a8cdaefa1df0'></a>\n\nDear Members,",
+            "type": "text",
+            "id": "23c00f7a-1a07-4747-a05f-a8cdaefa1df0",
+            "grounding": {
+                "box": {
+                    "left": 0.11397209018468857,
+                    "top": 0.13044437766075134,
+                    "right": 0.26588019728660583,
+                    "bottom": 0.15198439359664917
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='537e7d8e-51ba-447d-881c-cb90e6e11db6'></a>\n\nYour Directors are pleased to present the 39th Annual Report and Audited Accounts of the company for the financial year ended March 31, 2009.",
+            "type": "text",
+            "id": "537e7d8e-51ba-447d-881c-cb90e6e11db6",
+            "grounding": {
+                "box": {
+                    "left": 0.11304709315299988,
+                    "top": 0.16116178035736084,
+                    "right": 0.8882880210876465,
+                    "bottom": 0.20078209042549133
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cd90f658-905a-4a65-96f6-da1753617a35'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">(Rupees in Lakhs)</td></tr>\n<tr><td id=\"0-4\">FINANCIAL RESULTS</td><td id=\"0-5\">For the year ended 31.3.2009</td><td id=\"0-6\">For the year ended 31.3.2008</td></tr>\n<tr><td id=\"0-7\">Gross Revenue</td><td id=\"0-8\">7765.98</td><td id=\"0-9\">7294.05</td></tr>\n<tr><td id=\"0-a\">Profit before Tax, interest and depreciation</td><td id=\"0-b\">598.20</td><td id=\"0-c\">824.21</td></tr>\n<tr><td id=\"0-d\">Profit before tax and depreciation</td><td id=\"0-e\">292.77</td><td id=\"0-f\">534.21</td></tr>\n<tr><td id=\"0-g\">Profit before taxation</td><td id=\"0-h\">81.02</td><td id=\"0-i\">316.61</td></tr>\n<tr><td id=\"0-j\">Profit after taxation</td><td id=\"0-k\">65.54</td><td id=\"0-l\">243.61</td></tr>\n<tr><td id=\"0-m\">Reserves & Surplus</td><td id=\"0-n\">1104.63</td><td id=\"0-o\">1039.09</td></tr>\n</table>",
+            "type": "table",
+            "id": "cd90f658-905a-4a65-96f6-da1753617a35",
+            "grounding": {
+                "box": {
+                    "left": 0.10637429356575012,
+                    "top": 0.20686624944210052,
+                    "right": 0.8945001363754272,
+                    "bottom": 0.5196495056152344
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='324ae201-142c-413f-ba19-5525d8087964'></a>\n\nThe highlights of performance of your company is as follows:\n<table id=\"0-p\">\n<tr><td id=\"0-q\">Production</td><td id=\"0-r\">For the year ended 31.3.2009</td><td id=\"0-s\">For the year ended 31.3.2008</td></tr>\n<tr><td id=\"0-t\">Filter Rods (in Million number of rods)</td><td id=\"0-u\">2798.7348</td><td id=\"0-v\">2356.4770</td></tr>\n<tr><td id=\"0-w\">Polymer Sacks/Fabrics (in MTs)</td><td id=\"0-x\">2172.023</td><td id=\"0-y\">2382.54</td></tr>\n</table>",
+            "type": "table",
+            "id": "324ae201-142c-413f-ba19-5525d8087964",
+            "grounding": {
+                "box": {
+                    "left": 0.10564541816711426,
+                    "top": 0.5418357849121094,
+                    "right": 0.8633102774620056,
+                    "bottom": 0.7283238172531128
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ecb0d558-7bbe-4e9b-8c7c-8d8832c98914'></a>\n\n<table id=\"0-z\">\n<tr><td id=\"0-A\">Foreign Exchange</td><td id=\"0-B\">Forthe yearended 31.3.2009</td><td id=\"0-C\">Forthe yearended 31.3.2008</td></tr>\n<tr><td id=\"0-D\">Eamings (Rupees in lakhs)</td><td id=\"0-E\">1625.07</td><td id=\"0-F\">2044.25</td></tr>\n<tr><td id=\"0-G\">Outgo (Rupees in lakhs)</td><td id=\"0-H\">1851.29</td><td id=\"0-I\">1264.81</td></tr>\n</table>",
+            "type": "table",
+            "id": "ecb0d558-7bbe-4e9b-8c7c-8d8832c98914",
+            "grounding": {
+                "box": {
+                    "left": 0.10594594478607178,
+                    "top": 0.7487402558326721,
+                    "right": 0.8627801537513733,
+                    "bottom": 0.906464159488678
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='add24841-e411-4e1b-8bf8-e9fc8c24b0f2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/klvj0223",
+            "type": "marginalia",
+            "id": "add24841-e411-4e1b-8bf8-e9fc8c24b0f2",
+            "grounding": {
+                "box": {
+                    "left": 0.21099096536636353,
+                    "top": 0.9782544374465942,
+                    "right": 0.7888064384460449,
+                    "bottom": 0.9997717142105103
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='b1f0b80b-ea0a-4b95-ac4e-549b31ab6ccc'></a>\n\nReport of the Board of Directors to the Members\n\n<a id='23c00f7a-1a07-4747-a05f-a8cdaefa1df0'></a>\n\nDear Members,\n\n<a id='537e7d8e-51ba-447d-881c-cb90e6e11db6'></a>\n\nYour Directors are pleased to present the 39th Annual Report and Audited Accounts of the company for the financial year ended March 31, 2009.\n\n<a id='cd90f658-905a-4a65-96f6-da1753617a35'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">(Rupees in Lakhs)</td></tr>\n<tr><td id=\"0-4\">FINANCIAL RESULTS</td><td id=\"0-5\">For the year ended 31.3.2009</td><td id=\"0-6\">For the year ended 31.3.2008</td></tr>\n<tr><td id=\"0-7\">Gross Revenue</td><td id=\"0-8\">7765.98</td><td id=\"0-9\">7294.05</td></tr>\n<tr><td id=\"0-a\">Profit before Tax, interest and depreciation</td><td id=\"0-b\">598.20</td><td id=\"0-c\">824.21</td></tr>\n<tr><td id=\"0-d\">Profit before tax and depreciation</td><td id=\"0-e\">292.77</td><td id=\"0-f\">534.21</td></tr>\n<tr><td id=\"0-g\">Profit before taxation</td><td id=\"0-h\">81.02</td><td id=\"0-i\">316.61</td></tr>\n<tr><td id=\"0-j\">Profit after taxation</td><td id=\"0-k\">65.54</td><td id=\"0-l\">243.61</td></tr>\n<tr><td id=\"0-m\">Reserves & Surplus</td><td id=\"0-n\">1104.63</td><td id=\"0-o\">1039.09</td></tr>\n</table>\n\n<a id='324ae201-142c-413f-ba19-5525d8087964'></a>\n\nThe highlights of performance of your company is as follows:\n<table id=\"0-p\">\n<tr><td id=\"0-q\">Production</td><td id=\"0-r\">For the year ended 31.3.2009</td><td id=\"0-s\">For the year ended 31.3.2008</td></tr>\n<tr><td id=\"0-t\">Filter Rods (in Million number of rods)</td><td id=\"0-u\">2798.7348</td><td id=\"0-v\">2356.4770</td></tr>\n<tr><td id=\"0-w\">Polymer Sacks/Fabrics (in MTs)</td><td id=\"0-x\">2172.023</td><td id=\"0-y\">2382.54</td></tr>\n</table>\n\n<a id='ecb0d558-7bbe-4e9b-8c7c-8d8832c98914'></a>\n\n<table id=\"0-z\">\n<tr><td id=\"0-A\">Foreign Exchange</td><td id=\"0-B\">Forthe yearended 31.3.2009</td><td id=\"0-C\">Forthe yearended 31.3.2008</td></tr>\n<tr><td id=\"0-D\">Eamings (Rupees in lakhs)</td><td id=\"0-E\">1625.07</td><td id=\"0-F\">2044.25</td></tr>\n<tr><td id=\"0-G\">Outgo (Rupees in lakhs)</td><td id=\"0-H\">1851.29</td><td id=\"0-I\">1264.81</td></tr>\n</table>\n\n<a id='add24841-e411-4e1b-8bf8-e9fc8c24b0f2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/klvj0223",
+            "chunks": [
+                "b1f0b80b-ea0a-4b95-ac4e-549b31ab6ccc",
+                "23c00f7a-1a07-4747-a05f-a8cdaefa1df0",
+                "537e7d8e-51ba-447d-881c-cb90e6e11db6",
+                "cd90f658-905a-4a65-96f6-da1753617a35",
+                "324ae201-142c-413f-ba19-5525d8087964",
+                "ecb0d558-7bbe-4e9b-8c7c-8d8832c98914",
+                "add24841-e411-4e1b-8bf8-e9fc8c24b0f2"
+            ]
+        }
+    ],
+    "grounding": {
+        "b1f0b80b-ea0a-4b95-ac4e-549b31ab6ccc": {
+            "box": {
+                "left": 0.24114587903022766,
+                "top": 0.08361250162124634,
+                "right": 0.7583847045898438,
+                "bottom": 0.10635697841644287
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "23c00f7a-1a07-4747-a05f-a8cdaefa1df0": {
+            "box": {
+                "left": 0.11397209018468857,
+                "top": 0.13044437766075134,
+                "right": 0.26588019728660583,
+                "bottom": 0.15198439359664917
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "537e7d8e-51ba-447d-881c-cb90e6e11db6": {
+            "box": {
+                "left": 0.11304709315299988,
+                "top": 0.16116178035736084,
+                "right": 0.8882880210876465,
+                "bottom": 0.20078209042549133
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cd90f658-905a-4a65-96f6-da1753617a35": {
+            "box": {
+                "left": 0.10637429356575012,
+                "top": 0.20686624944210052,
+                "right": 0.8945001363754272,
+                "bottom": 0.5196495056152344
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11241028689561619,
+                "top": 0.2114947853312131,
+                "right": 0.8886191688545235,
+                "bottom": 0.5144234619128296
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11241028689561619,
+                "top": 0.2114947853312131,
+                "right": 0.43589395931796826,
+                "bottom": 0.2424140833150079
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.43589395931796826,
+                "top": 0.2114947853312131,
+                "right": 0.8885215528077754,
+                "bottom": 0.29175690368265084
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.11241028689561619,
+                "top": 0.2424140833150079,
+                "right": 0.43589395931796826,
+                "bottom": 0.29175690368265084
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.43589395931796826,
+                "top": 0.2424140833150079,
+                "right": 0.662141766581799,
+                "bottom": 0.29175690368265084
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.662141766581799,
+                "top": 0.2424140833150079,
+                "right": 0.8885215528077754,
+                "bottom": 0.29175690368265084
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.11241028689561619,
+                "top": 0.29175690368265084,
+                "right": 0.43589395931796826,
+                "bottom": 0.3227814450396327
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.43589395931796826,
+                "top": 0.29175690368265084,
+                "right": 0.662141766581799,
+                "bottom": 0.3227814450396327
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.662141766581799,
+                "top": 0.29175690368265084,
+                "right": 0.8885215528077754,
+                "bottom": 0.3227814450396327
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.11241028689561619,
+                "top": 0.3227814450396327,
+                "right": 0.43589395931796826,
+                "bottom": 0.3720951724832018
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.43589395931796826,
+                "top": 0.3227814450396327,
+                "right": 0.662141766581799,
+                "bottom": 0.3720951724832018
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.662141766581799,
+                "top": 0.3227814450396327,
+                "right": 0.8885215528077754,
+                "bottom": 0.3720951724832018
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.11241028689561619,
+                "top": 0.3720951724832018,
+                "right": 0.43589395931796826,
+                "bottom": 0.42144441547970946
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.43589395931796826,
+                "top": 0.3720951724832018,
+                "right": 0.662141766581799,
+                "bottom": 0.42144441547970946
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.662141766581799,
+                "top": 0.3720951724832018,
+                "right": 0.8885215528077754,
+                "bottom": 0.42144441547970946
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.11241028689561619,
+                "top": 0.42144441547970946,
+                "right": 0.43589395931796826,
+                "bottom": 0.4523136951438449
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.43589395931796826,
+                "top": 0.42144441547970946,
+                "right": 0.662141766581799,
+                "bottom": 0.4523136951438449
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.662141766581799,
+                "top": 0.42144441547970946,
+                "right": 0.8885215528077754,
+                "bottom": 0.4523136951438449
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.11241028689561619,
+                "top": 0.4523136951438449,
+                "right": 0.43589395931796826,
+                "bottom": 0.48327035611854363
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.43589395931796826,
+                "top": 0.4523136951438449,
+                "right": 0.662141766581799,
+                "bottom": 0.48327035611854363
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.662141766581799,
+                "top": 0.4523136951438449,
+                "right": 0.8885215528077754,
+                "bottom": 0.48327035611854363
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.11241028689561619,
+                "top": 0.48327035611854363,
+                "right": 0.43589395931796826,
+                "bottom": 0.5144234619128296
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.43589395931796826,
+                "top": 0.48327035611854363,
+                "right": 0.662141766581799,
+                "bottom": 0.5144234619128296
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.662141766581799,
+                "top": 0.48327035611854363,
+                "right": 0.8885215528077754,
+                "bottom": 0.5144234619128296
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "324ae201-142c-413f-ba19-5525d8087964": {
+            "box": {
+                "left": 0.10564541816711426,
+                "top": 0.5418357849121094,
+                "right": 0.8633102774620056,
+                "bottom": 0.7283238172531128
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.11267395760280102,
+                "top": 0.5754303705299115,
+                "right": 0.8565226776390062,
+                "bottom": 0.7230337588839788
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.11267395760280102,
+                "top": 0.5754303705299115,
+                "right": 0.397667336340465,
+                "bottom": 0.6246753934471663
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.397667336340465,
+                "top": 0.5754303705299115,
+                "right": 0.6268462863907658,
+                "bottom": 0.6246753934471663
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.6268462863907658,
+                "top": 0.5754303705299115,
+                "right": 0.8563400040443021,
+                "bottom": 0.6246753934471663
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.11267395760280102,
+                "top": 0.6246753934471663,
+                "right": 0.397667336340465,
+                "bottom": 0.6738212823056813
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.397667336340465,
+                "top": 0.6246753934471663,
+                "right": 0.6268462863907658,
+                "bottom": 0.6738212823056813
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6268462863907658,
+                "top": 0.6246753934471663,
+                "right": 0.8563400040443021,
+                "bottom": 0.6738212823056813
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.11267395760280102,
+                "top": 0.6738212823056813,
+                "right": 0.397667336340465,
+                "bottom": 0.7230337588839788
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.397667336340465,
+                "top": 0.6738212823056813,
+                "right": 0.6268462863907658,
+                "bottom": 0.7230337588839788
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.6268462863907658,
+                "top": 0.6738212823056813,
+                "right": 0.8563400040443021,
+                "bottom": 0.7230337588839788
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "ecb0d558-7bbe-4e9b-8c7c-8d8832c98914": {
+            "box": {
+                "left": 0.10594594478607178,
+                "top": 0.7487402558326721,
+                "right": 0.8627801537513733,
+                "bottom": 0.906464159488678
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.11249173264366052,
+                "top": 0.7536650386471022,
+                "right": 0.8563622804835269,
+                "bottom": 0.9017286582573831
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.11249173264366052,
+                "top": 0.7536650386471022,
+                "right": 0.3427402243467963,
+                "bottom": 0.8031979700295437
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.3427402243467963,
+                "top": 0.7536650386471022,
+                "right": 0.599393917103253,
+                "bottom": 0.8031979700295437
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.599393917103253,
+                "top": 0.7536650386471022,
+                "right": 0.8563393190689297,
+                "bottom": 0.8031979700295437
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.11249173264366052,
+                "top": 0.8031979700295437,
+                "right": 0.3427402243467963,
+                "bottom": 0.8524784263751428
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.3427402243467963,
+                "top": 0.8031979700295437,
+                "right": 0.599393917103253,
+                "bottom": 0.8524784263751428
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.599393917103253,
+                "top": 0.8031979700295437,
+                "right": 0.8563393190689297,
+                "bottom": 0.8524784263751428
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.11249173264366052,
+                "top": 0.8524784263751428,
+                "right": 0.3427402243467963,
+                "bottom": 0.9017286582573831
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.3427402243467963,
+                "top": 0.8524784263751428,
+                "right": 0.599393917103253,
+                "bottom": 0.9017286582573831
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.599393917103253,
+                "top": 0.8524784263751428,
+                "right": 0.8563393190689297,
+                "bottom": 0.9017286582573831
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "add24841-e411-4e1b-8bf8-e9fc8c24b0f2": {
+            "box": {
+                "left": 0.21099096536636353,
+                "top": 0.9782544374465942,
+                "right": 0.7888064384460449,
+                "bottom": 0.9997717142105103
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "klvj0223_15.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9060,
+        "credit_usage": 3.0,
+        "job_id": "thu78v7c7stl8cpnrm2dw2zqs",
+        "version": "dpt-2-20250919"
+    }
+}

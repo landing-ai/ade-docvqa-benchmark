@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='6539a9c6-8f6f-471e-972e-ec8603ccb5ce'></a>\n\nQuestion 19a: Do you use sugar with foods other than beverages?\n\n<a id='9d723fec-15c9-410f-bc1b-8c69a0fc28f7'></a>\n\n<table><thead><tr><th>Total Respondents</th><th>Total<br>(506=100%)</th><th>Men<br>(249=100%)</th><th>Women<br>(257=100%)</th></tr></thead></table>\n\n<a id='64a4b533-a4e1-4b64-96e1-d1ba84975c3d'></a>\n\n<table><thead><tr><th></th><th>Col&nbsp;1</th><th>Col&nbsp;2</th><th>Col&nbsp;3</th></tr></thead><tbody><tr><td>Yes</td><td>63%</td><td>53%</td><td>72%</td></tr><tr><td>No</td><td>37</td><td>47</td><td>28</td></tr></tbody></table>\n\n<a id='61afbc6a-b755-47b8-8fcf-28144ce2492d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lpdl0226",
+    "chunks": [
+        {
+            "markdown": "<a id='6539a9c6-8f6f-471e-972e-ec8603ccb5ce'></a>\n\nQuestion 19a: Do you use sugar with foods other than beverages?",
+            "type": "text",
+            "id": "6539a9c6-8f6f-471e-972e-ec8603ccb5ce",
+            "grounding": {
+                "box": {
+                    "left": 0.20812338590621948,
+                    "top": 0.2400016337633133,
+                    "right": 0.8225859999656677,
+                    "bottom": 0.2635292410850525
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9d723fec-15c9-410f-bc1b-8c69a0fc28f7'></a>\n\n<table><thead><tr><th>Total Respondents</th><th>Total<br>(506=100%)</th><th>Men<br>(249=100%)</th><th>Women<br>(257=100%)</th></tr></thead></table>",
+            "type": "table",
+            "id": "9d723fec-15c9-410f-bc1b-8c69a0fc28f7",
+            "grounding": {
+                "box": {
+                    "left": 0.20904946327209473,
+                    "top": 0.28467249870300293,
+                    "right": 0.8040754795074463,
+                    "bottom": 0.32598966360092163
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='64a4b533-a4e1-4b64-96e1-d1ba84975c3d'></a>\n\n<table><thead><tr><th></th><th>Col&nbsp;1</th><th>Col&nbsp;2</th><th>Col&nbsp;3</th></tr></thead><tbody><tr><td>Yes</td><td>63%</td><td>53%</td><td>72%</td></tr><tr><td>No</td><td>37</td><td>47</td><td>28</td></tr></tbody></table>",
+            "type": "table",
+            "id": "64a4b533-a4e1-4b64-96e1-d1ba84975c3d",
+            "grounding": {
+                "box": {
+                    "left": 0.2482147514820099,
+                    "top": 0.3406592905521393,
+                    "right": 0.7768412828445435,
+                    "bottom": 0.39708957076072693
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='61afbc6a-b755-47b8-8fcf-28144ce2492d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lpdl0226",
+            "type": "text",
+            "id": "61afbc6a-b755-47b8-8fcf-28144ce2492d",
+            "grounding": {
+                "box": {
+                    "left": 0.23742565512657166,
+                    "top": 0.9792855978012085,
+                    "right": 0.765606164932251,
+                    "bottom": 0.9987952709197998
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6539a9c6-8f6f-471e-972e-ec8603ccb5ce'></a>\n\nQuestion 19a: Do you use sugar with foods other than beverages?\n\n<a id='9d723fec-15c9-410f-bc1b-8c69a0fc28f7'></a>\n\n<table><thead><tr><th>Total Respondents</th><th>Total<br>(506=100%)</th><th>Men<br>(249=100%)</th><th>Women<br>(257=100%)</th></tr></thead></table>\n\n<a id='64a4b533-a4e1-4b64-96e1-d1ba84975c3d'></a>\n\n<table><thead><tr><th></th><th>Col&nbsp;1</th><th>Col&nbsp;2</th><th>Col&nbsp;3</th></tr></thead><tbody><tr><td>Yes</td><td>63%</td><td>53%</td><td>72%</td></tr><tr><td>No</td><td>37</td><td>47</td><td>28</td></tr></tbody></table>\n\n<a id='61afbc6a-b755-47b8-8fcf-28144ce2492d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lpdl0226",
+            "chunks": [
+                "6539a9c6-8f6f-471e-972e-ec8603ccb5ce",
+                "9d723fec-15c9-410f-bc1b-8c69a0fc28f7",
+                "64a4b533-a4e1-4b64-96e1-d1ba84975c3d",
+                "61afbc6a-b755-47b8-8fcf-28144ce2492d"
+            ]
+        }
+    ],
+    "grounding": {
+        "6539a9c6-8f6f-471e-972e-ec8603ccb5ce": {
+            "box": {
+                "left": 0.20812338590621948,
+                "top": 0.2400016337633133,
+                "right": 0.8225859999656677,
+                "bottom": 0.2635292410850525
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9d723fec-15c9-410f-bc1b-8c69a0fc28f7": {
+            "box": {
+                "left": 0.20904946327209473,
+                "top": 0.28467249870300293,
+                "right": 0.8040754795074463,
+                "bottom": 0.32598966360092163
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "64a4b533-a4e1-4b64-96e1-d1ba84975c3d": {
+            "box": {
+                "left": 0.2482147514820099,
+                "top": 0.3406592905521393,
+                "right": 0.7768412828445435,
+                "bottom": 0.39708957076072693
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "61afbc6a-b755-47b8-8fcf-28144ce2492d": {
+            "box": {
+                "left": 0.23742565512657166,
+                "top": 0.9792855978012085,
+                "right": 0.765606164932251,
+                "bottom": 0.9987952709197998
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lpdl0226_32.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10773,
+        "credit_usage": 3.0,
+        "job_id": "ljcelqv7f24hdehr0jug7do1m",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='d6ce2c64-48a4-4a6a-ae44-0a182c42d559'></a>\n\n<::attestation: Handwritten Date\nDated\nNo signature\nSept 14 '71\nBotanicals\nP. O. BOX 3034\nPEORIA, ILLINOIS 61614\nA handwritten date \"Sept 14 '71\" is centered at the top, above the printed text \"Botanicals P. O. BOX 3034 PEORIA, ILLINOIS 61614\", which is also centered below it.::>\n\n<a id='9befaa97-1e0a-44df-bd04-8495065a39ca'></a>\n\n<::attestation: Signature and Stamp\nReceived, Stamped\nSignature: illegible (appears to be \"Sweetners\" and an illegible signature below)\nRECEIVED\nSEP 1 0 1971\nT. J. ARMY\nA handwritten signature is present at the top, partially overlapping a horizontal line. Below the signature and line, there is a rectangular stamp with the word \"RECEIVED\" in bold, followed by the date \"SEP 1 0 1971\", and then \"T. J. ARMY\" at the bottom. All elements are centrally located.::>\n\n<a id='0497531e-41b9-4e4b-adea-18f8764b70b6'></a>\n\nEXECUTIVE REPORTS\n\n<a id='a8a5a69e-7c5d-4ffa-a3f6-ee2ce573fa53'></a>\n\n# Miracle Fruit\n\n- MIRACLE FRUIT REPORT by Dr. G. E. Inglett. A special, limited report describing the unusual taste-modifying properties and commercial outlook of the fruit that causes sour foods to taste wonderfully sweet ( 20 pages). Price: $25\n\n<a id='8b136c6f-b39b-4b15-83b5-52d8080f9aae'></a>\n\nSugar-Free Sweetener From Africa\n\noption SERENDIPITY BERRY REPORT by Dr. G. E. Inglett.: [ ]\nA completely revised report giving the details concerning the source of the world's sweetest substance ( 20 pages). Price: $19\n\noption RECENT SWEETENER RESEARCH by Dr. G. E. Inglett.: [ ]\nA second reprinting of the second edition of the popular sweetener source booklet ( 38 pages). Price: $16\n\noption PLANT PROTEIN USES IN THE DAIRY INDUSTRY by Dr. W. S. Claus.: [ ]\nRecent information on the increasing use of plant proteins in dairy products ( 18 pages). Price: $8\n\n<a id='819b4d59-1550-4a08-bea9-2664f21fbf18'></a>\n\nMAIL TO;\nNAME\nORGANIZATION\nADDRESS\nCITY\nSTATE\nCOUNTRY\n<::A photograph showing a cluster of small, dark, oval-shaped berries. The fruit of Dioscoreophyllum cum-minsii was initially named \"serendipity\" in our laboratory because of the unexpected finding of its intensely sweet properties. The berries are approximately 0.5 inch long.\n: figure::>\n<::A photograph showing two fruits, one whole and one cut in half to reveal a seed, placed on a grid background. Synsepalum dulcificum, miracle fruit, is native to tropical West Africa. The fruit is approximately 0.75 inch long.\n: figure::>\n\n<a id='de00200b-ef9f-4eaf-a9d9-ef563c967cde'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tjpv0228",
+    "chunks": [
+        {
+            "markdown": "<a id='d6ce2c64-48a4-4a6a-ae44-0a182c42d559'></a>\n\n<::attestation: Handwritten Date\nDated\nNo signature\nSept 14 '71\nBotanicals\nP. O. BOX 3034\nPEORIA, ILLINOIS 61614\nA handwritten date \"Sept 14 '71\" is centered at the top, above the printed text \"Botanicals P. O. BOX 3034 PEORIA, ILLINOIS 61614\", which is also centered below it.::>",
+            "type": "attestation",
+            "id": "d6ce2c64-48a4-4a6a-ae44-0a182c42d559",
+            "grounding": {
+                "box": {
+                    "left": 0.45338353514671326,
+                    "top": 0.0034775063395500183,
+                    "right": 0.6467108726501465,
+                    "bottom": 0.13508272171020508
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9befaa97-1e0a-44df-bd04-8495065a39ca'></a>\n\n<::attestation: Signature and Stamp\nReceived, Stamped\nSignature: illegible (appears to be \"Sweetners\" and an illegible signature below)\nRECEIVED\nSEP 1 0 1971\nT. J. ARMY\nA handwritten signature is present at the top, partially overlapping a horizontal line. Below the signature and line, there is a rectangular stamp with the word \"RECEIVED\" in bold, followed by the date \"SEP 1 0 1971\", and then \"T. J. ARMY\" at the bottom. All elements are centrally located.::>",
+            "type": "attestation",
+            "id": "9befaa97-1e0a-44df-bd04-8495065a39ca",
+            "grounding": {
+                "box": {
+                    "left": 0.6599454879760742,
+                    "top": 0.0021062493324279785,
+                    "right": 0.9725981950759888,
+                    "bottom": 0.15569350123405457
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0497531e-41b9-4e4b-adea-18f8764b70b6'></a>\n\nEXECUTIVE REPORTS",
+            "type": "text",
+            "id": "0497531e-41b9-4e4b-adea-18f8764b70b6",
+            "grounding": {
+                "box": {
+                    "left": 0.19542035460472107,
+                    "top": 0.15858310461044312,
+                    "right": 0.40523311495780945,
+                    "bottom": 0.17963632941246033
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a8a5a69e-7c5d-4ffa-a3f6-ee2ce573fa53'></a>\n\n# Miracle Fruit\n\n- MIRACLE FRUIT REPORT by Dr. G. E. Inglett. A special, limited report describing the unusual taste-modifying properties and commercial outlook of the fruit that causes sour foods to taste wonderfully sweet ( 20 pages). Price: $25",
+            "type": "text",
+            "id": "a8a5a69e-7c5d-4ffa-a3f6-ee2ce573fa53",
+            "grounding": {
+                "box": {
+                    "left": 0.19473576545715332,
+                    "top": 0.1972244381904602,
+                    "right": 0.8453930616378784,
+                    "bottom": 0.3335288166999817
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8b136c6f-b39b-4b15-83b5-52d8080f9aae'></a>\n\nSugar-Free Sweetener From Africa\n\noption SERENDIPITY BERRY REPORT by Dr. G. E. Inglett.: [ ]\nA completely revised report giving the details concerning the source of the world's sweetest substance ( 20 pages). Price: $19\n\noption RECENT SWEETENER RESEARCH by Dr. G. E. Inglett.: [ ]\nA second reprinting of the second edition of the popular sweetener source booklet ( 38 pages). Price: $16\n\noption PLANT PROTEIN USES IN THE DAIRY INDUSTRY by Dr. W. S. Claus.: [ ]\nRecent information on the increasing use of plant proteins in dairy products ( 18 pages). Price: $8",
+            "type": "text",
+            "id": "8b136c6f-b39b-4b15-83b5-52d8080f9aae",
+            "grounding": {
+                "box": {
+                    "left": 0.19185993075370789,
+                    "top": 0.3443143963813782,
+                    "right": 0.8810540437698364,
+                    "bottom": 0.6011778712272644
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='819b4d59-1550-4a08-bea9-2664f21fbf18'></a>\n\nMAIL TO;\nNAME\nORGANIZATION\nADDRESS\nCITY\nSTATE\nCOUNTRY\n<::A photograph showing a cluster of small, dark, oval-shaped berries. The fruit of Dioscoreophyllum cum-minsii was initially named \"serendipity\" in our laboratory because of the unexpected finding of its intensely sweet properties. The berries are approximately 0.5 inch long.\n: figure::>\n<::A photograph showing two fruits, one whole and one cut in half to reveal a seed, placed on a grid background. Synsepalum dulcificum, miracle fruit, is native to tropical West Africa. The fruit is approximately 0.75 inch long.\n: figure::>",
+            "type": "figure",
+            "id": "819b4d59-1550-4a08-bea9-2664f21fbf18",
+            "grounding": {
+                "box": {
+                    "left": 0.037858039140701294,
+                    "top": 0.5944475531578064,
+                    "right": 0.9549760818481445,
+                    "bottom": 0.9450350403785706
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='de00200b-ef9f-4eaf-a9d9-ef563c967cde'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tjpv0228",
+            "type": "text",
+            "id": "de00200b-ef9f-4eaf-a9d9-ef563c967cde",
+            "grounding": {
+                "box": {
+                    "left": 0.2208395004272461,
+                    "top": 0.977576732635498,
+                    "right": 0.7797561883926392,
+                    "bottom": 0.9997512102127075
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d6ce2c64-48a4-4a6a-ae44-0a182c42d559'></a>\n\n<::attestation: Handwritten Date\nDated\nNo signature\nSept 14 '71\nBotanicals\nP. O. BOX 3034\nPEORIA, ILLINOIS 61614\nA handwritten date \"Sept 14 '71\" is centered at the top, above the printed text \"Botanicals P. O. BOX 3034 PEORIA, ILLINOIS 61614\", which is also centered below it.::>\n\n<a id='9befaa97-1e0a-44df-bd04-8495065a39ca'></a>\n\n<::attestation: Signature and Stamp\nReceived, Stamped\nSignature: illegible (appears to be \"Sweetners\" and an illegible signature below)\nRECEIVED\nSEP 1 0 1971\nT. J. ARMY\nA handwritten signature is present at the top, partially overlapping a horizontal line. Below the signature and line, there is a rectangular stamp with the word \"RECEIVED\" in bold, followed by the date \"SEP 1 0 1971\", and then \"T. J. ARMY\" at the bottom. All elements are centrally located.::>\n\n<a id='0497531e-41b9-4e4b-adea-18f8764b70b6'></a>\n\nEXECUTIVE REPORTS\n\n<a id='a8a5a69e-7c5d-4ffa-a3f6-ee2ce573fa53'></a>\n\n# Miracle Fruit\n\n- MIRACLE FRUIT REPORT by Dr. G. E. Inglett. A special, limited report describing the unusual taste-modifying properties and commercial outlook of the fruit that causes sour foods to taste wonderfully sweet ( 20 pages). Price: $25\n\n<a id='8b136c6f-b39b-4b15-83b5-52d8080f9aae'></a>\n\nSugar-Free Sweetener From Africa\n\noption SERENDIPITY BERRY REPORT by Dr. G. E. Inglett.: [ ]\nA completely revised report giving the details concerning the source of the world's sweetest substance ( 20 pages). Price: $19\n\noption RECENT SWEETENER RESEARCH by Dr. G. E. Inglett.: [ ]\nA second reprinting of the second edition of the popular sweetener source booklet ( 38 pages). Price: $16\n\noption PLANT PROTEIN USES IN THE DAIRY INDUSTRY by Dr. W. S. Claus.: [ ]\nRecent information on the increasing use of plant proteins in dairy products ( 18 pages). Price: $8\n\n<a id='819b4d59-1550-4a08-bea9-2664f21fbf18'></a>\n\nMAIL TO;\nNAME\nORGANIZATION\nADDRESS\nCITY\nSTATE\nCOUNTRY\n<::A photograph showing a cluster of small, dark, oval-shaped berries. The fruit of Dioscoreophyllum cum-minsii was initially named \"serendipity\" in our laboratory because of the unexpected finding of its intensely sweet properties. The berries are approximately 0.5 inch long.\n: figure::>\n<::A photograph showing two fruits, one whole and one cut in half to reveal a seed, placed on a grid background. Synsepalum dulcificum, miracle fruit, is native to tropical West Africa. The fruit is approximately 0.75 inch long.\n: figure::>\n\n<a id='de00200b-ef9f-4eaf-a9d9-ef563c967cde'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tjpv0228",
+            "chunks": [
+                "d6ce2c64-48a4-4a6a-ae44-0a182c42d559",
+                "9befaa97-1e0a-44df-bd04-8495065a39ca",
+                "0497531e-41b9-4e4b-adea-18f8764b70b6",
+                "a8a5a69e-7c5d-4ffa-a3f6-ee2ce573fa53",
+                "8b136c6f-b39b-4b15-83b5-52d8080f9aae",
+                "819b4d59-1550-4a08-bea9-2664f21fbf18",
+                "de00200b-ef9f-4eaf-a9d9-ef563c967cde"
+            ]
+        }
+    ],
+    "grounding": {
+        "d6ce2c64-48a4-4a6a-ae44-0a182c42d559": {
+            "box": {
+                "left": 0.45338353514671326,
+                "top": 0.0034775063395500183,
+                "right": 0.6467108726501465,
+                "bottom": 0.13508272171020508
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "9befaa97-1e0a-44df-bd04-8495065a39ca": {
+            "box": {
+                "left": 0.6599454879760742,
+                "top": 0.0021062493324279785,
+                "right": 0.9725981950759888,
+                "bottom": 0.15569350123405457
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "0497531e-41b9-4e4b-adea-18f8764b70b6": {
+            "box": {
+                "left": 0.19542035460472107,
+                "top": 0.15858310461044312,
+                "right": 0.40523311495780945,
+                "bottom": 0.17963632941246033
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a8a5a69e-7c5d-4ffa-a3f6-ee2ce573fa53": {
+            "box": {
+                "left": 0.19473576545715332,
+                "top": 0.1972244381904602,
+                "right": 0.8453930616378784,
+                "bottom": 0.3335288166999817
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8b136c6f-b39b-4b15-83b5-52d8080f9aae": {
+            "box": {
+                "left": 0.19185993075370789,
+                "top": 0.3443143963813782,
+                "right": 0.8810540437698364,
+                "bottom": 0.6011778712272644
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "819b4d59-1550-4a08-bea9-2664f21fbf18": {
+            "box": {
+                "left": 0.037858039140701294,
+                "top": 0.5944475531578064,
+                "right": 0.9549760818481445,
+                "bottom": 0.9450350403785706
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "de00200b-ef9f-4eaf-a9d9-ef563c967cde": {
+            "box": {
+                "left": 0.2208395004272461,
+                "top": 0.977576732635498,
+                "right": 0.7797561883926392,
+                "bottom": 0.9997512102127075
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "tjpv0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 15948,
+        "credit_usage": 3.0,
+        "job_id": "zmacua6kaqh6vyw1o1aqbfyua",
+        "version": "dpt-2-20250919"
+    }
+}

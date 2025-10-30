@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='a767f0a6-9aa2-419f-8a66-dd6a9090667f'></a>\n\nTo: State of California\nDepartment of Public Health\nDivision of Research\n2151 Berkeley Way\nBerkeley 4, California\n\n<a id='586ba8bd-ec0a-4986-97ad-6254ba2f948a'></a>\n\n<::attestation: Signature line\nunsigned\nReadable Text: (date)\nA horizontal line with \"(date)\" centered below it, positioned in the middle of the image.::>\n\n<a id='50d7c169-6e4f-401c-ad2f-4de92ce78ab7'></a>\n\n___ is a student in good standing at\n___\n(Professional School Name)\nHe (she) will have completed the___year in June, 1965.\nOn the basis of completed work, his (her) relative class standing is in\nthe:\n\n<a id='3c4357c3-a3ad-49a3-a71b-f6aed4663279'></a>\n\noption highest quarter: [ ]\noption next to highest quarter: [ ]\noption next to lowest quarter: [ ]\noption lowest quarter: [ ]\noption class standing not available: [ ]\n\n<a id='1975bb6f-dec9-4ec9-82af-ef753bb64563'></a>\n\nRemarks: ___\n\n___\n\n___\n\n<a id='d464ebf8-b4c4-4e20-86eb-e24e76549dc8'></a>\n\nThis student's present scholastic record is:\n\n<a id='f90176d3-571d-42ac-8ea7-a0ab3d61d64b'></a>\n\noption satisfactory: [ ]\noption unsatisfactory: [ ]\n\n<a id='e74c48a8-52d5-48b7-a7a8-a42f3ebbe44b'></a>\n\n<::attestation: Signature/Title Section\nReadable Text: Signed ---\nDean, --- (Professional School)\nor if authorized representative give\ntitle ---\nShort description of visual elements and positioning: This section provides blank lines for a signature and title, intended for a Dean of a Professional School or an authorized representative.::>\n\n<a id='6641acc7-eb68-49ed-bc62-34d88ef1348d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gjdg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='a767f0a6-9aa2-419f-8a66-dd6a9090667f'></a>\n\nTo: State of California\nDepartment of Public Health\nDivision of Research\n2151 Berkeley Way\nBerkeley 4, California",
+            "type": "text",
+            "id": "a767f0a6-9aa2-419f-8a66-dd6a9090667f",
+            "grounding": {
+                "box": {
+                    "left": 0.14031904935836792,
+                    "top": 0.13566085696220398,
+                    "right": 0.44989484548568726,
+                    "bottom": 0.2164231240749359
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='586ba8bd-ec0a-4986-97ad-6254ba2f948a'></a>\n\n<::attestation: Signature line\nunsigned\nReadable Text: (date)\nA horizontal line with \"(date)\" centered below it, positioned in the middle of the image.::>",
+            "type": "attestation",
+            "id": "586ba8bd-ec0a-4986-97ad-6254ba2f948a",
+            "grounding": {
+                "box": {
+                    "left": 0.6777791976928711,
+                    "top": 0.14639240503311157,
+                    "right": 0.8605676889419556,
+                    "bottom": 0.17879006266593933
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='50d7c169-6e4f-401c-ad2f-4de92ce78ab7'></a>\n\n___ is a student in good standing at\n___\n(Professional School Name)\nHe (she) will have completed the___year in June, 1965.\nOn the basis of completed work, his (her) relative class standing is in\nthe:",
+            "type": "text",
+            "id": "50d7c169-6e4f-401c-ad2f-4de92ce78ab7",
+            "grounding": {
+                "box": {
+                    "left": 0.1829264760017395,
+                    "top": 0.2495444118976593,
+                    "right": 0.8602458834648132,
+                    "bottom": 0.393375426530838
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3c4357c3-a3ad-49a3-a71b-f6aed4663279'></a>\n\noption highest quarter: [ ]\noption next to highest quarter: [ ]\noption next to lowest quarter: [ ]\noption lowest quarter: [ ]\noption class standing not available: [ ]",
+            "type": "text",
+            "id": "3c4357c3-a3ad-49a3-a71b-f6aed4663279",
+            "grounding": {
+                "box": {
+                    "left": 0.3648923635482788,
+                    "top": 0.41391879320144653,
+                    "right": 0.672957181930542,
+                    "bottom": 0.5570273995399475
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1975bb6f-dec9-4ec9-82af-ef753bb64563'></a>\n\nRemarks: ___\n\n___\n\n___",
+            "type": "text",
+            "id": "1975bb6f-dec9-4ec9-82af-ef753bb64563",
+            "grounding": {
+                "box": {
+                    "left": 0.18321382999420166,
+                    "top": 0.571811854839325,
+                    "right": 0.8679684400558472,
+                    "bottom": 0.6543037295341492
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d464ebf8-b4c4-4e20-86eb-e24e76549dc8'></a>\n\nThis student's present scholastic record is:",
+            "type": "text",
+            "id": "d464ebf8-b4c4-4e20-86eb-e24e76549dc8",
+            "grounding": {
+                "box": {
+                    "left": 0.22730550169944763,
+                    "top": 0.6624566912651062,
+                    "right": 0.6487388610839844,
+                    "bottom": 0.684602677822113
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f90176d3-571d-42ac-8ea7-a0ab3d61d64b'></a>\n\noption satisfactory: [ ]\noption unsatisfactory: [ ]",
+            "type": "text",
+            "id": "f90176d3-571d-42ac-8ea7-a0ab3d61d64b",
+            "grounding": {
+                "box": {
+                    "left": 0.3443518280982971,
+                    "top": 0.7029194831848145,
+                    "right": 0.5207213759422302,
+                    "bottom": 0.7596056461334229
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e74c48a8-52d5-48b7-a7a8-a42f3ebbe44b'></a>\n\n<::attestation: Signature/Title Section\nReadable Text: Signed ---\nDean, --- (Professional School)\nor if authorized representative give\ntitle ---\nShort description of visual elements and positioning: This section provides blank lines for a signature and title, intended for a Dean of a Professional School or an authorized representative.::>",
+            "type": "attestation",
+            "id": "e74c48a8-52d5-48b7-a7a8-a42f3ebbe44b",
+            "grounding": {
+                "box": {
+                    "left": 0.45503121614456177,
+                    "top": 0.7888104319572449,
+                    "right": 0.8702402710914612,
+                    "bottom": 0.9126378893852234
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6641acc7-eb68-49ed-bc62-34d88ef1348d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gjdg0227",
+            "type": "text",
+            "id": "6641acc7-eb68-49ed-bc62-34d88ef1348d",
+            "grounding": {
+                "box": {
+                    "left": 0.22532162070274353,
+                    "top": 0.9787405133247375,
+                    "right": 0.7758290767669678,
+                    "bottom": 0.9999222159385681
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a767f0a6-9aa2-419f-8a66-dd6a9090667f'></a>\n\nTo: State of California\nDepartment of Public Health\nDivision of Research\n2151 Berkeley Way\nBerkeley 4, California\n\n<a id='586ba8bd-ec0a-4986-97ad-6254ba2f948a'></a>\n\n<::attestation: Signature line\nunsigned\nReadable Text: (date)\nA horizontal line with \"(date)\" centered below it, positioned in the middle of the image.::>\n\n<a id='50d7c169-6e4f-401c-ad2f-4de92ce78ab7'></a>\n\n___ is a student in good standing at\n___\n(Professional School Name)\nHe (she) will have completed the___year in June, 1965.\nOn the basis of completed work, his (her) relative class standing is in\nthe:\n\n<a id='3c4357c3-a3ad-49a3-a71b-f6aed4663279'></a>\n\noption highest quarter: [ ]\noption next to highest quarter: [ ]\noption next to lowest quarter: [ ]\noption lowest quarter: [ ]\noption class standing not available: [ ]\n\n<a id='1975bb6f-dec9-4ec9-82af-ef753bb64563'></a>\n\nRemarks: ___\n\n___\n\n___\n\n<a id='d464ebf8-b4c4-4e20-86eb-e24e76549dc8'></a>\n\nThis student's present scholastic record is:\n\n<a id='f90176d3-571d-42ac-8ea7-a0ab3d61d64b'></a>\n\noption satisfactory: [ ]\noption unsatisfactory: [ ]\n\n<a id='e74c48a8-52d5-48b7-a7a8-a42f3ebbe44b'></a>\n\n<::attestation: Signature/Title Section\nReadable Text: Signed ---\nDean, --- (Professional School)\nor if authorized representative give\ntitle ---\nShort description of visual elements and positioning: This section provides blank lines for a signature and title, intended for a Dean of a Professional School or an authorized representative.::>\n\n<a id='6641acc7-eb68-49ed-bc62-34d88ef1348d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gjdg0227",
+            "chunks": [
+                "a767f0a6-9aa2-419f-8a66-dd6a9090667f",
+                "586ba8bd-ec0a-4986-97ad-6254ba2f948a",
+                "50d7c169-6e4f-401c-ad2f-4de92ce78ab7",
+                "3c4357c3-a3ad-49a3-a71b-f6aed4663279",
+                "1975bb6f-dec9-4ec9-82af-ef753bb64563",
+                "d464ebf8-b4c4-4e20-86eb-e24e76549dc8",
+                "f90176d3-571d-42ac-8ea7-a0ab3d61d64b",
+                "e74c48a8-52d5-48b7-a7a8-a42f3ebbe44b",
+                "6641acc7-eb68-49ed-bc62-34d88ef1348d"
+            ]
+        }
+    ],
+    "grounding": {
+        "a767f0a6-9aa2-419f-8a66-dd6a9090667f": {
+            "box": {
+                "left": 0.14031904935836792,
+                "top": 0.13566085696220398,
+                "right": 0.44989484548568726,
+                "bottom": 0.2164231240749359
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "586ba8bd-ec0a-4986-97ad-6254ba2f948a": {
+            "box": {
+                "left": 0.6777791976928711,
+                "top": 0.14639240503311157,
+                "right": 0.8605676889419556,
+                "bottom": 0.17879006266593933
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "50d7c169-6e4f-401c-ad2f-4de92ce78ab7": {
+            "box": {
+                "left": 0.1829264760017395,
+                "top": 0.2495444118976593,
+                "right": 0.8602458834648132,
+                "bottom": 0.393375426530838
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3c4357c3-a3ad-49a3-a71b-f6aed4663279": {
+            "box": {
+                "left": 0.3648923635482788,
+                "top": 0.41391879320144653,
+                "right": 0.672957181930542,
+                "bottom": 0.5570273995399475
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1975bb6f-dec9-4ec9-82af-ef753bb64563": {
+            "box": {
+                "left": 0.18321382999420166,
+                "top": 0.571811854839325,
+                "right": 0.8679684400558472,
+                "bottom": 0.6543037295341492
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d464ebf8-b4c4-4e20-86eb-e24e76549dc8": {
+            "box": {
+                "left": 0.22730550169944763,
+                "top": 0.6624566912651062,
+                "right": 0.6487388610839844,
+                "bottom": 0.684602677822113
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f90176d3-571d-42ac-8ea7-a0ab3d61d64b": {
+            "box": {
+                "left": 0.3443518280982971,
+                "top": 0.7029194831848145,
+                "right": 0.5207213759422302,
+                "bottom": 0.7596056461334229
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e74c48a8-52d5-48b7-a7a8-a42f3ebbe44b": {
+            "box": {
+                "left": 0.45503121614456177,
+                "top": 0.7888104319572449,
+                "right": 0.8702402710914612,
+                "bottom": 0.9126378893852234
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "6641acc7-eb68-49ed-bc62-34d88ef1348d": {
+            "box": {
+                "left": 0.22532162070274353,
+                "top": 0.9787405133247375,
+                "right": 0.7758290767669678,
+                "bottom": 0.9999222159385681
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "gjdg0227_8.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6442,
+        "credit_usage": 3.0,
+        "job_id": "n7k18ujzzlhhe8t90q59oog8h",
+        "version": "dpt-2-20250919"
+    }
+}

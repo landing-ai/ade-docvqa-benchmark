@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='07611222-c7ef-4461-8fb0-cd1acae0a289'></a>\n\nBEER AND SCURVY\n\nSOME NOTES FROM HISTORY\n\n<a id='a6e190e5-c7c8-49bd-a338-c55869fb3e06'></a>\n\nBY\n\nALICE HENDERSON SMITH\n\n<a id='56195239-88c3-4d30-be2f-e6c5badfa443'></a>\n\n(From the Lister Institute of Preventive Medicine.)\n\n<a id='606e31fd-ae32-4304-a110-6588693bfa9c'></a>\n\nReprinted from THE LANCET, December 14 1918",
+    "chunks": [
+        {
+            "markdown": "<a id='07611222-c7ef-4461-8fb0-cd1acae0a289'></a>\n\nBEER AND SCURVY\n\nSOME NOTES FROM HISTORY",
+            "type": "text",
+            "id": "07611222-c7ef-4461-8fb0-cd1acae0a289",
+            "grounding": {
+                "box": {
+                    "left": 0.19519582390785217,
+                    "top": 0.1699078530073166,
+                    "right": 0.8054709434509277,
+                    "bottom": 0.26023298501968384
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a6e190e5-c7c8-49bd-a338-c55869fb3e06'></a>\n\nBY\n\nALICE HENDERSON SMITH",
+            "type": "text",
+            "id": "a6e190e5-c7c8-49bd-a338-c55869fb3e06",
+            "grounding": {
+                "box": {
+                    "left": 0.2887605130672455,
+                    "top": 0.4118405878543854,
+                    "right": 0.7019668817520142,
+                    "bottom": 0.4714381992816925
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='56195239-88c3-4d30-be2f-e6c5badfa443'></a>\n\n(From the Lister Institute of Preventive Medicine.)",
+            "type": "text",
+            "id": "56195239-88c3-4d30-be2f-e6c5badfa443",
+            "grounding": {
+                "box": {
+                    "left": 0.25165513157844543,
+                    "top": 0.6066725254058838,
+                    "right": 0.7468047142028809,
+                    "bottom": 0.6319665908813477
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='606e31fd-ae32-4304-a110-6588693bfa9c'></a>\n\nReprinted from THE LANCET, December 14 1918",
+            "type": "text",
+            "id": "606e31fd-ae32-4304-a110-6588693bfa9c",
+            "grounding": {
+                "box": {
+                    "left": 0.26604777574539185,
+                    "top": 0.822977602481842,
+                    "right": 0.737264096736908,
+                    "bottom": 0.8475118279457092
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='07611222-c7ef-4461-8fb0-cd1acae0a289'></a>\n\nBEER AND SCURVY\n\nSOME NOTES FROM HISTORY\n\n<a id='a6e190e5-c7c8-49bd-a338-c55869fb3e06'></a>\n\nBY\n\nALICE HENDERSON SMITH\n\n<a id='56195239-88c3-4d30-be2f-e6c5badfa443'></a>\n\n(From the Lister Institute of Preventive Medicine.)\n\n<a id='606e31fd-ae32-4304-a110-6588693bfa9c'></a>\n\nReprinted from THE LANCET, December 14 1918",
+            "chunks": [
+                "07611222-c7ef-4461-8fb0-cd1acae0a289",
+                "a6e190e5-c7c8-49bd-a338-c55869fb3e06",
+                "56195239-88c3-4d30-be2f-e6c5badfa443",
+                "606e31fd-ae32-4304-a110-6588693bfa9c"
+            ]
+        }
+    ],
+    "grounding": {
+        "07611222-c7ef-4461-8fb0-cd1acae0a289": {
+            "box": {
+                "left": 0.19519582390785217,
+                "top": 0.1699078530073166,
+                "right": 0.8054709434509277,
+                "bottom": 0.26023298501968384
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a6e190e5-c7c8-49bd-a338-c55869fb3e06": {
+            "box": {
+                "left": 0.2887605130672455,
+                "top": 0.4118405878543854,
+                "right": 0.7019668817520142,
+                "bottom": 0.4714381992816925
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "56195239-88c3-4d30-be2f-e6c5badfa443": {
+            "box": {
+                "left": 0.25165513157844543,
+                "top": 0.6066725254058838,
+                "right": 0.7468047142028809,
+                "bottom": 0.6319665908813477
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "606e31fd-ae32-4304-a110-6588693bfa9c": {
+            "box": {
+                "left": 0.26604777574539185,
+                "top": 0.822977602481842,
+                "right": 0.737264096736908,
+                "bottom": 0.8475118279457092
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "yjww0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3053,
+        "credit_usage": 3.0,
+        "job_id": "fgakb4deadth71keujvjse6yn",
+        "version": "dpt-2-20250919"
+    }
+}

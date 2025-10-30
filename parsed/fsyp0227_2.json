@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='6107b0a4-666c-451b-9a94-47b3132c2165'></a>\n\nAir Mail\n\n<a id='22cac22c-5474-4be6-9fc7-2e6c4226afb4'></a>\n\n<::A postage stamp with a black background. The word \"GUATEMALA\" is written in an arc at the top, and \"Q.0.06\" is written vertically along the left side. On the right side, \"1978 AEREO\" is written vertically. In the center, there is an image of an ancient, stylized human head or figurine with a wide face and open mouth. Above the figurine, the text \"Arqueolog\u00eda de Guatemala\" is present, with a small emblem to its right. At the bottom of the stamp, the text \"FRAGMENTO DE FIGURILLA, TIKAL 200-50 AC\" is visible, followed by smaller text \"FOTOGRAFIA TREJOS - COSTA RICA\".\n: figure::>\n\n<a id='87098552-291f-4a99-ba0f-97fbdf13fedc'></a>\n\n<::A black and white image of a postage stamp. The stamp features a central image of an ancient sculpture, possibly a bust or head, with prominent ears and a somewhat stylized face. Around the edges and within the stamp, there is text:\n\nAlong the left side, curved vertically: \"2.0.06 GUATEMALA\"\n\nAt the top right, above the sculpture: \"Arqueolog\u00eda de Guatemala\"\n\nTo the right of \"Arqueolog\u00eda de Guatemala\" is a small emblem or logo with text that is difficult to read but appears to be \"QUE NO MOVI\".\n\nAlong the right side, curved vertically: \"1978 AEREO\"\n\nAt the bottom, below the sculpture: \"FRAGMENTO DE FIGURILLA, TIKAL 200-50 AC\"\n\nBelow that, in smaller text: \"LITOGRAFIA TREJOS - COSTA RICA\"\n: figure::>\n\n<a id='78d1973a-10bb-4bac-a3e8-fbc951b8b1d1'></a>\n\nDr. & Mrs. William Darby\nHomestead Manor\nRoute 2, Box 218\nThompson Sta. TN 37179\nU.S.A.\n\n<a id='980b9621-d975-4ca5-a654-bdda9e620641'></a>\n\n<::A close-up image showing a portion of a document or postage stamp. At the top, text reads \"GMENTO DE FIGURILLA, TIKAL 200-50 AC.\" and \"FRAGM\". A circular ink stamp is prominent in the center, with visible text including \"DIRECCIO SERVICI\" and \"GUATEMALA\" (partially obscured), along with numbers that appear to be \"1936\" or \"1938\". Below the circular stamp, there is handwritten cursive text, possibly part of a signature or a place name like \"Guatemala\".\n: image::>\n\n<a id='5b15dd07-7bf7-4744-9f8c-8333407febf4'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fsyp0227",
+    "chunks": [
+        {
+            "markdown": "<a id='6107b0a4-666c-451b-9a94-47b3132c2165'></a>\n\nAir Mail",
+            "type": "text",
+            "id": "6107b0a4-666c-451b-9a94-47b3132c2165",
+            "grounding": {
+                "box": {
+                    "left": 0.034390196204185486,
+                    "top": 0.04021616280078888,
+                    "right": 0.352186381816864,
+                    "bottom": 0.39660996198654175
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='22cac22c-5474-4be6-9fc7-2e6c4226afb4'></a>\n\n<::A postage stamp with a black background. The word \"GUATEMALA\" is written in an arc at the top, and \"Q.0.06\" is written vertically along the left side. On the right side, \"1978 AEREO\" is written vertically. In the center, there is an image of an ancient, stylized human head or figurine with a wide face and open mouth. Above the figurine, the text \"Arqueolog\u00eda de Guatemala\" is present, with a small emblem to its right. At the bottom of the stamp, the text \"FRAGMENTO DE FIGURILLA, TIKAL 200-50 AC\" is visible, followed by smaller text \"FOTOGRAFIA TREJOS - COSTA RICA\".\n: figure::>",
+            "type": "figure",
+            "id": "22cac22c-5474-4be6-9fc7-2e6c4226afb4",
+            "grounding": {
+                "box": {
+                    "left": 0.5804071426391602,
+                    "top": 0.039256975054740906,
+                    "right": 0.7618317604064941,
+                    "bottom": 0.3366466760635376
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='87098552-291f-4a99-ba0f-97fbdf13fedc'></a>\n\n<::A black and white image of a postage stamp. The stamp features a central image of an ancient sculpture, possibly a bust or head, with prominent ears and a somewhat stylized face. Around the edges and within the stamp, there is text:\n\nAlong the left side, curved vertically: \"2.0.06 GUATEMALA\"\n\nAt the top right, above the sculpture: \"Arqueolog\u00eda de Guatemala\"\n\nTo the right of \"Arqueolog\u00eda de Guatemala\" is a small emblem or logo with text that is difficult to read but appears to be \"QUE NO MOVI\".\n\nAlong the right side, curved vertically: \"1978 AEREO\"\n\nAt the bottom, below the sculpture: \"FRAGMENTO DE FIGURILLA, TIKAL 200-50 AC\"\n\nBelow that, in smaller text: \"LITOGRAFIA TREJOS - COSTA RICA\"\n: figure::>",
+            "type": "figure",
+            "id": "87098552-291f-4a99-ba0f-97fbdf13fedc",
+            "grounding": {
+                "box": {
+                    "left": 0.7727420926094055,
+                    "top": 0.042109087109565735,
+                    "right": 0.9509276747703552,
+                    "bottom": 0.34303367137908936
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='78d1973a-10bb-4bac-a3e8-fbc951b8b1d1'></a>\n\nDr. & Mrs. William Darby\nHomestead Manor\nRoute 2, Box 218\nThompson Sta. TN 37179\nU.S.A.",
+            "type": "text",
+            "id": "78d1973a-10bb-4bac-a3e8-fbc951b8b1d1",
+            "grounding": {
+                "box": {
+                    "left": 0.2375943958759308,
+                    "top": 0.3843902349472046,
+                    "right": 0.9805692434310913,
+                    "bottom": 0.8968777656555176
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='980b9621-d975-4ca5-a654-bdda9e620641'></a>\n\n<::A close-up image showing a portion of a document or postage stamp. At the top, text reads \"GMENTO DE FIGURILLA, TIKAL 200-50 AC.\" and \"FRAGM\". A circular ink stamp is prominent in the center, with visible text including \"DIRECCIO SERVICI\" and \"GUATEMALA\" (partially obscured), along with numbers that appear to be \"1936\" or \"1938\". Below the circular stamp, there is handwritten cursive text, possibly part of a signature or a place name like \"Guatemala\".\n: image::>",
+            "type": "figure",
+            "id": "980b9621-d975-4ca5-a654-bdda9e620641",
+            "grounding": {
+                "box": {
+                    "left": 0.6076626777648926,
+                    "top": 0.30309155583381653,
+                    "right": 0.8099707365036011,
+                    "bottom": 0.5068987011909485
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5b15dd07-7bf7-4744-9f8c-8333407febf4'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fsyp0227",
+            "type": "text",
+            "id": "5b15dd07-7bf7-4744-9f8c-8333407febf4",
+            "grounding": {
+                "box": {
+                    "left": 0.11525672674179077,
+                    "top": 0.9524943828582764,
+                    "right": 0.8823922872543335,
+                    "bottom": 0.998009443283081
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6107b0a4-666c-451b-9a94-47b3132c2165'></a>\n\nAir Mail\n\n<a id='22cac22c-5474-4be6-9fc7-2e6c4226afb4'></a>\n\n<::A postage stamp with a black background. The word \"GUATEMALA\" is written in an arc at the top, and \"Q.0.06\" is written vertically along the left side. On the right side, \"1978 AEREO\" is written vertically. In the center, there is an image of an ancient, stylized human head or figurine with a wide face and open mouth. Above the figurine, the text \"Arqueolog\u00eda de Guatemala\" is present, with a small emblem to its right. At the bottom of the stamp, the text \"FRAGMENTO DE FIGURILLA, TIKAL 200-50 AC\" is visible, followed by smaller text \"FOTOGRAFIA TREJOS - COSTA RICA\".\n: figure::>\n\n<a id='87098552-291f-4a99-ba0f-97fbdf13fedc'></a>\n\n<::A black and white image of a postage stamp. The stamp features a central image of an ancient sculpture, possibly a bust or head, with prominent ears and a somewhat stylized face. Around the edges and within the stamp, there is text:\n\nAlong the left side, curved vertically: \"2.0.06 GUATEMALA\"\n\nAt the top right, above the sculpture: \"Arqueolog\u00eda de Guatemala\"\n\nTo the right of \"Arqueolog\u00eda de Guatemala\" is a small emblem or logo with text that is difficult to read but appears to be \"QUE NO MOVI\".\n\nAlong the right side, curved vertically: \"1978 AEREO\"\n\nAt the bottom, below the sculpture: \"FRAGMENTO DE FIGURILLA, TIKAL 200-50 AC\"\n\nBelow that, in smaller text: \"LITOGRAFIA TREJOS - COSTA RICA\"\n: figure::>\n\n<a id='78d1973a-10bb-4bac-a3e8-fbc951b8b1d1'></a>\n\nDr. & Mrs. William Darby\nHomestead Manor\nRoute 2, Box 218\nThompson Sta. TN 37179\nU.S.A.\n\n<a id='980b9621-d975-4ca5-a654-bdda9e620641'></a>\n\n<::A close-up image showing a portion of a document or postage stamp. At the top, text reads \"GMENTO DE FIGURILLA, TIKAL 200-50 AC.\" and \"FRAGM\". A circular ink stamp is prominent in the center, with visible text including \"DIRECCIO SERVICI\" and \"GUATEMALA\" (partially obscured), along with numbers that appear to be \"1936\" or \"1938\". Below the circular stamp, there is handwritten cursive text, possibly part of a signature or a place name like \"Guatemala\".\n: image::>\n\n<a id='5b15dd07-7bf7-4744-9f8c-8333407febf4'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fsyp0227",
+            "chunks": [
+                "6107b0a4-666c-451b-9a94-47b3132c2165",
+                "22cac22c-5474-4be6-9fc7-2e6c4226afb4",
+                "87098552-291f-4a99-ba0f-97fbdf13fedc",
+                "78d1973a-10bb-4bac-a3e8-fbc951b8b1d1",
+                "980b9621-d975-4ca5-a654-bdda9e620641",
+                "5b15dd07-7bf7-4744-9f8c-8333407febf4"
+            ]
+        }
+    ],
+    "grounding": {
+        "6107b0a4-666c-451b-9a94-47b3132c2165": {
+            "box": {
+                "left": 0.034390196204185486,
+                "top": 0.04021616280078888,
+                "right": 0.352186381816864,
+                "bottom": 0.39660996198654175
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "22cac22c-5474-4be6-9fc7-2e6c4226afb4": {
+            "box": {
+                "left": 0.5804071426391602,
+                "top": 0.039256975054740906,
+                "right": 0.7618317604064941,
+                "bottom": 0.3366466760635376
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "87098552-291f-4a99-ba0f-97fbdf13fedc": {
+            "box": {
+                "left": 0.7727420926094055,
+                "top": 0.042109087109565735,
+                "right": 0.9509276747703552,
+                "bottom": 0.34303367137908936
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "78d1973a-10bb-4bac-a3e8-fbc951b8b1d1": {
+            "box": {
+                "left": 0.2375943958759308,
+                "top": 0.3843902349472046,
+                "right": 0.9805692434310913,
+                "bottom": 0.8968777656555176
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "980b9621-d975-4ca5-a654-bdda9e620641": {
+            "box": {
+                "left": 0.6076626777648926,
+                "top": 0.30309155583381653,
+                "right": 0.8099707365036011,
+                "bottom": 0.5068987011909485
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "5b15dd07-7bf7-4744-9f8c-8333407febf4": {
+            "box": {
+                "left": 0.11525672674179077,
+                "top": 0.9524943828582764,
+                "right": 0.8823922872543335,
+                "bottom": 0.998009443283081
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "fsyp0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 15468,
+        "credit_usage": 3.0,
+        "job_id": "yxt43uh878rsqs0tdr9w2qq8g",
+        "version": "dpt-2-20250919"
+    }
+}

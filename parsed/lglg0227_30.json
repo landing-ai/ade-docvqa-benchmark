@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='a8b4f72e-4077-4572-853d-8909fb02733d'></a>\n\nBASELINE PERIOD vs \"READING\" and EXAMINATION PERIODS\nJANUARY 1963\nELEVEN SUBJECTS\n<::A line graph with \"WEIGHT-Kg\" on the y-axis, marked at 70, 71, and 72. The graph displays two series of data points connected by lines. The first series shows values fluctuating between approximately 71.0 and 71.5 Kg. The second series, separated by a gap, shows values fluctuating between approximately 71.5 and 72.5 Kg.\n: chart::>\n\n<a id='1b963644-859b-4d64-8809-217033c99ed6'></a>\n\n<::Line chart showing PULSE/RATE/min over time or sequential measurements.\nY-axis is labeled \"PULSE/RATE/min\" and ranges from 72 to 84, with major ticks at 72, 74, 76, 78, 80, 82, 84.\nThe data points are connected by lines:\n- Measurement 1: 78\n- Measurement 2: 73\n- Measurement 3: 76\n- Measurement 4: 75\n- Measurement 5: 73\n- Measurement 6: 71\n- Measurement 7: 71\n- Measurement 8: 72\n- Measurement 9: 74\n- Measurement 10: 76\n- Measurement 11: 74\n- Measurement 12: 80\n- Measurement 13: 79\n- Measurement 14: 80\n- Measurement 15: 83\n- Measurement 16: 79\n- Measurement 17: 79\n- Measurement 18: 79\n: chart::>\n\n<a id='7fb6c375-96e0-4ff1-9943-145dab848282'></a>\n\n<::A line graph titled \"URINE VOLUME ml/min\" on the y-axis, ranging from 0.9 to 1.1. The x-axis is unlabeled, representing a sequence of measurements. The line graph shows a series of data points connected by lines, indicating fluctuations in urine volume. The data points generally range between approximately 0.83 and 1.15 ml/min.::>\n\n<a id='a2c6cc97-4720-4966-b79c-b3e8be5a4c66'></a>\n\n<::A line chart titled \"CREATININE g/24 hr\" on the y-axis, ranging from 1.70 to 1.80. The x-axis is divided into two main phases: \"BASELINE\" and \"TOTAL EXAMINATION\". Both phases have numerical labels from 1 to 9 along the x-axis. The \"TOTAL EXAMINATION\" phase is further subdivided into \"R\" (points 1-4) and \"E\" (points 5-9).\n\nIn the BASELINE phase:\n- Point 1: approximately 1.715\n- Point 2: approximately 1.69\n- Point 3: approximately 1.70\n- Point 4: approximately 1.74\n- Point 5: approximately 1.74\n- Point 6: approximately 1.71\n- Point 7: approximately 1.70\n- Point 8: approximately 1.73\n- Point 9: approximately 1.71\n\nIn the TOTAL EXAMINATION phase:\n- Point 1: approximately 1.70\n- Point 2: approximately 1.65\n- Point 3: approximately 1.77\n- Point 4: approximately 1.75\n- Point 5: approximately 1.80\n- Point 6: approximately 1.72\n- Point 7: approximately 1.77\n- Point 8: approximately 1.73\n- Point 9: approximately 1.72\n\nThe line shows fluctuations in creatinine levels over time, with a notable dip at point 2 of the TOTAL EXAMINATION phase and a peak at point 5 of the TOTAL EXAMINATION phase.: chart::>\n\n<a id='1d048684-1b26-4384-b92b-837b65456bb3'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lglg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='a8b4f72e-4077-4572-853d-8909fb02733d'></a>\n\nBASELINE PERIOD vs \"READING\" and EXAMINATION PERIODS\nJANUARY 1963\nELEVEN SUBJECTS\n<::A line graph with \"WEIGHT-Kg\" on the y-axis, marked at 70, 71, and 72. The graph displays two series of data points connected by lines. The first series shows values fluctuating between approximately 71.0 and 71.5 Kg. The second series, separated by a gap, shows values fluctuating between approximately 71.5 and 72.5 Kg.\n: chart::>",
+            "type": "figure",
+            "id": "a8b4f72e-4077-4572-853d-8909fb02733d",
+            "grounding": {
+                "box": {
+                    "left": 0.15627017617225647,
+                    "top": 0.10745245963335037,
+                    "right": 0.8589258193969727,
+                    "bottom": 0.3270016312599182
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1b963644-859b-4d64-8809-217033c99ed6'></a>\n\n<::Line chart showing PULSE/RATE/min over time or sequential measurements.\nY-axis is labeled \"PULSE/RATE/min\" and ranges from 72 to 84, with major ticks at 72, 74, 76, 78, 80, 82, 84.\nThe data points are connected by lines:\n- Measurement 1: 78\n- Measurement 2: 73\n- Measurement 3: 76\n- Measurement 4: 75\n- Measurement 5: 73\n- Measurement 6: 71\n- Measurement 7: 71\n- Measurement 8: 72\n- Measurement 9: 74\n- Measurement 10: 76\n- Measurement 11: 74\n- Measurement 12: 80\n- Measurement 13: 79\n- Measurement 14: 80\n- Measurement 15: 83\n- Measurement 16: 79\n- Measurement 17: 79\n- Measurement 18: 79\n: chart::>",
+            "type": "figure",
+            "id": "1b963644-859b-4d64-8809-217033c99ed6",
+            "grounding": {
+                "box": {
+                    "left": 0.15538078546524048,
+                    "top": 0.35279837250709534,
+                    "right": 0.853125274181366,
+                    "bottom": 0.5032662153244019
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7fb6c375-96e0-4ff1-9943-145dab848282'></a>\n\n<::A line graph titled \"URINE VOLUME ml/min\" on the y-axis, ranging from 0.9 to 1.1. The x-axis is unlabeled, representing a sequence of measurements. The line graph shows a series of data points connected by lines, indicating fluctuations in urine volume. The data points generally range between approximately 0.83 and 1.15 ml/min.::>",
+            "type": "figure",
+            "id": "7fb6c375-96e0-4ff1-9943-145dab848282",
+            "grounding": {
+                "box": {
+                    "left": 0.15066441893577576,
+                    "top": 0.529101550579071,
+                    "right": 0.8514071702957153,
+                    "bottom": 0.6786026358604431
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a2c6cc97-4720-4966-b79c-b3e8be5a4c66'></a>\n\n<::A line chart titled \"CREATININE g/24 hr\" on the y-axis, ranging from 1.70 to 1.80. The x-axis is divided into two main phases: \"BASELINE\" and \"TOTAL EXAMINATION\". Both phases have numerical labels from 1 to 9 along the x-axis. The \"TOTAL EXAMINATION\" phase is further subdivided into \"R\" (points 1-4) and \"E\" (points 5-9).\n\nIn the BASELINE phase:\n- Point 1: approximately 1.715\n- Point 2: approximately 1.69\n- Point 3: approximately 1.70\n- Point 4: approximately 1.74\n- Point 5: approximately 1.74\n- Point 6: approximately 1.71\n- Point 7: approximately 1.70\n- Point 8: approximately 1.73\n- Point 9: approximately 1.71\n\nIn the TOTAL EXAMINATION phase:\n- Point 1: approximately 1.70\n- Point 2: approximately 1.65\n- Point 3: approximately 1.77\n- Point 4: approximately 1.75\n- Point 5: approximately 1.80\n- Point 6: approximately 1.72\n- Point 7: approximately 1.77\n- Point 8: approximately 1.73\n- Point 9: approximately 1.72\n\nThe line shows fluctuations in creatinine levels over time, with a notable dip at point 2 of the TOTAL EXAMINATION phase and a peak at point 5 of the TOTAL EXAMINATION phase.: chart::>",
+            "type": "figure",
+            "id": "a2c6cc97-4720-4966-b79c-b3e8be5a4c66",
+            "grounding": {
+                "box": {
+                    "left": 0.1496642529964447,
+                    "top": 0.7030686140060425,
+                    "right": 0.851698637008667,
+                    "bottom": 0.9013676643371582
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1d048684-1b26-4384-b92b-837b65456bb3'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lglg0227",
+            "type": "text",
+            "id": "1d048684-1b26-4384-b92b-837b65456bb3",
+            "grounding": {
+                "box": {
+                    "left": 0.22948896884918213,
+                    "top": 0.979707658290863,
+                    "right": 0.7722097635269165,
+                    "bottom": 0.999710738658905
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a8b4f72e-4077-4572-853d-8909fb02733d'></a>\n\nBASELINE PERIOD vs \"READING\" and EXAMINATION PERIODS\nJANUARY 1963\nELEVEN SUBJECTS\n<::A line graph with \"WEIGHT-Kg\" on the y-axis, marked at 70, 71, and 72. The graph displays two series of data points connected by lines. The first series shows values fluctuating between approximately 71.0 and 71.5 Kg. The second series, separated by a gap, shows values fluctuating between approximately 71.5 and 72.5 Kg.\n: chart::>\n\n<a id='1b963644-859b-4d64-8809-217033c99ed6'></a>\n\n<::Line chart showing PULSE/RATE/min over time or sequential measurements.\nY-axis is labeled \"PULSE/RATE/min\" and ranges from 72 to 84, with major ticks at 72, 74, 76, 78, 80, 82, 84.\nThe data points are connected by lines:\n- Measurement 1: 78\n- Measurement 2: 73\n- Measurement 3: 76\n- Measurement 4: 75\n- Measurement 5: 73\n- Measurement 6: 71\n- Measurement 7: 71\n- Measurement 8: 72\n- Measurement 9: 74\n- Measurement 10: 76\n- Measurement 11: 74\n- Measurement 12: 80\n- Measurement 13: 79\n- Measurement 14: 80\n- Measurement 15: 83\n- Measurement 16: 79\n- Measurement 17: 79\n- Measurement 18: 79\n: chart::>\n\n<a id='7fb6c375-96e0-4ff1-9943-145dab848282'></a>\n\n<::A line graph titled \"URINE VOLUME ml/min\" on the y-axis, ranging from 0.9 to 1.1. The x-axis is unlabeled, representing a sequence of measurements. The line graph shows a series of data points connected by lines, indicating fluctuations in urine volume. The data points generally range between approximately 0.83 and 1.15 ml/min.::>\n\n<a id='a2c6cc97-4720-4966-b79c-b3e8be5a4c66'></a>\n\n<::A line chart titled \"CREATININE g/24 hr\" on the y-axis, ranging from 1.70 to 1.80. The x-axis is divided into two main phases: \"BASELINE\" and \"TOTAL EXAMINATION\". Both phases have numerical labels from 1 to 9 along the x-axis. The \"TOTAL EXAMINATION\" phase is further subdivided into \"R\" (points 1-4) and \"E\" (points 5-9).\n\nIn the BASELINE phase:\n- Point 1: approximately 1.715\n- Point 2: approximately 1.69\n- Point 3: approximately 1.70\n- Point 4: approximately 1.74\n- Point 5: approximately 1.74\n- Point 6: approximately 1.71\n- Point 7: approximately 1.70\n- Point 8: approximately 1.73\n- Point 9: approximately 1.71\n\nIn the TOTAL EXAMINATION phase:\n- Point 1: approximately 1.70\n- Point 2: approximately 1.65\n- Point 3: approximately 1.77\n- Point 4: approximately 1.75\n- Point 5: approximately 1.80\n- Point 6: approximately 1.72\n- Point 7: approximately 1.77\n- Point 8: approximately 1.73\n- Point 9: approximately 1.72\n\nThe line shows fluctuations in creatinine levels over time, with a notable dip at point 2 of the TOTAL EXAMINATION phase and a peak at point 5 of the TOTAL EXAMINATION phase.: chart::>\n\n<a id='1d048684-1b26-4384-b92b-837b65456bb3'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lglg0227",
+            "chunks": [
+                "a8b4f72e-4077-4572-853d-8909fb02733d",
+                "1b963644-859b-4d64-8809-217033c99ed6",
+                "7fb6c375-96e0-4ff1-9943-145dab848282",
+                "a2c6cc97-4720-4966-b79c-b3e8be5a4c66",
+                "1d048684-1b26-4384-b92b-837b65456bb3"
+            ]
+        }
+    ],
+    "grounding": {
+        "a8b4f72e-4077-4572-853d-8909fb02733d": {
+            "box": {
+                "left": 0.15627017617225647,
+                "top": 0.10745245963335037,
+                "right": 0.8589258193969727,
+                "bottom": 0.3270016312599182
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "1b963644-859b-4d64-8809-217033c99ed6": {
+            "box": {
+                "left": 0.15538078546524048,
+                "top": 0.35279837250709534,
+                "right": 0.853125274181366,
+                "bottom": 0.5032662153244019
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "7fb6c375-96e0-4ff1-9943-145dab848282": {
+            "box": {
+                "left": 0.15066441893577576,
+                "top": 0.529101550579071,
+                "right": 0.8514071702957153,
+                "bottom": 0.6786026358604431
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "a2c6cc97-4720-4966-b79c-b3e8be5a4c66": {
+            "box": {
+                "left": 0.1496642529964447,
+                "top": 0.7030686140060425,
+                "right": 0.851698637008667,
+                "bottom": 0.9013676643371582
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "1d048684-1b26-4384-b92b-837b65456bb3": {
+            "box": {
+                "left": 0.22948896884918213,
+                "top": 0.979707658290863,
+                "right": 0.7722097635269165,
+                "bottom": 0.999710738658905
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lglg0227_30.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8618,
+        "credit_usage": 3.0,
+        "job_id": "om8ppahq3xq02una4e10ww6j4",
+        "version": "dpt-2-20250919"
+    }
+}

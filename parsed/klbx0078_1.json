@@ -1,0 +1,403 @@
+{
+    "markdown": "<a id='e5890671-5b08-4687-a994-8b26e519f3c9'></a>\n\nRESPONSE CODE REQUEST CONFIRMATION\n\n<a id='5f97fb65-0c21-4456-9154-ec31031e187d'></a>\n\nTo: Cynthia Stevens\n\nFrom: Joyce Bagby\n\nDate: May 28, 1996\n\n<a id='d738d07c-1842-4e2c-a406-9e7aec3a57c0'></a>\n\nBrand: NOW\nTitle: Jun/96 Comp $10 Coupon POP Offer\n\nPPS Program #: 601543\n\n<a id='2f784f54-2a31-4317-b8c6-a097caf86d82'></a>\n\nDescription: This code is for the COMPETITIVE $10 CARTON COUPON POP OFFER FOR RESTRICTED STATES. Competitive also receives 2-$3 off a carton or 4 packs and 1-$0.60 off 2 packs and 10 bonus proofs toward the POP offer.\n\n<a id='6e7c0ec0-8e11-4eb6-bc6c-52592522bd9a'></a>\n\nFullfillment Data Entry at: Young America\n\nCirculation Quantity: 28,250\n\nEstimated Response: 15.00 %\n\nEstimated Responders: 4238\n\nDistribution Drop Date: 07/01/96\n\nExpiration Date: 10/31/96\n\n<a id='22c79a82-a6a5-471d-96ea-b6b766fe30eb'></a>\n\nResponse Code Assigned: U05\n\n<a id='31332319-cf11-47e1-98b8-77700f9a1e46'></a>\n\nAddress, postal requirements, barcodes, document storage, and\nbatch numbers to be supplied by:\n\n<a id='1f7d0944-8b13-4173-b73a-3dfa42a38ed0'></a>\n\nYoung America\nDE Fulfillment Vendor\n---\n\n<a id='3ee6dbc1-271e-4e14-b5a4-8e67902a6291'></a>\n\nC: Suzi Hicks, RJR-IR\nSean Pomposello, Fusion 5\nDrew Huyett, RJR\n\n<a id='b286f047-da8c-41c6-b18a-d62c1cbd8bc9'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" rowspan=\"2\" colspan=\"2\">Carol Russell, RJR</td></tr>\n<tr><td id=\"0-3\">Sue Wall,</td><td id=\"0-4\">RJR</td></tr>\n<tr><td id=\"0-5\"></td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\"></td></tr>\n</table>\n\n<a id='959d81cb-4a51-4d9b-81db-54dc49f636a1'></a>\n\n52269\n2097",
+    "chunks": [
+        {
+            "markdown": "<a id='e5890671-5b08-4687-a994-8b26e519f3c9'></a>\n\nRESPONSE CODE REQUEST CONFIRMATION",
+            "type": "text",
+            "id": "e5890671-5b08-4687-a994-8b26e519f3c9",
+            "grounding": {
+                "box": {
+                    "left": 0.0967787504196167,
+                    "top": 0.08607607334852219,
+                    "right": 0.7785898447036743,
+                    "bottom": 0.14292877912521362
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5f97fb65-0c21-4456-9154-ec31031e187d'></a>\n\nTo: Cynthia Stevens\n\nFrom: Joyce Bagby\n\nDate: May 28, 1996",
+            "type": "text",
+            "id": "5f97fb65-0c21-4456-9154-ec31031e187d",
+            "grounding": {
+                "box": {
+                    "left": 0.1782703399658203,
+                    "top": 0.1681111752986908,
+                    "right": 0.45427972078323364,
+                    "bottom": 0.25432562828063965
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d738d07c-1842-4e2c-a406-9e7aec3a57c0'></a>\n\nBrand: NOW\nTitle: Jun/96 Comp $10 Coupon POP Offer\n\nPPS Program #: 601543",
+            "type": "text",
+            "id": "d738d07c-1842-4e2c-a406-9e7aec3a57c0",
+            "grounding": {
+                "box": {
+                    "left": 0.04527124762535095,
+                    "top": 0.26844948530197144,
+                    "right": 0.8318052291870117,
+                    "bottom": 0.32683366537094116
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2f784f54-2a31-4317-b8c6-a097caf86d82'></a>\n\nDescription: This code is for the COMPETITIVE $10 CARTON COUPON POP OFFER FOR RESTRICTED STATES. Competitive also receives 2-$3 off a carton or 4 packs and 1-$0.60 off 2 packs and 10 bonus proofs toward the POP offer.",
+            "type": "text",
+            "id": "2f784f54-2a31-4317-b8c6-a097caf86d82",
+            "grounding": {
+                "box": {
+                    "left": 0.04762905836105347,
+                    "top": 0.32964634895324707,
+                    "right": 0.8173666596412659,
+                    "bottom": 0.3824594020843506
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6e7c0ec0-8e11-4eb6-bc6c-52592522bd9a'></a>\n\nFullfillment Data Entry at: Young America\n\nCirculation Quantity: 28,250\n\nEstimated Response: 15.00 %\n\nEstimated Responders: 4238\n\nDistribution Drop Date: 07/01/96\n\nExpiration Date: 10/31/96",
+            "type": "text",
+            "id": "6e7c0ec0-8e11-4eb6-bc6c-52592522bd9a",
+            "grounding": {
+                "box": {
+                    "left": 0.046319782733917236,
+                    "top": 0.4283790588378906,
+                    "right": 0.6369622349739075,
+                    "bottom": 0.5749994516372681
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='22c79a82-a6a5-471d-96ea-b6b766fe30eb'></a>\n\nResponse Code Assigned: U05",
+            "type": "text",
+            "id": "22c79a82-a6a5-471d-96ea-b6b766fe30eb",
+            "grounding": {
+                "box": {
+                    "left": 0.201454758644104,
+                    "top": 0.5762743949890137,
+                    "right": 0.669596254825592,
+                    "bottom": 0.64920973777771
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='31332319-cf11-47e1-98b8-77700f9a1e46'></a>\n\nAddress, postal requirements, barcodes, document storage, and\nbatch numbers to be supplied by:",
+            "type": "text",
+            "id": "31332319-cf11-47e1-98b8-77700f9a1e46",
+            "grounding": {
+                "box": {
+                    "left": 0.048344314098358154,
+                    "top": 0.6731257438659668,
+                    "right": 0.5121939182281494,
+                    "bottom": 0.7105468511581421
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1f7d0944-8b13-4173-b73a-3dfa42a38ed0'></a>\n\nYoung America\nDE Fulfillment Vendor\n---",
+            "type": "text",
+            "id": "1f7d0944-8b13-4173-b73a-3dfa42a38ed0",
+            "grounding": {
+                "box": {
+                    "left": 0.4300825595855713,
+                    "top": 0.719415545463562,
+                    "right": 0.7540947198867798,
+                    "bottom": 0.757095456123352
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3ee6dbc1-271e-4e14-b5a4-8e67902a6291'></a>\n\nC: Suzi Hicks, RJR-IR\nSean Pomposello, Fusion 5\nDrew Huyett, RJR",
+            "type": "text",
+            "id": "3ee6dbc1-271e-4e14-b5a4-8e67902a6291",
+            "grounding": {
+                "box": {
+                    "left": 0.04979024827480316,
+                    "top": 0.8069133162498474,
+                    "right": 0.40854930877685547,
+                    "bottom": 0.9245999455451965
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b286f047-da8c-41c6-b18a-d62c1cbd8bc9'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" rowspan=\"2\" colspan=\"2\">Carol Russell, RJR</td></tr>\n<tr><td id=\"0-3\">Sue Wall,</td><td id=\"0-4\">RJR</td></tr>\n<tr><td id=\"0-5\"></td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "b286f047-da8c-41c6-b18a-d62c1cbd8bc9",
+            "grounding": {
+                "box": {
+                    "left": 0.5116270780563354,
+                    "top": 0.8069043159484863,
+                    "right": 0.8413714170455933,
+                    "bottom": 0.9252899885177612
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='959d81cb-4a51-4d9b-81db-54dc49f636a1'></a>\n\n52269\n2097",
+            "type": "marginalia",
+            "id": "959d81cb-4a51-4d9b-81db-54dc49f636a1",
+            "grounding": {
+                "box": {
+                    "left": 0.9057019948959351,
+                    "top": 0.834518551826477,
+                    "right": 0.9294322729110718,
+                    "bottom": 0.9299076795578003
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e5890671-5b08-4687-a994-8b26e519f3c9'></a>\n\nRESPONSE CODE REQUEST CONFIRMATION\n\n<a id='5f97fb65-0c21-4456-9154-ec31031e187d'></a>\n\nTo: Cynthia Stevens\n\nFrom: Joyce Bagby\n\nDate: May 28, 1996\n\n<a id='d738d07c-1842-4e2c-a406-9e7aec3a57c0'></a>\n\nBrand: NOW\nTitle: Jun/96 Comp $10 Coupon POP Offer\n\nPPS Program #: 601543\n\n<a id='2f784f54-2a31-4317-b8c6-a097caf86d82'></a>\n\nDescription: This code is for the COMPETITIVE $10 CARTON COUPON POP OFFER FOR RESTRICTED STATES. Competitive also receives 2-$3 off a carton or 4 packs and 1-$0.60 off 2 packs and 10 bonus proofs toward the POP offer.\n\n<a id='6e7c0ec0-8e11-4eb6-bc6c-52592522bd9a'></a>\n\nFullfillment Data Entry at: Young America\n\nCirculation Quantity: 28,250\n\nEstimated Response: 15.00 %\n\nEstimated Responders: 4238\n\nDistribution Drop Date: 07/01/96\n\nExpiration Date: 10/31/96\n\n<a id='22c79a82-a6a5-471d-96ea-b6b766fe30eb'></a>\n\nResponse Code Assigned: U05\n\n<a id='31332319-cf11-47e1-98b8-77700f9a1e46'></a>\n\nAddress, postal requirements, barcodes, document storage, and\nbatch numbers to be supplied by:\n\n<a id='1f7d0944-8b13-4173-b73a-3dfa42a38ed0'></a>\n\nYoung America\nDE Fulfillment Vendor\n---\n\n<a id='3ee6dbc1-271e-4e14-b5a4-8e67902a6291'></a>\n\nC: Suzi Hicks, RJR-IR\nSean Pomposello, Fusion 5\nDrew Huyett, RJR\n\n<a id='b286f047-da8c-41c6-b18a-d62c1cbd8bc9'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" rowspan=\"2\" colspan=\"2\">Carol Russell, RJR</td></tr>\n<tr><td id=\"0-3\">Sue Wall,</td><td id=\"0-4\">RJR</td></tr>\n<tr><td id=\"0-5\"></td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\"></td></tr>\n</table>\n\n<a id='959d81cb-4a51-4d9b-81db-54dc49f636a1'></a>\n\n52269\n2097",
+            "chunks": [
+                "e5890671-5b08-4687-a994-8b26e519f3c9",
+                "5f97fb65-0c21-4456-9154-ec31031e187d",
+                "d738d07c-1842-4e2c-a406-9e7aec3a57c0",
+                "2f784f54-2a31-4317-b8c6-a097caf86d82",
+                "6e7c0ec0-8e11-4eb6-bc6c-52592522bd9a",
+                "22c79a82-a6a5-471d-96ea-b6b766fe30eb",
+                "31332319-cf11-47e1-98b8-77700f9a1e46",
+                "1f7d0944-8b13-4173-b73a-3dfa42a38ed0",
+                "3ee6dbc1-271e-4e14-b5a4-8e67902a6291",
+                "b286f047-da8c-41c6-b18a-d62c1cbd8bc9",
+                "959d81cb-4a51-4d9b-81db-54dc49f636a1"
+            ]
+        }
+    ],
+    "grounding": {
+        "e5890671-5b08-4687-a994-8b26e519f3c9": {
+            "box": {
+                "left": 0.0967787504196167,
+                "top": 0.08607607334852219,
+                "right": 0.7785898447036743,
+                "bottom": 0.14292877912521362
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5f97fb65-0c21-4456-9154-ec31031e187d": {
+            "box": {
+                "left": 0.1782703399658203,
+                "top": 0.1681111752986908,
+                "right": 0.45427972078323364,
+                "bottom": 0.25432562828063965
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d738d07c-1842-4e2c-a406-9e7aec3a57c0": {
+            "box": {
+                "left": 0.04527124762535095,
+                "top": 0.26844948530197144,
+                "right": 0.8318052291870117,
+                "bottom": 0.32683366537094116
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2f784f54-2a31-4317-b8c6-a097caf86d82": {
+            "box": {
+                "left": 0.04762905836105347,
+                "top": 0.32964634895324707,
+                "right": 0.8173666596412659,
+                "bottom": 0.3824594020843506
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6e7c0ec0-8e11-4eb6-bc6c-52592522bd9a": {
+            "box": {
+                "left": 0.046319782733917236,
+                "top": 0.4283790588378906,
+                "right": 0.6369622349739075,
+                "bottom": 0.5749994516372681
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "22c79a82-a6a5-471d-96ea-b6b766fe30eb": {
+            "box": {
+                "left": 0.201454758644104,
+                "top": 0.5762743949890137,
+                "right": 0.669596254825592,
+                "bottom": 0.64920973777771
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "31332319-cf11-47e1-98b8-77700f9a1e46": {
+            "box": {
+                "left": 0.048344314098358154,
+                "top": 0.6731257438659668,
+                "right": 0.5121939182281494,
+                "bottom": 0.7105468511581421
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1f7d0944-8b13-4173-b73a-3dfa42a38ed0": {
+            "box": {
+                "left": 0.4300825595855713,
+                "top": 0.719415545463562,
+                "right": 0.7540947198867798,
+                "bottom": 0.757095456123352
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3ee6dbc1-271e-4e14-b5a4-8e67902a6291": {
+            "box": {
+                "left": 0.04979024827480316,
+                "top": 0.8069133162498474,
+                "right": 0.40854930877685547,
+                "bottom": 0.9245999455451965
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b286f047-da8c-41c6-b18a-d62c1cbd8bc9": {
+            "box": {
+                "left": 0.5116270780563354,
+                "top": 0.8069043159484863,
+                "right": 0.8413714170455933,
+                "bottom": 0.9252899885177612
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.5179779253022865,
+                "top": 0.8073226902972535,
+                "right": 0.8353252254861445,
+                "bottom": 0.9179154753130021
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.5179779253022865,
+                "top": 0.8073226902972535,
+                "right": 0.8355696462887181,
+                "bottom": 0.8506146338132368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.5179779253022865,
+                "top": 0.8281133844117772,
+                "right": 0.59452048874806,
+                "bottom": 0.8506146338132368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.59452048874806,
+                "top": 0.8281133844117772,
+                "right": 0.8355696462887181,
+                "bottom": 0.8506146338132368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5179779253022865,
+                "top": 0.8506146338132368,
+                "right": 0.59452048874806,
+                "bottom": 0.8730162424586894
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.59452048874806,
+                "top": 0.8506146338132368,
+                "right": 0.8355696462887181,
+                "bottom": 0.8730162424586894
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5179779253022865,
+                "top": 0.8730162424586894,
+                "right": 0.59452048874806,
+                "bottom": 0.8948788176001585
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.59452048874806,
+                "top": 0.8730162424586894,
+                "right": 0.8355696462887181,
+                "bottom": 0.8948788176001585
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5179779253022865,
+                "top": 0.8948788176001585,
+                "right": 0.59452048874806,
+                "bottom": 0.9179154753130021
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.59452048874806,
+                "top": 0.8948788176001585,
+                "right": 0.8355696462887181,
+                "bottom": 0.9179154753130021
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "959d81cb-4a51-4d9b-81db-54dc49f636a1": {
+            "box": {
+                "left": 0.9057019948959351,
+                "top": 0.834518551826477,
+                "right": 0.9294322729110718,
+                "bottom": 0.9299076795578003
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "klbx0078_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8623,
+        "credit_usage": 3.0,
+        "job_id": "x0n6j937kjhctdiht1ps3kwe3",
+        "version": "dpt-2-20250919"
+    }
+}

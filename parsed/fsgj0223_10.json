@@ -1,0 +1,903 @@
+{
+    "markdown": "<a id='1ad97821-df68-430a-affe-ef4c4e177671'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Percent Shares</td><td id=\"0-3\">(Percent)</td><td id=\"0-4\">1.25</td></tr>\n<tr><td id=\"0-5\">No. of Shares</td><td id=\"0-6\">(Nos)</td><td id=\"0-7\">219322</td></tr>\n<tr><td id=\"0-8\">Holding Date</td><td id=\"0-9\">(Date)</td><td id=\"0-a\">31-Dec-09</td></tr>\n<tr><td id=\"0-b\">Percent Shares</td><td id=\"0-c\">(Percent)</td><td id=\"0-d\">1.25</td></tr>\n<tr><td id=\"0-e\">No. of Shares</td><td id=\"0-f\">(Nos)</td><td id=\"0-g\">219322</td></tr>\n</table>\n\n<a id='bbeee721-a52d-46de-a8a6-ebabd399b800'></a>\n\nEQUITY HOLDING PROMOTERS & MAJOR INVESTORS\nEquity Owner Type: Non-Promoters-2010\n<table id=\"0-h\">\n<tr><td id=\"0-i\">Equity Owner Name</td><td id=\"0-j\">Acacia Partners Lp</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">Holding Date</td><td id=\"0-m\">(Date)</td><td id=\"0-n\">31-Mar-10</td></tr>\n<tr><td id=\"0-o\">Percent Shares</td><td id=\"0-p\">(Percent)</td><td id=\"0-q\">2.47</td></tr>\n<tr><td id=\"0-r\">No. of Shares</td><td id=\"0-s\">(Nos)</td><td id=\"0-t\">434968</td></tr>\n<tr><td id=\"0-u\">Holding Date</td><td id=\"0-v\">(Date)</td><td id=\"0-w\">30-Jun-10</td></tr>\n<tr><td id=\"0-x\">Percent Shares</td><td id=\"0-y\">(Percent)</td><td id=\"0-z\">2.47</td></tr>\n<tr><td id=\"0-A\">No. of Shares</td><td id=\"0-B\">(Nos)</td><td id=\"0-C\">434968</td></tr>\n<tr><td id=\"0-D\">Holding Date</td><td id=\"0-E\">(Date)</td><td id=\"0-F\">30-Sep-10</td></tr>\n<tr><td id=\"0-G\">Percent Shares</td><td id=\"0-H\">(Percent)</td><td id=\"0-I\">2.47</td></tr>\n<tr><td id=\"0-J\">No. of Shares</td><td id=\"0-K\">(Nos)</td><td id=\"0-L\">434968</td></tr>\n<tr><td id=\"0-M\">Holding Date</td><td id=\"0-N\">(Date)</td><td id=\"0-O\">31-Dec-10</td></tr>\n<tr><td id=\"0-P\">Percent Shares</td><td id=\"0-Q\">(Percent)</td><td id=\"0-R\">2.47</td></tr>\n<tr><td id=\"0-S\">No. of Shares</td><td id=\"0-T\">(Nos)</td><td id=\"0-U\">434968</td></tr>\n<tr><td id=\"0-V\">Equity Owner Name</td><td id=\"0-W\">Aryavrat Financial Services Ltd</td><td id=\"0-X\"></td></tr>\n<tr><td id=\"0-Y\">Holding Date 5</td><td id=\"0-Z\">(Date)</td><td id=\"0-10\">31-Mar-10</td></tr>\n<tr><td id=\"0-11\">Percent Shares 5</td><td id=\"0-12\">(Percent)</td><td id=\"0-13\">1.25</td></tr>\n<tr><td id=\"0-14\">No. of Shares 5</td><td id=\"0-15\">(Nos)</td><td id=\"0-16\">219322</td></tr>\n<tr><td id=\"0-17\">Holding Date 6</td><td id=\"0-18\">(Date)</td><td id=\"0-19\">30-Jun-10</td></tr>\n<tr><td id=\"0-1a\">Percent Shares 6</td><td id=\"0-1b\">(Percent)</td><td id=\"0-1c\">1.3</td></tr>\n<tr><td id=\"0-1d\">No. of Shares 6</td><td id=\"0-1e\">(Nos)</td><td id=\"0-1f\">229322</td></tr>\n<tr><td id=\"0-1g\">Holding Date 7</td><td id=\"0-1h\">(Date)</td><td id=\"0-1i\">30-Sep-10</td></tr>\n</table>\n\n<a id='1f33030f-7eee-47ae-a4d5-719bd7ac2f96'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fsgj0223",
+    "chunks": [
+        {
+            "markdown": "<a id='1ad97821-df68-430a-affe-ef4c4e177671'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Percent Shares</td><td id=\"0-3\">(Percent)</td><td id=\"0-4\">1.25</td></tr>\n<tr><td id=\"0-5\">No. of Shares</td><td id=\"0-6\">(Nos)</td><td id=\"0-7\">219322</td></tr>\n<tr><td id=\"0-8\">Holding Date</td><td id=\"0-9\">(Date)</td><td id=\"0-a\">31-Dec-09</td></tr>\n<tr><td id=\"0-b\">Percent Shares</td><td id=\"0-c\">(Percent)</td><td id=\"0-d\">1.25</td></tr>\n<tr><td id=\"0-e\">No. of Shares</td><td id=\"0-f\">(Nos)</td><td id=\"0-g\">219322</td></tr>\n</table>",
+            "type": "table",
+            "id": "1ad97821-df68-430a-affe-ef4c4e177671",
+            "grounding": {
+                "box": {
+                    "left": 0.10992753505706787,
+                    "top": 0.08491364866495132,
+                    "right": 0.8824127912521362,
+                    "bottom": 0.1850948929786682
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bbeee721-a52d-46de-a8a6-ebabd399b800'></a>\n\nEQUITY HOLDING PROMOTERS & MAJOR INVESTORS\nEquity Owner Type: Non-Promoters-2010\n<table id=\"0-h\">\n<tr><td id=\"0-i\">Equity Owner Name</td><td id=\"0-j\">Acacia Partners Lp</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">Holding Date</td><td id=\"0-m\">(Date)</td><td id=\"0-n\">31-Mar-10</td></tr>\n<tr><td id=\"0-o\">Percent Shares</td><td id=\"0-p\">(Percent)</td><td id=\"0-q\">2.47</td></tr>\n<tr><td id=\"0-r\">No. of Shares</td><td id=\"0-s\">(Nos)</td><td id=\"0-t\">434968</td></tr>\n<tr><td id=\"0-u\">Holding Date</td><td id=\"0-v\">(Date)</td><td id=\"0-w\">30-Jun-10</td></tr>\n<tr><td id=\"0-x\">Percent Shares</td><td id=\"0-y\">(Percent)</td><td id=\"0-z\">2.47</td></tr>\n<tr><td id=\"0-A\">No. of Shares</td><td id=\"0-B\">(Nos)</td><td id=\"0-C\">434968</td></tr>\n<tr><td id=\"0-D\">Holding Date</td><td id=\"0-E\">(Date)</td><td id=\"0-F\">30-Sep-10</td></tr>\n<tr><td id=\"0-G\">Percent Shares</td><td id=\"0-H\">(Percent)</td><td id=\"0-I\">2.47</td></tr>\n<tr><td id=\"0-J\">No. of Shares</td><td id=\"0-K\">(Nos)</td><td id=\"0-L\">434968</td></tr>\n<tr><td id=\"0-M\">Holding Date</td><td id=\"0-N\">(Date)</td><td id=\"0-O\">31-Dec-10</td></tr>\n<tr><td id=\"0-P\">Percent Shares</td><td id=\"0-Q\">(Percent)</td><td id=\"0-R\">2.47</td></tr>\n<tr><td id=\"0-S\">No. of Shares</td><td id=\"0-T\">(Nos)</td><td id=\"0-U\">434968</td></tr>\n<tr><td id=\"0-V\">Equity Owner Name</td><td id=\"0-W\">Aryavrat Financial Services Ltd</td><td id=\"0-X\"></td></tr>\n<tr><td id=\"0-Y\">Holding Date 5</td><td id=\"0-Z\">(Date)</td><td id=\"0-10\">31-Mar-10</td></tr>\n<tr><td id=\"0-11\">Percent Shares 5</td><td id=\"0-12\">(Percent)</td><td id=\"0-13\">1.25</td></tr>\n<tr><td id=\"0-14\">No. of Shares 5</td><td id=\"0-15\">(Nos)</td><td id=\"0-16\">219322</td></tr>\n<tr><td id=\"0-17\">Holding Date 6</td><td id=\"0-18\">(Date)</td><td id=\"0-19\">30-Jun-10</td></tr>\n<tr><td id=\"0-1a\">Percent Shares 6</td><td id=\"0-1b\">(Percent)</td><td id=\"0-1c\">1.3</td></tr>\n<tr><td id=\"0-1d\">No. of Shares 6</td><td id=\"0-1e\">(Nos)</td><td id=\"0-1f\">229322</td></tr>\n<tr><td id=\"0-1g\">Holding Date 7</td><td id=\"0-1h\">(Date)</td><td id=\"0-1i\">30-Sep-10</td></tr>\n</table>",
+            "type": "table",
+            "id": "bbeee721-a52d-46de-a8a6-ebabd399b800",
+            "grounding": {
+                "box": {
+                    "left": 0.11104726791381836,
+                    "top": 0.46817243099212646,
+                    "right": 0.8824704885482788,
+                    "bottom": 0.9053606986999512
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1f33030f-7eee-47ae-a4d5-719bd7ac2f96'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fsgj0223",
+            "type": "text",
+            "id": "1f33030f-7eee-47ae-a4d5-719bd7ac2f96",
+            "grounding": {
+                "box": {
+                    "left": 0.2180178463459015,
+                    "top": 0.9776243567466736,
+                    "right": 0.7828307151794434,
+                    "bottom": 0.9999498724937439
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='1ad97821-df68-430a-affe-ef4c4e177671'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Percent Shares</td><td id=\"0-3\">(Percent)</td><td id=\"0-4\">1.25</td></tr>\n<tr><td id=\"0-5\">No. of Shares</td><td id=\"0-6\">(Nos)</td><td id=\"0-7\">219322</td></tr>\n<tr><td id=\"0-8\">Holding Date</td><td id=\"0-9\">(Date)</td><td id=\"0-a\">31-Dec-09</td></tr>\n<tr><td id=\"0-b\">Percent Shares</td><td id=\"0-c\">(Percent)</td><td id=\"0-d\">1.25</td></tr>\n<tr><td id=\"0-e\">No. of Shares</td><td id=\"0-f\">(Nos)</td><td id=\"0-g\">219322</td></tr>\n</table>\n\n<a id='bbeee721-a52d-46de-a8a6-ebabd399b800'></a>\n\nEQUITY HOLDING PROMOTERS & MAJOR INVESTORS\nEquity Owner Type: Non-Promoters-2010\n<table id=\"0-h\">\n<tr><td id=\"0-i\">Equity Owner Name</td><td id=\"0-j\">Acacia Partners Lp</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">Holding Date</td><td id=\"0-m\">(Date)</td><td id=\"0-n\">31-Mar-10</td></tr>\n<tr><td id=\"0-o\">Percent Shares</td><td id=\"0-p\">(Percent)</td><td id=\"0-q\">2.47</td></tr>\n<tr><td id=\"0-r\">No. of Shares</td><td id=\"0-s\">(Nos)</td><td id=\"0-t\">434968</td></tr>\n<tr><td id=\"0-u\">Holding Date</td><td id=\"0-v\">(Date)</td><td id=\"0-w\">30-Jun-10</td></tr>\n<tr><td id=\"0-x\">Percent Shares</td><td id=\"0-y\">(Percent)</td><td id=\"0-z\">2.47</td></tr>\n<tr><td id=\"0-A\">No. of Shares</td><td id=\"0-B\">(Nos)</td><td id=\"0-C\">434968</td></tr>\n<tr><td id=\"0-D\">Holding Date</td><td id=\"0-E\">(Date)</td><td id=\"0-F\">30-Sep-10</td></tr>\n<tr><td id=\"0-G\">Percent Shares</td><td id=\"0-H\">(Percent)</td><td id=\"0-I\">2.47</td></tr>\n<tr><td id=\"0-J\">No. of Shares</td><td id=\"0-K\">(Nos)</td><td id=\"0-L\">434968</td></tr>\n<tr><td id=\"0-M\">Holding Date</td><td id=\"0-N\">(Date)</td><td id=\"0-O\">31-Dec-10</td></tr>\n<tr><td id=\"0-P\">Percent Shares</td><td id=\"0-Q\">(Percent)</td><td id=\"0-R\">2.47</td></tr>\n<tr><td id=\"0-S\">No. of Shares</td><td id=\"0-T\">(Nos)</td><td id=\"0-U\">434968</td></tr>\n<tr><td id=\"0-V\">Equity Owner Name</td><td id=\"0-W\">Aryavrat Financial Services Ltd</td><td id=\"0-X\"></td></tr>\n<tr><td id=\"0-Y\">Holding Date 5</td><td id=\"0-Z\">(Date)</td><td id=\"0-10\">31-Mar-10</td></tr>\n<tr><td id=\"0-11\">Percent Shares 5</td><td id=\"0-12\">(Percent)</td><td id=\"0-13\">1.25</td></tr>\n<tr><td id=\"0-14\">No. of Shares 5</td><td id=\"0-15\">(Nos)</td><td id=\"0-16\">219322</td></tr>\n<tr><td id=\"0-17\">Holding Date 6</td><td id=\"0-18\">(Date)</td><td id=\"0-19\">30-Jun-10</td></tr>\n<tr><td id=\"0-1a\">Percent Shares 6</td><td id=\"0-1b\">(Percent)</td><td id=\"0-1c\">1.3</td></tr>\n<tr><td id=\"0-1d\">No. of Shares 6</td><td id=\"0-1e\">(Nos)</td><td id=\"0-1f\">229322</td></tr>\n<tr><td id=\"0-1g\">Holding Date 7</td><td id=\"0-1h\">(Date)</td><td id=\"0-1i\">30-Sep-10</td></tr>\n</table>\n\n<a id='1f33030f-7eee-47ae-a4d5-719bd7ac2f96'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fsgj0223",
+            "chunks": [
+                "1ad97821-df68-430a-affe-ef4c4e177671",
+                "bbeee721-a52d-46de-a8a6-ebabd399b800",
+                "1f33030f-7eee-47ae-a4d5-719bd7ac2f96"
+            ]
+        }
+    ],
+    "grounding": {
+        "1ad97821-df68-430a-affe-ef4c4e177671": {
+            "box": {
+                "left": 0.10992753505706787,
+                "top": 0.08491364866495132,
+                "right": 0.8824127912521362,
+                "bottom": 0.1850948929786682
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11724628984418173,
+                "top": 0.09189966960901691,
+                "right": 0.87555006846992,
+                "bottom": 0.17948122679379575
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11724628984418173,
+                "top": 0.09189966960901691,
+                "right": 0.36799117585168517,
+                "bottom": 0.10955473777692348
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.36799117585168517,
+                "top": 0.09189966960901691,
+                "right": 0.6695885452115249,
+                "bottom": 0.10955473777692348
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6695885452115249,
+                "top": 0.09189966960901691,
+                "right": 0.8756049065276841,
+                "bottom": 0.10955473777692348
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.11724628984418173,
+                "top": 0.10955473777692348,
+                "right": 0.36799117585168517,
+                "bottom": 0.1270073195181587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.36799117585168517,
+                "top": 0.10955473777692348,
+                "right": 0.6695885452115249,
+                "bottom": 0.1270073195181587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6695885452115249,
+                "top": 0.10955473777692348,
+                "right": 0.8756049065276841,
+                "bottom": 0.1270073195181587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.11724628984418173,
+                "top": 0.1270073195181587,
+                "right": 0.36799117585168517,
+                "bottom": 0.1445855874829567
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.36799117585168517,
+                "top": 0.1270073195181587,
+                "right": 0.6695885452115249,
+                "bottom": 0.1445855874829567
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6695885452115249,
+                "top": 0.1270073195181587,
+                "right": 0.8756049065276841,
+                "bottom": 0.1445855874829567
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.11724628984418173,
+                "top": 0.1445855874829567,
+                "right": 0.36799117585168517,
+                "bottom": 0.16213473656188615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.36799117585168517,
+                "top": 0.1445855874829567,
+                "right": 0.6695885452115249,
+                "bottom": 0.16213473656188615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6695885452115249,
+                "top": 0.1445855874829567,
+                "right": 0.8756049065276841,
+                "bottom": 0.16213473656188615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.11724628984418173,
+                "top": 0.16213473656188615,
+                "right": 0.36799117585168517,
+                "bottom": 0.17948122679379575
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.36799117585168517,
+                "top": 0.16213473656188615,
+                "right": 0.6695885452115249,
+                "bottom": 0.17948122679379575
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6695885452115249,
+                "top": 0.16213473656188615,
+                "right": 0.8756049065276841,
+                "bottom": 0.17948122679379575
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "bbeee721-a52d-46de-a8a6-ebabd399b800": {
+            "box": {
+                "left": 0.11104726791381836,
+                "top": 0.46817243099212646,
+                "right": 0.8824704885482788,
+                "bottom": 0.9053606986999512
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.5301472850365592,
+                "right": 0.8753777348803169,
+                "bottom": 0.8991954515086533
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.5301472850365592,
+                "right": 0.36813558660496426,
+                "bottom": 0.5477550327622076
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.5301472850365592,
+                "right": 0.6695125552173877,
+                "bottom": 0.5477550327622076
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.5301472850365592,
+                "right": 0.8753332258463047,
+                "bottom": 0.5477550327622076
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.5477550327622076,
+                "right": 0.36813558660496426,
+                "bottom": 0.5653644742871968
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.5477550327622076,
+                "right": 0.6695125552173877,
+                "bottom": 0.5653644742871968
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.5477550327622076,
+                "right": 0.8753332258463047,
+                "bottom": 0.5653644742871968
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.5653644742871968,
+                "right": 0.36813558660496426,
+                "bottom": 0.5828409655931601
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.5653644742871968,
+                "right": 0.6695125552173877,
+                "bottom": 0.5828409655931601
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.5653644742871968,
+                "right": 0.8753332258463047,
+                "bottom": 0.5828409655931601
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.5828409655931601,
+                "right": 0.36813558660496426,
+                "bottom": 0.6004703288042421
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.5828409655931601,
+                "right": 0.6695125552173877,
+                "bottom": 0.6004703288042421
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.5828409655931601,
+                "right": 0.8753332258463047,
+                "bottom": 0.6004703288042421
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.6004703288042421,
+                "right": 0.36813558660496426,
+                "bottom": 0.6180993662846817
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.6004703288042421,
+                "right": 0.6695125552173877,
+                "bottom": 0.6180993662846817
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.6004703288042421,
+                "right": 0.8753332258463047,
+                "bottom": 0.6180993662846817
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.6180993662846817,
+                "right": 0.36813558660496426,
+                "bottom": 0.6355881702089299
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.6180993662846817,
+                "right": 0.6695125552173877,
+                "bottom": 0.6355881702089299
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.6180993662846817,
+                "right": 0.8753332258463047,
+                "bottom": 0.6355881702089299
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.6355881702089299,
+                "right": 0.36813558660496426,
+                "bottom": 0.6532060677013973
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.6355881702089299,
+                "right": 0.6695125552173877,
+                "bottom": 0.6532060677013973
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.6355881702089299,
+                "right": 0.8753332258463047,
+                "bottom": 0.6532060677013973
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.6532060677013973,
+                "right": 0.36813558660496426,
+                "bottom": 0.6708005777337362
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.6532060677013973,
+                "right": 0.6695125552173877,
+                "bottom": 0.6708005777337362
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.6532060677013973,
+                "right": 0.8753332258463047,
+                "bottom": 0.6708005777337362
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.6708005777337362,
+                "right": 0.36813558660496426,
+                "bottom": 0.6882523395693241
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.6708005777337362,
+                "right": 0.6695125552173877,
+                "bottom": 0.6882523395693241
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.6708005777337362,
+                "right": 0.8753332258463047,
+                "bottom": 0.6882523395693241
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.6882523395693241,
+                "right": 0.36813558660496426,
+                "bottom": 0.705904986006729
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.6882523395693241,
+                "right": 0.6695125552173877,
+                "bottom": 0.705904986006729
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.6882523395693241,
+                "right": 0.8753332258463047,
+                "bottom": 0.705904986006729
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.705904986006729,
+                "right": 0.36813558660496426,
+                "bottom": 0.7235424924838725
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.705904986006729,
+                "right": 0.6695125552173877,
+                "bottom": 0.7235424924838725
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.705904986006729,
+                "right": 0.8753332258463047,
+                "bottom": 0.7235424924838725
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.7235424924838725,
+                "right": 0.36813558660496426,
+                "bottom": 0.741035947841695
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.7235424924838725,
+                "right": 0.6695125552173877,
+                "bottom": 0.741035947841695
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.7235424924838725,
+                "right": 0.8753332258463047,
+                "bottom": 0.741035947841695
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.741035947841695,
+                "right": 0.36813558660496426,
+                "bottom": 0.7586261061126507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.741035947841695,
+                "right": 0.6695125552173877,
+                "bottom": 0.7586261061126507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.741035947841695,
+                "right": 0.8753332258463047,
+                "bottom": 0.7586261061126507
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.7586261061126507,
+                "right": 0.36813558660496426,
+                "bottom": 0.7763173711750255
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.7586261061126507,
+                "right": 0.6695125552173877,
+                "bottom": 0.7763173711750255
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.7586261061126507,
+                "right": 0.8753332258463047,
+                "bottom": 0.7763173711750255
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.7763173711750255,
+                "right": 0.36813558660496426,
+                "bottom": 0.7939685322807009
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.7763173711750255,
+                "right": 0.6695125552173877,
+                "bottom": 0.7939685322807009
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.7763173711750255,
+                "right": 0.8753332258463047,
+                "bottom": 0.7939685322807009
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.7939685322807009,
+                "right": 0.36813558660496426,
+                "bottom": 0.8114514860826105
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.7939685322807009,
+                "right": 0.6695125552173877,
+                "bottom": 0.8114514860826105
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.7939685322807009,
+                "right": 0.8753332258463047,
+                "bottom": 0.8114514860826105
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.8114514860826105,
+                "right": 0.36813558660496426,
+                "bottom": 0.8290315336744243
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.8114514860826105,
+                "right": 0.6695125552173877,
+                "bottom": 0.8290315336744243
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-16": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.8114514860826105,
+                "right": 0.8753332258463047,
+                "bottom": 0.8290315336744243
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-17": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.8290315336744243,
+                "right": 0.36813558660496426,
+                "bottom": 0.8466728968023745
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-18": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.8290315336744243,
+                "right": 0.6695125552173877,
+                "bottom": 0.8466728968023745
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-19": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.8290315336744243,
+                "right": 0.8753332258463047,
+                "bottom": 0.8466728968023745
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1a": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.8466728968023745,
+                "right": 0.36813558660496426,
+                "bottom": 0.8641188215448494
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1b": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.8466728968023745,
+                "right": 0.6695125552173877,
+                "bottom": 0.8641188215448494
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1c": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.8466728968023745,
+                "right": 0.8753332258463047,
+                "bottom": 0.8641188215448494
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1d": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.8641188215448494,
+                "right": 0.36813558660496426,
+                "bottom": 0.8816637423441804
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1e": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.8641188215448494,
+                "right": 0.6695125552173877,
+                "bottom": 0.8816637423441804
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1f": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.8641188215448494,
+                "right": 0.8753332258463047,
+                "bottom": 0.8816637423441804
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1g": {
+            "box": {
+                "left": 0.1177984079923643,
+                "top": 0.8816637423441804,
+                "right": 0.36813558660496426,
+                "bottom": 0.8991954515086533
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1h": {
+            "box": {
+                "left": 0.36813558660496426,
+                "top": 0.8816637423441804,
+                "right": 0.6695125552173877,
+                "bottom": 0.8991954515086533
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1i": {
+            "box": {
+                "left": 0.6695125552173877,
+                "top": 0.8816637423441804,
+                "right": 0.8753332258463047,
+                "bottom": 0.8991954515086533
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "1f33030f-7eee-47ae-a4d5-719bd7ac2f96": {
+            "box": {
+                "left": 0.2180178463459015,
+                "top": 0.9776243567466736,
+                "right": 0.7828307151794434,
+                "bottom": 0.9999498724937439
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "fsgj0223_10.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7739,
+        "credit_usage": 3.0,
+        "job_id": "u5rctmq2hfo3ho0ym0tklbha0",
+        "version": "dpt-2-20250919"
+    }
+}

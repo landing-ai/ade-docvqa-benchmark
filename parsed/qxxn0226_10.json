@@ -1,0 +1,353 @@
+{
+    "markdown": "<a id='7e710491-8342-4838-a004-710ee6ebbd40'></a>\n\nTable 12. Cemented revisions with and without antibiotics\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ANTIBIOTICS</td><td id=\"0-3\">Frequency</td><td id=\"0-4\">Percent</td></tr>\n<tr><td id=\"0-5\">Yes</td><td id=\"0-6\">785</td><td id=\"0-7\">86.5</td></tr>\n<tr><td id=\"0-8\">No</td><td id=\"0-9\">123</td><td id=\"0-a\">13.5</td></tr>\n</table>\nMissing information = 945\n\n<a id='3e00401c-9af6-47b3-8aac-2fe9a7b4c4e5'></a>\n\nFour weight bearing materials are mainly used in revisions, which are dominated by the classic combination of stainless steel/PE (Figure 11). Figure 12 shows a significant increase of the combination Co-Cr/PE at the cost of Alumina/PE since 2011.\n\n<a id='c3f1f6cb-64b4-4c1a-8724-e9270f778e72'></a>\n\nFigure 11. Weight bearing materials used in revisions\n\n<a id='d4850698-da87-46d6-af98-49168f633bd6'></a>\n\n<::Pie chart showing material compositions and their percentages:\n- Stainless steel/PE: 41.09%\n- Other: 1.72%\n- Alumina/Alumina: 10.02%\n- Alumina/PE: 17.83%\n- Cobalt-chrome/PE: 29.35%\n: chart::>\n\n<a id='480f2ec6-7df4-48bf-8d2b-55c35b851853'></a>\n\nFigure12. Weight bearing materials used in revisions: change over 5 years\n\n<a id='14acf33f-4d61-433f-a39d-f58fdf518f71'></a>\n\n<::Line chart showing the percentage of different bearing materials over the years from 2006 to 2013.\n\nY-axis: Percent\nX-axis: Year\n\nData Series:\n- **Stainless steel/PE**:\n  - 2006: 49%\n  - 2007: 37%\n  - 2008: 38%\n  - 2009: 40%\n  - 2010: 47%\n  - 2011: 45%\n  - 2012: 38%\n  - 2013: 39%\n- **Cobalt-chrome/PE**:\n  - 2006: 25%\n  - 2007: 29%\n  - 2008: 25%\n  - 2009: 27%\n  - 2010: 30%\n  - 2011: 28%\n  - 2012: 31%\n  - 2013: 32%\n- **Alumina/PE**:\n  - 2006: 17%\n  - 2007: 18%\n  - 2008: 25%\n  - 2009: 25%\n  - 2010: 13%\n  - 2011: 14%\n  - 2012: 19%\n  - 2013: 19%\n- **Alumina/Alumina**:\n  - 2006: 7%\n  - 2007: 13%\n  - 2008: 11%\n  - 2009: 7%\n  - 2010: 7%\n  - 2011: 14%\n  - 2012: 9%\n  - 2013: 9%\n- **Metal/Metal**:\n  - 2006: 1%\n  - 2007: 1%\n  - 2008: 2%\n  - 2009: 1%\n  - 2010: 1%\n  - 2011: 1%\n  - 2012: 1%\n  - 2013: 1%\n: chart::>\n\n<a id='708ef32b-7263-47aa-8ca5-b74c9f97ff91'></a>\n\nTHA SOFCOT Register, 2013 annual report\n\n<a id='8d1936e0-962b-46ba-893c-961bef9e9ab4'></a>\n\n<::logo: Unidentifiable\n10\nA black, textured rectangular shape with the number \"10\" in white.::>\n\n<a id='967a40c5-48b7-40ab-8fba-dd16726be282'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qxxn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='7e710491-8342-4838-a004-710ee6ebbd40'></a>\n\nTable 12. Cemented revisions with and without antibiotics\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ANTIBIOTICS</td><td id=\"0-3\">Frequency</td><td id=\"0-4\">Percent</td></tr>\n<tr><td id=\"0-5\">Yes</td><td id=\"0-6\">785</td><td id=\"0-7\">86.5</td></tr>\n<tr><td id=\"0-8\">No</td><td id=\"0-9\">123</td><td id=\"0-a\">13.5</td></tr>\n</table>\nMissing information = 945",
+            "type": "table",
+            "id": "7e710491-8342-4838-a004-710ee6ebbd40",
+            "grounding": {
+                "box": {
+                    "left": 0.3259243965148926,
+                    "top": 0.11199910938739777,
+                    "right": 0.6763931512832642,
+                    "bottom": 0.211552694439888
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3e00401c-9af6-47b3-8aac-2fe9a7b4c4e5'></a>\n\nFour weight bearing materials are mainly used in revisions, which are dominated by the classic combination of stainless steel/PE (Figure 11). Figure 12 shows a significant increase of the combination Co-Cr/PE at the cost of Alumina/PE since 2011.",
+            "type": "text",
+            "id": "3e00401c-9af6-47b3-8aac-2fe9a7b4c4e5",
+            "grounding": {
+                "box": {
+                    "left": 0.14482250809669495,
+                    "top": 0.2209339141845703,
+                    "right": 0.8299700021743774,
+                    "bottom": 0.26493823528289795
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c3f1f6cb-64b4-4c1a-8724-e9270f778e72'></a>\n\nFigure 11. Weight bearing materials used in revisions",
+            "type": "text",
+            "id": "c3f1f6cb-64b4-4c1a-8724-e9270f778e72",
+            "grounding": {
+                "box": {
+                    "left": 0.34370818734169006,
+                    "top": 0.272079735994339,
+                    "right": 0.6595399379730225,
+                    "bottom": 0.29142382740974426
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d4850698-da87-46d6-af98-49168f633bd6'></a>\n\n<::Pie chart showing material compositions and their percentages:\n- Stainless steel/PE: 41.09%\n- Other: 1.72%\n- Alumina/Alumina: 10.02%\n- Alumina/PE: 17.83%\n- Cobalt-chrome/PE: 29.35%\n: chart::>",
+            "type": "figure",
+            "id": "d4850698-da87-46d6-af98-49168f633bd6",
+            "grounding": {
+                "box": {
+                    "left": 0.37046125531196594,
+                    "top": 0.34210795164108276,
+                    "right": 0.669709324836731,
+                    "bottom": 0.5181128978729248
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='480f2ec6-7df4-48bf-8d2b-55c35b851853'></a>\n\nFigure12. Weight bearing materials used in revisions: change over 5 years",
+            "type": "text",
+            "id": "480f2ec6-7df4-48bf-8d2b-55c35b851853",
+            "grounding": {
+                "box": {
+                    "left": 0.28427642583847046,
+                    "top": 0.5643206238746643,
+                    "right": 0.7185900807380676,
+                    "bottom": 0.5846830010414124
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='14acf33f-4d61-433f-a39d-f58fdf518f71'></a>\n\n<::Line chart showing the percentage of different bearing materials over the years from 2006 to 2013.\n\nY-axis: Percent\nX-axis: Year\n\nData Series:\n- **Stainless steel/PE**:\n  - 2006: 49%\n  - 2007: 37%\n  - 2008: 38%\n  - 2009: 40%\n  - 2010: 47%\n  - 2011: 45%\n  - 2012: 38%\n  - 2013: 39%\n- **Cobalt-chrome/PE**:\n  - 2006: 25%\n  - 2007: 29%\n  - 2008: 25%\n  - 2009: 27%\n  - 2010: 30%\n  - 2011: 28%\n  - 2012: 31%\n  - 2013: 32%\n- **Alumina/PE**:\n  - 2006: 17%\n  - 2007: 18%\n  - 2008: 25%\n  - 2009: 25%\n  - 2010: 13%\n  - 2011: 14%\n  - 2012: 19%\n  - 2013: 19%\n- **Alumina/Alumina**:\n  - 2006: 7%\n  - 2007: 13%\n  - 2008: 11%\n  - 2009: 7%\n  - 2010: 7%\n  - 2011: 14%\n  - 2012: 9%\n  - 2013: 9%\n- **Metal/Metal**:\n  - 2006: 1%\n  - 2007: 1%\n  - 2008: 2%\n  - 2009: 1%\n  - 2010: 1%\n  - 2011: 1%\n  - 2012: 1%\n  - 2013: 1%\n: chart::>",
+            "type": "figure",
+            "id": "14acf33f-4d61-433f-a39d-f58fdf518f71",
+            "grounding": {
+                "box": {
+                    "left": 0.27112579345703125,
+                    "top": 0.6151944398880005,
+                    "right": 0.7302902936935425,
+                    "bottom": 0.8869056701660156
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='708ef32b-7263-47aa-8ca5-b74c9f97ff91'></a>\n\nTHA SOFCOT Register, 2013 annual report",
+            "type": "marginalia",
+            "id": "708ef32b-7263-47aa-8ca5-b74c9f97ff91",
+            "grounding": {
+                "box": {
+                    "left": 0.14628590643405914,
+                    "top": 0.922646701335907,
+                    "right": 0.36645931005477905,
+                    "bottom": 0.9403489232063293
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8d1936e0-962b-46ba-893c-961bef9e9ab4'></a>\n\n<::logo: Unidentifiable\n10\nA black, textured rectangular shape with the number \"10\" in white.::>",
+            "type": "logo",
+            "id": "8d1936e0-962b-46ba-893c-961bef9e9ab4",
+            "grounding": {
+                "box": {
+                    "left": 0.7836028933525085,
+                    "top": 0.9208769202232361,
+                    "right": 0.8393390774726868,
+                    "bottom": 0.9472747445106506
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='967a40c5-48b7-40ab-8fba-dd16726be282'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qxxn0226",
+            "type": "marginalia",
+            "id": "967a40c5-48b7-40ab-8fba-dd16726be282",
+            "grounding": {
+                "box": {
+                    "left": 0.2148739993572235,
+                    "top": 0.9782165884971619,
+                    "right": 0.7847479581832886,
+                    "bottom": 0.9996481537818909
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='7e710491-8342-4838-a004-710ee6ebbd40'></a>\n\nTable 12. Cemented revisions with and without antibiotics\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ANTIBIOTICS</td><td id=\"0-3\">Frequency</td><td id=\"0-4\">Percent</td></tr>\n<tr><td id=\"0-5\">Yes</td><td id=\"0-6\">785</td><td id=\"0-7\">86.5</td></tr>\n<tr><td id=\"0-8\">No</td><td id=\"0-9\">123</td><td id=\"0-a\">13.5</td></tr>\n</table>\nMissing information = 945\n\n<a id='3e00401c-9af6-47b3-8aac-2fe9a7b4c4e5'></a>\n\nFour weight bearing materials are mainly used in revisions, which are dominated by the classic combination of stainless steel/PE (Figure 11). Figure 12 shows a significant increase of the combination Co-Cr/PE at the cost of Alumina/PE since 2011.\n\n<a id='c3f1f6cb-64b4-4c1a-8724-e9270f778e72'></a>\n\nFigure 11. Weight bearing materials used in revisions\n\n<a id='d4850698-da87-46d6-af98-49168f633bd6'></a>\n\n<::Pie chart showing material compositions and their percentages:\n- Stainless steel/PE: 41.09%\n- Other: 1.72%\n- Alumina/Alumina: 10.02%\n- Alumina/PE: 17.83%\n- Cobalt-chrome/PE: 29.35%\n: chart::>\n\n<a id='480f2ec6-7df4-48bf-8d2b-55c35b851853'></a>\n\nFigure12. Weight bearing materials used in revisions: change over 5 years\n\n<a id='14acf33f-4d61-433f-a39d-f58fdf518f71'></a>\n\n<::Line chart showing the percentage of different bearing materials over the years from 2006 to 2013.\n\nY-axis: Percent\nX-axis: Year\n\nData Series:\n- **Stainless steel/PE**:\n  - 2006: 49%\n  - 2007: 37%\n  - 2008: 38%\n  - 2009: 40%\n  - 2010: 47%\n  - 2011: 45%\n  - 2012: 38%\n  - 2013: 39%\n- **Cobalt-chrome/PE**:\n  - 2006: 25%\n  - 2007: 29%\n  - 2008: 25%\n  - 2009: 27%\n  - 2010: 30%\n  - 2011: 28%\n  - 2012: 31%\n  - 2013: 32%\n- **Alumina/PE**:\n  - 2006: 17%\n  - 2007: 18%\n  - 2008: 25%\n  - 2009: 25%\n  - 2010: 13%\n  - 2011: 14%\n  - 2012: 19%\n  - 2013: 19%\n- **Alumina/Alumina**:\n  - 2006: 7%\n  - 2007: 13%\n  - 2008: 11%\n  - 2009: 7%\n  - 2010: 7%\n  - 2011: 14%\n  - 2012: 9%\n  - 2013: 9%\n- **Metal/Metal**:\n  - 2006: 1%\n  - 2007: 1%\n  - 2008: 2%\n  - 2009: 1%\n  - 2010: 1%\n  - 2011: 1%\n  - 2012: 1%\n  - 2013: 1%\n: chart::>\n\n<a id='708ef32b-7263-47aa-8ca5-b74c9f97ff91'></a>\n\nTHA SOFCOT Register, 2013 annual report\n\n<a id='8d1936e0-962b-46ba-893c-961bef9e9ab4'></a>\n\n<::logo: Unidentifiable\n10\nA black, textured rectangular shape with the number \"10\" in white.::>\n\n<a id='967a40c5-48b7-40ab-8fba-dd16726be282'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qxxn0226",
+            "chunks": [
+                "7e710491-8342-4838-a004-710ee6ebbd40",
+                "3e00401c-9af6-47b3-8aac-2fe9a7b4c4e5",
+                "c3f1f6cb-64b4-4c1a-8724-e9270f778e72",
+                "d4850698-da87-46d6-af98-49168f633bd6",
+                "480f2ec6-7df4-48bf-8d2b-55c35b851853",
+                "14acf33f-4d61-433f-a39d-f58fdf518f71",
+                "708ef32b-7263-47aa-8ca5-b74c9f97ff91",
+                "8d1936e0-962b-46ba-893c-961bef9e9ab4",
+                "967a40c5-48b7-40ab-8fba-dd16726be282"
+            ]
+        }
+    ],
+    "grounding": {
+        "7e710491-8342-4838-a004-710ee6ebbd40": {
+            "box": {
+                "left": 0.3259243965148926,
+                "top": 0.11199910938739777,
+                "right": 0.6763931512832642,
+                "bottom": 0.211552694439888
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.3609478135317632,
+                "top": 0.14188149529333316,
+                "right": 0.6424578847961868,
+                "bottom": 0.18313110225511764
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.3609478135317632,
+                "top": 0.14188149529333316,
+                "right": 0.46148069425517946,
+                "bottom": 0.15573077417138848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.46148069425517946,
+                "top": 0.14188149529333316,
+                "right": 0.5520329295873836,
+                "bottom": 0.15573077417138848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5520329295873836,
+                "top": 0.14188149529333316,
+                "right": 0.6424432829898095,
+                "bottom": 0.15573077417138848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.3609478135317632,
+                "top": 0.15573077417138848,
+                "right": 0.46148069425517946,
+                "bottom": 0.16926176397660697
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.46148069425517946,
+                "top": 0.15573077417138848,
+                "right": 0.5520329295873836,
+                "bottom": 0.16926176397660697
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5520329295873836,
+                "top": 0.15573077417138848,
+                "right": 0.6424432829898095,
+                "bottom": 0.16926176397660697
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.3609478135317632,
+                "top": 0.16926176397660697,
+                "right": 0.46148069425517946,
+                "bottom": 0.18313110225511764
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.46148069425517946,
+                "top": 0.16926176397660697,
+                "right": 0.5520329295873836,
+                "bottom": 0.18313110225511764
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5520329295873836,
+                "top": 0.16926176397660697,
+                "right": 0.6424432829898095,
+                "bottom": 0.18313110225511764
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "3e00401c-9af6-47b3-8aac-2fe9a7b4c4e5": {
+            "box": {
+                "left": 0.14482250809669495,
+                "top": 0.2209339141845703,
+                "right": 0.8299700021743774,
+                "bottom": 0.26493823528289795
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c3f1f6cb-64b4-4c1a-8724-e9270f778e72": {
+            "box": {
+                "left": 0.34370818734169006,
+                "top": 0.272079735994339,
+                "right": 0.6595399379730225,
+                "bottom": 0.29142382740974426
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d4850698-da87-46d6-af98-49168f633bd6": {
+            "box": {
+                "left": 0.37046125531196594,
+                "top": 0.34210795164108276,
+                "right": 0.669709324836731,
+                "bottom": 0.5181128978729248
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "480f2ec6-7df4-48bf-8d2b-55c35b851853": {
+            "box": {
+                "left": 0.28427642583847046,
+                "top": 0.5643206238746643,
+                "right": 0.7185900807380676,
+                "bottom": 0.5846830010414124
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "14acf33f-4d61-433f-a39d-f58fdf518f71": {
+            "box": {
+                "left": 0.27112579345703125,
+                "top": 0.6151944398880005,
+                "right": 0.7302902936935425,
+                "bottom": 0.8869056701660156
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "708ef32b-7263-47aa-8ca5-b74c9f97ff91": {
+            "box": {
+                "left": 0.14628590643405914,
+                "top": 0.922646701335907,
+                "right": 0.36645931005477905,
+                "bottom": 0.9403489232063293
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "8d1936e0-962b-46ba-893c-961bef9e9ab4": {
+            "box": {
+                "left": 0.7836028933525085,
+                "top": 0.9208769202232361,
+                "right": 0.8393390774726868,
+                "bottom": 0.9472747445106506
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "967a40c5-48b7-40ab-8fba-dd16726be282": {
+            "box": {
+                "left": 0.2148739993572235,
+                "top": 0.9782165884971619,
+                "right": 0.7847479581832886,
+                "bottom": 0.9996481537818909
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "qxxn0226_10.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 18111,
+        "credit_usage": 3.0,
+        "job_id": "fw36a1d7pskq1on2rspi2upqa",
+        "version": "dpt-2-20250919"
+    }
+}

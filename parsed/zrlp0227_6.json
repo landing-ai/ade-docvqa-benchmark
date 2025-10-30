@@ -1,0 +1,928 @@
+{
+    "markdown": "<a id='adbcda89-429b-4b0a-907a-aedd53caaab1'></a>\n\nDays Worked\nSaturday Sunday\n\n<a id='bc0cc0a7-c144-449d-a6e3-dd98f0a1ed11'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE, 1975</td><td id=\"0-3\">Outside N.Y.</td><td id=\"0-4\">Vacation</td><td id=\"0-5\">Holiday</td><td id=\"0-6\">Location</td><td id=\"0-7\">Nature of Duties</td></tr>\n<tr><td id=\"0-8\">March 1,2</td><td id=\"0-9\"></td><td id=\"0-a\">2</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">March 6</td><td id=\"0-f\">1</td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\">Washington, D.C.</td><td id=\"0-j\">Nutrition Foundation Office</td></tr>\n<tr><td id=\"0-k\">March 7</td><td id=\"0-l\">1</td><td id=\"0-m\"></td><td id=\"0-n\"></td><td id=\"0-o\">Jacksonville, Fla.</td><td id=\"0-p\">Program in Nutrition & Clinical Medicine</td></tr>\n<tr><td id=\"0-q\">March 8,9</td><td id=\"0-r\"></td><td id=\"0-s\">2</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">March 10</td><td id=\"0-x\">1</td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\">Albuquerque, N.M.</td><td id=\"0-B\">Navajo Health Authority, Board</td></tr>\n<tr><td id=\"0-C\">March 11</td><td id=\"0-D\">1</td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\">Omaha, Nebraska</td><td id=\"0-H\">Swanson Center for Nutrition</td></tr>\n<tr><td id=\"0-I\">March 13 & 14</td><td id=\"0-J\">2</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\">Washington, D.C.</td><td id=\"0-N\">CODEX Food Chemicals, NAS & NE</td></tr>\n<tr><td id=\"0-O\">March 15 & 16</td><td id=\"0-P\"></td><td id=\"0-Q\">2</td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td></tr>\n<tr><td id=\"0-U\">March 17 & 18</td><td id=\"0-V\">2</td><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\">East Lansing, Mich.</td><td id=\"0-Z\">Mich.Stat.U. \"Risk/Benefit\"</td></tr>\n<tr><td id=\"0-10\">March 19 & 20</td><td id=\"0-11\">2</td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\">Washington, D.C.</td><td id=\"0-15\">Nat.Nutr.Consort.HMAC; NF</td></tr>\n<tr><td id=\"0-16\">March 24 & 25</td><td id=\"0-17\">2</td><td id=\"0-18\"></td><td id=\"0-19\"></td><td id=\"0-1a\">Washington, D.C.</td><td id=\"0-1b\">NAS Sweeteners Forum; NF</td></tr>\n<tr><td id=\"0-1c\">March 26</td><td id=\"0-1d\">1</td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\">Bethesda, Md.</td><td id=\"0-1h\">NCI \"Workshop\" NIH</td></tr>\n<tr><td id=\"0-1i\">March 28 TOTAL</td><td id=\"0-1j\">13</td><td id=\"0-1k\">6</td><td id=\"0-1l\">1\n1</td><td id=\"0-1m\"></td><td id=\"0-1n\"></td></tr>\n</table>",
+    "chunks": [
+        {
+            "markdown": "<a id='adbcda89-429b-4b0a-907a-aedd53caaab1'></a>\n\nDays Worked\nSaturday Sunday",
+            "type": "text",
+            "id": "adbcda89-429b-4b0a-907a-aedd53caaab1",
+            "grounding": {
+                "box": {
+                    "left": 0.25220996141433716,
+                    "top": 0.04346606507897377,
+                    "right": 0.4406402111053467,
+                    "bottom": 0.09099441766738892
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bc0cc0a7-c144-449d-a6e3-dd98f0a1ed11'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE, 1975</td><td id=\"0-3\">Outside N.Y.</td><td id=\"0-4\">Vacation</td><td id=\"0-5\">Holiday</td><td id=\"0-6\">Location</td><td id=\"0-7\">Nature of Duties</td></tr>\n<tr><td id=\"0-8\">March 1,2</td><td id=\"0-9\"></td><td id=\"0-a\">2</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">March 6</td><td id=\"0-f\">1</td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\">Washington, D.C.</td><td id=\"0-j\">Nutrition Foundation Office</td></tr>\n<tr><td id=\"0-k\">March 7</td><td id=\"0-l\">1</td><td id=\"0-m\"></td><td id=\"0-n\"></td><td id=\"0-o\">Jacksonville, Fla.</td><td id=\"0-p\">Program in Nutrition & Clinical Medicine</td></tr>\n<tr><td id=\"0-q\">March 8,9</td><td id=\"0-r\"></td><td id=\"0-s\">2</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">March 10</td><td id=\"0-x\">1</td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\">Albuquerque, N.M.</td><td id=\"0-B\">Navajo Health Authority, Board</td></tr>\n<tr><td id=\"0-C\">March 11</td><td id=\"0-D\">1</td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\">Omaha, Nebraska</td><td id=\"0-H\">Swanson Center for Nutrition</td></tr>\n<tr><td id=\"0-I\">March 13 & 14</td><td id=\"0-J\">2</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\">Washington, D.C.</td><td id=\"0-N\">CODEX Food Chemicals, NAS & NE</td></tr>\n<tr><td id=\"0-O\">March 15 & 16</td><td id=\"0-P\"></td><td id=\"0-Q\">2</td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td></tr>\n<tr><td id=\"0-U\">March 17 & 18</td><td id=\"0-V\">2</td><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\">East Lansing, Mich.</td><td id=\"0-Z\">Mich.Stat.U. \"Risk/Benefit\"</td></tr>\n<tr><td id=\"0-10\">March 19 & 20</td><td id=\"0-11\">2</td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\">Washington, D.C.</td><td id=\"0-15\">Nat.Nutr.Consort.HMAC; NF</td></tr>\n<tr><td id=\"0-16\">March 24 & 25</td><td id=\"0-17\">2</td><td id=\"0-18\"></td><td id=\"0-19\"></td><td id=\"0-1a\">Washington, D.C.</td><td id=\"0-1b\">NAS Sweeteners Forum; NF</td></tr>\n<tr><td id=\"0-1c\">March 26</td><td id=\"0-1d\">1</td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\">Bethesda, Md.</td><td id=\"0-1h\">NCI \"Workshop\" NIH</td></tr>\n<tr><td id=\"0-1i\">March 28 TOTAL</td><td id=\"0-1j\">13</td><td id=\"0-1k\">6</td><td id=\"0-1l\">1\n1</td><td id=\"0-1m\"></td><td id=\"0-1n\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "bc0cc0a7-c144-449d-a6e3-dd98f0a1ed11",
+            "grounding": {
+                "box": {
+                    "left": 0.05908036231994629,
+                    "top": 0.08463272452354431,
+                    "right": 0.9995907545089722,
+                    "bottom": 0.6468509435653687
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='adbcda89-429b-4b0a-907a-aedd53caaab1'></a>\n\nDays Worked\nSaturday Sunday\n\n<a id='bc0cc0a7-c144-449d-a6e3-dd98f0a1ed11'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE, 1975</td><td id=\"0-3\">Outside N.Y.</td><td id=\"0-4\">Vacation</td><td id=\"0-5\">Holiday</td><td id=\"0-6\">Location</td><td id=\"0-7\">Nature of Duties</td></tr>\n<tr><td id=\"0-8\">March 1,2</td><td id=\"0-9\"></td><td id=\"0-a\">2</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">March 6</td><td id=\"0-f\">1</td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\">Washington, D.C.</td><td id=\"0-j\">Nutrition Foundation Office</td></tr>\n<tr><td id=\"0-k\">March 7</td><td id=\"0-l\">1</td><td id=\"0-m\"></td><td id=\"0-n\"></td><td id=\"0-o\">Jacksonville, Fla.</td><td id=\"0-p\">Program in Nutrition & Clinical Medicine</td></tr>\n<tr><td id=\"0-q\">March 8,9</td><td id=\"0-r\"></td><td id=\"0-s\">2</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">March 10</td><td id=\"0-x\">1</td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\">Albuquerque, N.M.</td><td id=\"0-B\">Navajo Health Authority, Board</td></tr>\n<tr><td id=\"0-C\">March 11</td><td id=\"0-D\">1</td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\">Omaha, Nebraska</td><td id=\"0-H\">Swanson Center for Nutrition</td></tr>\n<tr><td id=\"0-I\">March 13 & 14</td><td id=\"0-J\">2</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\">Washington, D.C.</td><td id=\"0-N\">CODEX Food Chemicals, NAS & NE</td></tr>\n<tr><td id=\"0-O\">March 15 & 16</td><td id=\"0-P\"></td><td id=\"0-Q\">2</td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td></tr>\n<tr><td id=\"0-U\">March 17 & 18</td><td id=\"0-V\">2</td><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\">East Lansing, Mich.</td><td id=\"0-Z\">Mich.Stat.U. \"Risk/Benefit\"</td></tr>\n<tr><td id=\"0-10\">March 19 & 20</td><td id=\"0-11\">2</td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\">Washington, D.C.</td><td id=\"0-15\">Nat.Nutr.Consort.HMAC; NF</td></tr>\n<tr><td id=\"0-16\">March 24 & 25</td><td id=\"0-17\">2</td><td id=\"0-18\"></td><td id=\"0-19\"></td><td id=\"0-1a\">Washington, D.C.</td><td id=\"0-1b\">NAS Sweeteners Forum; NF</td></tr>\n<tr><td id=\"0-1c\">March 26</td><td id=\"0-1d\">1</td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\">Bethesda, Md.</td><td id=\"0-1h\">NCI \"Workshop\" NIH</td></tr>\n<tr><td id=\"0-1i\">March 28 TOTAL</td><td id=\"0-1j\">13</td><td id=\"0-1k\">6</td><td id=\"0-1l\">1\n1</td><td id=\"0-1m\"></td><td id=\"0-1n\"></td></tr>\n</table>",
+            "chunks": [
+                "adbcda89-429b-4b0a-907a-aedd53caaab1",
+                "bc0cc0a7-c144-449d-a6e3-dd98f0a1ed11"
+            ]
+        }
+    ],
+    "grounding": {
+        "adbcda89-429b-4b0a-907a-aedd53caaab1": {
+            "box": {
+                "left": 0.25220996141433716,
+                "top": 0.04346606507897377,
+                "right": 0.4406402111053467,
+                "bottom": 0.09099441766738892
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bc0cc0a7-c144-449d-a6e3-dd98f0a1ed11": {
+            "box": {
+                "left": 0.05908036231994629,
+                "top": 0.08463272452354431,
+                "right": 0.9995907545089722,
+                "bottom": 0.6468509435653687
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.08493805601125194,
+                "right": 0.9942504822623306,
+                "bottom": 0.6468454477913426
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.08493805601125194,
+                "right": 0.17313277902062296,
+                "bottom": 0.10962042982290199
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.08493805601125194,
+                "right": 0.34934528187617175,
+                "bottom": 0.10962042982290199
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.08493805601125194,
+                "right": 0.44104910601319247,
+                "bottom": 0.10962042982290199
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.08493805601125194,
+                "right": 0.5415942699028449,
+                "bottom": 0.10962042982290199
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.08493805601125194,
+                "right": 0.7115297581670461,
+                "bottom": 0.10962042982290199
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.08493805601125194,
+                "right": 0.9940851648970082,
+                "bottom": 0.10962042982290199
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.10962042982290199,
+                "right": 0.17313277902062296,
+                "bottom": 0.16309691237392077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.10962042982290199,
+                "right": 0.34934528187617175,
+                "bottom": 0.16309691237392077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.10962042982290199,
+                "right": 0.44104910601319247,
+                "bottom": 0.16309691237392077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.10962042982290199,
+                "right": 0.5415942699028449,
+                "bottom": 0.16309691237392077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.10962042982290199,
+                "right": 0.7115297581670461,
+                "bottom": 0.16309691237392077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.10962042982290199,
+                "right": 0.9940851648970082,
+                "bottom": 0.16309691237392077
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.16309691237392077,
+                "right": 0.17313277902062296,
+                "bottom": 0.20269863899088492
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.16309691237392077,
+                "right": 0.34934528187617175,
+                "bottom": 0.20269863899088492
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.16309691237392077,
+                "right": 0.44104910601319247,
+                "bottom": 0.20269863899088492
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.16309691237392077,
+                "right": 0.5415942699028449,
+                "bottom": 0.20269863899088492
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.16309691237392077,
+                "right": 0.7115297581670461,
+                "bottom": 0.20269863899088492
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.16309691237392077,
+                "right": 0.9940851648970082,
+                "bottom": 0.20269863899088492
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.20269863899088492,
+                "right": 0.17313277902062296,
+                "bottom": 0.2553032329103031
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.20269863899088492,
+                "right": 0.34934528187617175,
+                "bottom": 0.2553032329103031
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.20269863899088492,
+                "right": 0.44104910601319247,
+                "bottom": 0.2553032329103031
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.20269863899088492,
+                "right": 0.5415942699028449,
+                "bottom": 0.2553032329103031
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.20269863899088492,
+                "right": 0.7115297581670461,
+                "bottom": 0.2553032329103031
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.20269863899088492,
+                "right": 0.9940851648970082,
+                "bottom": 0.2553032329103031
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.2553032329103031,
+                "right": 0.17313277902062296,
+                "bottom": 0.2894419590804329
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.2553032329103031,
+                "right": 0.34934528187617175,
+                "bottom": 0.2894419590804329
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.2553032329103031,
+                "right": 0.44104910601319247,
+                "bottom": 0.2894419590804329
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.2553032329103031,
+                "right": 0.5415942699028449,
+                "bottom": 0.2894419590804329
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.2553032329103031,
+                "right": 0.7115297581670461,
+                "bottom": 0.2894419590804329
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.2553032329103031,
+                "right": 0.9940851648970082,
+                "bottom": 0.2894419590804329
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.2894419590804329,
+                "right": 0.17313277902062296,
+                "bottom": 0.324833839016371
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.2894419590804329,
+                "right": 0.34934528187617175,
+                "bottom": 0.324833839016371
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.2894419590804329,
+                "right": 0.44104910601319247,
+                "bottom": 0.324833839016371
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.2894419590804329,
+                "right": 0.5415942699028449,
+                "bottom": 0.324833839016371
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.2894419590804329,
+                "right": 0.7115297581670461,
+                "bottom": 0.324833839016371
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.2894419590804329,
+                "right": 0.9940851648970082,
+                "bottom": 0.324833839016371
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.324833839016371,
+                "right": 0.17313277902062296,
+                "bottom": 0.3623084329987014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.324833839016371,
+                "right": 0.34934528187617175,
+                "bottom": 0.3623084329987014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.324833839016371,
+                "right": 0.44104910601319247,
+                "bottom": 0.3623084329987014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.324833839016371,
+                "right": 0.5415942699028449,
+                "bottom": 0.3623084329987014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.324833839016371,
+                "right": 0.7115297581670461,
+                "bottom": 0.3623084329987014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.324833839016371,
+                "right": 0.9940851648970082,
+                "bottom": 0.3623084329987014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.3623084329987014,
+                "right": 0.17313277902062296,
+                "bottom": 0.40017289182871174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.3623084329987014,
+                "right": 0.34934528187617175,
+                "bottom": 0.40017289182871174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.3623084329987014,
+                "right": 0.44104910601319247,
+                "bottom": 0.40017289182871174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.3623084329987014,
+                "right": 0.5415942699028449,
+                "bottom": 0.40017289182871174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.3623084329987014,
+                "right": 0.7115297581670461,
+                "bottom": 0.40017289182871174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.3623084329987014,
+                "right": 0.9940851648970082,
+                "bottom": 0.40017289182871174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.40017289182871174,
+                "right": 0.17313277902062296,
+                "bottom": 0.4394712282618638
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.40017289182871174,
+                "right": 0.34934528187617175,
+                "bottom": 0.4394712282618638
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.40017289182871174,
+                "right": 0.44104910601319247,
+                "bottom": 0.4394712282618638
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.40017289182871174,
+                "right": 0.5415942699028449,
+                "bottom": 0.4394712282618638
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.40017289182871174,
+                "right": 0.7115297581670461,
+                "bottom": 0.4394712282618638
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.40017289182871174,
+                "right": 0.9940851648970082,
+                "bottom": 0.4394712282618638
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.4394712282618638,
+                "right": 0.17313277902062296,
+                "bottom": 0.47807116575307873
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.4394712282618638,
+                "right": 0.34934528187617175,
+                "bottom": 0.47807116575307873
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.4394712282618638,
+                "right": 0.44104910601319247,
+                "bottom": 0.47807116575307873
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.4394712282618638,
+                "right": 0.5415942699028449,
+                "bottom": 0.47807116575307873
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.4394712282618638,
+                "right": 0.7115297581670461,
+                "bottom": 0.47807116575307873
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.4394712282618638,
+                "right": 0.9940851648970082,
+                "bottom": 0.47807116575307873
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.47807116575307873,
+                "right": 0.17313277902062296,
+                "bottom": 0.5182473180436293
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.47807116575307873,
+                "right": 0.34934528187617175,
+                "bottom": 0.5182473180436293
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.47807116575307873,
+                "right": 0.44104910601319247,
+                "bottom": 0.5182473180436293
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.47807116575307873,
+                "right": 0.5415942699028449,
+                "bottom": 0.5182473180436293
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.47807116575307873,
+                "right": 0.7115297581670461,
+                "bottom": 0.5182473180436293
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.47807116575307873,
+                "right": 0.9940851648970082,
+                "bottom": 0.5182473180436293
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-16": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.5182473180436293,
+                "right": 0.17313277902062296,
+                "bottom": 0.5559972536557485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-17": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.5182473180436293,
+                "right": 0.34934528187617175,
+                "bottom": 0.5559972536557485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-18": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.5182473180436293,
+                "right": 0.44104910601319247,
+                "bottom": 0.5559972536557485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-19": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.5182473180436293,
+                "right": 0.5415942699028449,
+                "bottom": 0.5559972536557485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1a": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.5182473180436293,
+                "right": 0.7115297581670461,
+                "bottom": 0.5559972536557485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1b": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.5182473180436293,
+                "right": 0.9940851648970082,
+                "bottom": 0.5559972536557485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1c": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.5559972536557485,
+                "right": 0.17313277902062296,
+                "bottom": 0.5941375232669888
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1d": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.5559972536557485,
+                "right": 0.34934528187617175,
+                "bottom": 0.5941375232669888
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1e": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.5559972536557485,
+                "right": 0.44104910601319247,
+                "bottom": 0.5941375232669888
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1f": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.5559972536557485,
+                "right": 0.5415942699028449,
+                "bottom": 0.5941375232669888
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1g": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.5559972536557485,
+                "right": 0.7115297581670461,
+                "bottom": 0.5941375232669888
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1h": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.5559972536557485,
+                "right": 0.9940851648970082,
+                "bottom": 0.5941375232669888
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1i": {
+            "box": {
+                "left": 0.06305882646313066,
+                "top": 0.5941375232669888,
+                "right": 0.17313277902062296,
+                "bottom": 0.6468454477913426
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1j": {
+            "box": {
+                "left": 0.17313277902062296,
+                "top": 0.5941375232669888,
+                "right": 0.34934528187617175,
+                "bottom": 0.6468454477913426
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1k": {
+            "box": {
+                "left": 0.34934528187617175,
+                "top": 0.5941375232669888,
+                "right": 0.44104910601319247,
+                "bottom": 0.6468454477913426
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1l": {
+            "box": {
+                "left": 0.44104910601319247,
+                "top": 0.5941375232669888,
+                "right": 0.5415942699028449,
+                "bottom": 0.6468454477913426
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1m": {
+            "box": {
+                "left": 0.5415942699028449,
+                "top": 0.5941375232669888,
+                "right": 0.7115297581670461,
+                "bottom": 0.6468454477913426
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1n": {
+            "box": {
+                "left": 0.7115297581670461,
+                "top": 0.5941375232669888,
+                "right": 0.9940851648970082,
+                "bottom": 0.6468454477913426
+            },
+            "page": 0,
+            "type": "tableCell"
+        }
+    },
+    "metadata": {
+        "filename": "zrlp0227_6.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6794,
+        "credit_usage": 3.0,
+        "job_id": "f2tjwuscd15e4ogyf89s6bl4v",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='8dfb0d72-1812-4cc5-a5f3-3bcc39518375'></a>\n\nMay 15, 1940\n\n<a id='880fa196-704e-475c-b3a6-525be62bad15'></a>\n\n<::attestation: Handwritten mark and checkmark\nStatus: Approved/Validated (implied by checkmark)\nSignature: illegible (stylized mark resembling an initial)\nReadable Text: 1940\nDescription: A large, stylized handwritten mark, possibly an initial, with a line through it, and a distinct checkmark next to it, positioned centrally on a document with faint grid lines and the partial number \"1940\" at the top left.::>\n\n<a id='eca7dac1-b260-46ba-9e40-8e8e351ab614'></a>\n\nDear Manolo,\n\nReferring to my letter earlier today, enclosed is\ncopy of my letter to Paul Woehrle this afternoon.\n\n<a id='5b7db13f-81c0-48da-9d06-177636d3a3be'></a>\n\nYours sincerely,\n\n<a id='8013217c-3015-471e-a7c7-502d31e6257a'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: ETCBWAR\nA handwritten signature is positioned at the top, above vertically stacked text 'ETCBWAR' with horizontal lines next to each letter.::>\n\n<a id='d9968108-bf95-42c9-acbe-1cd455457152'></a>\n\nMr. Manuel E. Rionda\nNew York, N. Y.\n\n<a id='08e750a8-676a-423b-9b37-4c87b94cc98d'></a>\n\nLouis V. Place Jr.\nHB\n\n<a id='8b487e87-970d-4248-adb8-c7a2bee73eca'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hmwl0226",
+    "chunks": [
+        {
+            "markdown": "<a id='8dfb0d72-1812-4cc5-a5f3-3bcc39518375'></a>\n\nMay 15, 1940",
+            "type": "text",
+            "id": "8dfb0d72-1812-4cc5-a5f3-3bcc39518375",
+            "grounding": {
+                "box": {
+                    "left": 0.705905020236969,
+                    "top": 0.18723054230213165,
+                    "right": 0.8682847619056702,
+                    "bottom": 0.2174385040998459
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='880fa196-704e-475c-b3a6-525be62bad15'></a>\n\n<::attestation: Handwritten mark and checkmark\nStatus: Approved/Validated (implied by checkmark)\nSignature: illegible (stylized mark resembling an initial)\nReadable Text: 1940\nDescription: A large, stylized handwritten mark, possibly an initial, with a line through it, and a distinct checkmark next to it, positioned centrally on a document with faint grid lines and the partial number \"1940\" at the top left.::>",
+            "type": "attestation",
+            "id": "880fa196-704e-475c-b3a6-525be62bad15",
+            "grounding": {
+                "box": {
+                    "left": 0.815667450428009,
+                    "top": 0.1984885334968567,
+                    "right": 0.9994117617607117,
+                    "bottom": 0.3716713786125183
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='eca7dac1-b260-46ba-9e40-8e8e351ab614'></a>\n\nDear Manolo,\n\nReferring to my letter earlier today, enclosed is\ncopy of my letter to Paul Woehrle this afternoon.",
+            "type": "text",
+            "id": "eca7dac1-b260-46ba-9e40-8e8e351ab614",
+            "grounding": {
+                "box": {
+                    "left": 0.11008670926094055,
+                    "top": 0.3306598961353302,
+                    "right": 0.8538700342178345,
+                    "bottom": 0.4050903022289276
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5b7db13f-81c0-48da-9d06-177636d3a3be'></a>\n\nYours sincerely,",
+            "type": "text",
+            "id": "5b7db13f-81c0-48da-9d06-177636d3a3be",
+            "grounding": {
+                "box": {
+                    "left": 0.5601274967193604,
+                    "top": 0.40506088733673096,
+                    "right": 0.7769982814788818,
+                    "bottom": 0.4364374876022339
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8013217c-3015-471e-a7c7-502d31e6257a'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: ETCBWAR\nA handwritten signature is positioned at the top, above vertically stacked text 'ETCBWAR' with horizontal lines next to each letter.::>",
+            "type": "attestation",
+            "id": "8013217c-3015-471e-a7c7-502d31e6257a",
+            "grounding": {
+                "box": {
+                    "left": 0.8836905360221863,
+                    "top": 0.35270020365715027,
+                    "right": 1.000007152557373,
+                    "bottom": 0.533314049243927
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d9968108-bf95-42c9-acbe-1cd455457152'></a>\n\nMr. Manuel E. Rionda\nNew York, N. Y.",
+            "type": "text",
+            "id": "d9968108-bf95-42c9-acbe-1cd455457152",
+            "grounding": {
+                "box": {
+                    "left": 0.10606883466243744,
+                    "top": 0.49432870745658875,
+                    "right": 0.36688530445098877,
+                    "bottom": 0.5395386815071106
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='08e750a8-676a-423b-9b37-4c87b94cc98d'></a>\n\nLouis V. Place Jr.\nHB",
+            "type": "text",
+            "id": "08e750a8-676a-423b-9b37-4c87b94cc98d",
+            "grounding": {
+                "box": {
+                    "left": 0.10593188554048538,
+                    "top": 0.5415249466896057,
+                    "right": 0.355116069316864,
+                    "bottom": 0.5854759812355042
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8b487e87-970d-4248-adb8-c7a2bee73eca'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hmwl0226",
+            "type": "text",
+            "id": "8b487e87-970d-4248-adb8-c7a2bee73eca",
+            "grounding": {
+                "box": {
+                    "left": 0.0645880401134491,
+                    "top": 0.9572926163673401,
+                    "right": 0.9406383037567139,
+                    "bottom": 0.9987770915031433
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='8dfb0d72-1812-4cc5-a5f3-3bcc39518375'></a>\n\nMay 15, 1940\n\n<a id='880fa196-704e-475c-b3a6-525be62bad15'></a>\n\n<::attestation: Handwritten mark and checkmark\nStatus: Approved/Validated (implied by checkmark)\nSignature: illegible (stylized mark resembling an initial)\nReadable Text: 1940\nDescription: A large, stylized handwritten mark, possibly an initial, with a line through it, and a distinct checkmark next to it, positioned centrally on a document with faint grid lines and the partial number \"1940\" at the top left.::>\n\n<a id='eca7dac1-b260-46ba-9e40-8e8e351ab614'></a>\n\nDear Manolo,\n\nReferring to my letter earlier today, enclosed is\ncopy of my letter to Paul Woehrle this afternoon.\n\n<a id='5b7db13f-81c0-48da-9d06-177636d3a3be'></a>\n\nYours sincerely,\n\n<a id='8013217c-3015-471e-a7c7-502d31e6257a'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: ETCBWAR\nA handwritten signature is positioned at the top, above vertically stacked text 'ETCBWAR' with horizontal lines next to each letter.::>\n\n<a id='d9968108-bf95-42c9-acbe-1cd455457152'></a>\n\nMr. Manuel E. Rionda\nNew York, N. Y.\n\n<a id='08e750a8-676a-423b-9b37-4c87b94cc98d'></a>\n\nLouis V. Place Jr.\nHB\n\n<a id='8b487e87-970d-4248-adb8-c7a2bee73eca'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hmwl0226",
+            "chunks": [
+                "8dfb0d72-1812-4cc5-a5f3-3bcc39518375",
+                "880fa196-704e-475c-b3a6-525be62bad15",
+                "eca7dac1-b260-46ba-9e40-8e8e351ab614",
+                "5b7db13f-81c0-48da-9d06-177636d3a3be",
+                "8013217c-3015-471e-a7c7-502d31e6257a",
+                "d9968108-bf95-42c9-acbe-1cd455457152",
+                "08e750a8-676a-423b-9b37-4c87b94cc98d",
+                "8b487e87-970d-4248-adb8-c7a2bee73eca"
+            ]
+        }
+    ],
+    "grounding": {
+        "8dfb0d72-1812-4cc5-a5f3-3bcc39518375": {
+            "box": {
+                "left": 0.705905020236969,
+                "top": 0.18723054230213165,
+                "right": 0.8682847619056702,
+                "bottom": 0.2174385040998459
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "880fa196-704e-475c-b3a6-525be62bad15": {
+            "box": {
+                "left": 0.815667450428009,
+                "top": 0.1984885334968567,
+                "right": 0.9994117617607117,
+                "bottom": 0.3716713786125183
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "eca7dac1-b260-46ba-9e40-8e8e351ab614": {
+            "box": {
+                "left": 0.11008670926094055,
+                "top": 0.3306598961353302,
+                "right": 0.8538700342178345,
+                "bottom": 0.4050903022289276
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5b7db13f-81c0-48da-9d06-177636d3a3be": {
+            "box": {
+                "left": 0.5601274967193604,
+                "top": 0.40506088733673096,
+                "right": 0.7769982814788818,
+                "bottom": 0.4364374876022339
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8013217c-3015-471e-a7c7-502d31e6257a": {
+            "box": {
+                "left": 0.8836905360221863,
+                "top": 0.35270020365715027,
+                "right": 1.000007152557373,
+                "bottom": 0.533314049243927
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "d9968108-bf95-42c9-acbe-1cd455457152": {
+            "box": {
+                "left": 0.10606883466243744,
+                "top": 0.49432870745658875,
+                "right": 0.36688530445098877,
+                "bottom": 0.5395386815071106
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "08e750a8-676a-423b-9b37-4c87b94cc98d": {
+            "box": {
+                "left": 0.10593188554048538,
+                "top": 0.5415249466896057,
+                "right": 0.355116069316864,
+                "bottom": 0.5854759812355042
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8b487e87-970d-4248-adb8-c7a2bee73eca": {
+            "box": {
+                "left": 0.0645880401134491,
+                "top": 0.9572926163673401,
+                "right": 0.9406383037567139,
+                "bottom": 0.9987770915031433
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "hmwl0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5946,
+        "credit_usage": 3.0,
+        "job_id": "hpn3fpoiglfagvhavfkq6x50h",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='27976cc0-3904-4c71-9e2e-9b14e77f8979'></a>\n\nDiagram 1A\n\n<a id='f522471d-6405-48b9-8c4a-96894d9190f4'></a>\n\nADMINISTRATIVE AND FIELD OPERATIONS OF\nDIVISION OF HUMAN DEVELOPMENT\nINCAP\n\n<a id='b87b2b72-1b75-4870-8fc3-37af0a7ecd1b'></a>\n\n<::organizational chart\n: Head\n  : Administrator\n    : Head of Computer Services\n  : Field Director\n    : Village Administrators\n    : Data Collection Supervisors\n  : Professionals and Scientific Assistants\n: flowchart::>\n\n<a id='9cdc1cc9-62bb-48c8-9e82-0ddb90050f38'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rjcd0227",
+    "chunks": [
+        {
+            "markdown": "<a id='27976cc0-3904-4c71-9e2e-9b14e77f8979'></a>\n\nDiagram 1A",
+            "type": "marginalia",
+            "id": "27976cc0-3904-4c71-9e2e-9b14e77f8979",
+            "grounding": {
+                "box": {
+                    "left": 0.3982541263103485,
+                    "top": 0.15217308700084686,
+                    "right": 0.5324435830116272,
+                    "bottom": 0.1765381544828415
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f522471d-6405-48b9-8c4a-96894d9190f4'></a>\n\nADMINISTRATIVE AND FIELD OPERATIONS OF\nDIVISION OF HUMAN DEVELOPMENT\nINCAP",
+            "type": "text",
+            "id": "f522471d-6405-48b9-8c4a-96894d9190f4",
+            "grounding": {
+                "box": {
+                    "left": 0.3142363429069519,
+                    "top": 0.3694603145122528,
+                    "right": 0.7466502785682678,
+                    "bottom": 0.43188121914863586
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b87b2b72-1b75-4870-8fc3-37af0a7ecd1b'></a>\n\n<::organizational chart\n: Head\n  : Administrator\n    : Head of Computer Services\n  : Field Director\n    : Village Administrators\n    : Data Collection Supervisors\n  : Professionals and Scientific Assistants\n: flowchart::>",
+            "type": "figure",
+            "id": "b87b2b72-1b75-4870-8fc3-37af0a7ecd1b",
+            "grounding": {
+                "box": {
+                    "left": 0.13484737277030945,
+                    "top": 0.4567585587501526,
+                    "right": 0.8632453680038452,
+                    "bottom": 0.7332366108894348
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9cdc1cc9-62bb-48c8-9e82-0ddb90050f38'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rjcd0227",
+            "type": "marginalia",
+            "id": "9cdc1cc9-62bb-48c8-9e82-0ddb90050f38",
+            "grounding": {
+                "box": {
+                    "left": 0.23010244965553284,
+                    "top": 0.9783221483230591,
+                    "right": 0.7726187705993652,
+                    "bottom": 0.9997925758361816
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='27976cc0-3904-4c71-9e2e-9b14e77f8979'></a>\n\nDiagram 1A\n\n<a id='f522471d-6405-48b9-8c4a-96894d9190f4'></a>\n\nADMINISTRATIVE AND FIELD OPERATIONS OF\nDIVISION OF HUMAN DEVELOPMENT\nINCAP\n\n<a id='b87b2b72-1b75-4870-8fc3-37af0a7ecd1b'></a>\n\n<::organizational chart\n: Head\n  : Administrator\n    : Head of Computer Services\n  : Field Director\n    : Village Administrators\n    : Data Collection Supervisors\n  : Professionals and Scientific Assistants\n: flowchart::>\n\n<a id='9cdc1cc9-62bb-48c8-9e82-0ddb90050f38'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rjcd0227",
+            "chunks": [
+                "27976cc0-3904-4c71-9e2e-9b14e77f8979",
+                "f522471d-6405-48b9-8c4a-96894d9190f4",
+                "b87b2b72-1b75-4870-8fc3-37af0a7ecd1b",
+                "9cdc1cc9-62bb-48c8-9e82-0ddb90050f38"
+            ]
+        }
+    ],
+    "grounding": {
+        "27976cc0-3904-4c71-9e2e-9b14e77f8979": {
+            "box": {
+                "left": 0.3982541263103485,
+                "top": 0.15217308700084686,
+                "right": 0.5324435830116272,
+                "bottom": 0.1765381544828415
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "f522471d-6405-48b9-8c4a-96894d9190f4": {
+            "box": {
+                "left": 0.3142363429069519,
+                "top": 0.3694603145122528,
+                "right": 0.7466502785682678,
+                "bottom": 0.43188121914863586
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b87b2b72-1b75-4870-8fc3-37af0a7ecd1b": {
+            "box": {
+                "left": 0.13484737277030945,
+                "top": 0.4567585587501526,
+                "right": 0.8632453680038452,
+                "bottom": 0.7332366108894348
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "9cdc1cc9-62bb-48c8-9e82-0ddb90050f38": {
+            "box": {
+                "left": 0.23010244965553284,
+                "top": 0.9783221483230591,
+                "right": 0.7726187705993652,
+                "bottom": 0.9997925758361816
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "rjcd0227_34.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7096,
+        "credit_usage": 3.0,
+        "job_id": "vxdu6cc9s12t1i60nxbxlv5wu",
+        "version": "dpt-2-20250919"
+    }
+}

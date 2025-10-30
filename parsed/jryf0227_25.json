@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='bee6b0e4-7b40-434b-936f-097006e8545d'></a>\n\nNATIONAL INSTITUTES OF HEALTH\n\n<a id='f742258c-013c-4272-9af1-d9a81edbe10c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jryf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='bee6b0e4-7b40-434b-936f-097006e8545d'></a>\n\nNATIONAL INSTITUTES OF HEALTH",
+            "type": "text",
+            "id": "bee6b0e4-7b40-434b-936f-097006e8545d",
+            "grounding": {
+                "box": {
+                    "left": 0.36282074451446533,
+                    "top": 0.8222509622573853,
+                    "right": 0.6986982822418213,
+                    "bottom": 0.8524031639099121
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f742258c-013c-4272-9af1-d9a81edbe10c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jryf0227",
+            "type": "text",
+            "id": "f742258c-013c-4272-9af1-d9a81edbe10c",
+            "grounding": {
+                "box": {
+                    "left": 0.23106533288955688,
+                    "top": 0.9784290194511414,
+                    "right": 0.7703835368156433,
+                    "bottom": 0.9998324513435364
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='bee6b0e4-7b40-434b-936f-097006e8545d'></a>\n\nNATIONAL INSTITUTES OF HEALTH\n\n<a id='f742258c-013c-4272-9af1-d9a81edbe10c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jryf0227",
+            "chunks": [
+                "bee6b0e4-7b40-434b-936f-097006e8545d",
+                "f742258c-013c-4272-9af1-d9a81edbe10c"
+            ]
+        }
+    ],
+    "grounding": {
+        "bee6b0e4-7b40-434b-936f-097006e8545d": {
+            "box": {
+                "left": 0.36282074451446533,
+                "top": 0.8222509622573853,
+                "right": 0.6986982822418213,
+                "bottom": 0.8524031639099121
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f742258c-013c-4272-9af1-d9a81edbe10c": {
+            "box": {
+                "left": 0.23106533288955688,
+                "top": 0.9784290194511414,
+                "right": 0.7703835368156433,
+                "bottom": 0.9998324513435364
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "jryf0227_25.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 2520,
+        "credit_usage": 3.0,
+        "job_id": "rhh5ze4asuo1hehy2th0cr5vt",
+        "version": "dpt-2-20250919"
+    }
+}

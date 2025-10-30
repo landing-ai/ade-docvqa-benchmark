@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='a3ec0563-0523-4e83-8190-1df0f598339c'></a>\n\nMAILGRAM SERVICE CENTER\nMIDDLETOWN, VA. 22645\n06AM\n\n<a id='718bd2b9-5f55-4f54-8f25-b7ffdee96574'></a>\n\n<::logo: Western Union Mailgram\nWestern Union Mailgram, UNITED STATES POSTAL SERVICE, U.S.MAIL\nWhite text on a black rectangular background, with a circular emblem on the right featuring an eagle, stars, and text.::>\n\n<a id='ef72e102-356b-4cdb-963c-0f8c6249c641'></a>\n\n4-0434398006002 01/06/84 ICS IPMBNGZ CSP NASB\n1 6153224352 MGM TDBN NASHVILLE TN 01-06 0420P EST\n\n<a id='3f062fb5-bd48-4efc-8d38-d7cfaf8cdc55'></a>\n\nVANDERBILDT UNIVERSITY DEPT OF BIO CHEMISTRY\nSCHL OF MED\nNASHVILLE TN 37232\n\n<a id='86c4fcbf-8dab-4f24-93b3-225f9b4247ed'></a>\n\nTHIS IS A CONFIRMATION COPY OF THE FOLLOWING MESSAGE:\n\n<a id='1e1cff4d-a097-4bf6-9007-b04269cae8a2'></a>\n\nTDBN NASHVILLE TN 01-06 0420P EST\nINT DR. TAIJIRO, MATSUSHIMA INSTITUTE OF MEDICAL SCIENCE\nDEPARTMENT OF MOLECULAR ONCOLOGY UNIVERSITY OF TOKYO\nTOKYO (JAPAN)\nPRINTING SCHEDULE 1984 ANNUAL REVIEWERS NUTRITION REQUIRES\nMANUSCRIPTS IN EDITORIAL OFFICE JANUARY 15. IF YOUR CHAPTER DELAYED\nWILL PUBLISH IN 1985 VOLUME,\nWILLIAM J DARBY\n\n<a id='031d97bc-8945-4bbc-9500-ef040220e3c4'></a>\n\nCOL 1984 15, 1985\n16:20 EST\nMGMCOMP\n\n<a id='9314cdcc-4e51-49a6-9d9c-66ec611e40ac'></a>\n\nTO REPLY BY MAILGRAM MESSAGE, SEE REVERSE SIDE FOR WESTERN UNION'S TOLL - FREE PHONE NUMBERS\n\n<a id='16ef21e8-3119-419f-8f86-4661ad0b4b99'></a>\n\n5241 (R 7/82)",
+    "chunks": [
+        {
+            "markdown": "<a id='a3ec0563-0523-4e83-8190-1df0f598339c'></a>\n\nMAILGRAM SERVICE CENTER\nMIDDLETOWN, VA. 22645\n06AM",
+            "type": "text",
+            "id": "a3ec0563-0523-4e83-8190-1df0f598339c",
+            "grounding": {
+                "box": {
+                    "left": 0.11034688353538513,
+                    "top": 0.03378339111804962,
+                    "right": 0.38621214032173157,
+                    "bottom": 0.08529113233089447
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='718bd2b9-5f55-4f54-8f25-b7ffdee96574'></a>\n\n<::logo: Western Union Mailgram\nWestern Union Mailgram, UNITED STATES POSTAL SERVICE, U.S.MAIL\nWhite text on a black rectangular background, with a circular emblem on the right featuring an eagle, stars, and text.::>",
+            "type": "logo",
+            "id": "718bd2b9-5f55-4f54-8f25-b7ffdee96574",
+            "grounding": {
+                "box": {
+                    "left": 0.4737876057624817,
+                    "top": 0.030084602534770966,
+                    "right": 0.9363035559654236,
+                    "bottom": 0.11055504530668259
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ef72e102-356b-4cdb-963c-0f8c6249c641'></a>\n\n4-0434398006002 01/06/84 ICS IPMBNGZ CSP NASB\n1 6153224352 MGM TDBN NASHVILLE TN 01-06 0420P EST",
+            "type": "text",
+            "id": "ef72e102-356b-4cdb-963c-0f8c6249c641",
+            "grounding": {
+                "box": {
+                    "left": 0.10920074582099915,
+                    "top": 0.12241393327713013,
+                    "right": 0.6985599994659424,
+                    "bottom": 0.16392114758491516
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3f062fb5-bd48-4efc-8d38-d7cfaf8cdc55'></a>\n\nVANDERBILDT UNIVERSITY DEPT OF BIO CHEMISTRY\nSCHL OF MED\nNASHVILLE TN 37232",
+            "type": "text",
+            "id": "3f062fb5-bd48-4efc-8d38-d7cfaf8cdc55",
+            "grounding": {
+                "box": {
+                    "left": 0.10893481969833374,
+                    "top": 0.20914682745933533,
+                    "right": 0.6298120617866516,
+                    "bottom": 0.26411229372024536
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='86c4fcbf-8dab-4f24-93b3-225f9b4247ed'></a>\n\nTHIS IS A CONFIRMATION COPY OF THE FOLLOWING MESSAGE:",
+            "type": "text",
+            "id": "86c4fcbf-8dab-4f24-93b3-225f9b4247ed",
+            "grounding": {
+                "box": {
+                    "left": 0.11138513684272766,
+                    "top": 0.3447304368019104,
+                    "right": 0.7360780239105225,
+                    "bottom": 0.3698573112487793
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1e1cff4d-a097-4bf6-9007-b04269cae8a2'></a>\n\nTDBN NASHVILLE TN 01-06 0420P EST\nINT DR. TAIJIRO, MATSUSHIMA INSTITUTE OF MEDICAL SCIENCE\nDEPARTMENT OF MOLECULAR ONCOLOGY UNIVERSITY OF TOKYO\nTOKYO (JAPAN)\nPRINTING SCHEDULE 1984 ANNUAL REVIEWERS NUTRITION REQUIRES\nMANUSCRIPTS IN EDITORIAL OFFICE JANUARY 15. IF YOUR CHAPTER DELAYED\nWILL PUBLISH IN 1985 VOLUME,\nWILLIAM J DARBY",
+            "type": "text",
+            "id": "1e1cff4d-a097-4bf6-9007-b04269cae8a2",
+            "grounding": {
+                "box": {
+                    "left": 0.1098509132862091,
+                    "top": 0.37549296021461487,
+                    "right": 0.8955694437026978,
+                    "bottom": 0.5018634796142578
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='031d97bc-8945-4bbc-9500-ef040220e3c4'></a>\n\nCOL 1984 15, 1985\n16:20 EST\nMGMCOMP",
+            "type": "text",
+            "id": "031d97bc-8945-4bbc-9500-ef040220e3c4",
+            "grounding": {
+                "box": {
+                    "left": 0.10870527476072311,
+                    "top": 0.5222535133361816,
+                    "right": 0.32889077067375183,
+                    "bottom": 0.6065863370895386
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9314cdcc-4e51-49a6-9d9c-66ec611e40ac'></a>\n\nTO REPLY BY MAILGRAM MESSAGE, SEE REVERSE SIDE FOR WESTERN UNION'S TOLL - FREE PHONE NUMBERS",
+            "type": "text",
+            "id": "9314cdcc-4e51-49a6-9d9c-66ec611e40ac",
+            "grounding": {
+                "box": {
+                    "left": 0.1445307433605194,
+                    "top": 0.9649038314819336,
+                    "right": 0.8536168336868286,
+                    "bottom": 0.9818235635757446
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='16ef21e8-3119-419f-8f86-4661ad0b4b99'></a>\n\n5241 (R 7/82)",
+            "type": "text",
+            "id": "16ef21e8-3119-419f-8f86-4661ad0b4b99",
+            "grounding": {
+                "box": {
+                    "left": 0.012749169953167439,
+                    "top": 0.8917731046676636,
+                    "right": 0.036702290177345276,
+                    "bottom": 0.9776078462600708
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a3ec0563-0523-4e83-8190-1df0f598339c'></a>\n\nMAILGRAM SERVICE CENTER\nMIDDLETOWN, VA. 22645\n06AM\n\n<a id='718bd2b9-5f55-4f54-8f25-b7ffdee96574'></a>\n\n<::logo: Western Union Mailgram\nWestern Union Mailgram, UNITED STATES POSTAL SERVICE, U.S.MAIL\nWhite text on a black rectangular background, with a circular emblem on the right featuring an eagle, stars, and text.::>\n\n<a id='ef72e102-356b-4cdb-963c-0f8c6249c641'></a>\n\n4-0434398006002 01/06/84 ICS IPMBNGZ CSP NASB\n1 6153224352 MGM TDBN NASHVILLE TN 01-06 0420P EST\n\n<a id='3f062fb5-bd48-4efc-8d38-d7cfaf8cdc55'></a>\n\nVANDERBILDT UNIVERSITY DEPT OF BIO CHEMISTRY\nSCHL OF MED\nNASHVILLE TN 37232\n\n<a id='86c4fcbf-8dab-4f24-93b3-225f9b4247ed'></a>\n\nTHIS IS A CONFIRMATION COPY OF THE FOLLOWING MESSAGE:\n\n<a id='1e1cff4d-a097-4bf6-9007-b04269cae8a2'></a>\n\nTDBN NASHVILLE TN 01-06 0420P EST\nINT DR. TAIJIRO, MATSUSHIMA INSTITUTE OF MEDICAL SCIENCE\nDEPARTMENT OF MOLECULAR ONCOLOGY UNIVERSITY OF TOKYO\nTOKYO (JAPAN)\nPRINTING SCHEDULE 1984 ANNUAL REVIEWERS NUTRITION REQUIRES\nMANUSCRIPTS IN EDITORIAL OFFICE JANUARY 15. IF YOUR CHAPTER DELAYED\nWILL PUBLISH IN 1985 VOLUME,\nWILLIAM J DARBY\n\n<a id='031d97bc-8945-4bbc-9500-ef040220e3c4'></a>\n\nCOL 1984 15, 1985\n16:20 EST\nMGMCOMP\n\n<a id='9314cdcc-4e51-49a6-9d9c-66ec611e40ac'></a>\n\nTO REPLY BY MAILGRAM MESSAGE, SEE REVERSE SIDE FOR WESTERN UNION'S TOLL - FREE PHONE NUMBERS\n\n<a id='16ef21e8-3119-419f-8f86-4661ad0b4b99'></a>\n\n5241 (R 7/82)",
+            "chunks": [
+                "a3ec0563-0523-4e83-8190-1df0f598339c",
+                "718bd2b9-5f55-4f54-8f25-b7ffdee96574",
+                "ef72e102-356b-4cdb-963c-0f8c6249c641",
+                "3f062fb5-bd48-4efc-8d38-d7cfaf8cdc55",
+                "86c4fcbf-8dab-4f24-93b3-225f9b4247ed",
+                "1e1cff4d-a097-4bf6-9007-b04269cae8a2",
+                "031d97bc-8945-4bbc-9500-ef040220e3c4",
+                "9314cdcc-4e51-49a6-9d9c-66ec611e40ac",
+                "16ef21e8-3119-419f-8f86-4661ad0b4b99"
+            ]
+        }
+    ],
+    "grounding": {
+        "a3ec0563-0523-4e83-8190-1df0f598339c": {
+            "box": {
+                "left": 0.11034688353538513,
+                "top": 0.03378339111804962,
+                "right": 0.38621214032173157,
+                "bottom": 0.08529113233089447
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "718bd2b9-5f55-4f54-8f25-b7ffdee96574": {
+            "box": {
+                "left": 0.4737876057624817,
+                "top": 0.030084602534770966,
+                "right": 0.9363035559654236,
+                "bottom": 0.11055504530668259
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "ef72e102-356b-4cdb-963c-0f8c6249c641": {
+            "box": {
+                "left": 0.10920074582099915,
+                "top": 0.12241393327713013,
+                "right": 0.6985599994659424,
+                "bottom": 0.16392114758491516
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3f062fb5-bd48-4efc-8d38-d7cfaf8cdc55": {
+            "box": {
+                "left": 0.10893481969833374,
+                "top": 0.20914682745933533,
+                "right": 0.6298120617866516,
+                "bottom": 0.26411229372024536
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "86c4fcbf-8dab-4f24-93b3-225f9b4247ed": {
+            "box": {
+                "left": 0.11138513684272766,
+                "top": 0.3447304368019104,
+                "right": 0.7360780239105225,
+                "bottom": 0.3698573112487793
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1e1cff4d-a097-4bf6-9007-b04269cae8a2": {
+            "box": {
+                "left": 0.1098509132862091,
+                "top": 0.37549296021461487,
+                "right": 0.8955694437026978,
+                "bottom": 0.5018634796142578
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "031d97bc-8945-4bbc-9500-ef040220e3c4": {
+            "box": {
+                "left": 0.10870527476072311,
+                "top": 0.5222535133361816,
+                "right": 0.32889077067375183,
+                "bottom": 0.6065863370895386
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9314cdcc-4e51-49a6-9d9c-66ec611e40ac": {
+            "box": {
+                "left": 0.1445307433605194,
+                "top": 0.9649038314819336,
+                "right": 0.8536168336868286,
+                "bottom": 0.9818235635757446
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "16ef21e8-3119-419f-8f86-4661ad0b4b99": {
+            "box": {
+                "left": 0.012749169953167439,
+                "top": 0.8917731046676636,
+                "right": 0.036702290177345276,
+                "bottom": 0.9776078462600708
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "hjgw0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3890,
+        "credit_usage": 3.0,
+        "job_id": "k8rz3ytla1frj063x8iv5avu2",
+        "version": "dpt-2-20250919"
+    }
+}

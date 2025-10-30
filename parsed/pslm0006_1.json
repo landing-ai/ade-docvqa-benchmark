@@ -1,0 +1,303 @@
+{
+    "markdown": "<a id='87b26bb7-e411-42aa-824f-922c60fbff49'></a>\n\nRJRT SCIENTIFIC ADVISORY BOARD\nTRAVEL ARRANGEMENTS FORM\n\n<a id='9a9161c2-b106-47cc-bca6-7d7de2debbb9'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Martin Cline)\nReadable Text: Name:\nA handwritten signature \"Martin Cline\" on a line, preceded by the label \"Name:\", positioned centrally on the page.::>\n\n<a id='d9f144a1-f2b3-4611-9af7-1939aa644e9d'></a>\n\n**Golf Outing:**\noption Yes - I would like to play golf with the group on Sunday, October 13: [ ]\noption No - I am not interested in playing golf on Sunday, October 13: [x]\n\n<a id='cc5e6373-bd6c-4bcd-b07c-5d58f76e23d9'></a>\n\n**Hotel:**\n\nWould you prefer a\noption SMOKING: [ ]\nor\noption NON-SMOKING: [x]\nroom?\n\n<a id='9357925e-cf9d-4d67-bb99-59623992c18a'></a>\n\n**Air Travel:**\n\noption I will be making my own airline reservations: [ ]\noption I would like Teresa to make my airline reservations: [x]\n\n<a id='5c9abb71-781c-4677-bf4f-88724ce4bf4f'></a>\n\nPlease provide this information, if you want Teresa to make your airline reservations -\n\nPreferred Airport for Departing TO Chicago: San Francisco\n\nPreferred Day/Date/Time for Departing TO Chicago: Oct. 13\n\nPreferred Day/Date/Time for Departing FROM Chicago: Oct 15 2PM\n(SAB Meeting ends at noon on Tuesday, October 15)\n\n<a id='67766d94-4743-424c-94f3-1740d22197ee'></a>\n\nPreferred Airlines:\n1st Choice: United\n2nd Choice: Delta\n\nPERSONAL/CONFIDENTIAL MATERIAL REDACTED\n\nFrequent Flyer No.:\n\n<a id='664ec566-61a0-43c7-83f6-32a44a542353'></a>\n\nPreferred Seating - seating will be in 1st Class: May be a bit expensive\n\noption Aisle Seat: [ ]\noption Window Seat: [x]\n\n<a id='9a369800-32ab-46c5-a545-f4f0e689a10b'></a>\n\nIf you have any questions regarding your Travel Arrangements, contact Teresa Lyalls at --\nTelephone: (336) 741-4499 Fax: (336) 741-0597 e-mail: lyallst@rjrt.com\n\n<a id='850bacc9-bee0-4da8-80bb-4a574cf4bc9b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pslm0006\n\n<a id='b67cf7e8-267b-4c3f-bb49-51ff1cf6dd04'></a>\n\n52500\n6790",
+    "chunks": [
+        {
+            "markdown": "<a id='87b26bb7-e411-42aa-824f-922c60fbff49'></a>\n\nRJRT SCIENTIFIC ADVISORY BOARD\nTRAVEL ARRANGEMENTS FORM",
+            "type": "text",
+            "id": "87b26bb7-e411-42aa-824f-922c60fbff49",
+            "grounding": {
+                "box": {
+                    "left": 0.2841227054595947,
+                    "top": 0.07578189671039581,
+                    "right": 0.6615558862686157,
+                    "bottom": 0.11731889843940735
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9a9161c2-b106-47cc-bca6-7d7de2debbb9'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Martin Cline)\nReadable Text: Name:\nA handwritten signature \"Martin Cline\" on a line, preceded by the label \"Name:\", positioned centrally on the page.::>",
+            "type": "attestation",
+            "id": "9a9161c2-b106-47cc-bca6-7d7de2debbb9",
+            "grounding": {
+                "box": {
+                    "left": 0.09033018350601196,
+                    "top": 0.1359414905309677,
+                    "right": 0.8559976816177368,
+                    "bottom": 0.19339971244335175
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d9f144a1-f2b3-4611-9af7-1939aa644e9d'></a>\n\n**Golf Outing:**\noption Yes - I would like to play golf with the group on Sunday, October 13: [ ]\noption No - I am not interested in playing golf on Sunday, October 13: [x]",
+            "type": "text",
+            "id": "d9f144a1-f2b3-4611-9af7-1939aa644e9d",
+            "grounding": {
+                "box": {
+                    "left": 0.09089887142181396,
+                    "top": 0.2139144241809845,
+                    "right": 0.696982741355896,
+                    "bottom": 0.3106895387172699
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cc5e6373-bd6c-4bcd-b07c-5d58f76e23d9'></a>\n\n**Hotel:**\n\nWould you prefer a\noption SMOKING: [ ]\nor\noption NON-SMOKING: [x]\nroom?",
+            "type": "text",
+            "id": "cc5e6373-bd6c-4bcd-b07c-5d58f76e23d9",
+            "grounding": {
+                "box": {
+                    "left": 0.08979973196983337,
+                    "top": 0.33416521549224854,
+                    "right": 0.6073538064956665,
+                    "bottom": 0.3955231308937073
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9357925e-cf9d-4d67-bb99-59623992c18a'></a>\n\n**Air Travel:**\n\noption I will be making my own airline reservations: [ ]\noption I would like Teresa to make my airline reservations: [x]",
+            "type": "text",
+            "id": "9357925e-cf9d-4d67-bb99-59623992c18a",
+            "grounding": {
+                "box": {
+                    "left": 0.08830752968788147,
+                    "top": 0.42270541191101074,
+                    "right": 0.5668195486068726,
+                    "bottom": 0.5185717940330505
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5c9abb71-781c-4677-bf4f-88724ce4bf4f'></a>\n\nPlease provide this information, if you want Teresa to make your airline reservations -\n\nPreferred Airport for Departing TO Chicago: San Francisco\n\nPreferred Day/Date/Time for Departing TO Chicago: Oct. 13\n\nPreferred Day/Date/Time for Departing FROM Chicago: Oct 15 2PM\n(SAB Meeting ends at noon on Tuesday, October 15)",
+            "type": "text",
+            "id": "5c9abb71-781c-4677-bf4f-88724ce4bf4f",
+            "grounding": {
+                "box": {
+                    "left": 0.08702829480171204,
+                    "top": 0.5430029630661011,
+                    "right": 0.8505892753601074,
+                    "bottom": 0.6929757595062256
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='67766d94-4743-424c-94f3-1740d22197ee'></a>\n\nPreferred Airlines:\n1st Choice: United\n2nd Choice: Delta\n\nPERSONAL/CONFIDENTIAL MATERIAL REDACTED\n\nFrequent Flyer No.:",
+            "type": "text",
+            "id": "67766d94-4743-424c-94f3-1740d22197ee",
+            "grounding": {
+                "box": {
+                    "left": 0.08853143453598022,
+                    "top": 0.7021684050559998,
+                    "right": 0.918609082698822,
+                    "bottom": 0.7845161557197571
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='664ec566-61a0-43c7-83f6-32a44a542353'></a>\n\nPreferred Seating - seating will be in 1st Class: May be a bit expensive\n\noption Aisle Seat: [ ]\noption Window Seat: [x]",
+            "type": "text",
+            "id": "664ec566-61a0-43c7-83f6-32a44a542353",
+            "grounding": {
+                "box": {
+                    "left": 0.08395397663116455,
+                    "top": 0.7899614572525024,
+                    "right": 0.7663144469261169,
+                    "bottom": 0.8922538757324219
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9a369800-32ab-46c5-a545-f4f0e689a10b'></a>\n\nIf you have any questions regarding your Travel Arrangements, contact Teresa Lyalls at --\nTelephone: (336) 741-4499 Fax: (336) 741-0597 e-mail: lyallst@rjrt.com",
+            "type": "text",
+            "id": "9a369800-32ab-46c5-a545-f4f0e689a10b",
+            "grounding": {
+                "box": {
+                    "left": 0.08617690205574036,
+                    "top": 0.8929936289787292,
+                    "right": 0.8139669895172119,
+                    "bottom": 0.9390220046043396
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='850bacc9-bee0-4da8-80bb-4a574cf4bc9b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pslm0006",
+            "type": "marginalia",
+            "id": "850bacc9-bee0-4da8-80bb-4a574cf4bc9b",
+            "grounding": {
+                "box": {
+                    "left": 0.21113881468772888,
+                    "top": 0.9758317470550537,
+                    "right": 0.7895207405090332,
+                    "bottom": 0.9999357461929321
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b67cf7e8-267b-4c3f-bb49-51ff1cf6dd04'></a>\n\n52500\n6790",
+            "type": "text",
+            "id": "b67cf7e8-267b-4c3f-bb49-51ff1cf6dd04",
+            "grounding": {
+                "box": {
+                    "left": 0.9027529954910278,
+                    "top": 0.8069268465042114,
+                    "right": 0.9326659440994263,
+                    "bottom": 0.9062519073486328
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='87b26bb7-e411-42aa-824f-922c60fbff49'></a>\n\nRJRT SCIENTIFIC ADVISORY BOARD\nTRAVEL ARRANGEMENTS FORM\n\n<a id='9a9161c2-b106-47cc-bca6-7d7de2debbb9'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Martin Cline)\nReadable Text: Name:\nA handwritten signature \"Martin Cline\" on a line, preceded by the label \"Name:\", positioned centrally on the page.::>\n\n<a id='d9f144a1-f2b3-4611-9af7-1939aa644e9d'></a>\n\n**Golf Outing:**\noption Yes - I would like to play golf with the group on Sunday, October 13: [ ]\noption No - I am not interested in playing golf on Sunday, October 13: [x]\n\n<a id='cc5e6373-bd6c-4bcd-b07c-5d58f76e23d9'></a>\n\n**Hotel:**\n\nWould you prefer a\noption SMOKING: [ ]\nor\noption NON-SMOKING: [x]\nroom?\n\n<a id='9357925e-cf9d-4d67-bb99-59623992c18a'></a>\n\n**Air Travel:**\n\noption I will be making my own airline reservations: [ ]\noption I would like Teresa to make my airline reservations: [x]\n\n<a id='5c9abb71-781c-4677-bf4f-88724ce4bf4f'></a>\n\nPlease provide this information, if you want Teresa to make your airline reservations -\n\nPreferred Airport for Departing TO Chicago: San Francisco\n\nPreferred Day/Date/Time for Departing TO Chicago: Oct. 13\n\nPreferred Day/Date/Time for Departing FROM Chicago: Oct 15 2PM\n(SAB Meeting ends at noon on Tuesday, October 15)\n\n<a id='67766d94-4743-424c-94f3-1740d22197ee'></a>\n\nPreferred Airlines:\n1st Choice: United\n2nd Choice: Delta\n\nPERSONAL/CONFIDENTIAL MATERIAL REDACTED\n\nFrequent Flyer No.:\n\n<a id='664ec566-61a0-43c7-83f6-32a44a542353'></a>\n\nPreferred Seating - seating will be in 1st Class: May be a bit expensive\n\noption Aisle Seat: [ ]\noption Window Seat: [x]\n\n<a id='9a369800-32ab-46c5-a545-f4f0e689a10b'></a>\n\nIf you have any questions regarding your Travel Arrangements, contact Teresa Lyalls at --\nTelephone: (336) 741-4499 Fax: (336) 741-0597 e-mail: lyallst@rjrt.com\n\n<a id='850bacc9-bee0-4da8-80bb-4a574cf4bc9b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pslm0006\n\n<a id='b67cf7e8-267b-4c3f-bb49-51ff1cf6dd04'></a>\n\n52500\n6790",
+            "chunks": [
+                "87b26bb7-e411-42aa-824f-922c60fbff49",
+                "9a9161c2-b106-47cc-bca6-7d7de2debbb9",
+                "d9f144a1-f2b3-4611-9af7-1939aa644e9d",
+                "cc5e6373-bd6c-4bcd-b07c-5d58f76e23d9",
+                "9357925e-cf9d-4d67-bb99-59623992c18a",
+                "5c9abb71-781c-4677-bf4f-88724ce4bf4f",
+                "67766d94-4743-424c-94f3-1740d22197ee",
+                "664ec566-61a0-43c7-83f6-32a44a542353",
+                "9a369800-32ab-46c5-a545-f4f0e689a10b",
+                "850bacc9-bee0-4da8-80bb-4a574cf4bc9b",
+                "b67cf7e8-267b-4c3f-bb49-51ff1cf6dd04"
+            ]
+        }
+    ],
+    "grounding": {
+        "87b26bb7-e411-42aa-824f-922c60fbff49": {
+            "box": {
+                "left": 0.2841227054595947,
+                "top": 0.07578189671039581,
+                "right": 0.6615558862686157,
+                "bottom": 0.11731889843940735
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9a9161c2-b106-47cc-bca6-7d7de2debbb9": {
+            "box": {
+                "left": 0.09033018350601196,
+                "top": 0.1359414905309677,
+                "right": 0.8559976816177368,
+                "bottom": 0.19339971244335175
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "d9f144a1-f2b3-4611-9af7-1939aa644e9d": {
+            "box": {
+                "left": 0.09089887142181396,
+                "top": 0.2139144241809845,
+                "right": 0.696982741355896,
+                "bottom": 0.3106895387172699
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cc5e6373-bd6c-4bcd-b07c-5d58f76e23d9": {
+            "box": {
+                "left": 0.08979973196983337,
+                "top": 0.33416521549224854,
+                "right": 0.6073538064956665,
+                "bottom": 0.3955231308937073
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9357925e-cf9d-4d67-bb99-59623992c18a": {
+            "box": {
+                "left": 0.08830752968788147,
+                "top": 0.42270541191101074,
+                "right": 0.5668195486068726,
+                "bottom": 0.5185717940330505
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5c9abb71-781c-4677-bf4f-88724ce4bf4f": {
+            "box": {
+                "left": 0.08702829480171204,
+                "top": 0.5430029630661011,
+                "right": 0.8505892753601074,
+                "bottom": 0.6929757595062256
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "67766d94-4743-424c-94f3-1740d22197ee": {
+            "box": {
+                "left": 0.08853143453598022,
+                "top": 0.7021684050559998,
+                "right": 0.918609082698822,
+                "bottom": 0.7845161557197571
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "664ec566-61a0-43c7-83f6-32a44a542353": {
+            "box": {
+                "left": 0.08395397663116455,
+                "top": 0.7899614572525024,
+                "right": 0.7663144469261169,
+                "bottom": 0.8922538757324219
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9a369800-32ab-46c5-a545-f4f0e689a10b": {
+            "box": {
+                "left": 0.08617690205574036,
+                "top": 0.8929936289787292,
+                "right": 0.8139669895172119,
+                "bottom": 0.9390220046043396
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "850bacc9-bee0-4da8-80bb-4a574cf4bc9b": {
+            "box": {
+                "left": 0.21113881468772888,
+                "top": 0.9758317470550537,
+                "right": 0.7895207405090332,
+                "bottom": 0.9999357461929321
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "b67cf7e8-267b-4c3f-bb49-51ff1cf6dd04": {
+            "box": {
+                "left": 0.9027529954910278,
+                "top": 0.8069268465042114,
+                "right": 0.9326659440994263,
+                "bottom": 0.9062519073486328
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "pslm0006_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8496,
+        "credit_usage": 3.0,
+        "job_id": "ie68b7h8fra245hiseoz16e98",
+        "version": "dpt-2-20250919"
+    }
+}

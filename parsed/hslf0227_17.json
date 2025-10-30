@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='63a5b721-0253-4d80-940c-a4435587da6a'></a>\n\n17\n\n<a id='7404294c-6bdb-440f-b613-4e75f90110e0'></a>\n\nAHA RECOMMENDATION\n\n<a id='c181052b-2253-41c9-a68a-ce71ea5d2c00'></a>\n\n<table><thead><tr><th></th><th colspan=\"2\">% of Calories as</th></tr></thead><tbody><tr><td>Cholesterol</td><td></td><td>&lt;300 mg</td></tr><tr><td>Sat</td><td>&lt;10%</td><td>(ca 15 g)</td></tr><tr><td>Poly</td><td>up to 10%</td><td>(ca 25 g)</td></tr><tr><td>Other</td><td>15%</td><td>(ca 38 g)</td></tr><tr><td>Total fat</td><td>35%</td><td>(ca 90 g)</td></tr></tbody></table>\n\n<a id='22471046-0697-4216-aac7-f3c745385c54'></a>\n\n<::line graph\n: FAT DISAPPEARANCE, U.S.\n\nY-axis: grams/person/day, ranging from 5 to 35.\nX-axis: Year, ranging from 1940 to 1970.\n\nData series:\n- Solid line: Butter, lard. Starts around 35 grams/person/day in 1940, decreases steadily to around 12 grams/person/day by 1970.\n- Dashed line: Shortening, margarine. Starts around 15 grams/person/day in 1940, increases to around 32 grams/person/day by 1970.\n- Dotted line: Cooking and salad oils. Starts around 9 grams/person/day in 1940, increases to around 22 grams/person/day by 1970.\n\nSource: (Call)::>",
+    "chunks": [
+        {
+            "markdown": "<a id='63a5b721-0253-4d80-940c-a4435587da6a'></a>\n\n17",
+            "type": "marginalia",
+            "id": "63a5b721-0253-4d80-940c-a4435587da6a",
+            "grounding": {
+                "box": {
+                    "left": 0.8701158165931702,
+                    "top": 0.045223284512758255,
+                    "right": 0.9039753079414368,
+                    "bottom": 0.07085995376110077
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7404294c-6bdb-440f-b613-4e75f90110e0'></a>\n\nAHA RECOMMENDATION",
+            "type": "text",
+            "id": "7404294c-6bdb-440f-b613-4e75f90110e0",
+            "grounding": {
+                "box": {
+                    "left": 0.3885422945022583,
+                    "top": 0.12220507115125656,
+                    "right": 0.6612704992294312,
+                    "bottom": 0.149014413356781
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c181052b-2253-41c9-a68a-ce71ea5d2c00'></a>\n\n<table><thead><tr><th></th><th colspan=\"2\">% of Calories as</th></tr></thead><tbody><tr><td>Cholesterol</td><td></td><td>&lt;300 mg</td></tr><tr><td>Sat</td><td>&lt;10%</td><td>(ca 15 g)</td></tr><tr><td>Poly</td><td>up to 10%</td><td>(ca 25 g)</td></tr><tr><td>Other</td><td>15%</td><td>(ca 38 g)</td></tr><tr><td>Total fat</td><td>35%</td><td>(ca 90 g)</td></tr></tbody></table>",
+            "type": "table",
+            "id": "c181052b-2253-41c9-a68a-ce71ea5d2c00",
+            "grounding": {
+                "box": {
+                    "left": 0.2789114713668823,
+                    "top": 0.16497822105884552,
+                    "right": 0.7618408203125,
+                    "bottom": 0.3131667375564575
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='22471046-0697-4216-aac7-f3c745385c54'></a>\n\n<::line graph\n: FAT DISAPPEARANCE, U.S.\n\nY-axis: grams/person/day, ranging from 5 to 35.\nX-axis: Year, ranging from 1940 to 1970.\n\nData series:\n- Solid line: Butter, lard. Starts around 35 grams/person/day in 1940, decreases steadily to around 12 grams/person/day by 1970.\n- Dashed line: Shortening, margarine. Starts around 15 grams/person/day in 1940, increases to around 32 grams/person/day by 1970.\n- Dotted line: Cooking and salad oils. Starts around 9 grams/person/day in 1940, increases to around 22 grams/person/day by 1970.\n\nSource: (Call)::>",
+            "type": "figure",
+            "id": "22471046-0697-4216-aac7-f3c745385c54",
+            "grounding": {
+                "box": {
+                    "left": 0.2636149525642395,
+                    "top": 0.39560410380363464,
+                    "right": 0.7392523884773254,
+                    "bottom": 0.8939342498779297
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='63a5b721-0253-4d80-940c-a4435587da6a'></a>\n\n17\n\n<a id='7404294c-6bdb-440f-b613-4e75f90110e0'></a>\n\nAHA RECOMMENDATION\n\n<a id='c181052b-2253-41c9-a68a-ce71ea5d2c00'></a>\n\n<table><thead><tr><th></th><th colspan=\"2\">% of Calories as</th></tr></thead><tbody><tr><td>Cholesterol</td><td></td><td>&lt;300 mg</td></tr><tr><td>Sat</td><td>&lt;10%</td><td>(ca 15 g)</td></tr><tr><td>Poly</td><td>up to 10%</td><td>(ca 25 g)</td></tr><tr><td>Other</td><td>15%</td><td>(ca 38 g)</td></tr><tr><td>Total fat</td><td>35%</td><td>(ca 90 g)</td></tr></tbody></table>\n\n<a id='22471046-0697-4216-aac7-f3c745385c54'></a>\n\n<::line graph\n: FAT DISAPPEARANCE, U.S.\n\nY-axis: grams/person/day, ranging from 5 to 35.\nX-axis: Year, ranging from 1940 to 1970.\n\nData series:\n- Solid line: Butter, lard. Starts around 35 grams/person/day in 1940, decreases steadily to around 12 grams/person/day by 1970.\n- Dashed line: Shortening, margarine. Starts around 15 grams/person/day in 1940, increases to around 32 grams/person/day by 1970.\n- Dotted line: Cooking and salad oils. Starts around 9 grams/person/day in 1940, increases to around 22 grams/person/day by 1970.\n\nSource: (Call)::>",
+            "chunks": [
+                "63a5b721-0253-4d80-940c-a4435587da6a",
+                "7404294c-6bdb-440f-b613-4e75f90110e0",
+                "c181052b-2253-41c9-a68a-ce71ea5d2c00",
+                "22471046-0697-4216-aac7-f3c745385c54"
+            ]
+        }
+    ],
+    "grounding": {
+        "63a5b721-0253-4d80-940c-a4435587da6a": {
+            "box": {
+                "left": 0.8701158165931702,
+                "top": 0.045223284512758255,
+                "right": 0.9039753079414368,
+                "bottom": 0.07085995376110077
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "7404294c-6bdb-440f-b613-4e75f90110e0": {
+            "box": {
+                "left": 0.3885422945022583,
+                "top": 0.12220507115125656,
+                "right": 0.6612704992294312,
+                "bottom": 0.149014413356781
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c181052b-2253-41c9-a68a-ce71ea5d2c00": {
+            "box": {
+                "left": 0.2789114713668823,
+                "top": 0.16497822105884552,
+                "right": 0.7618408203125,
+                "bottom": 0.3131667375564575
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "22471046-0697-4216-aac7-f3c745385c54": {
+            "box": {
+                "left": 0.2636149525642395,
+                "top": 0.39560410380363464,
+                "right": 0.7392523884773254,
+                "bottom": 0.8939342498779297
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "hslf0227_17.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10419,
+        "credit_usage": 3.0,
+        "job_id": "jsdibypxuk40hpnsax96ugzdf",
+        "version": "dpt-2-20250919"
+    }
+}

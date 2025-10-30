@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='4e269499-dc3c-4a78-827b-227aa5aae655'></a>\n\n<::A black and white illustration depicts a volleyball game in progress. Several players are shown in mid-air, jumping near a net. A volleyball is visible above the net, seemingly being hit or blocked by one of the players. The players are wearing light-colored uniforms. The background shows the court and the net structure.: figure::>\n\n<a id='f58facf5-d874-49db-8dc9-95ec5d0c82d3'></a>\n\n# Endurance\n\nHave you ever started out in a game full of pep and then suddenly given out? Of course, you have to be in training if you want to carry on to the end of a hard game but, apart from this, there are certain kinds of food that will give you endurance. They stay with you longer than the foods that give you pep.\n\n<a id='3b9123ec-c010-4480-b258-d37afd914187'></a>\n\nThe foods that help you to \"stick it out\" are butter,\nmargarine, cream, cooking oils, cheese, eggs, bacon,\nother meats and nuts.\n\n<a id='9432465d-bebd-4cf3-a67e-d032e7c8b176'></a>\n\nGet up early enough so that you will have time to\nenjoy a good breakfast\u2014eggs or cereal and milk (or\nboth), plus toast, a strip or two of bacon, an orange\nor grapefruit and a glass of milk. This kind of breakfast\ngives you endurance for a full morning's work.\n\n<a id='83481748-4eac-4f3d-87e7-e2b71f797a14'></a>\n\nFoods That\nGive You Slaying Power\n\n<a id='087e7072-a92f-442d-afe4-8792196da5a4'></a>\n\n* butter\n* margarine\n* cream\n* cheese\n\n* eggs\n* bacon or other meats\n* nuts\n\n<a id='0b90f28d-6e16-453f-b74d-637f1d53b172'></a>\n\n<::A black and white illustration depicts a young girl in a short-sleeved shirt and shorts, running with a joyful expression. She is surrounded by various food items. To her upper left are two rectangular boxes, one labeled \"WHEATIES\" and the other with an unreadable label and a star-like symbol. Below these boxes are a pitcher and a mug with striped patterns. To her upper right is an open carton of eggs, with some eggs visible. Below the eggs is a frying pan containing what appears to be bacon or sausages. Below the frying pan is a steak or piece of meat. To her lower right are three potatoes. In the background, a smaller figure of a girl is visible, also running, with some bushes and trees. The overall scene suggests a lively, active theme with food elements.: figure::>\n\n<a id='b2f7613a-5704-443a-9895-26b93f9c1764'></a>\n\n\n\n<a id='a55759b0-23d3-4e41-b725-90c01fcc3e22'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/phwk0226",
+    "chunks": [
+        {
+            "markdown": "<a id='4e269499-dc3c-4a78-827b-227aa5aae655'></a>\n\n<::A black and white illustration depicts a volleyball game in progress. Several players are shown in mid-air, jumping near a net. A volleyball is visible above the net, seemingly being hit or blocked by one of the players. The players are wearing light-colored uniforms. The background shows the court and the net structure.: figure::>",
+            "type": "figure",
+            "id": "4e269499-dc3c-4a78-827b-227aa5aae655",
+            "grounding": {
+                "box": {
+                    "left": 0.06877285242080688,
+                    "top": 0.020544767379760742,
+                    "right": 0.521806001663208,
+                    "bottom": 0.4814784526824951
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f58facf5-d874-49db-8dc9-95ec5d0c82d3'></a>\n\n# Endurance\n\nHave you ever started out in a game full of pep and then suddenly given out? Of course, you have to be in training if you want to carry on to the end of a hard game but, apart from this, there are certain kinds of food that will give you endurance. They stay with you longer than the foods that give you pep.",
+            "type": "text",
+            "id": "f58facf5-d874-49db-8dc9-95ec5d0c82d3",
+            "grounding": {
+                "box": {
+                    "left": 0.09393373131752014,
+                    "top": 0.5019831657409668,
+                    "right": 0.4419485628604889,
+                    "bottom": 0.6986511945724487
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3b9123ec-c010-4480-b258-d37afd914187'></a>\n\nThe foods that help you to \"stick it out\" are butter,\nmargarine, cream, cooking oils, cheese, eggs, bacon,\nother meats and nuts.",
+            "type": "text",
+            "id": "3b9123ec-c010-4480-b258-d37afd914187",
+            "grounding": {
+                "box": {
+                    "left": 0.09448496997356415,
+                    "top": 0.6972125172615051,
+                    "right": 0.4421497583389282,
+                    "bottom": 0.7684854865074158
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9432465d-bebd-4cf3-a67e-d032e7c8b176'></a>\n\nGet up early enough so that you will have time to\nenjoy a good breakfast\u2014eggs or cereal and milk (or\nboth), plus toast, a strip or two of bacon, an orange\nor grapefruit and a glass of milk. This kind of breakfast\ngives you endurance for a full morning's work.",
+            "type": "text",
+            "id": "9432465d-bebd-4cf3-a67e-d032e7c8b176",
+            "grounding": {
+                "box": {
+                    "left": 0.09481470286846161,
+                    "top": 0.7670733332633972,
+                    "right": 0.444236695766449,
+                    "bottom": 0.8891565203666687
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='83481748-4eac-4f3d-87e7-e2b71f797a14'></a>\n\nFoods That\nGive You Slaying Power",
+            "type": "text",
+            "id": "83481748-4eac-4f3d-87e7-e2b71f797a14",
+            "grounding": {
+                "box": {
+                    "left": 0.6100216507911682,
+                    "top": 0.0813855230808258,
+                    "right": 0.9147217869758606,
+                    "bottom": 0.15261967480182648
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='087e7072-a92f-442d-afe4-8792196da5a4'></a>\n\n* butter\n* margarine\n* cream\n* cheese\n\n* eggs\n* bacon or other meats\n* nuts",
+            "type": "text",
+            "id": "087e7072-a92f-442d-afe4-8792196da5a4",
+            "grounding": {
+                "box": {
+                    "left": 0.6133800745010376,
+                    "top": 0.22393959760665894,
+                    "right": 0.915122389793396,
+                    "bottom": 0.3348592519760132
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0b90f28d-6e16-453f-b74d-637f1d53b172'></a>\n\n<::A black and white illustration depicts a young girl in a short-sleeved shirt and shorts, running with a joyful expression. She is surrounded by various food items. To her upper left are two rectangular boxes, one labeled \"WHEATIES\" and the other with an unreadable label and a star-like symbol. Below these boxes are a pitcher and a mug with striped patterns. To her upper right is an open carton of eggs, with some eggs visible. Below the eggs is a frying pan containing what appears to be bacon or sausages. Below the frying pan is a steak or piece of meat. To her lower right are three potatoes. In the background, a smaller figure of a girl is visible, also running, with some bushes and trees. The overall scene suggests a lively, active theme with food elements.: figure::>",
+            "type": "figure",
+            "id": "0b90f28d-6e16-453f-b74d-637f1d53b172",
+            "grounding": {
+                "box": {
+                    "left": 0.5142877101898193,
+                    "top": 0.39707431197166443,
+                    "right": 0.9970120191574097,
+                    "bottom": 0.9126358032226562
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b2f7613a-5704-443a-9895-26b93f9c1764'></a>\n\n",
+            "type": "marginalia",
+            "id": "b2f7613a-5704-443a-9895-26b93f9c1764",
+            "grounding": {
+                "box": {
+                    "left": 0.05390077456831932,
+                    "top": 0.9600386619567871,
+                    "right": 0.06377439945936203,
+                    "bottom": 0.9767031669616699
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a55759b0-23d3-4e41-b725-90c01fcc3e22'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/phwk0226",
+            "type": "marginalia",
+            "id": "a55759b0-23d3-4e41-b725-90c01fcc3e22",
+            "grounding": {
+                "box": {
+                    "left": 0.2788097858428955,
+                    "top": 0.9733227491378784,
+                    "right": 0.7222527265548706,
+                    "bottom": 0.9978382587432861
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4e269499-dc3c-4a78-827b-227aa5aae655'></a>\n\n<::A black and white illustration depicts a volleyball game in progress. Several players are shown in mid-air, jumping near a net. A volleyball is visible above the net, seemingly being hit or blocked by one of the players. The players are wearing light-colored uniforms. The background shows the court and the net structure.: figure::>\n\n<a id='f58facf5-d874-49db-8dc9-95ec5d0c82d3'></a>\n\n# Endurance\n\nHave you ever started out in a game full of pep and then suddenly given out? Of course, you have to be in training if you want to carry on to the end of a hard game but, apart from this, there are certain kinds of food that will give you endurance. They stay with you longer than the foods that give you pep.\n\n<a id='3b9123ec-c010-4480-b258-d37afd914187'></a>\n\nThe foods that help you to \"stick it out\" are butter,\nmargarine, cream, cooking oils, cheese, eggs, bacon,\nother meats and nuts.\n\n<a id='9432465d-bebd-4cf3-a67e-d032e7c8b176'></a>\n\nGet up early enough so that you will have time to\nenjoy a good breakfast\u2014eggs or cereal and milk (or\nboth), plus toast, a strip or two of bacon, an orange\nor grapefruit and a glass of milk. This kind of breakfast\ngives you endurance for a full morning's work.\n\n<a id='83481748-4eac-4f3d-87e7-e2b71f797a14'></a>\n\nFoods That\nGive You Slaying Power\n\n<a id='087e7072-a92f-442d-afe4-8792196da5a4'></a>\n\n* butter\n* margarine\n* cream\n* cheese\n\n* eggs\n* bacon or other meats\n* nuts\n\n<a id='0b90f28d-6e16-453f-b74d-637f1d53b172'></a>\n\n<::A black and white illustration depicts a young girl in a short-sleeved shirt and shorts, running with a joyful expression. She is surrounded by various food items. To her upper left are two rectangular boxes, one labeled \"WHEATIES\" and the other with an unreadable label and a star-like symbol. Below these boxes are a pitcher and a mug with striped patterns. To her upper right is an open carton of eggs, with some eggs visible. Below the eggs is a frying pan containing what appears to be bacon or sausages. Below the frying pan is a steak or piece of meat. To her lower right are three potatoes. In the background, a smaller figure of a girl is visible, also running, with some bushes and trees. The overall scene suggests a lively, active theme with food elements.: figure::>\n\n<a id='b2f7613a-5704-443a-9895-26b93f9c1764'></a>\n\n\n\n<a id='a55759b0-23d3-4e41-b725-90c01fcc3e22'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/phwk0226",
+            "chunks": [
+                "4e269499-dc3c-4a78-827b-227aa5aae655",
+                "f58facf5-d874-49db-8dc9-95ec5d0c82d3",
+                "3b9123ec-c010-4480-b258-d37afd914187",
+                "9432465d-bebd-4cf3-a67e-d032e7c8b176",
+                "83481748-4eac-4f3d-87e7-e2b71f797a14",
+                "087e7072-a92f-442d-afe4-8792196da5a4",
+                "0b90f28d-6e16-453f-b74d-637f1d53b172",
+                "b2f7613a-5704-443a-9895-26b93f9c1764",
+                "a55759b0-23d3-4e41-b725-90c01fcc3e22"
+            ]
+        }
+    ],
+    "grounding": {
+        "4e269499-dc3c-4a78-827b-227aa5aae655": {
+            "box": {
+                "left": 0.06877285242080688,
+                "top": 0.020544767379760742,
+                "right": 0.521806001663208,
+                "bottom": 0.4814784526824951
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "f58facf5-d874-49db-8dc9-95ec5d0c82d3": {
+            "box": {
+                "left": 0.09393373131752014,
+                "top": 0.5019831657409668,
+                "right": 0.4419485628604889,
+                "bottom": 0.6986511945724487
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3b9123ec-c010-4480-b258-d37afd914187": {
+            "box": {
+                "left": 0.09448496997356415,
+                "top": 0.6972125172615051,
+                "right": 0.4421497583389282,
+                "bottom": 0.7684854865074158
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9432465d-bebd-4cf3-a67e-d032e7c8b176": {
+            "box": {
+                "left": 0.09481470286846161,
+                "top": 0.7670733332633972,
+                "right": 0.444236695766449,
+                "bottom": 0.8891565203666687
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "83481748-4eac-4f3d-87e7-e2b71f797a14": {
+            "box": {
+                "left": 0.6100216507911682,
+                "top": 0.0813855230808258,
+                "right": 0.9147217869758606,
+                "bottom": 0.15261967480182648
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "087e7072-a92f-442d-afe4-8792196da5a4": {
+            "box": {
+                "left": 0.6133800745010376,
+                "top": 0.22393959760665894,
+                "right": 0.915122389793396,
+                "bottom": 0.3348592519760132
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0b90f28d-6e16-453f-b74d-637f1d53b172": {
+            "box": {
+                "left": 0.5142877101898193,
+                "top": 0.39707431197166443,
+                "right": 0.9970120191574097,
+                "bottom": 0.9126358032226562
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "b2f7613a-5704-443a-9895-26b93f9c1764": {
+            "box": {
+                "left": 0.05390077456831932,
+                "top": 0.9600386619567871,
+                "right": 0.06377439945936203,
+                "bottom": 0.9767031669616699
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "a55759b0-23d3-4e41-b725-90c01fcc3e22": {
+            "box": {
+                "left": 0.2788097858428955,
+                "top": 0.9733227491378784,
+                "right": 0.7222527265548706,
+                "bottom": 0.9978382587432861
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "phwk0226_34.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6855,
+        "credit_usage": 3.0,
+        "job_id": "rqaxpnloghcs9xi7nsd08e8r6",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='ed737292-9c7c-48f8-a6fb-d62595c63b63'></a>\n\n<::logo: HEALTH LEARNING SYSTEMS INC.\nDeveloped and produced by\nHEALTH LEARNING SYSTEMS INC.\n1455 Broad Street\nBloomfield, New Jersey 07003\nThe logo features a stylized hexagonal outline containing an abstract, blocky letter 'C' or 'G' in the center.::>\n\n<a id='e4e778c4-e65a-4001-bfce-d9fdde3134cd'></a>\n\nUnder educational grants from\n\n<a id='2d81d8e8-d76b-40fe-9c7a-0e350b1cbbd8'></a>\n\nMead Johnson\nNUTRITIONAL DIVISION\nMead Johnson & Company (U.S.)\n\n<a id='5ecaf3cd-27ff-4fa8-b2e9-1594e8893a2c'></a>\n\nMead Johnson\nCANADA\n\n<a id='edde9cbe-ec4a-41d5-9800-73e9f7a70e02'></a>\n\nL-B22-1-78\nPrinted in U.S.A.\n\n<a id='4b98951e-c0f5-4228-a9a5-7606a1f28016'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nhkw0227",
+    "chunks": [
+        {
+            "markdown": "<a id='ed737292-9c7c-48f8-a6fb-d62595c63b63'></a>\n\n<::logo: HEALTH LEARNING SYSTEMS INC.\nDeveloped and produced by\nHEALTH LEARNING SYSTEMS INC.\n1455 Broad Street\nBloomfield, New Jersey 07003\nThe logo features a stylized hexagonal outline containing an abstract, blocky letter 'C' or 'G' in the center.::>",
+            "type": "logo",
+            "id": "ed737292-9c7c-48f8-a6fb-d62595c63b63",
+            "grounding": {
+                "box": {
+                    "left": 0.34514379501342773,
+                    "top": 0.29396259784698486,
+                    "right": 0.651844322681427,
+                    "bottom": 0.5564664006233215
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e4e778c4-e65a-4001-bfce-d9fdde3134cd'></a>\n\nUnder educational grants from",
+            "type": "text",
+            "id": "e4e778c4-e65a-4001-bfce-d9fdde3134cd",
+            "grounding": {
+                "box": {
+                    "left": 0.37509751319885254,
+                    "top": 0.6129549741744995,
+                    "right": 0.6281070709228516,
+                    "bottom": 0.6518423557281494
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2d81d8e8-d76b-40fe-9c7a-0e350b1cbbd8'></a>\n\nMead Johnson\nNUTRITIONAL DIVISION\nMead Johnson & Company (U.S.)",
+            "type": "text",
+            "id": "2d81d8e8-d76b-40fe-9c7a-0e350b1cbbd8",
+            "grounding": {
+                "box": {
+                    "left": 0.40245747566223145,
+                    "top": 0.6589566469192505,
+                    "right": 0.5970828533172607,
+                    "bottom": 0.7642126083374023
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5ecaf3cd-27ff-4fa8-b2e9-1594e8893a2c'></a>\n\nMead Johnson\nCANADA",
+            "type": "text",
+            "id": "5ecaf3cd-27ff-4fa8-b2e9-1594e8893a2c",
+            "grounding": {
+                "box": {
+                    "left": 0.416546106338501,
+                    "top": 0.779902458190918,
+                    "right": 0.5867428779602051,
+                    "bottom": 0.8543120622634888
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='edde9cbe-ec4a-41d5-9800-73e9f7a70e02'></a>\n\nL-B22-1-78\nPrinted in U.S.A.",
+            "type": "text",
+            "id": "edde9cbe-ec4a-41d5-9800-73e9f7a70e02",
+            "grounding": {
+                "box": {
+                    "left": 0.7560232877731323,
+                    "top": 0.8745706081390381,
+                    "right": 0.9326633214950562,
+                    "bottom": 0.9038113355636597
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4b98951e-c0f5-4228-a9a5-7606a1f28016'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nhkw0227",
+            "type": "text",
+            "id": "4b98951e-c0f5-4228-a9a5-7606a1f28016",
+            "grounding": {
+                "box": {
+                    "left": 0.16846662759780884,
+                    "top": 0.9591748714447021,
+                    "right": 0.8323376774787903,
+                    "bottom": 0.9978371858596802
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ed737292-9c7c-48f8-a6fb-d62595c63b63'></a>\n\n<::logo: HEALTH LEARNING SYSTEMS INC.\nDeveloped and produced by\nHEALTH LEARNING SYSTEMS INC.\n1455 Broad Street\nBloomfield, New Jersey 07003\nThe logo features a stylized hexagonal outline containing an abstract, blocky letter 'C' or 'G' in the center.::>\n\n<a id='e4e778c4-e65a-4001-bfce-d9fdde3134cd'></a>\n\nUnder educational grants from\n\n<a id='2d81d8e8-d76b-40fe-9c7a-0e350b1cbbd8'></a>\n\nMead Johnson\nNUTRITIONAL DIVISION\nMead Johnson & Company (U.S.)\n\n<a id='5ecaf3cd-27ff-4fa8-b2e9-1594e8893a2c'></a>\n\nMead Johnson\nCANADA\n\n<a id='edde9cbe-ec4a-41d5-9800-73e9f7a70e02'></a>\n\nL-B22-1-78\nPrinted in U.S.A.\n\n<a id='4b98951e-c0f5-4228-a9a5-7606a1f28016'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nhkw0227",
+            "chunks": [
+                "ed737292-9c7c-48f8-a6fb-d62595c63b63",
+                "e4e778c4-e65a-4001-bfce-d9fdde3134cd",
+                "2d81d8e8-d76b-40fe-9c7a-0e350b1cbbd8",
+                "5ecaf3cd-27ff-4fa8-b2e9-1594e8893a2c",
+                "edde9cbe-ec4a-41d5-9800-73e9f7a70e02",
+                "4b98951e-c0f5-4228-a9a5-7606a1f28016"
+            ]
+        }
+    ],
+    "grounding": {
+        "ed737292-9c7c-48f8-a6fb-d62595c63b63": {
+            "box": {
+                "left": 0.34514379501342773,
+                "top": 0.29396259784698486,
+                "right": 0.651844322681427,
+                "bottom": 0.5564664006233215
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "e4e778c4-e65a-4001-bfce-d9fdde3134cd": {
+            "box": {
+                "left": 0.37509751319885254,
+                "top": 0.6129549741744995,
+                "right": 0.6281070709228516,
+                "bottom": 0.6518423557281494
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2d81d8e8-d76b-40fe-9c7a-0e350b1cbbd8": {
+            "box": {
+                "left": 0.40245747566223145,
+                "top": 0.6589566469192505,
+                "right": 0.5970828533172607,
+                "bottom": 0.7642126083374023
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5ecaf3cd-27ff-4fa8-b2e9-1594e8893a2c": {
+            "box": {
+                "left": 0.416546106338501,
+                "top": 0.779902458190918,
+                "right": 0.5867428779602051,
+                "bottom": 0.8543120622634888
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "edde9cbe-ec4a-41d5-9800-73e9f7a70e02": {
+            "box": {
+                "left": 0.7560232877731323,
+                "top": 0.8745706081390381,
+                "right": 0.9326633214950562,
+                "bottom": 0.9038113355636597
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4b98951e-c0f5-4228-a9a5-7606a1f28016": {
+            "box": {
+                "left": 0.16846662759780884,
+                "top": 0.9591748714447021,
+                "right": 0.8323376774787903,
+                "bottom": 0.9978371858596802
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "nhkw0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4711,
+        "credit_usage": 3.0,
+        "job_id": "turf3e171iksj29ofow7xv4cj",
+        "version": "dpt-2-20250919"
+    }
+}

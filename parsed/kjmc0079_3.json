@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='5e60e0f8-4093-4840-8b9d-afe8879920d6'></a>\n\nChemical Compounds Found In Cigarettes (First Response)\n<::pie chart\n: Don't Know: 1.6\n: Extremely Concerned: 12.3\n: Very Concerned: 19.1\n: Somewhat Concerned: 34.3\n: Not At All Concerned: 32.7::>\n\n<a id='7989b8fd-2b0a-4d59-8c2d-167ce63ddfd8'></a>\n\n51450 2641",
+    "chunks": [
+        {
+            "markdown": "<a id='5e60e0f8-4093-4840-8b9d-afe8879920d6'></a>\n\nChemical Compounds Found In Cigarettes (First Response)\n<::pie chart\n: Don't Know: 1.6\n: Extremely Concerned: 12.3\n: Very Concerned: 19.1\n: Somewhat Concerned: 34.3\n: Not At All Concerned: 32.7::>",
+            "type": "figure",
+            "id": "5e60e0f8-4093-4840-8b9d-afe8879920d6",
+            "grounding": {
+                "box": {
+                    "left": 0.20099520683288574,
+                    "top": 0.2556282579898834,
+                    "right": 0.7714443802833557,
+                    "bottom": 0.8027832508087158
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7989b8fd-2b0a-4d59-8c2d-167ce63ddfd8'></a>\n\n51450 2641",
+            "type": "marginalia",
+            "id": "7989b8fd-2b0a-4d59-8c2d-167ce63ddfd8",
+            "grounding": {
+                "box": {
+                    "left": 0.05188264697790146,
+                    "top": 0.9233105778694153,
+                    "right": 0.15090087056159973,
+                    "bottom": 0.9487443566322327
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='5e60e0f8-4093-4840-8b9d-afe8879920d6'></a>\n\nChemical Compounds Found In Cigarettes (First Response)\n<::pie chart\n: Don't Know: 1.6\n: Extremely Concerned: 12.3\n: Very Concerned: 19.1\n: Somewhat Concerned: 34.3\n: Not At All Concerned: 32.7::>\n\n<a id='7989b8fd-2b0a-4d59-8c2d-167ce63ddfd8'></a>\n\n51450 2641",
+            "chunks": [
+                "5e60e0f8-4093-4840-8b9d-afe8879920d6",
+                "7989b8fd-2b0a-4d59-8c2d-167ce63ddfd8"
+            ]
+        }
+    ],
+    "grounding": {
+        "5e60e0f8-4093-4840-8b9d-afe8879920d6": {
+            "box": {
+                "left": 0.20099520683288574,
+                "top": 0.2556282579898834,
+                "right": 0.7714443802833557,
+                "bottom": 0.8027832508087158
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "7989b8fd-2b0a-4d59-8c2d-167ce63ddfd8": {
+            "box": {
+                "left": 0.05188264697790146,
+                "top": 0.9233105778694153,
+                "right": 0.15090087056159973,
+                "bottom": 0.9487443566322327
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "kjmc0079_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5975,
+        "credit_usage": 3.0,
+        "job_id": "h90ohdtu2iu4xnq4tfyzav7sp",
+        "version": "dpt-2-20250919"
+    }
+}

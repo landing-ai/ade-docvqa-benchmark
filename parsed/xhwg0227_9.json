@@ -1,0 +1,388 @@
+{
+    "markdown": "<a id='269c3708-2415-4db4-b884-1f286553e155'></a>\n\nHEADQUARTERS\nU. S. ARMY MEDICAL RESEARCH\nAND DEVELOPMENT COMMAND\nWASHINGTON 25, D. C.\n\n<a id='5f3f41c1-fff9-405e-aa07-c2afa1120fa9'></a>\n\n<::attestation: Official approval mark/stamp\nStatus: Approved\nForm Approved\nBudget Bureau No. 49-R344.1\nA rectangular box containing two lines of text, indicating form approval and a budget bureau number.::>\n\n<a id='3af6cf0e-a7fd-4bc6-a0b9-5788ee010f0c'></a>\n\nAPPLICATION FOR RESEARCH CONTRACT - PART IV\n\n<a id='f8f84bab-c7e2-47f1-b872-cc577a1fab15'></a>\n\nBIOGRAPHY\n(Biographical sketches required on responsible investigator and principal professional assistants only. If this is a request for renewal utilizing essentially the same personnel as previously, biographical sketches will not be necessary.)\n\n<a id='34210dcb-1555-4ef0-b4d6-75246a5299b3'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">1. NAME</td><td id=\"0-3\" rowspan=\"2\">2. ADDRESS Massachusetts Inst. of Technology Cambridge 39, Mass.</td><td id=\"0-4\">3. AGE</td></tr>\n<tr><td id=\"0-5\">Dr. Ruth Schwartz</td><td id=\"0-6\">39</td></tr>\n</table>\n\n<a id='8241c9ef-0b96-4de5-951f-75d1c5e9891d'></a>\n\n4. EDUCATIONAL BACKGROUND (College and/or University)\n1947 - B. Sc. Hons. (II), London University, in Special Chemistry with Subsidiary\nPhysiology\n\n1959 - Ph.D. London University, in Biochemistry, awarded on a thesis entitled\n\"Some Biochemical Investigations in Kwashiorkor (Protein Deficiency in\nChildren)\".\n\n<a id='f0b51351-007a-4c0e-9809-f8ff4c226dcc'></a>\n\n5. RESEARCH TRAINING (List of institutions, research director, subject and dates)\n1944-1945 - Laboratory assistant with Wellcome Research Laboratories, Beckenham, Kent\n1948-1949 - Research Assistant at Hammersmith Hospital (Postgraduate Medical School,\nLondon University)\n1949-1950 - British Council Scholarship to study techniques in enzyme research in\nthe Institute of Cyto-Physiology, University of Copenhagen, Denmark\n\n<a id='01a86de6-9013-4f2f-a12d-f99700cac1e7'></a>\n\n6 OTHER INFORMATION BEARING ON QUALIFICATIONS (Hospital appointments, professional societies, specialty board, etc.)\n1950-1957 - Employed as biochemist by the Medical Research Council, originally in\n            Department of Experimental Medicine, Cambridge. Seconded to Makerere\n            College, Kampala, Unganda in 1951 to work on protein deficiency\n1956 -      For six months - W.H.O. Fellowship to INCAP, Guatemala City, and\n            Institutions connected with Nutritional Studies in U.S.A.\n1957-1960 - Exchange fellow in Departments of Pharmacology, Washington University,\n            St. Louis, Mo., U.S.A., also in Department of Preventive Medicine, work-\n            ing on micro-analysis of tissue enzymes\n1960-Sept.1963 - Lecturer in Department of Human Nutrition, London School of Hygiene\n                 and Tropical Medicine, London, England\nOct.1963 to present - Research Associate, Department of Nutrition & Food Science,\n                      Mass. Institute of Technology. Cambridge 39. Mass.\n\n<a id='d95c2e0d-4408-4b06-b252-9ca5ddf0dce1'></a>\n\n7. Bibliography\nKarl, I.E., Schwartz, H., McNicol, S.M., Zarkowski, H. and Shank, R.E., (1961). Fed.\nProc. 20, 287. Effect of carbon tetrachloride on enzymes and biochemical\nconstituents of liver\nShank, R.E., Morrison, G., Cheng, C.H., Karl, I., and Schwartz, R., (1959). J.\nHistochem. cytochem. 2. 237. Cell Heterogeneity within the hepatic lobule\n(quantitative histochemistry)\n\n<a id='31f5a651-3c08-40dd-9047-1f5bbcb1cf5f'></a>\n\nOTSG FORM 108c\n1 FEB 59\n\n<a id='b7d16802-1161-4548-b40a-837c7321849e'></a>\n\nPREVIOUS EDITIONS OF THIS FORM MAY BE USED.\n\n<a id='8a3dfb72-ead3-4289-9fa2-827791f1e20a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhwg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='269c3708-2415-4db4-b884-1f286553e155'></a>\n\nHEADQUARTERS\nU. S. ARMY MEDICAL RESEARCH\nAND DEVELOPMENT COMMAND\nWASHINGTON 25, D. C.",
+            "type": "text",
+            "id": "269c3708-2415-4db4-b884-1f286553e155",
+            "grounding": {
+                "box": {
+                    "left": 0.3907473087310791,
+                    "top": 0.07757894694805145,
+                    "right": 0.6246820688247681,
+                    "bottom": 0.1260802000761032
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5f3f41c1-fff9-405e-aa07-c2afa1120fa9'></a>\n\n<::attestation: Official approval mark/stamp\nStatus: Approved\nForm Approved\nBudget Bureau No. 49-R344.1\nA rectangular box containing two lines of text, indicating form approval and a budget bureau number.::>",
+            "type": "attestation",
+            "id": "5f3f41c1-fff9-405e-aa07-c2afa1120fa9",
+            "grounding": {
+                "box": {
+                    "left": 0.706919252872467,
+                    "top": 0.06696448475122452,
+                    "right": 0.9525255560874939,
+                    "bottom": 0.10316219180822372
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3af6cf0e-a7fd-4bc6-a0b9-5788ee010f0c'></a>\n\nAPPLICATION FOR RESEARCH CONTRACT - PART IV",
+            "type": "text",
+            "id": "3af6cf0e-a7fd-4bc6-a0b9-5788ee010f0c",
+            "grounding": {
+                "box": {
+                    "left": 0.2833758592605591,
+                    "top": 0.12853093445301056,
+                    "right": 0.7301928997039795,
+                    "bottom": 0.1510358303785324
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f8f84bab-c7e2-47f1-b872-cc577a1fab15'></a>\n\nBIOGRAPHY\n(Biographical sketches required on responsible investigator and principal professional assistants only. If this is a request for renewal utilizing essentially the same personnel as previously, biographical sketches will not be necessary.)",
+            "type": "text",
+            "id": "f8f84bab-c7e2-47f1-b872-cc577a1fab15",
+            "grounding": {
+                "box": {
+                    "left": 0.06569662690162659,
+                    "top": 0.15687969326972961,
+                    "right": 0.9527381658554077,
+                    "bottom": 0.2071746587753296
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='34210dcb-1555-4ef0-b4d6-75246a5299b3'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">1. NAME</td><td id=\"0-3\" rowspan=\"2\">2. ADDRESS Massachusetts Inst. of Technology Cambridge 39, Mass.</td><td id=\"0-4\">3. AGE</td></tr>\n<tr><td id=\"0-5\">Dr. Ruth Schwartz</td><td id=\"0-6\">39</td></tr>\n</table>",
+            "type": "table",
+            "id": "34210dcb-1555-4ef0-b4d6-75246a5299b3",
+            "grounding": {
+                "box": {
+                    "left": 0.06600666046142578,
+                    "top": 0.2020925134420395,
+                    "right": 0.9529904127120972,
+                    "bottom": 0.253606379032135
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8241c9ef-0b96-4de5-951f-75d1c5e9891d'></a>\n\n4. EDUCATIONAL BACKGROUND (College and/or University)\n1947 - B. Sc. Hons. (II), London University, in Special Chemistry with Subsidiary\nPhysiology\n\n1959 - Ph.D. London University, in Biochemistry, awarded on a thesis entitled\n\"Some Biochemical Investigations in Kwashiorkor (Protein Deficiency in\nChildren)\".",
+            "type": "text",
+            "id": "8241c9ef-0b96-4de5-951f-75d1c5e9891d",
+            "grounding": {
+                "box": {
+                    "left": 0.0647306740283966,
+                    "top": 0.24908727407455444,
+                    "right": 0.9520375728607178,
+                    "bottom": 0.40373408794403076
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f0b51351-007a-4c0e-9809-f8ff4c226dcc'></a>\n\n5. RESEARCH TRAINING (List of institutions, research director, subject and dates)\n1944-1945 - Laboratory assistant with Wellcome Research Laboratories, Beckenham, Kent\n1948-1949 - Research Assistant at Hammersmith Hospital (Postgraduate Medical School,\nLondon University)\n1949-1950 - British Council Scholarship to study techniques in enzyme research in\nthe Institute of Cyto-Physiology, University of Copenhagen, Denmark",
+            "type": "text",
+            "id": "f0b51351-007a-4c0e-9809-f8ff4c226dcc",
+            "grounding": {
+                "box": {
+                    "left": 0.06529459357261658,
+                    "top": 0.3987082839012146,
+                    "right": 0.9529505968093872,
+                    "bottom": 0.49735426902770996
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='01a86de6-9013-4f2f-a12d-f99700cac1e7'></a>\n\n6 OTHER INFORMATION BEARING ON QUALIFICATIONS (Hospital appointments, professional societies, specialty board, etc.)\n1950-1957 - Employed as biochemist by the Medical Research Council, originally in\n            Department of Experimental Medicine, Cambridge. Seconded to Makerere\n            College, Kampala, Unganda in 1951 to work on protein deficiency\n1956 -      For six months - W.H.O. Fellowship to INCAP, Guatemala City, and\n            Institutions connected with Nutritional Studies in U.S.A.\n1957-1960 - Exchange fellow in Departments of Pharmacology, Washington University,\n            St. Louis, Mo., U.S.A., also in Department of Preventive Medicine, work-\n            ing on micro-analysis of tissue enzymes\n1960-Sept.1963 - Lecturer in Department of Human Nutrition, London School of Hygiene\n                 and Tropical Medicine, London, England\nOct.1963 to present - Research Associate, Department of Nutrition & Food Science,\n                      Mass. Institute of Technology. Cambridge 39. Mass.",
+            "type": "text",
+            "id": "01a86de6-9013-4f2f-a12d-f99700cac1e7",
+            "grounding": {
+                "box": {
+                    "left": 0.06348055601119995,
+                    "top": 0.5787294507026672,
+                    "right": 0.9517104029655457,
+                    "bottom": 0.8031875491142273
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d95c2e0d-4408-4b06-b252-9ca5ddf0dce1'></a>\n\n7. Bibliography\nKarl, I.E., Schwartz, H., McNicol, S.M., Zarkowski, H. and Shank, R.E., (1961). Fed.\nProc. 20, 287. Effect of carbon tetrachloride on enzymes and biochemical\nconstituents of liver\nShank, R.E., Morrison, G., Cheng, C.H., Karl, I., and Schwartz, R., (1959). J.\nHistochem. cytochem. 2. 237. Cell Heterogeneity within the hepatic lobule\n(quantitative histochemistry)",
+            "type": "text",
+            "id": "d95c2e0d-4408-4b06-b252-9ca5ddf0dce1",
+            "grounding": {
+                "box": {
+                    "left": 0.06117546558380127,
+                    "top": 0.8082908987998962,
+                    "right": 0.9531371593475342,
+                    "bottom": 0.940031111240387
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='31f5a651-3c08-40dd-9047-1f5bbcb1cf5f'></a>\n\nOTSG FORM 108c\n1 FEB 59",
+            "type": "marginalia",
+            "id": "31f5a651-3c08-40dd-9047-1f5bbcb1cf5f",
+            "grounding": {
+                "box": {
+                    "left": 0.06919726729393005,
+                    "top": 0.9536641240119934,
+                    "right": 0.20958846807479858,
+                    "bottom": 0.9777629971504211
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b7d16802-1161-4548-b40a-837c7321849e'></a>\n\nPREVIOUS EDITIONS OF THIS FORM MAY BE USED.",
+            "type": "text",
+            "id": "b7d16802-1161-4548-b40a-837c7321849e",
+            "grounding": {
+                "box": {
+                    "left": 0.23101918399333954,
+                    "top": 0.9555954337120056,
+                    "right": 0.5818751454353333,
+                    "bottom": 0.9762595295906067
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8a3dfb72-ead3-4289-9fa2-827791f1e20a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhwg0227",
+            "type": "text",
+            "id": "8a3dfb72-ead3-4289-9fa2-827791f1e20a",
+            "grounding": {
+                "box": {
+                    "left": 0.20832490921020508,
+                    "top": 0.979616641998291,
+                    "right": 0.7956234216690063,
+                    "bottom": 0.9996222257614136
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='269c3708-2415-4db4-b884-1f286553e155'></a>\n\nHEADQUARTERS\nU. S. ARMY MEDICAL RESEARCH\nAND DEVELOPMENT COMMAND\nWASHINGTON 25, D. C.\n\n<a id='5f3f41c1-fff9-405e-aa07-c2afa1120fa9'></a>\n\n<::attestation: Official approval mark/stamp\nStatus: Approved\nForm Approved\nBudget Bureau No. 49-R344.1\nA rectangular box containing two lines of text, indicating form approval and a budget bureau number.::>\n\n<a id='3af6cf0e-a7fd-4bc6-a0b9-5788ee010f0c'></a>\n\nAPPLICATION FOR RESEARCH CONTRACT - PART IV\n\n<a id='f8f84bab-c7e2-47f1-b872-cc577a1fab15'></a>\n\nBIOGRAPHY\n(Biographical sketches required on responsible investigator and principal professional assistants only. If this is a request for renewal utilizing essentially the same personnel as previously, biographical sketches will not be necessary.)\n\n<a id='34210dcb-1555-4ef0-b4d6-75246a5299b3'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">1. NAME</td><td id=\"0-3\" rowspan=\"2\">2. ADDRESS Massachusetts Inst. of Technology Cambridge 39, Mass.</td><td id=\"0-4\">3. AGE</td></tr>\n<tr><td id=\"0-5\">Dr. Ruth Schwartz</td><td id=\"0-6\">39</td></tr>\n</table>\n\n<a id='8241c9ef-0b96-4de5-951f-75d1c5e9891d'></a>\n\n4. EDUCATIONAL BACKGROUND (College and/or University)\n1947 - B. Sc. Hons. (II), London University, in Special Chemistry with Subsidiary\nPhysiology\n\n1959 - Ph.D. London University, in Biochemistry, awarded on a thesis entitled\n\"Some Biochemical Investigations in Kwashiorkor (Protein Deficiency in\nChildren)\".\n\n<a id='f0b51351-007a-4c0e-9809-f8ff4c226dcc'></a>\n\n5. RESEARCH TRAINING (List of institutions, research director, subject and dates)\n1944-1945 - Laboratory assistant with Wellcome Research Laboratories, Beckenham, Kent\n1948-1949 - Research Assistant at Hammersmith Hospital (Postgraduate Medical School,\nLondon University)\n1949-1950 - British Council Scholarship to study techniques in enzyme research in\nthe Institute of Cyto-Physiology, University of Copenhagen, Denmark\n\n<a id='01a86de6-9013-4f2f-a12d-f99700cac1e7'></a>\n\n6 OTHER INFORMATION BEARING ON QUALIFICATIONS (Hospital appointments, professional societies, specialty board, etc.)\n1950-1957 - Employed as biochemist by the Medical Research Council, originally in\n            Department of Experimental Medicine, Cambridge. Seconded to Makerere\n            College, Kampala, Unganda in 1951 to work on protein deficiency\n1956 -      For six months - W.H.O. Fellowship to INCAP, Guatemala City, and\n            Institutions connected with Nutritional Studies in U.S.A.\n1957-1960 - Exchange fellow in Departments of Pharmacology, Washington University,\n            St. Louis, Mo., U.S.A., also in Department of Preventive Medicine, work-\n            ing on micro-analysis of tissue enzymes\n1960-Sept.1963 - Lecturer in Department of Human Nutrition, London School of Hygiene\n                 and Tropical Medicine, London, England\nOct.1963 to present - Research Associate, Department of Nutrition & Food Science,\n                      Mass. Institute of Technology. Cambridge 39. Mass.\n\n<a id='d95c2e0d-4408-4b06-b252-9ca5ddf0dce1'></a>\n\n7. Bibliography\nKarl, I.E., Schwartz, H., McNicol, S.M., Zarkowski, H. and Shank, R.E., (1961). Fed.\nProc. 20, 287. Effect of carbon tetrachloride on enzymes and biochemical\nconstituents of liver\nShank, R.E., Morrison, G., Cheng, C.H., Karl, I., and Schwartz, R., (1959). J.\nHistochem. cytochem. 2. 237. Cell Heterogeneity within the hepatic lobule\n(quantitative histochemistry)\n\n<a id='31f5a651-3c08-40dd-9047-1f5bbcb1cf5f'></a>\n\nOTSG FORM 108c\n1 FEB 59\n\n<a id='b7d16802-1161-4548-b40a-837c7321849e'></a>\n\nPREVIOUS EDITIONS OF THIS FORM MAY BE USED.\n\n<a id='8a3dfb72-ead3-4289-9fa2-827791f1e20a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhwg0227",
+            "chunks": [
+                "269c3708-2415-4db4-b884-1f286553e155",
+                "5f3f41c1-fff9-405e-aa07-c2afa1120fa9",
+                "3af6cf0e-a7fd-4bc6-a0b9-5788ee010f0c",
+                "f8f84bab-c7e2-47f1-b872-cc577a1fab15",
+                "34210dcb-1555-4ef0-b4d6-75246a5299b3",
+                "8241c9ef-0b96-4de5-951f-75d1c5e9891d",
+                "f0b51351-007a-4c0e-9809-f8ff4c226dcc",
+                "01a86de6-9013-4f2f-a12d-f99700cac1e7",
+                "d95c2e0d-4408-4b06-b252-9ca5ddf0dce1",
+                "31f5a651-3c08-40dd-9047-1f5bbcb1cf5f",
+                "b7d16802-1161-4548-b40a-837c7321849e",
+                "8a3dfb72-ead3-4289-9fa2-827791f1e20a"
+            ]
+        }
+    ],
+    "grounding": {
+        "269c3708-2415-4db4-b884-1f286553e155": {
+            "box": {
+                "left": 0.3907473087310791,
+                "top": 0.07757894694805145,
+                "right": 0.6246820688247681,
+                "bottom": 0.1260802000761032
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5f3f41c1-fff9-405e-aa07-c2afa1120fa9": {
+            "box": {
+                "left": 0.706919252872467,
+                "top": 0.06696448475122452,
+                "right": 0.9525255560874939,
+                "bottom": 0.10316219180822372
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "3af6cf0e-a7fd-4bc6-a0b9-5788ee010f0c": {
+            "box": {
+                "left": 0.2833758592605591,
+                "top": 0.12853093445301056,
+                "right": 0.7301928997039795,
+                "bottom": 0.1510358303785324
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f8f84bab-c7e2-47f1-b872-cc577a1fab15": {
+            "box": {
+                "left": 0.06569662690162659,
+                "top": 0.15687969326972961,
+                "right": 0.9527381658554077,
+                "bottom": 0.2071746587753296
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "34210dcb-1555-4ef0-b4d6-75246a5299b3": {
+            "box": {
+                "left": 0.06600666046142578,
+                "top": 0.2020925134420395,
+                "right": 0.9529904127120972,
+                "bottom": 0.253606379032135
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.06936176968537819,
+                "top": 0.20527737121873024,
+                "right": 0.9498335377088551,
+                "bottom": 0.251033878422823
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.06936176968537819,
+                "top": 0.20527737121873024,
+                "right": 0.4867235116259643,
+                "bottom": 0.21958531401348802
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.4867235116259643,
+                "top": 0.20527737121873024,
+                "right": 0.9497695141352196,
+                "bottom": 0.251033878422823
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.8931463994707087,
+                "top": 0.20527737121873024,
+                "right": 0.9497695141352196,
+                "bottom": 0.21958531401348802
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.06936176968537819,
+                "top": 0.21958531401348802,
+                "right": 0.4867235116259643,
+                "bottom": 0.251033878422823
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.8931463994707087,
+                "top": 0.21958531401348802,
+                "right": 0.9497695141352196,
+                "bottom": 0.251033878422823
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "8241c9ef-0b96-4de5-951f-75d1c5e9891d": {
+            "box": {
+                "left": 0.0647306740283966,
+                "top": 0.24908727407455444,
+                "right": 0.9520375728607178,
+                "bottom": 0.40373408794403076
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f0b51351-007a-4c0e-9809-f8ff4c226dcc": {
+            "box": {
+                "left": 0.06529459357261658,
+                "top": 0.3987082839012146,
+                "right": 0.9529505968093872,
+                "bottom": 0.49735426902770996
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "01a86de6-9013-4f2f-a12d-f99700cac1e7": {
+            "box": {
+                "left": 0.06348055601119995,
+                "top": 0.5787294507026672,
+                "right": 0.9517104029655457,
+                "bottom": 0.8031875491142273
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d95c2e0d-4408-4b06-b252-9ca5ddf0dce1": {
+            "box": {
+                "left": 0.06117546558380127,
+                "top": 0.8082908987998962,
+                "right": 0.9531371593475342,
+                "bottom": 0.940031111240387
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "31f5a651-3c08-40dd-9047-1f5bbcb1cf5f": {
+            "box": {
+                "left": 0.06919726729393005,
+                "top": 0.9536641240119934,
+                "right": 0.20958846807479858,
+                "bottom": 0.9777629971504211
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "b7d16802-1161-4548-b40a-837c7321849e": {
+            "box": {
+                "left": 0.23101918399333954,
+                "top": 0.9555954337120056,
+                "right": 0.5818751454353333,
+                "bottom": 0.9762595295906067
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8a3dfb72-ead3-4289-9fa2-827791f1e20a": {
+            "box": {
+                "left": 0.20832490921020508,
+                "top": 0.979616641998291,
+                "right": 0.7956234216690063,
+                "bottom": 0.9996222257614136
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "xhwg0227_9.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8544,
+        "credit_usage": 3.0,
+        "job_id": "cjirlhqoft2gkzxuigh6qig53",
+        "version": "dpt-2-20250919"
+    }
+}

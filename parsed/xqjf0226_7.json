@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='e352f05f-9ede-409b-b38d-cdde353ad35f'></a>\n\nColumn 2-\nStrategic Intent\n\n<a id='49d78b20-5123-46b1-b013-81494a21a215'></a>\n\n<::logo: actos\nAlways QD Power\npioglitazone HCl\nFor performance that benefits the body.\nA circular arrangement of stylized human figures in a dotted pattern, next to text in black dotted font.::>\n\n<a id='d3f59f4d-7607-49b3-8bf9-dfaeacf6f1ef'></a>\n\nShift the paradigm\nfrom glucose control to\ntreating insulin\nresistance\n\n<a id='9270b768-e046-498b-82e8-7abccb426576'></a>\n\nP4608-00007",
+    "chunks": [
+        {
+            "markdown": "<a id='e352f05f-9ede-409b-b38d-cdde353ad35f'></a>\n\nColumn 2-\nStrategic Intent",
+            "type": "text",
+            "id": "e352f05f-9ede-409b-b38d-cdde353ad35f",
+            "grounding": {
+                "box": {
+                    "left": 0.07364071905612946,
+                    "top": 0.04729440063238144,
+                    "right": 0.438476026058197,
+                    "bottom": 0.22044482827186584
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='49d78b20-5123-46b1-b013-81494a21a215'></a>\n\n<::logo: actos\nAlways QD Power\npioglitazone HCl\nFor performance that benefits the body.\nA circular arrangement of stylized human figures in a dotted pattern, next to text in black dotted font.::>",
+            "type": "logo",
+            "id": "49d78b20-5123-46b1-b013-81494a21a215",
+            "grounding": {
+                "box": {
+                    "left": 0.6489992141723633,
+                    "top": 0.05579537898302078,
+                    "right": 0.9540773630142212,
+                    "bottom": 0.22037267684936523
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d3f59f4d-7607-49b3-8bf9-dfaeacf6f1ef'></a>\n\nShift the paradigm\nfrom glucose control to\ntreating insulin\nresistance",
+            "type": "text",
+            "id": "d3f59f4d-7607-49b3-8bf9-dfaeacf6f1ef",
+            "grounding": {
+                "box": {
+                    "left": 0.15946847200393677,
+                    "top": 0.2788289785385132,
+                    "right": 0.8312341570854187,
+                    "bottom": 0.7258152961730957
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9270b768-e046-498b-82e8-7abccb426576'></a>\n\nP4608-00007",
+            "type": "marginalia",
+            "id": "9270b768-e046-498b-82e8-7abccb426576",
+            "grounding": {
+                "box": {
+                    "left": 0.28253594040870667,
+                    "top": 0.9698159694671631,
+                    "right": 0.717924952507019,
+                    "bottom": 1.0002305507659912
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e352f05f-9ede-409b-b38d-cdde353ad35f'></a>\n\nColumn 2-\nStrategic Intent\n\n<a id='49d78b20-5123-46b1-b013-81494a21a215'></a>\n\n<::logo: actos\nAlways QD Power\npioglitazone HCl\nFor performance that benefits the body.\nA circular arrangement of stylized human figures in a dotted pattern, next to text in black dotted font.::>\n\n<a id='d3f59f4d-7607-49b3-8bf9-dfaeacf6f1ef'></a>\n\nShift the paradigm\nfrom glucose control to\ntreating insulin\nresistance\n\n<a id='9270b768-e046-498b-82e8-7abccb426576'></a>\n\nP4608-00007",
+            "chunks": [
+                "e352f05f-9ede-409b-b38d-cdde353ad35f",
+                "49d78b20-5123-46b1-b013-81494a21a215",
+                "d3f59f4d-7607-49b3-8bf9-dfaeacf6f1ef",
+                "9270b768-e046-498b-82e8-7abccb426576"
+            ]
+        }
+    ],
+    "grounding": {
+        "e352f05f-9ede-409b-b38d-cdde353ad35f": {
+            "box": {
+                "left": 0.07364071905612946,
+                "top": 0.04729440063238144,
+                "right": 0.438476026058197,
+                "bottom": 0.22044482827186584
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "49d78b20-5123-46b1-b013-81494a21a215": {
+            "box": {
+                "left": 0.6489992141723633,
+                "top": 0.05579537898302078,
+                "right": 0.9540773630142212,
+                "bottom": 0.22037267684936523
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "d3f59f4d-7607-49b3-8bf9-dfaeacf6f1ef": {
+            "box": {
+                "left": 0.15946847200393677,
+                "top": 0.2788289785385132,
+                "right": 0.8312341570854187,
+                "bottom": 0.7258152961730957
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9270b768-e046-498b-82e8-7abccb426576": {
+            "box": {
+                "left": 0.28253594040870667,
+                "top": 0.9698159694671631,
+                "right": 0.717924952507019,
+                "bottom": 1.0002305507659912
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xqjf0226_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3606,
+        "credit_usage": 3.0,
+        "job_id": "v0k0ntt56to164uwedao7lpa5",
+        "version": "dpt-2-20250919"
+    }
+}

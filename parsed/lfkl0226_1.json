@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='499f2acc-47d4-42ab-91a4-cea55816c582'></a>\n\n<::An illustration of a woman and a small child walking hand-in-hand. The woman is on the left, wearing a suit with a skirt, jacket, and gloves, and carrying a handbag. The child, on the right, is wearing a dress with a sailor collar and holding a small object in their free hand. Both figures are depicted in a stylized, somewhat vintage fashion, against a plain background with some faint smudges.: figure::>\n\n<a id='a6b79ad7-d251-4b76-ab2c-9cdfb587112c'></a>\n\nResistance to\nInfectious Diseases\n\n<a id='8ba3deb5-c417-4c76-ae51-4edbe041f1e4'></a>\n\nin childhood as well as during adult life, depends\nlargely on good nutrition, and especially on a\nsufficient amount of biologically adequate pro-\ntein in the daily diet.* The proteins of meat\u2014\nregardless of kind or cut\u2014are of highest quality.\nThey are the RIGHT KIND for every protein\nneed, including the body's ability to resist disease.\n\n<a id='040ee7f8-8493-42ea-b88f-865987161377'></a>\n\n*In the February 1944 issue of the Journal of the American Dietetic Association Dr. Paul R. Cannon of the University of Chicago points out that resistance to infections requires in the daily diet \"an adequate supply of proteins of good biological quality\" to make available the building stones from which the body fashions its defense forces. If protein supply is insufficient in amount and in quality, resistance power soon breaks down. \"Avoidance of this danger,\" he concludes, \"can be achieved mainly through the processes of good nutrition and, particularly, through effective protein metabolism.\"\n\n<a id='95b09841-a689-4942-89bf-0d0f28e261b2'></a>\n\n<::logo: American Medical Assn. ACCEPTED AMERICAN MEDICAL ASSN. Council on Foods A shield-shaped emblem with text in a dark color on a lighter background.::>\n\n<a id='e3bc6fc5-d8a2-44f1-a0c6-d66571ecbaa2'></a>\n\nThe Seal of Acceptance denotes\nthat the nutritional statements\nmade in this advertisement are\nacceptable to the Council on\nFoods and Nutrition of the\nAmerican Medical Association.\n\n<a id='e7007ba6-e28b-440e-bf29-552a7e266f92'></a>\n\nAMERICAN MEAT INSTITUTE\n\n<a id='f79c2a7e-e04b-4f41-850e-92fc83ed0ffd'></a>\n\nMAIN OFFICE, CHICAGO...MEMBERS THROUGHOUT THE UNITED STATES\n\n<a id='53ff226a-6072-442a-b803-ae4a92ed114e'></a>\n\nThis advertisement No. A.M.I.-45 (7343) appears in the May 1944 issue of Hygeia",
+    "chunks": [
+        {
+            "markdown": "<a id='499f2acc-47d4-42ab-91a4-cea55816c582'></a>\n\n<::An illustration of a woman and a small child walking hand-in-hand. The woman is on the left, wearing a suit with a skirt, jacket, and gloves, and carrying a handbag. The child, on the right, is wearing a dress with a sailor collar and holding a small object in their free hand. Both figures are depicted in a stylized, somewhat vintage fashion, against a plain background with some faint smudges.: figure::>",
+            "type": "figure",
+            "id": "499f2acc-47d4-42ab-91a4-cea55816c582",
+            "grounding": {
+                "box": {
+                    "left": 0.06789888441562653,
+                    "top": 0.030204027891159058,
+                    "right": 0.4125410318374634,
+                    "bottom": 0.30016782879829407
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a6b79ad7-d251-4b76-ab2c-9cdfb587112c'></a>\n\nResistance to\nInfectious Diseases",
+            "type": "text",
+            "id": "a6b79ad7-d251-4b76-ab2c-9cdfb587112c",
+            "grounding": {
+                "box": {
+                    "left": 0.2489086240530014,
+                    "top": 0.30294498801231384,
+                    "right": 0.7125099301338196,
+                    "bottom": 0.43352994322776794
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ba3deb5-c417-4c76-ae51-4edbe041f1e4'></a>\n\nin childhood as well as during adult life, depends\nlargely on good nutrition, and especially on a\nsufficient amount of biologically adequate pro-\ntein in the daily diet.* The proteins of meat\u2014\nregardless of kind or cut\u2014are of highest quality.\nThey are the RIGHT KIND for every protein\nneed, including the body's ability to resist disease.",
+            "type": "text",
+            "id": "8ba3deb5-c417-4c76-ae51-4edbe041f1e4",
+            "grounding": {
+                "box": {
+                    "left": 0.3126527667045593,
+                    "top": 0.44303983449935913,
+                    "right": 0.7670761942863464,
+                    "bottom": 0.6821245551109314
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='040ee7f8-8493-42ea-b88f-865987161377'></a>\n\n*In the February 1944 issue of the Journal of the American Dietetic Association Dr. Paul R. Cannon of the University of Chicago points out that resistance to infections requires in the daily diet \"an adequate supply of proteins of good biological quality\" to make available the building stones from which the body fashions its defense forces. If protein supply is insufficient in amount and in quality, resistance power soon breaks down. \"Avoidance of this danger,\" he concludes, \"can be achieved mainly through the processes of good nutrition and, particularly, through effective protein metabolism.\"",
+            "type": "text",
+            "id": "040ee7f8-8493-42ea-b88f-865987161377",
+            "grounding": {
+                "box": {
+                    "left": 0.06161358952522278,
+                    "top": 0.781758725643158,
+                    "right": 0.549936056137085,
+                    "bottom": 0.8823501467704773
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='95b09841-a689-4942-89bf-0d0f28e261b2'></a>\n\n<::logo: American Medical Assn. ACCEPTED AMERICAN MEDICAL ASSN. Council on Foods A shield-shaped emblem with text in a dark color on a lighter background.::>",
+            "type": "logo",
+            "id": "95b09841-a689-4942-89bf-0d0f28e261b2",
+            "grounding": {
+                "box": {
+                    "left": 0.5663790702819824,
+                    "top": 0.7947375774383545,
+                    "right": 0.6553070545196533,
+                    "bottom": 0.8671791553497314
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e3bc6fc5-d8a2-44f1-a0c6-d66571ecbaa2'></a>\n\nThe Seal of Acceptance denotes\nthat the nutritional statements\nmade in this advertisement are\nacceptable to the Council on\nFoods and Nutrition of the\nAmerican Medical Association.",
+            "type": "text",
+            "id": "e3bc6fc5-d8a2-44f1-a0c6-d66571ecbaa2",
+            "grounding": {
+                "box": {
+                    "left": 0.6713729500770569,
+                    "top": 0.7881467938423157,
+                    "right": 0.8710244297981262,
+                    "bottom": 0.8810930848121643
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e7007ba6-e28b-440e-bf29-552a7e266f92'></a>\n\nAMERICAN MEAT INSTITUTE",
+            "type": "text",
+            "id": "e7007ba6-e28b-440e-bf29-552a7e266f92",
+            "grounding": {
+                "box": {
+                    "left": 0.06254896521568298,
+                    "top": 0.8866317868232727,
+                    "right": 0.8716968297958374,
+                    "bottom": 0.9265348315238953
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f79c2a7e-e04b-4f41-850e-92fc83ed0ffd'></a>\n\nMAIN OFFICE, CHICAGO...MEMBERS THROUGHOUT THE UNITED STATES",
+            "type": "text",
+            "id": "f79c2a7e-e04b-4f41-850e-92fc83ed0ffd",
+            "grounding": {
+                "box": {
+                    "left": 0.0646691620349884,
+                    "top": 0.9250809550285339,
+                    "right": 0.874470591545105,
+                    "bottom": 0.9523480534553528
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='53ff226a-6072-442a-b803-ae4a92ed114e'></a>\n\nThis advertisement No. A.M.I.-45 (7343) appears in the May 1944 issue of Hygeia",
+            "type": "text",
+            "id": "53ff226a-6072-442a-b803-ae4a92ed114e",
+            "grounding": {
+                "box": {
+                    "left": 0.23040297627449036,
+                    "top": 0.9573954343795776,
+                    "right": 0.707656979560852,
+                    "bottom": 0.9923723936080933
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='499f2acc-47d4-42ab-91a4-cea55816c582'></a>\n\n<::An illustration of a woman and a small child walking hand-in-hand. The woman is on the left, wearing a suit with a skirt, jacket, and gloves, and carrying a handbag. The child, on the right, is wearing a dress with a sailor collar and holding a small object in their free hand. Both figures are depicted in a stylized, somewhat vintage fashion, against a plain background with some faint smudges.: figure::>\n\n<a id='a6b79ad7-d251-4b76-ab2c-9cdfb587112c'></a>\n\nResistance to\nInfectious Diseases\n\n<a id='8ba3deb5-c417-4c76-ae51-4edbe041f1e4'></a>\n\nin childhood as well as during adult life, depends\nlargely on good nutrition, and especially on a\nsufficient amount of biologically adequate pro-\ntein in the daily diet.* The proteins of meat\u2014\nregardless of kind or cut\u2014are of highest quality.\nThey are the RIGHT KIND for every protein\nneed, including the body's ability to resist disease.\n\n<a id='040ee7f8-8493-42ea-b88f-865987161377'></a>\n\n*In the February 1944 issue of the Journal of the American Dietetic Association Dr. Paul R. Cannon of the University of Chicago points out that resistance to infections requires in the daily diet \"an adequate supply of proteins of good biological quality\" to make available the building stones from which the body fashions its defense forces. If protein supply is insufficient in amount and in quality, resistance power soon breaks down. \"Avoidance of this danger,\" he concludes, \"can be achieved mainly through the processes of good nutrition and, particularly, through effective protein metabolism.\"\n\n<a id='95b09841-a689-4942-89bf-0d0f28e261b2'></a>\n\n<::logo: American Medical Assn. ACCEPTED AMERICAN MEDICAL ASSN. Council on Foods A shield-shaped emblem with text in a dark color on a lighter background.::>\n\n<a id='e3bc6fc5-d8a2-44f1-a0c6-d66571ecbaa2'></a>\n\nThe Seal of Acceptance denotes\nthat the nutritional statements\nmade in this advertisement are\nacceptable to the Council on\nFoods and Nutrition of the\nAmerican Medical Association.\n\n<a id='e7007ba6-e28b-440e-bf29-552a7e266f92'></a>\n\nAMERICAN MEAT INSTITUTE\n\n<a id='f79c2a7e-e04b-4f41-850e-92fc83ed0ffd'></a>\n\nMAIN OFFICE, CHICAGO...MEMBERS THROUGHOUT THE UNITED STATES\n\n<a id='53ff226a-6072-442a-b803-ae4a92ed114e'></a>\n\nThis advertisement No. A.M.I.-45 (7343) appears in the May 1944 issue of Hygeia",
+            "chunks": [
+                "499f2acc-47d4-42ab-91a4-cea55816c582",
+                "a6b79ad7-d251-4b76-ab2c-9cdfb587112c",
+                "8ba3deb5-c417-4c76-ae51-4edbe041f1e4",
+                "040ee7f8-8493-42ea-b88f-865987161377",
+                "95b09841-a689-4942-89bf-0d0f28e261b2",
+                "e3bc6fc5-d8a2-44f1-a0c6-d66571ecbaa2",
+                "e7007ba6-e28b-440e-bf29-552a7e266f92",
+                "f79c2a7e-e04b-4f41-850e-92fc83ed0ffd",
+                "53ff226a-6072-442a-b803-ae4a92ed114e"
+            ]
+        }
+    ],
+    "grounding": {
+        "499f2acc-47d4-42ab-91a4-cea55816c582": {
+            "box": {
+                "left": 0.06789888441562653,
+                "top": 0.030204027891159058,
+                "right": 0.4125410318374634,
+                "bottom": 0.30016782879829407
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "a6b79ad7-d251-4b76-ab2c-9cdfb587112c": {
+            "box": {
+                "left": 0.2489086240530014,
+                "top": 0.30294498801231384,
+                "right": 0.7125099301338196,
+                "bottom": 0.43352994322776794
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8ba3deb5-c417-4c76-ae51-4edbe041f1e4": {
+            "box": {
+                "left": 0.3126527667045593,
+                "top": 0.44303983449935913,
+                "right": 0.7670761942863464,
+                "bottom": 0.6821245551109314
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "040ee7f8-8493-42ea-b88f-865987161377": {
+            "box": {
+                "left": 0.06161358952522278,
+                "top": 0.781758725643158,
+                "right": 0.549936056137085,
+                "bottom": 0.8823501467704773
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "95b09841-a689-4942-89bf-0d0f28e261b2": {
+            "box": {
+                "left": 0.5663790702819824,
+                "top": 0.7947375774383545,
+                "right": 0.6553070545196533,
+                "bottom": 0.8671791553497314
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "e3bc6fc5-d8a2-44f1-a0c6-d66571ecbaa2": {
+            "box": {
+                "left": 0.6713729500770569,
+                "top": 0.7881467938423157,
+                "right": 0.8710244297981262,
+                "bottom": 0.8810930848121643
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e7007ba6-e28b-440e-bf29-552a7e266f92": {
+            "box": {
+                "left": 0.06254896521568298,
+                "top": 0.8866317868232727,
+                "right": 0.8716968297958374,
+                "bottom": 0.9265348315238953
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f79c2a7e-e04b-4f41-850e-92fc83ed0ffd": {
+            "box": {
+                "left": 0.0646691620349884,
+                "top": 0.9250809550285339,
+                "right": 0.874470591545105,
+                "bottom": 0.9523480534553528
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "53ff226a-6072-442a-b803-ae4a92ed114e": {
+            "box": {
+                "left": 0.23040297627449036,
+                "top": 0.9573954343795776,
+                "right": 0.707656979560852,
+                "bottom": 0.9923723936080933
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lfkl0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5094,
+        "credit_usage": 3.0,
+        "job_id": "wvy5i3dy1uyzruw7qvxe9jydv",
+        "version": "dpt-2-20250919"
+    }
+}

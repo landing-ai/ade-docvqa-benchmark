@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='ce1a702e-a5a0-44ed-98e6-951a21cb1f7f'></a>\n\nTOO MANY PEOPLE ARE OVERWEIGHT\n\n<a id='82cf7861-09cb-463a-8ae9-b217d670d694'></a>\n\n<::Proportion Exceeding \"Best\" Weight\n\nMEN\nAge When Insured\n\nBy 10% or more:\n20-29: 31%\n30-39: 53%\n40-49: 60%\n50-59: 63%\n\nBy 20% or more:\n20-29: 12%\n30-39: 25%\n40-49: 32%\n50-59: 34%\n\nWOMEN\nAge When Insured\n\nBy 10% or more:\n20-29: 23%\n30-39: 41%\n40-49: 59%\n50-59: 67%\n\nBy 20% or more:\n20-29: 12%\n30-39: 25%\n40-49: 40%\n50-59: 46%\n: chart::>\n\n<a id='26cf404a-3bc8-4f37-a5fa-263a75f299b7'></a>\n\n\"Best\" weight is slight or moderate underweight, ranging from about 5-10% below average weight at age 30 to about 10-15% below at ages 45 and over.",
+    "chunks": [
+        {
+            "markdown": "<a id='ce1a702e-a5a0-44ed-98e6-951a21cb1f7f'></a>\n\nTOO MANY PEOPLE ARE OVERWEIGHT",
+            "type": "text",
+            "id": "ce1a702e-a5a0-44ed-98e6-951a21cb1f7f",
+            "grounding": {
+                "box": {
+                    "left": 0.14034408330917358,
+                    "top": 0.055346861481666565,
+                    "right": 0.8383769392967224,
+                    "bottom": 0.10144326090812683
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='82cf7861-09cb-463a-8ae9-b217d670d694'></a>\n\n<::Proportion Exceeding \"Best\" Weight\n\nMEN\nAge When Insured\n\nBy 10% or more:\n20-29: 31%\n30-39: 53%\n40-49: 60%\n50-59: 63%\n\nBy 20% or more:\n20-29: 12%\n30-39: 25%\n40-49: 32%\n50-59: 34%\n\nWOMEN\nAge When Insured\n\nBy 10% or more:\n20-29: 23%\n30-39: 41%\n40-49: 59%\n50-59: 67%\n\nBy 20% or more:\n20-29: 12%\n30-39: 25%\n40-49: 40%\n50-59: 46%\n: chart::>",
+            "type": "figure",
+            "id": "82cf7861-09cb-463a-8ae9-b217d670d694",
+            "grounding": {
+                "box": {
+                    "left": 0.0625067949295044,
+                    "top": 0.11308586597442627,
+                    "right": 0.9017466902732849,
+                    "bottom": 0.7996334433555603
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='26cf404a-3bc8-4f37-a5fa-263a75f299b7'></a>\n\n\"Best\" weight is slight or moderate underweight, ranging from about 5-10% below average weight at age 30 to about 10-15% below at ages 45 and over.",
+            "type": "text",
+            "id": "26cf404a-3bc8-4f37-a5fa-263a75f299b7",
+            "grounding": {
+                "box": {
+                    "left": 0.1903272569179535,
+                    "top": 0.852672278881073,
+                    "right": 0.7833526134490967,
+                    "bottom": 0.9300807118415833
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ce1a702e-a5a0-44ed-98e6-951a21cb1f7f'></a>\n\nTOO MANY PEOPLE ARE OVERWEIGHT\n\n<a id='82cf7861-09cb-463a-8ae9-b217d670d694'></a>\n\n<::Proportion Exceeding \"Best\" Weight\n\nMEN\nAge When Insured\n\nBy 10% or more:\n20-29: 31%\n30-39: 53%\n40-49: 60%\n50-59: 63%\n\nBy 20% or more:\n20-29: 12%\n30-39: 25%\n40-49: 32%\n50-59: 34%\n\nWOMEN\nAge When Insured\n\nBy 10% or more:\n20-29: 23%\n30-39: 41%\n40-49: 59%\n50-59: 67%\n\nBy 20% or more:\n20-29: 12%\n30-39: 25%\n40-49: 40%\n50-59: 46%\n: chart::>\n\n<a id='26cf404a-3bc8-4f37-a5fa-263a75f299b7'></a>\n\n\"Best\" weight is slight or moderate underweight, ranging from about 5-10% below average weight at age 30 to about 10-15% below at ages 45 and over.",
+            "chunks": [
+                "ce1a702e-a5a0-44ed-98e6-951a21cb1f7f",
+                "82cf7861-09cb-463a-8ae9-b217d670d694",
+                "26cf404a-3bc8-4f37-a5fa-263a75f299b7"
+            ]
+        }
+    ],
+    "grounding": {
+        "ce1a702e-a5a0-44ed-98e6-951a21cb1f7f": {
+            "box": {
+                "left": 0.14034408330917358,
+                "top": 0.055346861481666565,
+                "right": 0.8383769392967224,
+                "bottom": 0.10144326090812683
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "82cf7861-09cb-463a-8ae9-b217d670d694": {
+            "box": {
+                "left": 0.0625067949295044,
+                "top": 0.11308586597442627,
+                "right": 0.9017466902732849,
+                "bottom": 0.7996334433555603
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "26cf404a-3bc8-4f37-a5fa-263a75f299b7": {
+            "box": {
+                "left": 0.1903272569179535,
+                "top": 0.852672278881073,
+                "right": 0.7833526134490967,
+                "bottom": 0.9300807118415833
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "ysmc0228_6.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 20479,
+        "credit_usage": 3.0,
+        "job_id": "g8891duvewp15941lkfn480ox",
+        "version": "dpt-2-20250919"
+    }
+}

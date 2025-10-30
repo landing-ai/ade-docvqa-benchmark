@@ -1,0 +1,793 @@
+{
+    "markdown": "<a id='db9a2a8e-37e6-4b2b-a9b7-208370acdead'></a>\n\nReferences \u2013 Yellow highlight indicates the most recently added refs. (hardcopy needs to be\n\n<a id='f868f7eb-2b2a-47dc-9588-a494efd3e0cf'></a>\n\nrequested)\n\n<a id='a1482501-df49-4f30-8fa2-1da82c8bc470'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">1</td><td id=\"0-3\">Mendelsohn, 1999</td><td id=\"0-4\">10980</td></tr>\n<tr><td id=\"0-5\">2</td><td id=\"0-6\">Barrett-Connor, 1998</td><td id=\"0-7\">15551</td></tr>\n<tr><td id=\"0-8\">3</td><td id=\"0-9\">Grady, 1995</td><td id=\"0-a\">6471</td></tr>\n<tr><td id=\"0-b\">4</td><td id=\"0-c\">Persson, 1999</td><td id=\"0-d\">15021</td></tr>\n<tr><td id=\"0-e\">5</td><td id=\"0-f\">Tremollieres, 2000</td><td id=\"0-g\">26372</td></tr>\n<tr><td id=\"0-h\">6</td><td id=\"0-i\">Hayashi, 2000</td><td id=\"0-j\">26368</td></tr>\n<tr><td id=\"0-k\">7</td><td id=\"0-l\">Westendorp, 1999</td><td id=\"0-m\">26432</td></tr>\n<tr><td id=\"0-n\">8</td><td id=\"0-o\">McCrohon, 1996</td><td id=\"0-p\">15129</td></tr>\n<tr><td id=\"0-q\">9</td><td id=\"0-r\">Williams, 1997</td><td id=\"0-s\">Circulation; cant read #</td></tr>\n<tr><td id=\"0-t\">10</td><td id=\"0-u\">Collins, 1995</td><td id=\"0-v\">26433</td></tr>\n<tr><td id=\"0-w\">11</td><td id=\"0-x\">Konukoglu, 2000</td><td id=\"0-y\">26363</td></tr>\n<tr><td id=\"0-z\">12</td><td id=\"0-A\">Chan, 2001</td><td id=\"0-B\">26382</td></tr>\n<tr><td id=\"0-C\">13</td><td id=\"0-D\">Anwaar, 2000</td><td id=\"0-E\">26359</td></tr>\n<tr><td id=\"0-F\">14</td><td id=\"0-G\">Kawano, 1996</td><td id=\"0-H\">26360</td></tr>\n<tr><td id=\"0-I\">15</td><td id=\"0-J\">Miyagawa, 1997</td><td id=\"0-K\">Nature Med 3:324-327; cant read #</td></tr>\n<tr><td id=\"0-L\">16</td><td id=\"0-M\">Koh, 2001</td><td id=\"0-N\">24172</td></tr>\n<tr><td id=\"0-O\">17</td><td id=\"0-P\">Adams, 1997</td><td id=\"0-Q\">4848</td></tr>\n<tr><td id=\"0-R\">18</td><td id=\"0-S\">Saitta, 2001</td><td id=\"0-T\">26305</td></tr>\n<tr><td id=\"0-U\">19</td><td id=\"0-V\">de Valk-de Roo, 1999</td><td id=\"0-W\">14589</td></tr>\n<tr><td id=\"0-X\">20</td><td id=\"0-Y\">Simoncin\u0131, 2000</td><td id=\"0-Z\">18656</td></tr>\n<tr><td id=\"0-10\">21</td><td id=\"0-11\">Figtree, 1999</td><td id=\"0-12\">26434</td></tr>\n</table>\n\n<a id='0daa0c46-5edc-4f42-a444-0e7ea7bca750'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217\n\n<a id='80508d74-5f6f-4c59-a41a-d5bc7ea97a72'></a>\n\nDWRITE 067871",
+    "chunks": [
+        {
+            "markdown": "<a id='db9a2a8e-37e6-4b2b-a9b7-208370acdead'></a>\n\nReferences \u2013 Yellow highlight indicates the most recently added refs. (hardcopy needs to be",
+            "type": "text",
+            "id": "db9a2a8e-37e6-4b2b-a9b7-208370acdead",
+            "grounding": {
+                "box": {
+                    "left": 0.11788931488990784,
+                    "top": 0.08546285331249237,
+                    "right": 0.8771183490753174,
+                    "bottom": 0.11364370584487915
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f868f7eb-2b2a-47dc-9588-a494efd3e0cf'></a>\n\nrequested)",
+            "type": "text",
+            "id": "f868f7eb-2b2a-47dc-9588-a494efd3e0cf",
+            "grounding": {
+                "box": {
+                    "left": 0.11661019921302795,
+                    "top": 0.12307099252939224,
+                    "right": 0.22441422939300537,
+                    "bottom": 0.14507584273815155
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a1482501-df49-4f30-8fa2-1da82c8bc470'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">1</td><td id=\"0-3\">Mendelsohn, 1999</td><td id=\"0-4\">10980</td></tr>\n<tr><td id=\"0-5\">2</td><td id=\"0-6\">Barrett-Connor, 1998</td><td id=\"0-7\">15551</td></tr>\n<tr><td id=\"0-8\">3</td><td id=\"0-9\">Grady, 1995</td><td id=\"0-a\">6471</td></tr>\n<tr><td id=\"0-b\">4</td><td id=\"0-c\">Persson, 1999</td><td id=\"0-d\">15021</td></tr>\n<tr><td id=\"0-e\">5</td><td id=\"0-f\">Tremollieres, 2000</td><td id=\"0-g\">26372</td></tr>\n<tr><td id=\"0-h\">6</td><td id=\"0-i\">Hayashi, 2000</td><td id=\"0-j\">26368</td></tr>\n<tr><td id=\"0-k\">7</td><td id=\"0-l\">Westendorp, 1999</td><td id=\"0-m\">26432</td></tr>\n<tr><td id=\"0-n\">8</td><td id=\"0-o\">McCrohon, 1996</td><td id=\"0-p\">15129</td></tr>\n<tr><td id=\"0-q\">9</td><td id=\"0-r\">Williams, 1997</td><td id=\"0-s\">Circulation; cant read #</td></tr>\n<tr><td id=\"0-t\">10</td><td id=\"0-u\">Collins, 1995</td><td id=\"0-v\">26433</td></tr>\n<tr><td id=\"0-w\">11</td><td id=\"0-x\">Konukoglu, 2000</td><td id=\"0-y\">26363</td></tr>\n<tr><td id=\"0-z\">12</td><td id=\"0-A\">Chan, 2001</td><td id=\"0-B\">26382</td></tr>\n<tr><td id=\"0-C\">13</td><td id=\"0-D\">Anwaar, 2000</td><td id=\"0-E\">26359</td></tr>\n<tr><td id=\"0-F\">14</td><td id=\"0-G\">Kawano, 1996</td><td id=\"0-H\">26360</td></tr>\n<tr><td id=\"0-I\">15</td><td id=\"0-J\">Miyagawa, 1997</td><td id=\"0-K\">Nature Med 3:324-327; cant read #</td></tr>\n<tr><td id=\"0-L\">16</td><td id=\"0-M\">Koh, 2001</td><td id=\"0-N\">24172</td></tr>\n<tr><td id=\"0-O\">17</td><td id=\"0-P\">Adams, 1997</td><td id=\"0-Q\">4848</td></tr>\n<tr><td id=\"0-R\">18</td><td id=\"0-S\">Saitta, 2001</td><td id=\"0-T\">26305</td></tr>\n<tr><td id=\"0-U\">19</td><td id=\"0-V\">de Valk-de Roo, 1999</td><td id=\"0-W\">14589</td></tr>\n<tr><td id=\"0-X\">20</td><td id=\"0-Y\">Simoncin\u0131, 2000</td><td id=\"0-Z\">18656</td></tr>\n<tr><td id=\"0-10\">21</td><td id=\"0-11\">Figtree, 1999</td><td id=\"0-12\">26434</td></tr>\n</table>",
+            "type": "table",
+            "id": "a1482501-df49-4f30-8fa2-1da82c8bc470",
+            "grounding": {
+                "box": {
+                    "left": 0.10925593972206116,
+                    "top": 0.15226376056671143,
+                    "right": 0.7408744096755981,
+                    "bottom": 0.8942426443099976
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0daa0c46-5edc-4f42-a444-0e7ea7bca750'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217",
+            "type": "marginalia",
+            "id": "0daa0c46-5edc-4f42-a444-0e7ea7bca750",
+            "grounding": {
+                "box": {
+                    "left": 0.2149796187877655,
+                    "top": 0.9766208529472351,
+                    "right": 0.7859786748886108,
+                    "bottom": 0.9999250769615173
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='80508d74-5f6f-4c59-a41a-d5bc7ea97a72'></a>\n\nDWRITE 067871",
+            "type": "marginalia",
+            "id": "80508d74-5f6f-4c59-a41a-d5bc7ea97a72",
+            "grounding": {
+                "box": {
+                    "left": 0.8329616189002991,
+                    "top": 0.9715171456336975,
+                    "right": 0.9670869708061218,
+                    "bottom": 0.9922338128089905
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='db9a2a8e-37e6-4b2b-a9b7-208370acdead'></a>\n\nReferences \u2013 Yellow highlight indicates the most recently added refs. (hardcopy needs to be\n\n<a id='f868f7eb-2b2a-47dc-9588-a494efd3e0cf'></a>\n\nrequested)\n\n<a id='a1482501-df49-4f30-8fa2-1da82c8bc470'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">1</td><td id=\"0-3\">Mendelsohn, 1999</td><td id=\"0-4\">10980</td></tr>\n<tr><td id=\"0-5\">2</td><td id=\"0-6\">Barrett-Connor, 1998</td><td id=\"0-7\">15551</td></tr>\n<tr><td id=\"0-8\">3</td><td id=\"0-9\">Grady, 1995</td><td id=\"0-a\">6471</td></tr>\n<tr><td id=\"0-b\">4</td><td id=\"0-c\">Persson, 1999</td><td id=\"0-d\">15021</td></tr>\n<tr><td id=\"0-e\">5</td><td id=\"0-f\">Tremollieres, 2000</td><td id=\"0-g\">26372</td></tr>\n<tr><td id=\"0-h\">6</td><td id=\"0-i\">Hayashi, 2000</td><td id=\"0-j\">26368</td></tr>\n<tr><td id=\"0-k\">7</td><td id=\"0-l\">Westendorp, 1999</td><td id=\"0-m\">26432</td></tr>\n<tr><td id=\"0-n\">8</td><td id=\"0-o\">McCrohon, 1996</td><td id=\"0-p\">15129</td></tr>\n<tr><td id=\"0-q\">9</td><td id=\"0-r\">Williams, 1997</td><td id=\"0-s\">Circulation; cant read #</td></tr>\n<tr><td id=\"0-t\">10</td><td id=\"0-u\">Collins, 1995</td><td id=\"0-v\">26433</td></tr>\n<tr><td id=\"0-w\">11</td><td id=\"0-x\">Konukoglu, 2000</td><td id=\"0-y\">26363</td></tr>\n<tr><td id=\"0-z\">12</td><td id=\"0-A\">Chan, 2001</td><td id=\"0-B\">26382</td></tr>\n<tr><td id=\"0-C\">13</td><td id=\"0-D\">Anwaar, 2000</td><td id=\"0-E\">26359</td></tr>\n<tr><td id=\"0-F\">14</td><td id=\"0-G\">Kawano, 1996</td><td id=\"0-H\">26360</td></tr>\n<tr><td id=\"0-I\">15</td><td id=\"0-J\">Miyagawa, 1997</td><td id=\"0-K\">Nature Med 3:324-327; cant read #</td></tr>\n<tr><td id=\"0-L\">16</td><td id=\"0-M\">Koh, 2001</td><td id=\"0-N\">24172</td></tr>\n<tr><td id=\"0-O\">17</td><td id=\"0-P\">Adams, 1997</td><td id=\"0-Q\">4848</td></tr>\n<tr><td id=\"0-R\">18</td><td id=\"0-S\">Saitta, 2001</td><td id=\"0-T\">26305</td></tr>\n<tr><td id=\"0-U\">19</td><td id=\"0-V\">de Valk-de Roo, 1999</td><td id=\"0-W\">14589</td></tr>\n<tr><td id=\"0-X\">20</td><td id=\"0-Y\">Simoncin\u0131, 2000</td><td id=\"0-Z\">18656</td></tr>\n<tr><td id=\"0-10\">21</td><td id=\"0-11\">Figtree, 1999</td><td id=\"0-12\">26434</td></tr>\n</table>\n\n<a id='0daa0c46-5edc-4f42-a444-0e7ea7bca750'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217\n\n<a id='80508d74-5f6f-4c59-a41a-d5bc7ea97a72'></a>\n\nDWRITE 067871",
+            "chunks": [
+                "db9a2a8e-37e6-4b2b-a9b7-208370acdead",
+                "f868f7eb-2b2a-47dc-9588-a494efd3e0cf",
+                "a1482501-df49-4f30-8fa2-1da82c8bc470",
+                "0daa0c46-5edc-4f42-a444-0e7ea7bca750",
+                "80508d74-5f6f-4c59-a41a-d5bc7ea97a72"
+            ]
+        }
+    ],
+    "grounding": {
+        "db9a2a8e-37e6-4b2b-a9b7-208370acdead": {
+            "box": {
+                "left": 0.11788931488990784,
+                "top": 0.08546285331249237,
+                "right": 0.8771183490753174,
+                "bottom": 0.11364370584487915
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f868f7eb-2b2a-47dc-9588-a494efd3e0cf": {
+            "box": {
+                "left": 0.11661019921302795,
+                "top": 0.12307099252939224,
+                "right": 0.22441422939300537,
+                "bottom": 0.14507584273815155
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a1482501-df49-4f30-8fa2-1da82c8bc470": {
+            "box": {
+                "left": 0.10925593972206116,
+                "top": 0.15226376056671143,
+                "right": 0.7408744096755981,
+                "bottom": 0.8942426443099976
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.15883863080568816,
+                "right": 0.7300855322918967,
+                "bottom": 0.8855040614845393
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.15883863080568816,
+                "right": 0.17489082147599255,
+                "bottom": 0.19369980063710646
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.15883863080568816,
+                "right": 0.3817788969391058,
+                "bottom": 0.19369980063710646
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.15883863080568816,
+                "right": 0.7259804980391777,
+                "bottom": 0.19369980063710646
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.19369980063710646,
+                "right": 0.17489082147599255,
+                "bottom": 0.228257294770156
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.19369980063710646,
+                "right": 0.3817788969391058,
+                "bottom": 0.228257294770156
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.19369980063710646,
+                "right": 0.7259804980391777,
+                "bottom": 0.228257294770156
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.228257294770156,
+                "right": 0.17489082147599255,
+                "bottom": 0.2631594401143893
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.228257294770156,
+                "right": 0.3817788969391058,
+                "bottom": 0.2631594401143893
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.228257294770156,
+                "right": 0.7259804980391777,
+                "bottom": 0.2631594401143893
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.2631594401143893,
+                "right": 0.17489082147599255,
+                "bottom": 0.2978884320090529
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.2631594401143893,
+                "right": 0.3817788969391058,
+                "bottom": 0.2978884320090529
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.2631594401143893,
+                "right": 0.7259804980391777,
+                "bottom": 0.2978884320090529
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.2978884320090529,
+                "right": 0.17489082147599255,
+                "bottom": 0.3325789035909459
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.2978884320090529,
+                "right": 0.3817788969391058,
+                "bottom": 0.3325789035909459
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.2978884320090529,
+                "right": 0.7259804980391777,
+                "bottom": 0.3325789035909459
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.3325789035909459,
+                "right": 0.17489082147599255,
+                "bottom": 0.36701563201035725
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.3325789035909459,
+                "right": 0.3817788969391058,
+                "bottom": 0.36701563201035725
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.3325789035909459,
+                "right": 0.7259804980391777,
+                "bottom": 0.36701563201035725
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.36701563201035725,
+                "right": 0.17489082147599255,
+                "bottom": 0.40167743448461124
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.36701563201035725,
+                "right": 0.3817788969391058,
+                "bottom": 0.40167743448461124
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.36701563201035725,
+                "right": 0.7259804980391777,
+                "bottom": 0.40167743448461124
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.40167743448461124,
+                "right": 0.17489082147599255,
+                "bottom": 0.4360744816748223
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.40167743448461124,
+                "right": 0.3817788969391058,
+                "bottom": 0.4360744816748223
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.40167743448461124,
+                "right": 0.7259804980391777,
+                "bottom": 0.4360744816748223
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.4360744816748223,
+                "right": 0.17489082147599255,
+                "bottom": 0.47092391035680237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.4360744816748223,
+                "right": 0.3817788969391058,
+                "bottom": 0.47092391035680237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.4360744816748223,
+                "right": 0.7259804980391777,
+                "bottom": 0.47092391035680237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.47092391035680237,
+                "right": 0.17489082147599255,
+                "bottom": 0.5056805762878795
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.47092391035680237,
+                "right": 0.3817788969391058,
+                "bottom": 0.5056805762878795
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.47092391035680237,
+                "right": 0.7259804980391777,
+                "bottom": 0.5056805762878795
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.5056805762878795,
+                "right": 0.17489082147599255,
+                "bottom": 0.54054294089579
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.5056805762878795,
+                "right": 0.3817788969391058,
+                "bottom": 0.54054294089579
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.5056805762878795,
+                "right": 0.7259804980391777,
+                "bottom": 0.54054294089579
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.54054294089579,
+                "right": 0.17489082147599255,
+                "bottom": 0.5749184945475321
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.54054294089579,
+                "right": 0.3817788969391058,
+                "bottom": 0.5749184945475321
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.54054294089579,
+                "right": 0.7259804980391777,
+                "bottom": 0.5749184945475321
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.5749184945475321,
+                "right": 0.17489082147599255,
+                "bottom": 0.6096245002968885
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.5749184945475321,
+                "right": 0.3817788969391058,
+                "bottom": 0.6096245002968885
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.5749184945475321,
+                "right": 0.7259804980391777,
+                "bottom": 0.6096245002968885
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.6096245002968885,
+                "right": 0.17489082147599255,
+                "bottom": 0.6441805377562275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.6096245002968885,
+                "right": 0.3817788969391058,
+                "bottom": 0.6441805377562275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.6096245002968885,
+                "right": 0.7259804980391777,
+                "bottom": 0.6441805377562275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.6441805377562275,
+                "right": 0.17489082147599255,
+                "bottom": 0.6788236107787498
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.6441805377562275,
+                "right": 0.3817788969391058,
+                "bottom": 0.6788236107787498
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.6441805377562275,
+                "right": 0.7259804980391777,
+                "bottom": 0.6788236107787498
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.6788236107787498,
+                "right": 0.17489082147599255,
+                "bottom": 0.7135996695423756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.6788236107787498,
+                "right": 0.3817788969391058,
+                "bottom": 0.7135996695423756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.6788236107787498,
+                "right": 0.7259804980391777,
+                "bottom": 0.7135996695423756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.7135996695423756,
+                "right": 0.17489082147599255,
+                "bottom": 0.748282899217017
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.7135996695423756,
+                "right": 0.3817788969391058,
+                "bottom": 0.748282899217017
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.7135996695423756,
+                "right": 0.7259804980391777,
+                "bottom": 0.748282899217017
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.748282899217017,
+                "right": 0.17489082147599255,
+                "bottom": 0.7833478382137287
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.748282899217017,
+                "right": 0.3817788969391058,
+                "bottom": 0.7833478382137287
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.748282899217017,
+                "right": 0.7259804980391777,
+                "bottom": 0.7833478382137287
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.7833478382137287,
+                "right": 0.17489082147599255,
+                "bottom": 0.8179438554236356
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.7833478382137287,
+                "right": 0.3817788969391058,
+                "bottom": 0.8179438554236356
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.7833478382137287,
+                "right": 0.7259804980391777,
+                "bottom": 0.8179438554236356
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.8179438554236356,
+                "right": 0.17489082147599255,
+                "bottom": 0.8523433792355632
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.8179438554236356,
+                "right": 0.3817788969391058,
+                "bottom": 0.8523433792355632
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.8179438554236356,
+                "right": 0.7259804980391777,
+                "bottom": 0.8523433792355632
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.11734849247369802,
+                "top": 0.8523433792355632,
+                "right": 0.17489082147599255,
+                "bottom": 0.8855040614845393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.17489082147599255,
+                "top": 0.8523433792355632,
+                "right": 0.3817788969391058,
+                "bottom": 0.8855040614845393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.3817788969391058,
+                "top": 0.8523433792355632,
+                "right": 0.7259804980391777,
+                "bottom": 0.8855040614845393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0daa0c46-5edc-4f42-a444-0e7ea7bca750": {
+            "box": {
+                "left": 0.2149796187877655,
+                "top": 0.9766208529472351,
+                "right": 0.7859786748886108,
+                "bottom": 0.9999250769615173
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "80508d74-5f6f-4c59-a41a-d5bc7ea97a72": {
+            "box": {
+                "left": 0.8329616189002991,
+                "top": 0.9715171456336975,
+                "right": 0.9670869708061218,
+                "bottom": 0.9922338128089905
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yscw0217_60.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6299,
+        "credit_usage": 3.0,
+        "job_id": "ta75etkjhnw9ewcbhslik5sql",
+        "version": "dpt-2-20250919"
+    }
+}

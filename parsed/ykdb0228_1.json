@@ -1,0 +1,403 @@
+{
+    "markdown": "<a id='64a46de0-a3ab-4350-83b4-8c2223be5036'></a>\n\nNOTE.\u2014DO NOT USE THIS ROUTE SLIP TO\nSHOW FORMAL CLEARANCES OR APPROVALS\n\nDATE: 3/15/72\n\n<a id='73099755-6263-43b8-912a-c991566f0e4f'></a>\n\nTO: AGENCY BLDG. ROOM\n\nDr. William Darby\n\n---\n\n---\n\n---\n\n---\n\n<a id='b452168a-3447-4995-a4a2-c644bfb65762'></a>\n\noption APPROVAL: [ ]\noption REVIEW: [ ]\noption PER CONVERSATION: [ ]\noption SIGNATURE: [ ]\noption NOTE AND SEE ME: [ ]\noption AS REQUESTED: [ ]\noption COMMENT: [ ]\noption NOTE AND RETURN: [ ]\noption NECESSARY ACTION: [ ]\noption FOR YOUR INFORMATION: [ ]\noption PREPARE REPLY FOR SIGNATURE OF___: [ ]\n\n<a id='477be32c-a34a-44ff-8afa-7f13061b1ba5'></a>\n\nREMARKS:\n\n<a id='ea902d55-0bb2-4513-ab50-d7a6cc9a3e58'></a>\n\nFor your information.\n\n<a id='6d70508b-30c2-44a7-ac3c-6f2522ed8f7c'></a>\n\n(Fold here for return)\n\n<a id='21b964ca-c195-472f-bb14-7853e89746d9'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">To</td><td id=\"0-3\"></td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">From</td><td id=\"0-6\">Bill Murray</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">PHONE</td><td id=\"0-9\">BUILDING</td><td id=\"0-a\">ROOM</td></tr>\n</table>\n\n<a id='cb584166-0b11-4f8e-8694-74128a312a8f'></a>\n\nFORM HEW-30 REV. 11/56\n\n<a id='50caa896-728a-4d11-a869-fac5d926df34'></a>\n\nROUTE SLIP\n\n<a id='fb0e7da0-bfd6-4c07-a85b-d82d784e03e9'></a>\n\nGPO: 1956-O-409606\n\n<a id='390ad73c-d76f-4ab1-b6d4-27d746d2556e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ykdb0228",
+    "chunks": [
+        {
+            "markdown": "<a id='64a46de0-a3ab-4350-83b4-8c2223be5036'></a>\n\nNOTE.\u2014DO NOT USE THIS ROUTE SLIP TO\nSHOW FORMAL CLEARANCES OR APPROVALS\n\nDATE: 3/15/72",
+            "type": "text",
+            "id": "64a46de0-a3ab-4350-83b4-8c2223be5036",
+            "grounding": {
+                "box": {
+                    "left": 0.07311645150184631,
+                    "top": 0.07701405882835388,
+                    "right": 0.8741203546524048,
+                    "bottom": 0.1260005086660385
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='73099755-6263-43b8-912a-c991566f0e4f'></a>\n\nTO: AGENCY BLDG. ROOM\n\nDr. William Darby\n\n---\n\n---\n\n---\n\n---",
+            "type": "text",
+            "id": "73099755-6263-43b8-912a-c991566f0e4f",
+            "grounding": {
+                "box": {
+                    "left": 0.07612407207489014,
+                    "top": 0.1281088888645172,
+                    "right": 0.9328670501708984,
+                    "bottom": 0.37741127610206604
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b452168a-3447-4995-a4a2-c644bfb65762'></a>\n\noption APPROVAL: [ ]\noption REVIEW: [ ]\noption PER CONVERSATION: [ ]\noption SIGNATURE: [ ]\noption NOTE AND SEE ME: [ ]\noption AS REQUESTED: [ ]\noption COMMENT: [ ]\noption NOTE AND RETURN: [ ]\noption NECESSARY ACTION: [ ]\noption FOR YOUR INFORMATION: [ ]\noption PREPARE REPLY FOR SIGNATURE OF___: [ ]",
+            "type": "text",
+            "id": "b452168a-3447-4995-a4a2-c644bfb65762",
+            "grounding": {
+                "box": {
+                    "left": 0.07531321048736572,
+                    "top": 0.3775169849395752,
+                    "right": 0.9333285093307495,
+                    "bottom": 0.5599894523620605
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='477be32c-a34a-44ff-8afa-7f13061b1ba5'></a>\n\nREMARKS:",
+            "type": "text",
+            "id": "477be32c-a34a-44ff-8afa-7f13061b1ba5",
+            "grounding": {
+                "box": {
+                    "left": 0.07730422168970108,
+                    "top": 0.5685933232307434,
+                    "right": 0.23857444524765015,
+                    "bottom": 0.5905235409736633
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ea902d55-0bb2-4513-ab50-d7a6cc9a3e58'></a>\n\nFor your information.",
+            "type": "text",
+            "id": "ea902d55-0bb2-4513-ab50-d7a6cc9a3e58",
+            "grounding": {
+                "box": {
+                    "left": 0.07677730917930603,
+                    "top": 0.6622156500816345,
+                    "right": 0.5077667236328125,
+                    "bottom": 0.6946815848350525
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6d70508b-30c2-44a7-ac3c-6f2522ed8f7c'></a>\n\n(Fold here for return)",
+            "type": "text",
+            "id": "6d70508b-30c2-44a7-ac3c-6f2522ed8f7c",
+            "grounding": {
+                "box": {
+                    "left": 0.3764417767524719,
+                    "top": 0.7791629433631897,
+                    "right": 0.6273247599601746,
+                    "bottom": 0.8045231699943542
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='21b964ca-c195-472f-bb14-7853e89746d9'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">To</td><td id=\"0-3\"></td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">From</td><td id=\"0-6\">Bill Murray</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">PHONE</td><td id=\"0-9\">BUILDING</td><td id=\"0-a\">ROOM</td></tr>\n</table>",
+            "type": "table",
+            "id": "21b964ca-c195-472f-bb14-7853e89746d9",
+            "grounding": {
+                "box": {
+                    "left": 0.07693979144096375,
+                    "top": 0.8097626566886902,
+                    "right": 0.9303789138793945,
+                    "bottom": 0.9255167841911316
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cb584166-0b11-4f8e-8694-74128a312a8f'></a>\n\nFORM HEW-30 REV. 11/56",
+            "type": "text",
+            "id": "cb584166-0b11-4f8e-8694-74128a312a8f",
+            "grounding": {
+                "box": {
+                    "left": 0.07835724949836731,
+                    "top": 0.9310104846954346,
+                    "right": 0.3883898854255676,
+                    "bottom": 0.9573527574539185
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='50caa896-728a-4d11-a869-fac5d926df34'></a>\n\nROUTE SLIP",
+            "type": "text",
+            "id": "50caa896-728a-4d11-a869-fac5d926df34",
+            "grounding": {
+                "box": {
+                    "left": 0.40230876207351685,
+                    "top": 0.9258458614349365,
+                    "right": 0.6998627781867981,
+                    "bottom": 0.9569782018661499
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fb0e7da0-bfd6-4c07-a85b-d82d784e03e9'></a>\n\nGPO: 1956-O-409606",
+            "type": "text",
+            "id": "fb0e7da0-bfd6-4c07-a85b-d82d784e03e9",
+            "grounding": {
+                "box": {
+                    "left": 0.7362488508224487,
+                    "top": 0.9352302551269531,
+                    "right": 0.9304096698760986,
+                    "bottom": 0.9562309980392456
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='390ad73c-d76f-4ab1-b6d4-27d746d2556e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ykdb0228",
+            "type": "text",
+            "id": "390ad73c-d76f-4ab1-b6d4-27d746d2556e",
+            "grounding": {
+                "box": {
+                    "left": 0.06820347905158997,
+                    "top": 0.9669038653373718,
+                    "right": 0.937035083770752,
+                    "bottom": 0.9960803389549255
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='64a46de0-a3ab-4350-83b4-8c2223be5036'></a>\n\nNOTE.\u2014DO NOT USE THIS ROUTE SLIP TO\nSHOW FORMAL CLEARANCES OR APPROVALS\n\nDATE: 3/15/72\n\n<a id='73099755-6263-43b8-912a-c991566f0e4f'></a>\n\nTO: AGENCY BLDG. ROOM\n\nDr. William Darby\n\n---\n\n---\n\n---\n\n---\n\n<a id='b452168a-3447-4995-a4a2-c644bfb65762'></a>\n\noption APPROVAL: [ ]\noption REVIEW: [ ]\noption PER CONVERSATION: [ ]\noption SIGNATURE: [ ]\noption NOTE AND SEE ME: [ ]\noption AS REQUESTED: [ ]\noption COMMENT: [ ]\noption NOTE AND RETURN: [ ]\noption NECESSARY ACTION: [ ]\noption FOR YOUR INFORMATION: [ ]\noption PREPARE REPLY FOR SIGNATURE OF___: [ ]\n\n<a id='477be32c-a34a-44ff-8afa-7f13061b1ba5'></a>\n\nREMARKS:\n\n<a id='ea902d55-0bb2-4513-ab50-d7a6cc9a3e58'></a>\n\nFor your information.\n\n<a id='6d70508b-30c2-44a7-ac3c-6f2522ed8f7c'></a>\n\n(Fold here for return)\n\n<a id='21b964ca-c195-472f-bb14-7853e89746d9'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">To</td><td id=\"0-3\"></td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">From</td><td id=\"0-6\">Bill Murray</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">PHONE</td><td id=\"0-9\">BUILDING</td><td id=\"0-a\">ROOM</td></tr>\n</table>\n\n<a id='cb584166-0b11-4f8e-8694-74128a312a8f'></a>\n\nFORM HEW-30 REV. 11/56\n\n<a id='50caa896-728a-4d11-a869-fac5d926df34'></a>\n\nROUTE SLIP\n\n<a id='fb0e7da0-bfd6-4c07-a85b-d82d784e03e9'></a>\n\nGPO: 1956-O-409606\n\n<a id='390ad73c-d76f-4ab1-b6d4-27d746d2556e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ykdb0228",
+            "chunks": [
+                "64a46de0-a3ab-4350-83b4-8c2223be5036",
+                "73099755-6263-43b8-912a-c991566f0e4f",
+                "b452168a-3447-4995-a4a2-c644bfb65762",
+                "477be32c-a34a-44ff-8afa-7f13061b1ba5",
+                "ea902d55-0bb2-4513-ab50-d7a6cc9a3e58",
+                "6d70508b-30c2-44a7-ac3c-6f2522ed8f7c",
+                "21b964ca-c195-472f-bb14-7853e89746d9",
+                "cb584166-0b11-4f8e-8694-74128a312a8f",
+                "50caa896-728a-4d11-a869-fac5d926df34",
+                "fb0e7da0-bfd6-4c07-a85b-d82d784e03e9",
+                "390ad73c-d76f-4ab1-b6d4-27d746d2556e"
+            ]
+        }
+    ],
+    "grounding": {
+        "64a46de0-a3ab-4350-83b4-8c2223be5036": {
+            "box": {
+                "left": 0.07311645150184631,
+                "top": 0.07701405882835388,
+                "right": 0.8741203546524048,
+                "bottom": 0.1260005086660385
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "73099755-6263-43b8-912a-c991566f0e4f": {
+            "box": {
+                "left": 0.07612407207489014,
+                "top": 0.1281088888645172,
+                "right": 0.9328670501708984,
+                "bottom": 0.37741127610206604
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b452168a-3447-4995-a4a2-c644bfb65762": {
+            "box": {
+                "left": 0.07531321048736572,
+                "top": 0.3775169849395752,
+                "right": 0.9333285093307495,
+                "bottom": 0.5599894523620605
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "477be32c-a34a-44ff-8afa-7f13061b1ba5": {
+            "box": {
+                "left": 0.07730422168970108,
+                "top": 0.5685933232307434,
+                "right": 0.23857444524765015,
+                "bottom": 0.5905235409736633
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ea902d55-0bb2-4513-ab50-d7a6cc9a3e58": {
+            "box": {
+                "left": 0.07677730917930603,
+                "top": 0.6622156500816345,
+                "right": 0.5077667236328125,
+                "bottom": 0.6946815848350525
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6d70508b-30c2-44a7-ac3c-6f2522ed8f7c": {
+            "box": {
+                "left": 0.3764417767524719,
+                "top": 0.7791629433631897,
+                "right": 0.6273247599601746,
+                "bottom": 0.8045231699943542
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "21b964ca-c195-472f-bb14-7853e89746d9": {
+            "box": {
+                "left": 0.07693979144096375,
+                "top": 0.8097626566886902,
+                "right": 0.9303789138793945,
+                "bottom": 0.9255167841911316
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.08175526387207176,
+                "top": 0.8124399642347626,
+                "right": 0.9240916660299288,
+                "bottom": 0.9216255858036675
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.08175526387207176,
+                "top": 0.8124399642347626,
+                "right": 0.2861019437775054,
+                "bottom": 0.8381872719001962
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.2861019437775054,
+                "top": 0.8124399642347626,
+                "right": 0.7173486622354481,
+                "bottom": 0.8381872719001962
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.7173486622354481,
+                "top": 0.8124399642347626,
+                "right": 0.9228575856491101,
+                "bottom": 0.8381872719001962
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.08175526387207176,
+                "top": 0.8381872719001962,
+                "right": 0.2861019437775054,
+                "bottom": 0.8664844743471178
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.2861019437775054,
+                "top": 0.8381872719001962,
+                "right": 0.7173486622354481,
+                "bottom": 0.8664844743471178
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.7173486622354481,
+                "top": 0.8381872719001962,
+                "right": 0.9228575856491101,
+                "bottom": 0.8664844743471178
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.08175526387207176,
+                "top": 0.8664844743471178,
+                "right": 0.2861019437775054,
+                "bottom": 0.9216255858036675
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.2861019437775054,
+                "top": 0.8664844743471178,
+                "right": 0.7173486622354481,
+                "bottom": 0.9216255858036675
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.7173486622354481,
+                "top": 0.8664844743471178,
+                "right": 0.9228575856491101,
+                "bottom": 0.9216255858036675
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "cb584166-0b11-4f8e-8694-74128a312a8f": {
+            "box": {
+                "left": 0.07835724949836731,
+                "top": 0.9310104846954346,
+                "right": 0.3883898854255676,
+                "bottom": 0.9573527574539185
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "50caa896-728a-4d11-a869-fac5d926df34": {
+            "box": {
+                "left": 0.40230876207351685,
+                "top": 0.9258458614349365,
+                "right": 0.6998627781867981,
+                "bottom": 0.9569782018661499
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fb0e7da0-bfd6-4c07-a85b-d82d784e03e9": {
+            "box": {
+                "left": 0.7362488508224487,
+                "top": 0.9352302551269531,
+                "right": 0.9304096698760986,
+                "bottom": 0.9562309980392456
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "390ad73c-d76f-4ab1-b6d4-27d746d2556e": {
+            "box": {
+                "left": 0.06820347905158997,
+                "top": 0.9669038653373718,
+                "right": 0.937035083770752,
+                "bottom": 0.9960803389549255
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "ykdb0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5559,
+        "credit_usage": 3.0,
+        "job_id": "obb0c74m9uxulmay0bqq16wok",
+        "version": "dpt-2-20250919"
+    }
+}

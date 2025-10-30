@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='e04207db-73b9-46a7-931a-93b271d48110'></a>\n\n<::\nLine chart showing % Change from Baseline over Visit.\nY-axis: % Change from Baseline, ranging from -6 to 6.\nX-axis: Visit, with points Baseline, 12 Months, 36 Months.\nA dashed line indicates 0% Change from Baseline.\n\nData Series:\n- Placebo (square marker):\n    - Baseline: 0\n    - 12 Months: -1.5\n    - 36 Months: -2.2\n- CEE Only (diamond marker):\n    - Baseline: 0\n    - 12 Months: 2.0\n    - 36 Months: 2.8\n- CEE/MPA (cyclic) (circle marker):\n    - Baseline: 0\n    - 12 Months: 1.0\n    - 36 Months: 2.0\n- CEE/MPA (continuous) (upward triangle marker):\n    - Baseline: 0\n    - 12 Months: 1.2\n    - 36 Months: 1.8\n- CEE/MP (cyclic) (downward triangle marker):\n    - Baseline: 0\n    - 12 Months: 1.5\n    - 36 Months: 2.5\n: chart::>\n\n\n<a id='97e98a13-1d35-4b39-af91-851f4509515e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xkbw0217\n\n<a id='4c3a21e1-c9ed-4779-8659-5919e9266dcf'></a>\n\nDWRITE 071008",
+    "chunks": [
+        {
+            "markdown": "<a id='e04207db-73b9-46a7-931a-93b271d48110'></a>\n\n<::\nLine chart showing % Change from Baseline over Visit.\nY-axis: % Change from Baseline, ranging from -6 to 6.\nX-axis: Visit, with points Baseline, 12 Months, 36 Months.\nA dashed line indicates 0% Change from Baseline.\n\nData Series:\n- Placebo (square marker):\n    - Baseline: 0\n    - 12 Months: -1.5\n    - 36 Months: -2.2\n- CEE Only (diamond marker):\n    - Baseline: 0\n    - 12 Months: 2.0\n    - 36 Months: 2.8\n- CEE/MPA (cyclic) (circle marker):\n    - Baseline: 0\n    - 12 Months: 1.0\n    - 36 Months: 2.0\n- CEE/MPA (continuous) (upward triangle marker):\n    - Baseline: 0\n    - 12 Months: 1.2\n    - 36 Months: 1.8\n- CEE/MP (cyclic) (downward triangle marker):\n    - Baseline: 0\n    - 12 Months: 1.5\n    - 36 Months: 2.5\n: chart::>\n",
+            "type": "figure",
+            "id": "e04207db-73b9-46a7-931a-93b271d48110",
+            "grounding": {
+                "box": {
+                    "left": 0.20039087533950806,
+                    "top": 0.216106116771698,
+                    "right": 0.8627732396125793,
+                    "bottom": 0.7506113648414612
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='97e98a13-1d35-4b39-af91-851f4509515e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xkbw0217",
+            "type": "text",
+            "id": "97e98a13-1d35-4b39-af91-851f4509515e",
+            "grounding": {
+                "box": {
+                    "left": 0.2756058871746063,
+                    "top": 0.9699395895004272,
+                    "right": 0.7247539758682251,
+                    "bottom": 1.0000953674316406
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4c3a21e1-c9ed-4779-8659-5919e9266dcf'></a>\n\nDWRITE 071008",
+            "type": "text",
+            "id": "4c3a21e1-c9ed-4779-8659-5919e9266dcf",
+            "grounding": {
+                "box": {
+                    "left": 0.14898020029067993,
+                    "top": 0.7552889585494995,
+                    "right": 0.17070108652114868,
+                    "bottom": 0.8649530410766602
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e04207db-73b9-46a7-931a-93b271d48110'></a>\n\n<::\nLine chart showing % Change from Baseline over Visit.\nY-axis: % Change from Baseline, ranging from -6 to 6.\nX-axis: Visit, with points Baseline, 12 Months, 36 Months.\nA dashed line indicates 0% Change from Baseline.\n\nData Series:\n- Placebo (square marker):\n    - Baseline: 0\n    - 12 Months: -1.5\n    - 36 Months: -2.2\n- CEE Only (diamond marker):\n    - Baseline: 0\n    - 12 Months: 2.0\n    - 36 Months: 2.8\n- CEE/MPA (cyclic) (circle marker):\n    - Baseline: 0\n    - 12 Months: 1.0\n    - 36 Months: 2.0\n- CEE/MPA (continuous) (upward triangle marker):\n    - Baseline: 0\n    - 12 Months: 1.2\n    - 36 Months: 1.8\n- CEE/MP (cyclic) (downward triangle marker):\n    - Baseline: 0\n    - 12 Months: 1.5\n    - 36 Months: 2.5\n: chart::>\n\n\n<a id='97e98a13-1d35-4b39-af91-851f4509515e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xkbw0217\n\n<a id='4c3a21e1-c9ed-4779-8659-5919e9266dcf'></a>\n\nDWRITE 071008",
+            "chunks": [
+                "e04207db-73b9-46a7-931a-93b271d48110",
+                "97e98a13-1d35-4b39-af91-851f4509515e",
+                "4c3a21e1-c9ed-4779-8659-5919e9266dcf"
+            ]
+        }
+    ],
+    "grounding": {
+        "e04207db-73b9-46a7-931a-93b271d48110": {
+            "box": {
+                "left": 0.20039087533950806,
+                "top": 0.216106116771698,
+                "right": 0.8627732396125793,
+                "bottom": 0.7506113648414612
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "97e98a13-1d35-4b39-af91-851f4509515e": {
+            "box": {
+                "left": 0.2756058871746063,
+                "top": 0.9699395895004272,
+                "right": 0.7247539758682251,
+                "bottom": 1.0000953674316406
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4c3a21e1-c9ed-4779-8659-5919e9266dcf": {
+            "box": {
+                "left": 0.14898020029067993,
+                "top": 0.7552889585494995,
+                "right": 0.17070108652114868,
+                "bottom": 0.8649530410766602
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "xkbw0217_52.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10967,
+        "credit_usage": 3.0,
+        "job_id": "mgoft74wvcsuu0g9ro6uawi7d",
+        "version": "dpt-2-20250919"
+    }
+}

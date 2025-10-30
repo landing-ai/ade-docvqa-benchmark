@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='4cdef884-1820-4684-921b-482f238c338f'></a>\n\n<::logo: Shank\nShank, PRELIMINARY\nThe logo features a handwritten script word \"Shank\" above a bold, sans-serif word \"PRELIMINARY\", both in dark grey on a light grey, textured background.::>\n\n<a id='e8cfdb92-58c0-4864-b655-500cad8fef97'></a>\n\nNORTHEAST\nBRAZIL\n\n<a id='b177fa64-84b2-4b82-98af-f3287ed2c960'></a>\n\nNUTRITION SURVEY\nMarch - May 1963\n\n<a id='85ecec8c-99a9-4fc9-9b2f-af7f743f87db'></a>\n\nA Report by the Interdepartmental Committee on Nutrition for National Defense\n\n<a id='c61d2890-d116-446b-b9d0-c3edfc6817f0'></a>\n\nFebruary 1964\n\n<a id='16d3176f-a526-488a-b8c2-37c205be2c31'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xnyc0227",
+    "chunks": [
+        {
+            "markdown": "<a id='4cdef884-1820-4684-921b-482f238c338f'></a>\n\n<::logo: Shank\nShank, PRELIMINARY\nThe logo features a handwritten script word \"Shank\" above a bold, sans-serif word \"PRELIMINARY\", both in dark grey on a light grey, textured background.::>",
+            "type": "logo",
+            "id": "4cdef884-1820-4684-921b-482f238c338f",
+            "grounding": {
+                "box": {
+                    "left": 0.5559666156768799,
+                    "top": 0.0279037244617939,
+                    "right": 0.8954896926879883,
+                    "bottom": 0.11182981729507446
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e8cfdb92-58c0-4864-b655-500cad8fef97'></a>\n\nNORTHEAST\nBRAZIL",
+            "type": "text",
+            "id": "e8cfdb92-58c0-4864-b655-500cad8fef97",
+            "grounding": {
+                "box": {
+                    "left": 0.07250836491584778,
+                    "top": 0.18542073667049408,
+                    "right": 0.5798989534378052,
+                    "bottom": 0.39361411333084106
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b177fa64-84b2-4b82-98af-f3287ed2c960'></a>\n\nNUTRITION SURVEY\nMarch - May 1963",
+            "type": "text",
+            "id": "b177fa64-84b2-4b82-98af-f3287ed2c960",
+            "grounding": {
+                "box": {
+                    "left": 0.23719581961631775,
+                    "top": 0.5899729132652283,
+                    "right": 0.724834680557251,
+                    "bottom": 0.704109251499176
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='85ecec8c-99a9-4fc9-9b2f-af7f743f87db'></a>\n\nA Report by the Interdepartmental Committee on Nutrition for National Defense",
+            "type": "text",
+            "id": "85ecec8c-99a9-4fc9-9b2f-af7f743f87db",
+            "grounding": {
+                "box": {
+                    "left": 0.07594215869903564,
+                    "top": 0.7850041389465332,
+                    "right": 0.9005140066146851,
+                    "bottom": 0.8418135643005371
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c61d2890-d116-446b-b9d0-c3edfc6817f0'></a>\n\nFebruary 1964",
+            "type": "text",
+            "id": "c61d2890-d116-446b-b9d0-c3edfc6817f0",
+            "grounding": {
+                "box": {
+                    "left": 0.6627388000488281,
+                    "top": 0.9046794176101685,
+                    "right": 0.9013004302978516,
+                    "bottom": 0.9556221961975098
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='16d3176f-a526-488a-b8c2-37c205be2c31'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xnyc0227",
+            "type": "marginalia",
+            "id": "16d3176f-a526-488a-b8c2-37c205be2c31",
+            "grounding": {
+                "box": {
+                    "left": 0.40044403076171875,
+                    "top": 0.9848876595497131,
+                    "right": 0.5984994769096375,
+                    "bottom": 0.999701201915741
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4cdef884-1820-4684-921b-482f238c338f'></a>\n\n<::logo: Shank\nShank, PRELIMINARY\nThe logo features a handwritten script word \"Shank\" above a bold, sans-serif word \"PRELIMINARY\", both in dark grey on a light grey, textured background.::>\n\n<a id='e8cfdb92-58c0-4864-b655-500cad8fef97'></a>\n\nNORTHEAST\nBRAZIL\n\n<a id='b177fa64-84b2-4b82-98af-f3287ed2c960'></a>\n\nNUTRITION SURVEY\nMarch - May 1963\n\n<a id='85ecec8c-99a9-4fc9-9b2f-af7f743f87db'></a>\n\nA Report by the Interdepartmental Committee on Nutrition for National Defense\n\n<a id='c61d2890-d116-446b-b9d0-c3edfc6817f0'></a>\n\nFebruary 1964\n\n<a id='16d3176f-a526-488a-b8c2-37c205be2c31'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xnyc0227",
+            "chunks": [
+                "4cdef884-1820-4684-921b-482f238c338f",
+                "e8cfdb92-58c0-4864-b655-500cad8fef97",
+                "b177fa64-84b2-4b82-98af-f3287ed2c960",
+                "85ecec8c-99a9-4fc9-9b2f-af7f743f87db",
+                "c61d2890-d116-446b-b9d0-c3edfc6817f0",
+                "16d3176f-a526-488a-b8c2-37c205be2c31"
+            ]
+        }
+    ],
+    "grounding": {
+        "4cdef884-1820-4684-921b-482f238c338f": {
+            "box": {
+                "left": 0.5559666156768799,
+                "top": 0.0279037244617939,
+                "right": 0.8954896926879883,
+                "bottom": 0.11182981729507446
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "e8cfdb92-58c0-4864-b655-500cad8fef97": {
+            "box": {
+                "left": 0.07250836491584778,
+                "top": 0.18542073667049408,
+                "right": 0.5798989534378052,
+                "bottom": 0.39361411333084106
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b177fa64-84b2-4b82-98af-f3287ed2c960": {
+            "box": {
+                "left": 0.23719581961631775,
+                "top": 0.5899729132652283,
+                "right": 0.724834680557251,
+                "bottom": 0.704109251499176
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "85ecec8c-99a9-4fc9-9b2f-af7f743f87db": {
+            "box": {
+                "left": 0.07594215869903564,
+                "top": 0.7850041389465332,
+                "right": 0.9005140066146851,
+                "bottom": 0.8418135643005371
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c61d2890-d116-446b-b9d0-c3edfc6817f0": {
+            "box": {
+                "left": 0.6627388000488281,
+                "top": 0.9046794176101685,
+                "right": 0.9013004302978516,
+                "bottom": 0.9556221961975098
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "16d3176f-a526-488a-b8c2-37c205be2c31": {
+            "box": {
+                "left": 0.40044403076171875,
+                "top": 0.9848876595497131,
+                "right": 0.5984994769096375,
+                "bottom": 0.999701201915741
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xnyc0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8946,
+        "credit_usage": 3.0,
+        "job_id": "u9f59wxytt289nj9ronfqs265",
+        "version": "dpt-2-20250919"
+    }
+}

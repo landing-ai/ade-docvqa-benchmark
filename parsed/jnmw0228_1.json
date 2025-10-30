@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='ccf30965-c03e-4c13-abef-765cf1a54b34'></a>\n\nW. J. Darby, M. D.\nRoute 2 Box 218\nThompson Station, Tenn. 37179\n\n<a id='ce52bf74-4bfe-4d87-b01c-e318ab0c01df'></a>\n\nNo 157\n\nApril 15 1983\n87-1\n640\n\n01-04-27-83 2120581247\nCash $525\n\n<a id='311a6cec-eefd-4355-bff7-8516d7b9f66a'></a>\n\n0355 0255 01 04-27-83 2120581217\n\nPay to the\nOrder of James Taut Goodrich $525--\n\nFive hundred and Seventy-five and no/100 Dollars\n\nFirstAmericanBank\nNashville, Tennessee\nHillsboro Office\n\nFor Bankay\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: W. J. Farley, M.D.\nShort description of visual elements and positioning: Handwritten signature on the bottom right of the check, above the MICR line.::>\n\n\u2446064000017\u24460157 \u2448321 285 \u2448 \u24460000052500\u2448",
+    "chunks": [
+        {
+            "markdown": "<a id='ccf30965-c03e-4c13-abef-765cf1a54b34'></a>\n\nW. J. Darby, M. D.\nRoute 2 Box 218\nThompson Station, Tenn. 37179",
+            "type": "text",
+            "id": "ccf30965-c03e-4c13-abef-765cf1a54b34",
+            "grounding": {
+                "box": {
+                    "left": 0.12146413326263428,
+                    "top": 0.10667002201080322,
+                    "right": 0.4821052551269531,
+                    "bottom": 0.27463117241859436
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ce52bf74-4bfe-4d87-b01c-e318ab0c01df'></a>\n\nNo 157\n\nApril 15 1983\n87-1\n640\n\n01-04-27-83 2120581247\nCash $525",
+            "type": "text",
+            "id": "ce52bf74-4bfe-4d87-b01c-e318ab0c01df",
+            "grounding": {
+                "box": {
+                    "left": 0.5218759179115295,
+                    "top": 0.09717544913291931,
+                    "right": 0.961997926235199,
+                    "bottom": 0.4302653968334198
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='311a6cec-eefd-4355-bff7-8516d7b9f66a'></a>\n\n0355 0255 01 04-27-83 2120581217\n\nPay to the\nOrder of James Taut Goodrich $525--\n\nFive hundred and Seventy-five and no/100 Dollars\n\nFirstAmericanBank\nNashville, Tennessee\nHillsboro Office\n\nFor Bankay\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: W. J. Farley, M.D.\nShort description of visual elements and positioning: Handwritten signature on the bottom right of the check, above the MICR line.::>\n\n\u2446064000017\u24460157 \u2448321 285 \u2448 \u24460000052500\u2448",
+            "type": "text",
+            "id": "311a6cec-eefd-4355-bff7-8516d7b9f66a",
+            "grounding": {
+                "box": {
+                    "left": 0.0434725284576416,
+                    "top": 0.31200242042541504,
+                    "right": 0.9829715490341187,
+                    "bottom": 0.9168024063110352
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ccf30965-c03e-4c13-abef-765cf1a54b34'></a>\n\nW. J. Darby, M. D.\nRoute 2 Box 218\nThompson Station, Tenn. 37179\n\n<a id='ce52bf74-4bfe-4d87-b01c-e318ab0c01df'></a>\n\nNo 157\n\nApril 15 1983\n87-1\n640\n\n01-04-27-83 2120581247\nCash $525\n\n<a id='311a6cec-eefd-4355-bff7-8516d7b9f66a'></a>\n\n0355 0255 01 04-27-83 2120581217\n\nPay to the\nOrder of James Taut Goodrich $525--\n\nFive hundred and Seventy-five and no/100 Dollars\n\nFirstAmericanBank\nNashville, Tennessee\nHillsboro Office\n\nFor Bankay\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: W. J. Farley, M.D.\nShort description of visual elements and positioning: Handwritten signature on the bottom right of the check, above the MICR line.::>\n\n\u2446064000017\u24460157 \u2448321 285 \u2448 \u24460000052500\u2448",
+            "chunks": [
+                "ccf30965-c03e-4c13-abef-765cf1a54b34",
+                "ce52bf74-4bfe-4d87-b01c-e318ab0c01df",
+                "311a6cec-eefd-4355-bff7-8516d7b9f66a"
+            ]
+        }
+    ],
+    "grounding": {
+        "ccf30965-c03e-4c13-abef-765cf1a54b34": {
+            "box": {
+                "left": 0.12146413326263428,
+                "top": 0.10667002201080322,
+                "right": 0.4821052551269531,
+                "bottom": 0.27463117241859436
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ce52bf74-4bfe-4d87-b01c-e318ab0c01df": {
+            "box": {
+                "left": 0.5218759179115295,
+                "top": 0.09717544913291931,
+                "right": 0.961997926235199,
+                "bottom": 0.4302653968334198
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "311a6cec-eefd-4355-bff7-8516d7b9f66a": {
+            "box": {
+                "left": 0.0434725284576416,
+                "top": 0.31200242042541504,
+                "right": 0.9829715490341187,
+                "bottom": 0.9168024063110352
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "jnmw0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8081,
+        "credit_usage": 3.0,
+        "job_id": "ab0rzleirwc99hrruzxn3lbqn",
+        "version": "dpt-2-20250919"
+    }
+}

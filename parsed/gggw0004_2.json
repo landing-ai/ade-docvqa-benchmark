@@ -1,0 +1,373 @@
+{
+    "markdown": "<a id='adaf9559-04da-4c39-9565-9caf7056e989'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a prominent, elegant black script font with an underline extending from the \"R\" to the end of \"Reynolds\", and \"Tobacco Company\" in a smaller, sans-serif font below the underline.::>\n\n<a id='f9440ad2-c810-4f7d-978b-02331670b56b'></a>\n\nPublic Relations Dept.\n16th Floor, Reynolds Building\n401 N. Main Street\nWinston-Salem, NC 27101\n\n<a id='f01344c2-9e07-42f3-b887-ed771026efac'></a>\n\n---FAX COVER SHEET\n\n<a id='b6e0da8f-e1cb-4560-bdc9-1a9926599698'></a>\n\nDATE:\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TO:</td><td id=\"0-3\">Bonnie Reese, Mary Ann Usrey</td></tr>\n<tr><td id=\"0-4\">PHONE:</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">FAX:</td><td id=\"0-7\">2308</td></tr>\n<tr><td id=\"0-8\">FROM:</td><td id=\"0-9\">Teresa Wood</td></tr>\n<tr><td id=\"0-a\">PHONE:</td><td id=\"0-b\">(336) 741-3514</td></tr>\n<tr><td id=\"0-c\">FAX:</td><td id=\"0-d\">(336) 741-0881</td></tr>\n<tr><td id=\"0-e\">SUBJECT:</td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">NO. OF PAGES: (including cover sheet)</td><td id=\"0-h\"></td></tr>\n</table>\n\n<a id='bb202d0f-3fea-4aed-82bd-eaefba51dbe9'></a>\n\nMESSAGE:\n\n<a id='5bb80722-8617-4c83-b592-a46b272456c7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ggggw0004\n\n<a id='39c0cd3b-3ff6-4501-a386-05c261e61b58'></a>\n\n52650 3159",
+    "chunks": [
+        {
+            "markdown": "<a id='adaf9559-04da-4c39-9565-9caf7056e989'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a prominent, elegant black script font with an underline extending from the \"R\" to the end of \"Reynolds\", and \"Tobacco Company\" in a smaller, sans-serif font below the underline.::>",
+            "type": "logo",
+            "id": "adaf9559-04da-4c39-9565-9caf7056e989",
+            "grounding": {
+                "box": {
+                    "left": 0.10671111941337585,
+                    "top": 0.08070310950279236,
+                    "right": 0.4350157678127289,
+                    "bottom": 0.15248960256576538
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f9440ad2-c810-4f7d-978b-02331670b56b'></a>\n\nPublic Relations Dept.\n16th Floor, Reynolds Building\n401 N. Main Street\nWinston-Salem, NC 27101",
+            "type": "text",
+            "id": "f9440ad2-c810-4f7d-978b-02331670b56b",
+            "grounding": {
+                "box": {
+                    "left": 0.5628975629806519,
+                    "top": 0.08023322373628616,
+                    "right": 0.7721552848815918,
+                    "bottom": 0.15506884455680847
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f01344c2-9e07-42f3-b887-ed771026efac'></a>\n\n---FAX COVER SHEET",
+            "type": "text",
+            "id": "f01344c2-9e07-42f3-b887-ed771026efac",
+            "grounding": {
+                "box": {
+                    "left": 0.33787801861763,
+                    "top": 0.17009617388248444,
+                    "right": 0.6186426877975464,
+                    "bottom": 0.19827179610729218
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b6e0da8f-e1cb-4560-bdc9-1a9926599698'></a>\n\nDATE:\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TO:</td><td id=\"0-3\">Bonnie Reese, Mary Ann Usrey</td></tr>\n<tr><td id=\"0-4\">PHONE:</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">FAX:</td><td id=\"0-7\">2308</td></tr>\n<tr><td id=\"0-8\">FROM:</td><td id=\"0-9\">Teresa Wood</td></tr>\n<tr><td id=\"0-a\">PHONE:</td><td id=\"0-b\">(336) 741-3514</td></tr>\n<tr><td id=\"0-c\">FAX:</td><td id=\"0-d\">(336) 741-0881</td></tr>\n<tr><td id=\"0-e\">SUBJECT:</td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">NO. OF PAGES: (including cover sheet)</td><td id=\"0-h\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "b6e0da8f-e1cb-4560-bdc9-1a9926599698",
+            "grounding": {
+                "box": {
+                    "left": 0.10181060433387756,
+                    "top": 0.2255754917860031,
+                    "right": 0.6149322986602783,
+                    "bottom": 0.5117053985595703
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bb202d0f-3fea-4aed-82bd-eaefba51dbe9'></a>\n\nMESSAGE:",
+            "type": "text",
+            "id": "bb202d0f-3fea-4aed-82bd-eaefba51dbe9",
+            "grounding": {
+                "box": {
+                    "left": 0.10369878262281418,
+                    "top": 0.5335708856582642,
+                    "right": 0.23928403854370117,
+                    "bottom": 0.5645706653594971
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5bb80722-8617-4c83-b592-a46b272456c7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ggggw0004",
+            "type": "text",
+            "id": "5bb80722-8617-4c83-b592-a46b272456c7",
+            "grounding": {
+                "box": {
+                    "left": 0.2101050317287445,
+                    "top": 0.9767835140228271,
+                    "right": 0.7907350063323975,
+                    "bottom": 0.999709963798523
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='39c0cd3b-3ff6-4501-a386-05c261e61b58'></a>\n\n52650 3159",
+            "type": "marginalia",
+            "id": "39c0cd3b-3ff6-4501-a386-05c261e61b58",
+            "grounding": {
+                "box": {
+                    "left": 0.89219731092453,
+                    "top": 0.8684306144714355,
+                    "right": 0.9248993992805481,
+                    "bottom": 0.9666948318481445
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='adaf9559-04da-4c39-9565-9caf7056e989'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a prominent, elegant black script font with an underline extending from the \"R\" to the end of \"Reynolds\", and \"Tobacco Company\" in a smaller, sans-serif font below the underline.::>\n\n<a id='f9440ad2-c810-4f7d-978b-02331670b56b'></a>\n\nPublic Relations Dept.\n16th Floor, Reynolds Building\n401 N. Main Street\nWinston-Salem, NC 27101\n\n<a id='f01344c2-9e07-42f3-b887-ed771026efac'></a>\n\n---FAX COVER SHEET\n\n<a id='b6e0da8f-e1cb-4560-bdc9-1a9926599698'></a>\n\nDATE:\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TO:</td><td id=\"0-3\">Bonnie Reese, Mary Ann Usrey</td></tr>\n<tr><td id=\"0-4\">PHONE:</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">FAX:</td><td id=\"0-7\">2308</td></tr>\n<tr><td id=\"0-8\">FROM:</td><td id=\"0-9\">Teresa Wood</td></tr>\n<tr><td id=\"0-a\">PHONE:</td><td id=\"0-b\">(336) 741-3514</td></tr>\n<tr><td id=\"0-c\">FAX:</td><td id=\"0-d\">(336) 741-0881</td></tr>\n<tr><td id=\"0-e\">SUBJECT:</td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">NO. OF PAGES: (including cover sheet)</td><td id=\"0-h\"></td></tr>\n</table>\n\n<a id='bb202d0f-3fea-4aed-82bd-eaefba51dbe9'></a>\n\nMESSAGE:\n\n<a id='5bb80722-8617-4c83-b592-a46b272456c7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ggggw0004\n\n<a id='39c0cd3b-3ff6-4501-a386-05c261e61b58'></a>\n\n52650 3159",
+            "chunks": [
+                "adaf9559-04da-4c39-9565-9caf7056e989",
+                "f9440ad2-c810-4f7d-978b-02331670b56b",
+                "f01344c2-9e07-42f3-b887-ed771026efac",
+                "b6e0da8f-e1cb-4560-bdc9-1a9926599698",
+                "bb202d0f-3fea-4aed-82bd-eaefba51dbe9",
+                "5bb80722-8617-4c83-b592-a46b272456c7",
+                "39c0cd3b-3ff6-4501-a386-05c261e61b58"
+            ]
+        }
+    ],
+    "grounding": {
+        "adaf9559-04da-4c39-9565-9caf7056e989": {
+            "box": {
+                "left": 0.10671111941337585,
+                "top": 0.08070310950279236,
+                "right": 0.4350157678127289,
+                "bottom": 0.15248960256576538
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "f9440ad2-c810-4f7d-978b-02331670b56b": {
+            "box": {
+                "left": 0.5628975629806519,
+                "top": 0.08023322373628616,
+                "right": 0.7721552848815918,
+                "bottom": 0.15506884455680847
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f01344c2-9e07-42f3-b887-ed771026efac": {
+            "box": {
+                "left": 0.33787801861763,
+                "top": 0.17009617388248444,
+                "right": 0.6186426877975464,
+                "bottom": 0.19827179610729218
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b6e0da8f-e1cb-4560-bdc9-1a9926599698": {
+            "box": {
+                "left": 0.10181060433387756,
+                "top": 0.2255754917860031,
+                "right": 0.6149322986602783,
+                "bottom": 0.5117053985595703
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.10971291923612192,
+                "top": 0.26654992407398237,
+                "right": 0.6079057996764039,
+                "bottom": 0.5107628721417283
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.10971291923612192,
+                "top": 0.26654992407398237,
+                "right": 0.293835813529137,
+                "bottom": 0.2903077252216555
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.293835813529137,
+                "top": 0.26654992407398237,
+                "right": 0.6086563111591836,
+                "bottom": 0.2903077252216555
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.10971291923612192,
+                "top": 0.2903077252216555,
+                "right": 0.293835813529137,
+                "bottom": 0.31020775542302514
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.293835813529137,
+                "top": 0.2903077252216555,
+                "right": 0.6086563111591836,
+                "bottom": 0.31020775542302514
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.10971291923612192,
+                "top": 0.31020775542302514,
+                "right": 0.293835813529137,
+                "bottom": 0.33024383926590994
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.293835813529137,
+                "top": 0.31020775542302514,
+                "right": 0.6086563111591836,
+                "bottom": 0.33024383926590994
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.10971291923612192,
+                "top": 0.33024383926590994,
+                "right": 0.293835813529137,
+                "bottom": 0.3690414346079862
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.293835813529137,
+                "top": 0.33024383926590994,
+                "right": 0.6086563111591836,
+                "bottom": 0.3690414346079862
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.10971291923612192,
+                "top": 0.3690414346079862,
+                "right": 0.293835813529137,
+                "bottom": 0.38968403373174887
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.293835813529137,
+                "top": 0.3690414346079862,
+                "right": 0.6086563111591836,
+                "bottom": 0.38968403373174887
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.10971291923612192,
+                "top": 0.38968403373174887,
+                "right": 0.293835813529137,
+                "bottom": 0.4095585927813037
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.293835813529137,
+                "top": 0.38968403373174887,
+                "right": 0.6086563111591836,
+                "bottom": 0.4095585927813037
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.10971291923612192,
+                "top": 0.4095585927813037,
+                "right": 0.293835813529137,
+                "bottom": 0.45054923979816675
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.293835813529137,
+                "top": 0.4095585927813037,
+                "right": 0.6086563111591836,
+                "bottom": 0.45054923979816675
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.10971291923612192,
+                "top": 0.45054923979816675,
+                "right": 0.293835813529137,
+                "bottom": 0.5107628721417283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.293835813529137,
+                "top": 0.45054923979816675,
+                "right": 0.6086563111591836,
+                "bottom": 0.5107628721417283
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "bb202d0f-3fea-4aed-82bd-eaefba51dbe9": {
+            "box": {
+                "left": 0.10369878262281418,
+                "top": 0.5335708856582642,
+                "right": 0.23928403854370117,
+                "bottom": 0.5645706653594971
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5bb80722-8617-4c83-b592-a46b272456c7": {
+            "box": {
+                "left": 0.2101050317287445,
+                "top": 0.9767835140228271,
+                "right": 0.7907350063323975,
+                "bottom": 0.999709963798523
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "39c0cd3b-3ff6-4501-a386-05c261e61b58": {
+            "box": {
+                "left": 0.89219731092453,
+                "top": 0.8684306144714355,
+                "right": 0.9248993992805481,
+                "bottom": 0.9666948318481445
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "gggw0004_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4625,
+        "credit_usage": 3.0,
+        "job_id": "w1oy5l3w2qxh1densn5kcjw7s",
+        "version": "dpt-2-20250919"
+    }
+}

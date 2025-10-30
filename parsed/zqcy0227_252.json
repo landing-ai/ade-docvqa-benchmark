@@ -1,0 +1,303 @@
+{
+    "markdown": "<a id='77e5412e-e78c-40ff-9f1f-0b16bef69e27'></a>\n\nCITIZENS COMMISSION ON\nSCIENCE LAW AND FOOD SUPPLY\n1230 YORK AVENUE NEW YORK, N. Y. 10021\n\n<a id='bb0c0d6b-5def-4f94-85f8-a595b37ee962'></a>\n\nJune 3, 19 74\n1-2\n210\n\n$ 80.00\n\n---\nDOLLARS\n\n<a id='9e998d4f-4949-4f5a-8882-b38fdcacd4f5'></a>\n\nPAY\nTO THE\nORDER OF THE NUTRITION FOUNDATION, INC.\n\n<a id='cebd0b00-69f3-4fa3-95d8-c3650df3ff72'></a>\n\nEighty dollars--- Dollars\n\n<a id='460efd5d-6ebe-4257-bac4-e0111606ee5c'></a>\n\n<::attestation: Signature and Stamp\nReadable Text:\nTHE CHASE MANHATTAN BANK\nNational Association\n422 Lexington Avenue, New York, N. Y. 10017\n11 JAN 6 15034\nSignature: C. W. Lushbough\nDescription: Handwritten signature on the right side of the document fragment. Bank details are on the left. A faint circular processing stamp is visible above and to the right of the signature.::>\n\n<a id='7dbb6664-82de-412e-8c87-d0345908b1a8'></a>\n\n1:0 210...000 21: 003...1...085228||\n\n<a id='20fbb3cd-e492-4654-a1be-419f6ed46c81'></a>\n\n''0000008000.'\n\n<a id='812c3390-79ca-4634-9c99-6f34a948e34f'></a>\n\nRUDCO CHECKS 001\n\n<a id='88faf680-cfb7-4578-b1ed-9e8501b31a1f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zqcy0227\n\n<a id='a5186386-dd09-425e-91d9-ded016896811'></a>\n\nROBOS CHROME... [decorative pattern]\n\n<a id='c480ed79-ff19-492b-b0d5-ad52bea8fe00'></a>\n\n298",
+    "chunks": [
+        {
+            "markdown": "<a id='77e5412e-e78c-40ff-9f1f-0b16bef69e27'></a>\n\nCITIZENS COMMISSION ON\nSCIENCE LAW AND FOOD SUPPLY\n1230 YORK AVENUE NEW YORK, N. Y. 10021",
+            "type": "text",
+            "id": "77e5412e-e78c-40ff-9f1f-0b16bef69e27",
+            "grounding": {
+                "box": {
+                    "left": 0.14014758169651031,
+                    "top": 0.10366220772266388,
+                    "right": 0.47817742824554443,
+                    "bottom": 0.26844125986099243
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bb0c0d6b-5def-4f94-85f8-a595b37ee962'></a>\n\nJune 3, 19 74\n1-2\n210\n\n$ 80.00\n\n---\nDOLLARS",
+            "type": "text",
+            "id": "bb0c0d6b-5def-4f94-85f8-a595b37ee962",
+            "grounding": {
+                "box": {
+                    "left": 0.661780834197998,
+                    "top": 0.2143760323524475,
+                    "right": 0.9488320350646973,
+                    "bottom": 0.5234082937240601
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9e998d4f-4949-4f5a-8882-b38fdcacd4f5'></a>\n\nPAY\nTO THE\nORDER OF THE NUTRITION FOUNDATION, INC.",
+            "type": "text",
+            "id": "9e998d4f-4949-4f5a-8882-b38fdcacd4f5",
+            "grounding": {
+                "box": {
+                    "left": 0.043747782707214355,
+                    "top": 0.32691317796707153,
+                    "right": 0.4988868832588196,
+                    "bottom": 0.44440144300460815
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cebd0b00-69f3-4fa3-95d8-c3650df3ff72'></a>\n\nEighty dollars--- Dollars",
+            "type": "text",
+            "id": "cebd0b00-69f3-4fa3-95d8-c3650df3ff72",
+            "grounding": {
+                "box": {
+                    "left": 0.04752817749977112,
+                    "top": 0.45101746916770935,
+                    "right": 0.9589669704437256,
+                    "bottom": 0.5453278422355652
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='460efd5d-6ebe-4257-bac4-e0111606ee5c'></a>\n\n<::attestation: Signature and Stamp\nReadable Text:\nTHE CHASE MANHATTAN BANK\nNational Association\n422 Lexington Avenue, New York, N. Y. 10017\n11 JAN 6 15034\nSignature: C. W. Lushbough\nDescription: Handwritten signature on the right side of the document fragment. Bank details are on the left. A faint circular processing stamp is visible above and to the right of the signature.::>",
+            "type": "attestation",
+            "id": "460efd5d-6ebe-4257-bac4-e0111606ee5c",
+            "grounding": {
+                "box": {
+                    "left": 0.03857293725013733,
+                    "top": 0.5275525450706482,
+                    "right": 0.9555084705352783,
+                    "bottom": 0.858752429485321
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7dbb6664-82de-412e-8c87-d0345908b1a8'></a>\n\n1:0 210...000 21: 003...1...085228||",
+            "type": "text",
+            "id": "7dbb6664-82de-412e-8c87-d0345908b1a8",
+            "grounding": {
+                "box": {
+                    "left": 0.30622929334640503,
+                    "top": 0.8264044523239136,
+                    "right": 0.6861866116523743,
+                    "bottom": 0.9190044403076172
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='20fbb3cd-e492-4654-a1be-419f6ed46c81'></a>\n\n''0000008000.'",
+            "type": "scan_code",
+            "id": "20fbb3cd-e492-4654-a1be-419f6ed46c81",
+            "grounding": {
+                "box": {
+                    "left": 0.7709674835205078,
+                    "top": 0.8335805535316467,
+                    "right": 0.9638693332672119,
+                    "bottom": 0.9041878581047058
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='812c3390-79ca-4634-9c99-6f34a948e34f'></a>\n\nRUDCO CHECKS 001",
+            "type": "text",
+            "id": "812c3390-79ca-4634-9c99-6f34a948e34f",
+            "grounding": {
+                "box": {
+                    "left": 0.041372425854206085,
+                    "top": 0.8864732384681702,
+                    "right": 0.13253965973854065,
+                    "bottom": 0.933216392993927
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='88faf680-cfb7-4578-b1ed-9e8501b31a1f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zqcy0227",
+            "type": "marginalia",
+            "id": "88faf680-cfb7-4578-b1ed-9e8501b31a1f",
+            "grounding": {
+                "box": {
+                    "left": 0.33024024963378906,
+                    "top": 0.9454519748687744,
+                    "right": 0.6669166088104248,
+                    "bottom": 0.9948108196258545
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a5186386-dd09-425e-91d9-ded016896811'></a>\n\nROBOS CHROME... [decorative pattern]",
+            "type": "text",
+            "id": "a5186386-dd09-425e-91d9-ded016896811",
+            "grounding": {
+                "box": {
+                    "left": 0.02618718147277832,
+                    "top": 0.914534330368042,
+                    "right": 0.9784090518951416,
+                    "bottom": 0.947120189666748
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c480ed79-ff19-492b-b0d5-ad52bea8fe00'></a>\n\n298",
+            "type": "text",
+            "id": "c480ed79-ff19-492b-b0d5-ad52bea8fe00",
+            "grounding": {
+                "box": {
+                    "left": 0.9143021702766418,
+                    "top": 0.09725920855998993,
+                    "right": 0.960292398929596,
+                    "bottom": 0.1592944711446762
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='77e5412e-e78c-40ff-9f1f-0b16bef69e27'></a>\n\nCITIZENS COMMISSION ON\nSCIENCE LAW AND FOOD SUPPLY\n1230 YORK AVENUE NEW YORK, N. Y. 10021\n\n<a id='bb0c0d6b-5def-4f94-85f8-a595b37ee962'></a>\n\nJune 3, 19 74\n1-2\n210\n\n$ 80.00\n\n---\nDOLLARS\n\n<a id='9e998d4f-4949-4f5a-8882-b38fdcacd4f5'></a>\n\nPAY\nTO THE\nORDER OF THE NUTRITION FOUNDATION, INC.\n\n<a id='cebd0b00-69f3-4fa3-95d8-c3650df3ff72'></a>\n\nEighty dollars--- Dollars\n\n<a id='460efd5d-6ebe-4257-bac4-e0111606ee5c'></a>\n\n<::attestation: Signature and Stamp\nReadable Text:\nTHE CHASE MANHATTAN BANK\nNational Association\n422 Lexington Avenue, New York, N. Y. 10017\n11 JAN 6 15034\nSignature: C. W. Lushbough\nDescription: Handwritten signature on the right side of the document fragment. Bank details are on the left. A faint circular processing stamp is visible above and to the right of the signature.::>\n\n<a id='7dbb6664-82de-412e-8c87-d0345908b1a8'></a>\n\n1:0 210...000 21: 003...1...085228||\n\n<a id='20fbb3cd-e492-4654-a1be-419f6ed46c81'></a>\n\n''0000008000.'\n\n<a id='812c3390-79ca-4634-9c99-6f34a948e34f'></a>\n\nRUDCO CHECKS 001\n\n<a id='88faf680-cfb7-4578-b1ed-9e8501b31a1f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zqcy0227\n\n<a id='a5186386-dd09-425e-91d9-ded016896811'></a>\n\nROBOS CHROME... [decorative pattern]\n\n<a id='c480ed79-ff19-492b-b0d5-ad52bea8fe00'></a>\n\n298",
+            "chunks": [
+                "77e5412e-e78c-40ff-9f1f-0b16bef69e27",
+                "bb0c0d6b-5def-4f94-85f8-a595b37ee962",
+                "9e998d4f-4949-4f5a-8882-b38fdcacd4f5",
+                "cebd0b00-69f3-4fa3-95d8-c3650df3ff72",
+                "460efd5d-6ebe-4257-bac4-e0111606ee5c",
+                "7dbb6664-82de-412e-8c87-d0345908b1a8",
+                "20fbb3cd-e492-4654-a1be-419f6ed46c81",
+                "812c3390-79ca-4634-9c99-6f34a948e34f",
+                "88faf680-cfb7-4578-b1ed-9e8501b31a1f",
+                "a5186386-dd09-425e-91d9-ded016896811",
+                "c480ed79-ff19-492b-b0d5-ad52bea8fe00"
+            ]
+        }
+    ],
+    "grounding": {
+        "77e5412e-e78c-40ff-9f1f-0b16bef69e27": {
+            "box": {
+                "left": 0.14014758169651031,
+                "top": 0.10366220772266388,
+                "right": 0.47817742824554443,
+                "bottom": 0.26844125986099243
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bb0c0d6b-5def-4f94-85f8-a595b37ee962": {
+            "box": {
+                "left": 0.661780834197998,
+                "top": 0.2143760323524475,
+                "right": 0.9488320350646973,
+                "bottom": 0.5234082937240601
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9e998d4f-4949-4f5a-8882-b38fdcacd4f5": {
+            "box": {
+                "left": 0.043747782707214355,
+                "top": 0.32691317796707153,
+                "right": 0.4988868832588196,
+                "bottom": 0.44440144300460815
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cebd0b00-69f3-4fa3-95d8-c3650df3ff72": {
+            "box": {
+                "left": 0.04752817749977112,
+                "top": 0.45101746916770935,
+                "right": 0.9589669704437256,
+                "bottom": 0.5453278422355652
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "460efd5d-6ebe-4257-bac4-e0111606ee5c": {
+            "box": {
+                "left": 0.03857293725013733,
+                "top": 0.5275525450706482,
+                "right": 0.9555084705352783,
+                "bottom": 0.858752429485321
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "7dbb6664-82de-412e-8c87-d0345908b1a8": {
+            "box": {
+                "left": 0.30622929334640503,
+                "top": 0.8264044523239136,
+                "right": 0.6861866116523743,
+                "bottom": 0.9190044403076172
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "20fbb3cd-e492-4654-a1be-419f6ed46c81": {
+            "box": {
+                "left": 0.7709674835205078,
+                "top": 0.8335805535316467,
+                "right": 0.9638693332672119,
+                "bottom": 0.9041878581047058
+            },
+            "page": 0,
+            "type": "chunkScanCode"
+        },
+        "812c3390-79ca-4634-9c99-6f34a948e34f": {
+            "box": {
+                "left": 0.041372425854206085,
+                "top": 0.8864732384681702,
+                "right": 0.13253965973854065,
+                "bottom": 0.933216392993927
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "88faf680-cfb7-4578-b1ed-9e8501b31a1f": {
+            "box": {
+                "left": 0.33024024963378906,
+                "top": 0.9454519748687744,
+                "right": 0.6669166088104248,
+                "bottom": 0.9948108196258545
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "a5186386-dd09-425e-91d9-ded016896811": {
+            "box": {
+                "left": 0.02618718147277832,
+                "top": 0.914534330368042,
+                "right": 0.9784090518951416,
+                "bottom": 0.947120189666748
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c480ed79-ff19-492b-b0d5-ad52bea8fe00": {
+            "box": {
+                "left": 0.9143021702766418,
+                "top": 0.09725920855998993,
+                "right": 0.960292398929596,
+                "bottom": 0.1592944711446762
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "zqcy0227_252.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 16437,
+        "credit_usage": 3.0,
+        "job_id": "t4fafii6cfimee0sew8mm4rph",
+        "version": "dpt-2-20250919"
+    }
+}

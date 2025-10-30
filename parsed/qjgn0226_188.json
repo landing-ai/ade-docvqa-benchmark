@@ -1,0 +1,428 @@
+{
+    "markdown": "<a id='22face8b-325b-431f-9451-f3e3eed9c3c6'></a>\n\nBiomet Orthopedics, Inc.\nPO Box 587\nWarsaw, IN 46581-0587\n\n<a id='21280822-c81c-4896-800e-620caba7fed0'></a>\n\n<::attestation: Date stamp\nReadable Text: FEB - 8 2010\nA distressed date stamp centered on the image::>\n\n<a id='f29cf874-8ce2-4380-a3d2-232f9c1912da'></a>\n\n<::attestation: [Verification Mark/Annotation]\n[Noted/Processed]\n[Readable Text: REQUEST FOR PAYMENT, No., Date, BMT4899-0409, 2/1/2010]\n[A handwritten circle surrounds the payment request number \"BMT4899-0409\", with the handwritten date \"2/1/2010\" positioned below it, all located in the upper-left quadrant of the image.]::>\n\n<a id='df40beb4-13d5-4512-b0ec-859cf6ac3c78'></a>\n\nVENDOR: Roger Emerson Jr. MD\n3 Castle Creek Court\nDallas, TX 75225-1821\n\n<a id='9bcb1c65-41cf-441e-9ac2-486ee96ee976'></a>\n\n<table><thead><tr><th>Account No.</th><th></th><th>Amount</th></tr></thead><tbody><tr><td>05 2630</td><td>...</td><td>414,391.19</td></tr></tbody></table>\n\n<a id='deff95ef-c82e-4f0b-a678-78f1ab22e987'></a>\n\nTotal 414,391.19\n\n<a id='72c207f6-eb0e-40cf-97f0-e96a3fec2001'></a>\n\nDESCRIPTION FOR REQUEST\nRoyalty product: Vanguard Knee components\n\n<a id='2188f494-765b-4e5c-8a5f-486824865e04'></a>\n\nFor Period Starting: 1/1/2009\nEnding: 12/31/2009\n\nYear-to-Date Sales: $263,800,996\n\n<a id='ced6be10-d0b7-44e2-8577-65229d1b958b'></a>\n\n<::attestation: Signature, approval marks\nStatus indicators - Approved\nSignature: Dana Feldman (legible), PE (illegible, circled), MB (illegible)\nReadable Text: Date to be Paid: 2/12/2010, Approved By:, 2/5/10\nA date to be paid, an approval signature by Dana Feldman, and additional handwritten approval marks with a date.::>\n\n<a id='b953e38c-0413-4c05-899b-e9d6e8c180fd'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">VENDOR 013684</td><td id=\"0-3\">PAY DATE</td></tr>\n<tr><td id=\"0-4\">VOUCHER NUMBER</td><td id=\"0-5\">DISC. AMT/PERCENT</td></tr>\n</table>\n\n<a id='5ddb8e70-e703-4c95-adba-7a3cc1d24748'></a>\n\n<::attestation: Signature\nSignature: illegible\n04-Biomet XXXXXXXXX\nContract # 402\nHandwritten signature at the top left, with associated text and contract number below.::>\n\n<a id='a8701cb0-1a79-443c-917d-bb6684be1b91'></a>\n\nDEMO-04159-00188\n\n<a id='f70bd25b-53ca-4bb7-98a2-d8419686b83b'></a>\n\nCONFIDENTIAL: PROTECTIVE ORDER https://www.industrydocuments.ucsf.edu/docs/qjgn0226\n\n<a id='e5f71c5b-f451-40e8-9105-7b32783e53a5'></a>\n\nBMT-MM-DFS-00001929",
+    "chunks": [
+        {
+            "markdown": "<a id='22face8b-325b-431f-9451-f3e3eed9c3c6'></a>\n\nBiomet Orthopedics, Inc.\nPO Box 587\nWarsaw, IN 46581-0587",
+            "type": "text",
+            "id": "22face8b-325b-431f-9451-f3e3eed9c3c6",
+            "grounding": {
+                "box": {
+                    "left": 0.06711606681346893,
+                    "top": 0.03904788941144943,
+                    "right": 0.25356525182724,
+                    "bottom": 0.09397096186876297
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='21280822-c81c-4896-800e-620caba7fed0'></a>\n\n<::attestation: Date stamp\nReadable Text: FEB - 8 2010\nA distressed date stamp centered on the image::>",
+            "type": "attestation",
+            "id": "21280822-c81c-4896-800e-620caba7fed0",
+            "grounding": {
+                "box": {
+                    "left": 0.4981444776058197,
+                    "top": 0.03481864929199219,
+                    "right": 0.6194336414337158,
+                    "bottom": 0.06350985169410706
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f29cf874-8ce2-4380-a3d2-232f9c1912da'></a>\n\n<::attestation: [Verification Mark/Annotation]\n[Noted/Processed]\n[Readable Text: REQUEST FOR PAYMENT, No., Date, BMT4899-0409, 2/1/2010]\n[A handwritten circle surrounds the payment request number \"BMT4899-0409\", with the handwritten date \"2/1/2010\" positioned below it, all located in the upper-left quadrant of the image.]::>",
+            "type": "attestation",
+            "id": "f29cf874-8ce2-4380-a3d2-232f9c1912da",
+            "grounding": {
+                "box": {
+                    "left": 0.6483619213104248,
+                    "top": 0.0372580960392952,
+                    "right": 0.9117902517318726,
+                    "bottom": 0.09503049403429031
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='df40beb4-13d5-4512-b0ec-859cf6ac3c78'></a>\n\nVENDOR: Roger Emerson Jr. MD\n3 Castle Creek Court\nDallas, TX 75225-1821",
+            "type": "text",
+            "id": "df40beb4-13d5-4512-b0ec-859cf6ac3c78",
+            "grounding": {
+                "box": {
+                    "left": 0.06719657778739929,
+                    "top": 0.11925364285707474,
+                    "right": 0.3299959599971771,
+                    "bottom": 0.17673148214817047
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9bcb1c65-41cf-441e-9ac2-486ee96ee976'></a>\n\n<table><thead><tr><th>Account No.</th><th></th><th>Amount</th></tr></thead><tbody><tr><td>05 2630</td><td>...</td><td>414,391.19</td></tr></tbody></table>",
+            "type": "table",
+            "id": "9bcb1c65-41cf-441e-9ac2-486ee96ee976",
+            "grounding": {
+                "box": {
+                    "left": 0.0649624764919281,
+                    "top": 0.20608758926391602,
+                    "right": 0.9275277853012085,
+                    "bottom": 0.2877202332019806
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='deff95ef-c82e-4f0b-a678-78f1ab22e987'></a>\n\nTotal 414,391.19",
+            "type": "text",
+            "id": "deff95ef-c82e-4f0b-a678-78f1ab22e987",
+            "grounding": {
+                "box": {
+                    "left": 0.6454240083694458,
+                    "top": 0.39007577300071716,
+                    "right": 0.8446953296661377,
+                    "bottom": 0.426847368478775
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='72c207f6-eb0e-40cf-97f0-e96a3fec2001'></a>\n\nDESCRIPTION FOR REQUEST\nRoyalty product: Vanguard Knee components",
+            "type": "text",
+            "id": "72c207f6-eb0e-40cf-97f0-e96a3fec2001",
+            "grounding": {
+                "box": {
+                    "left": 0.06859296560287476,
+                    "top": 0.467044860124588,
+                    "right": 0.47285521030426025,
+                    "bottom": 0.505664587020874
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2188f494-765b-4e5c-8a5f-486824865e04'></a>\n\nFor Period Starting: 1/1/2009\nEnding: 12/31/2009\n\nYear-to-Date Sales: $263,800,996",
+            "type": "text",
+            "id": "2188f494-765b-4e5c-8a5f-486824865e04",
+            "grounding": {
+                "box": {
+                    "left": 0.08253180980682373,
+                    "top": 0.5163487792015076,
+                    "right": 0.4075223505496979,
+                    "bottom": 0.5888163447380066
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ced6be10-d0b7-44e2-8577-65229d1b958b'></a>\n\n<::attestation: Signature, approval marks\nStatus indicators - Approved\nSignature: Dana Feldman (legible), PE (illegible, circled), MB (illegible)\nReadable Text: Date to be Paid: 2/12/2010, Approved By:, 2/5/10\nA date to be paid, an approval signature by Dana Feldman, and additional handwritten approval marks with a date.::>",
+            "type": "attestation",
+            "id": "ced6be10-d0b7-44e2-8577-65229d1b958b",
+            "grounding": {
+                "box": {
+                    "left": 0.06552600860595703,
+                    "top": 0.6162506937980652,
+                    "right": 0.6821920871734619,
+                    "bottom": 0.7559000849723816
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b953e38c-0413-4c05-899b-e9d6e8c180fd'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">VENDOR 013684</td><td id=\"0-3\">PAY DATE</td></tr>\n<tr><td id=\"0-4\">VOUCHER NUMBER</td><td id=\"0-5\">DISC. AMT/PERCENT</td></tr>\n</table>",
+            "type": "table",
+            "id": "b953e38c-0413-4c05-899b-e9d6e8c180fd",
+            "grounding": {
+                "box": {
+                    "left": 0.08075331151485443,
+                    "top": 0.7699936628341675,
+                    "right": 0.5617861151695251,
+                    "bottom": 0.8817802667617798
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5ddb8e70-e703-4c95-adba-7a3cc1d24748'></a>\n\n<::attestation: Signature\nSignature: illegible\n04-Biomet XXXXXXXXX\nContract # 402\nHandwritten signature at the top left, with associated text and contract number below.::>",
+            "type": "attestation",
+            "id": "5ddb8e70-e703-4c95-adba-7a3cc1d24748",
+            "grounding": {
+                "box": {
+                    "left": 0.5975208878517151,
+                    "top": 0.7162569761276245,
+                    "right": 0.8423815369606018,
+                    "bottom": 0.8459683656692505
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a8701cb0-1a79-443c-917d-bb6684be1b91'></a>\n\nDEMO-04159-00188",
+            "type": "text",
+            "id": "a8701cb0-1a79-443c-917d-bb6684be1b91",
+            "grounding": {
+                "box": {
+                    "left": 0.6949210166931152,
+                    "top": 0.9508019685745239,
+                    "right": 0.8880935907363892,
+                    "bottom": 0.9729118347167969
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f70bd25b-53ca-4bb7-98a2-d8419686b83b'></a>\n\nCONFIDENTIAL: PROTECTIVE ORDER https://www.industrydocuments.ucsf.edu/docs/qjgn0226",
+            "type": "text",
+            "id": "f70bd25b-53ca-4bb7-98a2-d8419686b83b",
+            "grounding": {
+                "box": {
+                    "left": 0.002510666847229004,
+                    "top": 0.9785264134407043,
+                    "right": 0.7835983037948608,
+                    "bottom": 1.0000555515289307
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e5f71c5b-f451-40e8-9105-7b32783e53a5'></a>\n\nBMT-MM-DFS-00001929",
+            "type": "marginalia",
+            "id": "e5f71c5b-f451-40e8-9105-7b32783e53a5",
+            "grounding": {
+                "box": {
+                    "left": 0.7892611026763916,
+                    "top": 0.9803372621536255,
+                    "right": 0.9904661178588867,
+                    "bottom": 1.000008225440979
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='22face8b-325b-431f-9451-f3e3eed9c3c6'></a>\n\nBiomet Orthopedics, Inc.\nPO Box 587\nWarsaw, IN 46581-0587\n\n<a id='21280822-c81c-4896-800e-620caba7fed0'></a>\n\n<::attestation: Date stamp\nReadable Text: FEB - 8 2010\nA distressed date stamp centered on the image::>\n\n<a id='f29cf874-8ce2-4380-a3d2-232f9c1912da'></a>\n\n<::attestation: [Verification Mark/Annotation]\n[Noted/Processed]\n[Readable Text: REQUEST FOR PAYMENT, No., Date, BMT4899-0409, 2/1/2010]\n[A handwritten circle surrounds the payment request number \"BMT4899-0409\", with the handwritten date \"2/1/2010\" positioned below it, all located in the upper-left quadrant of the image.]::>\n\n<a id='df40beb4-13d5-4512-b0ec-859cf6ac3c78'></a>\n\nVENDOR: Roger Emerson Jr. MD\n3 Castle Creek Court\nDallas, TX 75225-1821\n\n<a id='9bcb1c65-41cf-441e-9ac2-486ee96ee976'></a>\n\n<table><thead><tr><th>Account No.</th><th></th><th>Amount</th></tr></thead><tbody><tr><td>05 2630</td><td>...</td><td>414,391.19</td></tr></tbody></table>\n\n<a id='deff95ef-c82e-4f0b-a678-78f1ab22e987'></a>\n\nTotal 414,391.19\n\n<a id='72c207f6-eb0e-40cf-97f0-e96a3fec2001'></a>\n\nDESCRIPTION FOR REQUEST\nRoyalty product: Vanguard Knee components\n\n<a id='2188f494-765b-4e5c-8a5f-486824865e04'></a>\n\nFor Period Starting: 1/1/2009\nEnding: 12/31/2009\n\nYear-to-Date Sales: $263,800,996\n\n<a id='ced6be10-d0b7-44e2-8577-65229d1b958b'></a>\n\n<::attestation: Signature, approval marks\nStatus indicators - Approved\nSignature: Dana Feldman (legible), PE (illegible, circled), MB (illegible)\nReadable Text: Date to be Paid: 2/12/2010, Approved By:, 2/5/10\nA date to be paid, an approval signature by Dana Feldman, and additional handwritten approval marks with a date.::>\n\n<a id='b953e38c-0413-4c05-899b-e9d6e8c180fd'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">VENDOR 013684</td><td id=\"0-3\">PAY DATE</td></tr>\n<tr><td id=\"0-4\">VOUCHER NUMBER</td><td id=\"0-5\">DISC. AMT/PERCENT</td></tr>\n</table>\n\n<a id='5ddb8e70-e703-4c95-adba-7a3cc1d24748'></a>\n\n<::attestation: Signature\nSignature: illegible\n04-Biomet XXXXXXXXX\nContract # 402\nHandwritten signature at the top left, with associated text and contract number below.::>\n\n<a id='a8701cb0-1a79-443c-917d-bb6684be1b91'></a>\n\nDEMO-04159-00188\n\n<a id='f70bd25b-53ca-4bb7-98a2-d8419686b83b'></a>\n\nCONFIDENTIAL: PROTECTIVE ORDER https://www.industrydocuments.ucsf.edu/docs/qjgn0226\n\n<a id='e5f71c5b-f451-40e8-9105-7b32783e53a5'></a>\n\nBMT-MM-DFS-00001929",
+            "chunks": [
+                "22face8b-325b-431f-9451-f3e3eed9c3c6",
+                "21280822-c81c-4896-800e-620caba7fed0",
+                "f29cf874-8ce2-4380-a3d2-232f9c1912da",
+                "df40beb4-13d5-4512-b0ec-859cf6ac3c78",
+                "9bcb1c65-41cf-441e-9ac2-486ee96ee976",
+                "deff95ef-c82e-4f0b-a678-78f1ab22e987",
+                "72c207f6-eb0e-40cf-97f0-e96a3fec2001",
+                "2188f494-765b-4e5c-8a5f-486824865e04",
+                "ced6be10-d0b7-44e2-8577-65229d1b958b",
+                "b953e38c-0413-4c05-899b-e9d6e8c180fd",
+                "5ddb8e70-e703-4c95-adba-7a3cc1d24748",
+                "a8701cb0-1a79-443c-917d-bb6684be1b91",
+                "f70bd25b-53ca-4bb7-98a2-d8419686b83b",
+                "e5f71c5b-f451-40e8-9105-7b32783e53a5"
+            ]
+        }
+    ],
+    "grounding": {
+        "22face8b-325b-431f-9451-f3e3eed9c3c6": {
+            "box": {
+                "left": 0.06711606681346893,
+                "top": 0.03904788941144943,
+                "right": 0.25356525182724,
+                "bottom": 0.09397096186876297
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "21280822-c81c-4896-800e-620caba7fed0": {
+            "box": {
+                "left": 0.4981444776058197,
+                "top": 0.03481864929199219,
+                "right": 0.6194336414337158,
+                "bottom": 0.06350985169410706
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "f29cf874-8ce2-4380-a3d2-232f9c1912da": {
+            "box": {
+                "left": 0.6483619213104248,
+                "top": 0.0372580960392952,
+                "right": 0.9117902517318726,
+                "bottom": 0.09503049403429031
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "df40beb4-13d5-4512-b0ec-859cf6ac3c78": {
+            "box": {
+                "left": 0.06719657778739929,
+                "top": 0.11925364285707474,
+                "right": 0.3299959599971771,
+                "bottom": 0.17673148214817047
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9bcb1c65-41cf-441e-9ac2-486ee96ee976": {
+            "box": {
+                "left": 0.0649624764919281,
+                "top": 0.20608758926391602,
+                "right": 0.9275277853012085,
+                "bottom": 0.2877202332019806
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "deff95ef-c82e-4f0b-a678-78f1ab22e987": {
+            "box": {
+                "left": 0.6454240083694458,
+                "top": 0.39007577300071716,
+                "right": 0.8446953296661377,
+                "bottom": 0.426847368478775
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "72c207f6-eb0e-40cf-97f0-e96a3fec2001": {
+            "box": {
+                "left": 0.06859296560287476,
+                "top": 0.467044860124588,
+                "right": 0.47285521030426025,
+                "bottom": 0.505664587020874
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2188f494-765b-4e5c-8a5f-486824865e04": {
+            "box": {
+                "left": 0.08253180980682373,
+                "top": 0.5163487792015076,
+                "right": 0.4075223505496979,
+                "bottom": 0.5888163447380066
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ced6be10-d0b7-44e2-8577-65229d1b958b": {
+            "box": {
+                "left": 0.06552600860595703,
+                "top": 0.6162506937980652,
+                "right": 0.6821920871734619,
+                "bottom": 0.7559000849723816
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "b953e38c-0413-4c05-899b-e9d6e8c180fd": {
+            "box": {
+                "left": 0.08075331151485443,
+                "top": 0.7699936628341675,
+                "right": 0.5617861151695251,
+                "bottom": 0.8817802667617798
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.0875197955706489,
+                "top": 0.7758976991355846,
+                "right": 0.5561368264912074,
+                "bottom": 0.8755906588261269
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.0875197955706489,
+                "top": 0.7758976991355846,
+                "right": 0.26386208179040516,
+                "bottom": 0.8257255136251587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.26386208179040516,
+                "top": 0.7758976991355846,
+                "right": 0.5564367047364076,
+                "bottom": 0.8257255136251587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.0875197955706489,
+                "top": 0.8257255136251587,
+                "right": 0.26386208179040516,
+                "bottom": 0.8755906588261269
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.26386208179040516,
+                "top": 0.8257255136251587,
+                "right": 0.5564367047364076,
+                "bottom": 0.8755906588261269
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "5ddb8e70-e703-4c95-adba-7a3cc1d24748": {
+            "box": {
+                "left": 0.5975208878517151,
+                "top": 0.7162569761276245,
+                "right": 0.8423815369606018,
+                "bottom": 0.8459683656692505
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "a8701cb0-1a79-443c-917d-bb6684be1b91": {
+            "box": {
+                "left": 0.6949210166931152,
+                "top": 0.9508019685745239,
+                "right": 0.8880935907363892,
+                "bottom": 0.9729118347167969
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f70bd25b-53ca-4bb7-98a2-d8419686b83b": {
+            "box": {
+                "left": 0.002510666847229004,
+                "top": 0.9785264134407043,
+                "right": 0.7835983037948608,
+                "bottom": 1.0000555515289307
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e5f71c5b-f451-40e8-9105-7b32783e53a5": {
+            "box": {
+                "left": 0.7892611026763916,
+                "top": 0.9803372621536255,
+                "right": 0.9904661178588867,
+                "bottom": 1.000008225440979
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "qjgn0226_188.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10559,
+        "credit_usage": 3.0,
+        "job_id": "nbrmqh6aata6avp5slaza6rpa",
+        "version": "dpt-2-20250919"
+    }
+}

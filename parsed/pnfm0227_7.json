@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='33c7570f-c9c5-4406-bf24-568ac40bc21e'></a>\n\nBudget Categories\n\n<a id='cf7b90c8-317a-4eb7-b28a-9b1302669bad'></a>\n\nConference Facilities\n---\nA. Conference Rooms 200.00\nB. Luncheon and Dinner 900.00\nC. Audio Equipment 100.00\n\n<a id='4a6f9e1e-ff7f-4386-91c3-f84f1c234b37'></a>\n\n## Conference Participants\n\nA. Honorariums: 800.00\n\nB. Transportation and Accommodations: 3,500.00\n\nC. Tour Expenses: 280.00\n\n<a id='96b4f6b9-97c5-45cc-b8c7-d115f00dcf57'></a>\n\nPublicity and Mailing 500.00\n\nAdministrative Costs\n(Clerical, Telephones, etc.) 100.00",
+    "chunks": [
+        {
+            "markdown": "<a id='33c7570f-c9c5-4406-bf24-568ac40bc21e'></a>\n\nBudget Categories",
+            "type": "marginalia",
+            "id": "33c7570f-c9c5-4406-bf24-568ac40bc21e",
+            "grounding": {
+                "box": {
+                    "left": 0.41579169034957886,
+                    "top": 0.28144222497940063,
+                    "right": 0.60638827085495,
+                    "bottom": 0.30707061290740967
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cf7b90c8-317a-4eb7-b28a-9b1302669bad'></a>\n\nConference Facilities\n---\nA. Conference Rooms 200.00\nB. Luncheon and Dinner 900.00\nC. Audio Equipment 100.00",
+            "type": "text",
+            "id": "cf7b90c8-317a-4eb7-b28a-9b1302669bad",
+            "grounding": {
+                "box": {
+                    "left": 0.09777858853340149,
+                    "top": 0.32862699031829834,
+                    "right": 0.7992429733276367,
+                    "bottom": 0.44708192348480225
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4a6f9e1e-ff7f-4386-91c3-f84f1c234b37'></a>\n\n## Conference Participants\n\nA. Honorariums: 800.00\n\nB. Transportation and Accommodations: 3,500.00\n\nC. Tour Expenses: 280.00",
+            "type": "text",
+            "id": "4a6f9e1e-ff7f-4386-91c3-f84f1c234b37",
+            "grounding": {
+                "box": {
+                    "left": 0.09948870539665222,
+                    "top": 0.4686689078807831,
+                    "right": 0.8045270442962646,
+                    "bottom": 0.5855866074562073
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='96b4f6b9-97c5-45cc-b8c7-d115f00dcf57'></a>\n\nPublicity and Mailing 500.00\n\nAdministrative Costs\n(Clerical, Telephones, etc.) 100.00",
+            "type": "text",
+            "id": "96b4f6b9-97c5-45cc-b8c7-d115f00dcf57",
+            "grounding": {
+                "box": {
+                    "left": 0.09765931963920593,
+                    "top": 0.6035542488098145,
+                    "right": 0.7947672605514526,
+                    "bottom": 0.7014540433883667
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='33c7570f-c9c5-4406-bf24-568ac40bc21e'></a>\n\nBudget Categories\n\n<a id='cf7b90c8-317a-4eb7-b28a-9b1302669bad'></a>\n\nConference Facilities\n---\nA. Conference Rooms 200.00\nB. Luncheon and Dinner 900.00\nC. Audio Equipment 100.00\n\n<a id='4a6f9e1e-ff7f-4386-91c3-f84f1c234b37'></a>\n\n## Conference Participants\n\nA. Honorariums: 800.00\n\nB. Transportation and Accommodations: 3,500.00\n\nC. Tour Expenses: 280.00\n\n<a id='96b4f6b9-97c5-45cc-b8c7-d115f00dcf57'></a>\n\nPublicity and Mailing 500.00\n\nAdministrative Costs\n(Clerical, Telephones, etc.) 100.00",
+            "chunks": [
+                "33c7570f-c9c5-4406-bf24-568ac40bc21e",
+                "cf7b90c8-317a-4eb7-b28a-9b1302669bad",
+                "4a6f9e1e-ff7f-4386-91c3-f84f1c234b37",
+                "96b4f6b9-97c5-45cc-b8c7-d115f00dcf57"
+            ]
+        }
+    ],
+    "grounding": {
+        "33c7570f-c9c5-4406-bf24-568ac40bc21e": {
+            "box": {
+                "left": 0.41579169034957886,
+                "top": 0.28144222497940063,
+                "right": 0.60638827085495,
+                "bottom": 0.30707061290740967
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "cf7b90c8-317a-4eb7-b28a-9b1302669bad": {
+            "box": {
+                "left": 0.09777858853340149,
+                "top": 0.32862699031829834,
+                "right": 0.7992429733276367,
+                "bottom": 0.44708192348480225
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4a6f9e1e-ff7f-4386-91c3-f84f1c234b37": {
+            "box": {
+                "left": 0.09948870539665222,
+                "top": 0.4686689078807831,
+                "right": 0.8045270442962646,
+                "bottom": 0.5855866074562073
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "96b4f6b9-97c5-45cc-b8c7-d115f00dcf57": {
+            "box": {
+                "left": 0.09765931963920593,
+                "top": 0.6035542488098145,
+                "right": 0.7947672605514526,
+                "bottom": 0.7014540433883667
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "pnfm0227_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8944,
+        "credit_usage": 3.0,
+        "job_id": "ozdluf8886izhd2x4d6vlzjml",
+        "version": "dpt-2-20250919"
+    }
+}

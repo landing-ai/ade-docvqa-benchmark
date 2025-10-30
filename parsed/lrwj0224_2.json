@@ -1,0 +1,633 @@
+{
+    "markdown": "<a id='4f239fef-d7d0-441c-a2ac-a2b9e6720865'></a>\n\n***CONTRACT ROUTING FORM***\n\n<a id='48ac859a-138e-4287-bb1f-0d8517168347'></a>\n\nRoute Date: 9/7/2005\nOriginator: Lori MacWilliams\n\n<a id='e9a85452-f767-4e85-a237-7ce7e3ebea7f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DOCUMENT TYPE: Select as many as applicable:</td><td id=\"0-3\">CONTRACT CROSS REFERENCE DOC. NO.</td><td id=\"0-4\">CONTRACT VALUE</td><td id=\"0-5\">EFFECTIVE DATE</td><td id=\"0-6\">EXPIRATION DATE</td><td id=\"0-7\">PO# (When Applicable)</td><td id=\"0-8\">DOCUMENT NUMBER (SuppSvos to provide)</td></tr>\n<tr><td id=\"0-9\">Contract</td><td id=\"0-a\">(patterned box)</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">Job Assignment</td><td id=\"0-h\"></td><td id=\"0-i\">$125,000</td><td id=\"0-j\">9/7/2005</td><td id=\"0-k\">12/31/2005</td><td id=\"0-l\"></td><td id=\"0-m\">1719</td></tr>\n<tr><td id=\"0-n\">Amendment</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">Other (see below)</td><td id=\"0-v\"></td><td id=\"0-w\"></td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">Other Defined:</td><td id=\"0-C\" colspan=\"6\">black line (visual only)</td></tr>\n</table>\n\n<a id='b4bec00b-b911-452b-80ec-e1f43c43b42a'></a>\n\nDOCUMENT\nNUMBER\n(SuppSys to provide)\n\n1719\n\n<a id='1fe74c5a-661c-4ef1-b70e-50a8cd906ae9'></a>\n\nSupplier Name: Coyne Beahm Shouse, Inc.\nPhone #: (336) 605-7227\n\nAddress 1: 6522 Bryan Boulevard\nFax #: 336/605-7171\n\nAddress 2:\nCell #:\n\nCity, State Zip: Greensboro, NC 27409\n\nContact Name / Title: Roger L. Beahm/Chairman\n\ne-Mail address: rbeahm@CoyneBeahmShouse.com\n\nClient Department: Innovations Business Unit - Camel PREP\n\n<a id='da97b35b-d5d6-4ca1-9917-926f5d7dc87a'></a>\n\nOVERVIEW / SCOPE:\n\n2005 Addendum / Intellectual Property\n\n04-73-6303-8350.855\n\nProgram #: 808653\n\nLine Item#: 174802\n\nGL Code: PPS\n\nContract #:\n\nPPS Entry Date:\n\nBy:\n\n<a id='bd8e8a9a-0fa9-4201-8c13-6367fe9740f8'></a>\n\nBid Waiver:\noption Yes: [ ]\noption No: [x]\n\n* If yes, must include signed Bid Waiver in the contract file\n\n<a id='88e06599-b6fd-4d40-9a9c-c99c73e9ee5a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lrwj0224\n\n<a id='aac897c8-5058-42da-8ac8-48b4867b7c37'></a>\n\n53411 3885",
+    "chunks": [
+        {
+            "markdown": "<a id='4f239fef-d7d0-441c-a2ac-a2b9e6720865'></a>\n\n***CONTRACT ROUTING FORM***",
+            "type": "text",
+            "id": "4f239fef-d7d0-441c-a2ac-a2b9e6720865",
+            "grounding": {
+                "box": {
+                    "left": 0.3316110372543335,
+                    "top": 0.05877802148461342,
+                    "right": 0.6543701887130737,
+                    "bottom": 0.08418622612953186
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='48ac859a-138e-4287-bb1f-0d8517168347'></a>\n\nRoute Date: 9/7/2005\nOriginator: Lori MacWilliams",
+            "type": "text",
+            "id": "48ac859a-138e-4287-bb1f-0d8517168347",
+            "grounding": {
+                "box": {
+                    "left": 0.09122812747955322,
+                    "top": 0.11026568710803986,
+                    "right": 0.8814769983291626,
+                    "bottom": 0.13422629237174988
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e9a85452-f767-4e85-a237-7ce7e3ebea7f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DOCUMENT TYPE: Select as many as applicable:</td><td id=\"0-3\">CONTRACT CROSS REFERENCE DOC. NO.</td><td id=\"0-4\">CONTRACT VALUE</td><td id=\"0-5\">EFFECTIVE DATE</td><td id=\"0-6\">EXPIRATION DATE</td><td id=\"0-7\">PO# (When Applicable)</td><td id=\"0-8\">DOCUMENT NUMBER (SuppSvos to provide)</td></tr>\n<tr><td id=\"0-9\">Contract</td><td id=\"0-a\">(patterned box)</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">Job Assignment</td><td id=\"0-h\"></td><td id=\"0-i\">$125,000</td><td id=\"0-j\">9/7/2005</td><td id=\"0-k\">12/31/2005</td><td id=\"0-l\"></td><td id=\"0-m\">1719</td></tr>\n<tr><td id=\"0-n\">Amendment</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">Other (see below)</td><td id=\"0-v\"></td><td id=\"0-w\"></td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">Other Defined:</td><td id=\"0-C\" colspan=\"6\">black line (visual only)</td></tr>\n</table>",
+            "type": "table",
+            "id": "e9a85452-f767-4e85-a237-7ce7e3ebea7f",
+            "grounding": {
+                "box": {
+                    "left": 0.08870187401771545,
+                    "top": 0.14867955446243286,
+                    "right": 0.8821277618408203,
+                    "bottom": 0.3305291533470154
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b4bec00b-b911-452b-80ec-e1f43c43b42a'></a>\n\nDOCUMENT\nNUMBER\n(SuppSys to provide)\n\n1719",
+            "type": "text",
+            "id": "b4bec00b-b911-452b-80ec-e1f43c43b42a",
+            "grounding": {
+                "box": {
+                    "left": 0.7308456897735596,
+                    "top": 0.15810394287109375,
+                    "right": 0.8810014724731445,
+                    "bottom": 0.3055895268917084
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1fe74c5a-661c-4ef1-b70e-50a8cd906ae9'></a>\n\nSupplier Name: Coyne Beahm Shouse, Inc.\nPhone #: (336) 605-7227\n\nAddress 1: 6522 Bryan Boulevard\nFax #: 336/605-7171\n\nAddress 2:\nCell #:\n\nCity, State Zip: Greensboro, NC 27409\n\nContact Name / Title: Roger L. Beahm/Chairman\n\ne-Mail address: rbeahm@CoyneBeahmShouse.com\n\nClient Department: Innovations Business Unit - Camel PREP",
+            "type": "text",
+            "id": "1fe74c5a-661c-4ef1-b70e-50a8cd906ae9",
+            "grounding": {
+                "box": {
+                    "left": 0.09184777736663818,
+                    "top": 0.34000906348228455,
+                    "right": 0.8848292827606201,
+                    "bottom": 0.5014474391937256
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='da97b35b-d5d6-4ca1-9917-926f5d7dc87a'></a>\n\nOVERVIEW / SCOPE:\n\n2005 Addendum / Intellectual Property\n\n04-73-6303-8350.855\n\nProgram #: 808653\n\nLine Item#: 174802\n\nGL Code: PPS\n\nContract #:\n\nPPS Entry Date:\n\nBy:",
+            "type": "text",
+            "id": "da97b35b-d5d6-4ca1-9917-926f5d7dc87a",
+            "grounding": {
+                "box": {
+                    "left": 0.09139660000801086,
+                    "top": 0.5234766006469727,
+                    "right": 0.8841021060943604,
+                    "bottom": 0.7436888217926025
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bd8e8a9a-0fa9-4201-8c13-6367fe9740f8'></a>\n\nBid Waiver:\noption Yes: [ ]\noption No: [x]\n\n* If yes, must include signed Bid Waiver in the contract file",
+            "type": "text",
+            "id": "bd8e8a9a-0fa9-4201-8c13-6367fe9740f8",
+            "grounding": {
+                "box": {
+                    "left": 0.09692060947418213,
+                    "top": 0.751826286315918,
+                    "right": 0.46861445903778076,
+                    "bottom": 0.7948225736618042
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='88e06599-b6fd-4d40-9a9c-c99c73e9ee5a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lrwj0224",
+            "type": "text",
+            "id": "88e06599-b6fd-4d40-9a9c-c99c73e9ee5a",
+            "grounding": {
+                "box": {
+                    "left": 0.22251132130622864,
+                    "top": 0.9771924018859863,
+                    "right": 0.7772438526153564,
+                    "bottom": 0.9993345737457275
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='aac897c8-5058-42da-8ac8-48b4867b7c37'></a>\n\n53411 3885",
+            "type": "marginalia",
+            "id": "aac897c8-5058-42da-8ac8-48b4867b7c37",
+            "grounding": {
+                "box": {
+                    "left": 0.9549050331115723,
+                    "top": 0.8388944268226624,
+                    "right": 0.9823724031448364,
+                    "bottom": 0.9332277178764343
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4f239fef-d7d0-441c-a2ac-a2b9e6720865'></a>\n\n***CONTRACT ROUTING FORM***\n\n<a id='48ac859a-138e-4287-bb1f-0d8517168347'></a>\n\nRoute Date: 9/7/2005\nOriginator: Lori MacWilliams\n\n<a id='e9a85452-f767-4e85-a237-7ce7e3ebea7f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DOCUMENT TYPE: Select as many as applicable:</td><td id=\"0-3\">CONTRACT CROSS REFERENCE DOC. NO.</td><td id=\"0-4\">CONTRACT VALUE</td><td id=\"0-5\">EFFECTIVE DATE</td><td id=\"0-6\">EXPIRATION DATE</td><td id=\"0-7\">PO# (When Applicable)</td><td id=\"0-8\">DOCUMENT NUMBER (SuppSvos to provide)</td></tr>\n<tr><td id=\"0-9\">Contract</td><td id=\"0-a\">(patterned box)</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">Job Assignment</td><td id=\"0-h\"></td><td id=\"0-i\">$125,000</td><td id=\"0-j\">9/7/2005</td><td id=\"0-k\">12/31/2005</td><td id=\"0-l\"></td><td id=\"0-m\">1719</td></tr>\n<tr><td id=\"0-n\">Amendment</td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\"></td><td id=\"0-s\"></td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">Other (see below)</td><td id=\"0-v\"></td><td id=\"0-w\"></td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">Other Defined:</td><td id=\"0-C\" colspan=\"6\">black line (visual only)</td></tr>\n</table>\n\n<a id='b4bec00b-b911-452b-80ec-e1f43c43b42a'></a>\n\nDOCUMENT\nNUMBER\n(SuppSys to provide)\n\n1719\n\n<a id='1fe74c5a-661c-4ef1-b70e-50a8cd906ae9'></a>\n\nSupplier Name: Coyne Beahm Shouse, Inc.\nPhone #: (336) 605-7227\n\nAddress 1: 6522 Bryan Boulevard\nFax #: 336/605-7171\n\nAddress 2:\nCell #:\n\nCity, State Zip: Greensboro, NC 27409\n\nContact Name / Title: Roger L. Beahm/Chairman\n\ne-Mail address: rbeahm@CoyneBeahmShouse.com\n\nClient Department: Innovations Business Unit - Camel PREP\n\n<a id='da97b35b-d5d6-4ca1-9917-926f5d7dc87a'></a>\n\nOVERVIEW / SCOPE:\n\n2005 Addendum / Intellectual Property\n\n04-73-6303-8350.855\n\nProgram #: 808653\n\nLine Item#: 174802\n\nGL Code: PPS\n\nContract #:\n\nPPS Entry Date:\n\nBy:\n\n<a id='bd8e8a9a-0fa9-4201-8c13-6367fe9740f8'></a>\n\nBid Waiver:\noption Yes: [ ]\noption No: [x]\n\n* If yes, must include signed Bid Waiver in the contract file\n\n<a id='88e06599-b6fd-4d40-9a9c-c99c73e9ee5a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lrwj0224\n\n<a id='aac897c8-5058-42da-8ac8-48b4867b7c37'></a>\n\n53411 3885",
+            "chunks": [
+                "4f239fef-d7d0-441c-a2ac-a2b9e6720865",
+                "48ac859a-138e-4287-bb1f-0d8517168347",
+                "e9a85452-f767-4e85-a237-7ce7e3ebea7f",
+                "b4bec00b-b911-452b-80ec-e1f43c43b42a",
+                "1fe74c5a-661c-4ef1-b70e-50a8cd906ae9",
+                "da97b35b-d5d6-4ca1-9917-926f5d7dc87a",
+                "bd8e8a9a-0fa9-4201-8c13-6367fe9740f8",
+                "88e06599-b6fd-4d40-9a9c-c99c73e9ee5a",
+                "aac897c8-5058-42da-8ac8-48b4867b7c37"
+            ]
+        }
+    ],
+    "grounding": {
+        "4f239fef-d7d0-441c-a2ac-a2b9e6720865": {
+            "box": {
+                "left": 0.3316110372543335,
+                "top": 0.05877802148461342,
+                "right": 0.6543701887130737,
+                "bottom": 0.08418622612953186
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "48ac859a-138e-4287-bb1f-0d8517168347": {
+            "box": {
+                "left": 0.09122812747955322,
+                "top": 0.11026568710803986,
+                "right": 0.8814769983291626,
+                "bottom": 0.13422629237174988
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e9a85452-f767-4e85-a237-7ce7e3ebea7f": {
+            "box": {
+                "left": 0.08870187401771545,
+                "top": 0.14867955446243286,
+                "right": 0.8821277618408203,
+                "bottom": 0.3305291533470154
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.09458766069321227,
+                "top": 0.15458993921874642,
+                "right": 0.8774479950231591,
+                "bottom": 0.32647741825223875
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.09458766069321227,
+                "top": 0.15458993921874642,
+                "right": 0.24248287539169588,
+                "bottom": 0.2212153006293036
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.24248287539169588,
+                "top": 0.15458993921874642,
+                "right": 0.3418081890796838,
+                "bottom": 0.2212153006293036
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.3418081890796838,
+                "top": 0.15458993921874642,
+                "right": 0.4410189382169589,
+                "bottom": 0.2212153006293036
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.4410189382169589,
+                "top": 0.15458993921874642,
+                "right": 0.5397211106036188,
+                "bottom": 0.2212153006293036
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.5397211106036188,
+                "top": 0.15458993921874642,
+                "right": 0.6387278189755481,
+                "bottom": 0.2212153006293036
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6387278189755481,
+                "top": 0.15458993921874642,
+                "right": 0.7377111178727187,
+                "bottom": 0.2212153006293036
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7377111178727187,
+                "top": 0.15458993921874642,
+                "right": 0.8760575668062316,
+                "bottom": 0.2212153006293036
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.09458766069321227,
+                "top": 0.2212153006293036,
+                "right": 0.24248287539169588,
+                "bottom": 0.2417785976284179
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.24248287539169588,
+                "top": 0.2212153006293036,
+                "right": 0.3418081890796838,
+                "bottom": 0.2417785976284179
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.3418081890796838,
+                "top": 0.2212153006293036,
+                "right": 0.4410189382169589,
+                "bottom": 0.2417785976284179
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.4410189382169589,
+                "top": 0.2212153006293036,
+                "right": 0.5397211106036188,
+                "bottom": 0.2417785976284179
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5397211106036188,
+                "top": 0.2212153006293036,
+                "right": 0.6387278189755481,
+                "bottom": 0.2417785976284179
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.6387278189755481,
+                "top": 0.2212153006293036,
+                "right": 0.7377111178727187,
+                "bottom": 0.2417785976284179
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7377111178727187,
+                "top": 0.2212153006293036,
+                "right": 0.8760575668062316,
+                "bottom": 0.2417785976284179
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.09458766069321227,
+                "top": 0.2417785976284179,
+                "right": 0.24248287539169588,
+                "bottom": 0.2622241605324902
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.24248287539169588,
+                "top": 0.2417785976284179,
+                "right": 0.3418081890796838,
+                "bottom": 0.2622241605324902
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.3418081890796838,
+                "top": 0.2417785976284179,
+                "right": 0.4410189382169589,
+                "bottom": 0.2622241605324902
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.4410189382169589,
+                "top": 0.2417785976284179,
+                "right": 0.5397211106036188,
+                "bottom": 0.2622241605324902
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5397211106036188,
+                "top": 0.2417785976284179,
+                "right": 0.6387278189755481,
+                "bottom": 0.2622241605324902
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6387278189755481,
+                "top": 0.2417785976284179,
+                "right": 0.7377111178727187,
+                "bottom": 0.2622241605324902
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.7377111178727187,
+                "top": 0.2417785976284179,
+                "right": 0.8760575668062316,
+                "bottom": 0.2622241605324902
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.09458766069321227,
+                "top": 0.2622241605324902,
+                "right": 0.24248287539169588,
+                "bottom": 0.2836634395200974
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.24248287539169588,
+                "top": 0.2622241605324902,
+                "right": 0.3418081890796838,
+                "bottom": 0.2836634395200974
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.3418081890796838,
+                "top": 0.2622241605324902,
+                "right": 0.4410189382169589,
+                "bottom": 0.2836634395200974
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.4410189382169589,
+                "top": 0.2622241605324902,
+                "right": 0.5397211106036188,
+                "bottom": 0.2836634395200974
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.5397211106036188,
+                "top": 0.2622241605324902,
+                "right": 0.6387278189755481,
+                "bottom": 0.2836634395200974
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.6387278189755481,
+                "top": 0.2622241605324902,
+                "right": 0.7377111178727187,
+                "bottom": 0.2836634395200974
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.7377111178727187,
+                "top": 0.2622241605324902,
+                "right": 0.8760575668062316,
+                "bottom": 0.2836634395200974
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.09458766069321227,
+                "top": 0.2836634395200974,
+                "right": 0.24248287539169588,
+                "bottom": 0.3043445573268997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.24248287539169588,
+                "top": 0.2836634395200974,
+                "right": 0.3418081890796838,
+                "bottom": 0.3043445573268997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.3418081890796838,
+                "top": 0.2836634395200974,
+                "right": 0.4410189382169589,
+                "bottom": 0.3043445573268997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.4410189382169589,
+                "top": 0.2836634395200974,
+                "right": 0.5397211106036188,
+                "bottom": 0.3043445573268997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.5397211106036188,
+                "top": 0.2836634395200974,
+                "right": 0.6387278189755481,
+                "bottom": 0.3043445573268997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.6387278189755481,
+                "top": 0.2836634395200974,
+                "right": 0.7377111178727187,
+                "bottom": 0.3043445573268997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.7377111178727187,
+                "top": 0.2836634395200974,
+                "right": 0.8760575668062316,
+                "bottom": 0.3043445573268997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.09458766069321227,
+                "top": 0.3043445573268997,
+                "right": 0.24248287539169588,
+                "bottom": 0.32647741825223875
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.24248287539169588,
+                "top": 0.3043445573268997,
+                "right": 0.8760575668062316,
+                "bottom": 0.32647741825223875
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "b4bec00b-b911-452b-80ec-e1f43c43b42a": {
+            "box": {
+                "left": 0.7308456897735596,
+                "top": 0.15810394287109375,
+                "right": 0.8810014724731445,
+                "bottom": 0.3055895268917084
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1fe74c5a-661c-4ef1-b70e-50a8cd906ae9": {
+            "box": {
+                "left": 0.09184777736663818,
+                "top": 0.34000906348228455,
+                "right": 0.8848292827606201,
+                "bottom": 0.5014474391937256
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "da97b35b-d5d6-4ca1-9917-926f5d7dc87a": {
+            "box": {
+                "left": 0.09139660000801086,
+                "top": 0.5234766006469727,
+                "right": 0.8841021060943604,
+                "bottom": 0.7436888217926025
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bd8e8a9a-0fa9-4201-8c13-6367fe9740f8": {
+            "box": {
+                "left": 0.09692060947418213,
+                "top": 0.751826286315918,
+                "right": 0.46861445903778076,
+                "bottom": 0.7948225736618042
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "88e06599-b6fd-4d40-9a9c-c99c73e9ee5a": {
+            "box": {
+                "left": 0.22251132130622864,
+                "top": 0.9771924018859863,
+                "right": 0.7772438526153564,
+                "bottom": 0.9993345737457275
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "aac897c8-5058-42da-8ac8-48b4867b7c37": {
+            "box": {
+                "left": 0.9549050331115723,
+                "top": 0.8388944268226624,
+                "right": 0.9823724031448364,
+                "bottom": 0.9332277178764343
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lrwj0224_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9485,
+        "credit_usage": 3.0,
+        "job_id": "myzwgw7dg5em0h6e0g696798w",
+        "version": "dpt-2-20250919"
+    }
+}

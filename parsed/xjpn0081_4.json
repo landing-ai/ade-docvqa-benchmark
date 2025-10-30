@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='175e20d7-c4d2-4b60-99cf-1a0b8b6142a8'></a>\n\nDATE: March 22, 1991\n\n<a id='fb4d1eb9-8b59-4ef6-ac97-8019619c6599'></a>\n\nCOUNTRY - U. S.\n\nGRADE - CG1 1989 Chinese Flue Cured\n\n<a id='a247f62b-44ba-4c61-b984-f715b4bc0cc8'></a>\n\n<table><thead><tr><th>Dealer</th><th>Lbs. Strips Packed</th><th>% Packed</th><th>No. Rejects/Reruns - Reason</th></tr></thead><tbody><tr><td>A. C. Monk</td><td>597,472</td><td>100.0</td><td>1 stem</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></tbody><tfoot><tr><td>Total</td><td>597,472</td><td>100.0</td><td>1</td></tr></tfoot></table>\n\n<a id='2252ecac-5195-4563-b459-a005f0304d45'></a>\n\nForeign Matter Found In Core Samples\n\n<a id='1f5ebd63-7502-492f-a6ac-002cc248fad5'></a>\n\nDEALER\n\nA. C.\nMonk\n\n---\n\n---\n\n---\n\n---\n\n---\n\n---\n\n---\n\n<a id='9426890f-2138-4661-9e49-54cd3ed96857'></a>\n\n<table><thead><tr><th>TYPE:</th><th colspan=\"7\">No. of Pieces</th></tr></thead><tbody><tr><td>Grass/Straw</td><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lint/String</td><td>22</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Paper</td><td>4</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Plastic</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Feathers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Foam</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Wood</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Foil</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total Pieces<br>F. M.</td><td>28</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lbs. Core<br>Sample</td><td>352</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>No. Pieces<br>F. M. / Lb.</td><td>.1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>5133\n\n<a id='e8f5db74-1a0d-4193-b8c9-ddfad18264c9'></a>\n\n51336 0089",
+    "chunks": [
+        {
+            "markdown": "<a id='175e20d7-c4d2-4b60-99cf-1a0b8b6142a8'></a>\n\nDATE: March 22, 1991",
+            "type": "text",
+            "id": "175e20d7-c4d2-4b60-99cf-1a0b8b6142a8",
+            "grounding": {
+                "box": {
+                    "left": 0.5030303597450256,
+                    "top": 0.04025891795754433,
+                    "right": 0.7140552401542664,
+                    "bottom": 0.06112469360232353
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fb4d1eb9-8b59-4ef6-ac97-8019619c6599'></a>\n\nCOUNTRY - U. S.\n\nGRADE - CG1 1989 Chinese Flue Cured",
+            "type": "text",
+            "id": "fb4d1eb9-8b59-4ef6-ac97-8019619c6599",
+            "grounding": {
+                "box": {
+                    "left": 0.3325253427028656,
+                    "top": 0.07070929557085037,
+                    "right": 0.7152743339538574,
+                    "bottom": 0.1219317838549614
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a247f62b-44ba-4c61-b984-f715b4bc0cc8'></a>\n\n<table><thead><tr><th>Dealer</th><th>Lbs. Strips Packed</th><th>% Packed</th><th>No. Rejects/Reruns - Reason</th></tr></thead><tbody><tr><td>A. C. Monk</td><td>597,472</td><td>100.0</td><td>1 stem</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></tbody><tfoot><tr><td>Total</td><td>597,472</td><td>100.0</td><td>1</td></tr></tfoot></table>",
+            "type": "table",
+            "id": "a247f62b-44ba-4c61-b984-f715b4bc0cc8",
+            "grounding": {
+                "box": {
+                    "left": 0.03488907217979431,
+                    "top": 0.14338064193725586,
+                    "right": 0.9839168787002563,
+                    "bottom": 0.4404947757720947
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2252ecac-5195-4563-b459-a005f0304d45'></a>\n\nForeign Matter Found In Core Samples",
+            "type": "text",
+            "id": "2252ecac-5195-4563-b459-a005f0304d45",
+            "grounding": {
+                "box": {
+                    "left": 0.30396366119384766,
+                    "top": 0.4613323211669922,
+                    "right": 0.679558277130127,
+                    "bottom": 0.483390748500824
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1f5ebd63-7502-492f-a6ac-002cc248fad5'></a>\n\nDEALER\n\nA. C.\nMonk\n\n---\n\n---\n\n---\n\n---\n\n---\n\n---\n\n---",
+            "type": "text",
+            "id": "1f5ebd63-7502-492f-a6ac-002cc248fad5",
+            "grounding": {
+                "box": {
+                    "left": 0.03534013032913208,
+                    "top": 0.49671119451522827,
+                    "right": 0.9520523548126221,
+                    "bottom": 0.5322632193565369
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9426890f-2138-4661-9e49-54cd3ed96857'></a>\n\n<table><thead><tr><th>TYPE:</th><th colspan=\"7\">No. of Pieces</th></tr></thead><tbody><tr><td>Grass/Straw</td><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lint/String</td><td>22</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Paper</td><td>4</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Plastic</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Feathers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Foam</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Wood</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Foil</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total Pieces<br>F. M.</td><td>28</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lbs. Core<br>Sample</td><td>352</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>No. Pieces<br>F. M. / Lb.</td><td>.1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>5133",
+            "type": "table",
+            "id": "9426890f-2138-4661-9e49-54cd3ed96857",
+            "grounding": {
+                "box": {
+                    "left": 0.03694543242454529,
+                    "top": 0.5527801513671875,
+                    "right": 0.979772686958313,
+                    "bottom": 0.8862711191177368
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e8f5db74-1a0d-4193-b8c9-ddfad18264c9'></a>\n\n51336 0089",
+            "type": "marginalia",
+            "id": "e8f5db74-1a0d-4193-b8c9-ddfad18264c9",
+            "grounding": {
+                "box": {
+                    "left": 0.9332361221313477,
+                    "top": 0.8495690822601318,
+                    "right": 0.9689483642578125,
+                    "bottom": 0.9473308324813843
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='175e20d7-c4d2-4b60-99cf-1a0b8b6142a8'></a>\n\nDATE: March 22, 1991\n\n<a id='fb4d1eb9-8b59-4ef6-ac97-8019619c6599'></a>\n\nCOUNTRY - U. S.\n\nGRADE - CG1 1989 Chinese Flue Cured\n\n<a id='a247f62b-44ba-4c61-b984-f715b4bc0cc8'></a>\n\n<table><thead><tr><th>Dealer</th><th>Lbs. Strips Packed</th><th>% Packed</th><th>No. Rejects/Reruns - Reason</th></tr></thead><tbody><tr><td>A. C. Monk</td><td>597,472</td><td>100.0</td><td>1 stem</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></tbody><tfoot><tr><td>Total</td><td>597,472</td><td>100.0</td><td>1</td></tr></tfoot></table>\n\n<a id='2252ecac-5195-4563-b459-a005f0304d45'></a>\n\nForeign Matter Found In Core Samples\n\n<a id='1f5ebd63-7502-492f-a6ac-002cc248fad5'></a>\n\nDEALER\n\nA. C.\nMonk\n\n---\n\n---\n\n---\n\n---\n\n---\n\n---\n\n---\n\n<a id='9426890f-2138-4661-9e49-54cd3ed96857'></a>\n\n<table><thead><tr><th>TYPE:</th><th colspan=\"7\">No. of Pieces</th></tr></thead><tbody><tr><td>Grass/Straw</td><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lint/String</td><td>22</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Paper</td><td>4</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Plastic</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Feathers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Foam</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Wood</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Foil</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Other</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total Pieces<br>F. M.</td><td>28</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lbs. Core<br>Sample</td><td>352</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>No. Pieces<br>F. M. / Lb.</td><td>.1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>5133\n\n<a id='e8f5db74-1a0d-4193-b8c9-ddfad18264c9'></a>\n\n51336 0089",
+            "chunks": [
+                "175e20d7-c4d2-4b60-99cf-1a0b8b6142a8",
+                "fb4d1eb9-8b59-4ef6-ac97-8019619c6599",
+                "a247f62b-44ba-4c61-b984-f715b4bc0cc8",
+                "2252ecac-5195-4563-b459-a005f0304d45",
+                "1f5ebd63-7502-492f-a6ac-002cc248fad5",
+                "9426890f-2138-4661-9e49-54cd3ed96857",
+                "e8f5db74-1a0d-4193-b8c9-ddfad18264c9"
+            ]
+        }
+    ],
+    "grounding": {
+        "175e20d7-c4d2-4b60-99cf-1a0b8b6142a8": {
+            "box": {
+                "left": 0.5030303597450256,
+                "top": 0.04025891795754433,
+                "right": 0.7140552401542664,
+                "bottom": 0.06112469360232353
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fb4d1eb9-8b59-4ef6-ac97-8019619c6599": {
+            "box": {
+                "left": 0.3325253427028656,
+                "top": 0.07070929557085037,
+                "right": 0.7152743339538574,
+                "bottom": 0.1219317838549614
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a247f62b-44ba-4c61-b984-f715b4bc0cc8": {
+            "box": {
+                "left": 0.03488907217979431,
+                "top": 0.14338064193725586,
+                "right": 0.9839168787002563,
+                "bottom": 0.4404947757720947
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "2252ecac-5195-4563-b459-a005f0304d45": {
+            "box": {
+                "left": 0.30396366119384766,
+                "top": 0.4613323211669922,
+                "right": 0.679558277130127,
+                "bottom": 0.483390748500824
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1f5ebd63-7502-492f-a6ac-002cc248fad5": {
+            "box": {
+                "left": 0.03534013032913208,
+                "top": 0.49671119451522827,
+                "right": 0.9520523548126221,
+                "bottom": 0.5322632193565369
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9426890f-2138-4661-9e49-54cd3ed96857": {
+            "box": {
+                "left": 0.03694543242454529,
+                "top": 0.5527801513671875,
+                "right": 0.979772686958313,
+                "bottom": 0.8862711191177368
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "e8f5db74-1a0d-4193-b8c9-ddfad18264c9": {
+            "box": {
+                "left": 0.9332361221313477,
+                "top": 0.8495690822601318,
+                "right": 0.9689483642578125,
+                "bottom": 0.9473308324813843
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xjpn0081_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10538,
+        "credit_usage": 3.0,
+        "job_id": "u0zdb8mk61k9me093a18po28u",
+        "version": "dpt-2-20250919"
+    }
+}

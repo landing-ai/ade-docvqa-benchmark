@@ -1,0 +1,528 @@
+{
+    "markdown": "<a id='834d351a-a7cf-4ee4-81e0-8d200639daa7'></a>\n\n'END OF DATA\n303 TP1303N1\nPROD 050\n\n<a id='33f01f09-5cea-4983-bb3e-816444a40f27'></a>\n\nTEMPORARY PAYMENT SYSTEM\nVOUCHER APPROVAL\n\n<a id='35be5f0a-d404-4bc9-87d2-47c4fc8ccf84'></a>\n\n10/20/98 10:53\nFN:\n\n<a id='1139c4e4-21b1-4173-a2b5-ae6eb7d0c38f'></a>\n\nVOUCHER NUMBER : 88881620\nVOUCHER STATUS : REQUESTED\nVOUCHER AMOUNT : 253,515.00\n\n<a id='004bfaf2-c144-4297-a963-dae6be956818'></a>\n\nACCOUNT NUMBER: 711153\nACCOUNT DIV : 6940\nPAYEE NAME : CLARK REFINING HQ\nPAYEE ADDR : 8182 MARYLAND AVE FL\nCLAYTON MO 63105\n\n<a id='1241285e-cc8d-44b3-969b-544dfce69758'></a>\n\nDATES\n\n<a id='48440e80-8d22-4c4e-a2d5-8de71876fde2'></a>\n\nDATE REQUESTED : 10/08/1998\nDATE APPROVED :\nDATE COMPLETE :\nDATE PROCESSED A/P:\n\n<a id='181f3acc-9fb2-456f-b4da-65483fdeca4b'></a>\n\nREQUESTOR DIVISION:\n\nPLACEMENTS UPDATED: YES\n\nPAYMENT SENT TO : PAYEE\n\n<a id='62397d3a-c8b3-4f0d-87ff-53c27024cac6'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">DESCRIPTION</td><td id=\"0-3\">UNITS</td><td id=\"0-4\">AMOUNT</td><td id=\"0-5\">DESCRIPTION</td><td id=\"0-6\">UNITS</td><td id=\"0-7\">AMOUNT</td></tr>\n<tr><td id=\"0-8\">CAM .25 PR.</td><td id=\"0-9\">RED</td><td id=\"0-a\">587,900</td><td id=\"0-b\">146,975.00</td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\" colspan=\"2\">WI .25 PR. RED</td><td id=\"0-g\">426,160</td><td id=\"0-h\">106,540.00</td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td></tr>\n</table>\n\n<a id='d8df39de-b6e6-43ae-ba65-5ce56807b273'></a>\n\nEnter-PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10---PF11---PF12---\nHelp Quit Retrn\nBkwrd Frwrd\nMain\n\n<a id='aa72649a-b466-468e-be21-37763d6d7b1e'></a>\n\n52442 1592\n\n<a id='c71cd48e-f652-4822-bcb7-09e634833da7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xtvn0020",
+    "chunks": [
+        {
+            "markdown": "<a id='834d351a-a7cf-4ee4-81e0-8d200639daa7'></a>\n\n'END OF DATA\n303 TP1303N1\nPROD 050",
+            "type": "text",
+            "id": "834d351a-a7cf-4ee4-81e0-8d200639daa7",
+            "grounding": {
+                "box": {
+                    "left": 0.01508089154958725,
+                    "top": 0.03174595162272453,
+                    "right": 0.1902853548526764,
+                    "bottom": 0.12904967367649078
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='33f01f09-5cea-4983-bb3e-816444a40f27'></a>\n\nTEMPORARY PAYMENT SYSTEM\nVOUCHER APPROVAL",
+            "type": "text",
+            "id": "33f01f09-5cea-4983-bb3e-816444a40f27",
+            "grounding": {
+                "box": {
+                    "left": 0.3211461901664734,
+                    "top": 0.05941542237997055,
+                    "right": 0.6080192923545837,
+                    "bottom": 0.1252070665359497
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='35be5f0a-d404-4bc9-87d2-47c4fc8ccf84'></a>\n\n10/20/98 10:53\nFN:",
+            "type": "text",
+            "id": "35be5f0a-d404-4bc9-87d2-47c4fc8ccf84",
+            "grounding": {
+                "box": {
+                    "left": 0.7706243395805359,
+                    "top": 0.054071564227342606,
+                    "right": 0.939175546169281,
+                    "bottom": 0.12088608741760254
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1139c4e4-21b1-4173-a2b5-ae6eb7d0c38f'></a>\n\nVOUCHER NUMBER : 88881620\nVOUCHER STATUS : REQUESTED\nVOUCHER AMOUNT : 253,515.00",
+            "type": "text",
+            "id": "1139c4e4-21b1-4173-a2b5-ae6eb7d0c38f",
+            "grounding": {
+                "box": {
+                    "left": 0.019724711775779724,
+                    "top": 0.1572335958480835,
+                    "right": 0.40083664655685425,
+                    "bottom": 0.25864288210868835
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='004bfaf2-c144-4297-a963-dae6be956818'></a>\n\nACCOUNT NUMBER: 711153\nACCOUNT DIV : 6940\nPAYEE NAME : CLARK REFINING HQ\nPAYEE ADDR : 8182 MARYLAND AVE FL\nCLAYTON MO 63105",
+            "type": "text",
+            "id": "004bfaf2-c144-4297-a963-dae6be956818",
+            "grounding": {
+                "box": {
+                    "left": 0.5158143639564514,
+                    "top": 0.15403936803340912,
+                    "right": 0.9413711428642273,
+                    "bottom": 0.3149731755256653
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1241285e-cc8d-44b3-969b-544dfce69758'></a>\n\nDATES",
+            "type": "text",
+            "id": "1241285e-cc8d-44b3-969b-544dfce69758",
+            "grounding": {
+                "box": {
+                    "left": 0.14906595647335052,
+                    "top": 0.2864442765712738,
+                    "right": 0.21550299227237701,
+                    "bottom": 0.3192329704761505
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='48440e80-8d22-4c4e-a2d5-8de71876fde2'></a>\n\nDATE REQUESTED : 10/08/1998\nDATE APPROVED :\nDATE COMPLETE :\nDATE PROCESSED A/P:",
+            "type": "text",
+            "id": "48440e80-8d22-4c4e-a2d5-8de71876fde2",
+            "grounding": {
+                "box": {
+                    "left": 0.021473750472068787,
+                    "top": 0.34670722484588623,
+                    "right": 0.37695205211639404,
+                    "bottom": 0.4816664457321167
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='181f3acc-9fb2-456f-b4da-65483fdeca4b'></a>\n\nREQUESTOR DIVISION:\n\nPLACEMENTS UPDATED: YES\n\nPAYMENT SENT TO : PAYEE",
+            "type": "text",
+            "id": "181f3acc-9fb2-456f-b4da-65483fdeca4b",
+            "grounding": {
+                "box": {
+                    "left": 0.47058558464050293,
+                    "top": 0.37769636511802673,
+                    "right": 0.7730414867401123,
+                    "bottom": 0.4783754050731659
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='62397d3a-c8b3-4f0d-87ff-53c27024cac6'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">DESCRIPTION</td><td id=\"0-3\">UNITS</td><td id=\"0-4\">AMOUNT</td><td id=\"0-5\">DESCRIPTION</td><td id=\"0-6\">UNITS</td><td id=\"0-7\">AMOUNT</td></tr>\n<tr><td id=\"0-8\">CAM .25 PR.</td><td id=\"0-9\">RED</td><td id=\"0-a\">587,900</td><td id=\"0-b\">146,975.00</td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\" colspan=\"2\">WI .25 PR. RED</td><td id=\"0-g\">426,160</td><td id=\"0-h\">106,540.00</td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "62397d3a-c8b3-4f0d-87ff-53c27024cac6",
+            "grounding": {
+                "box": {
+                    "left": 0.029751449823379517,
+                    "top": 0.5004666447639465,
+                    "right": 0.9434894323348999,
+                    "bottom": 0.6498170495033264
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d8df39de-b6e6-43ae-ba65-5ce56807b273'></a>\n\nEnter-PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10---PF11---PF12---\nHelp Quit Retrn\nBkwrd Frwrd\nMain",
+            "type": "text",
+            "id": "d8df39de-b6e6-43ae-ba65-5ce56807b273",
+            "grounding": {
+                "box": {
+                    "left": 0.023799210786819458,
+                    "top": 0.7245817184448242,
+                    "right": 0.9454008340835571,
+                    "bottom": 0.8048638105392456
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='aa72649a-b466-468e-be21-37763d6d7b1e'></a>\n\n52442 1592",
+            "type": "marginalia",
+            "id": "aa72649a-b466-468e-be21-37763d6d7b1e",
+            "grounding": {
+                "box": {
+                    "left": 0.03891279920935631,
+                    "top": 0.9379584789276123,
+                    "right": 0.13932622969150543,
+                    "bottom": 0.965944766998291
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c71cd48e-f652-4822-bcb7-09e634833da7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xtvn0020",
+            "type": "marginalia",
+            "id": "c71cd48e-f652-4822-bcb7-09e634833da7",
+            "grounding": {
+                "box": {
+                    "left": 0.29245293140411377,
+                    "top": 0.9699293375015259,
+                    "right": 0.706407904624939,
+                    "bottom": 0.999636173248291
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='834d351a-a7cf-4ee4-81e0-8d200639daa7'></a>\n\n'END OF DATA\n303 TP1303N1\nPROD 050\n\n<a id='33f01f09-5cea-4983-bb3e-816444a40f27'></a>\n\nTEMPORARY PAYMENT SYSTEM\nVOUCHER APPROVAL\n\n<a id='35be5f0a-d404-4bc9-87d2-47c4fc8ccf84'></a>\n\n10/20/98 10:53\nFN:\n\n<a id='1139c4e4-21b1-4173-a2b5-ae6eb7d0c38f'></a>\n\nVOUCHER NUMBER : 88881620\nVOUCHER STATUS : REQUESTED\nVOUCHER AMOUNT : 253,515.00\n\n<a id='004bfaf2-c144-4297-a963-dae6be956818'></a>\n\nACCOUNT NUMBER: 711153\nACCOUNT DIV : 6940\nPAYEE NAME : CLARK REFINING HQ\nPAYEE ADDR : 8182 MARYLAND AVE FL\nCLAYTON MO 63105\n\n<a id='1241285e-cc8d-44b3-969b-544dfce69758'></a>\n\nDATES\n\n<a id='48440e80-8d22-4c4e-a2d5-8de71876fde2'></a>\n\nDATE REQUESTED : 10/08/1998\nDATE APPROVED :\nDATE COMPLETE :\nDATE PROCESSED A/P:\n\n<a id='181f3acc-9fb2-456f-b4da-65483fdeca4b'></a>\n\nREQUESTOR DIVISION:\n\nPLACEMENTS UPDATED: YES\n\nPAYMENT SENT TO : PAYEE\n\n<a id='62397d3a-c8b3-4f0d-87ff-53c27024cac6'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">DESCRIPTION</td><td id=\"0-3\">UNITS</td><td id=\"0-4\">AMOUNT</td><td id=\"0-5\">DESCRIPTION</td><td id=\"0-6\">UNITS</td><td id=\"0-7\">AMOUNT</td></tr>\n<tr><td id=\"0-8\">CAM .25 PR.</td><td id=\"0-9\">RED</td><td id=\"0-a\">587,900</td><td id=\"0-b\">146,975.00</td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\" colspan=\"2\">WI .25 PR. RED</td><td id=\"0-g\">426,160</td><td id=\"0-h\">106,540.00</td><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td></tr>\n</table>\n\n<a id='d8df39de-b6e6-43ae-ba65-5ce56807b273'></a>\n\nEnter-PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10---PF11---PF12---\nHelp Quit Retrn\nBkwrd Frwrd\nMain\n\n<a id='aa72649a-b466-468e-be21-37763d6d7b1e'></a>\n\n52442 1592\n\n<a id='c71cd48e-f652-4822-bcb7-09e634833da7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xtvn0020",
+            "chunks": [
+                "834d351a-a7cf-4ee4-81e0-8d200639daa7",
+                "33f01f09-5cea-4983-bb3e-816444a40f27",
+                "35be5f0a-d404-4bc9-87d2-47c4fc8ccf84",
+                "1139c4e4-21b1-4173-a2b5-ae6eb7d0c38f",
+                "004bfaf2-c144-4297-a963-dae6be956818",
+                "1241285e-cc8d-44b3-969b-544dfce69758",
+                "48440e80-8d22-4c4e-a2d5-8de71876fde2",
+                "181f3acc-9fb2-456f-b4da-65483fdeca4b",
+                "62397d3a-c8b3-4f0d-87ff-53c27024cac6",
+                "d8df39de-b6e6-43ae-ba65-5ce56807b273",
+                "aa72649a-b466-468e-be21-37763d6d7b1e",
+                "c71cd48e-f652-4822-bcb7-09e634833da7"
+            ]
+        }
+    ],
+    "grounding": {
+        "834d351a-a7cf-4ee4-81e0-8d200639daa7": {
+            "box": {
+                "left": 0.01508089154958725,
+                "top": 0.03174595162272453,
+                "right": 0.1902853548526764,
+                "bottom": 0.12904967367649078
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "33f01f09-5cea-4983-bb3e-816444a40f27": {
+            "box": {
+                "left": 0.3211461901664734,
+                "top": 0.05941542237997055,
+                "right": 0.6080192923545837,
+                "bottom": 0.1252070665359497
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "35be5f0a-d404-4bc9-87d2-47c4fc8ccf84": {
+            "box": {
+                "left": 0.7706243395805359,
+                "top": 0.054071564227342606,
+                "right": 0.939175546169281,
+                "bottom": 0.12088608741760254
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1139c4e4-21b1-4173-a2b5-ae6eb7d0c38f": {
+            "box": {
+                "left": 0.019724711775779724,
+                "top": 0.1572335958480835,
+                "right": 0.40083664655685425,
+                "bottom": 0.25864288210868835
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "004bfaf2-c144-4297-a963-dae6be956818": {
+            "box": {
+                "left": 0.5158143639564514,
+                "top": 0.15403936803340912,
+                "right": 0.9413711428642273,
+                "bottom": 0.3149731755256653
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1241285e-cc8d-44b3-969b-544dfce69758": {
+            "box": {
+                "left": 0.14906595647335052,
+                "top": 0.2864442765712738,
+                "right": 0.21550299227237701,
+                "bottom": 0.3192329704761505
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "48440e80-8d22-4c4e-a2d5-8de71876fde2": {
+            "box": {
+                "left": 0.021473750472068787,
+                "top": 0.34670722484588623,
+                "right": 0.37695205211639404,
+                "bottom": 0.4816664457321167
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "181f3acc-9fb2-456f-b4da-65483fdeca4b": {
+            "box": {
+                "left": 0.47058558464050293,
+                "top": 0.37769636511802673,
+                "right": 0.7730414867401123,
+                "bottom": 0.4783754050731659
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "62397d3a-c8b3-4f0d-87ff-53c27024cac6": {
+            "box": {
+                "left": 0.029751449823379517,
+                "top": 0.5004666447639465,
+                "right": 0.9434894323348999,
+                "bottom": 0.6498170495033264
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.03283485202037301,
+                "top": 0.509390572080938,
+                "right": 0.9425196091977011,
+                "bottom": 0.6417737564624417
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.03283485202037301,
+                "top": 0.509390572080938,
+                "right": 0.33180185016848984,
+                "bottom": 0.6071932758484877
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.21595455116205287,
+                "top": 0.509390572080938,
+                "right": 0.33180185016848984,
+                "bottom": 0.5597036855673778
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.33180185016848984,
+                "top": 0.509390572080938,
+                "right": 0.47085840511067545,
+                "bottom": 0.5597036855673778
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.47085840511067545,
+                "top": 0.509390572080938,
+                "right": 0.6702431386205792,
+                "bottom": 0.5597036855673778
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6702431386205792,
+                "top": 0.509390572080938,
+                "right": 0.7853624031020257,
+                "bottom": 0.5597036855673778
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.7853624031020257,
+                "top": 0.509390572080938,
+                "right": 0.9424320326488935,
+                "bottom": 0.5597036855673778
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.03283485202037301,
+                "top": 0.5597036855673778,
+                "right": 0.1750841470919311,
+                "bottom": 0.6071932758484877
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.1750841470919311,
+                "top": 0.5597036855673778,
+                "right": 0.21595455116205287,
+                "bottom": 0.6071932758484877
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.21595455116205287,
+                "top": 0.5597036855673778,
+                "right": 0.33180185016848984,
+                "bottom": 0.6071932758484877
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.33180185016848984,
+                "top": 0.5597036855673778,
+                "right": 0.47085840511067545,
+                "bottom": 0.6071932758484877
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.47085840511067545,
+                "top": 0.5597036855673778,
+                "right": 0.6702431386205792,
+                "bottom": 0.6071932758484877
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6702431386205792,
+                "top": 0.5597036855673778,
+                "right": 0.7853624031020257,
+                "bottom": 0.6071932758484877
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.7853624031020257,
+                "top": 0.5597036855673778,
+                "right": 0.9424320326488935,
+                "bottom": 0.6071932758484877
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.03283485202037301,
+                "top": 0.6071932758484877,
+                "right": 0.33180185016848984,
+                "bottom": 0.6417737564624417
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.21595455116205287,
+                "top": 0.6071932758484877,
+                "right": 0.33180185016848984,
+                "bottom": 0.6417737564624417
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.33180185016848984,
+                "top": 0.6071932758484877,
+                "right": 0.47085840511067545,
+                "bottom": 0.6417737564624417
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.47085840511067545,
+                "top": 0.6071932758484877,
+                "right": 0.6702431386205792,
+                "bottom": 0.6417737564624417
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6702431386205792,
+                "top": 0.6071932758484877,
+                "right": 0.7853624031020257,
+                "bottom": 0.6417737564624417
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.7853624031020257,
+                "top": 0.6071932758484877,
+                "right": 0.9424320326488935,
+                "bottom": 0.6417737564624417
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "d8df39de-b6e6-43ae-ba65-5ce56807b273": {
+            "box": {
+                "left": 0.023799210786819458,
+                "top": 0.7245817184448242,
+                "right": 0.9454008340835571,
+                "bottom": 0.8048638105392456
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "aa72649a-b466-468e-be21-37763d6d7b1e": {
+            "box": {
+                "left": 0.03891279920935631,
+                "top": 0.9379584789276123,
+                "right": 0.13932622969150543,
+                "bottom": 0.965944766998291
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "c71cd48e-f652-4822-bcb7-09e634833da7": {
+            "box": {
+                "left": 0.29245293140411377,
+                "top": 0.9699293375015259,
+                "right": 0.706407904624939,
+                "bottom": 0.999636173248291
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xtvn0020_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8257,
+        "credit_usage": 3.0,
+        "job_id": "rrpl16qxsc6x9p4ha8zzjlbyf",
+        "version": "dpt-2-20250919"
+    }
+}

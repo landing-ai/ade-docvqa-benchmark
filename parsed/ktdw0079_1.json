@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='00111a77-c90d-41d5-9733-2b536c6d0804'></a>\n\n50820 2193\n\n<a id='f6c81b11-e2b1-43ba-bfee-2f29aaea0d88'></a>\n\nCellular/Molecular Biology\n\n<a id='399e6d90-d199-42ce-af51-bd900c83bedf'></a>\n\nDr. D. J. Doolittle\nManager\n\n<a id='08f6c9d8-6016-42e4-a94f-b41519aa9aa2'></a>\n\n<::attestation: Signature block\n[Readable Text: C. W. Butner, Administrative Secretary]\n[Short description of visual elements and positioning: Typed name and title with a signature line below, centered on the page.]::>\n\n<a id='42a9a3c4-1dd0-4838-8fc2-b9433377a96c'></a>\n\n<::\nDr. C. K. Lee\nMaster R&D Microbiol\n\nB. G. Brown\nR&D Toxicologist\n\nE. A. Reed\nR&D Toxicologist\n\nC. W. Fulp\nAsst R&D Toxicolgst\n\nS. W. Bess\nLab Technician\n: chart::>\n\n<a id='9aeec478-5046-4067-8e17-333ad17bd869'></a>\n\n<::Dr. D. W. Bombick\nSr R&D Toxicologist\n  S. C. McKarns\n  Assoc R&D Toxicologist\n  S. J. Penn\n  Lab Technician\n: figure::>\n\n<a id='cdf123dd-e2a5-4e46-925c-ade05915f891'></a>\n\nApril 3, 1992\n\n<a id='277725a9-6f81-479a-a66d-ad08e872905d'></a>\n\nShared with\nPharmacology",
+    "chunks": [
+        {
+            "markdown": "<a id='00111a77-c90d-41d5-9733-2b536c6d0804'></a>\n\n50820 2193",
+            "type": "text",
+            "id": "00111a77-c90d-41d5-9733-2b536c6d0804",
+            "grounding": {
+                "box": {
+                    "left": 0.8683507442474365,
+                    "top": 0.011117111891508102,
+                    "right": 0.9712415933609009,
+                    "bottom": 0.039160534739494324
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f6c81b11-e2b1-43ba-bfee-2f29aaea0d88'></a>\n\nCellular/Molecular Biology",
+            "type": "text",
+            "id": "f6c81b11-e2b1-43ba-bfee-2f29aaea0d88",
+            "grounding": {
+                "box": {
+                    "left": 0.2678076922893524,
+                    "top": 0.11482461541891098,
+                    "right": 0.7276368141174316,
+                    "bottom": 0.17153479158878326
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='399e6d90-d199-42ce-af51-bd900c83bedf'></a>\n\nDr. D. J. Doolittle\nManager",
+            "type": "text",
+            "id": "399e6d90-d199-42ce-af51-bd900c83bedf",
+            "grounding": {
+                "box": {
+                    "left": 0.379332959651947,
+                    "top": 0.1951896846294403,
+                    "right": 0.6151546239852905,
+                    "bottom": 0.28358224034309387
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='08f6c9d8-6016-42e4-a94f-b41519aa9aa2'></a>\n\n<::attestation: Signature block\n[Readable Text: C. W. Butner, Administrative Secretary]\n[Short description of visual elements and positioning: Typed name and title with a signature line below, centered on the page.]::>",
+            "type": "attestation",
+            "id": "08f6c9d8-6016-42e4-a94f-b41519aa9aa2",
+            "grounding": {
+                "box": {
+                    "left": 0.6292370557785034,
+                    "top": 0.20295706391334534,
+                    "right": 0.8625912666320801,
+                    "bottom": 0.27537986636161804
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='42a9a3c4-1dd0-4838-8fc2-b9433377a96c'></a>\n\n<::\nDr. C. K. Lee\nMaster R&D Microbiol\n\nB. G. Brown\nR&D Toxicologist\n\nE. A. Reed\nR&D Toxicologist\n\nC. W. Fulp\nAsst R&D Toxicolgst\n\nS. W. Bess\nLab Technician\n: chart::>",
+            "type": "figure",
+            "id": "42a9a3c4-1dd0-4838-8fc2-b9433377a96c",
+            "grounding": {
+                "box": {
+                    "left": 0.2511195242404938,
+                    "top": 0.3158535361289978,
+                    "right": 0.4846179783344269,
+                    "bottom": 0.6546332240104675
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9aeec478-5046-4067-8e17-333ad17bd869'></a>\n\n<::Dr. D. W. Bombick\nSr R&D Toxicologist\n  S. C. McKarns\n  Assoc R&D Toxicologist\n  S. J. Penn\n  Lab Technician\n: figure::>",
+            "type": "figure",
+            "id": "9aeec478-5046-4067-8e17-333ad17bd869",
+            "grounding": {
+                "box": {
+                    "left": 0.5213631987571716,
+                    "top": 0.3146022856235504,
+                    "right": 0.7574024796485901,
+                    "bottom": 0.5330157279968262
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cdf123dd-e2a5-4e46-925c-ade05915f891'></a>\n\nApril 3, 1992",
+            "type": "marginalia",
+            "id": "cdf123dd-e2a5-4e46-925c-ade05915f891",
+            "grounding": {
+                "box": {
+                    "left": 0.10584250092506409,
+                    "top": 0.8508027791976929,
+                    "right": 0.23903512954711914,
+                    "bottom": 0.8920334577560425
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='277725a9-6f81-479a-a66d-ad08e872905d'></a>\n\nShared with\nPharmacology",
+            "type": "text",
+            "id": "277725a9-6f81-479a-a66d-ad08e872905d",
+            "grounding": {
+                "box": {
+                    "left": 0.7602868676185608,
+                    "top": 0.2759796380996704,
+                    "right": 0.8873739838600159,
+                    "bottom": 0.3316464424133301
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='00111a77-c90d-41d5-9733-2b536c6d0804'></a>\n\n50820 2193\n\n<a id='f6c81b11-e2b1-43ba-bfee-2f29aaea0d88'></a>\n\nCellular/Molecular Biology\n\n<a id='399e6d90-d199-42ce-af51-bd900c83bedf'></a>\n\nDr. D. J. Doolittle\nManager\n\n<a id='08f6c9d8-6016-42e4-a94f-b41519aa9aa2'></a>\n\n<::attestation: Signature block\n[Readable Text: C. W. Butner, Administrative Secretary]\n[Short description of visual elements and positioning: Typed name and title with a signature line below, centered on the page.]::>\n\n<a id='42a9a3c4-1dd0-4838-8fc2-b9433377a96c'></a>\n\n<::\nDr. C. K. Lee\nMaster R&D Microbiol\n\nB. G. Brown\nR&D Toxicologist\n\nE. A. Reed\nR&D Toxicologist\n\nC. W. Fulp\nAsst R&D Toxicolgst\n\nS. W. Bess\nLab Technician\n: chart::>\n\n<a id='9aeec478-5046-4067-8e17-333ad17bd869'></a>\n\n<::Dr. D. W. Bombick\nSr R&D Toxicologist\n  S. C. McKarns\n  Assoc R&D Toxicologist\n  S. J. Penn\n  Lab Technician\n: figure::>\n\n<a id='cdf123dd-e2a5-4e46-925c-ade05915f891'></a>\n\nApril 3, 1992\n\n<a id='277725a9-6f81-479a-a66d-ad08e872905d'></a>\n\nShared with\nPharmacology",
+            "chunks": [
+                "00111a77-c90d-41d5-9733-2b536c6d0804",
+                "f6c81b11-e2b1-43ba-bfee-2f29aaea0d88",
+                "399e6d90-d199-42ce-af51-bd900c83bedf",
+                "08f6c9d8-6016-42e4-a94f-b41519aa9aa2",
+                "42a9a3c4-1dd0-4838-8fc2-b9433377a96c",
+                "9aeec478-5046-4067-8e17-333ad17bd869",
+                "cdf123dd-e2a5-4e46-925c-ade05915f891",
+                "277725a9-6f81-479a-a66d-ad08e872905d"
+            ]
+        }
+    ],
+    "grounding": {
+        "00111a77-c90d-41d5-9733-2b536c6d0804": {
+            "box": {
+                "left": 0.8683507442474365,
+                "top": 0.011117111891508102,
+                "right": 0.9712415933609009,
+                "bottom": 0.039160534739494324
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f6c81b11-e2b1-43ba-bfee-2f29aaea0d88": {
+            "box": {
+                "left": 0.2678076922893524,
+                "top": 0.11482461541891098,
+                "right": 0.7276368141174316,
+                "bottom": 0.17153479158878326
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "399e6d90-d199-42ce-af51-bd900c83bedf": {
+            "box": {
+                "left": 0.379332959651947,
+                "top": 0.1951896846294403,
+                "right": 0.6151546239852905,
+                "bottom": 0.28358224034309387
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "08f6c9d8-6016-42e4-a94f-b41519aa9aa2": {
+            "box": {
+                "left": 0.6292370557785034,
+                "top": 0.20295706391334534,
+                "right": 0.8625912666320801,
+                "bottom": 0.27537986636161804
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "42a9a3c4-1dd0-4838-8fc2-b9433377a96c": {
+            "box": {
+                "left": 0.2511195242404938,
+                "top": 0.3158535361289978,
+                "right": 0.4846179783344269,
+                "bottom": 0.6546332240104675
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "9aeec478-5046-4067-8e17-333ad17bd869": {
+            "box": {
+                "left": 0.5213631987571716,
+                "top": 0.3146022856235504,
+                "right": 0.7574024796485901,
+                "bottom": 0.5330157279968262
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "cdf123dd-e2a5-4e46-925c-ade05915f891": {
+            "box": {
+                "left": 0.10584250092506409,
+                "top": 0.8508027791976929,
+                "right": 0.23903512954711914,
+                "bottom": 0.8920334577560425
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "277725a9-6f81-479a-a66d-ad08e872905d": {
+            "box": {
+                "left": 0.7602868676185608,
+                "top": 0.2759796380996704,
+                "right": 0.8873739838600159,
+                "bottom": 0.3316464424133301
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "ktdw0079_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5067,
+        "credit_usage": 3.0,
+        "job_id": "qqs8bqxc0io15uysefos10yvl",
+        "version": "dpt-2-20250919"
+    }
+}

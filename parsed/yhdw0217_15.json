@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='cc65d379-3c78-4bc4-ae35-acebe1ec3d07'></a>\n\nFigure 3 Mean daily number of nocturnal sweats in efficacy evaluable population of postmenopausal women treated with 1 mg 17\u03b2-estradiol (17\u03b2-E2) plus either 0.125 or 0.25 mg trimegestone (TMG), or 1 mg estradiol valerate (E2V)/1 mg norethisterone (NET). The n values are the numbers of subjects at cycle 1. *Analysis of covariance\n\n<a id='afd30e1d-d3ef-404f-9248-2cdc593cbac5'></a>\n\n<::line graph\n: Y-axis: Mean Squared Error (MSE) on test set, ranging from 0.0 to 1.0.\nX-axis: Epoch, ranging from 1 to 13.\nLegend:\n- Dotted line: 1-step, 100-200-100 mg, 1000 (N=50)\n- Solid line with squares: 1-step, 100-250-100 mg, 1000 (N=50)\n- Dotted line with diamonds: 1-step, 100-100-100 mg, 1000 (N=50)\n\nThe graph shows three lines, each representing a different configuration, plotting the Mean Squared Error on the test set against the Epoch. All three lines start at an MSE value close to 0.9 at Epoch 1, then rapidly decrease to values between 0.1 and 0.2 by Epoch 3, and continue to fluctuate slightly around these lower values for the remaining epochs. The solid line with squares generally shows slightly lower MSE values compared to the other two lines after the initial steep drop.\n::>\n\n<a id='da95268b-0f91-4526-9f88-9f85d8aa6a0b'></a>\n\n15\n\n<a id='86ccd445-80ca-49ab-b517-211f239c8784'></a>\n\nConfidential Pursuant to Confidentiality\n---\nOrder Source: https://www.industrydocuments.ucsf.edu/docs/yhdw0217\n\n<a id='4ec121a0-8048-42f7-ae6d-3e64f8477e2c'></a>\n\nOLIVS019-002750",
+    "chunks": [
+        {
+            "markdown": "<a id='cc65d379-3c78-4bc4-ae35-acebe1ec3d07'></a>\n\nFigure 3 Mean daily number of nocturnal sweats in efficacy evaluable population of postmenopausal women treated with 1 mg 17\u03b2-estradiol (17\u03b2-E2) plus either 0.125 or 0.25 mg trimegestone (TMG), or 1 mg estradiol valerate (E2V)/1 mg norethisterone (NET). The n values are the numbers of subjects at cycle 1. *Analysis of covariance",
+            "type": "text",
+            "id": "cc65d379-3c78-4bc4-ae35-acebe1ec3d07",
+            "grounding": {
+                "box": {
+                    "left": 0.17261168360710144,
+                    "top": 0.08962056040763855,
+                    "right": 0.8292272090911865,
+                    "bottom": 0.17528924345970154
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='afd30e1d-d3ef-404f-9248-2cdc593cbac5'></a>\n\n<::line graph\n: Y-axis: Mean Squared Error (MSE) on test set, ranging from 0.0 to 1.0.\nX-axis: Epoch, ranging from 1 to 13.\nLegend:\n- Dotted line: 1-step, 100-200-100 mg, 1000 (N=50)\n- Solid line with squares: 1-step, 100-250-100 mg, 1000 (N=50)\n- Dotted line with diamonds: 1-step, 100-100-100 mg, 1000 (N=50)\n\nThe graph shows three lines, each representing a different configuration, plotting the Mean Squared Error on the test set against the Epoch. All three lines start at an MSE value close to 0.9 at Epoch 1, then rapidly decrease to values between 0.1 and 0.2 by Epoch 3, and continue to fluctuate slightly around these lower values for the remaining epochs. The solid line with squares generally shows slightly lower MSE values compared to the other two lines after the initial steep drop.\n::>",
+            "type": "figure",
+            "id": "afd30e1d-d3ef-404f-9248-2cdc593cbac5",
+            "grounding": {
+                "box": {
+                    "left": 0.17319506406784058,
+                    "top": 0.27618253231048584,
+                    "right": 0.8045127391815186,
+                    "bottom": 0.5716069936752319
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='da95268b-0f91-4526-9f88-9f85d8aa6a0b'></a>\n\n15",
+            "type": "marginalia",
+            "id": "da95268b-0f91-4526-9f88-9f85d8aa6a0b",
+            "grounding": {
+                "box": {
+                    "left": 0.8021926879882812,
+                    "top": 0.927402138710022,
+                    "right": 0.8263216018676758,
+                    "bottom": 0.943291425704956
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='86ccd445-80ca-49ab-b517-211f239c8784'></a>\n\nConfidential Pursuant to Confidentiality\n---\nOrder Source: https://www.industrydocuments.ucsf.edu/docs/yhdw0217",
+            "type": "text",
+            "id": "86ccd445-80ca-49ab-b517-211f239c8784",
+            "grounding": {
+                "box": {
+                    "left": 0.003331422805786133,
+                    "top": 0.9626244902610779,
+                    "right": 0.7901159524917603,
+                    "bottom": 0.9998371005058289
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4ec121a0-8048-42f7-ae6d-3e64f8477e2c'></a>\n\nOLIVS019-002750",
+            "type": "marginalia",
+            "id": "4ec121a0-8048-42f7-ae6d-3e64f8477e2c",
+            "grounding": {
+                "box": {
+                    "left": 0.8509851694107056,
+                    "top": 0.9642807841300964,
+                    "right": 0.995375394821167,
+                    "bottom": 0.9818115830421448
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='cc65d379-3c78-4bc4-ae35-acebe1ec3d07'></a>\n\nFigure 3 Mean daily number of nocturnal sweats in efficacy evaluable population of postmenopausal women treated with 1 mg 17\u03b2-estradiol (17\u03b2-E2) plus either 0.125 or 0.25 mg trimegestone (TMG), or 1 mg estradiol valerate (E2V)/1 mg norethisterone (NET). The n values are the numbers of subjects at cycle 1. *Analysis of covariance\n\n<a id='afd30e1d-d3ef-404f-9248-2cdc593cbac5'></a>\n\n<::line graph\n: Y-axis: Mean Squared Error (MSE) on test set, ranging from 0.0 to 1.0.\nX-axis: Epoch, ranging from 1 to 13.\nLegend:\n- Dotted line: 1-step, 100-200-100 mg, 1000 (N=50)\n- Solid line with squares: 1-step, 100-250-100 mg, 1000 (N=50)\n- Dotted line with diamonds: 1-step, 100-100-100 mg, 1000 (N=50)\n\nThe graph shows three lines, each representing a different configuration, plotting the Mean Squared Error on the test set against the Epoch. All three lines start at an MSE value close to 0.9 at Epoch 1, then rapidly decrease to values between 0.1 and 0.2 by Epoch 3, and continue to fluctuate slightly around these lower values for the remaining epochs. The solid line with squares generally shows slightly lower MSE values compared to the other two lines after the initial steep drop.\n::>\n\n<a id='da95268b-0f91-4526-9f88-9f85d8aa6a0b'></a>\n\n15\n\n<a id='86ccd445-80ca-49ab-b517-211f239c8784'></a>\n\nConfidential Pursuant to Confidentiality\n---\nOrder Source: https://www.industrydocuments.ucsf.edu/docs/yhdw0217\n\n<a id='4ec121a0-8048-42f7-ae6d-3e64f8477e2c'></a>\n\nOLIVS019-002750",
+            "chunks": [
+                "cc65d379-3c78-4bc4-ae35-acebe1ec3d07",
+                "afd30e1d-d3ef-404f-9248-2cdc593cbac5",
+                "da95268b-0f91-4526-9f88-9f85d8aa6a0b",
+                "86ccd445-80ca-49ab-b517-211f239c8784",
+                "4ec121a0-8048-42f7-ae6d-3e64f8477e2c"
+            ]
+        }
+    ],
+    "grounding": {
+        "cc65d379-3c78-4bc4-ae35-acebe1ec3d07": {
+            "box": {
+                "left": 0.17261168360710144,
+                "top": 0.08962056040763855,
+                "right": 0.8292272090911865,
+                "bottom": 0.17528924345970154
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "afd30e1d-d3ef-404f-9248-2cdc593cbac5": {
+            "box": {
+                "left": 0.17319506406784058,
+                "top": 0.27618253231048584,
+                "right": 0.8045127391815186,
+                "bottom": 0.5716069936752319
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "da95268b-0f91-4526-9f88-9f85d8aa6a0b": {
+            "box": {
+                "left": 0.8021926879882812,
+                "top": 0.927402138710022,
+                "right": 0.8263216018676758,
+                "bottom": 0.943291425704956
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "86ccd445-80ca-49ab-b517-211f239c8784": {
+            "box": {
+                "left": 0.003331422805786133,
+                "top": 0.9626244902610779,
+                "right": 0.7901159524917603,
+                "bottom": 0.9998371005058289
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4ec121a0-8048-42f7-ae6d-3e64f8477e2c": {
+            "box": {
+                "left": 0.8509851694107056,
+                "top": 0.9642807841300964,
+                "right": 0.995375394821167,
+                "bottom": 0.9818115830421448
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yhdw0217_15.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6723,
+        "credit_usage": 3.0,
+        "job_id": "joiijww44dv9xh9pazgw4d30b",
+        "version": "dpt-2-20250919"
+    }
+}

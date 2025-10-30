@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='088b4c85-25f5-40f5-b7a5-d7861daac6b0'></a>\n\nFig. 7\n\n<a id='dd52b748-2121-4048-883c-bfe301226933'></a>\n\n<::bar chart: Norepinephrine levels in Whole Brain and Hypothalamus at 3 and 26 weeks of age.\n\nY-axis: NOREPINEPHRINE ng/g (ranging from 0 to 2000 in increments of 200)\nX-axis: Age\n\nLegend:\n- White bar: CHOW Ad Lib\n- Patterned bar (horizontal lines): PRENATAL ETOH\n- Patterned bar (cross-hatch): PRENATAL IC\n\nData:\nWHOLE BRAIN\n- 3 WEEKS:\n  - CHOW Ad Lib: ~280 ng/g\n  - PRENATAL ETOH: ~200 ng/g (*, \u2020)\n  - PRENATAL IC: ~280 ng/g\n- 26 WEEKS:\n  - CHOW Ad Lib: ~300 ng/g\n  - PRENATAL ETOH: ~320 ng/g\n  - PRENATAL IC: ~300 ng/g\n\nHYPOTHALAMUS\n- 3 WEEKS:\n  - CHOW Ad Lib: ~1020 ng/g\n  - PRENATAL ETOH: ~480 ng/g (*, \u2020)\n  - PRENATAL IC: ~1300 ng/g\n- 26 WEEKS:\n  - CHOW Ad Lib: ~1880 ng/g\n  - PRENATAL ETOH: ~1240 ng/g (*, \u2020)\n  - PRENATAL IC: ~1620 ng/g\n::>\n\n<a id='c7bada86-9943-4fb0-a054-b96f980d5aff'></a>\n\nIn summary, results from experiments carried out in our laboratory\nindicate that the altered levels of at least two of the enzymes, tyrosine\nhydroxylase, and dopamine beta-hydroxylase and the catecholamine neuro-\ntransmitters, dopamine and norepinephrine, could have been changed as a\nresult of the effect of ethanol on adenylate cyclase activity. This\npossibility demands a detailed study of the AC system.\n\n<a id='52f70cbc-0921-4068-955c-2dada2a49fd5'></a>\n\n## 2. SPECIFIC AIMS\n\nThis proposal will determine, in a rat model of prenatal exposure to ethanol, the alterations in the striatal adenylate cyclase activity during development.\n\nThe specific aims are:\n1) to measure the basal and dopamine stimulated levels of adenylate cyclase activity;\n2) to determine and compare the kinetic properties of adenylate cyclase activity in rat striatal membranes;\n3) to determine the affinity and density characteristics of the dopamine receptors by binding studies; and\n4) to monitor the adenylate cyclase activity of the striatal membranes in the presence of Ca++, calmodulin, GTP, Gpp(NH)p, and DA.\n\n<a id='5816c46b-4a20-40ec-bbd3-1cde011febc6'></a>\n\n3. RATIONALE\nCyclic AMP is synthesized by adenylate cyclase. Adenylate cyclase in\nturn is linked to the neurotransmitter receptors in the CNS. In this way,\n\n<a id='25eddbbd-4336-4979-90df-6c43bbc66560'></a>\n\n19",
+    "chunks": [
+        {
+            "markdown": "<a id='088b4c85-25f5-40f5-b7a5-d7861daac6b0'></a>\n\nFig. 7",
+            "type": "marginalia",
+            "id": "088b4c85-25f5-40f5-b7a5-d7861daac6b0",
+            "grounding": {
+                "box": {
+                    "left": 0.4654616415500641,
+                    "top": 0.04856927692890167,
+                    "right": 0.5402394533157349,
+                    "bottom": 0.07266528159379959
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dd52b748-2121-4048-883c-bfe301226933'></a>\n\n<::bar chart: Norepinephrine levels in Whole Brain and Hypothalamus at 3 and 26 weeks of age.\n\nY-axis: NOREPINEPHRINE ng/g (ranging from 0 to 2000 in increments of 200)\nX-axis: Age\n\nLegend:\n- White bar: CHOW Ad Lib\n- Patterned bar (horizontal lines): PRENATAL ETOH\n- Patterned bar (cross-hatch): PRENATAL IC\n\nData:\nWHOLE BRAIN\n- 3 WEEKS:\n  - CHOW Ad Lib: ~280 ng/g\n  - PRENATAL ETOH: ~200 ng/g (*, \u2020)\n  - PRENATAL IC: ~280 ng/g\n- 26 WEEKS:\n  - CHOW Ad Lib: ~300 ng/g\n  - PRENATAL ETOH: ~320 ng/g\n  - PRENATAL IC: ~300 ng/g\n\nHYPOTHALAMUS\n- 3 WEEKS:\n  - CHOW Ad Lib: ~1020 ng/g\n  - PRENATAL ETOH: ~480 ng/g (*, \u2020)\n  - PRENATAL IC: ~1300 ng/g\n- 26 WEEKS:\n  - CHOW Ad Lib: ~1880 ng/g\n  - PRENATAL ETOH: ~1240 ng/g (*, \u2020)\n  - PRENATAL IC: ~1620 ng/g\n::>",
+            "type": "figure",
+            "id": "dd52b748-2121-4048-883c-bfe301226933",
+            "grounding": {
+                "box": {
+                    "left": 0.22119936347007751,
+                    "top": 0.1291293203830719,
+                    "right": 0.7812356948852539,
+                    "bottom": 0.4165932834148407
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c7bada86-9943-4fb0-a054-b96f980d5aff'></a>\n\nIn summary, results from experiments carried out in our laboratory\nindicate that the altered levels of at least two of the enzymes, tyrosine\nhydroxylase, and dopamine beta-hydroxylase and the catecholamine neuro-\ntransmitters, dopamine and norepinephrine, could have been changed as a\nresult of the effect of ethanol on adenylate cyclase activity. This\npossibility demands a detailed study of the AC system.",
+            "type": "text",
+            "id": "c7bada86-9943-4fb0-a054-b96f980d5aff",
+            "grounding": {
+                "box": {
+                    "left": 0.15086540579795837,
+                    "top": 0.47556477785110474,
+                    "right": 0.8933651447296143,
+                    "bottom": 0.5809854865074158
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='52f70cbc-0921-4068-955c-2dada2a49fd5'></a>\n\n## 2. SPECIFIC AIMS\n\nThis proposal will determine, in a rat model of prenatal exposure to ethanol, the alterations in the striatal adenylate cyclase activity during development.\n\nThe specific aims are:\n1) to measure the basal and dopamine stimulated levels of adenylate cyclase activity;\n2) to determine and compare the kinetic properties of adenylate cyclase activity in rat striatal membranes;\n3) to determine the affinity and density characteristics of the dopamine receptors by binding studies; and\n4) to monitor the adenylate cyclase activity of the striatal membranes in the presence of Ca++, calmodulin, GTP, Gpp(NH)p, and DA.",
+            "type": "text",
+            "id": "52f70cbc-0921-4068-955c-2dada2a49fd5",
+            "grounding": {
+                "box": {
+                    "left": 0.1497003436088562,
+                    "top": 0.5976693034172058,
+                    "right": 0.9210814833641052,
+                    "bottom": 0.8349416851997375
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5816c46b-4a20-40ec-bbd3-1cde011febc6'></a>\n\n3. RATIONALE\nCyclic AMP is synthesized by adenylate cyclase. Adenylate cyclase in\nturn is linked to the neurotransmitter receptors in the CNS. In this way,",
+            "type": "text",
+            "id": "5816c46b-4a20-40ec-bbd3-1cde011febc6",
+            "grounding": {
+                "box": {
+                    "left": 0.14983204007148743,
+                    "top": 0.8531857132911682,
+                    "right": 0.9028135538101196,
+                    "bottom": 0.9208112359046936
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='25eddbbd-4336-4979-90df-6c43bbc66560'></a>\n\n19",
+            "type": "marginalia",
+            "id": "25eddbbd-4336-4979-90df-6c43bbc66560",
+            "grounding": {
+                "box": {
+                    "left": 0.5087325572967529,
+                    "top": 0.9378439784049988,
+                    "right": 0.537307620048523,
+                    "bottom": 0.9586227536201477
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='088b4c85-25f5-40f5-b7a5-d7861daac6b0'></a>\n\nFig. 7\n\n<a id='dd52b748-2121-4048-883c-bfe301226933'></a>\n\n<::bar chart: Norepinephrine levels in Whole Brain and Hypothalamus at 3 and 26 weeks of age.\n\nY-axis: NOREPINEPHRINE ng/g (ranging from 0 to 2000 in increments of 200)\nX-axis: Age\n\nLegend:\n- White bar: CHOW Ad Lib\n- Patterned bar (horizontal lines): PRENATAL ETOH\n- Patterned bar (cross-hatch): PRENATAL IC\n\nData:\nWHOLE BRAIN\n- 3 WEEKS:\n  - CHOW Ad Lib: ~280 ng/g\n  - PRENATAL ETOH: ~200 ng/g (*, \u2020)\n  - PRENATAL IC: ~280 ng/g\n- 26 WEEKS:\n  - CHOW Ad Lib: ~300 ng/g\n  - PRENATAL ETOH: ~320 ng/g\n  - PRENATAL IC: ~300 ng/g\n\nHYPOTHALAMUS\n- 3 WEEKS:\n  - CHOW Ad Lib: ~1020 ng/g\n  - PRENATAL ETOH: ~480 ng/g (*, \u2020)\n  - PRENATAL IC: ~1300 ng/g\n- 26 WEEKS:\n  - CHOW Ad Lib: ~1880 ng/g\n  - PRENATAL ETOH: ~1240 ng/g (*, \u2020)\n  - PRENATAL IC: ~1620 ng/g\n::>\n\n<a id='c7bada86-9943-4fb0-a054-b96f980d5aff'></a>\n\nIn summary, results from experiments carried out in our laboratory\nindicate that the altered levels of at least two of the enzymes, tyrosine\nhydroxylase, and dopamine beta-hydroxylase and the catecholamine neuro-\ntransmitters, dopamine and norepinephrine, could have been changed as a\nresult of the effect of ethanol on adenylate cyclase activity. This\npossibility demands a detailed study of the AC system.\n\n<a id='52f70cbc-0921-4068-955c-2dada2a49fd5'></a>\n\n## 2. SPECIFIC AIMS\n\nThis proposal will determine, in a rat model of prenatal exposure to ethanol, the alterations in the striatal adenylate cyclase activity during development.\n\nThe specific aims are:\n1) to measure the basal and dopamine stimulated levels of adenylate cyclase activity;\n2) to determine and compare the kinetic properties of adenylate cyclase activity in rat striatal membranes;\n3) to determine the affinity and density characteristics of the dopamine receptors by binding studies; and\n4) to monitor the adenylate cyclase activity of the striatal membranes in the presence of Ca++, calmodulin, GTP, Gpp(NH)p, and DA.\n\n<a id='5816c46b-4a20-40ec-bbd3-1cde011febc6'></a>\n\n3. RATIONALE\nCyclic AMP is synthesized by adenylate cyclase. Adenylate cyclase in\nturn is linked to the neurotransmitter receptors in the CNS. In this way,\n\n<a id='25eddbbd-4336-4979-90df-6c43bbc66560'></a>\n\n19",
+            "chunks": [
+                "088b4c85-25f5-40f5-b7a5-d7861daac6b0",
+                "dd52b748-2121-4048-883c-bfe301226933",
+                "c7bada86-9943-4fb0-a054-b96f980d5aff",
+                "52f70cbc-0921-4068-955c-2dada2a49fd5",
+                "5816c46b-4a20-40ec-bbd3-1cde011febc6",
+                "25eddbbd-4336-4979-90df-6c43bbc66560"
+            ]
+        }
+    ],
+    "grounding": {
+        "088b4c85-25f5-40f5-b7a5-d7861daac6b0": {
+            "box": {
+                "left": 0.4654616415500641,
+                "top": 0.04856927692890167,
+                "right": 0.5402394533157349,
+                "bottom": 0.07266528159379959
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "dd52b748-2121-4048-883c-bfe301226933": {
+            "box": {
+                "left": 0.22119936347007751,
+                "top": 0.1291293203830719,
+                "right": 0.7812356948852539,
+                "bottom": 0.4165932834148407
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "c7bada86-9943-4fb0-a054-b96f980d5aff": {
+            "box": {
+                "left": 0.15086540579795837,
+                "top": 0.47556477785110474,
+                "right": 0.8933651447296143,
+                "bottom": 0.5809854865074158
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "52f70cbc-0921-4068-955c-2dada2a49fd5": {
+            "box": {
+                "left": 0.1497003436088562,
+                "top": 0.5976693034172058,
+                "right": 0.9210814833641052,
+                "bottom": 0.8349416851997375
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5816c46b-4a20-40ec-bbd3-1cde011febc6": {
+            "box": {
+                "left": 0.14983204007148743,
+                "top": 0.8531857132911682,
+                "right": 0.9028135538101196,
+                "bottom": 0.9208112359046936
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "25eddbbd-4336-4979-90df-6c43bbc66560": {
+            "box": {
+                "left": 0.5087325572967529,
+                "top": 0.9378439784049988,
+                "right": 0.537307620048523,
+                "bottom": 0.9586227536201477
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "zlfv0228_20.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9856,
+        "credit_usage": 3.0,
+        "job_id": "jneu0bqgmgnkzj41k4xnhkpag",
+        "version": "dpt-2-20250919"
+    }
+}

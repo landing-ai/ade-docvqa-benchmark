@@ -1,0 +1,563 @@
+{
+    "markdown": "<a id='d86de8bc-d985-4710-8a46-da98da84b054'></a>\n\n<::logo: R.J. Reynolds\nR.J. Reynolds\nTobacco Company\nThe text \"R.J. Reynolds\" is in a stylized, italicized script font, underlined, with \"Tobacco Company\" in a smaller, sans-serif font below and to the right.\n::>\n\n<a id='569b26ff-b885-4a52-ab9d-3bc023aa9f15'></a>\n\nI. Selling/Execution Detail\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DTS Date:</td><td id=\"0-3\">2Q (April/May)</td></tr>\n<tr><td id=\"0-4\">Promotion:</td><td id=\"0-5\">S. California Beach 2-Pack Lighter</td></tr>\n<tr><td id=\"0-6\">Promotion#:</td><td id=\"0-7\">803048 (#174 for live product) Pre-Sleeved: No</td></tr>\n<tr><td id=\"0-8\">Item #:</td><td id=\"0-9\">555965 (1,500 SKUs/30,000 Offers)</td></tr>\n<tr><td id=\"0-a\">SKU Quantity:</td><td id=\"0-b\">20</td></tr>\n<tr><td id=\"0-c\">Promotion Details:</td><td id=\"0-d\">1) Promotion Description: Free CAMEL Lighter with 2-pack purchase</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">2) Materials Description: Sleeve with lighter packed 20 per SKU</td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\">with easel card. No temporary display in SKU. Available for order</td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\">3/28/99.</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">3) Recommended Displays: Utilize generic display if applicable</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">Special Instructions: Promotion to be worked in beach locations</td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">Pricing Details:</td><td id=\"0-r\">1) Invoice Description: N/A</td></tr>\n<tr><td id=\"0-s\"></td><td id=\"0-t\">Pricing: N/A</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">Terms: N/A</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">4) Additional Allowance: N/A</td></tr>\n<tr><td id=\"0-y\">Promotional Packaging UPC:</td><td id=\"0-z\">12300-23860</td></tr>\n<tr><td id=\"0-A\">UPC:</td><td id=\"0-B\">N/A</td></tr>\n<tr><td id=\"0-C\">VAP Payment per 6M Case:</td><td id=\"0-D\">$14.00/6M Case *</td></tr>\n<tr><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n</table>\n\n<a id='8ef466f0-130b-48f0-a19d-e0d3efe3db76'></a>\n\n* Information attached for direct account if applicable.\n\n<a id='a1365029-f44e-4e4d-ac70-2b1590715696'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gmhn0020\n\n<a id='d84c7117-0528-46e2-84ba-ecc3aaf47f68'></a>\n\n52417 7304",
+    "chunks": [
+        {
+            "markdown": "<a id='d86de8bc-d985-4710-8a46-da98da84b054'></a>\n\n<::logo: R.J. Reynolds\nR.J. Reynolds\nTobacco Company\nThe text \"R.J. Reynolds\" is in a stylized, italicized script font, underlined, with \"Tobacco Company\" in a smaller, sans-serif font below and to the right.\n::>",
+            "type": "logo",
+            "id": "d86de8bc-d985-4710-8a46-da98da84b054",
+            "grounding": {
+                "box": {
+                    "left": 0.10463191568851471,
+                    "top": 0.037809912115335464,
+                    "right": 0.3653441071510315,
+                    "bottom": 0.11841882765293121
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='569b26ff-b885-4a52-ab9d-3bc023aa9f15'></a>\n\nI. Selling/Execution Detail\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DTS Date:</td><td id=\"0-3\">2Q (April/May)</td></tr>\n<tr><td id=\"0-4\">Promotion:</td><td id=\"0-5\">S. California Beach 2-Pack Lighter</td></tr>\n<tr><td id=\"0-6\">Promotion#:</td><td id=\"0-7\">803048 (#174 for live product) Pre-Sleeved: No</td></tr>\n<tr><td id=\"0-8\">Item #:</td><td id=\"0-9\">555965 (1,500 SKUs/30,000 Offers)</td></tr>\n<tr><td id=\"0-a\">SKU Quantity:</td><td id=\"0-b\">20</td></tr>\n<tr><td id=\"0-c\">Promotion Details:</td><td id=\"0-d\">1) Promotion Description: Free CAMEL Lighter with 2-pack purchase</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">2) Materials Description: Sleeve with lighter packed 20 per SKU</td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\">with easel card. No temporary display in SKU. Available for order</td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\">3/28/99.</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">3) Recommended Displays: Utilize generic display if applicable</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">Special Instructions: Promotion to be worked in beach locations</td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">Pricing Details:</td><td id=\"0-r\">1) Invoice Description: N/A</td></tr>\n<tr><td id=\"0-s\"></td><td id=\"0-t\">Pricing: N/A</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">Terms: N/A</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">4) Additional Allowance: N/A</td></tr>\n<tr><td id=\"0-y\">Promotional Packaging UPC:</td><td id=\"0-z\">12300-23860</td></tr>\n<tr><td id=\"0-A\">UPC:</td><td id=\"0-B\">N/A</td></tr>\n<tr><td id=\"0-C\">VAP Payment per 6M Case:</td><td id=\"0-D\">$14.00/6M Case *</td></tr>\n<tr><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "569b26ff-b885-4a52-ab9d-3bc023aa9f15",
+            "grounding": {
+                "box": {
+                    "left": 0.10174503922462463,
+                    "top": 0.12940838932991028,
+                    "right": 0.8816003799438477,
+                    "bottom": 0.6193594932556152
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ef466f0-130b-48f0-a19d-e0d3efe3db76'></a>\n\n* Information attached for direct account if applicable.",
+            "type": "text",
+            "id": "8ef466f0-130b-48f0-a19d-e0d3efe3db76",
+            "grounding": {
+                "box": {
+                    "left": 0.1045575886964798,
+                    "top": 0.6500319242477417,
+                    "right": 0.4979628920555115,
+                    "bottom": 0.6751208305358887
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a1365029-f44e-4e4d-ac70-2b1590715696'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gmhn0020",
+            "type": "text",
+            "id": "a1365029-f44e-4e4d-ac70-2b1590715696",
+            "grounding": {
+                "box": {
+                    "left": 0.2091754674911499,
+                    "top": 0.9775874018669128,
+                    "right": 0.7909352779388428,
+                    "bottom": 0.999297559261322
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d84c7117-0528-46e2-84ba-ecc3aaf47f68'></a>\n\n52417 7304",
+            "type": "marginalia",
+            "id": "d84c7117-0528-46e2-84ba-ecc3aaf47f68",
+            "grounding": {
+                "box": {
+                    "left": 0.9090081453323364,
+                    "top": 0.8431124687194824,
+                    "right": 0.9406929016113281,
+                    "bottom": 0.9434794187545776
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d86de8bc-d985-4710-8a46-da98da84b054'></a>\n\n<::logo: R.J. Reynolds\nR.J. Reynolds\nTobacco Company\nThe text \"R.J. Reynolds\" is in a stylized, italicized script font, underlined, with \"Tobacco Company\" in a smaller, sans-serif font below and to the right.\n::>\n\n<a id='569b26ff-b885-4a52-ab9d-3bc023aa9f15'></a>\n\nI. Selling/Execution Detail\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DTS Date:</td><td id=\"0-3\">2Q (April/May)</td></tr>\n<tr><td id=\"0-4\">Promotion:</td><td id=\"0-5\">S. California Beach 2-Pack Lighter</td></tr>\n<tr><td id=\"0-6\">Promotion#:</td><td id=\"0-7\">803048 (#174 for live product) Pre-Sleeved: No</td></tr>\n<tr><td id=\"0-8\">Item #:</td><td id=\"0-9\">555965 (1,500 SKUs/30,000 Offers)</td></tr>\n<tr><td id=\"0-a\">SKU Quantity:</td><td id=\"0-b\">20</td></tr>\n<tr><td id=\"0-c\">Promotion Details:</td><td id=\"0-d\">1) Promotion Description: Free CAMEL Lighter with 2-pack purchase</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">2) Materials Description: Sleeve with lighter packed 20 per SKU</td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\">with easel card. No temporary display in SKU. Available for order</td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\">3/28/99.</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">3) Recommended Displays: Utilize generic display if applicable</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">Special Instructions: Promotion to be worked in beach locations</td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">Pricing Details:</td><td id=\"0-r\">1) Invoice Description: N/A</td></tr>\n<tr><td id=\"0-s\"></td><td id=\"0-t\">Pricing: N/A</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">Terms: N/A</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">4) Additional Allowance: N/A</td></tr>\n<tr><td id=\"0-y\">Promotional Packaging UPC:</td><td id=\"0-z\">12300-23860</td></tr>\n<tr><td id=\"0-A\">UPC:</td><td id=\"0-B\">N/A</td></tr>\n<tr><td id=\"0-C\">VAP Payment per 6M Case:</td><td id=\"0-D\">$14.00/6M Case *</td></tr>\n<tr><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n</table>\n\n<a id='8ef466f0-130b-48f0-a19d-e0d3efe3db76'></a>\n\n* Information attached for direct account if applicable.\n\n<a id='a1365029-f44e-4e4d-ac70-2b1590715696'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gmhn0020\n\n<a id='d84c7117-0528-46e2-84ba-ecc3aaf47f68'></a>\n\n52417 7304",
+            "chunks": [
+                "d86de8bc-d985-4710-8a46-da98da84b054",
+                "569b26ff-b885-4a52-ab9d-3bc023aa9f15",
+                "8ef466f0-130b-48f0-a19d-e0d3efe3db76",
+                "a1365029-f44e-4e4d-ac70-2b1590715696",
+                "d84c7117-0528-46e2-84ba-ecc3aaf47f68"
+            ]
+        }
+    ],
+    "grounding": {
+        "d86de8bc-d985-4710-8a46-da98da84b054": {
+            "box": {
+                "left": 0.10463191568851471,
+                "top": 0.037809912115335464,
+                "right": 0.3653441071510315,
+                "bottom": 0.11841882765293121
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "569b26ff-b885-4a52-ab9d-3bc023aa9f15": {
+            "box": {
+                "left": 0.10174503922462463,
+                "top": 0.12940838932991028,
+                "right": 0.8816003799438477,
+                "bottom": 0.6193594932556152
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.1595226566132023,
+                "right": 0.8731774278274163,
+                "bottom": 0.6117429645410262
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.1595226566132023,
+                "right": 0.34384240455702475,
+                "bottom": 0.1815430297338747
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.1595226566132023,
+                "right": 0.8728271784181985,
+                "bottom": 0.1815430297338747
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.1815430297338747,
+                "right": 0.34384240455702475,
+                "bottom": 0.21173678309155797
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.1815430297338747,
+                "right": 0.8728271784181985,
+                "bottom": 0.21173678309155797
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.21173678309155797,
+                "right": 0.34384240455702475,
+                "bottom": 0.24310969152806194
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.21173678309155797,
+                "right": 0.8728271784181985,
+                "bottom": 0.24310969152806194
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.24310969152806194,
+                "right": 0.34384240455702475,
+                "bottom": 0.2745426128724624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.24310969152806194,
+                "right": 0.8728271784181985,
+                "bottom": 0.2745426128724624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.2745426128724624,
+                "right": 0.34384240455702475,
+                "bottom": 0.30590195634754647
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.2745426128724624,
+                "right": 0.8728271784181985,
+                "bottom": 0.30590195634754647
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.30590195634754647,
+                "right": 0.34384240455702475,
+                "bottom": 0.33726749093527
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.30590195634754647,
+                "right": 0.8728271784181985,
+                "bottom": 0.33726749093527
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.33726749093527,
+                "right": 0.34384240455702475,
+                "bottom": 0.35314157675120317
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.33726749093527,
+                "right": 0.8728271784181985,
+                "bottom": 0.35314157675120317
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.35314157675120317,
+                "right": 0.34384240455702475,
+                "bottom": 0.36908569222802967
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.35314157675120317,
+                "right": 0.8728271784181985,
+                "bottom": 0.36908569222802967
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.36908569222802967,
+                "right": 0.34384240455702475,
+                "bottom": 0.38522145476474456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.36908569222802967,
+                "right": 0.8728271784181985,
+                "bottom": 0.38522145476474456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.38522145476474456,
+                "right": 0.34384240455702475,
+                "bottom": 0.40160912549781713
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.38522145476474456,
+                "right": 0.8728271784181985,
+                "bottom": 0.40160912549781713
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.40160912549781713,
+                "right": 0.34384240455702475,
+                "bottom": 0.4179277302809261
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.40160912549781713,
+                "right": 0.8728271784181985,
+                "bottom": 0.4179277302809261
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.4179277302809261,
+                "right": 0.34384240455702475,
+                "bottom": 0.4336972242576227
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.4179277302809261,
+                "right": 0.8728271784181985,
+                "bottom": 0.4336972242576227
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.4336972242576227,
+                "right": 0.34384240455702475,
+                "bottom": 0.4497725942427415
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.4336972242576227,
+                "right": 0.8728271784181985,
+                "bottom": 0.4497725942427415
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.4497725942427415,
+                "right": 0.34384240455702475,
+                "bottom": 0.46586005441952416
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.4497725942427415,
+                "right": 0.8728271784181985,
+                "bottom": 0.46586005441952416
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.46586005441952416,
+                "right": 0.34384240455702475,
+                "bottom": 0.4819660587308636
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.46586005441952416,
+                "right": 0.8728271784181985,
+                "bottom": 0.4819660587308636
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.4819660587308636,
+                "right": 0.34384240455702475,
+                "bottom": 0.49842048834834074
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.4819660587308636,
+                "right": 0.8728271784181985,
+                "bottom": 0.49842048834834074
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.49842048834834074,
+                "right": 0.34384240455702475,
+                "bottom": 0.5296088315401217
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.49842048834834074,
+                "right": 0.8728271784181985,
+                "bottom": 0.5296088315401217
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.5296088315401217,
+                "right": 0.34384240455702475,
+                "bottom": 0.5609902381548242
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.5296088315401217,
+                "right": 0.8728271784181985,
+                "bottom": 0.5609902381548242
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.5609902381548242,
+                "right": 0.34384240455702475,
+                "bottom": 0.5930842944003771
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.5609902381548242,
+                "right": 0.8728271784181985,
+                "bottom": 0.5930842944003771
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.10726573622973913,
+                "top": 0.5930842944003771,
+                "right": 0.34384240455702475,
+                "bottom": 0.6117429645410262
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.34384240455702475,
+                "top": 0.5930842944003771,
+                "right": 0.8728271784181985,
+                "bottom": 0.6117429645410262
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "8ef466f0-130b-48f0-a19d-e0d3efe3db76": {
+            "box": {
+                "left": 0.1045575886964798,
+                "top": 0.6500319242477417,
+                "right": 0.4979628920555115,
+                "bottom": 0.6751208305358887
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a1365029-f44e-4e4d-ac70-2b1590715696": {
+            "box": {
+                "left": 0.2091754674911499,
+                "top": 0.9775874018669128,
+                "right": 0.7909352779388428,
+                "bottom": 0.999297559261322
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d84c7117-0528-46e2-84ba-ecc3aaf47f68": {
+            "box": {
+                "left": 0.9090081453323364,
+                "top": 0.8431124687194824,
+                "right": 0.9406929016113281,
+                "bottom": 0.9434794187545776
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "gmhn0020_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7000,
+        "credit_usage": 3.0,
+        "job_id": "ky9if1ippx2m67pl4kfnszbjo",
+        "version": "dpt-2-20250919"
+    }
+}

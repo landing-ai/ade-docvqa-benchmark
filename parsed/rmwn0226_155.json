@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='7d7f8fc5-f757-4a18-a657-3001f26c11e9'></a>\n\n<::Cutting Longevity Test\n: chart\n: The chart displays a line graph titled \"Cutting Longevity Test\".\n: The x-axis is labeled \"Number of cuts\" and ranges from 0 to 70.\n: The y-axis is labeled \"Depth (inches)\" and ranges from 0.1 to 0.6.\n: There are two data series plotted:\n: 1. A dashed line with circular markers represents \"Current DePuy Bridgeback 410\". This line shows a general decreasing trend in depth as the number of cuts increases, starting around 0.45 inches and ending around 0.15 inches.\n: 2. A solid line represents \"Current DePuy Bridgeback Modified to 420\". This line also shows a general decreasing trend in depth, starting around 0.5 inches and ending around 0.43 inches.\n: A logo \"SYMMETRY Medical. Othy\" is present in the bottom left corner of the plot area.\n: The solid line (Modified to 420) consistently maintains a higher depth than the dashed line (410) across the range of cuts.\n: The legend is located at the bottom of the chart.\n: Current DePuy Bridgeback 410\n: Current DePuy Bridgeback Modified to 420::>\n\n<a id='490a37de-776b-4cf8-be1b-76b9285d5d11'></a>\n\nDM\n\n<a id='a5f5c0f2-3aa2-4d8e-8728-3b3f46f1d8da'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rmwn0226\n\n<a id='21532fb2-3564-4506-b80e-ea409c0f8552'></a>\n\nP-09686-00155\nDEPUY023042075",
+    "chunks": [
+        {
+            "markdown": "<a id='7d7f8fc5-f757-4a18-a657-3001f26c11e9'></a>\n\n<::Cutting Longevity Test\n: chart\n: The chart displays a line graph titled \"Cutting Longevity Test\".\n: The x-axis is labeled \"Number of cuts\" and ranges from 0 to 70.\n: The y-axis is labeled \"Depth (inches)\" and ranges from 0.1 to 0.6.\n: There are two data series plotted:\n: 1. A dashed line with circular markers represents \"Current DePuy Bridgeback 410\". This line shows a general decreasing trend in depth as the number of cuts increases, starting around 0.45 inches and ending around 0.15 inches.\n: 2. A solid line represents \"Current DePuy Bridgeback Modified to 420\". This line also shows a general decreasing trend in depth, starting around 0.5 inches and ending around 0.43 inches.\n: A logo \"SYMMETRY Medical. Othy\" is present in the bottom left corner of the plot area.\n: The solid line (Modified to 420) consistently maintains a higher depth than the dashed line (410) across the range of cuts.\n: The legend is located at the bottom of the chart.\n: Current DePuy Bridgeback 410\n: Current DePuy Bridgeback Modified to 420::>",
+            "type": "figure",
+            "id": "7d7f8fc5-f757-4a18-a657-3001f26c11e9",
+            "grounding": {
+                "box": {
+                    "left": 0.06723752617835999,
+                    "top": 0.11475032567977905,
+                    "right": 0.9321303367614746,
+                    "bottom": 0.8607321381568909
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='490a37de-776b-4cf8-be1b-76b9285d5d11'></a>\n\nDM",
+            "type": "marginalia",
+            "id": "490a37de-776b-4cf8-be1b-76b9285d5d11",
+            "grounding": {
+                "box": {
+                    "left": 0.4852518141269684,
+                    "top": 0.9570428133010864,
+                    "right": 0.5113816261291504,
+                    "bottom": 0.9749033451080322
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a5f5c0f2-3aa2-4d8e-8728-3b3f46f1d8da'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rmwn0226",
+            "type": "marginalia",
+            "id": "a5f5c0f2-3aa2-4d8e-8728-3b3f46f1d8da",
+            "grounding": {
+                "box": {
+                    "left": 0.2761460542678833,
+                    "top": 0.9739850163459778,
+                    "right": 0.7255216836929321,
+                    "bottom": 0.9994271397590637
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='21532fb2-3564-4506-b80e-ea409c0f8552'></a>\n\nP-09686-00155\nDEPUY023042075",
+            "type": "marginalia",
+            "id": "21532fb2-3564-4506-b80e-ea409c0f8552",
+            "grounding": {
+                "box": {
+                    "left": 0.8698643445968628,
+                    "top": 0.9492893218994141,
+                    "right": 0.9795728921890259,
+                    "bottom": 0.999778151512146
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='7d7f8fc5-f757-4a18-a657-3001f26c11e9'></a>\n\n<::Cutting Longevity Test\n: chart\n: The chart displays a line graph titled \"Cutting Longevity Test\".\n: The x-axis is labeled \"Number of cuts\" and ranges from 0 to 70.\n: The y-axis is labeled \"Depth (inches)\" and ranges from 0.1 to 0.6.\n: There are two data series plotted:\n: 1. A dashed line with circular markers represents \"Current DePuy Bridgeback 410\". This line shows a general decreasing trend in depth as the number of cuts increases, starting around 0.45 inches and ending around 0.15 inches.\n: 2. A solid line represents \"Current DePuy Bridgeback Modified to 420\". This line also shows a general decreasing trend in depth, starting around 0.5 inches and ending around 0.43 inches.\n: A logo \"SYMMETRY Medical. Othy\" is present in the bottom left corner of the plot area.\n: The solid line (Modified to 420) consistently maintains a higher depth than the dashed line (410) across the range of cuts.\n: The legend is located at the bottom of the chart.\n: Current DePuy Bridgeback 410\n: Current DePuy Bridgeback Modified to 420::>\n\n<a id='490a37de-776b-4cf8-be1b-76b9285d5d11'></a>\n\nDM\n\n<a id='a5f5c0f2-3aa2-4d8e-8728-3b3f46f1d8da'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rmwn0226\n\n<a id='21532fb2-3564-4506-b80e-ea409c0f8552'></a>\n\nP-09686-00155\nDEPUY023042075",
+            "chunks": [
+                "7d7f8fc5-f757-4a18-a657-3001f26c11e9",
+                "490a37de-776b-4cf8-be1b-76b9285d5d11",
+                "a5f5c0f2-3aa2-4d8e-8728-3b3f46f1d8da",
+                "21532fb2-3564-4506-b80e-ea409c0f8552"
+            ]
+        }
+    ],
+    "grounding": {
+        "7d7f8fc5-f757-4a18-a657-3001f26c11e9": {
+            "box": {
+                "left": 0.06723752617835999,
+                "top": 0.11475032567977905,
+                "right": 0.9321303367614746,
+                "bottom": 0.8607321381568909
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "490a37de-776b-4cf8-be1b-76b9285d5d11": {
+            "box": {
+                "left": 0.4852518141269684,
+                "top": 0.9570428133010864,
+                "right": 0.5113816261291504,
+                "bottom": 0.9749033451080322
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "a5f5c0f2-3aa2-4d8e-8728-3b3f46f1d8da": {
+            "box": {
+                "left": 0.2761460542678833,
+                "top": 0.9739850163459778,
+                "right": 0.7255216836929321,
+                "bottom": 0.9994271397590637
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "21532fb2-3564-4506-b80e-ea409c0f8552": {
+            "box": {
+                "left": 0.8698643445968628,
+                "top": 0.9492893218994141,
+                "right": 0.9795728921890259,
+                "bottom": 0.999778151512146
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "rmwn0226_155.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7402,
+        "credit_usage": 3.0,
+        "job_id": "bczqjwbq8soexc0pjsen5nuh3",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,388 @@
+{
+    "markdown": "<a id='59b571d6-b652-4d84-abf0-c2c24dc7e05e'></a>\n\nTable III. Mean Areas (arbitrary units) for Duplicate Analysis of Contents from Three Sample Bags, each Containing 50 ppm H2 at Intervals over a 24 hr Period\n\n<a id='37aec313-2993-403d-98e3-3f8a7c406d0a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Time</td><td id=\"0-3\">Sample 1</td><td id=\"0-4\">2</td><td id=\"0-5\">3</td><td id=\"0-6\">Average</td></tr>\n<tr><td id=\"0-7\">0:00</td><td id=\"0-8\">131.0</td><td id=\"0-9\">127.5</td><td id=\"0-a\">130.0</td><td id=\"0-b\">129.2</td></tr>\n<tr><td id=\"0-c\">4:00</td><td id=\"0-d\">128.5</td><td id=\"0-e\">128.5</td><td id=\"0-f\">130.0</td><td id=\"0-g\">129.0</td></tr>\n<tr><td id=\"0-h\">8:00</td><td id=\"0-i\">126.0</td><td id=\"0-j\">125.0</td><td id=\"0-k\">129.0</td><td id=\"0-l\">126.7</td></tr>\n<tr><td id=\"0-m\">24:00</td><td id=\"0-n\">127.1</td><td id=\"0-o\">129.0</td><td id=\"0-p\">130.0</td><td id=\"0-q\">128.8</td></tr>\n<tr><td id=\"0-r\">Average</td><td id=\"0-s\">128. 5</td><td id=\"0-t\">127.5</td><td id=\"0-u\">129.8</td><td id=\"0-v\"></td></tr>\n</table>",
+    "chunks": [
+        {
+            "markdown": "<a id='59b571d6-b652-4d84-abf0-c2c24dc7e05e'></a>\n\nTable III. Mean Areas (arbitrary units) for Duplicate Analysis of Contents from Three Sample Bags, each Containing 50 ppm H2 at Intervals over a 24 hr Period",
+            "type": "text",
+            "id": "59b571d6-b652-4d84-abf0-c2c24dc7e05e",
+            "grounding": {
+                "box": {
+                    "left": 0.05210775136947632,
+                    "top": 0.3230167031288147,
+                    "right": 0.853074848651886,
+                    "bottom": 0.37561166286468506
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='37aec313-2993-403d-98e3-3f8a7c406d0a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Time</td><td id=\"0-3\">Sample 1</td><td id=\"0-4\">2</td><td id=\"0-5\">3</td><td id=\"0-6\">Average</td></tr>\n<tr><td id=\"0-7\">0:00</td><td id=\"0-8\">131.0</td><td id=\"0-9\">127.5</td><td id=\"0-a\">130.0</td><td id=\"0-b\">129.2</td></tr>\n<tr><td id=\"0-c\">4:00</td><td id=\"0-d\">128.5</td><td id=\"0-e\">128.5</td><td id=\"0-f\">130.0</td><td id=\"0-g\">129.0</td></tr>\n<tr><td id=\"0-h\">8:00</td><td id=\"0-i\">126.0</td><td id=\"0-j\">125.0</td><td id=\"0-k\">129.0</td><td id=\"0-l\">126.7</td></tr>\n<tr><td id=\"0-m\">24:00</td><td id=\"0-n\">127.1</td><td id=\"0-o\">129.0</td><td id=\"0-p\">130.0</td><td id=\"0-q\">128.8</td></tr>\n<tr><td id=\"0-r\">Average</td><td id=\"0-s\">128. 5</td><td id=\"0-t\">127.5</td><td id=\"0-u\">129.8</td><td id=\"0-v\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "37aec313-2993-403d-98e3-3f8a7c406d0a",
+            "grounding": {
+                "box": {
+                    "left": 0.042897582054138184,
+                    "top": 0.36818885803222656,
+                    "right": 0.8568637371063232,
+                    "bottom": 0.6269065141677856
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='59b571d6-b652-4d84-abf0-c2c24dc7e05e'></a>\n\nTable III. Mean Areas (arbitrary units) for Duplicate Analysis of Contents from Three Sample Bags, each Containing 50 ppm H2 at Intervals over a 24 hr Period\n\n<a id='37aec313-2993-403d-98e3-3f8a7c406d0a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Time</td><td id=\"0-3\">Sample 1</td><td id=\"0-4\">2</td><td id=\"0-5\">3</td><td id=\"0-6\">Average</td></tr>\n<tr><td id=\"0-7\">0:00</td><td id=\"0-8\">131.0</td><td id=\"0-9\">127.5</td><td id=\"0-a\">130.0</td><td id=\"0-b\">129.2</td></tr>\n<tr><td id=\"0-c\">4:00</td><td id=\"0-d\">128.5</td><td id=\"0-e\">128.5</td><td id=\"0-f\">130.0</td><td id=\"0-g\">129.0</td></tr>\n<tr><td id=\"0-h\">8:00</td><td id=\"0-i\">126.0</td><td id=\"0-j\">125.0</td><td id=\"0-k\">129.0</td><td id=\"0-l\">126.7</td></tr>\n<tr><td id=\"0-m\">24:00</td><td id=\"0-n\">127.1</td><td id=\"0-o\">129.0</td><td id=\"0-p\">130.0</td><td id=\"0-q\">128.8</td></tr>\n<tr><td id=\"0-r\">Average</td><td id=\"0-s\">128. 5</td><td id=\"0-t\">127.5</td><td id=\"0-u\">129.8</td><td id=\"0-v\"></td></tr>\n</table>",
+            "chunks": [
+                "59b571d6-b652-4d84-abf0-c2c24dc7e05e",
+                "37aec313-2993-403d-98e3-3f8a7c406d0a"
+            ]
+        }
+    ],
+    "grounding": {
+        "59b571d6-b652-4d84-abf0-c2c24dc7e05e": {
+            "box": {
+                "left": 0.05210775136947632,
+                "top": 0.3230167031288147,
+                "right": 0.853074848651886,
+                "bottom": 0.37561166286468506
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "37aec313-2993-403d-98e3-3f8a7c406d0a": {
+            "box": {
+                "left": 0.042897582054138184,
+                "top": 0.36818885803222656,
+                "right": 0.8568637371063232,
+                "bottom": 0.6269065141677856
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.07297942279953773,
+                "top": 0.3927641879962911,
+                "right": 0.8441231014660815,
+                "bottom": 0.6187481999501259
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.07297942279953773,
+                "top": 0.3927641879962911,
+                "right": 0.13681955606587426,
+                "bottom": 0.43471940490716676
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.13681955606587426,
+                "top": 0.3927641879962911,
+                "right": 0.22542766384741952,
+                "bottom": 0.43471940490716676
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.22542766384741952,
+                "top": 0.3927641879962911,
+                "right": 0.3944445871285538,
+                "bottom": 0.43471940490716676
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.3944445871285538,
+                "top": 0.3927641879962911,
+                "right": 0.5699488977324094,
+                "bottom": 0.43471940490716676
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.5699488977324094,
+                "top": 0.3927641879962911,
+                "right": 0.8489404654077362,
+                "bottom": 0.43471940490716676
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.07297942279953773,
+                "top": 0.43471940490716676,
+                "right": 0.13681955606587426,
+                "bottom": 0.4674234971031339
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.13681955606587426,
+                "top": 0.43471940490716676,
+                "right": 0.22542766384741952,
+                "bottom": 0.4674234971031339
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.22542766384741952,
+                "top": 0.43471940490716676,
+                "right": 0.3944445871285538,
+                "bottom": 0.4674234971031339
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.3944445871285538,
+                "top": 0.43471940490716676,
+                "right": 0.5699488977324094,
+                "bottom": 0.4674234971031339
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5699488977324094,
+                "top": 0.43471940490716676,
+                "right": 0.8489404654077362,
+                "bottom": 0.4674234971031339
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.07297942279953773,
+                "top": 0.4674234971031339,
+                "right": 0.13681955606587426,
+                "bottom": 0.498113242986129
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.13681955606587426,
+                "top": 0.4674234971031339,
+                "right": 0.22542766384741952,
+                "bottom": 0.498113242986129
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.22542766384741952,
+                "top": 0.4674234971031339,
+                "right": 0.3944445871285538,
+                "bottom": 0.498113242986129
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3944445871285538,
+                "top": 0.4674234971031339,
+                "right": 0.5699488977324094,
+                "bottom": 0.498113242986129
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5699488977324094,
+                "top": 0.4674234971031339,
+                "right": 0.8489404654077362,
+                "bottom": 0.498113242986129
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.07297942279953773,
+                "top": 0.498113242986129,
+                "right": 0.13681955606587426,
+                "bottom": 0.5290886278657609
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.13681955606587426,
+                "top": 0.498113242986129,
+                "right": 0.22542766384741952,
+                "bottom": 0.5290886278657609
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.22542766384741952,
+                "top": 0.498113242986129,
+                "right": 0.3944445871285538,
+                "bottom": 0.5290886278657609
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.3944445871285538,
+                "top": 0.498113242986129,
+                "right": 0.5699488977324094,
+                "bottom": 0.5290886278657609
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.5699488977324094,
+                "top": 0.498113242986129,
+                "right": 0.8489404654077362,
+                "bottom": 0.5290886278657609
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.07297942279953773,
+                "top": 0.5290886278657609,
+                "right": 0.13681955606587426,
+                "bottom": 0.56039397104648
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.13681955606587426,
+                "top": 0.5290886278657609,
+                "right": 0.22542766384741952,
+                "bottom": 0.56039397104648
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.22542766384741952,
+                "top": 0.5290886278657609,
+                "right": 0.3944445871285538,
+                "bottom": 0.56039397104648
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.3944445871285538,
+                "top": 0.5290886278657609,
+                "right": 0.5699488977324094,
+                "bottom": 0.56039397104648
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.5699488977324094,
+                "top": 0.5290886278657609,
+                "right": 0.8489404654077362,
+                "bottom": 0.56039397104648
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.07297942279953773,
+                "top": 0.56039397104648,
+                "right": 0.13681955606587426,
+                "bottom": 0.6187481999501259
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.13681955606587426,
+                "top": 0.56039397104648,
+                "right": 0.22542766384741952,
+                "bottom": 0.6187481999501259
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.22542766384741952,
+                "top": 0.56039397104648,
+                "right": 0.3944445871285538,
+                "bottom": 0.6187481999501259
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.3944445871285538,
+                "top": 0.56039397104648,
+                "right": 0.5699488977324094,
+                "bottom": 0.6187481999501259
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.5699488977324094,
+                "top": 0.56039397104648,
+                "right": 0.8489404654077362,
+                "bottom": 0.6187481999501259
+            },
+            "page": 0,
+            "type": "tableCell"
+        }
+    },
+    "metadata": {
+        "filename": "mrbx0227_15.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5754,
+        "credit_usage": 3.0,
+        "job_id": "j90to12bsagmpn1wnk759hhji",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='4a436f84-1ec5-41b3-b678-29f021d73ef2'></a>\n\nFROM\n\n\nZIP #\n\n<a id='89c85c07-952a-4158-a1d4-ef6263eb8464'></a>\n\nPLACE\nSTAMP\nHERE\n\n<a id='bd6fb13a-b7e0-47e8-a84e-9449422c2497'></a>\n\nUNICEF / UN CENTER\n704 DE MUN AVE.\nCLAYTON, MO. 63105\n(314) 721-1961\n\n<a id='c382bedd-040d-49cb-8f24-e9f1630faf65'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yhmw0227",
+    "chunks": [
+        {
+            "markdown": "<a id='4a436f84-1ec5-41b3-b678-29f021d73ef2'></a>\n\nFROM\n\n\nZIP #",
+            "type": "text",
+            "id": "4a436f84-1ec5-41b3-b678-29f021d73ef2",
+            "grounding": {
+                "box": {
+                    "left": 0.0718601793050766,
+                    "top": 0.15931281447410583,
+                    "right": 0.4855074882507324,
+                    "bottom": 0.3416156470775604
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='89c85c07-952a-4158-a1d4-ef6263eb8464'></a>\n\nPLACE\nSTAMP\nHERE",
+            "type": "text",
+            "id": "89c85c07-952a-4158-a1d4-ef6263eb8464",
+            "grounding": {
+                "box": {
+                    "left": 0.811906099319458,
+                    "top": 0.12869751453399658,
+                    "right": 0.9237643480300903,
+                    "bottom": 0.32732364535331726
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bd6fb13a-b7e0-47e8-a84e-9449422c2497'></a>\n\nUNICEF / UN CENTER\n704 DE MUN AVE.\nCLAYTON, MO. 63105\n(314) 721-1961",
+            "type": "text",
+            "id": "bd6fb13a-b7e0-47e8-a84e-9449422c2497",
+            "grounding": {
+                "box": {
+                    "left": 0.4725799560546875,
+                    "top": 0.5531339645385742,
+                    "right": 0.7321231365203857,
+                    "bottom": 0.7310898303985596
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c382bedd-040d-49cb-8f24-e9f1630faf65'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yhmw0227",
+            "type": "text",
+            "id": "c382bedd-040d-49cb-8f24-e9f1630faf65",
+            "grounding": {
+                "box": {
+                    "left": 0.13929039239883423,
+                    "top": 0.9422042369842529,
+                    "right": 0.8623279929161072,
+                    "bottom": 0.9972193241119385
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4a436f84-1ec5-41b3-b678-29f021d73ef2'></a>\n\nFROM\n\n\nZIP #\n\n<a id='89c85c07-952a-4158-a1d4-ef6263eb8464'></a>\n\nPLACE\nSTAMP\nHERE\n\n<a id='bd6fb13a-b7e0-47e8-a84e-9449422c2497'></a>\n\nUNICEF / UN CENTER\n704 DE MUN AVE.\nCLAYTON, MO. 63105\n(314) 721-1961\n\n<a id='c382bedd-040d-49cb-8f24-e9f1630faf65'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yhmw0227",
+            "chunks": [
+                "4a436f84-1ec5-41b3-b678-29f021d73ef2",
+                "89c85c07-952a-4158-a1d4-ef6263eb8464",
+                "bd6fb13a-b7e0-47e8-a84e-9449422c2497",
+                "c382bedd-040d-49cb-8f24-e9f1630faf65"
+            ]
+        }
+    ],
+    "grounding": {
+        "4a436f84-1ec5-41b3-b678-29f021d73ef2": {
+            "box": {
+                "left": 0.0718601793050766,
+                "top": 0.15931281447410583,
+                "right": 0.4855074882507324,
+                "bottom": 0.3416156470775604
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "89c85c07-952a-4158-a1d4-ef6263eb8464": {
+            "box": {
+                "left": 0.811906099319458,
+                "top": 0.12869751453399658,
+                "right": 0.9237643480300903,
+                "bottom": 0.32732364535331726
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bd6fb13a-b7e0-47e8-a84e-9449422c2497": {
+            "box": {
+                "left": 0.4725799560546875,
+                "top": 0.5531339645385742,
+                "right": 0.7321231365203857,
+                "bottom": 0.7310898303985596
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c382bedd-040d-49cb-8f24-e9f1630faf65": {
+            "box": {
+                "left": 0.13929039239883423,
+                "top": 0.9422042369842529,
+                "right": 0.8623279929161072,
+                "bottom": 0.9972193241119385
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "yhmw0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3969,
+        "credit_usage": 3.0,
+        "job_id": "t7bwjnfmgg3dsosehff4waqgj",
+        "version": "dpt-2-20250919"
+    }
+}

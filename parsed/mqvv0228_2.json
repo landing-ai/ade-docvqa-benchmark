@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='3d477c8d-1308-4def-8cc0-7a731babba9f'></a>\n\nSCN -1-\nUNIVERSITY OF NEBRASKA MEDICAL CENTER\nSUPPORT OF RESEARCH, EDUCATION AND SERVICE\n\n<a id='92024080-15a2-4a20-a0be-2e99eac5ed0d'></a>\n\n<::Bar chart showing values for years 74 through 80.\n\nY-axis ranges from 0.00 to 300.00 in increments of 20.00.\n\nX-axis represents years:\n\nYear 74:\n- Bar 1 (white): 60\n- Bar 2 (solid dark): 8\n\nYear 75:\n- Bar 1 (white): 128\n- Bar 2 (solid dark): 9\n\nYear 76:\n- Bar 1 (white): 160\n- Bar 2 (dotted): 11\n- Bar 3 (solid dark): 9.5\n\nYear 77:\n- Bar 1 (white): 180\n- Bar 2 (dotted): 20\n- Bar 3 (solid dark): 10\n\nYear 78:\n- Bar 1 (white): 190\n- Bar 2 (dotted): 26\n- Bar 3 (solid dark): 11\n\nYear 79:\n- Bar 1 (white): 205\n- Bar 2 (dotted): 163\n- Bar 3 (solid dark): 40\n\nYear 80:\n- Bar 1 (white): 210\n- Bar 2 (dotted): 131\n- Bar 3 (solid dark): 300\n: chart::>\n\n<a id='755780eb-f327-457c-81a2-fb5918132b2d'></a>\n\nTHOUSAND ($'S)\n\n<a id='668be7b0-1f3f-4700-ac12-2d8c142ce3cc'></a>\n\noption SCN Direct to UNMC: [ ]\noption Grants: [x]\noption UNMC - Salary Contribution (exclusive of space and administrative support): [x]\n\n<a id='d1037d49-e2af-46cc-9ee2-7114e4a2ec1d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mqvv0228",
+    "chunks": [
+        {
+            "markdown": "<a id='3d477c8d-1308-4def-8cc0-7a731babba9f'></a>\n\nSCN -1-\nUNIVERSITY OF NEBRASKA MEDICAL CENTER\nSUPPORT OF RESEARCH, EDUCATION AND SERVICE",
+            "type": "text",
+            "id": "3d477c8d-1308-4def-8cc0-7a731babba9f",
+            "grounding": {
+                "box": {
+                    "left": 0.2814244031906128,
+                    "top": 0.08725792169570923,
+                    "right": 0.6682437658309937,
+                    "bottom": 0.1517745852470398
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='92024080-15a2-4a20-a0be-2e99eac5ed0d'></a>\n\n<::Bar chart showing values for years 74 through 80.\n\nY-axis ranges from 0.00 to 300.00 in increments of 20.00.\n\nX-axis represents years:\n\nYear 74:\n- Bar 1 (white): 60\n- Bar 2 (solid dark): 8\n\nYear 75:\n- Bar 1 (white): 128\n- Bar 2 (solid dark): 9\n\nYear 76:\n- Bar 1 (white): 160\n- Bar 2 (dotted): 11\n- Bar 3 (solid dark): 9.5\n\nYear 77:\n- Bar 1 (white): 180\n- Bar 2 (dotted): 20\n- Bar 3 (solid dark): 10\n\nYear 78:\n- Bar 1 (white): 190\n- Bar 2 (dotted): 26\n- Bar 3 (solid dark): 11\n\nYear 79:\n- Bar 1 (white): 205\n- Bar 2 (dotted): 163\n- Bar 3 (solid dark): 40\n\nYear 80:\n- Bar 1 (white): 210\n- Bar 2 (dotted): 131\n- Bar 3 (solid dark): 300\n: chart::>",
+            "type": "figure",
+            "id": "92024080-15a2-4a20-a0be-2e99eac5ed0d",
+            "grounding": {
+                "box": {
+                    "left": 0.1504649817943573,
+                    "top": 0.1838091015815735,
+                    "right": 0.7943627834320068,
+                    "bottom": 0.8567056059837341
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='755780eb-f327-457c-81a2-fb5918132b2d'></a>\n\nTHOUSAND ($'S)",
+            "type": "text",
+            "id": "755780eb-f327-457c-81a2-fb5918132b2d",
+            "grounding": {
+                "box": {
+                    "left": 0.10741785168647766,
+                    "top": 0.44623997807502747,
+                    "right": 0.13185757398605347,
+                    "bottom": 0.6176187992095947
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='668be7b0-1f3f-4700-ac12-2d8c142ce3cc'></a>\n\noption SCN Direct to UNMC: [ ]\noption Grants: [x]\noption UNMC - Salary Contribution (exclusive of space and administrative support): [x]",
+            "type": "text",
+            "id": "668be7b0-1f3f-4700-ac12-2d8c142ce3cc",
+            "grounding": {
+                "box": {
+                    "left": 0.3809490203857422,
+                    "top": 0.8856368064880371,
+                    "right": 0.8599802255630493,
+                    "bottom": 0.9648705720901489
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d1037d49-e2af-46cc-9ee2-7114e4a2ec1d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mqvv0228",
+            "type": "text",
+            "id": "d1037d49-e2af-46cc-9ee2-7114e4a2ec1d",
+            "grounding": {
+                "box": {
+                    "left": 0.28277695178985596,
+                    "top": 0.9755299091339111,
+                    "right": 0.7178252935409546,
+                    "bottom": 0.9987198114395142
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3d477c8d-1308-4def-8cc0-7a731babba9f'></a>\n\nSCN -1-\nUNIVERSITY OF NEBRASKA MEDICAL CENTER\nSUPPORT OF RESEARCH, EDUCATION AND SERVICE\n\n<a id='92024080-15a2-4a20-a0be-2e99eac5ed0d'></a>\n\n<::Bar chart showing values for years 74 through 80.\n\nY-axis ranges from 0.00 to 300.00 in increments of 20.00.\n\nX-axis represents years:\n\nYear 74:\n- Bar 1 (white): 60\n- Bar 2 (solid dark): 8\n\nYear 75:\n- Bar 1 (white): 128\n- Bar 2 (solid dark): 9\n\nYear 76:\n- Bar 1 (white): 160\n- Bar 2 (dotted): 11\n- Bar 3 (solid dark): 9.5\n\nYear 77:\n- Bar 1 (white): 180\n- Bar 2 (dotted): 20\n- Bar 3 (solid dark): 10\n\nYear 78:\n- Bar 1 (white): 190\n- Bar 2 (dotted): 26\n- Bar 3 (solid dark): 11\n\nYear 79:\n- Bar 1 (white): 205\n- Bar 2 (dotted): 163\n- Bar 3 (solid dark): 40\n\nYear 80:\n- Bar 1 (white): 210\n- Bar 2 (dotted): 131\n- Bar 3 (solid dark): 300\n: chart::>\n\n<a id='755780eb-f327-457c-81a2-fb5918132b2d'></a>\n\nTHOUSAND ($'S)\n\n<a id='668be7b0-1f3f-4700-ac12-2d8c142ce3cc'></a>\n\noption SCN Direct to UNMC: [ ]\noption Grants: [x]\noption UNMC - Salary Contribution (exclusive of space and administrative support): [x]\n\n<a id='d1037d49-e2af-46cc-9ee2-7114e4a2ec1d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mqvv0228",
+            "chunks": [
+                "3d477c8d-1308-4def-8cc0-7a731babba9f",
+                "92024080-15a2-4a20-a0be-2e99eac5ed0d",
+                "755780eb-f327-457c-81a2-fb5918132b2d",
+                "668be7b0-1f3f-4700-ac12-2d8c142ce3cc",
+                "d1037d49-e2af-46cc-9ee2-7114e4a2ec1d"
+            ]
+        }
+    ],
+    "grounding": {
+        "3d477c8d-1308-4def-8cc0-7a731babba9f": {
+            "box": {
+                "left": 0.2814244031906128,
+                "top": 0.08725792169570923,
+                "right": 0.6682437658309937,
+                "bottom": 0.1517745852470398
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "92024080-15a2-4a20-a0be-2e99eac5ed0d": {
+            "box": {
+                "left": 0.1504649817943573,
+                "top": 0.1838091015815735,
+                "right": 0.7943627834320068,
+                "bottom": 0.8567056059837341
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "755780eb-f327-457c-81a2-fb5918132b2d": {
+            "box": {
+                "left": 0.10741785168647766,
+                "top": 0.44623997807502747,
+                "right": 0.13185757398605347,
+                "bottom": 0.6176187992095947
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "668be7b0-1f3f-4700-ac12-2d8c142ce3cc": {
+            "box": {
+                "left": 0.3809490203857422,
+                "top": 0.8856368064880371,
+                "right": 0.8599802255630493,
+                "bottom": 0.9648705720901489
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d1037d49-e2af-46cc-9ee2-7114e4a2ec1d": {
+            "box": {
+                "left": 0.28277695178985596,
+                "top": 0.9755299091339111,
+                "right": 0.7178252935409546,
+                "bottom": 0.9987198114395142
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "mqvv0228_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8419,
+        "credit_usage": 3.0,
+        "job_id": "rzqe59dtw4znvzvznztwbshmq",
+        "version": "dpt-2-20250919"
+    }
+}

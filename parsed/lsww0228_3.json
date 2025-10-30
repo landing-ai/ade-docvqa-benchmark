@@ -1,0 +1,298 @@
+{
+    "markdown": "<a id='c591aece-32d0-4987-8419-aeda0b7fc278'></a>\n\nTo: Dr Darby\n\nDate: 12/12\nTime: 950\n\nWHILE YOU WERE OUT\n\nM: Dr Boworn feima\n\nof:\n\nPhone: 904-378-5391\nArea Code Number Extension\n\n<a id='ae0493d7-a45e-4638-82fd-9beea1d6a418'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">TELEPHONED</td><td id=\"0-3\">check mark</td><td id=\"0-4\" colspan=\"3\">PLEASE CALL</td><td id=\"0-5\">black mark</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">CALLED TO SEE YOU</td><td id=\"0-7\"></td><td id=\"0-8\" colspan=\"3\">WILL CALL AGAIN</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">WANTS TO SEE YOU</td><td id=\"0-b\"></td><td id=\"0-c\" colspan=\"3\">URGENT</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-g\"></td><td id=\"0-h\" colspan=\"2\"></td></tr>\n</table>\n\n<a id='8373568f-aa98-4e79-94b6-35156de56b2e'></a>\n\nMessage\nWrote you 6 weeks\nago & had no reply.\nIf you want to call,\nPlease do - best time\nto call him Donna\nat 9 a.m. or\nOperator\n\n<a id='22469de1-5fa8-4519-9e3a-29a4970ad3ec'></a>\n\n--- \nMC 0343 5 p.m.",
+    "chunks": [
+        {
+            "markdown": "<a id='c591aece-32d0-4987-8419-aeda0b7fc278'></a>\n\nTo: Dr Darby\n\nDate: 12/12\nTime: 950\n\nWHILE YOU WERE OUT\n\nM: Dr Boworn feima\n\nof:\n\nPhone: 904-378-5391\nArea Code Number Extension",
+            "type": "text",
+            "id": "c591aece-32d0-4987-8419-aeda0b7fc278",
+            "grounding": {
+                "box": {
+                    "left": 0.12886318564414978,
+                    "top": 0.06432732939720154,
+                    "right": 0.8937703371047974,
+                    "bottom": 0.40853285789489746
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ae0493d7-a45e-4638-82fd-9beea1d6a418'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">TELEPHONED</td><td id=\"0-3\">check mark</td><td id=\"0-4\" colspan=\"3\">PLEASE CALL</td><td id=\"0-5\">black mark</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">CALLED TO SEE YOU</td><td id=\"0-7\"></td><td id=\"0-8\" colspan=\"3\">WILL CALL AGAIN</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">WANTS TO SEE YOU</td><td id=\"0-b\"></td><td id=\"0-c\" colspan=\"3\">URGENT</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-g\"></td><td id=\"0-h\" colspan=\"2\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "ae0493d7-a45e-4638-82fd-9beea1d6a418",
+            "grounding": {
+                "box": {
+                    "left": 0.14644834399223328,
+                    "top": 0.4022220969200134,
+                    "right": 0.8887979984283447,
+                    "bottom": 0.6102731823921204
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8373568f-aa98-4e79-94b6-35156de56b2e'></a>\n\nMessage\nWrote you 6 weeks\nago & had no reply.\nIf you want to call,\nPlease do - best time\nto call him Donna\nat 9 a.m. or\nOperator",
+            "type": "text",
+            "id": "8373568f-aa98-4e79-94b6-35156de56b2e",
+            "grounding": {
+                "box": {
+                    "left": 0.14411675930023193,
+                    "top": 0.603988528251648,
+                    "right": 0.8984092473983765,
+                    "bottom": 0.8952003717422485
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='22469de1-5fa8-4519-9e3a-29a4970ad3ec'></a>\n\n--- \nMC 0343 5 p.m.",
+            "type": "text",
+            "id": "22469de1-5fa8-4519-9e3a-29a4970ad3ec",
+            "grounding": {
+                "box": {
+                    "left": 0.15661253035068512,
+                    "top": 0.8969445824623108,
+                    "right": 0.5359975695610046,
+                    "bottom": 0.9523405432701111
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c591aece-32d0-4987-8419-aeda0b7fc278'></a>\n\nTo: Dr Darby\n\nDate: 12/12\nTime: 950\n\nWHILE YOU WERE OUT\n\nM: Dr Boworn feima\n\nof:\n\nPhone: 904-378-5391\nArea Code Number Extension\n\n<a id='ae0493d7-a45e-4638-82fd-9beea1d6a418'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">TELEPHONED</td><td id=\"0-3\">check mark</td><td id=\"0-4\" colspan=\"3\">PLEASE CALL</td><td id=\"0-5\">black mark</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">CALLED TO SEE YOU</td><td id=\"0-7\"></td><td id=\"0-8\" colspan=\"3\">WILL CALL AGAIN</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">WANTS TO SEE YOU</td><td id=\"0-b\"></td><td id=\"0-c\" colspan=\"3\">URGENT</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-g\"></td><td id=\"0-h\" colspan=\"2\"></td></tr>\n</table>\n\n<a id='8373568f-aa98-4e79-94b6-35156de56b2e'></a>\n\nMessage\nWrote you 6 weeks\nago & had no reply.\nIf you want to call,\nPlease do - best time\nto call him Donna\nat 9 a.m. or\nOperator\n\n<a id='22469de1-5fa8-4519-9e3a-29a4970ad3ec'></a>\n\n--- \nMC 0343 5 p.m.",
+            "chunks": [
+                "c591aece-32d0-4987-8419-aeda0b7fc278",
+                "ae0493d7-a45e-4638-82fd-9beea1d6a418",
+                "8373568f-aa98-4e79-94b6-35156de56b2e",
+                "22469de1-5fa8-4519-9e3a-29a4970ad3ec"
+            ]
+        }
+    ],
+    "grounding": {
+        "c591aece-32d0-4987-8419-aeda0b7fc278": {
+            "box": {
+                "left": 0.12886318564414978,
+                "top": 0.06432732939720154,
+                "right": 0.8937703371047974,
+                "bottom": 0.40853285789489746
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ae0493d7-a45e-4638-82fd-9beea1d6a418": {
+            "box": {
+                "left": 0.14644834399223328,
+                "top": 0.4022220969200134,
+                "right": 0.8887979984283447,
+                "bottom": 0.6102731823921204
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.17038483814233352,
+                "top": 0.4108439429357529,
+                "right": 0.8676263721374333,
+                "bottom": 0.6032285172530365
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.17038483814233352,
+                "top": 0.4108439429357529,
+                "right": 0.5120239392819323,
+                "bottom": 0.5049803015689207
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.45164007899251857,
+                "top": 0.4108439429357529,
+                "right": 0.5120239392819323,
+                "bottom": 0.4580759079018364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5120239392819323,
+                "top": 0.4108439429357529,
+                "right": 0.8677238935997771,
+                "bottom": 0.5049803015689207
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.8061052850492771,
+                "top": 0.4108439429357529,
+                "right": 0.8677238935997771,
+                "bottom": 0.4580759079018364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.17038483814233352,
+                "top": 0.4580759079018364,
+                "right": 0.5120239392819323,
+                "bottom": 0.5511836773876482
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.45164007899251857,
+                "top": 0.4580759079018364,
+                "right": 0.5120239392819323,
+                "bottom": 0.5049803015689207
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5120239392819323,
+                "top": 0.4580759079018364,
+                "right": 0.8677238935997771,
+                "bottom": 0.5511836773876482
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.8061052850492771,
+                "top": 0.4580759079018364,
+                "right": 0.8677238935997771,
+                "bottom": 0.5049803015689207
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.17038483814233352,
+                "top": 0.5049803015689207,
+                "right": 0.5120239392819323,
+                "bottom": 0.6032285172530365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.45164007899251857,
+                "top": 0.5049803015689207,
+                "right": 0.5120239392819323,
+                "bottom": 0.5511836773876482
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5120239392819323,
+                "top": 0.5049803015689207,
+                "right": 0.8677238935997771,
+                "bottom": 0.6032285172530365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.8061052850492771,
+                "top": 0.5049803015689207,
+                "right": 0.8677238935997771,
+                "bottom": 0.5511836773876482
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.17038483814233352,
+                "top": 0.5511836773876482,
+                "right": 0.3258599366639201,
+                "bottom": 0.6032285172530365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3258599366639201,
+                "top": 0.5511836773876482,
+                "right": 0.7183314114486823,
+                "bottom": 0.6032285172530365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6638532411857163,
+                "top": 0.5511836773876482,
+                "right": 0.7183314114486823,
+                "bottom": 0.6032285172530365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.7183314114486823,
+                "top": 0.5511836773876482,
+                "right": 0.8677238935997771,
+                "bottom": 0.6032285172530365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "8373568f-aa98-4e79-94b6-35156de56b2e": {
+            "box": {
+                "left": 0.14411675930023193,
+                "top": 0.603988528251648,
+                "right": 0.8984092473983765,
+                "bottom": 0.8952003717422485
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "22469de1-5fa8-4519-9e3a-29a4970ad3ec": {
+            "box": {
+                "left": 0.15661253035068512,
+                "top": 0.8969445824623108,
+                "right": 0.5359975695610046,
+                "bottom": 0.9523405432701111
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lsww0228_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 12066,
+        "credit_usage": 3.0,
+        "job_id": "mlcifim3rmnxtgsiy3nfif3mn",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='72fa6f5c-5b40-417a-83b9-ae7e775a733d'></a>\n\nTable 8\n---\n\n<a id='313b68b2-61af-43ca-a57a-7cf3ca4e7965'></a>\n\nClinical Measurements of Possible Usefulness in Study\nof Aging in Man\n+\n\n<a id='1d4b842a-cebd-4d63-ad7d-0c7dd89510a3'></a>\n\n<table><thead><tr><th>Description</th><th>r*</th></tr></thead><tbody><tr><td>Hair greying score</td><td>0.717</td></tr><tr><td>Height</td><td>-0.532</td></tr><tr><td>Seated height</td><td>-0.53</td></tr><tr><td>Trunk height</td><td>-0.34</td></tr><tr><td>Biacromial diameter</td><td>-0.40</td></tr><tr><td>Skin thickness</td><td></td></tr><tr><td>Skin elasticity</td><td>0.604</td></tr><tr><td>Thorax size</td><td>-0.124</td></tr><tr><td>Systolic blood pressure</td><td>0.519</td></tr><tr><td>Diastolic blood pressure</td><td>0.409</td></tr><tr><td>Total vital capacity</td><td>-0.402</td></tr><tr><td>Tidal volume</td><td></td></tr><tr><td>One-second expiratory volume</td><td>-0.126</td></tr></tbody></table>\n\n<a id='84ce8e83-5639-46ee-82b1-7d863ea51411'></a>\n\n* coefficients of correlation reported in selected references\n+ adapted from A. Comfort, Test-battery to Measure Aging-rate in Man, Lancet II, 1411, 1969.\n\n<a id='452f54b3-e9e9-4c6b-9777-a1cfa774e72a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qnwd0227",
+    "chunks": [
+        {
+            "markdown": "<a id='72fa6f5c-5b40-417a-83b9-ae7e775a733d'></a>\n\nTable 8\n---",
+            "type": "text",
+            "id": "72fa6f5c-5b40-417a-83b9-ae7e775a733d",
+            "grounding": {
+                "box": {
+                    "left": 0.467307984828949,
+                    "top": 0.07192183285951614,
+                    "right": 0.5611435770988464,
+                    "bottom": 0.09772538393735886
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='313b68b2-61af-43ca-a57a-7cf3ca4e7965'></a>\n\nClinical Measurements of Possible Usefulness in Study\nof Aging in Man\n+",
+            "type": "text",
+            "id": "313b68b2-61af-43ca-a57a-7cf3ca4e7965",
+            "grounding": {
+                "box": {
+                    "left": 0.20522800087928772,
+                    "top": 0.127012237906456,
+                    "right": 0.797385573387146,
+                    "bottom": 0.18170185387134552
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1d4b842a-cebd-4d63-ad7d-0c7dd89510a3'></a>\n\n<table><thead><tr><th>Description</th><th>r*</th></tr></thead><tbody><tr><td>Hair greying score</td><td>0.717</td></tr><tr><td>Height</td><td>-0.532</td></tr><tr><td>Seated height</td><td>-0.53</td></tr><tr><td>Trunk height</td><td>-0.34</td></tr><tr><td>Biacromial diameter</td><td>-0.40</td></tr><tr><td>Skin thickness</td><td></td></tr><tr><td>Skin elasticity</td><td>0.604</td></tr><tr><td>Thorax size</td><td>-0.124</td></tr><tr><td>Systolic blood pressure</td><td>0.519</td></tr><tr><td>Diastolic blood pressure</td><td>0.409</td></tr><tr><td>Total vital capacity</td><td>-0.402</td></tr><tr><td>Tidal volume</td><td></td></tr><tr><td>One-second expiratory volume</td><td>-0.126</td></tr></tbody></table>",
+            "type": "table",
+            "id": "1d4b842a-cebd-4d63-ad7d-0c7dd89510a3",
+            "grounding": {
+                "box": {
+                    "left": 0.2032042145729065,
+                    "top": 0.18615573644638062,
+                    "right": 0.7986848950386047,
+                    "bottom": 0.44193321466445923
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='84ce8e83-5639-46ee-82b1-7d863ea51411'></a>\n\n* coefficients of correlation reported in selected references\n+ adapted from A. Comfort, Test-battery to Measure Aging-rate in Man, Lancet II, 1411, 1969.",
+            "type": "text",
+            "id": "84ce8e83-5639-46ee-82b1-7d863ea51411",
+            "grounding": {
+                "box": {
+                    "left": 0.16106271743774414,
+                    "top": 0.46160972118377686,
+                    "right": 0.8418909311294556,
+                    "bottom": 0.5298711061477661
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='452f54b3-e9e9-4c6b-9777-a1cfa774e72a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qnwd0227",
+            "type": "marginalia",
+            "id": "452f54b3-e9e9-4c6b-9777-a1cfa774e72a",
+            "grounding": {
+                "box": {
+                    "left": 0.23260346055030823,
+                    "top": 0.9761756062507629,
+                    "right": 0.7696939706802368,
+                    "bottom": 0.9999354481697083
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='72fa6f5c-5b40-417a-83b9-ae7e775a733d'></a>\n\nTable 8\n---\n\n<a id='313b68b2-61af-43ca-a57a-7cf3ca4e7965'></a>\n\nClinical Measurements of Possible Usefulness in Study\nof Aging in Man\n+\n\n<a id='1d4b842a-cebd-4d63-ad7d-0c7dd89510a3'></a>\n\n<table><thead><tr><th>Description</th><th>r*</th></tr></thead><tbody><tr><td>Hair greying score</td><td>0.717</td></tr><tr><td>Height</td><td>-0.532</td></tr><tr><td>Seated height</td><td>-0.53</td></tr><tr><td>Trunk height</td><td>-0.34</td></tr><tr><td>Biacromial diameter</td><td>-0.40</td></tr><tr><td>Skin thickness</td><td></td></tr><tr><td>Skin elasticity</td><td>0.604</td></tr><tr><td>Thorax size</td><td>-0.124</td></tr><tr><td>Systolic blood pressure</td><td>0.519</td></tr><tr><td>Diastolic blood pressure</td><td>0.409</td></tr><tr><td>Total vital capacity</td><td>-0.402</td></tr><tr><td>Tidal volume</td><td></td></tr><tr><td>One-second expiratory volume</td><td>-0.126</td></tr></tbody></table>\n\n<a id='84ce8e83-5639-46ee-82b1-7d863ea51411'></a>\n\n* coefficients of correlation reported in selected references\n+ adapted from A. Comfort, Test-battery to Measure Aging-rate in Man, Lancet II, 1411, 1969.\n\n<a id='452f54b3-e9e9-4c6b-9777-a1cfa774e72a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qnwd0227",
+            "chunks": [
+                "72fa6f5c-5b40-417a-83b9-ae7e775a733d",
+                "313b68b2-61af-43ca-a57a-7cf3ca4e7965",
+                "1d4b842a-cebd-4d63-ad7d-0c7dd89510a3",
+                "84ce8e83-5639-46ee-82b1-7d863ea51411",
+                "452f54b3-e9e9-4c6b-9777-a1cfa774e72a"
+            ]
+        }
+    ],
+    "grounding": {
+        "72fa6f5c-5b40-417a-83b9-ae7e775a733d": {
+            "box": {
+                "left": 0.467307984828949,
+                "top": 0.07192183285951614,
+                "right": 0.5611435770988464,
+                "bottom": 0.09772538393735886
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "313b68b2-61af-43ca-a57a-7cf3ca4e7965": {
+            "box": {
+                "left": 0.20522800087928772,
+                "top": 0.127012237906456,
+                "right": 0.797385573387146,
+                "bottom": 0.18170185387134552
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1d4b842a-cebd-4d63-ad7d-0c7dd89510a3": {
+            "box": {
+                "left": 0.2032042145729065,
+                "top": 0.18615573644638062,
+                "right": 0.7986848950386047,
+                "bottom": 0.44193321466445923
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "84ce8e83-5639-46ee-82b1-7d863ea51411": {
+            "box": {
+                "left": 0.16106271743774414,
+                "top": 0.46160972118377686,
+                "right": 0.8418909311294556,
+                "bottom": 0.5298711061477661
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "452f54b3-e9e9-4c6b-9777-a1cfa774e72a": {
+            "box": {
+                "left": 0.23260346055030823,
+                "top": 0.9761756062507629,
+                "right": 0.7696939706802368,
+                "bottom": 0.9999354481697083
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "qnwd0227_25.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4031,
+        "credit_usage": 3.0,
+        "job_id": "b0aminfjxxavbzp1pcvxqqerj",
+        "version": "dpt-2-20250919"
+    }
+}

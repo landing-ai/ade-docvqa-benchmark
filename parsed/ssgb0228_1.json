@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='3f4bf171-797e-4112-99a7-ff65afc81d7d'></a>\n\n<::logo: Unknown\nNF\nThe logo displays the stylized letters \"NF\" in a light color, encircled within a dark square background.::>\n\n<a id='f07dc91d-ef80-425b-8711-adc4f42c6e42'></a>\n\nTHE NUTRITION FOUNDATION, INC.\nNINETY-NINE PARK AVENUE NEW YORK, N.Y. 10016 212-687-4830\n\n<a id='0e833e29-8caf-44f5-ac51-4800cd787cfa'></a>\n\nFOOD INDUSTRIES ADVISORY COMMITTEE\n\n1967 Meeting\nSkytop Lodge, Skytop, Pennsylvania\n\n<a id='e3d093b0-9c7c-455c-878a-019485ebc9ad'></a>\n\nYour reservation has been entered as follows:\n\nDouble room: Dr. & Mrs. William J. Darby\n\nArrival: June 7, 1967\n\nDeparture: June 9, 1967\n\n<a id='356f0b9f-c050-439b-adf4-964da5f10cce'></a>\n\nTHE NUTRITION FOUNDATION, INC.\n\n<a id='4e427dc9-5f18-4110-89d3-a5f3b2858332'></a>\n\nPLEASE NOTE: Our reception for speakers, Committee\nmembers and guests, scheduled for\n6:00-7:00 P.M., Wednesday, June 7th,\nwill be held in the Library of Skytop\nLodge.\n\n<a id='e0d14451-5792-4988-aefb-a5f27dd34854'></a>\n\nHorace L. Sipple\n\n<a id='43b4df90-af15-430a-92d3-ed86d131f6c2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ssgb0228",
+    "chunks": [
+        {
+            "markdown": "<a id='3f4bf171-797e-4112-99a7-ff65afc81d7d'></a>\n\n<::logo: Unknown\nNF\nThe logo displays the stylized letters \"NF\" in a light color, encircled within a dark square background.::>",
+            "type": "logo",
+            "id": "3f4bf171-797e-4112-99a7-ff65afc81d7d",
+            "grounding": {
+                "box": {
+                    "left": 0.10833631455898285,
+                    "top": 0.08694368600845337,
+                    "right": 0.21365787088871002,
+                    "bottom": 0.15562647581100464
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f07dc91d-ef80-425b-8711-adc4f42c6e42'></a>\n\nTHE NUTRITION FOUNDATION, INC.\nNINETY-NINE PARK AVENUE NEW YORK, N.Y. 10016 212-687-4830",
+            "type": "text",
+            "id": "f07dc91d-ef80-425b-8711-adc4f42c6e42",
+            "grounding": {
+                "box": {
+                    "left": 0.2781149446964264,
+                    "top": 0.11539074778556824,
+                    "right": 0.8841755390167236,
+                    "bottom": 0.15204820036888123
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0e833e29-8caf-44f5-ac51-4800cd787cfa'></a>\n\nFOOD INDUSTRIES ADVISORY COMMITTEE\n\n1967 Meeting\nSkytop Lodge, Skytop, Pennsylvania",
+            "type": "text",
+            "id": "0e833e29-8caf-44f5-ac51-4800cd787cfa",
+            "grounding": {
+                "box": {
+                    "left": 0.21555563807487488,
+                    "top": 0.2484317570924759,
+                    "right": 0.7419735193252563,
+                    "bottom": 0.3337647318840027
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e3d093b0-9c7c-455c-878a-019485ebc9ad'></a>\n\nYour reservation has been entered as follows:\n\nDouble room: Dr. & Mrs. William J. Darby\n\nArrival: June 7, 1967\n\nDeparture: June 9, 1967",
+            "type": "text",
+            "id": "e3d093b0-9c7c-455c-878a-019485ebc9ad",
+            "grounding": {
+                "box": {
+                    "left": 0.09985274076461792,
+                    "top": 0.362823486328125,
+                    "right": 0.8853260278701782,
+                    "bottom": 0.5138917565345764
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='356f0b9f-c050-439b-adf4-964da5f10cce'></a>\n\nTHE NUTRITION FOUNDATION, INC.",
+            "type": "text",
+            "id": "356f0b9f-c050-439b-adf4-964da5f10cce",
+            "grounding": {
+                "box": {
+                    "left": 0.3519156575202942,
+                    "top": 0.5361407995223999,
+                    "right": 0.8073500990867615,
+                    "bottom": 0.5681920051574707
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4e427dc9-5f18-4110-89d3-a5f3b2858332'></a>\n\nPLEASE NOTE: Our reception for speakers, Committee\nmembers and guests, scheduled for\n6:00-7:00 P.M., Wednesday, June 7th,\nwill be held in the Library of Skytop\nLodge.",
+            "type": "text",
+            "id": "4e427dc9-5f18-4110-89d3-a5f3b2858332",
+            "grounding": {
+                "box": {
+                    "left": 0.09459841251373291,
+                    "top": 0.6130471229553223,
+                    "right": 0.8705747723579407,
+                    "bottom": 0.7202587127685547
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e0d14451-5792-4988-aefb-a5f27dd34854'></a>\n\nHorace L. Sipple",
+            "type": "text",
+            "id": "e0d14451-5792-4988-aefb-a5f27dd34854",
+            "grounding": {
+                "box": {
+                    "left": 0.4968239665031433,
+                    "top": 0.7325031757354736,
+                    "right": 0.7512120604515076,
+                    "bottom": 0.7596409320831299
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='43b4df90-af15-430a-92d3-ed86d131f6c2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ssgb0228",
+            "type": "text",
+            "id": "43b4df90-af15-430a-92d3-ed86d131f6c2",
+            "grounding": {
+                "box": {
+                    "left": 0.07555583119392395,
+                    "top": 0.9705768823623657,
+                    "right": 0.9241971969604492,
+                    "bottom": 0.9980471134185791
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3f4bf171-797e-4112-99a7-ff65afc81d7d'></a>\n\n<::logo: Unknown\nNF\nThe logo displays the stylized letters \"NF\" in a light color, encircled within a dark square background.::>\n\n<a id='f07dc91d-ef80-425b-8711-adc4f42c6e42'></a>\n\nTHE NUTRITION FOUNDATION, INC.\nNINETY-NINE PARK AVENUE NEW YORK, N.Y. 10016 212-687-4830\n\n<a id='0e833e29-8caf-44f5-ac51-4800cd787cfa'></a>\n\nFOOD INDUSTRIES ADVISORY COMMITTEE\n\n1967 Meeting\nSkytop Lodge, Skytop, Pennsylvania\n\n<a id='e3d093b0-9c7c-455c-878a-019485ebc9ad'></a>\n\nYour reservation has been entered as follows:\n\nDouble room: Dr. & Mrs. William J. Darby\n\nArrival: June 7, 1967\n\nDeparture: June 9, 1967\n\n<a id='356f0b9f-c050-439b-adf4-964da5f10cce'></a>\n\nTHE NUTRITION FOUNDATION, INC.\n\n<a id='4e427dc9-5f18-4110-89d3-a5f3b2858332'></a>\n\nPLEASE NOTE: Our reception for speakers, Committee\nmembers and guests, scheduled for\n6:00-7:00 P.M., Wednesday, June 7th,\nwill be held in the Library of Skytop\nLodge.\n\n<a id='e0d14451-5792-4988-aefb-a5f27dd34854'></a>\n\nHorace L. Sipple\n\n<a id='43b4df90-af15-430a-92d3-ed86d131f6c2'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ssgb0228",
+            "chunks": [
+                "3f4bf171-797e-4112-99a7-ff65afc81d7d",
+                "f07dc91d-ef80-425b-8711-adc4f42c6e42",
+                "0e833e29-8caf-44f5-ac51-4800cd787cfa",
+                "e3d093b0-9c7c-455c-878a-019485ebc9ad",
+                "356f0b9f-c050-439b-adf4-964da5f10cce",
+                "4e427dc9-5f18-4110-89d3-a5f3b2858332",
+                "e0d14451-5792-4988-aefb-a5f27dd34854",
+                "43b4df90-af15-430a-92d3-ed86d131f6c2"
+            ]
+        }
+    ],
+    "grounding": {
+        "3f4bf171-797e-4112-99a7-ff65afc81d7d": {
+            "box": {
+                "left": 0.10833631455898285,
+                "top": 0.08694368600845337,
+                "right": 0.21365787088871002,
+                "bottom": 0.15562647581100464
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "f07dc91d-ef80-425b-8711-adc4f42c6e42": {
+            "box": {
+                "left": 0.2781149446964264,
+                "top": 0.11539074778556824,
+                "right": 0.8841755390167236,
+                "bottom": 0.15204820036888123
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0e833e29-8caf-44f5-ac51-4800cd787cfa": {
+            "box": {
+                "left": 0.21555563807487488,
+                "top": 0.2484317570924759,
+                "right": 0.7419735193252563,
+                "bottom": 0.3337647318840027
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e3d093b0-9c7c-455c-878a-019485ebc9ad": {
+            "box": {
+                "left": 0.09985274076461792,
+                "top": 0.362823486328125,
+                "right": 0.8853260278701782,
+                "bottom": 0.5138917565345764
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "356f0b9f-c050-439b-adf4-964da5f10cce": {
+            "box": {
+                "left": 0.3519156575202942,
+                "top": 0.5361407995223999,
+                "right": 0.8073500990867615,
+                "bottom": 0.5681920051574707
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4e427dc9-5f18-4110-89d3-a5f3b2858332": {
+            "box": {
+                "left": 0.09459841251373291,
+                "top": 0.6130471229553223,
+                "right": 0.8705747723579407,
+                "bottom": 0.7202587127685547
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e0d14451-5792-4988-aefb-a5f27dd34854": {
+            "box": {
+                "left": 0.4968239665031433,
+                "top": 0.7325031757354736,
+                "right": 0.7512120604515076,
+                "bottom": 0.7596409320831299
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "43b4df90-af15-430a-92d3-ed86d131f6c2": {
+            "box": {
+                "left": 0.07555583119392395,
+                "top": 0.9705768823623657,
+                "right": 0.9241971969604492,
+                "bottom": 0.9980471134185791
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "ssgb0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9229,
+        "credit_usage": 3.0,
+        "job_id": "iokz5l9adqk5r7up7zywudx9a",
+        "version": "dpt-2-20250919"
+    }
+}

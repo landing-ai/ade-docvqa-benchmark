@@ -1,0 +1,673 @@
+{
+    "markdown": "<a id='fe6e789e-f73c-4b75-9c5a-aff9a8af925c'></a>\n\nApril 13-16, 1980\nFASEB\n\n<a id='76e5cd13-0f3c-4ed6-841e-cb49994f7fde'></a>\n\n<::attestation: Stamp\nReadable Text: FASEB\nRectangular stamp with textured edges, centered::>\n\n<a id='783bf32c-fc83-406c-8a80-8ff34cd9cd16'></a>\n\nFEDERATION OF AMERICAN SOCIETIES FOR EXPERIMENTAL BIOLOGY\n9650 ROCKVILLE PIKE, BETHESDA, MARYLAND 20014\n\n<a id='ddcd8648-88ad-4518-8d5c-866a2d5c2917'></a>\n\n74987\n\n<a id='a2e57b21-0b45-4fe0-9729-e441534ab7e3'></a>\n\n65-320\n550 \u00b0\n\n<a id='dfd67965-1547-49ae-bfb3-6bb99a8be03d'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE</td><td id=\"0-3\">CHECK NO.</td><td id=\"0-4\">AMOUNT</td></tr>\n<tr><td id=\"0-5\">JUN 30 80</td><td id=\"0-6\">74,987</td><td id=\"0-7\">$ 461.00</td></tr>\n</table>\n\n<a id='2cde696a-ddfc-4866-ae5d-1e56cddd8bba'></a>\n\nPAY TO\nTHE\nORDER\nOF\n\nWILLIAM J DARBY\nTHE NUTRITION FNDN INC.\n489 5TH AVENUE\nNEW YORK N.Y. 10017\n\n<a id='4b0d2323-7a6c-48b1-a011-59996353b571'></a>\n\nSNB\nState National Bank\nROCKVILLE, MARYLAND 20852\n\nThe sum of 46 [illegible] 00 cts\n\n<a id='34284da8-48bb-42a5-b925-5610ea846a3c'></a>\n\n<::attestation: Signature\nStatus: Authorized\nSignature: John R. Rice\nReadable Text: AUTHORIZED SIGNATURE\nDescription: Handwritten signature centered above the text 'AUTHORIZED SIGNATURE'.::>\n\n<a id='6e3b08b7-718f-4e4e-9e43-85565844d473'></a>\n\n\u0000:0550...03201: \"000...066 3\"\n\n<a id='406abfd4-a403-414b-9dc7-0dcbdbd4f2d4'></a>\n\n<table id=\"0-8\">\n<tr><td id=\"0-9\">DATE</td><td id=\"0-a\">DESCRIPTION</td><td id=\"0-b\">AMOUNT</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\"></td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">JUN 30 80</td><td id=\"0-s\">REIMBURSEMENT TRAVEL EXPENSE PER LETTE</td><td id=\"0-t\">R</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">JUNE 18 1980</td><td id=\"0-w\">461.0</td></tr>\n</table>\n\n<a id='d3c14985-5b95-4729-9bbf-aeee21e19a66'></a>\n\nFASEB\nFEDERATION OF AMERICAN SOCIETIES\nFOR EXPERIMENTAL BIOLOGY\n9650 ROCKVILLE PIKE. BETHESDA, MARYLAND 20014\n\n<a id='381c14f8-161a-4376-be65-61061465949d'></a>\n\nREMITTANCE ADVICE\nPLEASE DETACH THIS STUB BEFORE DEPOSITING CHECK",
+    "chunks": [
+        {
+            "markdown": "<a id='fe6e789e-f73c-4b75-9c5a-aff9a8af925c'></a>\n\nApril 13-16, 1980\nFASEB",
+            "type": "text",
+            "id": "fe6e789e-f73c-4b75-9c5a-aff9a8af925c",
+            "grounding": {
+                "box": {
+                    "left": 0.7782121896743774,
+                    "top": 0.026677798479795456,
+                    "right": 0.9704983234405518,
+                    "bottom": 0.07739764451980591
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='76e5cd13-0f3c-4ed6-841e-cb49994f7fde'></a>\n\n<::attestation: Stamp\nReadable Text: FASEB\nRectangular stamp with textured edges, centered::>",
+            "type": "attestation",
+            "id": "76e5cd13-0f3c-4ed6-841e-cb49994f7fde",
+            "grounding": {
+                "box": {
+                    "left": 0.07131962478160858,
+                    "top": 0.28112518787384033,
+                    "right": 0.18094395101070404,
+                    "bottom": 0.3350266218185425
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='783bf32c-fc83-406c-8a80-8ff34cd9cd16'></a>\n\nFEDERATION OF AMERICAN SOCIETIES FOR EXPERIMENTAL BIOLOGY\n9650 ROCKVILLE PIKE, BETHESDA, MARYLAND 20014",
+            "type": "text",
+            "id": "783bf32c-fc83-406c-8a80-8ff34cd9cd16",
+            "grounding": {
+                "box": {
+                    "left": 0.19468611478805542,
+                    "top": 0.28941723704338074,
+                    "right": 0.6397473216056824,
+                    "bottom": 0.3305394947528839
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ddcd8648-88ad-4518-8d5c-866a2d5c2917'></a>\n\n74987",
+            "type": "text",
+            "id": "ddcd8648-88ad-4518-8d5c-866a2d5c2917",
+            "grounding": {
+                "box": {
+                    "left": 0.8543798327445984,
+                    "top": 0.28632715344429016,
+                    "right": 0.9398927092552185,
+                    "bottom": 0.3095357120037079
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a2e57b21-0b45-4fe0-9729-e441534ab7e3'></a>\n\n65-320\n550 \u00b0",
+            "type": "text",
+            "id": "a2e57b21-0b45-4fe0-9729-e441534ab7e3",
+            "grounding": {
+                "box": {
+                    "left": 0.9093806743621826,
+                    "top": 0.3254539668560028,
+                    "right": 0.9870098829269409,
+                    "bottom": 0.3504432141780853
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dfd67965-1547-49ae-bfb3-6bb99a8be03d'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE</td><td id=\"0-3\">CHECK NO.</td><td id=\"0-4\">AMOUNT</td></tr>\n<tr><td id=\"0-5\">JUN 30 80</td><td id=\"0-6\">74,987</td><td id=\"0-7\">$ 461.00</td></tr>\n</table>",
+            "type": "table",
+            "id": "dfd67965-1547-49ae-bfb3-6bb99a8be03d",
+            "grounding": {
+                "box": {
+                    "left": 0.597465991973877,
+                    "top": 0.3505503535270691,
+                    "right": 0.9626007080078125,
+                    "bottom": 0.4244799017906189
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2cde696a-ddfc-4866-ae5d-1e56cddd8bba'></a>\n\nPAY TO\nTHE\nORDER\nOF\n\nWILLIAM J DARBY\nTHE NUTRITION FNDN INC.\n489 5TH AVENUE\nNEW YORK N.Y. 10017",
+            "type": "text",
+            "id": "2cde696a-ddfc-4866-ae5d-1e56cddd8bba",
+            "grounding": {
+                "box": {
+                    "left": 0.06900198757648468,
+                    "top": 0.36962103843688965,
+                    "right": 0.4511685371398926,
+                    "bottom": 0.4529208540916443
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4b0d2323-7a6c-48b1-a011-59996353b571'></a>\n\nSNB\nState National Bank\nROCKVILLE, MARYLAND 20852\n\nThe sum of 46 [illegible] 00 cts",
+            "type": "text",
+            "id": "4b0d2323-7a6c-48b1-a011-59996353b571",
+            "grounding": {
+                "box": {
+                    "left": 0.07577762007713318,
+                    "top": 0.45845475792884827,
+                    "right": 0.719658613204956,
+                    "bottom": 0.5217799544334412
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='34284da8-48bb-42a5-b925-5610ea846a3c'></a>\n\n<::attestation: Signature\nStatus: Authorized\nSignature: John R. Rice\nReadable Text: AUTHORIZED SIGNATURE\nDescription: Handwritten signature centered above the text 'AUTHORIZED SIGNATURE'.::>",
+            "type": "attestation",
+            "id": "34284da8-48bb-42a5-b925-5610ea846a3c",
+            "grounding": {
+                "box": {
+                    "left": 0.7567916512489319,
+                    "top": 0.48528745770454407,
+                    "right": 0.9673529267311096,
+                    "bottom": 0.5368863940238953
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6e3b08b7-718f-4e4e-9e43-85565844d473'></a>\n\n\u0000:0550...03201: \"000...066 3\"",
+            "type": "text",
+            "id": "6e3b08b7-718f-4e4e-9e43-85565844d473",
+            "grounding": {
+                "box": {
+                    "left": 0.3272453844547272,
+                    "top": 0.5409826040267944,
+                    "right": 0.6755378246307373,
+                    "bottom": 0.5628753900527954
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='406abfd4-a403-414b-9dc7-0dcbdbd4f2d4'></a>\n\n<table id=\"0-8\">\n<tr><td id=\"0-9\">DATE</td><td id=\"0-a\">DESCRIPTION</td><td id=\"0-b\">AMOUNT</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\"></td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">JUN 30 80</td><td id=\"0-s\">REIMBURSEMENT TRAVEL EXPENSE PER LETTE</td><td id=\"0-t\">R</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">JUNE 18 1980</td><td id=\"0-w\">461.0</td></tr>\n</table>",
+            "type": "table",
+            "id": "406abfd4-a403-414b-9dc7-0dcbdbd4f2d4",
+            "grounding": {
+                "box": {
+                    "left": 0.3170488774776459,
+                    "top": 0.6008180379867554,
+                    "right": 0.9831317663192749,
+                    "bottom": 0.7297332286834717
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d3c14985-5b95-4729-9bbf-aeee21e19a66'></a>\n\nFASEB\nFEDERATION OF AMERICAN SOCIETIES\nFOR EXPERIMENTAL BIOLOGY\n9650 ROCKVILLE PIKE. BETHESDA, MARYLAND 20014",
+            "type": "text",
+            "id": "d3c14985-5b95-4729-9bbf-aeee21e19a66",
+            "grounding": {
+                "box": {
+                    "left": 0.4786539375782013,
+                    "top": 0.729028046131134,
+                    "right": 0.8320896625518799,
+                    "bottom": 0.8223152756690979
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='381c14f8-161a-4376-be65-61061465949d'></a>\n\nREMITTANCE ADVICE\nPLEASE DETACH THIS STUB BEFORE DEPOSITING CHECK",
+            "type": "text",
+            "id": "381c14f8-161a-4376-be65-61061465949d",
+            "grounding": {
+                "box": {
+                    "left": 0.43356969952583313,
+                    "top": 0.8287108540534973,
+                    "right": 0.8780624866485596,
+                    "bottom": 0.8631660342216492
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='fe6e789e-f73c-4b75-9c5a-aff9a8af925c'></a>\n\nApril 13-16, 1980\nFASEB\n\n<a id='76e5cd13-0f3c-4ed6-841e-cb49994f7fde'></a>\n\n<::attestation: Stamp\nReadable Text: FASEB\nRectangular stamp with textured edges, centered::>\n\n<a id='783bf32c-fc83-406c-8a80-8ff34cd9cd16'></a>\n\nFEDERATION OF AMERICAN SOCIETIES FOR EXPERIMENTAL BIOLOGY\n9650 ROCKVILLE PIKE, BETHESDA, MARYLAND 20014\n\n<a id='ddcd8648-88ad-4518-8d5c-866a2d5c2917'></a>\n\n74987\n\n<a id='a2e57b21-0b45-4fe0-9729-e441534ab7e3'></a>\n\n65-320\n550 \u00b0\n\n<a id='dfd67965-1547-49ae-bfb3-6bb99a8be03d'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DATE</td><td id=\"0-3\">CHECK NO.</td><td id=\"0-4\">AMOUNT</td></tr>\n<tr><td id=\"0-5\">JUN 30 80</td><td id=\"0-6\">74,987</td><td id=\"0-7\">$ 461.00</td></tr>\n</table>\n\n<a id='2cde696a-ddfc-4866-ae5d-1e56cddd8bba'></a>\n\nPAY TO\nTHE\nORDER\nOF\n\nWILLIAM J DARBY\nTHE NUTRITION FNDN INC.\n489 5TH AVENUE\nNEW YORK N.Y. 10017\n\n<a id='4b0d2323-7a6c-48b1-a011-59996353b571'></a>\n\nSNB\nState National Bank\nROCKVILLE, MARYLAND 20852\n\nThe sum of 46 [illegible] 00 cts\n\n<a id='34284da8-48bb-42a5-b925-5610ea846a3c'></a>\n\n<::attestation: Signature\nStatus: Authorized\nSignature: John R. Rice\nReadable Text: AUTHORIZED SIGNATURE\nDescription: Handwritten signature centered above the text 'AUTHORIZED SIGNATURE'.::>\n\n<a id='6e3b08b7-718f-4e4e-9e43-85565844d473'></a>\n\n\u0000:0550...03201: \"000...066 3\"\n\n<a id='406abfd4-a403-414b-9dc7-0dcbdbd4f2d4'></a>\n\n<table id=\"0-8\">\n<tr><td id=\"0-9\">DATE</td><td id=\"0-a\">DESCRIPTION</td><td id=\"0-b\">AMOUNT</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\"></td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\"></td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">JUN 30 80</td><td id=\"0-s\">REIMBURSEMENT TRAVEL EXPENSE PER LETTE</td><td id=\"0-t\">R</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">JUNE 18 1980</td><td id=\"0-w\">461.0</td></tr>\n</table>\n\n<a id='d3c14985-5b95-4729-9bbf-aeee21e19a66'></a>\n\nFASEB\nFEDERATION OF AMERICAN SOCIETIES\nFOR EXPERIMENTAL BIOLOGY\n9650 ROCKVILLE PIKE. BETHESDA, MARYLAND 20014\n\n<a id='381c14f8-161a-4376-be65-61061465949d'></a>\n\nREMITTANCE ADVICE\nPLEASE DETACH THIS STUB BEFORE DEPOSITING CHECK",
+            "chunks": [
+                "fe6e789e-f73c-4b75-9c5a-aff9a8af925c",
+                "76e5cd13-0f3c-4ed6-841e-cb49994f7fde",
+                "783bf32c-fc83-406c-8a80-8ff34cd9cd16",
+                "ddcd8648-88ad-4518-8d5c-866a2d5c2917",
+                "a2e57b21-0b45-4fe0-9729-e441534ab7e3",
+                "dfd67965-1547-49ae-bfb3-6bb99a8be03d",
+                "2cde696a-ddfc-4866-ae5d-1e56cddd8bba",
+                "4b0d2323-7a6c-48b1-a011-59996353b571",
+                "34284da8-48bb-42a5-b925-5610ea846a3c",
+                "6e3b08b7-718f-4e4e-9e43-85565844d473",
+                "406abfd4-a403-414b-9dc7-0dcbdbd4f2d4",
+                "d3c14985-5b95-4729-9bbf-aeee21e19a66",
+                "381c14f8-161a-4376-be65-61061465949d"
+            ]
+        }
+    ],
+    "grounding": {
+        "fe6e789e-f73c-4b75-9c5a-aff9a8af925c": {
+            "box": {
+                "left": 0.7782121896743774,
+                "top": 0.026677798479795456,
+                "right": 0.9704983234405518,
+                "bottom": 0.07739764451980591
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "76e5cd13-0f3c-4ed6-841e-cb49994f7fde": {
+            "box": {
+                "left": 0.07131962478160858,
+                "top": 0.28112518787384033,
+                "right": 0.18094395101070404,
+                "bottom": 0.3350266218185425
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "783bf32c-fc83-406c-8a80-8ff34cd9cd16": {
+            "box": {
+                "left": 0.19468611478805542,
+                "top": 0.28941723704338074,
+                "right": 0.6397473216056824,
+                "bottom": 0.3305394947528839
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ddcd8648-88ad-4518-8d5c-866a2d5c2917": {
+            "box": {
+                "left": 0.8543798327445984,
+                "top": 0.28632715344429016,
+                "right": 0.9398927092552185,
+                "bottom": 0.3095357120037079
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a2e57b21-0b45-4fe0-9729-e441534ab7e3": {
+            "box": {
+                "left": 0.9093806743621826,
+                "top": 0.3254539668560028,
+                "right": 0.9870098829269409,
+                "bottom": 0.3504432141780853
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dfd67965-1547-49ae-bfb3-6bb99a8be03d": {
+            "box": {
+                "left": 0.597465991973877,
+                "top": 0.3505503535270691,
+                "right": 0.9626007080078125,
+                "bottom": 0.4244799017906189
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.6031923198029885,
+                "top": 0.354290468454324,
+                "right": 0.9551142477572512,
+                "bottom": 0.4200833073053616
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.6031923198029885,
+                "top": 0.354290468454324,
+                "right": 0.7065683617609722,
+                "bottom": 0.3664844678776511
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.7065683617609722,
+                "top": 0.354290468454324,
+                "right": 0.814767928705777,
+                "bottom": 0.3664844678776511
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.814767928705777,
+                "top": 0.354290468454324,
+                "right": 0.9560009236792837,
+                "bottom": 0.3664844678776511
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6031923198029885,
+                "top": 0.3664844678776511,
+                "right": 0.7065683617609722,
+                "bottom": 0.4200833073053616
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.7065683617609722,
+                "top": 0.3664844678776511,
+                "right": 0.814767928705777,
+                "bottom": 0.4200833073053616
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.814767928705777,
+                "top": 0.3664844678776511,
+                "right": 0.9560009236792837,
+                "bottom": 0.4200833073053616
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "2cde696a-ddfc-4866-ae5d-1e56cddd8bba": {
+            "box": {
+                "left": 0.06900198757648468,
+                "top": 0.36962103843688965,
+                "right": 0.4511685371398926,
+                "bottom": 0.4529208540916443
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4b0d2323-7a6c-48b1-a011-59996353b571": {
+            "box": {
+                "left": 0.07577762007713318,
+                "top": 0.45845475792884827,
+                "right": 0.719658613204956,
+                "bottom": 0.5217799544334412
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "34284da8-48bb-42a5-b925-5610ea846a3c": {
+            "box": {
+                "left": 0.7567916512489319,
+                "top": 0.48528745770454407,
+                "right": 0.9673529267311096,
+                "bottom": 0.5368863940238953
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "6e3b08b7-718f-4e4e-9e43-85565844d473": {
+            "box": {
+                "left": 0.3272453844547272,
+                "top": 0.5409826040267944,
+                "right": 0.6755378246307373,
+                "bottom": 0.5628753900527954
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "406abfd4-a403-414b-9dc7-0dcbdbd4f2d4": {
+            "box": {
+                "left": 0.3170488774776459,
+                "top": 0.6008180379867554,
+                "right": 0.9831317663192749,
+                "bottom": 0.7297332286834717
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.32425445729972996,
+                "top": 0.6106911474269747,
+                "right": 0.9801965848174721,
+                "bottom": 0.7206566464985258
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.32425445729972996,
+                "top": 0.6106911474269747,
+                "right": 0.42278866105724155,
+                "bottom": 0.6228421621097588
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.42278866105724155,
+                "top": 0.6106911474269747,
+                "right": 0.86781531339747,
+                "bottom": 0.6228421621097588
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.86781531339747,
+                "top": 0.6106911474269747,
+                "right": 0.9795937949087481,
+                "bottom": 0.6228421621097588
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.32425445729972996,
+                "top": 0.6228421621097588,
+                "right": 0.42278866105724155,
+                "bottom": 0.6380929125184593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.42278866105724155,
+                "top": 0.6228421621097588,
+                "right": 0.86781531339747,
+                "bottom": 0.6380929125184593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.86781531339747,
+                "top": 0.6228421621097588,
+                "right": 0.9795937949087481,
+                "bottom": 0.6380929125184593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.32425445729972996,
+                "top": 0.6380929125184593,
+                "right": 0.42278866105724155,
+                "bottom": 0.6532323955739301
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.42278866105724155,
+                "top": 0.6380929125184593,
+                "right": 0.86781531339747,
+                "bottom": 0.6532323955739301
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.86781531339747,
+                "top": 0.6380929125184593,
+                "right": 0.9795937949087481,
+                "bottom": 0.6532323955739301
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.32425445729972996,
+                "top": 0.6532323955739301,
+                "right": 0.42278866105724155,
+                "bottom": 0.6680794123472538
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.42278866105724155,
+                "top": 0.6532323955739301,
+                "right": 0.86781531339747,
+                "bottom": 0.6680794123472538
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.86781531339747,
+                "top": 0.6532323955739301,
+                "right": 0.9795937949087481,
+                "bottom": 0.6680794123472538
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.32425445729972996,
+                "top": 0.6680794123472538,
+                "right": 0.42278866105724155,
+                "bottom": 0.6830375235850639
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.42278866105724155,
+                "top": 0.6680794123472538,
+                "right": 0.86781531339747,
+                "bottom": 0.6830375235850639
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.86781531339747,
+                "top": 0.6680794123472538,
+                "right": 0.9795937949087481,
+                "bottom": 0.6830375235850639
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.32425445729972996,
+                "top": 0.6830375235850639,
+                "right": 0.42278866105724155,
+                "bottom": 0.6981889859094608
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.42278866105724155,
+                "top": 0.6830375235850639,
+                "right": 0.86781531339747,
+                "bottom": 0.6981889859094608
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.86781531339747,
+                "top": 0.6830375235850639,
+                "right": 0.9795937949087481,
+                "bottom": 0.6981889859094608
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.32425445729972996,
+                "top": 0.6981889859094608,
+                "right": 0.42278866105724155,
+                "bottom": 0.7131492717034646
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.42278866105724155,
+                "top": 0.6981889859094608,
+                "right": 0.86781531339747,
+                "bottom": 0.7131492717034646
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.86781531339747,
+                "top": 0.6981889859094608,
+                "right": 0.9795937949087481,
+                "bottom": 0.7131492717034646
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.32425445729972996,
+                "top": 0.7131492717034646,
+                "right": 0.42278866105724155,
+                "bottom": 0.7206566464985258
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.42278866105724155,
+                "top": 0.7131492717034646,
+                "right": 0.86781531339747,
+                "bottom": 0.7206566464985258
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.86781531339747,
+                "top": 0.7131492717034646,
+                "right": 0.9795937949087481,
+                "bottom": 0.7206566464985258
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "d3c14985-5b95-4729-9bbf-aeee21e19a66": {
+            "box": {
+                "left": 0.4786539375782013,
+                "top": 0.729028046131134,
+                "right": 0.8320896625518799,
+                "bottom": 0.8223152756690979
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "381c14f8-161a-4376-be65-61061465949d": {
+            "box": {
+                "left": 0.43356969952583313,
+                "top": 0.8287108540534973,
+                "right": 0.8780624866485596,
+                "bottom": 0.8631660342216492
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qlkp0227_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7354,
+        "credit_usage": 3.0,
+        "job_id": "lmcn6usbejvrn7w2s0ij2gszi",
+        "version": "dpt-2-20250919"
+    }
+}

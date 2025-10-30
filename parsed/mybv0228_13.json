@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='f3d56c6a-e7dd-496b-95e5-96a3affa5d07'></a>\n\nWEEKLY DIET [ML] CONSUMED BY CONTROL [C], THIAMINE DEFICIENT [TD],\nETHANOL-FED [ET], AND [TD + ET] GROUPS: * FOOD PROVIDED AD LIB\n\n<a id='ae2c8f8e-4e75-43cc-a249-aa0eb98ef1b8'></a>\n\n<::Line chart showing Diet Consumed (MLS) on the y-axis versus Weeks of Consumption on the x-axis. The y-axis ranges from 0 to 200 MLS, with major ticks at 50, 100, 150, and 200. The x-axis ranges from 1 to 5 weeks, with major ticks at each week. Four lines are plotted, each representing a different group, with error bars indicating variability. A legend identifies the groups:\n- C: solid circle\n- TD: open circle\n- ET: solid triangle\n- TD + ET: open triangle\n\nData points and trends:\n- **C (solid circle)**: Starts around 148 MLS at Week 1, remains stable until Week 2, then gradually decreases to approximately 130 MLS by Week 5.\n- **TD (open circle)**: Starts around 105 MLS at Week 1, peaks at approximately 137 MLS at Week 2, then sharply declines to about 21 MLS at Week 4, and slightly increases to around 27 MLS at Week 5.\n- **ET (solid triangle)**: Starts around 61 MLS at Week 1, steadily increases to approximately 99 MLS at Week 4, and then slightly increases to about 107 MLS at Week 5.\n- **TD + ET (open triangle)**: Starts around 67 MLS at Week 1, increases to approximately 82 MLS at Week 2, remains stable at Week 3, then declines to about 57 MLS at Week 4, and further declines to around 39 MLS at Week 5.\n: chart::>\n\n<a id='52e0b76e-4708-470d-813b-927bdfba3e26'></a>\n\n* Expressed as mean \u0013 S.E.\n\n<a id='12aac1f3-0263-4ebc-afab-71639004d68d'></a>\n\nFigure 1\n\n<a id='6b6ff97b-8a2a-4fa0-aa97-753e19b9896a'></a>\n\n12\n\n<a id='ecd755df-e1c6-4d5a-baa1-6b17c0711add'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/myby0228",
+    "chunks": [
+        {
+            "markdown": "<a id='f3d56c6a-e7dd-496b-95e5-96a3affa5d07'></a>\n\nWEEKLY DIET [ML] CONSUMED BY CONTROL [C], THIAMINE DEFICIENT [TD],\nETHANOL-FED [ET], AND [TD + ET] GROUPS: * FOOD PROVIDED AD LIB",
+            "type": "text",
+            "id": "f3d56c6a-e7dd-496b-95e5-96a3affa5d07",
+            "grounding": {
+                "box": {
+                    "left": 0.07852095365524292,
+                    "top": 0.12981542944908142,
+                    "right": 0.906514585018158,
+                    "bottom": 0.1840362250804901
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ae2c8f8e-4e75-43cc-a249-aa0eb98ef1b8'></a>\n\n<::Line chart showing Diet Consumed (MLS) on the y-axis versus Weeks of Consumption on the x-axis. The y-axis ranges from 0 to 200 MLS, with major ticks at 50, 100, 150, and 200. The x-axis ranges from 1 to 5 weeks, with major ticks at each week. Four lines are plotted, each representing a different group, with error bars indicating variability. A legend identifies the groups:\n- C: solid circle\n- TD: open circle\n- ET: solid triangle\n- TD + ET: open triangle\n\nData points and trends:\n- **C (solid circle)**: Starts around 148 MLS at Week 1, remains stable until Week 2, then gradually decreases to approximately 130 MLS by Week 5.\n- **TD (open circle)**: Starts around 105 MLS at Week 1, peaks at approximately 137 MLS at Week 2, then sharply declines to about 21 MLS at Week 4, and slightly increases to around 27 MLS at Week 5.\n- **ET (solid triangle)**: Starts around 61 MLS at Week 1, steadily increases to approximately 99 MLS at Week 4, and then slightly increases to about 107 MLS at Week 5.\n- **TD + ET (open triangle)**: Starts around 67 MLS at Week 1, increases to approximately 82 MLS at Week 2, remains stable at Week 3, then declines to about 57 MLS at Week 4, and further declines to around 39 MLS at Week 5.\n: chart::>",
+            "type": "figure",
+            "id": "ae2c8f8e-4e75-43cc-a249-aa0eb98ef1b8",
+            "grounding": {
+                "box": {
+                    "left": 0.0548977255821228,
+                    "top": 0.22468790411949158,
+                    "right": 0.8293046355247498,
+                    "bottom": 0.821465253829956
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='52e0b76e-4708-470d-813b-927bdfba3e26'></a>\n\n* Expressed as mean \u0013 S.E.",
+            "type": "text",
+            "id": "52e0b76e-4708-470d-813b-927bdfba3e26",
+            "grounding": {
+                "box": {
+                    "left": 0.1373128741979599,
+                    "top": 0.8402305245399475,
+                    "right": 0.3627440929412842,
+                    "bottom": 0.8616513609886169
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='12aac1f3-0263-4ebc-afab-71639004d68d'></a>\n\nFigure 1",
+            "type": "text",
+            "id": "12aac1f3-0263-4ebc-afab-71639004d68d",
+            "grounding": {
+                "box": {
+                    "left": 0.1913437396287918,
+                    "top": 0.8755151629447937,
+                    "right": 0.2823754549026489,
+                    "bottom": 0.9020993113517761
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6b6ff97b-8a2a-4fa0-aa97-753e19b9896a'></a>\n\n12",
+            "type": "marginalia",
+            "id": "6b6ff97b-8a2a-4fa0-aa97-753e19b9896a",
+            "grounding": {
+                "box": {
+                    "left": 0.4429047703742981,
+                    "top": 0.8993704319000244,
+                    "right": 0.4747183918952942,
+                    "bottom": 0.9221630096435547
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ecd755df-e1c6-4d5a-baa1-6b17c0711add'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/myby0228",
+            "type": "text",
+            "id": "ecd755df-e1c6-4d5a-baa1-6b17c0711add",
+            "grounding": {
+                "box": {
+                    "left": 0.21187371015548706,
+                    "top": 0.9755833745002747,
+                    "right": 0.7857639193534851,
+                    "bottom": 0.9998371005058289
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='f3d56c6a-e7dd-496b-95e5-96a3affa5d07'></a>\n\nWEEKLY DIET [ML] CONSUMED BY CONTROL [C], THIAMINE DEFICIENT [TD],\nETHANOL-FED [ET], AND [TD + ET] GROUPS: * FOOD PROVIDED AD LIB\n\n<a id='ae2c8f8e-4e75-43cc-a249-aa0eb98ef1b8'></a>\n\n<::Line chart showing Diet Consumed (MLS) on the y-axis versus Weeks of Consumption on the x-axis. The y-axis ranges from 0 to 200 MLS, with major ticks at 50, 100, 150, and 200. The x-axis ranges from 1 to 5 weeks, with major ticks at each week. Four lines are plotted, each representing a different group, with error bars indicating variability. A legend identifies the groups:\n- C: solid circle\n- TD: open circle\n- ET: solid triangle\n- TD + ET: open triangle\n\nData points and trends:\n- **C (solid circle)**: Starts around 148 MLS at Week 1, remains stable until Week 2, then gradually decreases to approximately 130 MLS by Week 5.\n- **TD (open circle)**: Starts around 105 MLS at Week 1, peaks at approximately 137 MLS at Week 2, then sharply declines to about 21 MLS at Week 4, and slightly increases to around 27 MLS at Week 5.\n- **ET (solid triangle)**: Starts around 61 MLS at Week 1, steadily increases to approximately 99 MLS at Week 4, and then slightly increases to about 107 MLS at Week 5.\n- **TD + ET (open triangle)**: Starts around 67 MLS at Week 1, increases to approximately 82 MLS at Week 2, remains stable at Week 3, then declines to about 57 MLS at Week 4, and further declines to around 39 MLS at Week 5.\n: chart::>\n\n<a id='52e0b76e-4708-470d-813b-927bdfba3e26'></a>\n\n* Expressed as mean \u0013 S.E.\n\n<a id='12aac1f3-0263-4ebc-afab-71639004d68d'></a>\n\nFigure 1\n\n<a id='6b6ff97b-8a2a-4fa0-aa97-753e19b9896a'></a>\n\n12\n\n<a id='ecd755df-e1c6-4d5a-baa1-6b17c0711add'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/myby0228",
+            "chunks": [
+                "f3d56c6a-e7dd-496b-95e5-96a3affa5d07",
+                "ae2c8f8e-4e75-43cc-a249-aa0eb98ef1b8",
+                "52e0b76e-4708-470d-813b-927bdfba3e26",
+                "12aac1f3-0263-4ebc-afab-71639004d68d",
+                "6b6ff97b-8a2a-4fa0-aa97-753e19b9896a",
+                "ecd755df-e1c6-4d5a-baa1-6b17c0711add"
+            ]
+        }
+    ],
+    "grounding": {
+        "f3d56c6a-e7dd-496b-95e5-96a3affa5d07": {
+            "box": {
+                "left": 0.07852095365524292,
+                "top": 0.12981542944908142,
+                "right": 0.906514585018158,
+                "bottom": 0.1840362250804901
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ae2c8f8e-4e75-43cc-a249-aa0eb98ef1b8": {
+            "box": {
+                "left": 0.0548977255821228,
+                "top": 0.22468790411949158,
+                "right": 0.8293046355247498,
+                "bottom": 0.821465253829956
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "52e0b76e-4708-470d-813b-927bdfba3e26": {
+            "box": {
+                "left": 0.1373128741979599,
+                "top": 0.8402305245399475,
+                "right": 0.3627440929412842,
+                "bottom": 0.8616513609886169
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "12aac1f3-0263-4ebc-afab-71639004d68d": {
+            "box": {
+                "left": 0.1913437396287918,
+                "top": 0.8755151629447937,
+                "right": 0.2823754549026489,
+                "bottom": 0.9020993113517761
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6b6ff97b-8a2a-4fa0-aa97-753e19b9896a": {
+            "box": {
+                "left": 0.4429047703742981,
+                "top": 0.8993704319000244,
+                "right": 0.4747183918952942,
+                "bottom": 0.9221630096435547
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "ecd755df-e1c6-4d5a-baa1-6b17c0711add": {
+            "box": {
+                "left": 0.21187371015548706,
+                "top": 0.9755833745002747,
+                "right": 0.7857639193534851,
+                "bottom": 0.9998371005058289
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "mybv0228_13.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 13730,
+        "credit_usage": 3.0,
+        "job_id": "k9xtqesiakyvb8mzaxmubvemv",
+        "version": "dpt-2-20250919"
+    }
+}

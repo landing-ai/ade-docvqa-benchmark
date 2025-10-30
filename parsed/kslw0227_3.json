@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='7d612604-7f21-4e26-b547-d36bf20fad84'></a>\n\nCONDENSED VERSION--FINAL DRAFT\n\n<a id='4b4ac8d3-d42d-4a89-b4ac-3f3e7bf902db'></a>\n\nPHYSIOLOGIC ADJUSTMENTS IN GENERAL\n\n<a id='64378e31-c5fb-4752-83a1-012aa5b3ba3f'></a>\n\nPrepared for \"Laboratory Indices of\nNutritional Status in Pregnancy.\"\n\nRoy M. Pitkin, M.D.\n\n<a id='c027723f-562a-4e92-822a-26dd23ecd1c8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kslw0227",
+    "chunks": [
+        {
+            "markdown": "<a id='7d612604-7f21-4e26-b547-d36bf20fad84'></a>\n\nCONDENSED VERSION--FINAL DRAFT",
+            "type": "marginalia",
+            "id": "7d612604-7f21-4e26-b547-d36bf20fad84",
+            "grounding": {
+                "box": {
+                    "left": 0.32621538639068604,
+                    "top": 0.21590347588062286,
+                    "right": 0.6215524673461914,
+                    "bottom": 0.23938123881816864
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4b4ac8d3-d42d-4a89-b4ac-3f3e7bf902db'></a>\n\nPHYSIOLOGIC ADJUSTMENTS IN GENERAL",
+            "type": "text",
+            "id": "4b4ac8d3-d42d-4a89-b4ac-3f3e7bf902db",
+            "grounding": {
+                "box": {
+                    "left": 0.3195880055427551,
+                    "top": 0.4536195397377014,
+                    "right": 0.6524118781089783,
+                    "bottom": 0.47914570569992065
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='64378e31-c5fb-4752-83a1-012aa5b3ba3f'></a>\n\nPrepared for \"Laboratory Indices of\nNutritional Status in Pregnancy.\"\n\nRoy M. Pitkin, M.D.",
+            "type": "text",
+            "id": "64378e31-c5fb-4752-83a1-012aa5b3ba3f",
+            "grounding": {
+                "box": {
+                    "left": 0.2861558496952057,
+                    "top": 0.6777827143669128,
+                    "right": 0.6297839879989624,
+                    "bottom": 0.7464376091957092
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c027723f-562a-4e92-822a-26dd23ecd1c8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kslw0227",
+            "type": "text",
+            "id": "c027723f-562a-4e92-822a-26dd23ecd1c8",
+            "grounding": {
+                "box": {
+                    "left": 0.2291402518749237,
+                    "top": 0.9799766540527344,
+                    "right": 0.7731126546859741,
+                    "bottom": 0.9993696212768555
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='7d612604-7f21-4e26-b547-d36bf20fad84'></a>\n\nCONDENSED VERSION--FINAL DRAFT\n\n<a id='4b4ac8d3-d42d-4a89-b4ac-3f3e7bf902db'></a>\n\nPHYSIOLOGIC ADJUSTMENTS IN GENERAL\n\n<a id='64378e31-c5fb-4752-83a1-012aa5b3ba3f'></a>\n\nPrepared for \"Laboratory Indices of\nNutritional Status in Pregnancy.\"\n\nRoy M. Pitkin, M.D.\n\n<a id='c027723f-562a-4e92-822a-26dd23ecd1c8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kslw0227",
+            "chunks": [
+                "7d612604-7f21-4e26-b547-d36bf20fad84",
+                "4b4ac8d3-d42d-4a89-b4ac-3f3e7bf902db",
+                "64378e31-c5fb-4752-83a1-012aa5b3ba3f",
+                "c027723f-562a-4e92-822a-26dd23ecd1c8"
+            ]
+        }
+    ],
+    "grounding": {
+        "7d612604-7f21-4e26-b547-d36bf20fad84": {
+            "box": {
+                "left": 0.32621538639068604,
+                "top": 0.21590347588062286,
+                "right": 0.6215524673461914,
+                "bottom": 0.23938123881816864
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "4b4ac8d3-d42d-4a89-b4ac-3f3e7bf902db": {
+            "box": {
+                "left": 0.3195880055427551,
+                "top": 0.4536195397377014,
+                "right": 0.6524118781089783,
+                "bottom": 0.47914570569992065
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "64378e31-c5fb-4752-83a1-012aa5b3ba3f": {
+            "box": {
+                "left": 0.2861558496952057,
+                "top": 0.6777827143669128,
+                "right": 0.6297839879989624,
+                "bottom": 0.7464376091957092
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c027723f-562a-4e92-822a-26dd23ecd1c8": {
+            "box": {
+                "left": 0.2291402518749237,
+                "top": 0.9799766540527344,
+                "right": 0.7731126546859741,
+                "bottom": 0.9993696212768555
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kslw0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3011,
+        "credit_usage": 3.0,
+        "job_id": "yt10krpran1gkd6xqeznx0fdw",
+        "version": "dpt-2-20250919"
+    }
+}

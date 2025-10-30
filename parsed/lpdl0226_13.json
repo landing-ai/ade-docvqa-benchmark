@@ -1,0 +1,933 @@
+{
+    "markdown": "<a id='327dc18f-4b7c-47da-bae2-a62fd794682e'></a>\n\nQuestion 3: In your opinion, how many calories are there in a:\nTeaspoon of sugar, pat of butter, slice of bread,\nmedium size potato.\n\n<a id='209c9257-3822-4c39-9bfe-63bc15813f65'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Respondents</td><td id=\"0-3\">Total (506=100%)</td><td id=\"0-4\">Men (249=100%)</td><td id=\"0-5\">Women (257=1.00%)</td></tr>\n<tr><td id=\"0-6\">Calories in teaspoon</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">of sugar: (18 calories)</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Under 16</td><td id=\"0-f\">8%</td><td id=\"0-g\">7%</td><td id=\"0-h\">.9%</td></tr>\n<tr><td id=\"0-i\">16 & 17</td><td id=\"0-j\">1</td><td id=\"0-k\">1</td><td id=\"0-l\">1</td></tr>\n<tr><td id=\"0-m\">18</td><td id=\"0-n\">4</td><td id=\"0-o\">3</td><td id=\"0-p\">6</td></tr>\n<tr><td id=\"0-q\">19 & 20</td><td id=\"0-r\">3</td><td id=\"0-s\">2</td><td id=\"0-t\">5</td></tr>\n<tr><td id=\"0-u\">21 to 50</td><td id=\"0-v\">11</td><td id=\"0-w\">8</td><td id=\"0-x\">15</td></tr>\n<tr><td id=\"0-y\">50 to 100</td><td id=\"0-z\">16</td><td id=\"0-A\">12</td><td id=\"0-B\">19</td></tr>\n<tr><td id=\"0-C\">100 to 200</td><td id=\"0-D\">17</td><td id=\"0-E\">18</td><td id=\"0-F\">15</td></tr>\n<tr><td id=\"0-G\">200 and over</td><td id=\"0-H\">16</td><td id=\"0-I\">20</td><td id=\"0-J\">12</td></tr>\n<tr><td id=\"0-K\">Don't know.</td><td id=\"0-L\">24</td><td id=\"0-M\">29</td><td id=\"0-N\">18</td></tr>\n</table>\n\n<a id='bef0b375-870b-489a-9043-8fcd2e04c5c6'></a>\n\nCalories in pat of butter:\n(50 calories)\n<table id=\"0-O\">\n<tr><td id=\"0-P\">Under 25</td><td id=\"0-Q\">10%</td><td id=\"0-R\">10%</td><td id=\"0-S\">11%</td></tr>\n<tr><td id=\"0-T\">25 to 40</td><td id=\"0-U\">9</td><td id=\"0-V\">8</td><td id=\"0-W\">11</td></tr>\n<tr><td id=\"0-X\">40 to 60</td><td id=\"0-Y\">16</td><td id=\"0-Z\">13</td><td id=\"0-10\">19</td></tr>\n<tr><td id=\"0-11\">60 to 75</td><td id=\"0-12\">4</td><td id=\"0-13\">3</td><td id=\"0-14\">4</td></tr>\n<tr><td id=\"0-15\">75 to 100</td><td id=\"0-16\">7</td><td id=\"0-17\">5</td><td id=\"0-18\">8</td></tr>\n<tr><td id=\"0-19\">100 and over</td><td id=\"0-1a\">27</td><td id=\"0-1b\">29</td><td id=\"0-1c\">25</td></tr>\n<tr><td id=\"0-1d\">Don't know</td><td id=\"0-1e\">27</td><td id=\"0-1f\">32</td><td id=\"0-1g\">22</td></tr>\n</table>\n\n<a id='949c794a-2e54-4693-8c76-f9a2e897d55c'></a>\n\nQuestion 3: Continued -\n\n<a id='47c333a6-b9bd-48ff-9bb5-a24500fe2cb4'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ipdi0226",
+    "chunks": [
+        {
+            "markdown": "<a id='327dc18f-4b7c-47da-bae2-a62fd794682e'></a>\n\nQuestion 3: In your opinion, how many calories are there in a:\nTeaspoon of sugar, pat of butter, slice of bread,\nmedium size potato.",
+            "type": "text",
+            "id": "327dc18f-4b7c-47da-bae2-a62fd794682e",
+            "grounding": {
+                "box": {
+                    "left": 0.20851662755012512,
+                    "top": 0.12102066725492477,
+                    "right": 0.8078216314315796,
+                    "bottom": 0.17495647072792053
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='209c9257-3822-4c39-9bfe-63bc15813f65'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Respondents</td><td id=\"0-3\">Total (506=100%)</td><td id=\"0-4\">Men (249=100%)</td><td id=\"0-5\">Women (257=1.00%)</td></tr>\n<tr><td id=\"0-6\">Calories in teaspoon</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">of sugar: (18 calories)</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Under 16</td><td id=\"0-f\">8%</td><td id=\"0-g\">7%</td><td id=\"0-h\">.9%</td></tr>\n<tr><td id=\"0-i\">16 & 17</td><td id=\"0-j\">1</td><td id=\"0-k\">1</td><td id=\"0-l\">1</td></tr>\n<tr><td id=\"0-m\">18</td><td id=\"0-n\">4</td><td id=\"0-o\">3</td><td id=\"0-p\">6</td></tr>\n<tr><td id=\"0-q\">19 & 20</td><td id=\"0-r\">3</td><td id=\"0-s\">2</td><td id=\"0-t\">5</td></tr>\n<tr><td id=\"0-u\">21 to 50</td><td id=\"0-v\">11</td><td id=\"0-w\">8</td><td id=\"0-x\">15</td></tr>\n<tr><td id=\"0-y\">50 to 100</td><td id=\"0-z\">16</td><td id=\"0-A\">12</td><td id=\"0-B\">19</td></tr>\n<tr><td id=\"0-C\">100 to 200</td><td id=\"0-D\">17</td><td id=\"0-E\">18</td><td id=\"0-F\">15</td></tr>\n<tr><td id=\"0-G\">200 and over</td><td id=\"0-H\">16</td><td id=\"0-I\">20</td><td id=\"0-J\">12</td></tr>\n<tr><td id=\"0-K\">Don't know.</td><td id=\"0-L\">24</td><td id=\"0-M\">29</td><td id=\"0-N\">18</td></tr>\n</table>",
+            "type": "table",
+            "id": "209c9257-3822-4c39-9bfe-63bc15813f65",
+            "grounding": {
+                "box": {
+                    "left": 0.20466452836990356,
+                    "top": 0.19513511657714844,
+                    "right": 0.8004741072654724,
+                    "bottom": 0.4453314542770386
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bef0b375-870b-489a-9043-8fcd2e04c5c6'></a>\n\nCalories in pat of butter:\n(50 calories)\n<table id=\"0-O\">\n<tr><td id=\"0-P\">Under 25</td><td id=\"0-Q\">10%</td><td id=\"0-R\">10%</td><td id=\"0-S\">11%</td></tr>\n<tr><td id=\"0-T\">25 to 40</td><td id=\"0-U\">9</td><td id=\"0-V\">8</td><td id=\"0-W\">11</td></tr>\n<tr><td id=\"0-X\">40 to 60</td><td id=\"0-Y\">16</td><td id=\"0-Z\">13</td><td id=\"0-10\">19</td></tr>\n<tr><td id=\"0-11\">60 to 75</td><td id=\"0-12\">4</td><td id=\"0-13\">3</td><td id=\"0-14\">4</td></tr>\n<tr><td id=\"0-15\">75 to 100</td><td id=\"0-16\">7</td><td id=\"0-17\">5</td><td id=\"0-18\">8</td></tr>\n<tr><td id=\"0-19\">100 and over</td><td id=\"0-1a\">27</td><td id=\"0-1b\">29</td><td id=\"0-1c\">25</td></tr>\n<tr><td id=\"0-1d\">Don't know</td><td id=\"0-1e\">27</td><td id=\"0-1f\">32</td><td id=\"0-1g\">22</td></tr>\n</table>",
+            "type": "table",
+            "id": "bef0b375-870b-489a-9043-8fcd2e04c5c6",
+            "grounding": {
+                "box": {
+                    "left": 0.2023465931415558,
+                    "top": 0.46017298102378845,
+                    "right": 0.7829231023788452,
+                    "bottom": 0.640579104423523
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='949c794a-2e54-4693-8c76-f9a2e897d55c'></a>\n\nQuestion 3: Continued -",
+            "type": "text",
+            "id": "949c794a-2e54-4693-8c76-f9a2e897d55c",
+            "grounding": {
+                "box": {
+                    "left": 0.2035401463508606,
+                    "top": 0.6831035017967224,
+                    "right": 0.4373282790184021,
+                    "bottom": 0.7090447545051575
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='47c333a6-b9bd-48ff-9bb5-a24500fe2cb4'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ipdi0226",
+            "type": "marginalia",
+            "id": "47c333a6-b9bd-48ff-9bb5-a24500fe2cb4",
+            "grounding": {
+                "box": {
+                    "left": 0.2372032105922699,
+                    "top": 0.9799894094467163,
+                    "right": 0.7653442621231079,
+                    "bottom": 0.9994432926177979
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='327dc18f-4b7c-47da-bae2-a62fd794682e'></a>\n\nQuestion 3: In your opinion, how many calories are there in a:\nTeaspoon of sugar, pat of butter, slice of bread,\nmedium size potato.\n\n<a id='209c9257-3822-4c39-9bfe-63bc15813f65'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Respondents</td><td id=\"0-3\">Total (506=100%)</td><td id=\"0-4\">Men (249=100%)</td><td id=\"0-5\">Women (257=1.00%)</td></tr>\n<tr><td id=\"0-6\">Calories in teaspoon</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">of sugar: (18 calories)</td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Under 16</td><td id=\"0-f\">8%</td><td id=\"0-g\">7%</td><td id=\"0-h\">.9%</td></tr>\n<tr><td id=\"0-i\">16 & 17</td><td id=\"0-j\">1</td><td id=\"0-k\">1</td><td id=\"0-l\">1</td></tr>\n<tr><td id=\"0-m\">18</td><td id=\"0-n\">4</td><td id=\"0-o\">3</td><td id=\"0-p\">6</td></tr>\n<tr><td id=\"0-q\">19 & 20</td><td id=\"0-r\">3</td><td id=\"0-s\">2</td><td id=\"0-t\">5</td></tr>\n<tr><td id=\"0-u\">21 to 50</td><td id=\"0-v\">11</td><td id=\"0-w\">8</td><td id=\"0-x\">15</td></tr>\n<tr><td id=\"0-y\">50 to 100</td><td id=\"0-z\">16</td><td id=\"0-A\">12</td><td id=\"0-B\">19</td></tr>\n<tr><td id=\"0-C\">100 to 200</td><td id=\"0-D\">17</td><td id=\"0-E\">18</td><td id=\"0-F\">15</td></tr>\n<tr><td id=\"0-G\">200 and over</td><td id=\"0-H\">16</td><td id=\"0-I\">20</td><td id=\"0-J\">12</td></tr>\n<tr><td id=\"0-K\">Don't know.</td><td id=\"0-L\">24</td><td id=\"0-M\">29</td><td id=\"0-N\">18</td></tr>\n</table>\n\n<a id='bef0b375-870b-489a-9043-8fcd2e04c5c6'></a>\n\nCalories in pat of butter:\n(50 calories)\n<table id=\"0-O\">\n<tr><td id=\"0-P\">Under 25</td><td id=\"0-Q\">10%</td><td id=\"0-R\">10%</td><td id=\"0-S\">11%</td></tr>\n<tr><td id=\"0-T\">25 to 40</td><td id=\"0-U\">9</td><td id=\"0-V\">8</td><td id=\"0-W\">11</td></tr>\n<tr><td id=\"0-X\">40 to 60</td><td id=\"0-Y\">16</td><td id=\"0-Z\">13</td><td id=\"0-10\">19</td></tr>\n<tr><td id=\"0-11\">60 to 75</td><td id=\"0-12\">4</td><td id=\"0-13\">3</td><td id=\"0-14\">4</td></tr>\n<tr><td id=\"0-15\">75 to 100</td><td id=\"0-16\">7</td><td id=\"0-17\">5</td><td id=\"0-18\">8</td></tr>\n<tr><td id=\"0-19\">100 and over</td><td id=\"0-1a\">27</td><td id=\"0-1b\">29</td><td id=\"0-1c\">25</td></tr>\n<tr><td id=\"0-1d\">Don't know</td><td id=\"0-1e\">27</td><td id=\"0-1f\">32</td><td id=\"0-1g\">22</td></tr>\n</table>\n\n<a id='949c794a-2e54-4693-8c76-f9a2e897d55c'></a>\n\nQuestion 3: Continued -\n\n<a id='47c333a6-b9bd-48ff-9bb5-a24500fe2cb4'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ipdi0226",
+            "chunks": [
+                "327dc18f-4b7c-47da-bae2-a62fd794682e",
+                "209c9257-3822-4c39-9bfe-63bc15813f65",
+                "bef0b375-870b-489a-9043-8fcd2e04c5c6",
+                "949c794a-2e54-4693-8c76-f9a2e897d55c",
+                "47c333a6-b9bd-48ff-9bb5-a24500fe2cb4"
+            ]
+        }
+    ],
+    "grounding": {
+        "327dc18f-4b7c-47da-bae2-a62fd794682e": {
+            "box": {
+                "left": 0.20851662755012512,
+                "top": 0.12102066725492477,
+                "right": 0.8078216314315796,
+                "bottom": 0.17495647072792053
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "209c9257-3822-4c39-9bfe-63bc15813f65": {
+            "box": {
+                "left": 0.20466452836990356,
+                "top": 0.19513511657714844,
+                "right": 0.8004741072654724,
+                "bottom": 0.4453314542770386
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.19707840650387787,
+                "right": 0.7938148126121902,
+                "bottom": 0.4409922135490447
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.19707840650387787,
+                "right": 0.44212674662934504,
+                "bottom": 0.23120417060936127
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.19707840650387787,
+                "right": 0.5918872933542687,
+                "bottom": 0.23120417060936127
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.19707840650387787,
+                "right": 0.6943196583421667,
+                "bottom": 0.23120417060936127
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.19707840650387787,
+                "right": 0.7951368202315692,
+                "bottom": 0.23120417060936127
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.23120417060936127,
+                "right": 0.44212674662934504,
+                "bottom": 0.2602654835157878
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.23120417060936127,
+                "right": 0.5918872933542687,
+                "bottom": 0.2602654835157878
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.23120417060936127,
+                "right": 0.6943196583421667,
+                "bottom": 0.2602654835157878
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.23120417060936127,
+                "right": 0.7951368202315692,
+                "bottom": 0.2602654835157878
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.2602654835157878,
+                "right": 0.44212674662934504,
+                "bottom": 0.275541460669956
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.2602654835157878,
+                "right": 0.5918872933542687,
+                "bottom": 0.275541460669956
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.2602654835157878,
+                "right": 0.6943196583421667,
+                "bottom": 0.275541460669956
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.2602654835157878,
+                "right": 0.7951368202315692,
+                "bottom": 0.275541460669956
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.275541460669956,
+                "right": 0.44212674662934504,
+                "bottom": 0.303518418236731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.275541460669956,
+                "right": 0.5918872933542687,
+                "bottom": 0.303518418236731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.275541460669956,
+                "right": 0.6943196583421667,
+                "bottom": 0.303518418236731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.275541460669956,
+                "right": 0.7951368202315692,
+                "bottom": 0.303518418236731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.303518418236731,
+                "right": 0.44212674662934504,
+                "bottom": 0.31816096404317307
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.303518418236731,
+                "right": 0.5918872933542687,
+                "bottom": 0.31816096404317307
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.303518418236731,
+                "right": 0.6943196583421667,
+                "bottom": 0.31816096404317307
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.303518418236731,
+                "right": 0.7951368202315692,
+                "bottom": 0.31816096404317307
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.31816096404317307,
+                "right": 0.44212674662934504,
+                "bottom": 0.3330932593374527
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.31816096404317307,
+                "right": 0.5918872933542687,
+                "bottom": 0.3330932593374527
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.31816096404317307,
+                "right": 0.6943196583421667,
+                "bottom": 0.3330932593374527
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.31816096404317307,
+                "right": 0.7951368202315692,
+                "bottom": 0.3330932593374527
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.3330932593374527,
+                "right": 0.44212674662934504,
+                "bottom": 0.3479323343199141
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.3330932593374527,
+                "right": 0.5918872933542687,
+                "bottom": 0.3479323343199141
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.3330932593374527,
+                "right": 0.6943196583421667,
+                "bottom": 0.3479323343199141
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.3330932593374527,
+                "right": 0.7951368202315692,
+                "bottom": 0.3479323343199141
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.3479323343199141,
+                "right": 0.44212674662934504,
+                "bottom": 0.3624981907240965
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.3479323343199141,
+                "right": 0.5918872933542687,
+                "bottom": 0.3624981907240965
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.3479323343199141,
+                "right": 0.6943196583421667,
+                "bottom": 0.3624981907240965
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.3479323343199141,
+                "right": 0.7951368202315692,
+                "bottom": 0.3624981907240965
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.3624981907240965,
+                "right": 0.44212674662934504,
+                "bottom": 0.37743230538776373
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.3624981907240965,
+                "right": 0.5918872933542687,
+                "bottom": 0.37743230538776373
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.3624981907240965,
+                "right": 0.6943196583421667,
+                "bottom": 0.37743230538776373
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.3624981907240965,
+                "right": 0.7951368202315692,
+                "bottom": 0.37743230538776373
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.37743230538776373,
+                "right": 0.44212674662934504,
+                "bottom": 0.39228826173208375
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.37743230538776373,
+                "right": 0.5918872933542687,
+                "bottom": 0.39228826173208375
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.37743230538776373,
+                "right": 0.6943196583421667,
+                "bottom": 0.39228826173208375
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.37743230538776373,
+                "right": 0.7951368202315692,
+                "bottom": 0.39228826173208375
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.39228826173208375,
+                "right": 0.44212674662934504,
+                "bottom": 0.40743922434874236
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.39228826173208375,
+                "right": 0.5918872933542687,
+                "bottom": 0.40743922434874236
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.39228826173208375,
+                "right": 0.6943196583421667,
+                "bottom": 0.40743922434874236
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.39228826173208375,
+                "right": 0.7951368202315692,
+                "bottom": 0.40743922434874236
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.213108352192954,
+                "top": 0.40743922434874236,
+                "right": 0.44212674662934504,
+                "bottom": 0.4409922135490447
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.44212674662934504,
+                "top": 0.40743922434874236,
+                "right": 0.5918872933542687,
+                "bottom": 0.4409922135490447
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.5918872933542687,
+                "top": 0.40743922434874236,
+                "right": 0.6943196583421667,
+                "bottom": 0.4409922135490447
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.6943196583421667,
+                "top": 0.40743922434874236,
+                "right": 0.7951368202315692,
+                "bottom": 0.4409922135490447
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "bef0b375-870b-489a-9043-8fcd2e04c5c6": {
+            "box": {
+                "left": 0.2023465931415558,
+                "top": 0.46017298102378845,
+                "right": 0.7829231023788452,
+                "bottom": 0.640579104423523
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.21122343089320025,
+                "top": 0.4962025970119863,
+                "right": 0.7730978270791944,
+                "bottom": 0.6336419723510076
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.21122343089320025,
+                "top": 0.4962025970119863,
+                "right": 0.33798290328919345,
+                "bottom": 0.5250745198882143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.33798290328919345,
+                "top": 0.4962025970119863,
+                "right": 0.5712662222201192,
+                "bottom": 0.5250745198882143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.5712662222201192,
+                "top": 0.4962025970119863,
+                "right": 0.6764376679974404,
+                "bottom": 0.5250745198882143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.6764376679974404,
+                "top": 0.4962025970119863,
+                "right": 0.7737332105233907,
+                "bottom": 0.5250745198882143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.21122343089320025,
+                "top": 0.5250745198882143,
+                "right": 0.33798290328919345,
+                "bottom": 0.5399611238805955
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.33798290328919345,
+                "top": 0.5250745198882143,
+                "right": 0.5712662222201192,
+                "bottom": 0.5399611238805955
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.5712662222201192,
+                "top": 0.5250745198882143,
+                "right": 0.6764376679974404,
+                "bottom": 0.5399611238805955
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.6764376679974404,
+                "top": 0.5250745198882143,
+                "right": 0.7737332105233907,
+                "bottom": 0.5399611238805955
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.21122343089320025,
+                "top": 0.5399611238805955,
+                "right": 0.33798290328919345,
+                "bottom": 0.5545747081137318
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.33798290328919345,
+                "top": 0.5399611238805955,
+                "right": 0.5712662222201192,
+                "bottom": 0.5545747081137318
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.5712662222201192,
+                "top": 0.5399611238805955,
+                "right": 0.6764376679974404,
+                "bottom": 0.5545747081137318
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.6764376679974404,
+                "top": 0.5399611238805955,
+                "right": 0.7737332105233907,
+                "bottom": 0.5545747081137318
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.21122343089320025,
+                "top": 0.5545747081137318,
+                "right": 0.33798290328919345,
+                "bottom": 0.5695479977614557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.33798290328919345,
+                "top": 0.5545747081137318,
+                "right": 0.5712662222201192,
+                "bottom": 0.5695479977614557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.5712662222201192,
+                "top": 0.5545747081137318,
+                "right": 0.6764376679974404,
+                "bottom": 0.5695479977614557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.6764376679974404,
+                "top": 0.5545747081137318,
+                "right": 0.7737332105233907,
+                "bottom": 0.5695479977614557
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.21122343089320025,
+                "top": 0.5695479977614557,
+                "right": 0.33798290328919345,
+                "bottom": 0.584964323529725
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-16": {
+            "box": {
+                "left": 0.33798290328919345,
+                "top": 0.5695479977614557,
+                "right": 0.5712662222201192,
+                "bottom": 0.584964323529725
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-17": {
+            "box": {
+                "left": 0.5712662222201192,
+                "top": 0.5695479977614557,
+                "right": 0.6764376679974404,
+                "bottom": 0.584964323529725
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-18": {
+            "box": {
+                "left": 0.6764376679974404,
+                "top": 0.5695479977614557,
+                "right": 0.7737332105233907,
+                "bottom": 0.584964323529725
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-19": {
+            "box": {
+                "left": 0.21122343089320025,
+                "top": 0.584964323529725,
+                "right": 0.33798290328919345,
+                "bottom": 0.6008390085046731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1a": {
+            "box": {
+                "left": 0.33798290328919345,
+                "top": 0.584964323529725,
+                "right": 0.5712662222201192,
+                "bottom": 0.6008390085046731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1b": {
+            "box": {
+                "left": 0.5712662222201192,
+                "top": 0.584964323529725,
+                "right": 0.6764376679974404,
+                "bottom": 0.6008390085046731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1c": {
+            "box": {
+                "left": 0.6764376679974404,
+                "top": 0.584964323529725,
+                "right": 0.7737332105233907,
+                "bottom": 0.6008390085046731
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1d": {
+            "box": {
+                "left": 0.21122343089320025,
+                "top": 0.6008390085046731,
+                "right": 0.33798290328919345,
+                "bottom": 0.6336419723510076
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1e": {
+            "box": {
+                "left": 0.33798290328919345,
+                "top": 0.6008390085046731,
+                "right": 0.5712662222201192,
+                "bottom": 0.6336419723510076
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1f": {
+            "box": {
+                "left": 0.5712662222201192,
+                "top": 0.6008390085046731,
+                "right": 0.6764376679974404,
+                "bottom": 0.6336419723510076
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1g": {
+            "box": {
+                "left": 0.6764376679974404,
+                "top": 0.6008390085046731,
+                "right": 0.7737332105233907,
+                "bottom": 0.6336419723510076
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "949c794a-2e54-4693-8c76-f9a2e897d55c": {
+            "box": {
+                "left": 0.2035401463508606,
+                "top": 0.6831035017967224,
+                "right": 0.4373282790184021,
+                "bottom": 0.7090447545051575
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "47c333a6-b9bd-48ff-9bb5-a24500fe2cb4": {
+            "box": {
+                "left": 0.2372032105922699,
+                "top": 0.9799894094467163,
+                "right": 0.7653442621231079,
+                "bottom": 0.9994432926177979
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lpdl0226_13.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6909,
+        "credit_usage": 3.0,
+        "job_id": "xlybf7lk5vvcgev6gcrc1iyp2",
+        "version": "dpt-2-20250919"
+    }
+}

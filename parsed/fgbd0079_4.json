@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='6ce013f3-ef93-43bd-9a25-865361cd0409'></a>\n\nSENT BY:RJ REYNOLDS TOB. CO. ; 8- 9-94 ; 15:25 ;PT&D MECH & , INST DEV\u2192\n\n<a id='85572e50-7a70-4fda-8cad-56b233bb5512'></a>\n\n9197410918;# 4\n\n<a id='363eaad6-a5d9-4ff6-8f43-ba1c972d7f53'></a>\n\n# CSF Run Sheet\n\nDate:\nPD- 5954 B\nCSF- 721\nRun Nos. 1883-1897\n\nNet Pounds Infeed: 893\nNet Pounds Out: 770\n\n96\n\n<a id='c8c51399-c05d-41df-81c5-83694e3e453f'></a>\n\n<::small textured circle\n: figure::>\n\n<a id='f54bebc4-e7a9-4cd2-b41b-495ac4dca978'></a>\n\n51441 8651",
+    "chunks": [
+        {
+            "markdown": "<a id='6ce013f3-ef93-43bd-9a25-865361cd0409'></a>\n\nSENT BY:RJ REYNOLDS TOB. CO. ; 8- 9-94 ; 15:25 ;PT&D MECH & , INST DEV\u2192",
+            "type": "text",
+            "id": "6ce013f3-ef93-43bd-9a25-865361cd0409",
+            "grounding": {
+                "box": {
+                    "left": 0.05054399371147156,
+                    "top": 0.003768608905375004,
+                    "right": 0.7252362966537476,
+                    "bottom": 0.03228696808218956
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='85572e50-7a70-4fda-8cad-56b233bb5512'></a>\n\n9197410918;# 4",
+            "type": "text",
+            "id": "85572e50-7a70-4fda-8cad-56b233bb5512",
+            "grounding": {
+                "box": {
+                    "left": 0.8030015826225281,
+                    "top": 0.006888114847242832,
+                    "right": 0.9462667107582092,
+                    "bottom": 0.028501290827989578
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='363eaad6-a5d9-4ff6-8f43-ba1c972d7f53'></a>\n\n# CSF Run Sheet\n\nDate:\nPD- 5954 B\nCSF- 721\nRun Nos. 1883-1897\n\nNet Pounds Infeed: 893\nNet Pounds Out: 770\n\n96",
+            "type": "text",
+            "id": "363eaad6-a5d9-4ff6-8f43-ba1c972d7f53",
+            "grounding": {
+                "box": {
+                    "left": 0.07326552271842957,
+                    "top": 0.17507675290107727,
+                    "right": 0.8098580837249756,
+                    "bottom": 0.7052935361862183
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c8c51399-c05d-41df-81c5-83694e3e453f'></a>\n\n<::small textured circle\n: figure::>",
+            "type": "figure",
+            "id": "c8c51399-c05d-41df-81c5-83694e3e453f",
+            "grounding": {
+                "box": {
+                    "left": 0.012251954525709152,
+                    "top": 0.9509350657463074,
+                    "right": 0.055503521114587784,
+                    "bottom": 0.9842070937156677
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f54bebc4-e7a9-4cd2-b41b-495ac4dca978'></a>\n\n51441 8651",
+            "type": "marginalia",
+            "id": "f54bebc4-e7a9-4cd2-b41b-495ac4dca978",
+            "grounding": {
+                "box": {
+                    "left": 0.9137158393859863,
+                    "top": 0.8453181982040405,
+                    "right": 0.9420880079269409,
+                    "bottom": 0.9431358575820923
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6ce013f3-ef93-43bd-9a25-865361cd0409'></a>\n\nSENT BY:RJ REYNOLDS TOB. CO. ; 8- 9-94 ; 15:25 ;PT&D MECH & , INST DEV\u2192\n\n<a id='85572e50-7a70-4fda-8cad-56b233bb5512'></a>\n\n9197410918;# 4\n\n<a id='363eaad6-a5d9-4ff6-8f43-ba1c972d7f53'></a>\n\n# CSF Run Sheet\n\nDate:\nPD- 5954 B\nCSF- 721\nRun Nos. 1883-1897\n\nNet Pounds Infeed: 893\nNet Pounds Out: 770\n\n96\n\n<a id='c8c51399-c05d-41df-81c5-83694e3e453f'></a>\n\n<::small textured circle\n: figure::>\n\n<a id='f54bebc4-e7a9-4cd2-b41b-495ac4dca978'></a>\n\n51441 8651",
+            "chunks": [
+                "6ce013f3-ef93-43bd-9a25-865361cd0409",
+                "85572e50-7a70-4fda-8cad-56b233bb5512",
+                "363eaad6-a5d9-4ff6-8f43-ba1c972d7f53",
+                "c8c51399-c05d-41df-81c5-83694e3e453f",
+                "f54bebc4-e7a9-4cd2-b41b-495ac4dca978"
+            ]
+        }
+    ],
+    "grounding": {
+        "6ce013f3-ef93-43bd-9a25-865361cd0409": {
+            "box": {
+                "left": 0.05054399371147156,
+                "top": 0.003768608905375004,
+                "right": 0.7252362966537476,
+                "bottom": 0.03228696808218956
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "85572e50-7a70-4fda-8cad-56b233bb5512": {
+            "box": {
+                "left": 0.8030015826225281,
+                "top": 0.006888114847242832,
+                "right": 0.9462667107582092,
+                "bottom": 0.028501290827989578
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "363eaad6-a5d9-4ff6-8f43-ba1c972d7f53": {
+            "box": {
+                "left": 0.07326552271842957,
+                "top": 0.17507675290107727,
+                "right": 0.8098580837249756,
+                "bottom": 0.7052935361862183
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c8c51399-c05d-41df-81c5-83694e3e453f": {
+            "box": {
+                "left": 0.012251954525709152,
+                "top": 0.9509350657463074,
+                "right": 0.055503521114587784,
+                "bottom": 0.9842070937156677
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "f54bebc4-e7a9-4cd2-b41b-495ac4dca978": {
+            "box": {
+                "left": 0.9137158393859863,
+                "top": 0.8453181982040405,
+                "right": 0.9420880079269409,
+                "bottom": 0.9431358575820923
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fgbd0079_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4715,
+        "credit_usage": 3.0,
+        "job_id": "ssvnzr9rnylfjs8gdv3maae27",
+        "version": "dpt-2-20250919"
+    }
+}

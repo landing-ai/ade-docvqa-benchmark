@@ -1,0 +1,648 @@
+{
+    "markdown": "<a id='fc132858-df60-4287-93e2-063dbb8190f6'></a>\n\nR5RT\n\n<a id='7f961085-01f0-42e6-9bb5-4bcbd272e5bf'></a>\n\nREQUEST FOR CHANGE\nF-1001 9/88\n\n<a id='ed7f5fc2-d0b1-409c-a8a4-c296d9206b3f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Change Order Number</td></tr>\n<tr><td id=\"0-3\" colspan=\"2\">Received By (signature)</td></tr>\n<tr><td id=\"0-4\">Date 9-7-88</td><td id=\"0-5\">Page 1 of /</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">RFC 880037</td></tr>\n</table>\n\n<a id='34336415-bee9-4f9b-a360-c4a0cc19156d'></a>\n\n<table id=\"0-7\">\n<tr><td id=\"0-8\">ORIGINATOR Name: Vivian C. Sch</td><td id=\"0-9\">Date Prepared 8-26-88</td></tr>\n<tr><td id=\"0-a\">Position R&D Engineer</td><td id=\"0-b\">Telephone No. 741-0801</td></tr>\n<tr><td id=\"0-c\" colspan=\"2\">Department Name and Location New Product Technologies 611 -13/3w BGTC</td></tr>\n<tr><td id=\"0-d\">Brand/Assembly/Material Affected</td><td id=\"0-e\"></td></tr>\n</table>\n\n<a id='b969c0a4-7945-4c59-83bd-2c5d1caa7a19'></a>\n\nBrand/Assembly/Material Affected: Commodity Code 0444444 (Outer-wrap Paper : P1981-158)\n\nType of Change:\n\n<a id='6d3a11a0-99cb-4beb-b3fb-1d11989095eb'></a>\n\nType of Change\n<table id=\"0-f\">\n<tr><td id=\"0-g\">Addition Deletion</td><td id=\"0-h\" rowspan=\"2\">___ Design ___ Spec Change ___ Compatibility ___ Cost Reduction ___ Manufacturability ___ Other</td><td id=\"0-i\" rowspan=\"2\">Emergency Urgent Routine (checkboxes)</td></tr>\n<tr><td id=\"0-j\">Change</td></tr>\n</table>\n\n<a id='1eaa95ff-3f57-4801-a9d1-5904094c7a1e'></a>\n\nDescription of Problem\n\nI. Basis weight has been measured air dry by our QA group,\nwhereas it has been measured bone dry, then converted to\na value expected for air dry (5% moisture assumed)\nby our supplier. The assumption for air dry (5% moisture assumed)\nbasis weight causes error, leading to poor agreement. Using\nbone dry basis weight eliminates error due to moisture assumption.\n\nII. One of the changes that has shown an improvement in adhesion\nbetween the front end piece and the tipping paper is a change in\ndirection of the wire side of the outer wrap paper. The wire side\ndirection for bobbins of outer wrap paper needs to be inside.\n\n<a id='4f2e29cc-a1bf-4689-9d43-27e07af4c4fe'></a>\n\n# Proposed Solution\n\nI. Replace Basis weight (Air Dry) Specification with Bone Dry Basis Weight.\n\n<table><thead><tr><th>Property</th><th>Target</th><th>Low</th><th>High</th></tr></thead><tbody><tr><td>Bone Dry Basis Weight (I)</td><td>36.1</td><td>31.9</td><td>40.3</td></tr><tr><td>(P)</td><td>36.1</td><td>33.8</td><td>38.4</td></tr></tbody></table>\n\nII. Add specification for wire side direction. A field already exists for it.\nWire Side Direction --- Inside\n\n51482 5092\n\n<a id='b726023b-ff6a-464d-b104-02f41365dfa7'></a>\n\n<table><thead><tr><th></th><th>Signature</th><th>Title</th><th>Date</th></tr></thead><tbody><tr><td>Accepted for<br>Investigation</td><td></td><td></td><td></td></tr><tr><td>Final Disposition</td><td>Approved</td><td>Rejected</td><td>[illegible]</td></tr></tbody></table>\n\n<a id='07839c9a-c319-47df-96aa-f8ea88ce2b8e'></a>\n\n<table id=\"0-k\">\n<tr><td id=\"0-l\" colspan=\"2\">Final Disposition Approved Rejected</td><td id=\"0-m\">SPEC HOLDER</td><td id=\"0-n\">DATE</td></tr>\n<tr><td id=\"0-o\" colspan=\"2\">Action Taken or Reason for Rejection</td><td id=\"0-p\">Vivian Suh</td><td id=\"0-q\">9/7/88</td></tr>\n<tr><td id=\"0-r\" colspan=\"2\"></td><td id=\"0-s\" colspan=\"2\">PRODUCT REVIEW COMMITTEE RDB R 29/7/98 KAN 469/7/88 SKAIT LHO LHO 9/7/88 FML fml 9/7/88</td></tr>\n<tr><td id=\"0-t\" rowspan=\"4\"></td><td id=\"0-u\">Proposed Effective Date:</td><td id=\"0-v\" colspan=\"2\">PRODUCT ACCEPTANCE COMMITTEE</td></tr>\n<tr><td id=\"0-w\" rowspan=\"3\">9/8/88</td><td id=\"0-x\">LEC</td><td id=\"0-y\">LWP</td></tr>\n<tr><td id=\"0-z\">MJD</td><td id=\"0-A\">KLR</td></tr>\n<tr><td id=\"0-B\" colspan=\"2\">DRN DMU</td></tr>\n</table>",
+    "chunks": [
+        {
+            "markdown": "<a id='fc132858-df60-4287-93e2-063dbb8190f6'></a>\n\nR5RT",
+            "type": "marginalia",
+            "id": "fc132858-df60-4287-93e2-063dbb8190f6",
+            "grounding": {
+                "box": {
+                    "left": 0.04851280897855759,
+                    "top": 0.02823145128786564,
+                    "right": 0.10236839205026627,
+                    "bottom": 0.04622199386358261
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7f961085-01f0-42e6-9bb5-4bcbd272e5bf'></a>\n\nREQUEST FOR CHANGE\nF-1001 9/88",
+            "type": "text",
+            "id": "7f961085-01f0-42e6-9bb5-4bcbd272e5bf",
+            "grounding": {
+                "box": {
+                    "left": 0.32306528091430664,
+                    "top": 0.026686612516641617,
+                    "right": 0.5156219005584717,
+                    "bottom": 0.060677047818899155
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ed7f5fc2-d0b1-409c-a8a4-c296d9206b3f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Change Order Number</td></tr>\n<tr><td id=\"0-3\" colspan=\"2\">Received By (signature)</td></tr>\n<tr><td id=\"0-4\">Date 9-7-88</td><td id=\"0-5\">Page 1 of /</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">RFC 880037</td></tr>\n</table>",
+            "type": "table",
+            "id": "ed7f5fc2-d0b1-409c-a8a4-c296d9206b3f",
+            "grounding": {
+                "box": {
+                    "left": 0.7796685695648193,
+                    "top": 0.025237537920475006,
+                    "right": 0.9943737983703613,
+                    "bottom": 0.17106875777244568
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='34336415-bee9-4f9b-a360-c4a0cc19156d'></a>\n\n<table id=\"0-7\">\n<tr><td id=\"0-8\">ORIGINATOR Name: Vivian C. Sch</td><td id=\"0-9\">Date Prepared 8-26-88</td></tr>\n<tr><td id=\"0-a\">Position R&D Engineer</td><td id=\"0-b\">Telephone No. 741-0801</td></tr>\n<tr><td id=\"0-c\" colspan=\"2\">Department Name and Location New Product Technologies 611 -13/3w BGTC</td></tr>\n<tr><td id=\"0-d\">Brand/Assembly/Material Affected</td><td id=\"0-e\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "34336415-bee9-4f9b-a360-c4a0cc19156d",
+            "grounding": {
+                "box": {
+                    "left": 0.04806023836135864,
+                    "top": 0.06958748400211334,
+                    "right": 0.7861443758010864,
+                    "bottom": 0.17819568514823914
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b969c0a4-7945-4c59-83bd-2c5d1caa7a19'></a>\n\nBrand/Assembly/Material Affected: Commodity Code 0444444 (Outer-wrap Paper : P1981-158)\n\nType of Change:",
+            "type": "text",
+            "id": "b969c0a4-7945-4c59-83bd-2c5d1caa7a19",
+            "grounding": {
+                "box": {
+                    "left": 0.047995418310165405,
+                    "top": 0.16146613657474518,
+                    "right": 0.9915566444396973,
+                    "bottom": 0.2090802639722824
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6d3a11a0-99cb-4beb-b3fb-1d11989095eb'></a>\n\nType of Change\n<table id=\"0-f\">\n<tr><td id=\"0-g\">Addition Deletion</td><td id=\"0-h\" rowspan=\"2\">___ Design ___ Spec Change ___ Compatibility ___ Cost Reduction ___ Manufacturability ___ Other</td><td id=\"0-i\" rowspan=\"2\">Emergency Urgent Routine (checkboxes)</td></tr>\n<tr><td id=\"0-j\">Change</td></tr>\n</table>",
+            "type": "table",
+            "id": "6d3a11a0-99cb-4beb-b3fb-1d11989095eb",
+            "grounding": {
+                "box": {
+                    "left": 0.045999228954315186,
+                    "top": 0.19366557896137238,
+                    "right": 0.9936433434486389,
+                    "bottom": 0.29191192984580994
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1eaa95ff-3f57-4801-a9d1-5904094c7a1e'></a>\n\nDescription of Problem\n\nI. Basis weight has been measured air dry by our QA group,\nwhereas it has been measured bone dry, then converted to\na value expected for air dry (5% moisture assumed)\nby our supplier. The assumption for air dry (5% moisture assumed)\nbasis weight causes error, leading to poor agreement. Using\nbone dry basis weight eliminates error due to moisture assumption.\n\nII. One of the changes that has shown an improvement in adhesion\nbetween the front end piece and the tipping paper is a change in\ndirection of the wire side of the outer wrap paper. The wire side\ndirection for bobbins of outer wrap paper needs to be inside.",
+            "type": "text",
+            "id": "1eaa95ff-3f57-4801-a9d1-5904094c7a1e",
+            "grounding": {
+                "box": {
+                    "left": 0.045654118061065674,
+                    "top": 0.2822709381580353,
+                    "right": 0.9949145913124084,
+                    "bottom": 0.5197215676307678
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4f2e29cc-a1bf-4689-9d43-27e07af4c4fe'></a>\n\n# Proposed Solution\n\nI. Replace Basis weight (Air Dry) Specification with Bone Dry Basis Weight.\n\n<table><thead><tr><th>Property</th><th>Target</th><th>Low</th><th>High</th></tr></thead><tbody><tr><td>Bone Dry Basis Weight (I)</td><td>36.1</td><td>31.9</td><td>40.3</td></tr><tr><td>(P)</td><td>36.1</td><td>33.8</td><td>38.4</td></tr></tbody></table>\n\nII. Add specification for wire side direction. A field already exists for it.\nWire Side Direction --- Inside\n\n51482 5092",
+            "type": "text",
+            "id": "4f2e29cc-a1bf-4689-9d43-27e07af4c4fe",
+            "grounding": {
+                "box": {
+                    "left": 0.04474768042564392,
+                    "top": 0.5107557773590088,
+                    "right": 0.994597315788269,
+                    "bottom": 0.7200685739517212
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b726023b-ff6a-464d-b104-02f41365dfa7'></a>\n\n<table><thead><tr><th></th><th>Signature</th><th>Title</th><th>Date</th></tr></thead><tbody><tr><td>Accepted for<br>Investigation</td><td></td><td></td><td></td></tr><tr><td>Final Disposition</td><td>Approved</td><td>Rejected</td><td>[illegible]</td></tr></tbody></table>",
+            "type": "table",
+            "id": "b726023b-ff6a-464d-b104-02f41365dfa7",
+            "grounding": {
+                "box": {
+                    "left": 0.0436844527721405,
+                    "top": 0.705610454082489,
+                    "right": 0.9929852485656738,
+                    "bottom": 0.7810576558113098
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='07839c9a-c319-47df-96aa-f8ea88ce2b8e'></a>\n\n<table id=\"0-k\">\n<tr><td id=\"0-l\" colspan=\"2\">Final Disposition Approved Rejected</td><td id=\"0-m\">SPEC HOLDER</td><td id=\"0-n\">DATE</td></tr>\n<tr><td id=\"0-o\" colspan=\"2\">Action Taken or Reason for Rejection</td><td id=\"0-p\">Vivian Suh</td><td id=\"0-q\">9/7/88</td></tr>\n<tr><td id=\"0-r\" colspan=\"2\"></td><td id=\"0-s\" colspan=\"2\">PRODUCT REVIEW COMMITTEE RDB R 29/7/98 KAN 469/7/88 SKAIT LHO LHO 9/7/88 FML fml 9/7/88</td></tr>\n<tr><td id=\"0-t\" rowspan=\"4\"></td><td id=\"0-u\">Proposed Effective Date:</td><td id=\"0-v\" colspan=\"2\">PRODUCT ACCEPTANCE COMMITTEE</td></tr>\n<tr><td id=\"0-w\" rowspan=\"3\">9/8/88</td><td id=\"0-x\">LEC</td><td id=\"0-y\">LWP</td></tr>\n<tr><td id=\"0-z\">MJD</td><td id=\"0-A\">KLR</td></tr>\n<tr><td id=\"0-B\" colspan=\"2\">DRN DMU</td></tr>\n</table>",
+            "type": "table",
+            "id": "07839c9a-c319-47df-96aa-f8ea88ce2b8e",
+            "grounding": {
+                "box": {
+                    "left": 0.035503536462783813,
+                    "top": 0.7666294574737549,
+                    "right": 0.9870587587356567,
+                    "bottom": 0.9805303812026978
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='fc132858-df60-4287-93e2-063dbb8190f6'></a>\n\nR5RT\n\n<a id='7f961085-01f0-42e6-9bb5-4bcbd272e5bf'></a>\n\nREQUEST FOR CHANGE\nF-1001 9/88\n\n<a id='ed7f5fc2-d0b1-409c-a8a4-c296d9206b3f'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Change Order Number</td></tr>\n<tr><td id=\"0-3\" colspan=\"2\">Received By (signature)</td></tr>\n<tr><td id=\"0-4\">Date 9-7-88</td><td id=\"0-5\">Page 1 of /</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">RFC 880037</td></tr>\n</table>\n\n<a id='34336415-bee9-4f9b-a360-c4a0cc19156d'></a>\n\n<table id=\"0-7\">\n<tr><td id=\"0-8\">ORIGINATOR Name: Vivian C. Sch</td><td id=\"0-9\">Date Prepared 8-26-88</td></tr>\n<tr><td id=\"0-a\">Position R&D Engineer</td><td id=\"0-b\">Telephone No. 741-0801</td></tr>\n<tr><td id=\"0-c\" colspan=\"2\">Department Name and Location New Product Technologies 611 -13/3w BGTC</td></tr>\n<tr><td id=\"0-d\">Brand/Assembly/Material Affected</td><td id=\"0-e\"></td></tr>\n</table>\n\n<a id='b969c0a4-7945-4c59-83bd-2c5d1caa7a19'></a>\n\nBrand/Assembly/Material Affected: Commodity Code 0444444 (Outer-wrap Paper : P1981-158)\n\nType of Change:\n\n<a id='6d3a11a0-99cb-4beb-b3fb-1d11989095eb'></a>\n\nType of Change\n<table id=\"0-f\">\n<tr><td id=\"0-g\">Addition Deletion</td><td id=\"0-h\" rowspan=\"2\">___ Design ___ Spec Change ___ Compatibility ___ Cost Reduction ___ Manufacturability ___ Other</td><td id=\"0-i\" rowspan=\"2\">Emergency Urgent Routine (checkboxes)</td></tr>\n<tr><td id=\"0-j\">Change</td></tr>\n</table>\n\n<a id='1eaa95ff-3f57-4801-a9d1-5904094c7a1e'></a>\n\nDescription of Problem\n\nI. Basis weight has been measured air dry by our QA group,\nwhereas it has been measured bone dry, then converted to\na value expected for air dry (5% moisture assumed)\nby our supplier. The assumption for air dry (5% moisture assumed)\nbasis weight causes error, leading to poor agreement. Using\nbone dry basis weight eliminates error due to moisture assumption.\n\nII. One of the changes that has shown an improvement in adhesion\nbetween the front end piece and the tipping paper is a change in\ndirection of the wire side of the outer wrap paper. The wire side\ndirection for bobbins of outer wrap paper needs to be inside.\n\n<a id='4f2e29cc-a1bf-4689-9d43-27e07af4c4fe'></a>\n\n# Proposed Solution\n\nI. Replace Basis weight (Air Dry) Specification with Bone Dry Basis Weight.\n\n<table><thead><tr><th>Property</th><th>Target</th><th>Low</th><th>High</th></tr></thead><tbody><tr><td>Bone Dry Basis Weight (I)</td><td>36.1</td><td>31.9</td><td>40.3</td></tr><tr><td>(P)</td><td>36.1</td><td>33.8</td><td>38.4</td></tr></tbody></table>\n\nII. Add specification for wire side direction. A field already exists for it.\nWire Side Direction --- Inside\n\n51482 5092\n\n<a id='b726023b-ff6a-464d-b104-02f41365dfa7'></a>\n\n<table><thead><tr><th></th><th>Signature</th><th>Title</th><th>Date</th></tr></thead><tbody><tr><td>Accepted for<br>Investigation</td><td></td><td></td><td></td></tr><tr><td>Final Disposition</td><td>Approved</td><td>Rejected</td><td>[illegible]</td></tr></tbody></table>\n\n<a id='07839c9a-c319-47df-96aa-f8ea88ce2b8e'></a>\n\n<table id=\"0-k\">\n<tr><td id=\"0-l\" colspan=\"2\">Final Disposition Approved Rejected</td><td id=\"0-m\">SPEC HOLDER</td><td id=\"0-n\">DATE</td></tr>\n<tr><td id=\"0-o\" colspan=\"2\">Action Taken or Reason for Rejection</td><td id=\"0-p\">Vivian Suh</td><td id=\"0-q\">9/7/88</td></tr>\n<tr><td id=\"0-r\" colspan=\"2\"></td><td id=\"0-s\" colspan=\"2\">PRODUCT REVIEW COMMITTEE RDB R 29/7/98 KAN 469/7/88 SKAIT LHO LHO 9/7/88 FML fml 9/7/88</td></tr>\n<tr><td id=\"0-t\" rowspan=\"4\"></td><td id=\"0-u\">Proposed Effective Date:</td><td id=\"0-v\" colspan=\"2\">PRODUCT ACCEPTANCE COMMITTEE</td></tr>\n<tr><td id=\"0-w\" rowspan=\"3\">9/8/88</td><td id=\"0-x\">LEC</td><td id=\"0-y\">LWP</td></tr>\n<tr><td id=\"0-z\">MJD</td><td id=\"0-A\">KLR</td></tr>\n<tr><td id=\"0-B\" colspan=\"2\">DRN DMU</td></tr>\n</table>",
+            "chunks": [
+                "fc132858-df60-4287-93e2-063dbb8190f6",
+                "7f961085-01f0-42e6-9bb5-4bcbd272e5bf",
+                "ed7f5fc2-d0b1-409c-a8a4-c296d9206b3f",
+                "34336415-bee9-4f9b-a360-c4a0cc19156d",
+                "b969c0a4-7945-4c59-83bd-2c5d1caa7a19",
+                "6d3a11a0-99cb-4beb-b3fb-1d11989095eb",
+                "1eaa95ff-3f57-4801-a9d1-5904094c7a1e",
+                "4f2e29cc-a1bf-4689-9d43-27e07af4c4fe",
+                "b726023b-ff6a-464d-b104-02f41365dfa7",
+                "07839c9a-c319-47df-96aa-f8ea88ce2b8e"
+            ]
+        }
+    ],
+    "grounding": {
+        "fc132858-df60-4287-93e2-063dbb8190f6": {
+            "box": {
+                "left": 0.04851280897855759,
+                "top": 0.02823145128786564,
+                "right": 0.10236839205026627,
+                "bottom": 0.04622199386358261
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "7f961085-01f0-42e6-9bb5-4bcbd272e5bf": {
+            "box": {
+                "left": 0.32306528091430664,
+                "top": 0.026686612516641617,
+                "right": 0.5156219005584717,
+                "bottom": 0.060677047818899155
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ed7f5fc2-d0b1-409c-a8a4-c296d9206b3f": {
+            "box": {
+                "left": 0.7796685695648193,
+                "top": 0.025237537920475006,
+                "right": 0.9943737983703613,
+                "bottom": 0.17106875777244568
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.988602644241297,
+                "top": 0.1677096066434447,
+                "right": 0.784208056745606,
+                "bottom": 0.03054784318840459
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.988602644241297,
+                "top": 0.07729572731691503,
+                "right": 0.7833467245941113,
+                "bottom": 0.03054784318840459
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.8826566208431643,
+                "top": 0.10689528531119707,
+                "right": 0.7833467245941113,
+                "bottom": 0.07729572731691503
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.988602644241297,
+                "top": 0.10689528531119707,
+                "right": 0.8826566208431643,
+                "bottom": 0.07729572731691503
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.988602644241297,
+                "top": 0.13716244911330389,
+                "right": 0.7833467245941113,
+                "bottom": 0.07729572731691503
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.988602644241297,
+                "top": 0.1677096066434447,
+                "right": 0.7833467245941113,
+                "bottom": 0.10689528531119707
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "34336415-bee9-4f9b-a360-c4a0cc19156d": {
+            "box": {
+                "left": 0.04806023836135864,
+                "top": 0.06958748400211334,
+                "right": 0.7861443758010864,
+                "bottom": 0.17819568514823914
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.053990914497421494,
+                "top": 0.07210126587797305,
+                "right": 0.7822809332093108,
+                "bottom": 0.17819444869956858
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.053990914497421494,
+                "top": 0.07210126587797305,
+                "right": 0.5767196465419602,
+                "bottom": 0.10213787565786614
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5767196465419602,
+                "top": 0.07210126587797305,
+                "right": 0.7824349535524462,
+                "bottom": 0.10213787565786614
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.053990914497421494,
+                "top": 0.10213787565786614,
+                "right": 0.5767196465419602,
+                "bottom": 0.1325655374148429
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5767196465419602,
+                "top": 0.10213787565786614,
+                "right": 0.7824349535524462,
+                "bottom": 0.1325655374148429
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.053990914497421494,
+                "top": 0.1325655374148429,
+                "right": 0.7824349535524462,
+                "bottom": 0.17819444869956858
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.053990914497421494,
+                "top": 0.16334054414494847,
+                "right": 0.5767196465419602,
+                "bottom": 0.17819444869956858
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.5767196465419602,
+                "top": 0.16334054414494847,
+                "right": 0.7824349535524462,
+                "bottom": 0.17819444869956858
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "b969c0a4-7945-4c59-83bd-2c5d1caa7a19": {
+            "box": {
+                "left": 0.047995418310165405,
+                "top": 0.16146613657474518,
+                "right": 0.9915566444396973,
+                "bottom": 0.2090802639722824
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6d3a11a0-99cb-4beb-b3fb-1d11989095eb": {
+            "box": {
+                "left": 0.045999228954315186,
+                "top": 0.19366557896137238,
+                "right": 0.9936433434486389,
+                "bottom": 0.29191192984580994
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.05367249967631804,
+                "top": 0.20719635078409016,
+                "right": 0.9863305870934056,
+                "bottom": 0.28977537884635396
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.05367249967631804,
+                "top": 0.20719635078409016,
+                "right": 0.30656374775076856,
+                "bottom": 0.2552641528238411
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.30656374775076856,
+                "top": 0.20719635078409016,
+                "right": 0.9864981750941624,
+                "bottom": 0.28977537884635396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.7824574965711548,
+                "top": 0.20719635078409016,
+                "right": 0.9864981750941624,
+                "bottom": 0.28977537884635396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.05367249967631804,
+                "top": 0.2552641528238411,
+                "right": 0.30656374775076856,
+                "bottom": 0.28977537884635396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "1eaa95ff-3f57-4801-a9d1-5904094c7a1e": {
+            "box": {
+                "left": 0.045654118061065674,
+                "top": 0.2822709381580353,
+                "right": 0.9949145913124084,
+                "bottom": 0.5197215676307678
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4f2e29cc-a1bf-4689-9d43-27e07af4c4fe": {
+            "box": {
+                "left": 0.04474768042564392,
+                "top": 0.5107557773590088,
+                "right": 0.994597315788269,
+                "bottom": 0.7200685739517212
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b726023b-ff6a-464d-b104-02f41365dfa7": {
+            "box": {
+                "left": 0.0436844527721405,
+                "top": 0.705610454082489,
+                "right": 0.9929852485656738,
+                "bottom": 0.7810576558113098
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "07839c9a-c319-47df-96aa-f8ea88ce2b8e": {
+            "box": {
+                "left": 0.035503536462783813,
+                "top": 0.7666294574737549,
+                "right": 0.9870587587356567,
+                "bottom": 0.9805303812026978
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.04821920701004315,
+                "top": 0.770351070242288,
+                "right": 0.9795933689992626,
+                "bottom": 0.9737963308276534
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.04821920701004315,
+                "top": 0.770351070242288,
+                "right": 0.8229809208275825,
+                "bottom": 0.8169246376558075
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5989536637554345,
+                "top": 0.770351070242288,
+                "right": 0.8229809208275825,
+                "bottom": 0.7871890755722095
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.8229809208275825,
+                "top": 0.770351070242288,
+                "right": 0.9807439890302767,
+                "bottom": 0.7871890755722095
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.04821920701004315,
+                "top": 0.7871890755722095,
+                "right": 0.8229809208275825,
+                "bottom": 0.892816207457308
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5989536637554345,
+                "top": 0.7871890755722095,
+                "right": 0.8229809208275825,
+                "bottom": 0.8169246376558075
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.8229809208275825,
+                "top": 0.7871890755722095,
+                "right": 0.9807439890302767,
+                "bottom": 0.8169246376558075
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.04821920701004315,
+                "top": 0.8169246376558075,
+                "right": 0.8229809208275825,
+                "bottom": 0.9087771647107061
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.5989536637554345,
+                "top": 0.8169246376558075,
+                "right": 0.9807439890302767,
+                "bottom": 0.9087771647107061
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.04821920701004315,
+                "top": 0.892816207457308,
+                "right": 0.5989536637554345,
+                "bottom": 0.9737963308276534
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.32906798508786483,
+                "top": 0.892816207457308,
+                "right": 0.5989536637554345,
+                "bottom": 0.9087771647107061
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.5989536637554345,
+                "top": 0.892816207457308,
+                "right": 0.9807439890302767,
+                "bottom": 0.9243041038740003
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.32906798508786483,
+                "top": 0.9087771647107061,
+                "right": 0.8229809208275825,
+                "bottom": 0.9737963308276534
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.5989536637554345,
+                "top": 0.9087771647107061,
+                "right": 0.8229809208275825,
+                "bottom": 0.9243041038740003
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.8229809208275825,
+                "top": 0.9087771647107061,
+                "right": 0.9807439890302767,
+                "bottom": 0.9243041038740003
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.5989536637554345,
+                "top": 0.9243041038740003,
+                "right": 0.8229809208275825,
+                "bottom": 0.9393637742809844
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.8229809208275825,
+                "top": 0.9243041038740003,
+                "right": 0.9807439890302767,
+                "bottom": 0.9393637742809844
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.5989536637554345,
+                "top": 0.9393637742809844,
+                "right": 0.9807439890302767,
+                "bottom": 0.9737963308276534
+            },
+            "page": 0,
+            "type": "tableCell"
+        }
+    },
+    "metadata": {
+        "filename": "kqbb0079_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9855,
+        "credit_usage": 3.0,
+        "job_id": "vt70e74avwwkyu8a5iz81h178",
+        "version": "dpt-2-20250919"
+    }
+}

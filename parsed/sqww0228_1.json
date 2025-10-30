@@ -1,0 +1,303 @@
+{
+    "markdown": "<a id='2e946839-8330-4d72-a82d-e780c534542b'></a>\n\n<::attestation: Signature/Initials\nSignature: legible (WJD)\nReadable Text: For\nHandwritten initials \"WJD\" on a line next to the word \"For\" in the center of the image.::>\n\n<a id='ca603bfa-2374-4570-8258-6461645da8d7'></a>\n\nDate: Time:\n\nWHILE YOU WERE OUT\n\nM: Ms Gunn\n\nFrom:\n\nPhone No.: 416-964-7057\nArea Code Number Extension\n\n<a id='ffdeb780-6de9-42f9-8b72-4f914f09a51b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TELEPHONED</td><td id=\"0-3\"></td><td id=\"0-4\">URGENT</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">PLEASE CALL</td><td id=\"0-7\">(handwritten checkmark)</td><td id=\"0-8\">WANTS TO SEE YOU</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">WILL CALL AGAIN</td><td id=\"0-b\"></td><td id=\"0-c\">CAME TO SEE YOU</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-f\"></td></tr>\n</table>\n\n<a id='39216ede-ea04-42b2-af6d-866f28f8ee00'></a>\n\nMessage\n___\n___\n___\n___\n___\n___\n___\n___\nOperator\n___\n\n<a id='b2b09394-2f66-48f0-9bac-5f85fc4e99fe'></a>\n\nAIRLINE STATIONERY CO., NEW YORK, NEW YORK (212) 532-6525",
+    "chunks": [
+        {
+            "markdown": "<a id='2e946839-8330-4d72-a82d-e780c534542b'></a>\n\n<::attestation: Signature/Initials\nSignature: legible (WJD)\nReadable Text: For\nHandwritten initials \"WJD\" on a line next to the word \"For\" in the center of the image.::>",
+            "type": "attestation",
+            "id": "2e946839-8330-4d72-a82d-e780c534542b",
+            "grounding": {
+                "box": {
+                    "left": 0.1429421603679657,
+                    "top": 0.08862344920635223,
+                    "right": 0.4215696156024933,
+                    "bottom": 0.13316760957241058
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ca603bfa-2374-4570-8258-6461645da8d7'></a>\n\nDate: Time:\n\nWHILE YOU WERE OUT\n\nM: Ms Gunn\n\nFrom:\n\nPhone No.: 416-964-7057\nArea Code Number Extension",
+            "type": "text",
+            "id": "ca603bfa-2374-4570-8258-6461645da8d7",
+            "grounding": {
+                "box": {
+                    "left": 0.14092114567756653,
+                    "top": 0.15551410615444183,
+                    "right": 0.8695405721664429,
+                    "bottom": 0.40481317043304443
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ffdeb780-6de9-42f9-8b72-4f914f09a51b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TELEPHONED</td><td id=\"0-3\"></td><td id=\"0-4\">URGENT</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">PLEASE CALL</td><td id=\"0-7\">(handwritten checkmark)</td><td id=\"0-8\">WANTS TO SEE YOU</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">WILL CALL AGAIN</td><td id=\"0-b\"></td><td id=\"0-c\">CAME TO SEE YOU</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-f\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "ffdeb780-6de9-42f9-8b72-4f914f09a51b",
+            "grounding": {
+                "box": {
+                    "left": 0.14577102661132812,
+                    "top": 0.4094616174697876,
+                    "right": 0.8581763505935669,
+                    "bottom": 0.5587745308876038
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='39216ede-ea04-42b2-af6d-866f28f8ee00'></a>\n\nMessage\n___\n___\n___\n___\n___\n___\n___\n___\nOperator\n___",
+            "type": "text",
+            "id": "39216ede-ea04-42b2-af6d-866f28f8ee00",
+            "grounding": {
+                "box": {
+                    "left": 0.14629486203193665,
+                    "top": 0.5683234333992004,
+                    "right": 0.8617826700210571,
+                    "bottom": 0.8875481486320496
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b2b09394-2f66-48f0-9bac-5f85fc4e99fe'></a>\n\nAIRLINE STATIONERY CO., NEW YORK, NEW YORK (212) 532-6525",
+            "type": "marginalia",
+            "id": "b2b09394-2f66-48f0-9bac-5f85fc4e99fe",
+            "grounding": {
+                "box": {
+                    "left": 0.10778707265853882,
+                    "top": 0.9141649603843689,
+                    "right": 0.9002116322517395,
+                    "bottom": 0.9436782002449036
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2e946839-8330-4d72-a82d-e780c534542b'></a>\n\n<::attestation: Signature/Initials\nSignature: legible (WJD)\nReadable Text: For\nHandwritten initials \"WJD\" on a line next to the word \"For\" in the center of the image.::>\n\n<a id='ca603bfa-2374-4570-8258-6461645da8d7'></a>\n\nDate: Time:\n\nWHILE YOU WERE OUT\n\nM: Ms Gunn\n\nFrom:\n\nPhone No.: 416-964-7057\nArea Code Number Extension\n\n<a id='ffdeb780-6de9-42f9-8b72-4f914f09a51b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TELEPHONED</td><td id=\"0-3\"></td><td id=\"0-4\">URGENT</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">PLEASE CALL</td><td id=\"0-7\">(handwritten checkmark)</td><td id=\"0-8\">WANTS TO SEE YOU</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">WILL CALL AGAIN</td><td id=\"0-b\"></td><td id=\"0-c\">CAME TO SEE YOU</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-f\"></td></tr>\n</table>\n\n<a id='39216ede-ea04-42b2-af6d-866f28f8ee00'></a>\n\nMessage\n___\n___\n___\n___\n___\n___\n___\n___\nOperator\n___\n\n<a id='b2b09394-2f66-48f0-9bac-5f85fc4e99fe'></a>\n\nAIRLINE STATIONERY CO., NEW YORK, NEW YORK (212) 532-6525",
+            "chunks": [
+                "2e946839-8330-4d72-a82d-e780c534542b",
+                "ca603bfa-2374-4570-8258-6461645da8d7",
+                "ffdeb780-6de9-42f9-8b72-4f914f09a51b",
+                "39216ede-ea04-42b2-af6d-866f28f8ee00",
+                "b2b09394-2f66-48f0-9bac-5f85fc4e99fe"
+            ]
+        }
+    ],
+    "grounding": {
+        "2e946839-8330-4d72-a82d-e780c534542b": {
+            "box": {
+                "left": 0.1429421603679657,
+                "top": 0.08862344920635223,
+                "right": 0.4215696156024933,
+                "bottom": 0.13316760957241058
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "ca603bfa-2374-4570-8258-6461645da8d7": {
+            "box": {
+                "left": 0.14092114567756653,
+                "top": 0.15551410615444183,
+                "right": 0.8695405721664429,
+                "bottom": 0.40481317043304443
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ffdeb780-6de9-42f9-8b72-4f914f09a51b": {
+            "box": {
+                "left": 0.14577102661132812,
+                "top": 0.4094616174697876,
+                "right": 0.8581763505935669,
+                "bottom": 0.5587745308876038
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.15620535105519462,
+                "top": 0.4171455706143503,
+                "right": 0.8496529469807754,
+                "bottom": 0.5508751277544057
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.15620535105519462,
+                "top": 0.4171455706143503,
+                "right": 0.4558419294944862,
+                "bottom": 0.4500530835013219
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.4558419294944862,
+                "top": 0.4171455706143503,
+                "right": 0.5010129070840428,
+                "bottom": 0.4500530835013219
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5010129070840428,
+                "top": 0.4171455706143503,
+                "right": 0.8064997103671345,
+                "bottom": 0.4500530835013219
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.8064997103671345,
+                "top": 0.4171455706143503,
+                "right": 0.8489960070708804,
+                "bottom": 0.4500530835013219
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.15620535105519462,
+                "top": 0.4500530835013219,
+                "right": 0.4558419294944862,
+                "bottom": 0.4843614109563035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.4558419294944862,
+                "top": 0.4500530835013219,
+                "right": 0.5010129070840428,
+                "bottom": 0.4843614109563035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5010129070840428,
+                "top": 0.4500530835013219,
+                "right": 0.8064997103671345,
+                "bottom": 0.4843614109563035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.8064997103671345,
+                "top": 0.4500530835013219,
+                "right": 0.8489960070708804,
+                "bottom": 0.4843614109563035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.15620535105519462,
+                "top": 0.4843614109563035,
+                "right": 0.4558419294944862,
+                "bottom": 0.5177444098650987
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.4558419294944862,
+                "top": 0.4843614109563035,
+                "right": 0.5010129070840428,
+                "bottom": 0.5177444098650987
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5010129070840428,
+                "top": 0.4843614109563035,
+                "right": 0.8064997103671345,
+                "bottom": 0.5177444098650987
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.8064997103671345,
+                "top": 0.4843614109563035,
+                "right": 0.8489960070708804,
+                "bottom": 0.5177444098650987
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.15620535105519462,
+                "top": 0.5177444098650987,
+                "right": 0.8489960070708804,
+                "bottom": 0.5508751277544057
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.8064997103671345,
+                "top": 0.5177444098650987,
+                "right": 0.8489960070708804,
+                "bottom": 0.5508751277544057
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "39216ede-ea04-42b2-af6d-866f28f8ee00": {
+            "box": {
+                "left": 0.14629486203193665,
+                "top": 0.5683234333992004,
+                "right": 0.8617826700210571,
+                "bottom": 0.8875481486320496
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b2b09394-2f66-48f0-9bac-5f85fc4e99fe": {
+            "box": {
+                "left": 0.10778707265853882,
+                "top": 0.9141649603843689,
+                "right": 0.9002116322517395,
+                "bottom": 0.9436782002449036
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "sqww0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4953,
+        "credit_usage": 3.0,
+        "job_id": "kttbo2ur0pdynbcuxwnaux81s",
+        "version": "dpt-2-20250919"
+    }
+}

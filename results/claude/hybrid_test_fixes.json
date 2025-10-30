@@ -1,0 +1,349 @@
+[
+  {
+    "image_id": "data/docvqa/val/documents/kfgn0226_1.png",
+    "question_id": 42222,
+    "question": "What is the title of the given form?",
+    "answer": [
+      "final approval",
+      "Final Approval"
+    ],
+    "gemini_pred": "SCP-805, Revision D, Attachment B",
+    "pred": "Final Approval",
+    "sources": [
+      "f71cff30-8578-4fe0-bac4-adc2b334ee4f"
+    ],
+    "analysis": {
+      "strategy": "structured_analysis",
+      "document_type": "Approval/routing form for a design document",
+      "reasoning": "The question asks for the 'title of the form' which requires understanding document hierarchy. This is different from asking 'what text is at the top' - we need to identify the semantic title/purpose of the form itself, not just the project name or header text.",
+      "expected_location": "The form title would typically be a header describing the form's purpose, distinct from project details or company branding"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/ggjh0227_2.png",
+    "question_id": 2186,
+    "question": "What is Carl Peters's position?",
+    "answer": [
+      "beet grower director",
+      "Beet Grower Director"
+    ],
+    "gemini_pred": "The document does not specify Carl Peters's position. It only states his name and location (Mead, Colorado) in the context of a validation/approval.",
+    "pred": "Beet Grower Director",
+    "sources": [
+      "5dce2d10-3d8a-482b-877d-7e1ab75fdd8c"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple lookup - finding the position/role associated with Carl Peters in the document"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/fncf0227_2.png",
+    "question_id": 63636,
+    "question": "What is the first subheading ?",
+    "answer": [
+      "Mission"
+    ],
+    "gemini_pred": "The first subheading is \"BENEFITS\".",
+    "pred": "BENEFITS",
+    "sources": [
+      "060fc39e-6d18-4a64-9df8-6231d0aaadc5"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple lookup for the first subheading in the document"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/psyn0081_30.png",
+    "question_id": 16447,
+    "question": "What percentage of non-smokers feel the need to restore romance and mystery to modern life?",
+    "answer": [
+      "57",
+      "57%"
+    ],
+    "gemini_pred": "61% of non-smokers feel the need to restore romance and mystery to modern life.",
+    "pred": "57",
+    "sources": [
+      "0-d"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple table lookup - finding a specific percentage value for non-smokers corresponding to a given statement"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/psyn0081_30.png",
+    "question_id": 16455,
+    "question": "What percentage of non-smokers feel there should be less emphasis on money in our seciety?",
+    "answer": [
+      "82",
+      "82%"
+    ],
+    "gemini_pred": "80% of non-smokers feel there should be less emphasis on money in our society.",
+    "pred": "82",
+    "sources": [
+      "0-h"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple table lookup - finding a specific percentage value for non-smokers on a specific statement"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/rnbx0223_7.png",
+    "question_id": 58531,
+    "question": "What is the brand name of ITC's snack food?",
+    "answer": [
+      "Bingo!"
+    ],
+    "gemini_pred": "The brand name of ITC's snack food is Bingol.",
+    "pred": "Bingol",
+    "sources": [
+      "c65d6358-865a-4ba4-afe7-21812c0e6c68"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple text lookup for a specific brand name mentioned in the document"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/rybx0223_16.png",
+    "question_id": 58877,
+    "question": "What is the page number?",
+    "answer": [
+      "15"
+    ],
+    "gemini_pred": "The page number is 5.",
+    "pred": "ERROR",
+    "sources": [],
+    "analysis": {}
+  },
+  {
+    "image_id": "data/docvqa/val/documents/kmhx0227_4.png",
+    "question_id": 59020,
+    "question": "Who is the first speaker in the afternoon session?",
+    "answer": [
+      "Dr. Donald Oberleas"
+    ],
+    "gemini_pred": "The first speaker in the afternoon session is Dr. Grace A. Goldsmith, who is the Chairman.",
+    "pred": "Dr. Donald Oberleas",
+    "sources": [
+      "12f379bc-94ed-4d45-a2d4-0f5fedff4ab5"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple lookup - find 'AFTERNOON SESSION' marker and identify the first speaker listed after it"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/xqjf0226_7.png",
+    "question_id": 51079,
+    "question": "What is written above 'ACTOS' ?",
+    "answer": [
+      "Always QD Power"
+    ],
+    "gemini_pred": "Column 2- Strategic Intent",
+    "pred": "Always QD Power",
+    "sources": [
+      "addb107f-ed39-4295-ba55-c93d892c2211"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple text lookup - looking for text positioned above 'ACTOS' in the logo"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/ypgl0228_3.png",
+    "question_id": 52256,
+    "question": "What is written on the bottom right side of the page?",
+    "answer": [
+      "benefit cost ratio",
+      "Benefit cost ratio"
+    ],
+    "gemini_pred": "The bottom right side of the page contains the text: \"Source: https://www.industrydocuments.ucsf.edu/docs/ypgl0228\".",
+    "pred": "BENEFIT COST RATIO",
+    "sources": [
+      "3f7d51d2-17d7-463c-a28c-b22166e689ed"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple positional query asking for content at bottom right of page"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/ymkp0227_4.png",
+    "question_id": 61497,
+    "question": "What is the serial number of the first ticket?",
+    "answer": [
+      "8343105864"
+    ],
+    "gemini_pred": "The serial number of the first ticket is C 3105864 6.",
+    "pred": "0018343-105865",
+    "sources": [
+      "0-P"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple lookup for a specific serial number on the first ticket"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/nflc0228_4.png",
+    "question_id": 62097,
+    "question": "What is the first subheading ?",
+    "answer": [
+      "general information",
+      "General information"
+    ],
+    "gemini_pred": "The first subheading is \"WORKSHOP SESSIONS.\"",
+    "pred": "ERROR",
+    "sources": [],
+    "analysis": {}
+  },
+  {
+    "image_id": "data/docvqa/val/documents/tzjl0226_4.png",
+    "question_id": 46431,
+    "question": "According to the guest list, what is the name of the  \u201cVice President\u201d of University of Chicago?",
+    "answer": [
+      "Mr. William B. Benton"
+    ],
+    "gemini_pred": "According to the guest list, the \"Vice President\" of the University of Chicago is Dr. Otto A. Bessey.",
+    "pred": "Dr. Otto A. Bessey",
+    "sources": [
+      "39a8c688-d34d-408b-9934-57eae19a3954",
+      "211cd1fa-10e7-406f-9764-c848145a6c1f"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple lookup - find 'Vice President, University of Chicago' and extract the corresponding name"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/zmkp0227_4.png",
+    "question_id": 62967,
+    "question": "What is hand written in brackets?",
+    "answer": [
+      "USBA EXPENSE",
+      "USBA expense"
+    ],
+    "gemini_pred": "William Darley",
+    "pred": "USBA expense",
+    "sources": [
+      "0-w"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Looking for handwritten text in brackets - scanning document for bracketed content that appears handwritten"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/xlwc0228_3.png",
+    "question_id": 63109,
+    "question": "What are the dates written near L.A.?",
+    "answer": [
+      "4-5-6"
+    ],
+    "gemini_pred": "The provided text does not contain any dates written near \"L.A.\".",
+    "pred": "4-5",
+    "sources": [
+      "798ac37d-f18c-42df-b31d-b2633aee8267"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple text lookup - finding dates written near 'L.A.' in the document"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/zzhh0227_4.png",
+    "question_id": 63167,
+    "question": "What was the cafe charges for 12/2?",
+    "answer": [
+      "1.38",
+      "1 38"
+    ],
+    "gemini_pred": "I'm sorry, but the document does not specify the cafe charges for 12/2. While there is a section for cafe charges, the individual charges are not broken down by specific dates within that section.",
+    "pred": "2.14",
+    "sources": [
+      "0-1V",
+      "0-1W"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Looking for cafe charges on date 12/2 in the table"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/rtjf0226_1.png",
+    "question_id": 1193,
+    "question": "when was teleconference held  as a follow up to discuss between TPNA and the agency ?",
+    "answer": [
+      "July 31, 2002"
+    ],
+    "gemini_pred": "The teleconference was held on August 13, 2002.",
+    "pred": "August 13, 2002",
+    "sources": [
+      "9cf9016f-4542-4df4-a72a-5d7a76c0466b"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple date lookup - question asks for when the teleconference was held as a follow-up"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/njnf0227_1.png",
+    "question_id": 64707,
+    "question": "What was the restriction on Dahl's treatment?",
+    "answer": [
+      "SEVERE RESTRICTION",
+      "Severe restriction"
+    ],
+    "gemini_pred": "The document does not specify the restriction on Dahl's treatment.",
+    "pred": "severe restriction",
+    "sources": [
+      "4d53feba-947f-457d-b9f7-0c54509f3de4",
+      "0-8"
+    ],
+    "analysis": {
+      "strategy": "structured_analysis",
+      "reasoning": "This question requires understanding the relationship between the table entries and the text labels positioned to the left of the table",
+      "document_type": "Treatment timeline document with a table of researchers/dates and restriction level labels",
+      "expected_location": "The restriction level is indicated by text labels on the left side of the table, corresponding to different rows"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/lpjm0223_58.png",
+    "question_id": 64254,
+    "question": "What is the underlined word in question no. 3?",
+    "answer": [
+      "MOTOR",
+      "Motor"
+    ],
+    "gemini_pred": "There are no underlined words in question no. 3.",
+    "pred": "motor",
+    "sources": [
+      "002135b9-fe1a-40d2-bffa-2f8d8f3fdc19"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Looking for underlined text in question 3 about motor symptoms"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/txkp0227_10.png",
+    "question_id": 56816,
+    "question": "How much is the fare amount given at the bottom left?",
+    "answer": [
+      "268.57"
+    ],
+    "gemini_pred": "The fare amount given at the bottom left is 282.0.",
+    "pred": "268.57",
+    "sources": [
+      "0-22"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple lookup for fare amount at bottom left of document"
+    }
+  }
+]

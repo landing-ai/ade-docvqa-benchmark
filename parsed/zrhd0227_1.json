@@ -1,0 +1,453 @@
+{
+    "markdown": "<a id='dae99c41-5a19-4204-a23c-46f8785e085a'></a>\n\n<::logo: amsa\namsa\nThe logo features the word \"amsa\" in a stylized, sans-serif font, where the 'm' and 's' are connected by a flowing curve.::>\n\n<a id='2a6b781c-2ad3-4690-a13f-0496d30214fd'></a>\n\namerican medical student association foundation / 1400 hicks road / rolling meadows, il 60008 / (312) 259-7450\na public foundation developing leaders in health\nformerly sama foundation\n\n<a id='5b798e2a-7af5-4c3d-bb4b-908f9409141f'></a>\n\nOctober 22, 1975\n\n<a id='289e1016-1db0-4ee3-b462-3ac8a2ad4ff7'></a>\n\nRobert Shank, M.D.\nPreventive Medicine & Public Health\nWashington University\nSchool of Medicine\nWashington University Medical Center\n660 South Euclid Avenue\nSt. Louis MO 63110\n\n<a id='84229056-335b-4d71-bc5a-84463f0c2b3b'></a>\n\n*Dear Dr. Shank:*\n\n<a id='3d46c92d-8b6c-49db-9a3e-900dc7a0db99'></a>\n\nThe enclosed material is intended to publicize the AMSA Foundation/\nNHSC Primary Care Preceptorship Program, which provides a six to\nnine week experience for clinical level medical and osteopathic\nstudents with primary care physicians practicing in rural communi-\nties.\n\n<a id='8fdb3e0d-452d-4717-962c-99f155046567'></a>\n\nA copy of our program's educational guidelines is enclosed for your information.\n\n<a id='85531757-deca-49bc-aa37-b59d39297eb4'></a>\n\nWe would appreciate your help in publicizing this project to stu-\ndents at your school by displaying the posters and informing your\nstudents of the program.\n\n<a id='2145b92f-91ac-4fdb-a9a3-b67f66fdd4a1'></a>\n\nIf you or any of your students have any questions about the program,\nplease feel free to call us at 312/259-7450.\n\n<a id='6b27dccd-f932-40b5-b0bb-c468e19a24a2'></a>\n\n<::attestation: [Signature] [signed] [Signature: legible] Regards, Robert Stocking Field Coordinator NHSC PRECEPTORSHIP The signature \"Robert Stocking\" is handwritten in cursive, positioned below the typed word \"Regards,\" and above the typed name and title \"Robert Stocking Field Coordinator NHSC PRECEPTORSHIP\".::>\n\n<a id='cbb85e70-6837-4dd6-9d75-548272cc2543'></a>\n\nRS:td\nEncl.\n\n<a id='ba8408cd-3df8-4ecc-aa7e-a42af7b4d187'></a>\n\nGeorge M. Blatti, M.D.\nPresident\nDaniel J. Ostergaard, M.D.\nVice-President/Secretary-Treasurer\n\n<a id='590244bc-60bd-44e0-aa73-bbc79d0cb3fb'></a>\n\nRobert W. Blum, M.D.\nJon Dennis\nFrancis Rushton\n\n<a id='bcd24aee-54ca-4326-8b5e-16cdd40b196c'></a>\n\nBOARD OF DIRECTORS\n\nLaurel A. Cappa\nJoan Fairchild, R.N.\n\nCharles Clements\nKevin Fickenscher\nW. Grady Stumbo, M.D.\n\n<a id='0faeefcf-0564-4436-9360-0a8d57e3095c'></a>\n\nPaul R. Wright\nExecutive Director\n\n<a id='68633cf9-fd78-4ff2-bb05-a3b3dc355e67'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zrhd0227\n\n<a id='306bf3ad-2480-42da-8d44-8f1283f3863f'></a>\n\nfoundation",
+    "chunks": [
+        {
+            "markdown": "<a id='dae99c41-5a19-4204-a23c-46f8785e085a'></a>\n\n<::logo: amsa\namsa\nThe logo features the word \"amsa\" in a stylized, sans-serif font, where the 'm' and 's' are connected by a flowing curve.::>",
+            "type": "logo",
+            "id": "dae99c41-5a19-4204-a23c-46f8785e085a",
+            "grounding": {
+                "box": {
+                    "left": 0.06648203730583191,
+                    "top": 0.03916162997484207,
+                    "right": 0.2600308954715729,
+                    "bottom": 0.08560933917760849
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2a6b781c-2ad3-4690-a13f-0496d30214fd'></a>\n\namerican medical student association foundation / 1400 hicks road / rolling meadows, il 60008 / (312) 259-7450\na public foundation developing leaders in health\nformerly sama foundation",
+            "type": "text",
+            "id": "2a6b781c-2ad3-4690-a13f-0496d30214fd",
+            "grounding": {
+                "box": {
+                    "left": 0.26081833243370056,
+                    "top": 0.040790483355522156,
+                    "right": 0.9685813188552856,
+                    "bottom": 0.08417268842458725
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5b798e2a-7af5-4c3d-bb4b-908f9409141f'></a>\n\nOctober 22, 1975",
+            "type": "marginalia",
+            "id": "5b798e2a-7af5-4c3d-bb4b-908f9409141f",
+            "grounding": {
+                "box": {
+                    "left": 0.18168708682060242,
+                    "top": 0.15912559628486633,
+                    "right": 0.3492847979068756,
+                    "bottom": 0.17857670783996582
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='289e1016-1db0-4ee3-b462-3ac8a2ad4ff7'></a>\n\nRobert Shank, M.D.\nPreventive Medicine & Public Health\nWashington University\nSchool of Medicine\nWashington University Medical Center\n660 South Euclid Avenue\nSt. Louis MO 63110",
+            "type": "text",
+            "id": "289e1016-1db0-4ee3-b462-3ac8a2ad4ff7",
+            "grounding": {
+                "box": {
+                    "left": 0.18140406906604767,
+                    "top": 0.21843358874320984,
+                    "right": 0.5361941456794739,
+                    "bottom": 0.32727721333503723
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='84229056-335b-4d71-bc5a-84463f0c2b3b'></a>\n\n*Dear Dr. Shank:*",
+            "type": "text",
+            "id": "84229056-335b-4d71-bc5a-84463f0c2b3b",
+            "grounding": {
+                "box": {
+                    "left": 0.1824967861175537,
+                    "top": 0.3371546268463135,
+                    "right": 0.3391163945198059,
+                    "bottom": 0.3552456498146057
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3d46c92d-8b6c-49db-9a3e-900dc7a0db99'></a>\n\nThe enclosed material is intended to publicize the AMSA Foundation/\nNHSC Primary Care Preceptorship Program, which provides a six to\nnine week experience for clinical level medical and osteopathic\nstudents with primary care physicians practicing in rural communi-\nties.",
+            "type": "text",
+            "id": "3d46c92d-8b6c-49db-9a3e-900dc7a0db99",
+            "grounding": {
+                "box": {
+                    "left": 0.1815759241580963,
+                    "top": 0.3654572665691376,
+                    "right": 0.827771782875061,
+                    "bottom": 0.44316837191581726
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8fdb3e0d-452d-4717-962c-99f155046567'></a>\n\nA copy of our program's educational guidelines is enclosed for your information.",
+            "type": "text",
+            "id": "8fdb3e0d-452d-4717-962c-99f155046567",
+            "grounding": {
+                "box": {
+                    "left": 0.1802786886692047,
+                    "top": 0.4546125829219818,
+                    "right": 0.827440619468689,
+                    "bottom": 0.4887605607509613
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='85531757-deca-49bc-aa37-b59d39297eb4'></a>\n\nWe would appreciate your help in publicizing this project to stu-\ndents at your school by displaying the posters and informing your\nstudents of the program.",
+            "type": "text",
+            "id": "85531757-deca-49bc-aa37-b59d39297eb4",
+            "grounding": {
+                "box": {
+                    "left": 0.1818782389163971,
+                    "top": 0.49826276302337646,
+                    "right": 0.8091522455215454,
+                    "bottom": 0.5471328496932983
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2145b92f-91ac-4fdb-a9a3-b67f66fdd4a1'></a>\n\nIf you or any of your students have any questions about the program,\nplease feel free to call us at 312/259-7450.",
+            "type": "text",
+            "id": "2145b92f-91ac-4fdb-a9a3-b67f66fdd4a1",
+            "grounding": {
+                "box": {
+                    "left": 0.1814630627632141,
+                    "top": 0.5565286874771118,
+                    "right": 0.834361732006073,
+                    "bottom": 0.5929592847824097
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6b27dccd-f932-40b5-b0bb-c468e19a24a2'></a>\n\n<::attestation: [Signature] [signed] [Signature: legible] Regards, Robert Stocking Field Coordinator NHSC PRECEPTORSHIP The signature \"Robert Stocking\" is handwritten in cursive, positioned below the typed word \"Regards,\" and above the typed name and title \"Robert Stocking Field Coordinator NHSC PRECEPTORSHIP\".::>",
+            "type": "attestation",
+            "id": "6b27dccd-f932-40b5-b0bb-c468e19a24a2",
+            "grounding": {
+                "box": {
+                    "left": 0.1803477704524994,
+                    "top": 0.6010120511054993,
+                    "right": 0.42850229144096375,
+                    "bottom": 0.7118132710456848
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cbb85e70-6837-4dd6-9d75-548272cc2543'></a>\n\nRS:td\nEncl.",
+            "type": "text",
+            "id": "cbb85e70-6837-4dd6-9d75-548272cc2543",
+            "grounding": {
+                "box": {
+                    "left": 0.18229219317436218,
+                    "top": 0.7328987717628479,
+                    "right": 0.2482738494873047,
+                    "bottom": 0.7692678570747375
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ba8408cd-3df8-4ecc-aa7e-a42af7b4d187'></a>\n\nGeorge M. Blatti, M.D.\nPresident\nDaniel J. Ostergaard, M.D.\nVice-President/Secretary-Treasurer",
+            "type": "text",
+            "id": "ba8408cd-3df8-4ecc-aa7e-a42af7b4d187",
+            "grounding": {
+                "box": {
+                    "left": 0.06719960272312164,
+                    "top": 0.8942114114761353,
+                    "right": 0.2716214060783386,
+                    "bottom": 0.9517440795898438
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='590244bc-60bd-44e0-aa73-bbc79d0cb3fb'></a>\n\nRobert W. Blum, M.D.\nJon Dennis\nFrancis Rushton",
+            "type": "text",
+            "id": "590244bc-60bd-44e0-aa73-bbc79d0cb3fb",
+            "grounding": {
+                "box": {
+                    "left": 0.3177226185798645,
+                    "top": 0.8946388959884644,
+                    "right": 0.4582487940788269,
+                    "bottom": 0.938452959060669
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bcd24aee-54ca-4326-8b5e-16cdd40b196c'></a>\n\nBOARD OF DIRECTORS\n\nLaurel A. Cappa\nJoan Fairchild, R.N.\n\nCharles Clements\nKevin Fickenscher\nW. Grady Stumbo, M.D.",
+            "type": "text",
+            "id": "bcd24aee-54ca-4326-8b5e-16cdd40b196c",
+            "grounding": {
+                "box": {
+                    "left": 0.4709230661392212,
+                    "top": 0.8731409311294556,
+                    "right": 0.7785657644271851,
+                    "bottom": 0.9397042989730835
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0faeefcf-0564-4436-9360-0a8d57e3095c'></a>\n\nPaul R. Wright\nExecutive Director",
+            "type": "text",
+            "id": "0faeefcf-0564-4436-9360-0a8d57e3095c",
+            "grounding": {
+                "box": {
+                    "left": 0.838618814945221,
+                    "top": 0.8959223031997681,
+                    "right": 0.9472761750221252,
+                    "bottom": 0.9246999025344849
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='68633cf9-fd78-4ff2-bb05-a3b3dc355e67'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zrhd0227",
+            "type": "text",
+            "id": "68633cf9-fd78-4ff2-bb05-a3b3dc355e67",
+            "grounding": {
+                "box": {
+                    "left": 0.22772789001464844,
+                    "top": 0.9803570508956909,
+                    "right": 0.7763175964355469,
+                    "bottom": 0.9990272521972656
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='306bf3ad-2480-42da-8d44-8f1283f3863f'></a>\n\nfoundation",
+            "type": "text",
+            "id": "306bf3ad-2480-42da-8d44-8f1283f3863f",
+            "grounding": {
+                "box": {
+                    "left": 0.05613978952169418,
+                    "top": 0.08044363558292389,
+                    "right": 0.1454365849494934,
+                    "bottom": 0.3620113730430603
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='dae99c41-5a19-4204-a23c-46f8785e085a'></a>\n\n<::logo: amsa\namsa\nThe logo features the word \"amsa\" in a stylized, sans-serif font, where the 'm' and 's' are connected by a flowing curve.::>\n\n<a id='2a6b781c-2ad3-4690-a13f-0496d30214fd'></a>\n\namerican medical student association foundation / 1400 hicks road / rolling meadows, il 60008 / (312) 259-7450\na public foundation developing leaders in health\nformerly sama foundation\n\n<a id='5b798e2a-7af5-4c3d-bb4b-908f9409141f'></a>\n\nOctober 22, 1975\n\n<a id='289e1016-1db0-4ee3-b462-3ac8a2ad4ff7'></a>\n\nRobert Shank, M.D.\nPreventive Medicine & Public Health\nWashington University\nSchool of Medicine\nWashington University Medical Center\n660 South Euclid Avenue\nSt. Louis MO 63110\n\n<a id='84229056-335b-4d71-bc5a-84463f0c2b3b'></a>\n\n*Dear Dr. Shank:*\n\n<a id='3d46c92d-8b6c-49db-9a3e-900dc7a0db99'></a>\n\nThe enclosed material is intended to publicize the AMSA Foundation/\nNHSC Primary Care Preceptorship Program, which provides a six to\nnine week experience for clinical level medical and osteopathic\nstudents with primary care physicians practicing in rural communi-\nties.\n\n<a id='8fdb3e0d-452d-4717-962c-99f155046567'></a>\n\nA copy of our program's educational guidelines is enclosed for your information.\n\n<a id='85531757-deca-49bc-aa37-b59d39297eb4'></a>\n\nWe would appreciate your help in publicizing this project to stu-\ndents at your school by displaying the posters and informing your\nstudents of the program.\n\n<a id='2145b92f-91ac-4fdb-a9a3-b67f66fdd4a1'></a>\n\nIf you or any of your students have any questions about the program,\nplease feel free to call us at 312/259-7450.\n\n<a id='6b27dccd-f932-40b5-b0bb-c468e19a24a2'></a>\n\n<::attestation: [Signature] [signed] [Signature: legible] Regards, Robert Stocking Field Coordinator NHSC PRECEPTORSHIP The signature \"Robert Stocking\" is handwritten in cursive, positioned below the typed word \"Regards,\" and above the typed name and title \"Robert Stocking Field Coordinator NHSC PRECEPTORSHIP\".::>\n\n<a id='cbb85e70-6837-4dd6-9d75-548272cc2543'></a>\n\nRS:td\nEncl.\n\n<a id='ba8408cd-3df8-4ecc-aa7e-a42af7b4d187'></a>\n\nGeorge M. Blatti, M.D.\nPresident\nDaniel J. Ostergaard, M.D.\nVice-President/Secretary-Treasurer\n\n<a id='590244bc-60bd-44e0-aa73-bbc79d0cb3fb'></a>\n\nRobert W. Blum, M.D.\nJon Dennis\nFrancis Rushton\n\n<a id='bcd24aee-54ca-4326-8b5e-16cdd40b196c'></a>\n\nBOARD OF DIRECTORS\n\nLaurel A. Cappa\nJoan Fairchild, R.N.\n\nCharles Clements\nKevin Fickenscher\nW. Grady Stumbo, M.D.\n\n<a id='0faeefcf-0564-4436-9360-0a8d57e3095c'></a>\n\nPaul R. Wright\nExecutive Director\n\n<a id='68633cf9-fd78-4ff2-bb05-a3b3dc355e67'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zrhd0227\n\n<a id='306bf3ad-2480-42da-8d44-8f1283f3863f'></a>\n\nfoundation",
+            "chunks": [
+                "dae99c41-5a19-4204-a23c-46f8785e085a",
+                "2a6b781c-2ad3-4690-a13f-0496d30214fd",
+                "5b798e2a-7af5-4c3d-bb4b-908f9409141f",
+                "289e1016-1db0-4ee3-b462-3ac8a2ad4ff7",
+                "84229056-335b-4d71-bc5a-84463f0c2b3b",
+                "3d46c92d-8b6c-49db-9a3e-900dc7a0db99",
+                "8fdb3e0d-452d-4717-962c-99f155046567",
+                "85531757-deca-49bc-aa37-b59d39297eb4",
+                "2145b92f-91ac-4fdb-a9a3-b67f66fdd4a1",
+                "6b27dccd-f932-40b5-b0bb-c468e19a24a2",
+                "cbb85e70-6837-4dd6-9d75-548272cc2543",
+                "ba8408cd-3df8-4ecc-aa7e-a42af7b4d187",
+                "590244bc-60bd-44e0-aa73-bbc79d0cb3fb",
+                "bcd24aee-54ca-4326-8b5e-16cdd40b196c",
+                "0faeefcf-0564-4436-9360-0a8d57e3095c",
+                "68633cf9-fd78-4ff2-bb05-a3b3dc355e67",
+                "306bf3ad-2480-42da-8d44-8f1283f3863f"
+            ]
+        }
+    ],
+    "grounding": {
+        "dae99c41-5a19-4204-a23c-46f8785e085a": {
+            "box": {
+                "left": 0.06648203730583191,
+                "top": 0.03916162997484207,
+                "right": 0.2600308954715729,
+                "bottom": 0.08560933917760849
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "2a6b781c-2ad3-4690-a13f-0496d30214fd": {
+            "box": {
+                "left": 0.26081833243370056,
+                "top": 0.040790483355522156,
+                "right": 0.9685813188552856,
+                "bottom": 0.08417268842458725
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5b798e2a-7af5-4c3d-bb4b-908f9409141f": {
+            "box": {
+                "left": 0.18168708682060242,
+                "top": 0.15912559628486633,
+                "right": 0.3492847979068756,
+                "bottom": 0.17857670783996582
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "289e1016-1db0-4ee3-b462-3ac8a2ad4ff7": {
+            "box": {
+                "left": 0.18140406906604767,
+                "top": 0.21843358874320984,
+                "right": 0.5361941456794739,
+                "bottom": 0.32727721333503723
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "84229056-335b-4d71-bc5a-84463f0c2b3b": {
+            "box": {
+                "left": 0.1824967861175537,
+                "top": 0.3371546268463135,
+                "right": 0.3391163945198059,
+                "bottom": 0.3552456498146057
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3d46c92d-8b6c-49db-9a3e-900dc7a0db99": {
+            "box": {
+                "left": 0.1815759241580963,
+                "top": 0.3654572665691376,
+                "right": 0.827771782875061,
+                "bottom": 0.44316837191581726
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8fdb3e0d-452d-4717-962c-99f155046567": {
+            "box": {
+                "left": 0.1802786886692047,
+                "top": 0.4546125829219818,
+                "right": 0.827440619468689,
+                "bottom": 0.4887605607509613
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "85531757-deca-49bc-aa37-b59d39297eb4": {
+            "box": {
+                "left": 0.1818782389163971,
+                "top": 0.49826276302337646,
+                "right": 0.8091522455215454,
+                "bottom": 0.5471328496932983
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2145b92f-91ac-4fdb-a9a3-b67f66fdd4a1": {
+            "box": {
+                "left": 0.1814630627632141,
+                "top": 0.5565286874771118,
+                "right": 0.834361732006073,
+                "bottom": 0.5929592847824097
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6b27dccd-f932-40b5-b0bb-c468e19a24a2": {
+            "box": {
+                "left": 0.1803477704524994,
+                "top": 0.6010120511054993,
+                "right": 0.42850229144096375,
+                "bottom": 0.7118132710456848
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "cbb85e70-6837-4dd6-9d75-548272cc2543": {
+            "box": {
+                "left": 0.18229219317436218,
+                "top": 0.7328987717628479,
+                "right": 0.2482738494873047,
+                "bottom": 0.7692678570747375
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ba8408cd-3df8-4ecc-aa7e-a42af7b4d187": {
+            "box": {
+                "left": 0.06719960272312164,
+                "top": 0.8942114114761353,
+                "right": 0.2716214060783386,
+                "bottom": 0.9517440795898438
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "590244bc-60bd-44e0-aa73-bbc79d0cb3fb": {
+            "box": {
+                "left": 0.3177226185798645,
+                "top": 0.8946388959884644,
+                "right": 0.4582487940788269,
+                "bottom": 0.938452959060669
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bcd24aee-54ca-4326-8b5e-16cdd40b196c": {
+            "box": {
+                "left": 0.4709230661392212,
+                "top": 0.8731409311294556,
+                "right": 0.7785657644271851,
+                "bottom": 0.9397042989730835
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0faeefcf-0564-4436-9360-0a8d57e3095c": {
+            "box": {
+                "left": 0.838618814945221,
+                "top": 0.8959223031997681,
+                "right": 0.9472761750221252,
+                "bottom": 0.9246999025344849
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "68633cf9-fd78-4ff2-bb05-a3b3dc355e67": {
+            "box": {
+                "left": 0.22772789001464844,
+                "top": 0.9803570508956909,
+                "right": 0.7763175964355469,
+                "bottom": 0.9990272521972656
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "306bf3ad-2480-42da-8d44-8f1283f3863f": {
+            "box": {
+                "left": 0.05613978952169418,
+                "top": 0.08044363558292389,
+                "right": 0.1454365849494934,
+                "bottom": 0.3620113730430603
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "zrhd0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5354,
+        "credit_usage": 3.0,
+        "job_id": "kpvkaqc794e2fs15sj5zxc1rf",
+        "version": "dpt-2-20250919"
+    }
+}

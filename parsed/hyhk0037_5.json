@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='6d5874a1-c475-40fe-9df7-eb7dded18ef5'></a>\n\n<::logo: Black & Mild\nB&W\nThree stylized black leaves are arranged in a fan-like pattern above the text.::>\n\n<a id='e0c680f3-291f-4cb8-b01e-d746f8e539ed'></a>\n\nKOOL KS\n\n<a id='b48857b3-cfa2-4e8d-8af6-cf2daec2d595'></a>\n\n# Monitor Results\n\n* *KOOL KS Vs. Newport KS*\n  * KOOL KS Was Found To Be At Parity With Newport KS Among KOOL KS And Newport KS Smokers\n* *KOOL KS Vs. Salem KS*\n  * KOOL KS Was Found To Be Superior To Salem KS Among Salem KS Smokers And At Parity Among KOOL KS Smokers\n\n<a id='f1a83e1e-e73c-4fe3-9707-248a39c89e94'></a>\n\n> Status\n\n*   *KOOL KS Vs. Newport KS Monitor Will Be Conducted Again Using A Greater Number Of Total Smokers (n > 400 compared to n < 300)*\n\n<a id='78b8d2b5-3a7b-4364-a676-baaffb29670b'></a>\n\nDMP4b\n\n<a id='033fcf52-cdc9-478d-99d1-9b539db0fdb4'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hyhk0037\n\n<a id='d20664b6-501e-4033-b3bd-8ab4670b7f29'></a>\n\n3390003882",
+    "chunks": [
+        {
+            "markdown": "<a id='6d5874a1-c475-40fe-9df7-eb7dded18ef5'></a>\n\n<::logo: Black & Mild\nB&W\nThree stylized black leaves are arranged in a fan-like pattern above the text.::>",
+            "type": "logo",
+            "id": "6d5874a1-c475-40fe-9df7-eb7dded18ef5",
+            "grounding": {
+                "box": {
+                    "left": 0.06155285984277725,
+                    "top": 0.06971481442451477,
+                    "right": 0.14822372794151306,
+                    "bottom": 0.18688294291496277
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e0c680f3-291f-4cb8-b01e-d746f8e539ed'></a>\n\nKOOL KS",
+            "type": "text",
+            "id": "e0c680f3-291f-4cb8-b01e-d746f8e539ed",
+            "grounding": {
+                "box": {
+                    "left": 0.3748229146003723,
+                    "top": 0.09186729788780212,
+                    "right": 0.6266875863075256,
+                    "bottom": 0.16601920127868652
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b48857b3-cfa2-4e8d-8af6-cf2daec2d595'></a>\n\n# Monitor Results\n\n* *KOOL KS Vs. Newport KS*\n  * KOOL KS Was Found To Be At Parity With Newport KS Among KOOL KS And Newport KS Smokers\n* *KOOL KS Vs. Salem KS*\n  * KOOL KS Was Found To Be Superior To Salem KS Among Salem KS Smokers And At Parity Among KOOL KS Smokers",
+            "type": "text",
+            "id": "b48857b3-cfa2-4e8d-8af6-cf2daec2d595",
+            "grounding": {
+                "box": {
+                    "left": 0.18560227751731873,
+                    "top": 0.2801012098789215,
+                    "right": 0.858279824256897,
+                    "bottom": 0.6223230361938477
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f1a83e1e-e73c-4fe3-9707-248a39c89e94'></a>\n\n> Status\n\n*   *KOOL KS Vs. Newport KS Monitor Will Be Conducted Again Using A Greater Number Of Total Smokers (n > 400 compared to n < 300)*",
+            "type": "text",
+            "id": "f1a83e1e-e73c-4fe3-9707-248a39c89e94",
+            "grounding": {
+                "box": {
+                    "left": 0.18547388911247253,
+                    "top": 0.6842943429946899,
+                    "right": 0.7590212821960449,
+                    "bottom": 0.8734463453292847
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='78b8d2b5-3a7b-4364-a676-baaffb29670b'></a>\n\nDMP4b",
+            "type": "marginalia",
+            "id": "78b8d2b5-3a7b-4364-a676-baaffb29670b",
+            "grounding": {
+                "box": {
+                    "left": 0.9046876430511475,
+                    "top": 0.9503699541091919,
+                    "right": 0.9419335126876831,
+                    "bottom": 0.971225380897522
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='033fcf52-cdc9-478d-99d1-9b539db0fdb4'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hyhk0037",
+            "type": "marginalia",
+            "id": "033fcf52-cdc9-478d-99d1-9b539db0fdb4",
+            "grounding": {
+                "box": {
+                    "left": 0.28465694189071655,
+                    "top": 0.968960702419281,
+                    "right": 0.7144151329994202,
+                    "bottom": 0.9997919201850891
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d20664b6-501e-4033-b3bd-8ab4670b7f29'></a>\n\n3390003882",
+            "type": "text",
+            "id": "d20664b6-501e-4033-b3bd-8ab4670b7f29",
+            "grounding": {
+                "box": {
+                    "left": 0.03274831175804138,
+                    "top": 0.7472003698348999,
+                    "right": 0.06304187327623367,
+                    "bottom": 0.9261088371276855
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6d5874a1-c475-40fe-9df7-eb7dded18ef5'></a>\n\n<::logo: Black & Mild\nB&W\nThree stylized black leaves are arranged in a fan-like pattern above the text.::>\n\n<a id='e0c680f3-291f-4cb8-b01e-d746f8e539ed'></a>\n\nKOOL KS\n\n<a id='b48857b3-cfa2-4e8d-8af6-cf2daec2d595'></a>\n\n# Monitor Results\n\n* *KOOL KS Vs. Newport KS*\n  * KOOL KS Was Found To Be At Parity With Newport KS Among KOOL KS And Newport KS Smokers\n* *KOOL KS Vs. Salem KS*\n  * KOOL KS Was Found To Be Superior To Salem KS Among Salem KS Smokers And At Parity Among KOOL KS Smokers\n\n<a id='f1a83e1e-e73c-4fe3-9707-248a39c89e94'></a>\n\n> Status\n\n*   *KOOL KS Vs. Newport KS Monitor Will Be Conducted Again Using A Greater Number Of Total Smokers (n > 400 compared to n < 300)*\n\n<a id='78b8d2b5-3a7b-4364-a676-baaffb29670b'></a>\n\nDMP4b\n\n<a id='033fcf52-cdc9-478d-99d1-9b539db0fdb4'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hyhk0037\n\n<a id='d20664b6-501e-4033-b3bd-8ab4670b7f29'></a>\n\n3390003882",
+            "chunks": [
+                "6d5874a1-c475-40fe-9df7-eb7dded18ef5",
+                "e0c680f3-291f-4cb8-b01e-d746f8e539ed",
+                "b48857b3-cfa2-4e8d-8af6-cf2daec2d595",
+                "f1a83e1e-e73c-4fe3-9707-248a39c89e94",
+                "78b8d2b5-3a7b-4364-a676-baaffb29670b",
+                "033fcf52-cdc9-478d-99d1-9b539db0fdb4",
+                "d20664b6-501e-4033-b3bd-8ab4670b7f29"
+            ]
+        }
+    ],
+    "grounding": {
+        "6d5874a1-c475-40fe-9df7-eb7dded18ef5": {
+            "box": {
+                "left": 0.06155285984277725,
+                "top": 0.06971481442451477,
+                "right": 0.14822372794151306,
+                "bottom": 0.18688294291496277
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "e0c680f3-291f-4cb8-b01e-d746f8e539ed": {
+            "box": {
+                "left": 0.3748229146003723,
+                "top": 0.09186729788780212,
+                "right": 0.6266875863075256,
+                "bottom": 0.16601920127868652
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b48857b3-cfa2-4e8d-8af6-cf2daec2d595": {
+            "box": {
+                "left": 0.18560227751731873,
+                "top": 0.2801012098789215,
+                "right": 0.858279824256897,
+                "bottom": 0.6223230361938477
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f1a83e1e-e73c-4fe3-9707-248a39c89e94": {
+            "box": {
+                "left": 0.18547388911247253,
+                "top": 0.6842943429946899,
+                "right": 0.7590212821960449,
+                "bottom": 0.8734463453292847
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "78b8d2b5-3a7b-4364-a676-baaffb29670b": {
+            "box": {
+                "left": 0.9046876430511475,
+                "top": 0.9503699541091919,
+                "right": 0.9419335126876831,
+                "bottom": 0.971225380897522
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "033fcf52-cdc9-478d-99d1-9b539db0fdb4": {
+            "box": {
+                "left": 0.28465694189071655,
+                "top": 0.968960702419281,
+                "right": 0.7144151329994202,
+                "bottom": 0.9997919201850891
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "d20664b6-501e-4033-b3bd-8ab4670b7f29": {
+            "box": {
+                "left": 0.03274831175804138,
+                "top": 0.7472003698348999,
+                "right": 0.06304187327623367,
+                "bottom": 0.9261088371276855
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "hyhk0037_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4713,
+        "credit_usage": 3.0,
+        "job_id": "zs37wddd7igiufono5wohkfr8",
+        "version": "dpt-2-20250919"
+    }
+}

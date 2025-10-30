@@ -1,0 +1,303 @@
+{
+    "markdown": "<a id='c683eef8-f69b-46c8-bb73-113f407070a2'></a>\n\n- see this story from CNN for more details\n\n<a id='3db9f42f-cfdf-4ea4-9ab2-b4b4894857ae'></a>\n\n3. Regulators may order Iressa off market after trial failure\n\nThe FDA is considering removing AstraZeneca's Iressa from the market after a trial showed that it was ineffective in prolonging the lives of lung cancer patients. AstraZeneca says it will not pull the drug on its own but has decided to stop promoting it. Iressa was one of the first in a new category of cancer drugs that promised to interfere with the development of a tumor without the harsh side effects associated with chemotherapy. In trials, the drug shrank tumors in 10 percent of patients who had failed to respond to other treatments. But when the FDA gave its approval to Iressa, it required a follow-up study to demonstrate that the drug prolonged patients' lives. That led to the results announced late last week and leaves Iressa with a doubtful future.\n\n<a id='37051ddd-e0f2-48be-a837-19df072acd81'></a>\n\n- see this story from The New York Times for more details (reg. req.)\n\n<a id='282bb466-e85c-477d-8e8a-8d02229b5bd1'></a>\n\n4. Pharmos shares in meltdown after dexanabinol fails Phase III\n\nShares of Israel's Pharmos melted away in pre-market trading after the company announced that its lead drug candidate flunked a late-stage trial for treating severe traumatic brain injury. Researchers said that patients taking dexanabinol, which some analysts believed had blockbuster potential, did not demonstrate any significant improvement. Pharmos shares lost 77 percent of their value on the news. Pharmos has been developing compounds developed from cannabis for treating central nervous system disorders. \"We are very disappointed and frankly somewhat perplexed that we did not observe any neuroprotective effect of dexanabinol in TBI,\" said Pharmos CEO Haim Aviv. \"In the next few weeks, we will carefully analyze the results of this trial before making final decisions about our future plans, but it is unlikely that we will continue to develop dexanabinol for TBI.\"\n\n<a id='537d80d5-c9b9-4812-a329-7198835d1f08'></a>\n\n- go to this article from the Associated Press for more information\n\n<a id='ac1e4ff7-80fb-430d-a566-479483f93343'></a>\n\nALSO: There was some good news for Pharmos, however. The company will be receiving a $10 million milestone payment from Bausch & Lomb for the eye treatment Zylet. Article\n\n<a id='e522397a-a61b-4b83-a4c9-b6361281544a'></a>\n\n5. **Takeda suspends Phase III trial of diabetes drug**\n\nJapan's Takeda has stopped a Phase III trial of its experimental diabetes drug TAK-559 after researchers received abnormal liver enzyme test results from patients taking the drug. Elevated liver enzyme results have stopped the FDA from approving other diabetes drugs. TAK-559 was being developed as a successor to Takeda's Actos, which loses patent protection in 2010.\n\n<a id='39153462-c7e2-48e7-87ff-caf2fedb382a'></a>\n\n- see this article from the Financial Times for more details\n\n<a id='0e3e4551-740c-4451-b5bf-f7aadbe1692b'></a>\n\nALSO NOTED\n\nTODAY'S SPOTLIGHT... Cardiome touts heart drug trial data Canada's Cardiome Pharma says that a Phase III trial of RSD1235 shows it was effective in restoring normal heart rhythm to 52 percent of patients suffering atrial fibrillation compared to 4 percent\n\n<a id='63d3fa3f-7ef7-4c34-9757-a9ea6fb7d64e'></a>\n\nPLA-TAK-00020531\n\n<a id='4d5d0554-c39c-4cb0-a869-895a850e7ec0'></a>\n\nSource: https://www.indupP6078-00003ts.ucsf.edu/docs/ptjf0226",
+    "chunks": [
+        {
+            "markdown": "<a id='c683eef8-f69b-46c8-bb73-113f407070a2'></a>\n\n- see this story from CNN for more details",
+            "type": "text",
+            "id": "c683eef8-f69b-46c8-bb73-113f407070a2",
+            "grounding": {
+                "box": {
+                    "left": 0.11468768119812012,
+                    "top": 0.07303167879581451,
+                    "right": 0.4703877568244934,
+                    "bottom": 0.09494324028491974
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3db9f42f-cfdf-4ea4-9ab2-b4b4894857ae'></a>\n\n3. Regulators may order Iressa off market after trial failure\n\nThe FDA is considering removing AstraZeneca's Iressa from the market after a trial showed that it was ineffective in prolonging the lives of lung cancer patients. AstraZeneca says it will not pull the drug on its own but has decided to stop promoting it. Iressa was one of the first in a new category of cancer drugs that promised to interfere with the development of a tumor without the harsh side effects associated with chemotherapy. In trials, the drug shrank tumors in 10 percent of patients who had failed to respond to other treatments. But when the FDA gave its approval to Iressa, it required a follow-up study to demonstrate that the drug prolonged patients' lives. That led to the results announced late last week and leaves Iressa with a doubtful future.",
+            "type": "text",
+            "id": "3db9f42f-cfdf-4ea4-9ab2-b4b4894857ae",
+            "grounding": {
+                "box": {
+                    "left": 0.10819527506828308,
+                    "top": 0.1299549639225006,
+                    "right": 0.8811172246932983,
+                    "bottom": 0.2997550368309021
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='37051ddd-e0f2-48be-a837-19df072acd81'></a>\n\n- see this story from The New York Times for more details (reg. req.)",
+            "type": "text",
+            "id": "37051ddd-e0f2-48be-a837-19df072acd81",
+            "grounding": {
+                "box": {
+                    "left": 0.11065390706062317,
+                    "top": 0.30828240513801575,
+                    "right": 0.6960798501968384,
+                    "bottom": 0.33199331164360046
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='282bb466-e85c-477d-8e8a-8d02229b5bd1'></a>\n\n4. Pharmos shares in meltdown after dexanabinol fails Phase III\n\nShares of Israel's Pharmos melted away in pre-market trading after the company announced that its lead drug candidate flunked a late-stage trial for treating severe traumatic brain injury. Researchers said that patients taking dexanabinol, which some analysts believed had blockbuster potential, did not demonstrate any significant improvement. Pharmos shares lost 77 percent of their value on the news. Pharmos has been developing compounds developed from cannabis for treating central nervous system disorders. \"We are very disappointed and frankly somewhat perplexed that we did not observe any neuroprotective effect of dexanabinol in TBI,\" said Pharmos CEO Haim Aviv. \"In the next few weeks, we will carefully analyze the results of this trial before making final decisions about our future plans, but it is unlikely that we will continue to develop dexanabinol for TBI.\"",
+            "type": "text",
+            "id": "282bb466-e85c-477d-8e8a-8d02229b5bd1",
+            "grounding": {
+                "box": {
+                    "left": 0.10791793465614319,
+                    "top": 0.36486873030662537,
+                    "right": 0.8840013742446899,
+                    "bottom": 0.5652508735656738
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='537d80d5-c9b9-4812-a329-7198835d1f08'></a>\n\n- go to this article from the Associated Press for more information",
+            "type": "text",
+            "id": "537d80d5-c9b9-4812-a329-7198835d1f08",
+            "grounding": {
+                "box": {
+                    "left": 0.1120578944683075,
+                    "top": 0.5749431848526001,
+                    "right": 0.6707193851470947,
+                    "bottom": 0.5963492393493652
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ac1e4ff7-80fb-430d-a566-479483f93343'></a>\n\nALSO: There was some good news for Pharmos, however. The company will be receiving a $10 million milestone payment from Bausch & Lomb for the eye treatment Zylet. Article",
+            "type": "text",
+            "id": "ac1e4ff7-80fb-430d-a566-479483f93343",
+            "grounding": {
+                "box": {
+                    "left": 0.11119630932807922,
+                    "top": 0.6031882762908936,
+                    "right": 0.8734692335128784,
+                    "bottom": 0.6412719488143921
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e522397a-a61b-4b83-a4c9-b6361281544a'></a>\n\n5. **Takeda suspends Phase III trial of diabetes drug**\n\nJapan's Takeda has stopped a Phase III trial of its experimental diabetes drug TAK-559 after researchers received abnormal liver enzyme test results from patients taking the drug. Elevated liver enzyme results have stopped the FDA from approving other diabetes drugs. TAK-559 was being developed as a successor to Takeda's Actos, which loses patent protection in 2010.",
+            "type": "text",
+            "id": "e522397a-a61b-4b83-a4c9-b6361281544a",
+            "grounding": {
+                "box": {
+                    "left": 0.11112627387046814,
+                    "top": 0.6752235889434814,
+                    "right": 0.879824161529541,
+                    "bottom": 0.7862112522125244
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='39153462-c7e2-48e7-87ff-caf2fedb382a'></a>\n\n- see this article from the Financial Times for more details",
+            "type": "text",
+            "id": "39153462-c7e2-48e7-87ff-caf2fedb382a",
+            "grounding": {
+                "box": {
+                    "left": 0.11275257170200348,
+                    "top": 0.7952661514282227,
+                    "right": 0.6039631366729736,
+                    "bottom": 0.817870020866394
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0e3e4551-740c-4451-b5bf-f7aadbe1692b'></a>\n\nALSO NOTED\n\nTODAY'S SPOTLIGHT... Cardiome touts heart drug trial data Canada's Cardiome Pharma says that a Phase III trial of RSD1235 shows it was effective in restoring normal heart rhythm to 52 percent of patients suffering atrial fibrillation compared to 4 percent",
+            "type": "text",
+            "id": "0e3e4551-740c-4451-b5bf-f7aadbe1692b",
+            "grounding": {
+                "box": {
+                    "left": 0.10914298892021179,
+                    "top": 0.8526943922042847,
+                    "right": 0.8531051874160767,
+                    "bottom": 0.9308367967605591
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='63d3fa3f-7ef7-4c34-9757-a9ea6fb7d64e'></a>\n\nPLA-TAK-00020531",
+            "type": "marginalia",
+            "id": "63d3fa3f-7ef7-4c34-9757-a9ea6fb7d64e",
+            "grounding": {
+                "box": {
+                    "left": 0.8235457539558411,
+                    "top": 0.9601673483848572,
+                    "right": 0.9730508923530579,
+                    "bottom": 0.9764220118522644
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4d5d0554-c39c-4cb0-a869-895a850e7ec0'></a>\n\nSource: https://www.indupP6078-00003ts.ucsf.edu/docs/ptjf0226",
+            "type": "marginalia",
+            "id": "4d5d0554-c39c-4cb0-a869-895a850e7ec0",
+            "grounding": {
+                "box": {
+                    "left": 0.22232311964035034,
+                    "top": 0.9784018993377686,
+                    "right": 0.7791369557380676,
+                    "bottom": 0.9999531507492065
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c683eef8-f69b-46c8-bb73-113f407070a2'></a>\n\n- see this story from CNN for more details\n\n<a id='3db9f42f-cfdf-4ea4-9ab2-b4b4894857ae'></a>\n\n3. Regulators may order Iressa off market after trial failure\n\nThe FDA is considering removing AstraZeneca's Iressa from the market after a trial showed that it was ineffective in prolonging the lives of lung cancer patients. AstraZeneca says it will not pull the drug on its own but has decided to stop promoting it. Iressa was one of the first in a new category of cancer drugs that promised to interfere with the development of a tumor without the harsh side effects associated with chemotherapy. In trials, the drug shrank tumors in 10 percent of patients who had failed to respond to other treatments. But when the FDA gave its approval to Iressa, it required a follow-up study to demonstrate that the drug prolonged patients' lives. That led to the results announced late last week and leaves Iressa with a doubtful future.\n\n<a id='37051ddd-e0f2-48be-a837-19df072acd81'></a>\n\n- see this story from The New York Times for more details (reg. req.)\n\n<a id='282bb466-e85c-477d-8e8a-8d02229b5bd1'></a>\n\n4. Pharmos shares in meltdown after dexanabinol fails Phase III\n\nShares of Israel's Pharmos melted away in pre-market trading after the company announced that its lead drug candidate flunked a late-stage trial for treating severe traumatic brain injury. Researchers said that patients taking dexanabinol, which some analysts believed had blockbuster potential, did not demonstrate any significant improvement. Pharmos shares lost 77 percent of their value on the news. Pharmos has been developing compounds developed from cannabis for treating central nervous system disorders. \"We are very disappointed and frankly somewhat perplexed that we did not observe any neuroprotective effect of dexanabinol in TBI,\" said Pharmos CEO Haim Aviv. \"In the next few weeks, we will carefully analyze the results of this trial before making final decisions about our future plans, but it is unlikely that we will continue to develop dexanabinol for TBI.\"\n\n<a id='537d80d5-c9b9-4812-a329-7198835d1f08'></a>\n\n- go to this article from the Associated Press for more information\n\n<a id='ac1e4ff7-80fb-430d-a566-479483f93343'></a>\n\nALSO: There was some good news for Pharmos, however. The company will be receiving a $10 million milestone payment from Bausch & Lomb for the eye treatment Zylet. Article\n\n<a id='e522397a-a61b-4b83-a4c9-b6361281544a'></a>\n\n5. **Takeda suspends Phase III trial of diabetes drug**\n\nJapan's Takeda has stopped a Phase III trial of its experimental diabetes drug TAK-559 after researchers received abnormal liver enzyme test results from patients taking the drug. Elevated liver enzyme results have stopped the FDA from approving other diabetes drugs. TAK-559 was being developed as a successor to Takeda's Actos, which loses patent protection in 2010.\n\n<a id='39153462-c7e2-48e7-87ff-caf2fedb382a'></a>\n\n- see this article from the Financial Times for more details\n\n<a id='0e3e4551-740c-4451-b5bf-f7aadbe1692b'></a>\n\nALSO NOTED\n\nTODAY'S SPOTLIGHT... Cardiome touts heart drug trial data Canada's Cardiome Pharma says that a Phase III trial of RSD1235 shows it was effective in restoring normal heart rhythm to 52 percent of patients suffering atrial fibrillation compared to 4 percent\n\n<a id='63d3fa3f-7ef7-4c34-9757-a9ea6fb7d64e'></a>\n\nPLA-TAK-00020531\n\n<a id='4d5d0554-c39c-4cb0-a869-895a850e7ec0'></a>\n\nSource: https://www.indupP6078-00003ts.ucsf.edu/docs/ptjf0226",
+            "chunks": [
+                "c683eef8-f69b-46c8-bb73-113f407070a2",
+                "3db9f42f-cfdf-4ea4-9ab2-b4b4894857ae",
+                "37051ddd-e0f2-48be-a837-19df072acd81",
+                "282bb466-e85c-477d-8e8a-8d02229b5bd1",
+                "537d80d5-c9b9-4812-a329-7198835d1f08",
+                "ac1e4ff7-80fb-430d-a566-479483f93343",
+                "e522397a-a61b-4b83-a4c9-b6361281544a",
+                "39153462-c7e2-48e7-87ff-caf2fedb382a",
+                "0e3e4551-740c-4451-b5bf-f7aadbe1692b",
+                "63d3fa3f-7ef7-4c34-9757-a9ea6fb7d64e",
+                "4d5d0554-c39c-4cb0-a869-895a850e7ec0"
+            ]
+        }
+    ],
+    "grounding": {
+        "c683eef8-f69b-46c8-bb73-113f407070a2": {
+            "box": {
+                "left": 0.11468768119812012,
+                "top": 0.07303167879581451,
+                "right": 0.4703877568244934,
+                "bottom": 0.09494324028491974
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3db9f42f-cfdf-4ea4-9ab2-b4b4894857ae": {
+            "box": {
+                "left": 0.10819527506828308,
+                "top": 0.1299549639225006,
+                "right": 0.8811172246932983,
+                "bottom": 0.2997550368309021
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "37051ddd-e0f2-48be-a837-19df072acd81": {
+            "box": {
+                "left": 0.11065390706062317,
+                "top": 0.30828240513801575,
+                "right": 0.6960798501968384,
+                "bottom": 0.33199331164360046
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "282bb466-e85c-477d-8e8a-8d02229b5bd1": {
+            "box": {
+                "left": 0.10791793465614319,
+                "top": 0.36486873030662537,
+                "right": 0.8840013742446899,
+                "bottom": 0.5652508735656738
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "537d80d5-c9b9-4812-a329-7198835d1f08": {
+            "box": {
+                "left": 0.1120578944683075,
+                "top": 0.5749431848526001,
+                "right": 0.6707193851470947,
+                "bottom": 0.5963492393493652
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ac1e4ff7-80fb-430d-a566-479483f93343": {
+            "box": {
+                "left": 0.11119630932807922,
+                "top": 0.6031882762908936,
+                "right": 0.8734692335128784,
+                "bottom": 0.6412719488143921
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e522397a-a61b-4b83-a4c9-b6361281544a": {
+            "box": {
+                "left": 0.11112627387046814,
+                "top": 0.6752235889434814,
+                "right": 0.879824161529541,
+                "bottom": 0.7862112522125244
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "39153462-c7e2-48e7-87ff-caf2fedb382a": {
+            "box": {
+                "left": 0.11275257170200348,
+                "top": 0.7952661514282227,
+                "right": 0.6039631366729736,
+                "bottom": 0.817870020866394
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0e3e4551-740c-4451-b5bf-f7aadbe1692b": {
+            "box": {
+                "left": 0.10914298892021179,
+                "top": 0.8526943922042847,
+                "right": 0.8531051874160767,
+                "bottom": 0.9308367967605591
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "63d3fa3f-7ef7-4c34-9757-a9ea6fb7d64e": {
+            "box": {
+                "left": 0.8235457539558411,
+                "top": 0.9601673483848572,
+                "right": 0.9730508923530579,
+                "bottom": 0.9764220118522644
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "4d5d0554-c39c-4cb0-a869-895a850e7ec0": {
+            "box": {
+                "left": 0.22232311964035034,
+                "top": 0.9784018993377686,
+                "right": 0.7791369557380676,
+                "bottom": 0.9999531507492065
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "ptjf0226_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4988,
+        "credit_usage": 3.0,
+        "job_id": "gbzbjx4q9cnrdq0kcf633nfy6",
+        "version": "dpt-2-20250919"
+    }
+}

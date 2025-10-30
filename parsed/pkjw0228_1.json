@@ -1,0 +1,323 @@
+{
+    "markdown": "<a id='7403a7cd-0e7b-443c-a5d9-a9dff3168a87'></a>\n\nTo: Dr. Warley\n\nDate: 5-5-86 Time: 11:57A\n\nWHILE YOU WERE OUT\n\nM: Dr. Mrak\n\nof: UC Davis\n\nPhone: (916) 752-2442\nArea Code Number Extension\n\n<a id='ffb2ab7d-85df-441d-8c67-587560a0c1cb'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">TELEPHONED</td><td id=\"0-3\">check mark</td><td id=\"0-4\" colspan=\"3\">PLEASE CALL</td><td id=\"0-5\">check mark with line</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">CALLED TO SEE YOU</td><td id=\"0-7\"></td><td id=\"0-8\" colspan=\"3\">WILL CALL AGAIN</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">WANTS TO SEE YOU</td><td id=\"0-b\"></td><td id=\"0-c\" colspan=\"3\">URGENT</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-g\"></td><td id=\"0-h\" colspan=\"2\"></td></tr>\n</table>\n\n<a id='2d49d968-7642-427e-a50f-1a490d1d615e'></a>\n\nMessage\n\n753 2014\n\n<::attestation: Signature\nSignature: legible (WRS)\nReadable Text: Operator\nShort description of visual elements and positioning: A handwritten signature \"WRS\" is present above the word \"Operator\" at the bottom right of the document.::>\n\n<a id='fab4fa68-362a-4b0b-84ec-ee90c240ef6a'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nOperator\nThis is a black handwritten signature above the word \"Operator\", centered horizontally on a white background.::>\n\n<a id='0616b8c8-5644-4696-bad9-806c379136d2'></a>\n\nMC 0343",
+    "chunks": [
+        {
+            "markdown": "<a id='7403a7cd-0e7b-443c-a5d9-a9dff3168a87'></a>\n\nTo: Dr. Warley\n\nDate: 5-5-86 Time: 11:57A\n\nWHILE YOU WERE OUT\n\nM: Dr. Mrak\n\nof: UC Davis\n\nPhone: (916) 752-2442\nArea Code Number Extension",
+            "type": "text",
+            "id": "7403a7cd-0e7b-443c-a5d9-a9dff3168a87",
+            "grounding": {
+                "box": {
+                    "left": 0.14330077171325684,
+                    "top": 0.10092270374298096,
+                    "right": 0.8725783824920654,
+                    "bottom": 0.4294830560684204
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ffb2ab7d-85df-441d-8c67-587560a0c1cb'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">TELEPHONED</td><td id=\"0-3\">check mark</td><td id=\"0-4\" colspan=\"3\">PLEASE CALL</td><td id=\"0-5\">check mark with line</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">CALLED TO SEE YOU</td><td id=\"0-7\"></td><td id=\"0-8\" colspan=\"3\">WILL CALL AGAIN</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">WANTS TO SEE YOU</td><td id=\"0-b\"></td><td id=\"0-c\" colspan=\"3\">URGENT</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-g\"></td><td id=\"0-h\" colspan=\"2\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "ffb2ab7d-85df-441d-8c67-587560a0c1cb",
+            "grounding": {
+                "box": {
+                    "left": 0.14547979831695557,
+                    "top": 0.43016189336776733,
+                    "right": 0.8685269355773926,
+                    "bottom": 0.6346001029014587
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2d49d968-7642-427e-a50f-1a490d1d615e'></a>\n\nMessage\n\n753 2014\n\n<::attestation: Signature\nSignature: legible (WRS)\nReadable Text: Operator\nShort description of visual elements and positioning: A handwritten signature \"WRS\" is present above the word \"Operator\" at the bottom right of the document.::>",
+            "type": "attestation",
+            "id": "2d49d968-7642-427e-a50f-1a490d1d615e",
+            "grounding": {
+                "box": {
+                    "left": 0.14557752013206482,
+                    "top": 0.6495370268821716,
+                    "right": 0.8646279573440552,
+                    "bottom": 0.8949231505393982
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fab4fa68-362a-4b0b-84ec-ee90c240ef6a'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nOperator\nThis is a black handwritten signature above the word \"Operator\", centered horizontally on a white background.::>",
+            "type": "attestation",
+            "id": "fab4fa68-362a-4b0b-84ec-ee90c240ef6a",
+            "grounding": {
+                "box": {
+                    "left": 0.5689429640769958,
+                    "top": 0.8034917116165161,
+                    "right": 0.7868861556053162,
+                    "bottom": 0.8950409889221191
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0616b8c8-5644-4696-bad9-806c379136d2'></a>\n\nMC 0343",
+            "type": "text",
+            "id": "0616b8c8-5644-4696-bad9-806c379136d2",
+            "grounding": {
+                "box": {
+                    "left": 0.15704022347927094,
+                    "top": 0.9221674799919128,
+                    "right": 0.3042590618133545,
+                    "bottom": 0.9594705700874329
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='7403a7cd-0e7b-443c-a5d9-a9dff3168a87'></a>\n\nTo: Dr. Warley\n\nDate: 5-5-86 Time: 11:57A\n\nWHILE YOU WERE OUT\n\nM: Dr. Mrak\n\nof: UC Davis\n\nPhone: (916) 752-2442\nArea Code Number Extension\n\n<a id='ffb2ab7d-85df-441d-8c67-587560a0c1cb'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">TELEPHONED</td><td id=\"0-3\">check mark</td><td id=\"0-4\" colspan=\"3\">PLEASE CALL</td><td id=\"0-5\">check mark with line</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">CALLED TO SEE YOU</td><td id=\"0-7\"></td><td id=\"0-8\" colspan=\"3\">WILL CALL AGAIN</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">WANTS TO SEE YOU</td><td id=\"0-b\"></td><td id=\"0-c\" colspan=\"3\">URGENT</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-g\"></td><td id=\"0-h\" colspan=\"2\"></td></tr>\n</table>\n\n<a id='2d49d968-7642-427e-a50f-1a490d1d615e'></a>\n\nMessage\n\n753 2014\n\n<::attestation: Signature\nSignature: legible (WRS)\nReadable Text: Operator\nShort description of visual elements and positioning: A handwritten signature \"WRS\" is present above the word \"Operator\" at the bottom right of the document.::>\n\n<a id='fab4fa68-362a-4b0b-84ec-ee90c240ef6a'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nOperator\nThis is a black handwritten signature above the word \"Operator\", centered horizontally on a white background.::>\n\n<a id='0616b8c8-5644-4696-bad9-806c379136d2'></a>\n\nMC 0343",
+            "chunks": [
+                "7403a7cd-0e7b-443c-a5d9-a9dff3168a87",
+                "ffb2ab7d-85df-441d-8c67-587560a0c1cb",
+                "2d49d968-7642-427e-a50f-1a490d1d615e",
+                "fab4fa68-362a-4b0b-84ec-ee90c240ef6a",
+                "0616b8c8-5644-4696-bad9-806c379136d2"
+            ]
+        }
+    ],
+    "grounding": {
+        "7403a7cd-0e7b-443c-a5d9-a9dff3168a87": {
+            "box": {
+                "left": 0.14330077171325684,
+                "top": 0.10092270374298096,
+                "right": 0.8725783824920654,
+                "bottom": 0.4294830560684204
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ffb2ab7d-85df-441d-8c67-587560a0c1cb": {
+            "box": {
+                "left": 0.14547979831695557,
+                "top": 0.43016189336776733,
+                "right": 0.8685269355773926,
+                "bottom": 0.6346001029014587
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.15459020841965165,
+                "top": 0.4369429503094153,
+                "right": 0.8584926254740068,
+                "bottom": 0.6279188236088089
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.15459020841965165,
+                "top": 0.4369429503094153,
+                "right": 0.5007246128093996,
+                "bottom": 0.5302033211669936
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.439024494122485,
+                "top": 0.4369429503094153,
+                "right": 0.5007246128093996,
+                "bottom": 0.4839012583738338
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5007246128093996,
+                "top": 0.4369429503094153,
+                "right": 0.8587143162762274,
+                "bottom": 0.5302033211669936
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7966823509374663,
+                "top": 0.4369429503094153,
+                "right": 0.8587143162762274,
+                "bottom": 0.4839012583738338
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.15459020841965165,
+                "top": 0.4839012583738338,
+                "right": 0.5007246128093996,
+                "bottom": 0.5764992729485243
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.439024494122485,
+                "top": 0.4839012583738338,
+                "right": 0.5007246128093996,
+                "bottom": 0.5302033211669936
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5007246128093996,
+                "top": 0.4839012583738338,
+                "right": 0.8587143162762274,
+                "bottom": 0.5764992729485243
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7966823509374663,
+                "top": 0.4839012583738338,
+                "right": 0.8587143162762274,
+                "bottom": 0.5302033211669936
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.15459020841965165,
+                "top": 0.5302033211669936,
+                "right": 0.5007246128093996,
+                "bottom": 0.6279188236088089
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.439024494122485,
+                "top": 0.5302033211669936,
+                "right": 0.5007246128093996,
+                "bottom": 0.5764992729485243
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5007246128093996,
+                "top": 0.5302033211669936,
+                "right": 0.8587143162762274,
+                "bottom": 0.6279188236088089
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7966823509374663,
+                "top": 0.5302033211669936,
+                "right": 0.8587143162762274,
+                "bottom": 0.5764992729485243
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.15459020841965165,
+                "top": 0.5764992729485243,
+                "right": 0.3085752197316456,
+                "bottom": 0.6279188236088089
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3085752197316456,
+                "top": 0.5764992729485243,
+                "right": 0.7059985301934404,
+                "bottom": 0.6279188236088089
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6506403888960222,
+                "top": 0.5764992729485243,
+                "right": 0.7059985301934404,
+                "bottom": 0.6279188236088089
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.7059985301934404,
+                "top": 0.5764992729485243,
+                "right": 0.8587143162762274,
+                "bottom": 0.6279188236088089
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "2d49d968-7642-427e-a50f-1a490d1d615e": {
+            "box": {
+                "left": 0.14557752013206482,
+                "top": 0.6495370268821716,
+                "right": 0.8646279573440552,
+                "bottom": 0.8949231505393982
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "fab4fa68-362a-4b0b-84ec-ee90c240ef6a": {
+            "box": {
+                "left": 0.5689429640769958,
+                "top": 0.8034917116165161,
+                "right": 0.7868861556053162,
+                "bottom": 0.8950409889221191
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "0616b8c8-5644-4696-bad9-806c379136d2": {
+            "box": {
+                "left": 0.15704022347927094,
+                "top": 0.9221674799919128,
+                "right": 0.3042590618133545,
+                "bottom": 0.9594705700874329
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "pkjw0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8093,
+        "credit_usage": 3.0,
+        "job_id": "afhzpc1bortxdwosdafhxakrg",
+        "version": "dpt-2-20250919"
+    }
+}

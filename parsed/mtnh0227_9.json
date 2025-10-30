@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='93e6aa6c-2c09-431f-b31c-ab1a7dae0a25'></a>\n\n\"OUR BUSINESS HELPS YOUR BUSINESS\"\nDELIVERY RECEIPT\n\n<a id='05d3e554-6596-49bc-a469-9c73fb050fe5'></a>\n\n<::illustration: A stylized character with a hat, sitting on a patterned carpet, flying towards the text.::>\nLaman for Letters,\nAREA CODE 303\n744-6153\n\n<a id='0f2a7e4f-75a7-4539-9cfe-9417a4228411'></a>\n\n2420 So. Delaware Street\nDenver, Colorado 80223\n\nDate: 8/18\nOur J. O. No.: 3088\n\nCust. P. O. No.:\n\n<a id='ddb5385c-a04f-48e3-be09-757377432270'></a>\n\nTo: Great Western United\nEquitable Bldg\natt Berle MacDonald\n\n<a id='c87f1144-25b2-4cc1-8cac-88e2a2b549e0'></a>\n\n<table><thead><tr><th>Quantity</th><th>Description</th></tr></thead><tbody><tr><td>125</td><td>books incomplete<br>addnesses</td></tr><tr><td>approx<br>506</td><td>new Books<br>heftaurus</td></tr><tr><td></td><td>all Great Western<br>70 mag.</td></tr></tbody></table>No. of Packages\n\n<a id='bd79594a-ff2a-40ae-82d7-71ad65746188'></a>\n\nNo. of Packages\nReceived By ___\nDate ___\n\n<a id='eb978098-ec2e-4657-8df9-6c61de8d75ef'></a>\n\nThank You -- your business is appreciated.\n\n<a id='57c91afe-443b-4e7a-8e89-397979fa0a46'></a>\n\n37\n\n<a id='d8c5aeb6-82ce-4698-8d4a-ee6c56a713fe'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mtnh0227",
+    "chunks": [
+        {
+            "markdown": "<a id='93e6aa6c-2c09-431f-b31c-ab1a7dae0a25'></a>\n\n\"OUR BUSINESS HELPS YOUR BUSINESS\"\nDELIVERY RECEIPT",
+            "type": "text",
+            "id": "93e6aa6c-2c09-431f-b31c-ab1a7dae0a25",
+            "grounding": {
+                "box": {
+                    "left": 0.22827142477035522,
+                    "top": 0.04308478161692619,
+                    "right": 0.7704306244850159,
+                    "bottom": 0.09108921885490417
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='05d3e554-6596-49bc-a469-9c73fb050fe5'></a>\n\n<::illustration: A stylized character with a hat, sitting on a patterned carpet, flying towards the text.::>\nLaman for Letters,\nAREA CODE 303\n744-6153",
+            "type": "text",
+            "id": "05d3e554-6596-49bc-a469-9c73fb050fe5",
+            "grounding": {
+                "box": {
+                    "left": 0.08190777897834778,
+                    "top": 0.09376943111419678,
+                    "right": 0.8567682504653931,
+                    "bottom": 0.20104077458381653
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0f2a7e4f-75a7-4539-9cfe-9417a4228411'></a>\n\n2420 So. Delaware Street\nDenver, Colorado 80223\n\nDate: 8/18\nOur J. O. No.: 3088\n\nCust. P. O. No.:",
+            "type": "text",
+            "id": "0f2a7e4f-75a7-4539-9cfe-9417a4228411",
+            "grounding": {
+                "box": {
+                    "left": 0.058891087770462036,
+                    "top": 0.2021942138671875,
+                    "right": 0.9494448900222778,
+                    "bottom": 0.29325973987579346
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ddb5385c-a04f-48e3-be09-757377432270'></a>\n\nTo: Great Western United\nEquitable Bldg\natt Berle MacDonald",
+            "type": "text",
+            "id": "ddb5385c-a04f-48e3-be09-757377432270",
+            "grounding": {
+                "box": {
+                    "left": 0.05975022912025452,
+                    "top": 0.29305794835090637,
+                    "right": 0.9649349451065063,
+                    "bottom": 0.4365180432796478
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c87f1144-25b2-4cc1-8cac-88e2a2b549e0'></a>\n\n<table><thead><tr><th>Quantity</th><th>Description</th></tr></thead><tbody><tr><td>125</td><td>books incomplete<br>addnesses</td></tr><tr><td>approx<br>506</td><td>new Books<br>heftaurus</td></tr><tr><td></td><td>all Great Western<br>70 mag.</td></tr></tbody></table>No. of Packages",
+            "type": "table",
+            "id": "c87f1144-25b2-4cc1-8cac-88e2a2b549e0",
+            "grounding": {
+                "box": {
+                    "left": 0.03876852989196777,
+                    "top": 0.44680917263031006,
+                    "right": 0.9750603437423706,
+                    "bottom": 0.8503347635269165
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bd79594a-ff2a-40ae-82d7-71ad65746188'></a>\n\nNo. of Packages\nReceived By ___\nDate ___",
+            "type": "text",
+            "id": "bd79594a-ff2a-40ae-82d7-71ad65746188",
+            "grounding": {
+                "box": {
+                    "left": 0.06028732657432556,
+                    "top": 0.8278586268424988,
+                    "right": 0.38448840379714966,
+                    "bottom": 0.9106852412223816
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='eb978098-ec2e-4657-8df9-6c61de8d75ef'></a>\n\nThank You -- your business is appreciated.",
+            "type": "text",
+            "id": "eb978098-ec2e-4657-8df9-6c61de8d75ef",
+            "grounding": {
+                "box": {
+                    "left": 0.090212881565094,
+                    "top": 0.9137136936187744,
+                    "right": 0.9012651443481445,
+                    "bottom": 0.9436465501785278
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='57c91afe-443b-4e7a-8e89-397979fa0a46'></a>\n\n37",
+            "type": "marginalia",
+            "id": "57c91afe-443b-4e7a-8e89-397979fa0a46",
+            "grounding": {
+                "box": {
+                    "left": 0.06255973875522614,
+                    "top": 0.9477090239524841,
+                    "right": 0.11011259257793427,
+                    "bottom": 0.9688337445259094
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d8c5aeb6-82ce-4698-8d4a-ee6c56a713fe'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mtnh0227",
+            "type": "text",
+            "id": "d8c5aeb6-82ce-4698-8d4a-ee6c56a713fe",
+            "grounding": {
+                "box": {
+                    "left": 0.05864521861076355,
+                    "top": 0.9733504056930542,
+                    "right": 0.9403432607650757,
+                    "bottom": 0.9992598295211792
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='93e6aa6c-2c09-431f-b31c-ab1a7dae0a25'></a>\n\n\"OUR BUSINESS HELPS YOUR BUSINESS\"\nDELIVERY RECEIPT\n\n<a id='05d3e554-6596-49bc-a469-9c73fb050fe5'></a>\n\n<::illustration: A stylized character with a hat, sitting on a patterned carpet, flying towards the text.::>\nLaman for Letters,\nAREA CODE 303\n744-6153\n\n<a id='0f2a7e4f-75a7-4539-9cfe-9417a4228411'></a>\n\n2420 So. Delaware Street\nDenver, Colorado 80223\n\nDate: 8/18\nOur J. O. No.: 3088\n\nCust. P. O. No.:\n\n<a id='ddb5385c-a04f-48e3-be09-757377432270'></a>\n\nTo: Great Western United\nEquitable Bldg\natt Berle MacDonald\n\n<a id='c87f1144-25b2-4cc1-8cac-88e2a2b549e0'></a>\n\n<table><thead><tr><th>Quantity</th><th>Description</th></tr></thead><tbody><tr><td>125</td><td>books incomplete<br>addnesses</td></tr><tr><td>approx<br>506</td><td>new Books<br>heftaurus</td></tr><tr><td></td><td>all Great Western<br>70 mag.</td></tr></tbody></table>No. of Packages\n\n<a id='bd79594a-ff2a-40ae-82d7-71ad65746188'></a>\n\nNo. of Packages\nReceived By ___\nDate ___\n\n<a id='eb978098-ec2e-4657-8df9-6c61de8d75ef'></a>\n\nThank You -- your business is appreciated.\n\n<a id='57c91afe-443b-4e7a-8e89-397979fa0a46'></a>\n\n37\n\n<a id='d8c5aeb6-82ce-4698-8d4a-ee6c56a713fe'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mtnh0227",
+            "chunks": [
+                "93e6aa6c-2c09-431f-b31c-ab1a7dae0a25",
+                "05d3e554-6596-49bc-a469-9c73fb050fe5",
+                "0f2a7e4f-75a7-4539-9cfe-9417a4228411",
+                "ddb5385c-a04f-48e3-be09-757377432270",
+                "c87f1144-25b2-4cc1-8cac-88e2a2b549e0",
+                "bd79594a-ff2a-40ae-82d7-71ad65746188",
+                "eb978098-ec2e-4657-8df9-6c61de8d75ef",
+                "57c91afe-443b-4e7a-8e89-397979fa0a46",
+                "d8c5aeb6-82ce-4698-8d4a-ee6c56a713fe"
+            ]
+        }
+    ],
+    "grounding": {
+        "93e6aa6c-2c09-431f-b31c-ab1a7dae0a25": {
+            "box": {
+                "left": 0.22827142477035522,
+                "top": 0.04308478161692619,
+                "right": 0.7704306244850159,
+                "bottom": 0.09108921885490417
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "05d3e554-6596-49bc-a469-9c73fb050fe5": {
+            "box": {
+                "left": 0.08190777897834778,
+                "top": 0.09376943111419678,
+                "right": 0.8567682504653931,
+                "bottom": 0.20104077458381653
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0f2a7e4f-75a7-4539-9cfe-9417a4228411": {
+            "box": {
+                "left": 0.058891087770462036,
+                "top": 0.2021942138671875,
+                "right": 0.9494448900222778,
+                "bottom": 0.29325973987579346
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ddb5385c-a04f-48e3-be09-757377432270": {
+            "box": {
+                "left": 0.05975022912025452,
+                "top": 0.29305794835090637,
+                "right": 0.9649349451065063,
+                "bottom": 0.4365180432796478
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c87f1144-25b2-4cc1-8cac-88e2a2b549e0": {
+            "box": {
+                "left": 0.03876852989196777,
+                "top": 0.44680917263031006,
+                "right": 0.9750603437423706,
+                "bottom": 0.8503347635269165
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "bd79594a-ff2a-40ae-82d7-71ad65746188": {
+            "box": {
+                "left": 0.06028732657432556,
+                "top": 0.8278586268424988,
+                "right": 0.38448840379714966,
+                "bottom": 0.9106852412223816
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "eb978098-ec2e-4657-8df9-6c61de8d75ef": {
+            "box": {
+                "left": 0.090212881565094,
+                "top": 0.9137136936187744,
+                "right": 0.9012651443481445,
+                "bottom": 0.9436465501785278
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "57c91afe-443b-4e7a-8e89-397979fa0a46": {
+            "box": {
+                "left": 0.06255973875522614,
+                "top": 0.9477090239524841,
+                "right": 0.11011259257793427,
+                "bottom": 0.9688337445259094
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "d8c5aeb6-82ce-4698-8d4a-ee6c56a713fe": {
+            "box": {
+                "left": 0.05864521861076355,
+                "top": 0.9733504056930542,
+                "right": 0.9403432607650757,
+                "bottom": 0.9992598295211792
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "mtnh0227_9.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7434,
+        "credit_usage": 3.0,
+        "job_id": "o6l74yheib31aicbb8m5nvjwb",
+        "version": "dpt-2-20250919"
+    }
+}

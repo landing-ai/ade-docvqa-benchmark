@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='ecc44562-9dac-4596-8055-2aede73c9d94'></a>\n\nFIGURE C.2.\n\n<a id='f6f77f15-fe68-4607-b46b-e39a4bc072d5'></a>\n\n<::AGE ADJUSTED MOTOR VEHICLE ACCIDENT MORTALITY RATE CANADA\n\nchart: A line chart showing the age-adjusted motor vehicle accident mortality rate in Canada from 1950 to 1980. The y-axis is labeled \"PER 1000\" and ranges from 0.2 to 0.3. The x-axis represents years from 1950 to 1980.\n\nTwo lines are plotted:\n- ACTUAL (solid line)\n- MULTIVARIATE PREDICTOR (dashed line)\n\nThe \"ACTUAL\" line starts around 0.22 in 1957, dips to 0.21 in 1958, rises to 0.24 in 1962, then sharply increases to 0.27 in 1966, dips to 0.26 in 1969, rises to 0.28 in 1972, and then declines to 0.24 in 1975.\n\nThe \"MULTIVARIATE PREDICTOR\" line closely follows the \"ACTUAL\" line, showing similar trends and values throughout the period.::>",
+    "chunks": [
+        {
+            "markdown": "<a id='ecc44562-9dac-4596-8055-2aede73c9d94'></a>\n\nFIGURE C.2.",
+            "type": "text",
+            "id": "ecc44562-9dac-4596-8055-2aede73c9d94",
+            "grounding": {
+                "box": {
+                    "left": 0.4728334844112396,
+                    "top": 0.12105567008256912,
+                    "right": 0.5808124542236328,
+                    "bottom": 0.15156365931034088
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f6f77f15-fe68-4607-b46b-e39a4bc072d5'></a>\n\n<::AGE ADJUSTED MOTOR VEHICLE ACCIDENT MORTALITY RATE CANADA\n\nchart: A line chart showing the age-adjusted motor vehicle accident mortality rate in Canada from 1950 to 1980. The y-axis is labeled \"PER 1000\" and ranges from 0.2 to 0.3. The x-axis represents years from 1950 to 1980.\n\nTwo lines are plotted:\n- ACTUAL (solid line)\n- MULTIVARIATE PREDICTOR (dashed line)\n\nThe \"ACTUAL\" line starts around 0.22 in 1957, dips to 0.21 in 1958, rises to 0.24 in 1962, then sharply increases to 0.27 in 1966, dips to 0.26 in 1969, rises to 0.28 in 1972, and then declines to 0.24 in 1975.\n\nThe \"MULTIVARIATE PREDICTOR\" line closely follows the \"ACTUAL\" line, showing similar trends and values throughout the period.::>",
+            "type": "figure",
+            "id": "f6f77f15-fe68-4607-b46b-e39a4bc072d5",
+            "grounding": {
+                "box": {
+                    "left": 0.11486828327178955,
+                    "top": 0.18722760677337646,
+                    "right": 0.8799697756767273,
+                    "bottom": 0.8719302415847778
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ecc44562-9dac-4596-8055-2aede73c9d94'></a>\n\nFIGURE C.2.\n\n<a id='f6f77f15-fe68-4607-b46b-e39a4bc072d5'></a>\n\n<::AGE ADJUSTED MOTOR VEHICLE ACCIDENT MORTALITY RATE CANADA\n\nchart: A line chart showing the age-adjusted motor vehicle accident mortality rate in Canada from 1950 to 1980. The y-axis is labeled \"PER 1000\" and ranges from 0.2 to 0.3. The x-axis represents years from 1950 to 1980.\n\nTwo lines are plotted:\n- ACTUAL (solid line)\n- MULTIVARIATE PREDICTOR (dashed line)\n\nThe \"ACTUAL\" line starts around 0.22 in 1957, dips to 0.21 in 1958, rises to 0.24 in 1962, then sharply increases to 0.27 in 1966, dips to 0.26 in 1969, rises to 0.28 in 1972, and then declines to 0.24 in 1975.\n\nThe \"MULTIVARIATE PREDICTOR\" line closely follows the \"ACTUAL\" line, showing similar trends and values throughout the period.::>",
+            "chunks": [
+                "ecc44562-9dac-4596-8055-2aede73c9d94",
+                "f6f77f15-fe68-4607-b46b-e39a4bc072d5"
+            ]
+        }
+    ],
+    "grounding": {
+        "ecc44562-9dac-4596-8055-2aede73c9d94": {
+            "box": {
+                "left": 0.4728334844112396,
+                "top": 0.12105567008256912,
+                "right": 0.5808124542236328,
+                "bottom": 0.15156365931034088
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f6f77f15-fe68-4607-b46b-e39a4bc072d5": {
+            "box": {
+                "left": 0.11486828327178955,
+                "top": 0.18722760677337646,
+                "right": 0.8799697756767273,
+                "bottom": 0.8719302415847778
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "pybv0228_81.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 12631,
+        "credit_usage": 3.0,
+        "job_id": "ap0e9oruif43gfahhfrtdwmxa",
+        "version": "dpt-2-20250919"
+    }
+}

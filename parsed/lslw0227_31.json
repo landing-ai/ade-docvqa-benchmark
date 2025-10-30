@@ -1,0 +1,438 @@
+{
+    "markdown": "<a id='85999a71-f6c9-4e3e-9e8f-aed0f5318848'></a>\n\nTABLE I\n\n<a id='e067431b-8f72-4181-9c9a-d53944713f4a'></a>\n\nPercentage of Elderly Subjects in Edinburgh, Scotland,\nWhose Daily Intake of Various Nutrients Was Less\nThan That Recommended by DHSS (1969)\u00b9\n\n<a id='4e0b5ff5-23a6-4e4b-9633-7947288cafc4'></a>\n\n<table><thead><tr><th>Nutrient</th><th colspan=\"2\">Men</th><th colspan=\"2\">Women</th></tr><tr><th></th><th>% of<br>Subjects</th><th>Recom-<br>mended<br>Intake<sup>2</sup></th><th>% of<br>Subjects</th><th>Recom-<br>mended<br>Intake<sup>2</sup></th></tr></thead><tbody></tbody></table>\n\n<a id='18fba4dd-5b0c-4eb9-99b6-c5aac1f10cb1'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Energy</td><td id=\"0-3\">53.7</td><td id=\"0-4\">2100 kcal</td><td id=\"0-5\">74.0</td><td id=\"0-6\">1900 kcal</td></tr>\n<tr><td id=\"0-7\">Total Protein</td><td id=\"0-8\">14.8</td><td id=\"0-9\">53 g</td><td id=\"0-a\">32.9</td><td id=\"0-b\">48 g</td></tr>\n<tr><td id=\"0-c\">Iron</td><td id=\"0-d\">40.8</td><td id=\"0-e\">10 mg</td><td id=\"0-f\">83.5</td><td id=\"0-g\">10 mg</td></tr>\n<tr><td id=\"0-h\">Calcium</td><td id=\"0-i\">--</td><td id=\"0-j\">500 mg</td><td id=\"0-k\">8.2</td><td id=\"0-l\">500 mg</td></tr>\n<tr><td id=\"0-m\">Vitamin D</td><td id=\"0-n\">72.3</td><td id=\"0-o\">2.5 \u00b5g</td><td id=\"0-p\">86.3</td><td id=\"0-q\">2.5 \u00b5g</td></tr>\n</table>\n\n<a id='7cec26f1-4f16-43a1-a9ee-e48fdeb8f66b'></a>\n\n1 Summarized from Lonergan et al. (1975). Population sample\ninvolved 54 men and 67 women between the ages of 75 and 90.\n2 Recommended intakes are based on those of the United Kingdom\nDepartment of Health and Social Security (DHSS) (1969).\n\n<a id='137c41db-14f6-4ea5-bc3e-0540b138644e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lslw0227",
+    "chunks": [
+        {
+            "markdown": "<a id='85999a71-f6c9-4e3e-9e8f-aed0f5318848'></a>\n\nTABLE I",
+            "type": "text",
+            "id": "85999a71-f6c9-4e3e-9e8f-aed0f5318848",
+            "grounding": {
+                "box": {
+                    "left": 0.4318392276763916,
+                    "top": 0.11631091684103012,
+                    "right": 0.5297069549560547,
+                    "bottom": 0.13699708878993988
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e067431b-8f72-4181-9c9a-d53944713f4a'></a>\n\nPercentage of Elderly Subjects in Edinburgh, Scotland,\nWhose Daily Intake of Various Nutrients Was Less\nThan That Recommended by DHSS (1969)\u00b9",
+            "type": "text",
+            "id": "e067431b-8f72-4181-9c9a-d53944713f4a",
+            "grounding": {
+                "box": {
+                    "left": 0.17190825939178467,
+                    "top": 0.14717307686805725,
+                    "right": 0.7967446446418762,
+                    "bottom": 0.2136250138282776
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4e0b5ff5-23a6-4e4b-9633-7947288cafc4'></a>\n\n<table><thead><tr><th>Nutrient</th><th colspan=\"2\">Men</th><th colspan=\"2\">Women</th></tr><tr><th></th><th>% of<br>Subjects</th><th>Recom-<br>mended<br>Intake<sup>2</sup></th><th>% of<br>Subjects</th><th>Recom-<br>mended<br>Intake<sup>2</sup></th></tr></thead><tbody></tbody></table>",
+            "type": "table",
+            "id": "4e0b5ff5-23a6-4e4b-9633-7947288cafc4",
+            "grounding": {
+                "box": {
+                    "left": 0.13934928178787231,
+                    "top": 0.23801416158676147,
+                    "right": 0.8747550845146179,
+                    "bottom": 0.34495848417282104
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='18fba4dd-5b0c-4eb9-99b6-c5aac1f10cb1'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Energy</td><td id=\"0-3\">53.7</td><td id=\"0-4\">2100 kcal</td><td id=\"0-5\">74.0</td><td id=\"0-6\">1900 kcal</td></tr>\n<tr><td id=\"0-7\">Total Protein</td><td id=\"0-8\">14.8</td><td id=\"0-9\">53 g</td><td id=\"0-a\">32.9</td><td id=\"0-b\">48 g</td></tr>\n<tr><td id=\"0-c\">Iron</td><td id=\"0-d\">40.8</td><td id=\"0-e\">10 mg</td><td id=\"0-f\">83.5</td><td id=\"0-g\">10 mg</td></tr>\n<tr><td id=\"0-h\">Calcium</td><td id=\"0-i\">--</td><td id=\"0-j\">500 mg</td><td id=\"0-k\">8.2</td><td id=\"0-l\">500 mg</td></tr>\n<tr><td id=\"0-m\">Vitamin D</td><td id=\"0-n\">72.3</td><td id=\"0-o\">2.5 \u00b5g</td><td id=\"0-p\">86.3</td><td id=\"0-q\">2.5 \u00b5g</td></tr>\n</table>",
+            "type": "table",
+            "id": "18fba4dd-5b0c-4eb9-99b6-c5aac1f10cb1",
+            "grounding": {
+                "box": {
+                    "left": 0.13688713312149048,
+                    "top": 0.35852348804473877,
+                    "right": 0.8427034020423889,
+                    "bottom": 0.4780624508857727
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7cec26f1-4f16-43a1-a9ee-e48fdeb8f66b'></a>\n\n1 Summarized from Lonergan et al. (1975). Population sample\ninvolved 54 men and 67 women between the ages of 75 and 90.\n2 Recommended intakes are based on those of the United Kingdom\nDepartment of Health and Social Security (DHSS) (1969).",
+            "type": "text",
+            "id": "7cec26f1-4f16-43a1-a9ee-e48fdeb8f66b",
+            "grounding": {
+                "box": {
+                    "left": 0.13898703455924988,
+                    "top": 0.49907347559928894,
+                    "right": 0.8601523637771606,
+                    "bottom": 0.6013761162757874
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='137c41db-14f6-4ea5-bc3e-0540b138644e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lslw0227",
+            "type": "text",
+            "id": "137c41db-14f6-4ea5-bc3e-0540b138644e",
+            "grounding": {
+                "box": {
+                    "left": 0.23038887977600098,
+                    "top": 0.9798696041107178,
+                    "right": 0.7715883255004883,
+                    "bottom": 0.9994040727615356
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='85999a71-f6c9-4e3e-9e8f-aed0f5318848'></a>\n\nTABLE I\n\n<a id='e067431b-8f72-4181-9c9a-d53944713f4a'></a>\n\nPercentage of Elderly Subjects in Edinburgh, Scotland,\nWhose Daily Intake of Various Nutrients Was Less\nThan That Recommended by DHSS (1969)\u00b9\n\n<a id='4e0b5ff5-23a6-4e4b-9633-7947288cafc4'></a>\n\n<table><thead><tr><th>Nutrient</th><th colspan=\"2\">Men</th><th colspan=\"2\">Women</th></tr><tr><th></th><th>% of<br>Subjects</th><th>Recom-<br>mended<br>Intake<sup>2</sup></th><th>% of<br>Subjects</th><th>Recom-<br>mended<br>Intake<sup>2</sup></th></tr></thead><tbody></tbody></table>\n\n<a id='18fba4dd-5b0c-4eb9-99b6-c5aac1f10cb1'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Energy</td><td id=\"0-3\">53.7</td><td id=\"0-4\">2100 kcal</td><td id=\"0-5\">74.0</td><td id=\"0-6\">1900 kcal</td></tr>\n<tr><td id=\"0-7\">Total Protein</td><td id=\"0-8\">14.8</td><td id=\"0-9\">53 g</td><td id=\"0-a\">32.9</td><td id=\"0-b\">48 g</td></tr>\n<tr><td id=\"0-c\">Iron</td><td id=\"0-d\">40.8</td><td id=\"0-e\">10 mg</td><td id=\"0-f\">83.5</td><td id=\"0-g\">10 mg</td></tr>\n<tr><td id=\"0-h\">Calcium</td><td id=\"0-i\">--</td><td id=\"0-j\">500 mg</td><td id=\"0-k\">8.2</td><td id=\"0-l\">500 mg</td></tr>\n<tr><td id=\"0-m\">Vitamin D</td><td id=\"0-n\">72.3</td><td id=\"0-o\">2.5 \u00b5g</td><td id=\"0-p\">86.3</td><td id=\"0-q\">2.5 \u00b5g</td></tr>\n</table>\n\n<a id='7cec26f1-4f16-43a1-a9ee-e48fdeb8f66b'></a>\n\n1 Summarized from Lonergan et al. (1975). Population sample\ninvolved 54 men and 67 women between the ages of 75 and 90.\n2 Recommended intakes are based on those of the United Kingdom\nDepartment of Health and Social Security (DHSS) (1969).\n\n<a id='137c41db-14f6-4ea5-bc3e-0540b138644e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lslw0227",
+            "chunks": [
+                "85999a71-f6c9-4e3e-9e8f-aed0f5318848",
+                "e067431b-8f72-4181-9c9a-d53944713f4a",
+                "4e0b5ff5-23a6-4e4b-9633-7947288cafc4",
+                "18fba4dd-5b0c-4eb9-99b6-c5aac1f10cb1",
+                "7cec26f1-4f16-43a1-a9ee-e48fdeb8f66b",
+                "137c41db-14f6-4ea5-bc3e-0540b138644e"
+            ]
+        }
+    ],
+    "grounding": {
+        "85999a71-f6c9-4e3e-9e8f-aed0f5318848": {
+            "box": {
+                "left": 0.4318392276763916,
+                "top": 0.11631091684103012,
+                "right": 0.5297069549560547,
+                "bottom": 0.13699708878993988
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e067431b-8f72-4181-9c9a-d53944713f4a": {
+            "box": {
+                "left": 0.17190825939178467,
+                "top": 0.14717307686805725,
+                "right": 0.7967446446418762,
+                "bottom": 0.2136250138282776
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4e0b5ff5-23a6-4e4b-9633-7947288cafc4": {
+            "box": {
+                "left": 0.13934928178787231,
+                "top": 0.23801416158676147,
+                "right": 0.8747550845146179,
+                "bottom": 0.34495848417282104
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "18fba4dd-5b0c-4eb9-99b6-c5aac1f10cb1": {
+            "box": {
+                "left": 0.13688713312149048,
+                "top": 0.35852348804473877,
+                "right": 0.8427034020423889,
+                "bottom": 0.4780624508857727
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.14114812891738726,
+                "top": 0.3624485609344916,
+                "right": 0.8334966507222816,
+                "bottom": 0.4736186897274415
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.14114812891738726,
+                "top": 0.3624485609344916,
+                "right": 0.29764888582843696,
+                "bottom": 0.38412094142181985
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.29764888582843696,
+                "top": 0.3624485609344916,
+                "right": 0.4179109495767648,
+                "bottom": 0.38412094142181985
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.4179109495767648,
+                "top": 0.3624485609344916,
+                "right": 0.5638939152116791,
+                "bottom": 0.38412094142181985
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5638939152116791,
+                "top": 0.3624485609344916,
+                "right": 0.6808537420326957,
+                "bottom": 0.38412094142181985
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6808537420326957,
+                "top": 0.3624485609344916,
+                "right": 0.8335453256289611,
+                "bottom": 0.38412094142181985
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.14114812891738726,
+                "top": 0.38412094142181985,
+                "right": 0.29764888582843696,
+                "bottom": 0.4046850299217777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.29764888582843696,
+                "top": 0.38412094142181985,
+                "right": 0.4179109495767648,
+                "bottom": 0.4046850299217777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.4179109495767648,
+                "top": 0.38412094142181985,
+                "right": 0.5638939152116791,
+                "bottom": 0.4046850299217777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5638939152116791,
+                "top": 0.38412094142181985,
+                "right": 0.6808537420326957,
+                "bottom": 0.4046850299217777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6808537420326957,
+                "top": 0.38412094142181985,
+                "right": 0.8335453256289611,
+                "bottom": 0.4046850299217777
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.14114812891738726,
+                "top": 0.4046850299217777,
+                "right": 0.29764888582843696,
+                "bottom": 0.4268106432633587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.29764888582843696,
+                "top": 0.4046850299217777,
+                "right": 0.4179109495767648,
+                "bottom": 0.4268106432633587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.4179109495767648,
+                "top": 0.4046850299217777,
+                "right": 0.5638939152116791,
+                "bottom": 0.4268106432633587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5638939152116791,
+                "top": 0.4046850299217777,
+                "right": 0.6808537420326957,
+                "bottom": 0.4268106432633587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6808537420326957,
+                "top": 0.4046850299217777,
+                "right": 0.8335453256289611,
+                "bottom": 0.4268106432633587
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.14114812891738726,
+                "top": 0.4268106432633587,
+                "right": 0.29764888582843696,
+                "bottom": 0.44916149811478334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.29764888582843696,
+                "top": 0.4268106432633587,
+                "right": 0.4179109495767648,
+                "bottom": 0.44916149811478334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.4179109495767648,
+                "top": 0.4268106432633587,
+                "right": 0.5638939152116791,
+                "bottom": 0.44916149811478334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5638939152116791,
+                "top": 0.4268106432633587,
+                "right": 0.6808537420326957,
+                "bottom": 0.44916149811478334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6808537420326957,
+                "top": 0.4268106432633587,
+                "right": 0.8335453256289611,
+                "bottom": 0.44916149811478334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.14114812891738726,
+                "top": 0.44916149811478334,
+                "right": 0.29764888582843696,
+                "bottom": 0.4736186897274415
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.29764888582843696,
+                "top": 0.44916149811478334,
+                "right": 0.4179109495767648,
+                "bottom": 0.4736186897274415
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.4179109495767648,
+                "top": 0.44916149811478334,
+                "right": 0.5638939152116791,
+                "bottom": 0.4736186897274415
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5638939152116791,
+                "top": 0.44916149811478334,
+                "right": 0.6808537420326957,
+                "bottom": 0.4736186897274415
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.6808537420326957,
+                "top": 0.44916149811478334,
+                "right": 0.8335453256289611,
+                "bottom": 0.4736186897274415
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "7cec26f1-4f16-43a1-a9ee-e48fdeb8f66b": {
+            "box": {
+                "left": 0.13898703455924988,
+                "top": 0.49907347559928894,
+                "right": 0.8601523637771606,
+                "bottom": 0.6013761162757874
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "137c41db-14f6-4ea5-bc3e-0540b138644e": {
+            "box": {
+                "left": 0.23038887977600098,
+                "top": 0.9798696041107178,
+                "right": 0.7715883255004883,
+                "bottom": 0.9994040727615356
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lslw0227_31.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6037,
+        "credit_usage": 3.0,
+        "job_id": "z06sj6gi5dcn6p6cwapt7sdpy",
+        "version": "dpt-2-20250919"
+    }
+}

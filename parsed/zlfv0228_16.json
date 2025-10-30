@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='63c33ac6-bcca-44a3-8535-162509fdd41c'></a>\n\nN. DETERING ET AL.\n\n<a id='70bead8b-d694-47a7-906f-25277baebc3d'></a>\n\n<::chart: The image displays two line graphs side-by-side, illustrating brain catecholamine concentrations (Dopamine and Norepinephrine) in a prenatal experimental group over time. Both graphs share the same x-axis, labeled \"-4 -2 BIRTH 1 WEEK 2 WEEK 3 WEEK\", representing time points relative to birth. The y-axis for both graphs is labeled \"ng/g\", indicating concentration. The graphs show three distinct lines, two solid and one dashed, each with error bars, representing different experimental conditions or groups. \n\n**Left Graph: DOPAMINE (Prenatal)**\n- The y-axis ranges from 100 to 800 ng/g.\n- All three lines show an increasing trend in dopamine concentration from -4 (prenatal) to 3 weeks post-birth.\n- At -4, concentrations are between 50-100 ng/g.\n- At BIRTH, concentrations are between 100-200 ng/g.\n- At 1 WEEK, concentrations are between 200-300 ng/g.\n- At 2 WEEK, concentrations are between 300-400 ng/g.\n- At 3 WEEK, concentrations range from approximately 500 ng/g (dashed line) to 750 ng/g (solid lines).\n\n**Right Graph: NOREPINEPHRINE (Prenatal)**\n- The y-axis ranges from 100 to 300 ng/g.\n- All three lines also show an increasing trend in norepinephrine concentration from -4 (prenatal) to 3 weeks post-birth.\n- At -4, concentrations are between 20-50 ng/g.\n- At BIRTH, concentrations are between 50-100 ng/g.\n- At 1 WEEK, concentrations are between 100-150 ng/g.\n- At 2 WEEK, concentrations are between 150-250 ng/g.\n- At 3 WEEK, concentrations range from approximately 200 ng/g (dashed line) to 300 ng/g (solid lines).\n\nFig. 3a. Brain catecholamine concentration in the prenatal experimental group. For explanation of experimental conditions, symbols, and statistical significance, see Fig. 2.::>\n\n<a id='4e5ffe64-0d14-4a3f-ac3d-252506f0d93e'></a>\n\n<::chart: Two line charts showing brain catecholamine concentration in the postnatal experimental group.\n\n**Chart 1: DOPAMINE (Postnatal)**\n- Y-axis: ng/g (ranging from 100 to 700)\n- X-axis: Time points (BIRTH, 1 WEEK, 2 WEEK, 3 WEEK)\n- Data Series 1 (Solid Line):\n  - BIRTH: ~200 ng/g\n  - 1 WEEK: ~130 ng/g\n  - 2 WEEK: ~350 ng/g\n  - 3 WEEK: ~620 ng/g\n- Data Series 2 (Dashed Line):\n  - BIRTH: ~180 ng/g\n  - 1 WEEK: ~140 ng/g\n  - 2 WEEK: ~420 ng/g\n  - 3 WEEK: ~550 ng/g\n\n**Chart 2: NOREPINEPHRINE (Postnatal)**\n- Y-axis: ng/g (ranging from 100 to 300)\n- X-axis: Time points (BIRTH, 1 WEEK, 2 WEEK, 3 WEEK)\n- Data Series 1 (Solid Line):\n  - BIRTH: ~120 ng/g\n  - 1 WEEK: ~70 ng/g\n  - 2 WEEK: ~150 ng/g\n  - 3 WEEK: ~210 ng/g\n- Data Series 2 (Dashed Line):\n  - BIRTH: ~120 ng/g\n  - 1 WEEK: ~70 ng/g\n  - 2 WEEK: ~240 ng/g\n  - 3 WEEK: ~280 ng/g\n: chart::>\nFig. 3b. Brain catecholamine concentration in the postnatal experimental group. For explanation of experimental conditions, symbols, and statistical significance, see Fig. 2.\n\n<a id='35129238-34fd-42fc-bb7b-ddee218a89a8'></a>\n\n15",
+    "chunks": [
+        {
+            "markdown": "<a id='63c33ac6-bcca-44a3-8535-162509fdd41c'></a>\n\nN. DETERING ET AL.",
+            "type": "text",
+            "id": "63c33ac6-bcca-44a3-8535-162509fdd41c",
+            "grounding": {
+                "box": {
+                    "left": 0.3965286612510681,
+                    "top": 0.05612970516085625,
+                    "right": 0.5821553468704224,
+                    "bottom": 0.07705000042915344
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='70bead8b-d694-47a7-906f-25277baebc3d'></a>\n\n<::chart: The image displays two line graphs side-by-side, illustrating brain catecholamine concentrations (Dopamine and Norepinephrine) in a prenatal experimental group over time. Both graphs share the same x-axis, labeled \"-4 -2 BIRTH 1 WEEK 2 WEEK 3 WEEK\", representing time points relative to birth. The y-axis for both graphs is labeled \"ng/g\", indicating concentration. The graphs show three distinct lines, two solid and one dashed, each with error bars, representing different experimental conditions or groups. \n\n**Left Graph: DOPAMINE (Prenatal)**\n- The y-axis ranges from 100 to 800 ng/g.\n- All three lines show an increasing trend in dopamine concentration from -4 (prenatal) to 3 weeks post-birth.\n- At -4, concentrations are between 50-100 ng/g.\n- At BIRTH, concentrations are between 100-200 ng/g.\n- At 1 WEEK, concentrations are between 200-300 ng/g.\n- At 2 WEEK, concentrations are between 300-400 ng/g.\n- At 3 WEEK, concentrations range from approximately 500 ng/g (dashed line) to 750 ng/g (solid lines).\n\n**Right Graph: NOREPINEPHRINE (Prenatal)**\n- The y-axis ranges from 100 to 300 ng/g.\n- All three lines also show an increasing trend in norepinephrine concentration from -4 (prenatal) to 3 weeks post-birth.\n- At -4, concentrations are between 20-50 ng/g.\n- At BIRTH, concentrations are between 50-100 ng/g.\n- At 1 WEEK, concentrations are between 100-150 ng/g.\n- At 2 WEEK, concentrations are between 150-250 ng/g.\n- At 3 WEEK, concentrations range from approximately 200 ng/g (dashed line) to 300 ng/g (solid lines).\n\nFig. 3a. Brain catecholamine concentration in the prenatal experimental group. For explanation of experimental conditions, symbols, and statistical significance, see Fig. 2.::>",
+            "type": "figure",
+            "id": "70bead8b-d694-47a7-906f-25277baebc3d",
+            "grounding": {
+                "box": {
+                    "left": 0.15504375100135803,
+                    "top": 0.09296250343322754,
+                    "right": 0.8813333511352539,
+                    "bottom": 0.4486374258995056
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4e5ffe64-0d14-4a3f-ac3d-252506f0d93e'></a>\n\n<::chart: Two line charts showing brain catecholamine concentration in the postnatal experimental group.\n\n**Chart 1: DOPAMINE (Postnatal)**\n- Y-axis: ng/g (ranging from 100 to 700)\n- X-axis: Time points (BIRTH, 1 WEEK, 2 WEEK, 3 WEEK)\n- Data Series 1 (Solid Line):\n  - BIRTH: ~200 ng/g\n  - 1 WEEK: ~130 ng/g\n  - 2 WEEK: ~350 ng/g\n  - 3 WEEK: ~620 ng/g\n- Data Series 2 (Dashed Line):\n  - BIRTH: ~180 ng/g\n  - 1 WEEK: ~140 ng/g\n  - 2 WEEK: ~420 ng/g\n  - 3 WEEK: ~550 ng/g\n\n**Chart 2: NOREPINEPHRINE (Postnatal)**\n- Y-axis: ng/g (ranging from 100 to 300)\n- X-axis: Time points (BIRTH, 1 WEEK, 2 WEEK, 3 WEEK)\n- Data Series 1 (Solid Line):\n  - BIRTH: ~120 ng/g\n  - 1 WEEK: ~70 ng/g\n  - 2 WEEK: ~150 ng/g\n  - 3 WEEK: ~210 ng/g\n- Data Series 2 (Dashed Line):\n  - BIRTH: ~120 ng/g\n  - 1 WEEK: ~70 ng/g\n  - 2 WEEK: ~240 ng/g\n  - 3 WEEK: ~280 ng/g\n: chart::>\nFig. 3b. Brain catecholamine concentration in the postnatal experimental group. For explanation of experimental conditions, symbols, and statistical significance, see Fig. 2.",
+            "type": "figure",
+            "id": "4e5ffe64-0d14-4a3f-ac3d-252506f0d93e",
+            "grounding": {
+                "box": {
+                    "left": 0.1587110161781311,
+                    "top": 0.5040246844291687,
+                    "right": 0.8908258080482483,
+                    "bottom": 0.8701296448707581
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='35129238-34fd-42fc-bb7b-ddee218a89a8'></a>\n\n15",
+            "type": "marginalia",
+            "id": "35129238-34fd-42fc-bb7b-ddee218a89a8",
+            "grounding": {
+                "box": {
+                    "left": 0.5044645071029663,
+                    "top": 0.8885558843612671,
+                    "right": 0.5325545072555542,
+                    "bottom": 0.9105978012084961
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='63c33ac6-bcca-44a3-8535-162509fdd41c'></a>\n\nN. DETERING ET AL.\n\n<a id='70bead8b-d694-47a7-906f-25277baebc3d'></a>\n\n<::chart: The image displays two line graphs side-by-side, illustrating brain catecholamine concentrations (Dopamine and Norepinephrine) in a prenatal experimental group over time. Both graphs share the same x-axis, labeled \"-4 -2 BIRTH 1 WEEK 2 WEEK 3 WEEK\", representing time points relative to birth. The y-axis for both graphs is labeled \"ng/g\", indicating concentration. The graphs show three distinct lines, two solid and one dashed, each with error bars, representing different experimental conditions or groups. \n\n**Left Graph: DOPAMINE (Prenatal)**\n- The y-axis ranges from 100 to 800 ng/g.\n- All three lines show an increasing trend in dopamine concentration from -4 (prenatal) to 3 weeks post-birth.\n- At -4, concentrations are between 50-100 ng/g.\n- At BIRTH, concentrations are between 100-200 ng/g.\n- At 1 WEEK, concentrations are between 200-300 ng/g.\n- At 2 WEEK, concentrations are between 300-400 ng/g.\n- At 3 WEEK, concentrations range from approximately 500 ng/g (dashed line) to 750 ng/g (solid lines).\n\n**Right Graph: NOREPINEPHRINE (Prenatal)**\n- The y-axis ranges from 100 to 300 ng/g.\n- All three lines also show an increasing trend in norepinephrine concentration from -4 (prenatal) to 3 weeks post-birth.\n- At -4, concentrations are between 20-50 ng/g.\n- At BIRTH, concentrations are between 50-100 ng/g.\n- At 1 WEEK, concentrations are between 100-150 ng/g.\n- At 2 WEEK, concentrations are between 150-250 ng/g.\n- At 3 WEEK, concentrations range from approximately 200 ng/g (dashed line) to 300 ng/g (solid lines).\n\nFig. 3a. Brain catecholamine concentration in the prenatal experimental group. For explanation of experimental conditions, symbols, and statistical significance, see Fig. 2.::>\n\n<a id='4e5ffe64-0d14-4a3f-ac3d-252506f0d93e'></a>\n\n<::chart: Two line charts showing brain catecholamine concentration in the postnatal experimental group.\n\n**Chart 1: DOPAMINE (Postnatal)**\n- Y-axis: ng/g (ranging from 100 to 700)\n- X-axis: Time points (BIRTH, 1 WEEK, 2 WEEK, 3 WEEK)\n- Data Series 1 (Solid Line):\n  - BIRTH: ~200 ng/g\n  - 1 WEEK: ~130 ng/g\n  - 2 WEEK: ~350 ng/g\n  - 3 WEEK: ~620 ng/g\n- Data Series 2 (Dashed Line):\n  - BIRTH: ~180 ng/g\n  - 1 WEEK: ~140 ng/g\n  - 2 WEEK: ~420 ng/g\n  - 3 WEEK: ~550 ng/g\n\n**Chart 2: NOREPINEPHRINE (Postnatal)**\n- Y-axis: ng/g (ranging from 100 to 300)\n- X-axis: Time points (BIRTH, 1 WEEK, 2 WEEK, 3 WEEK)\n- Data Series 1 (Solid Line):\n  - BIRTH: ~120 ng/g\n  - 1 WEEK: ~70 ng/g\n  - 2 WEEK: ~150 ng/g\n  - 3 WEEK: ~210 ng/g\n- Data Series 2 (Dashed Line):\n  - BIRTH: ~120 ng/g\n  - 1 WEEK: ~70 ng/g\n  - 2 WEEK: ~240 ng/g\n  - 3 WEEK: ~280 ng/g\n: chart::>\nFig. 3b. Brain catecholamine concentration in the postnatal experimental group. For explanation of experimental conditions, symbols, and statistical significance, see Fig. 2.\n\n<a id='35129238-34fd-42fc-bb7b-ddee218a89a8'></a>\n\n15",
+            "chunks": [
+                "63c33ac6-bcca-44a3-8535-162509fdd41c",
+                "70bead8b-d694-47a7-906f-25277baebc3d",
+                "4e5ffe64-0d14-4a3f-ac3d-252506f0d93e",
+                "35129238-34fd-42fc-bb7b-ddee218a89a8"
+            ]
+        }
+    ],
+    "grounding": {
+        "63c33ac6-bcca-44a3-8535-162509fdd41c": {
+            "box": {
+                "left": 0.3965286612510681,
+                "top": 0.05612970516085625,
+                "right": 0.5821553468704224,
+                "bottom": 0.07705000042915344
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "70bead8b-d694-47a7-906f-25277baebc3d": {
+            "box": {
+                "left": 0.15504375100135803,
+                "top": 0.09296250343322754,
+                "right": 0.8813333511352539,
+                "bottom": 0.4486374258995056
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "4e5ffe64-0d14-4a3f-ac3d-252506f0d93e": {
+            "box": {
+                "left": 0.1587110161781311,
+                "top": 0.5040246844291687,
+                "right": 0.8908258080482483,
+                "bottom": 0.8701296448707581
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "35129238-34fd-42fc-bb7b-ddee218a89a8": {
+            "box": {
+                "left": 0.5044645071029663,
+                "top": 0.8885558843612671,
+                "right": 0.5325545072555542,
+                "bottom": 0.9105978012084961
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "zlfv0228_16.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 12190,
+        "credit_usage": 3.0,
+        "job_id": "a4qzib6g9m3exyyyuio6n75m5",
+        "version": "dpt-2-20250919"
+    }
+}

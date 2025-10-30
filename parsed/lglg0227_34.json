@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='7a794188-179a-413d-a0ed-d631a2ce18ff'></a>\n\n<::This image contains five stacked plots, sharing a common x-axis labeled \"BASELINE\" for days 1 through 9, and \"REVERSAL\" for days 1 through 5, with the reversal days further grouped into phases I, II, and III. All plots show data points connected by lines, except for the bottom plot which is a bar chart.\n\n**Plot 1: 17-HYDROXY STEROIDS mg/24hr**\n- Y-axis ranges from 9.0 to 11.0.\n- Baseline data: No data points are visible.\n- Reversal data:\n  - Day 1: Approximately 9.5\n  - Day 2: Approximately 10.5\n  - Day 3: Approximately 9.8\n  - Day 4: Approximately 10.8\n\n**Plot 2: NITROGEN g/24 hr**\n- Y-axis ranges from 12.0 to 14.0.\n- Baseline data:\n  - Day 1: Approximately 13.9\n  - Day 2: Approximately 13.6\n  - Day 3: Approximately 13.3\n  - Day 4: Approximately 12.7\n  - Day 5: Approximately 13.5\n  - Day 6: Approximately 12.9\n  - Day 7: Approximately 13.2\n  - Day 8: Approximately 13.3\n  - Day 9: Approximately 13.3\n- Reversal data:\n  - Day 1: Approximately 13.0\n  - Day 2: Approximately 12.8\n  - Day 3: Approximately 12.2\n  - Day 4: Approximately 12.3\n  - Day 5: Approximately 14.0\n\n**Plot 3: INORGANIC SULFATE SULFUR mg/24 hr**\n- Y-axis ranges from 600 to 900.\n- Baseline data:\n  - Day 1: Approximately 720\n  - Day 2: Approximately 770\n  - Day 3: Approximately 680\n  - Day 4: Approximately 670\n  - Day 5: Approximately 620\n  - Day 6: Approximately 700\n  - Day 7: Approximately 660\n  - Day 8: Approximately 680\n  - Day 9: Approximately 660\n- Reversal data:\n  - Day 1: Approximately 680\n  - Day 2: Approximately 680\n  - Day 3: Approximately 670\n  - Day 4: Approximately 670\n  - Day 5: Approximately 800\n\n**Plot 4: NITROGEN SULFUR RATIO**\n- Y-axis ranges from 16 to 21.\n- Baseline data:\n  - Day 1: Approximately 19.5\n  - Day 2: Approximately 17.8\n  - Day 3: Approximately 20.0\n  - Day 4: Approximately 19.5\n  - Day 5: Approximately 20.0\n  - Day 6: Approximately 19.5\n  - Day 7: Approximately 19.8\n  - Day 8: Approximately 19.5\n  - Day 9: Approximately 20.0\n- Reversal data:\n  - Day 1: Approximately 19.8\n  - Day 2: Approximately 19.5\n  - Day 3: Approximately 18.5\n  - Day 4: Approximately 18.8\n  - Day 5: Approximately 19.8\n\n**Plot 5: NITROGEN BALANCE (MEAN 92% ABSORPTION)**\n- Y-axis ranges from 0 to 3.\n- This is a bar chart.\n- Baseline data:\n  - Day 1: Approximately 0.8\n  - Day 2: Approximately 1.2\n  - Day 3: Approximately 1.0\n  - Day 4: Approximately 1.8\n  - Day 5: Approximately 2.2\n  - Day 6: Approximately 1.3\n  - Day 7: Approximately 2.1\n  - Day 8: Approximately 1.6\n  - Day 9: Approximately 1.5\n- Reversal data:\n  - Day 1: Approximately 2.0\n  - Day 2: Approximately 2.1\n  - Day 3: Approximately 2.8\n  - Day 4: Approximately 2.7\n  - Day 5: Approximately 0.1\n: chart::>\n\n<a id='7498d70d-288c-49b0-a1e4-0c270122724b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lglg0227\n\n<a id='b3fa0131-79de-43b5-ad09-73baff6a2fa8'></a>\n\nSLEEP REVERSAL I, JANUARY 1963\nFIVE SUBJECTS",
+    "chunks": [
+        {
+            "markdown": "<a id='7a794188-179a-413d-a0ed-d631a2ce18ff'></a>\n\n<::This image contains five stacked plots, sharing a common x-axis labeled \"BASELINE\" for days 1 through 9, and \"REVERSAL\" for days 1 through 5, with the reversal days further grouped into phases I, II, and III. All plots show data points connected by lines, except for the bottom plot which is a bar chart.\n\n**Plot 1: 17-HYDROXY STEROIDS mg/24hr**\n- Y-axis ranges from 9.0 to 11.0.\n- Baseline data: No data points are visible.\n- Reversal data:\n  - Day 1: Approximately 9.5\n  - Day 2: Approximately 10.5\n  - Day 3: Approximately 9.8\n  - Day 4: Approximately 10.8\n\n**Plot 2: NITROGEN g/24 hr**\n- Y-axis ranges from 12.0 to 14.0.\n- Baseline data:\n  - Day 1: Approximately 13.9\n  - Day 2: Approximately 13.6\n  - Day 3: Approximately 13.3\n  - Day 4: Approximately 12.7\n  - Day 5: Approximately 13.5\n  - Day 6: Approximately 12.9\n  - Day 7: Approximately 13.2\n  - Day 8: Approximately 13.3\n  - Day 9: Approximately 13.3\n- Reversal data:\n  - Day 1: Approximately 13.0\n  - Day 2: Approximately 12.8\n  - Day 3: Approximately 12.2\n  - Day 4: Approximately 12.3\n  - Day 5: Approximately 14.0\n\n**Plot 3: INORGANIC SULFATE SULFUR mg/24 hr**\n- Y-axis ranges from 600 to 900.\n- Baseline data:\n  - Day 1: Approximately 720\n  - Day 2: Approximately 770\n  - Day 3: Approximately 680\n  - Day 4: Approximately 670\n  - Day 5: Approximately 620\n  - Day 6: Approximately 700\n  - Day 7: Approximately 660\n  - Day 8: Approximately 680\n  - Day 9: Approximately 660\n- Reversal data:\n  - Day 1: Approximately 680\n  - Day 2: Approximately 680\n  - Day 3: Approximately 670\n  - Day 4: Approximately 670\n  - Day 5: Approximately 800\n\n**Plot 4: NITROGEN SULFUR RATIO**\n- Y-axis ranges from 16 to 21.\n- Baseline data:\n  - Day 1: Approximately 19.5\n  - Day 2: Approximately 17.8\n  - Day 3: Approximately 20.0\n  - Day 4: Approximately 19.5\n  - Day 5: Approximately 20.0\n  - Day 6: Approximately 19.5\n  - Day 7: Approximately 19.8\n  - Day 8: Approximately 19.5\n  - Day 9: Approximately 20.0\n- Reversal data:\n  - Day 1: Approximately 19.8\n  - Day 2: Approximately 19.5\n  - Day 3: Approximately 18.5\n  - Day 4: Approximately 18.8\n  - Day 5: Approximately 19.8\n\n**Plot 5: NITROGEN BALANCE (MEAN 92% ABSORPTION)**\n- Y-axis ranges from 0 to 3.\n- This is a bar chart.\n- Baseline data:\n  - Day 1: Approximately 0.8\n  - Day 2: Approximately 1.2\n  - Day 3: Approximately 1.0\n  - Day 4: Approximately 1.8\n  - Day 5: Approximately 2.2\n  - Day 6: Approximately 1.3\n  - Day 7: Approximately 2.1\n  - Day 8: Approximately 1.6\n  - Day 9: Approximately 1.5\n- Reversal data:\n  - Day 1: Approximately 2.0\n  - Day 2: Approximately 2.1\n  - Day 3: Approximately 2.8\n  - Day 4: Approximately 2.7\n  - Day 5: Approximately 0.1\n: chart::>",
+            "type": "figure",
+            "id": "7a794188-179a-413d-a0ed-d631a2ce18ff",
+            "grounding": {
+                "box": {
+                    "left": 0.14332833886146545,
+                    "top": 0.18102332949638367,
+                    "right": 0.8683599233627319,
+                    "bottom": 0.8981815576553345
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7498d70d-288c-49b0-a1e4-0c270122724b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lglg0227",
+            "type": "text",
+            "id": "7498d70d-288c-49b0-a1e4-0c270122724b",
+            "grounding": {
+                "box": {
+                    "left": 0.23069196939468384,
+                    "top": 0.9799476861953735,
+                    "right": 0.7710614800453186,
+                    "bottom": 0.9995795488357544
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b3fa0131-79de-43b5-ad09-73baff6a2fa8'></a>\n\nSLEEP REVERSAL I, JANUARY 1963\nFIVE SUBJECTS",
+            "type": "text",
+            "id": "b3fa0131-79de-43b5-ad09-73baff6a2fa8",
+            "grounding": {
+                "box": {
+                    "left": 0.3528587818145752,
+                    "top": 0.1276950091123581,
+                    "right": 0.7598379850387573,
+                    "bottom": 0.1725005954504013
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='7a794188-179a-413d-a0ed-d631a2ce18ff'></a>\n\n<::This image contains five stacked plots, sharing a common x-axis labeled \"BASELINE\" for days 1 through 9, and \"REVERSAL\" for days 1 through 5, with the reversal days further grouped into phases I, II, and III. All plots show data points connected by lines, except for the bottom plot which is a bar chart.\n\n**Plot 1: 17-HYDROXY STEROIDS mg/24hr**\n- Y-axis ranges from 9.0 to 11.0.\n- Baseline data: No data points are visible.\n- Reversal data:\n  - Day 1: Approximately 9.5\n  - Day 2: Approximately 10.5\n  - Day 3: Approximately 9.8\n  - Day 4: Approximately 10.8\n\n**Plot 2: NITROGEN g/24 hr**\n- Y-axis ranges from 12.0 to 14.0.\n- Baseline data:\n  - Day 1: Approximately 13.9\n  - Day 2: Approximately 13.6\n  - Day 3: Approximately 13.3\n  - Day 4: Approximately 12.7\n  - Day 5: Approximately 13.5\n  - Day 6: Approximately 12.9\n  - Day 7: Approximately 13.2\n  - Day 8: Approximately 13.3\n  - Day 9: Approximately 13.3\n- Reversal data:\n  - Day 1: Approximately 13.0\n  - Day 2: Approximately 12.8\n  - Day 3: Approximately 12.2\n  - Day 4: Approximately 12.3\n  - Day 5: Approximately 14.0\n\n**Plot 3: INORGANIC SULFATE SULFUR mg/24 hr**\n- Y-axis ranges from 600 to 900.\n- Baseline data:\n  - Day 1: Approximately 720\n  - Day 2: Approximately 770\n  - Day 3: Approximately 680\n  - Day 4: Approximately 670\n  - Day 5: Approximately 620\n  - Day 6: Approximately 700\n  - Day 7: Approximately 660\n  - Day 8: Approximately 680\n  - Day 9: Approximately 660\n- Reversal data:\n  - Day 1: Approximately 680\n  - Day 2: Approximately 680\n  - Day 3: Approximately 670\n  - Day 4: Approximately 670\n  - Day 5: Approximately 800\n\n**Plot 4: NITROGEN SULFUR RATIO**\n- Y-axis ranges from 16 to 21.\n- Baseline data:\n  - Day 1: Approximately 19.5\n  - Day 2: Approximately 17.8\n  - Day 3: Approximately 20.0\n  - Day 4: Approximately 19.5\n  - Day 5: Approximately 20.0\n  - Day 6: Approximately 19.5\n  - Day 7: Approximately 19.8\n  - Day 8: Approximately 19.5\n  - Day 9: Approximately 20.0\n- Reversal data:\n  - Day 1: Approximately 19.8\n  - Day 2: Approximately 19.5\n  - Day 3: Approximately 18.5\n  - Day 4: Approximately 18.8\n  - Day 5: Approximately 19.8\n\n**Plot 5: NITROGEN BALANCE (MEAN 92% ABSORPTION)**\n- Y-axis ranges from 0 to 3.\n- This is a bar chart.\n- Baseline data:\n  - Day 1: Approximately 0.8\n  - Day 2: Approximately 1.2\n  - Day 3: Approximately 1.0\n  - Day 4: Approximately 1.8\n  - Day 5: Approximately 2.2\n  - Day 6: Approximately 1.3\n  - Day 7: Approximately 2.1\n  - Day 8: Approximately 1.6\n  - Day 9: Approximately 1.5\n- Reversal data:\n  - Day 1: Approximately 2.0\n  - Day 2: Approximately 2.1\n  - Day 3: Approximately 2.8\n  - Day 4: Approximately 2.7\n  - Day 5: Approximately 0.1\n: chart::>\n\n<a id='7498d70d-288c-49b0-a1e4-0c270122724b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lglg0227\n\n<a id='b3fa0131-79de-43b5-ad09-73baff6a2fa8'></a>\n\nSLEEP REVERSAL I, JANUARY 1963\nFIVE SUBJECTS",
+            "chunks": [
+                "7a794188-179a-413d-a0ed-d631a2ce18ff",
+                "7498d70d-288c-49b0-a1e4-0c270122724b",
+                "b3fa0131-79de-43b5-ad09-73baff6a2fa8"
+            ]
+        }
+    ],
+    "grounding": {
+        "7a794188-179a-413d-a0ed-d631a2ce18ff": {
+            "box": {
+                "left": 0.14332833886146545,
+                "top": 0.18102332949638367,
+                "right": 0.8683599233627319,
+                "bottom": 0.8981815576553345
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "7498d70d-288c-49b0-a1e4-0c270122724b": {
+            "box": {
+                "left": 0.23069196939468384,
+                "top": 0.9799476861953735,
+                "right": 0.7710614800453186,
+                "bottom": 0.9995795488357544
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b3fa0131-79de-43b5-ad09-73baff6a2fa8": {
+            "box": {
+                "left": 0.3528587818145752,
+                "top": 0.1276950091123581,
+                "right": 0.7598379850387573,
+                "bottom": 0.1725005954504013
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lglg0227_34.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 16458,
+        "credit_usage": 3.0,
+        "job_id": "seyifb6sdzeucv9ahaaunu6jo",
+        "version": "dpt-2-20250919"
+    }
+}

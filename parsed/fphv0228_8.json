@@ -1,0 +1,833 @@
+{
+    "markdown": "<a id='ba64d07a-54b4-475a-bec0-81e33938e14a'></a>\n\nPage 2 of 3\n\n<a id='ddde6ddc-c624-4922-8f16-095f75dde58d'></a>\n\nIII. ESTIMATED BUDGET\n\n<a id='87695220-fb7e-4ab6-adcb-428b6e17e26b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">COST CATEGORIES</td><td id=\"0-3\">CASH</td><td id=\"0-4\">IN-KIND</td><td id=\"0-5\">TOTAL</td></tr>\n<tr><td id=\"0-6\">PERSONNEL (Itemize)</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Principal Investigator (25% time)</td><td id=\"0-b\">$ 6,445.00</td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Dietitian - Interviewer (full time)</td><td id=\"0-f\">13,300.00</td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">Biostatistician (15% time)</td><td id=\"0-j\">2,580.00</td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Key Puncher (part time)</td><td id=\"0-n\">225.00</td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">Typist (20% time)</td><td id=\"0-r\">1,100.00</td><td id=\"0-s\"></td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">TRAVEL (automobile for interviews)</td><td id=\"0-v\">400.00</td><td id=\"0-w\"></td><td id=\"0-x\"></td></tr>\n<tr><td id=\"0-y\">RENT</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n<tr><td id=\"0-C\">COMMUNICATIONS Telephone, postage</td><td id=\"0-D\">50.00</td><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n<tr><td id=\"0-G\">UTILITIES</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td></tr>\n<tr><td id=\"0-K\">SUPPLIES Punch cards, duplicating stationery, etc.</td><td id=\"0-L\">950.00</td><td id=\"0-M\"></td><td id=\"0-N\"></td></tr>\n<tr><td id=\"0-O\">EQUIPMENT (Itemize)</td><td id=\"0-P\"></td><td id=\"0-Q\"></td><td id=\"0-R\"></td></tr>\n<tr><td id=\"0-S\">Computer cost time</td><td id=\"0-T\">250.00</td><td id=\"0-U\"></td><td id=\"0-V\"></td></tr>\n<tr><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\"></td></tr>\n<tr><td id=\"0-10\">OTHER (Itemize)</td><td id=\"0-11\"></td><td id=\"0-12\"></td><td id=\"0-13\"></td></tr>\n<tr><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td><td id=\"0-17\"></td></tr>\n<tr><td id=\"0-18\">TOTAL DIRECT COST</td><td id=\"0-19\">$25,300.00</td><td id=\"0-1a\"></td><td id=\"0-1b\"></td></tr>\n</table>",
+    "chunks": [
+        {
+            "markdown": "<a id='ba64d07a-54b4-475a-bec0-81e33938e14a'></a>\n\nPage 2 of 3",
+            "type": "marginalia",
+            "id": "ba64d07a-54b4-475a-bec0-81e33938e14a",
+            "grounding": {
+                "box": {
+                    "left": 0.05763576924800873,
+                    "top": 0.04387056827545166,
+                    "right": 0.18468090891838074,
+                    "bottom": 0.06763637810945511
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ddde6ddc-c624-4922-8f16-095f75dde58d'></a>\n\nIII. ESTIMATED BUDGET",
+            "type": "text",
+            "id": "ddde6ddc-c624-4922-8f16-095f75dde58d",
+            "grounding": {
+                "box": {
+                    "left": 0.3890707492828369,
+                    "top": 0.08734963834285736,
+                    "right": 0.6259152889251709,
+                    "bottom": 0.11425276100635529
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='87695220-fb7e-4ab6-adcb-428b6e17e26b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">COST CATEGORIES</td><td id=\"0-3\">CASH</td><td id=\"0-4\">IN-KIND</td><td id=\"0-5\">TOTAL</td></tr>\n<tr><td id=\"0-6\">PERSONNEL (Itemize)</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Principal Investigator (25% time)</td><td id=\"0-b\">$ 6,445.00</td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Dietitian - Interviewer (full time)</td><td id=\"0-f\">13,300.00</td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">Biostatistician (15% time)</td><td id=\"0-j\">2,580.00</td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Key Puncher (part time)</td><td id=\"0-n\">225.00</td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">Typist (20% time)</td><td id=\"0-r\">1,100.00</td><td id=\"0-s\"></td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">TRAVEL (automobile for interviews)</td><td id=\"0-v\">400.00</td><td id=\"0-w\"></td><td id=\"0-x\"></td></tr>\n<tr><td id=\"0-y\">RENT</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n<tr><td id=\"0-C\">COMMUNICATIONS Telephone, postage</td><td id=\"0-D\">50.00</td><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n<tr><td id=\"0-G\">UTILITIES</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td></tr>\n<tr><td id=\"0-K\">SUPPLIES Punch cards, duplicating stationery, etc.</td><td id=\"0-L\">950.00</td><td id=\"0-M\"></td><td id=\"0-N\"></td></tr>\n<tr><td id=\"0-O\">EQUIPMENT (Itemize)</td><td id=\"0-P\"></td><td id=\"0-Q\"></td><td id=\"0-R\"></td></tr>\n<tr><td id=\"0-S\">Computer cost time</td><td id=\"0-T\">250.00</td><td id=\"0-U\"></td><td id=\"0-V\"></td></tr>\n<tr><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\"></td></tr>\n<tr><td id=\"0-10\">OTHER (Itemize)</td><td id=\"0-11\"></td><td id=\"0-12\"></td><td id=\"0-13\"></td></tr>\n<tr><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td><td id=\"0-17\"></td></tr>\n<tr><td id=\"0-18\">TOTAL DIRECT COST</td><td id=\"0-19\">$25,300.00</td><td id=\"0-1a\"></td><td id=\"0-1b\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "87695220-fb7e-4ab6-adcb-428b6e17e26b",
+            "grounding": {
+                "box": {
+                    "left": 0.052672505378723145,
+                    "top": 0.1152728796005249,
+                    "right": 0.9962605237960815,
+                    "bottom": 0.9196624755859375
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ba64d07a-54b4-475a-bec0-81e33938e14a'></a>\n\nPage 2 of 3\n\n<a id='ddde6ddc-c624-4922-8f16-095f75dde58d'></a>\n\nIII. ESTIMATED BUDGET\n\n<a id='87695220-fb7e-4ab6-adcb-428b6e17e26b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">COST CATEGORIES</td><td id=\"0-3\">CASH</td><td id=\"0-4\">IN-KIND</td><td id=\"0-5\">TOTAL</td></tr>\n<tr><td id=\"0-6\">PERSONNEL (Itemize)</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Principal Investigator (25% time)</td><td id=\"0-b\">$ 6,445.00</td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Dietitian - Interviewer (full time)</td><td id=\"0-f\">13,300.00</td><td id=\"0-g\"></td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">Biostatistician (15% time)</td><td id=\"0-j\">2,580.00</td><td id=\"0-k\"></td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Key Puncher (part time)</td><td id=\"0-n\">225.00</td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n<tr><td id=\"0-q\">Typist (20% time)</td><td id=\"0-r\">1,100.00</td><td id=\"0-s\"></td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">TRAVEL (automobile for interviews)</td><td id=\"0-v\">400.00</td><td id=\"0-w\"></td><td id=\"0-x\"></td></tr>\n<tr><td id=\"0-y\">RENT</td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n<tr><td id=\"0-C\">COMMUNICATIONS Telephone, postage</td><td id=\"0-D\">50.00</td><td id=\"0-E\"></td><td id=\"0-F\"></td></tr>\n<tr><td id=\"0-G\">UTILITIES</td><td id=\"0-H\"></td><td id=\"0-I\"></td><td id=\"0-J\"></td></tr>\n<tr><td id=\"0-K\">SUPPLIES Punch cards, duplicating stationery, etc.</td><td id=\"0-L\">950.00</td><td id=\"0-M\"></td><td id=\"0-N\"></td></tr>\n<tr><td id=\"0-O\">EQUIPMENT (Itemize)</td><td id=\"0-P\"></td><td id=\"0-Q\"></td><td id=\"0-R\"></td></tr>\n<tr><td id=\"0-S\">Computer cost time</td><td id=\"0-T\">250.00</td><td id=\"0-U\"></td><td id=\"0-V\"></td></tr>\n<tr><td id=\"0-W\"></td><td id=\"0-X\"></td><td id=\"0-Y\"></td><td id=\"0-Z\"></td></tr>\n<tr><td id=\"0-10\">OTHER (Itemize)</td><td id=\"0-11\"></td><td id=\"0-12\"></td><td id=\"0-13\"></td></tr>\n<tr><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td><td id=\"0-17\"></td></tr>\n<tr><td id=\"0-18\">TOTAL DIRECT COST</td><td id=\"0-19\">$25,300.00</td><td id=\"0-1a\"></td><td id=\"0-1b\"></td></tr>\n</table>",
+            "chunks": [
+                "ba64d07a-54b4-475a-bec0-81e33938e14a",
+                "ddde6ddc-c624-4922-8f16-095f75dde58d",
+                "87695220-fb7e-4ab6-adcb-428b6e17e26b"
+            ]
+        }
+    ],
+    "grounding": {
+        "ba64d07a-54b4-475a-bec0-81e33938e14a": {
+            "box": {
+                "left": 0.05763576924800873,
+                "top": 0.04387056827545166,
+                "right": 0.18468090891838074,
+                "bottom": 0.06763637810945511
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "ddde6ddc-c624-4922-8f16-095f75dde58d": {
+            "box": {
+                "left": 0.3890707492828369,
+                "top": 0.08734963834285736,
+                "right": 0.6259152889251709,
+                "bottom": 0.11425276100635529
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "87695220-fb7e-4ab6-adcb-428b6e17e26b": {
+            "box": {
+                "left": 0.052672505378723145,
+                "top": 0.1152728796005249,
+                "right": 0.9962605237960815,
+                "bottom": 0.9196624755859375
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.1281151166561998,
+                "right": 0.9931803619017217,
+                "bottom": 0.9116388681829832
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.1281151166561998,
+                "right": 0.48147498312686565,
+                "bottom": 0.17405368244781094
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.1281151166561998,
+                "right": 0.6592507905832008,
+                "bottom": 0.17405368244781094
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.1281151166561998,
+                "right": 0.8453017702311456,
+                "bottom": 0.17405368244781094
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.1281151166561998,
+                "right": 0.9888012294944133,
+                "bottom": 0.17405368244781094
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.17405368244781094,
+                "right": 0.48147498312686565,
+                "bottom": 0.20634452021101346
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.17405368244781094,
+                "right": 0.6592507905832008,
+                "bottom": 0.20634452021101346
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.17405368244781094,
+                "right": 0.8453017702311456,
+                "bottom": 0.20634452021101346
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.17405368244781094,
+                "right": 0.9888012294944133,
+                "bottom": 0.20634452021101346
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.20634452021101346,
+                "right": 0.48147498312686565,
+                "bottom": 0.2308905528171561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.20634452021101346,
+                "right": 0.6592507905832008,
+                "bottom": 0.2308905528171561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.20634452021101346,
+                "right": 0.8453017702311456,
+                "bottom": 0.2308905528171561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.20634452021101346,
+                "right": 0.9888012294944133,
+                "bottom": 0.2308905528171561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.2308905528171561,
+                "right": 0.48147498312686565,
+                "bottom": 0.24811761893304407
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.2308905528171561,
+                "right": 0.6592507905832008,
+                "bottom": 0.24811761893304407
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.2308905528171561,
+                "right": 0.8453017702311456,
+                "bottom": 0.24811761893304407
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.2308905528171561,
+                "right": 0.9888012294944133,
+                "bottom": 0.24811761893304407
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.24811761893304407,
+                "right": 0.48147498312686565,
+                "bottom": 0.2655153705167539
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.24811761893304407,
+                "right": 0.6592507905832008,
+                "bottom": 0.2655153705167539
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.24811761893304407,
+                "right": 0.8453017702311456,
+                "bottom": 0.2655153705167539
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.24811761893304407,
+                "right": 0.9888012294944133,
+                "bottom": 0.2655153705167539
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.2655153705167539,
+                "right": 0.48147498312686565,
+                "bottom": 0.2829268584449949
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.2655153705167539,
+                "right": 0.6592507905832008,
+                "bottom": 0.2829268584449949
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.2655153705167539,
+                "right": 0.8453017702311456,
+                "bottom": 0.2829268584449949
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.2655153705167539,
+                "right": 0.9888012294944133,
+                "bottom": 0.2829268584449949
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.2829268584449949,
+                "right": 0.48147498312686565,
+                "bottom": 0.35741730483201906
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.2829268584449949,
+                "right": 0.6592507905832008,
+                "bottom": 0.35741730483201906
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.2829268584449949,
+                "right": 0.8453017702311456,
+                "bottom": 0.35741730483201906
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.2829268584449949,
+                "right": 0.9888012294944133,
+                "bottom": 0.35741730483201906
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.35741730483201906,
+                "right": 0.48147498312686565,
+                "bottom": 0.4030616914030496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.35741730483201906,
+                "right": 0.6592507905832008,
+                "bottom": 0.4030616914030496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.35741730483201906,
+                "right": 0.8453017702311456,
+                "bottom": 0.4030616914030496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.35741730483201906,
+                "right": 0.9888012294944133,
+                "bottom": 0.4030616914030496
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.4030616914030496,
+                "right": 0.48147498312686565,
+                "bottom": 0.4488464380041499
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.4030616914030496,
+                "right": 0.6592507905832008,
+                "bottom": 0.4488464380041499
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.4030616914030496,
+                "right": 0.8453017702311456,
+                "bottom": 0.4488464380041499
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.4030616914030496,
+                "right": 0.9888012294944133,
+                "bottom": 0.4488464380041499
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.4488464380041499,
+                "right": 0.48147498312686565,
+                "bottom": 0.4948218632865782
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.4488464380041499,
+                "right": 0.6592507905832008,
+                "bottom": 0.4948218632865782
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.4488464380041499,
+                "right": 0.8453017702311456,
+                "bottom": 0.4948218632865782
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.4488464380041499,
+                "right": 0.9888012294944133,
+                "bottom": 0.4948218632865782
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.4948218632865782,
+                "right": 0.48147498312686565,
+                "bottom": 0.540318530215373
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.4948218632865782,
+                "right": 0.6592507905832008,
+                "bottom": 0.540318530215373
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.4948218632865782,
+                "right": 0.8453017702311456,
+                "bottom": 0.540318530215373
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.4948218632865782,
+                "right": 0.9888012294944133,
+                "bottom": 0.540318530215373
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.540318530215373,
+                "right": 0.48147498312686565,
+                "bottom": 0.5870234440913151
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.540318530215373,
+                "right": 0.6592507905832008,
+                "bottom": 0.5870234440913151
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.540318530215373,
+                "right": 0.8453017702311456,
+                "bottom": 0.5870234440913151
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.540318530215373,
+                "right": 0.9888012294944133,
+                "bottom": 0.5870234440913151
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.5870234440913151,
+                "right": 0.48147498312686565,
+                "bottom": 0.6210752428671285
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.5870234440913151,
+                "right": 0.6592507905832008,
+                "bottom": 0.6210752428671285
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.5870234440913151,
+                "right": 0.8453017702311456,
+                "bottom": 0.6210752428671285
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.5870234440913151,
+                "right": 0.9888012294944133,
+                "bottom": 0.6210752428671285
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.6210752428671285,
+                "right": 0.48147498312686565,
+                "bottom": 0.6522290325370363
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.6210752428671285,
+                "right": 0.6592507905832008,
+                "bottom": 0.6522290325370363
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.6210752428671285,
+                "right": 0.8453017702311456,
+                "bottom": 0.6522290325370363
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.6210752428671285,
+                "right": 0.9888012294944133,
+                "bottom": 0.6522290325370363
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.6522290325370363,
+                "right": 0.48147498312686565,
+                "bottom": 0.7387390920336472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.6522290325370363,
+                "right": 0.6592507905832008,
+                "bottom": 0.7387390920336472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.6522290325370363,
+                "right": 0.8453017702311456,
+                "bottom": 0.7387390920336472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.6522290325370363,
+                "right": 0.9888012294944133,
+                "bottom": 0.7387390920336472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.7387390920336472,
+                "right": 0.48147498312686565,
+                "bottom": 0.7750838774663649
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.7387390920336472,
+                "right": 0.6592507905832008,
+                "bottom": 0.7750838774663649
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.7387390920336472,
+                "right": 0.8453017702311456,
+                "bottom": 0.7750838774663649
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.7387390920336472,
+                "right": 0.9888012294944133,
+                "bottom": 0.7750838774663649
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.7750838774663649,
+                "right": 0.48147498312686565,
+                "bottom": 0.8594278616637467
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.7750838774663649,
+                "right": 0.6592507905832008,
+                "bottom": 0.8594278616637467
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-16": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.7750838774663649,
+                "right": 0.8453017702311456,
+                "bottom": 0.8594278616637467
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-17": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.7750838774663649,
+                "right": 0.9888012294944133,
+                "bottom": 0.8594278616637467
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-18": {
+            "box": {
+                "left": 0.06802489732193173,
+                "top": 0.8594278616637467,
+                "right": 0.48147498312686565,
+                "bottom": 0.9116388681829832
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-19": {
+            "box": {
+                "left": 0.48147498312686565,
+                "top": 0.8594278616637467,
+                "right": 0.6592507905832008,
+                "bottom": 0.9116388681829832
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1a": {
+            "box": {
+                "left": 0.6592507905832008,
+                "top": 0.8594278616637467,
+                "right": 0.8453017702311456,
+                "bottom": 0.9116388681829832
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1b": {
+            "box": {
+                "left": 0.8453017702311456,
+                "top": 0.8594278616637467,
+                "right": 0.9888012294944133,
+                "bottom": 0.9116388681829832
+            },
+            "page": 0,
+            "type": "tableCell"
+        }
+    },
+    "metadata": {
+        "filename": "fphv0228_8.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11356,
+        "credit_usage": 3.0,
+        "job_id": "is76qkh42zzalbnkosdm1lva2",
+        "version": "dpt-2-20250919"
+    }
+}

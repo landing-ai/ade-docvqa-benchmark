@@ -1,0 +1,473 @@
+{
+    "markdown": "<a id='954693b9-98bd-4344-8726-47da2ec72133'></a>\n\nDate: 03/16/95\n\n<a id='4acfab58-9ad9-4e95-a342-265785c72fd5'></a>\n\nAccounts Payable Voucher\n\n<a id='618c9883-5b97-4c1e-b392-1f40598b95d0'></a>\n\nVoucher #: 002864\n\n<a id='7ab4aa06-0ad4-46dd-b407-02cbc0fa8f82'></a>\n\noption Mail to Payee: [x]\nCheck to be dated: 04/15/95\n\noption Call for Check: [ ]\nPickup Name:\nExt.:\n\nReturn Name:\nDept. Name:\n\nBldg.:\nRoom No.:\n\n<a id='e7f143b9-8105-4ca8-8c37-922811873e1e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">FBI/SS # :</td><td id=\"0-3\">********************</td></tr>\n<tr><td id=\"0-4\">AP Vendor # :</td><td id=\"0-5\">73167300 * Amount: $ 15,000.00 *</td></tr>\n<tr><td id=\"0-6\">AP Contract # : AP Voucher # : AP Pay Date :</td><td id=\"0-7\">95-867-046 ********************</td></tr>\n<tr><td id=\"0-8\">Name/Address:</td><td id=\"0-9\">Karoub Associates</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\">200 N. Capitol Building</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">Suite 500</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Lansing, MI 48933</td></tr>\n<tr><td id=\"0-g\">Attention :</td><td id=\"0-h\"></td></tr>\n</table>\n\n<a id='f2230b20-1d08-44a7-b245-f0bd3c26e7bf'></a>\n\nSpecial payment information to appear on check stub:\n  Quarterly Retainer\n\n<a id='f83bfdfe-fe2a-471b-9d6f-92cb51c618f1'></a>\n\nG/L Account Code\n04-88-5015-9016-867\n\nOther Required Code\n002864\n\nAmount\n$ 15,000.00\n\n<a id='903b7ee7-0ccc-4d02-94e2-33f9896f614a'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nHurst Marshall\nApproval Authority Name\nRequestor Signature\nVickie Speas\nExt.: 6376\nThis attestation consists of a handwritten signature above the printed text \"Requestor Signature\" and \"Vickie Speas\", positioned centrally on the right side of the document. To the left, there is a blank line under \"Hurst Marshall\" and \"Approval Authority Name\". To the far right, \"Ext.: 6376\" is printed.::>\n\n<a id='8ad06953-7f85-4b22-a5b8-9b91de5dba32'></a>\n\n<::attestation: Signature\nApproved\nSignature: legible (M. Stuart Marshall)\nApproved:\nGRD-12/92\nA handwritten signature is placed to the right of \"Approved:\", with \"GRD-12/92\" positioned below \"Approved:\" on the left side of the document.::>\n\n<a id='a0046749-6f2a-4976-a4f4-b477a35c639a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yfkp0000\n\n<a id='9448ea02-b269-4d48-bdf8-2579e9ca9ba9'></a>\n\n51823 1250",
+    "chunks": [
+        {
+            "markdown": "<a id='954693b9-98bd-4344-8726-47da2ec72133'></a>\n\nDate: 03/16/95",
+            "type": "marginalia",
+            "id": "954693b9-98bd-4344-8726-47da2ec72133",
+            "grounding": {
+                "box": {
+                    "left": 0.05783771723508835,
+                    "top": 0.07335300743579865,
+                    "right": 0.23323696851730347,
+                    "bottom": 0.09338851273059845
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4acfab58-9ad9-4e95-a342-265785c72fd5'></a>\n\nAccounts Payable Voucher",
+            "type": "text",
+            "id": "4acfab58-9ad9-4e95-a342-265785c72fd5",
+            "grounding": {
+                "box": {
+                    "left": 0.3373716473579407,
+                    "top": 0.0739767923951149,
+                    "right": 0.624218225479126,
+                    "bottom": 0.09374981373548508
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='618c9883-5b97-4c1e-b392-1f40598b95d0'></a>\n\nVoucher #: 002864",
+            "type": "marginalia",
+            "id": "618c9883-5b97-4c1e-b392-1f40598b95d0",
+            "grounding": {
+                "box": {
+                    "left": 0.7051002383232117,
+                    "top": 0.0742080807685852,
+                    "right": 0.9115998148918152,
+                    "bottom": 0.09423588216304779
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7ab4aa06-0ad4-46dd-b407-02cbc0fa8f82'></a>\n\noption Mail to Payee: [x]\nCheck to be dated: 04/15/95\n\noption Call for Check: [ ]\nPickup Name:\nExt.:\n\nReturn Name:\nDept. Name:\n\nBldg.:\nRoom No.:",
+            "type": "text",
+            "id": "7ab4aa06-0ad4-46dd-b407-02cbc0fa8f82",
+            "grounding": {
+                "box": {
+                    "left": 0.024270206689834595,
+                    "top": 0.11472964286804199,
+                    "right": 0.9145399332046509,
+                    "bottom": 0.2547304034233093
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e7f143b9-8105-4ca8-8c37-922811873e1e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">FBI/SS # :</td><td id=\"0-3\">********************</td></tr>\n<tr><td id=\"0-4\">AP Vendor # :</td><td id=\"0-5\">73167300 * Amount: $ 15,000.00 *</td></tr>\n<tr><td id=\"0-6\">AP Contract # : AP Voucher # : AP Pay Date :</td><td id=\"0-7\">95-867-046 ********************</td></tr>\n<tr><td id=\"0-8\">Name/Address:</td><td id=\"0-9\">Karoub Associates</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\">200 N. Capitol Building</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">Suite 500</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Lansing, MI 48933</td></tr>\n<tr><td id=\"0-g\">Attention :</td><td id=\"0-h\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "e7f143b9-8105-4ca8-8c37-922811873e1e",
+            "grounding": {
+                "box": {
+                    "left": 0.052626192569732666,
+                    "top": 0.28406837582588196,
+                    "right": 0.9133734107017517,
+                    "bottom": 0.4819507300853729
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f2230b20-1d08-44a7-b245-f0bd3c26e7bf'></a>\n\nSpecial payment information to appear on check stub:\n  Quarterly Retainer",
+            "type": "text",
+            "id": "f2230b20-1d08-44a7-b245-f0bd3c26e7bf",
+            "grounding": {
+                "box": {
+                    "left": 0.05491611361503601,
+                    "top": 0.5003283619880676,
+                    "right": 0.6684970855712891,
+                    "bottom": 0.5571299195289612
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f83bfdfe-fe2a-471b-9d6f-92cb51c618f1'></a>\n\nG/L Account Code\n04-88-5015-9016-867\n\nOther Required Code\n002864\n\nAmount\n$ 15,000.00",
+            "type": "text",
+            "id": "f83bfdfe-fe2a-471b-9d6f-92cb51c618f1",
+            "grounding": {
+                "box": {
+                    "left": 0.05326211452484131,
+                    "top": 0.5908908843994141,
+                    "right": 0.91460782289505,
+                    "bottom": 0.6506087779998779
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='903b7ee7-0ccc-4d02-94e2-33f9896f614a'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nHurst Marshall\nApproval Authority Name\nRequestor Signature\nVickie Speas\nExt.: 6376\nThis attestation consists of a handwritten signature above the printed text \"Requestor Signature\" and \"Vickie Speas\", positioned centrally on the right side of the document. To the left, there is a blank line under \"Hurst Marshall\" and \"Approval Authority Name\". To the far right, \"Ext.: 6376\" is printed.::>",
+            "type": "attestation",
+            "id": "903b7ee7-0ccc-4d02-94e2-33f9896f614a",
+            "grounding": {
+                "box": {
+                    "left": 0.05217769742012024,
+                    "top": 0.6537508368492126,
+                    "right": 0.9126509428024292,
+                    "bottom": 0.7350091338157654
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ad06953-7f85-4b22-a5b8-9b91de5dba32'></a>\n\n<::attestation: Signature\nApproved\nSignature: legible (M. Stuart Marshall)\nApproved:\nGRD-12/92\nA handwritten signature is placed to the right of \"Approved:\", with \"GRD-12/92\" positioned below \"Approved:\" on the left side of the document.::>",
+            "type": "attestation",
+            "id": "8ad06953-7f85-4b22-a5b8-9b91de5dba32",
+            "grounding": {
+                "box": {
+                    "left": 0.05276605486869812,
+                    "top": 0.7351270914077759,
+                    "right": 0.6105402708053589,
+                    "bottom": 0.829224705696106
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a0046749-6f2a-4976-a4f4-b477a35c639a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yfkp0000",
+            "type": "marginalia",
+            "id": "a0046749-6f2a-4976-a4f4-b477a35c639a",
+            "grounding": {
+                "box": {
+                    "left": 0.2146090269088745,
+                    "top": 0.9780656099319458,
+                    "right": 0.7838686108589172,
+                    "bottom": 0.9993002414703369
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9448ea02-b269-4d48-bdf8-2579e9ca9ba9'></a>\n\n51823 1250",
+            "type": "marginalia",
+            "id": "9448ea02-b269-4d48-bdf8-2579e9ca9ba9",
+            "grounding": {
+                "box": {
+                    "left": 0.886942982673645,
+                    "top": 0.8463314771652222,
+                    "right": 0.9144155979156494,
+                    "bottom": 0.9485702514648438
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='954693b9-98bd-4344-8726-47da2ec72133'></a>\n\nDate: 03/16/95\n\n<a id='4acfab58-9ad9-4e95-a342-265785c72fd5'></a>\n\nAccounts Payable Voucher\n\n<a id='618c9883-5b97-4c1e-b392-1f40598b95d0'></a>\n\nVoucher #: 002864\n\n<a id='7ab4aa06-0ad4-46dd-b407-02cbc0fa8f82'></a>\n\noption Mail to Payee: [x]\nCheck to be dated: 04/15/95\n\noption Call for Check: [ ]\nPickup Name:\nExt.:\n\nReturn Name:\nDept. Name:\n\nBldg.:\nRoom No.:\n\n<a id='e7f143b9-8105-4ca8-8c37-922811873e1e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">FBI/SS # :</td><td id=\"0-3\">********************</td></tr>\n<tr><td id=\"0-4\">AP Vendor # :</td><td id=\"0-5\">73167300 * Amount: $ 15,000.00 *</td></tr>\n<tr><td id=\"0-6\">AP Contract # : AP Voucher # : AP Pay Date :</td><td id=\"0-7\">95-867-046 ********************</td></tr>\n<tr><td id=\"0-8\">Name/Address:</td><td id=\"0-9\">Karoub Associates</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\">200 N. Capitol Building</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">Suite 500</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">Lansing, MI 48933</td></tr>\n<tr><td id=\"0-g\">Attention :</td><td id=\"0-h\"></td></tr>\n</table>\n\n<a id='f2230b20-1d08-44a7-b245-f0bd3c26e7bf'></a>\n\nSpecial payment information to appear on check stub:\n  Quarterly Retainer\n\n<a id='f83bfdfe-fe2a-471b-9d6f-92cb51c618f1'></a>\n\nG/L Account Code\n04-88-5015-9016-867\n\nOther Required Code\n002864\n\nAmount\n$ 15,000.00\n\n<a id='903b7ee7-0ccc-4d02-94e2-33f9896f614a'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nHurst Marshall\nApproval Authority Name\nRequestor Signature\nVickie Speas\nExt.: 6376\nThis attestation consists of a handwritten signature above the printed text \"Requestor Signature\" and \"Vickie Speas\", positioned centrally on the right side of the document. To the left, there is a blank line under \"Hurst Marshall\" and \"Approval Authority Name\". To the far right, \"Ext.: 6376\" is printed.::>\n\n<a id='8ad06953-7f85-4b22-a5b8-9b91de5dba32'></a>\n\n<::attestation: Signature\nApproved\nSignature: legible (M. Stuart Marshall)\nApproved:\nGRD-12/92\nA handwritten signature is placed to the right of \"Approved:\", with \"GRD-12/92\" positioned below \"Approved:\" on the left side of the document.::>\n\n<a id='a0046749-6f2a-4976-a4f4-b477a35c639a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yfkp0000\n\n<a id='9448ea02-b269-4d48-bdf8-2579e9ca9ba9'></a>\n\n51823 1250",
+            "chunks": [
+                "954693b9-98bd-4344-8726-47da2ec72133",
+                "4acfab58-9ad9-4e95-a342-265785c72fd5",
+                "618c9883-5b97-4c1e-b392-1f40598b95d0",
+                "7ab4aa06-0ad4-46dd-b407-02cbc0fa8f82",
+                "e7f143b9-8105-4ca8-8c37-922811873e1e",
+                "f2230b20-1d08-44a7-b245-f0bd3c26e7bf",
+                "f83bfdfe-fe2a-471b-9d6f-92cb51c618f1",
+                "903b7ee7-0ccc-4d02-94e2-33f9896f614a",
+                "8ad06953-7f85-4b22-a5b8-9b91de5dba32",
+                "a0046749-6f2a-4976-a4f4-b477a35c639a",
+                "9448ea02-b269-4d48-bdf8-2579e9ca9ba9"
+            ]
+        }
+    ],
+    "grounding": {
+        "954693b9-98bd-4344-8726-47da2ec72133": {
+            "box": {
+                "left": 0.05783771723508835,
+                "top": 0.07335300743579865,
+                "right": 0.23323696851730347,
+                "bottom": 0.09338851273059845
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "4acfab58-9ad9-4e95-a342-265785c72fd5": {
+            "box": {
+                "left": 0.3373716473579407,
+                "top": 0.0739767923951149,
+                "right": 0.624218225479126,
+                "bottom": 0.09374981373548508
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "618c9883-5b97-4c1e-b392-1f40598b95d0": {
+            "box": {
+                "left": 0.7051002383232117,
+                "top": 0.0742080807685852,
+                "right": 0.9115998148918152,
+                "bottom": 0.09423588216304779
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "7ab4aa06-0ad4-46dd-b407-02cbc0fa8f82": {
+            "box": {
+                "left": 0.024270206689834595,
+                "top": 0.11472964286804199,
+                "right": 0.9145399332046509,
+                "bottom": 0.2547304034233093
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e7f143b9-8105-4ca8-8c37-922811873e1e": {
+            "box": {
+                "left": 0.052626192569732666,
+                "top": 0.28406837582588196,
+                "right": 0.9133734107017517,
+                "bottom": 0.4819507300853729
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.056124483883315424,
+                "top": 0.2859249049787666,
+                "right": 0.9088356787441896,
+                "bottom": 0.48194801730266335
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.056124483883315424,
+                "top": 0.2859249049787666,
+                "right": 0.24166300009472863,
+                "bottom": 0.30697352221440743
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.24166300009472863,
+                "top": 0.2859249049787666,
+                "right": 0.9081990921089229,
+                "bottom": 0.30697352221440743
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.056124483883315424,
+                "top": 0.30697352221440743,
+                "right": 0.24166300009472863,
+                "bottom": 0.32232197647125016
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.24166300009472863,
+                "top": 0.30697352221440743,
+                "right": 0.9081990921089229,
+                "bottom": 0.32232197647125016
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.056124483883315424,
+                "top": 0.32232197647125016,
+                "right": 0.24166300009472863,
+                "bottom": 0.3709230149740126
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.24166300009472863,
+                "top": 0.32232197647125016,
+                "right": 0.9081990921089229,
+                "bottom": 0.3709230149740126
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.056124483883315424,
+                "top": 0.3709230149740126,
+                "right": 0.24166300009472863,
+                "bottom": 0.3984437060823396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.24166300009472863,
+                "top": 0.3709230149740126,
+                "right": 0.9081990921089229,
+                "bottom": 0.3984437060823396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.056124483883315424,
+                "top": 0.3984437060823396,
+                "right": 0.24166300009472863,
+                "bottom": 0.41434452860334403
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.24166300009472863,
+                "top": 0.3984437060823396,
+                "right": 0.9081990921089229,
+                "bottom": 0.41434452860334403
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.056124483883315424,
+                "top": 0.41434452860334403,
+                "right": 0.24166300009472863,
+                "bottom": 0.4285273930132014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.24166300009472863,
+                "top": 0.41434452860334403,
+                "right": 0.9081990921089229,
+                "bottom": 0.4285273930132014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.056124483883315424,
+                "top": 0.4285273930132014,
+                "right": 0.24166300009472863,
+                "bottom": 0.44818737750840754
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.24166300009472863,
+                "top": 0.4285273930132014,
+                "right": 0.9081990921089229,
+                "bottom": 0.44818737750840754
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.056124483883315424,
+                "top": 0.44818737750840754,
+                "right": 0.24166300009472863,
+                "bottom": 0.48194801730266335
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.24166300009472863,
+                "top": 0.44818737750840754,
+                "right": 0.9081990921089229,
+                "bottom": 0.48194801730266335
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "f2230b20-1d08-44a7-b245-f0bd3c26e7bf": {
+            "box": {
+                "left": 0.05491611361503601,
+                "top": 0.5003283619880676,
+                "right": 0.6684970855712891,
+                "bottom": 0.5571299195289612
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f83bfdfe-fe2a-471b-9d6f-92cb51c618f1": {
+            "box": {
+                "left": 0.05326211452484131,
+                "top": 0.5908908843994141,
+                "right": 0.91460782289505,
+                "bottom": 0.6506087779998779
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "903b7ee7-0ccc-4d02-94e2-33f9896f614a": {
+            "box": {
+                "left": 0.05217769742012024,
+                "top": 0.6537508368492126,
+                "right": 0.9126509428024292,
+                "bottom": 0.7350091338157654
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "8ad06953-7f85-4b22-a5b8-9b91de5dba32": {
+            "box": {
+                "left": 0.05276605486869812,
+                "top": 0.7351270914077759,
+                "right": 0.6105402708053589,
+                "bottom": 0.829224705696106
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "a0046749-6f2a-4976-a4f4-b477a35c639a": {
+            "box": {
+                "left": 0.2146090269088745,
+                "top": 0.9780656099319458,
+                "right": 0.7838686108589172,
+                "bottom": 0.9993002414703369
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "9448ea02-b269-4d48-bdf8-2579e9ca9ba9": {
+            "box": {
+                "left": 0.886942982673645,
+                "top": 0.8463314771652222,
+                "right": 0.9144155979156494,
+                "bottom": 0.9485702514648438
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yfkp0000_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10561,
+        "credit_usage": 3.0,
+        "job_id": "tpqeppybyevwllucj5cx5xigl",
+        "version": "dpt-2-20250919"
+    }
+}

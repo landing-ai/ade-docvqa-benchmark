@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='a380e77e-3b99-46dc-86d7-bcd5858d0f38'></a>\n\nCABLE ADDRESS \"SAINTREGIS NEW YORK\"\n\n<a id='e2a038c9-f906-406e-b46b-173814e20136'></a>\n\nHotel St Regis.\n\n<a id='a9de61dd-b097-4cb8-8d99-930907c292ef'></a>\n\nFifth Avenue and Fifty-fifth Street\n\n<a id='9d20a493-89e0-4343-bffe-87db19a55616'></a>\n\nNew York\nwith my best wishes for the\nfuture under your inspired\nleadership.\nYours sincerely\n[illegible handwritten signature]\n\n<a id='352fbc00-2748-465c-b2f3-b3dc612b90ed'></a>\n\nOdy H Jambour 729\n99 Wall Street\nNew York City\n\n<a id='482d6fe4-1920-476e-9361-47bfcfb9b675'></a>\n\nP.S. Having noticed the sugges-\ntions in regard to candid\ncameras, I regret that I\ncannot be present to help in\nrecording the proceedings\n\u2014 provided I had film to\nuse in my camera, which\nI do not have!\n\n<::attestation: Signature\nSignature: illegible\nPositioned at the bottom center of the text block.::>\n\n<a id='d82c8872-6696-446f-957c-8b1595c0a991'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mqgl0226",
+    "chunks": [
+        {
+            "markdown": "<a id='a380e77e-3b99-46dc-86d7-bcd5858d0f38'></a>\n\nCABLE ADDRESS \"SAINTREGIS NEW YORK\"",
+            "type": "text",
+            "id": "a380e77e-3b99-46dc-86d7-bcd5858d0f38",
+            "grounding": {
+                "box": {
+                    "left": 0.5090049505233765,
+                    "top": 0.05330003425478935,
+                    "right": 0.9207854270935059,
+                    "bottom": 0.07143338024616241
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e2a038c9-f906-406e-b46b-173814e20136'></a>\n\nHotel St Regis.",
+            "type": "text",
+            "id": "e2a038c9-f906-406e-b46b-173814e20136",
+            "grounding": {
+                "box": {
+                    "left": 0.21016040444374084,
+                    "top": 0.09911829233169556,
+                    "right": 0.7985397577285767,
+                    "bottom": 0.15802344679832458
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a9de61dd-b097-4cb8-8d99-930907c292ef'></a>\n\nFifth Avenue and Fifty-fifth Street",
+            "type": "text",
+            "id": "a9de61dd-b097-4cb8-8d99-930907c292ef",
+            "grounding": {
+                "box": {
+                    "left": 0.23763567209243774,
+                    "top": 0.16654154658317566,
+                    "right": 0.760590672492981,
+                    "bottom": 0.19892138242721558
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9d20a493-89e0-4343-bffe-87db19a55616'></a>\n\nNew York\nwith my best wishes for the\nfuture under your inspired\nleadership.\nYours sincerely\n[illegible handwritten signature]",
+            "type": "text",
+            "id": "9d20a493-89e0-4343-bffe-87db19a55616",
+            "grounding": {
+                "box": {
+                    "left": 0.02591642737388611,
+                    "top": 0.22444364428520203,
+                    "right": 0.9592690467834473,
+                    "bottom": 0.5153874158859253
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='352fbc00-2748-465c-b2f3-b3dc612b90ed'></a>\n\nOdy H Jambour 729\n99 Wall Street\nNew York City",
+            "type": "text",
+            "id": "352fbc00-2748-465c-b2f3-b3dc612b90ed",
+            "grounding": {
+                "box": {
+                    "left": 0.027664661407470703,
+                    "top": 0.5312827229499817,
+                    "right": 0.5671053528785706,
+                    "bottom": 0.6635460257530212
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='482d6fe4-1920-476e-9361-47bfcfb9b675'></a>\n\nP.S. Having noticed the sugges-\ntions in regard to candid\ncameras, I regret that I\ncannot be present to help in\nrecording the proceedings\n\u2014 provided I had film to\nuse in my camera, which\nI do not have!\n\n<::attestation: Signature\nSignature: illegible\nPositioned at the bottom center of the text block.::>",
+            "type": "text",
+            "id": "482d6fe4-1920-476e-9361-47bfcfb9b675",
+            "grounding": {
+                "box": {
+                    "left": 0.026602476835250854,
+                    "top": 0.6665584444999695,
+                    "right": 0.9902056455612183,
+                    "bottom": 0.9703896641731262
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d82c8872-6696-446f-957c-8b1595c0a991'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mqgl0226",
+            "type": "text",
+            "id": "d82c8872-6696-446f-957c-8b1595c0a991",
+            "grounding": {
+                "box": {
+                    "left": 0.07087653875350952,
+                    "top": 0.9637895822525024,
+                    "right": 0.9288983345031738,
+                    "bottom": 0.9924589395523071
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a380e77e-3b99-46dc-86d7-bcd5858d0f38'></a>\n\nCABLE ADDRESS \"SAINTREGIS NEW YORK\"\n\n<a id='e2a038c9-f906-406e-b46b-173814e20136'></a>\n\nHotel St Regis.\n\n<a id='a9de61dd-b097-4cb8-8d99-930907c292ef'></a>\n\nFifth Avenue and Fifty-fifth Street\n\n<a id='9d20a493-89e0-4343-bffe-87db19a55616'></a>\n\nNew York\nwith my best wishes for the\nfuture under your inspired\nleadership.\nYours sincerely\n[illegible handwritten signature]\n\n<a id='352fbc00-2748-465c-b2f3-b3dc612b90ed'></a>\n\nOdy H Jambour 729\n99 Wall Street\nNew York City\n\n<a id='482d6fe4-1920-476e-9361-47bfcfb9b675'></a>\n\nP.S. Having noticed the sugges-\ntions in regard to candid\ncameras, I regret that I\ncannot be present to help in\nrecording the proceedings\n\u2014 provided I had film to\nuse in my camera, which\nI do not have!\n\n<::attestation: Signature\nSignature: illegible\nPositioned at the bottom center of the text block.::>\n\n<a id='d82c8872-6696-446f-957c-8b1595c0a991'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mqgl0226",
+            "chunks": [
+                "a380e77e-3b99-46dc-86d7-bcd5858d0f38",
+                "e2a038c9-f906-406e-b46b-173814e20136",
+                "a9de61dd-b097-4cb8-8d99-930907c292ef",
+                "9d20a493-89e0-4343-bffe-87db19a55616",
+                "352fbc00-2748-465c-b2f3-b3dc612b90ed",
+                "482d6fe4-1920-476e-9361-47bfcfb9b675",
+                "d82c8872-6696-446f-957c-8b1595c0a991"
+            ]
+        }
+    ],
+    "grounding": {
+        "a380e77e-3b99-46dc-86d7-bcd5858d0f38": {
+            "box": {
+                "left": 0.5090049505233765,
+                "top": 0.05330003425478935,
+                "right": 0.9207854270935059,
+                "bottom": 0.07143338024616241
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e2a038c9-f906-406e-b46b-173814e20136": {
+            "box": {
+                "left": 0.21016040444374084,
+                "top": 0.09911829233169556,
+                "right": 0.7985397577285767,
+                "bottom": 0.15802344679832458
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a9de61dd-b097-4cb8-8d99-930907c292ef": {
+            "box": {
+                "left": 0.23763567209243774,
+                "top": 0.16654154658317566,
+                "right": 0.760590672492981,
+                "bottom": 0.19892138242721558
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9d20a493-89e0-4343-bffe-87db19a55616": {
+            "box": {
+                "left": 0.02591642737388611,
+                "top": 0.22444364428520203,
+                "right": 0.9592690467834473,
+                "bottom": 0.5153874158859253
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "352fbc00-2748-465c-b2f3-b3dc612b90ed": {
+            "box": {
+                "left": 0.027664661407470703,
+                "top": 0.5312827229499817,
+                "right": 0.5671053528785706,
+                "bottom": 0.6635460257530212
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "482d6fe4-1920-476e-9361-47bfcfb9b675": {
+            "box": {
+                "left": 0.026602476835250854,
+                "top": 0.6665584444999695,
+                "right": 0.9902056455612183,
+                "bottom": 0.9703896641731262
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d82c8872-6696-446f-957c-8b1595c0a991": {
+            "box": {
+                "left": 0.07087653875350952,
+                "top": 0.9637895822525024,
+                "right": 0.9288983345031738,
+                "bottom": 0.9924589395523071
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "mqgl0226_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9438,
+        "credit_usage": 3.0,
+        "job_id": "c06u87m05k15lzvy62qnazyln",
+        "version": "dpt-2-20250919"
+    }
+}

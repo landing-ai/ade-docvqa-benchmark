@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='98a328bf-f491-402a-a8ba-0c572d8c3e4d'></a>\n\n<::logo: Department of Health, Education, and Welfare\nDEPARTMENT OF HEALTH, EDUCATION, AND WELFARE\nU.S.A.\nA circular seal featuring a central shield with a book and a caduceus, encircled by the department's name.::>\n\n<a id='7ec05a13-6962-4ecf-af36-0a52b51952b1'></a>\n\nDEPARTMENT OF HEALTH, EDUCATION, AND WELFARE\nPUBLIC HEALTH SERVICE\nFOOD AND DRUG ADMINISTRATION\nWASHINGTON, D.C. 20204\n\n<a id='e999103b-0c8e-473d-8264-61d694903c60'></a>\n\nJuly 24, 1978\n\n<a id='80a6faf9-5b9d-41b5-8d0d-61d2aebbd15f'></a>\n\nLetitia Brewster\nCenter for Science in the\nPublic Interest\n1755 S Street, N.W.\nWashington, D.C. 20009\n\n<a id='b2955f84-3c30-499b-a5d9-da4fd1d693a1'></a>\n\nDear Mr. Brewster:\nF78-17347\nAs requested in your letter of June 26, 1978, enclosed is a copy of the\nminutes of meeting held May 5, 1978, regarding Labeling.\n\n<a id='9881baef-2f68-4d49-aec3-9fcd97750549'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nSincerely yours,\nDonald Plumb\nAssistant to the Director\nDivision of Regulatory Guidance\nBureau of Foods\nA handwritten signature is placed above the typed name and title, located in the bottom left quadrant of the image.::>\n\n<a id='3f54023b-ca60-4795-8f30-cffe1ddd5186'></a>\n\nEnclosure\n\n<a id='049f3e74-53d1-41a0-bf13-83af39fa0442'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lgpj0226",
+    "chunks": [
+        {
+            "markdown": "<a id='98a328bf-f491-402a-a8ba-0c572d8c3e4d'></a>\n\n<::logo: Department of Health, Education, and Welfare\nDEPARTMENT OF HEALTH, EDUCATION, AND WELFARE\nU.S.A.\nA circular seal featuring a central shield with a book and a caduceus, encircled by the department's name.::>",
+            "type": "logo",
+            "id": "98a328bf-f491-402a-a8ba-0c572d8c3e4d",
+            "grounding": {
+                "box": {
+                    "left": 0.0827917829155922,
+                    "top": 0.02984628826379776,
+                    "right": 0.1954406201839447,
+                    "bottom": 0.11197084933519363
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7ec05a13-6962-4ecf-af36-0a52b51952b1'></a>\n\nDEPARTMENT OF HEALTH, EDUCATION, AND WELFARE\nPUBLIC HEALTH SERVICE\nFOOD AND DRUG ADMINISTRATION\nWASHINGTON, D.C. 20204",
+            "type": "text",
+            "id": "7ec05a13-6962-4ecf-af36-0a52b51952b1",
+            "grounding": {
+                "box": {
+                    "left": 0.2470378577709198,
+                    "top": 0.062116898596286774,
+                    "right": 0.7488770484924316,
+                    "bottom": 0.1274484097957611
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e999103b-0c8e-473d-8264-61d694903c60'></a>\n\nJuly 24, 1978",
+            "type": "text",
+            "id": "e999103b-0c8e-473d-8264-61d694903c60",
+            "grounding": {
+                "box": {
+                    "left": 0.42221495509147644,
+                    "top": 0.13135388493537903,
+                    "right": 0.5743595361709595,
+                    "bottom": 0.1543528437614441
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='80a6faf9-5b9d-41b5-8d0d-61d2aebbd15f'></a>\n\nLetitia Brewster\nCenter for Science in the\nPublic Interest\n1755 S Street, N.W.\nWashington, D.C. 20009",
+            "type": "text",
+            "id": "80a6faf9-5b9d-41b5-8d0d-61d2aebbd15f",
+            "grounding": {
+                "box": {
+                    "left": 0.09544846415519714,
+                    "top": 0.19586005806922913,
+                    "right": 0.3734450340270996,
+                    "bottom": 0.2853398621082306
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b2955f84-3c30-499b-a5d9-da4fd1d693a1'></a>\n\nDear Mr. Brewster:\nF78-17347\nAs requested in your letter of June 26, 1978, enclosed is a copy of the\nminutes of meeting held May 5, 1978, regarding Labeling.",
+            "type": "text",
+            "id": "b2955f84-3c30-499b-a5d9-da4fd1d693a1",
+            "grounding": {
+                "box": {
+                    "left": 0.09588751196861267,
+                    "top": 0.2926407754421234,
+                    "right": 0.8547999858856201,
+                    "bottom": 0.38401278853416443
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9881baef-2f68-4d49-aec3-9fcd97750549'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nSincerely yours,\nDonald Plumb\nAssistant to the Director\nDivision of Regulatory Guidance\nBureau of Foods\nA handwritten signature is placed above the typed name and title, located in the bottom left quadrant of the image.::>",
+            "type": "attestation",
+            "id": "9881baef-2f68-4d49-aec3-9fcd97750549",
+            "grounding": {
+                "box": {
+                    "left": 0.484999418258667,
+                    "top": 0.39190423488616943,
+                    "right": 0.8334087133407593,
+                    "bottom": 0.5297322273254395
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3f54023b-ca60-4795-8f30-cffe1ddd5186'></a>\n\nEnclosure",
+            "type": "text",
+            "id": "3f54023b-ca60-4795-8f30-cffe1ddd5186",
+            "grounding": {
+                "box": {
+                    "left": 0.09597732871770859,
+                    "top": 0.5343643426895142,
+                    "right": 0.2070310413837433,
+                    "bottom": 0.559431791305542
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='049f3e74-53d1-41a0-bf13-83af39fa0442'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lgpj0226",
+            "type": "marginalia",
+            "id": "049f3e74-53d1-41a0-bf13-83af39fa0442",
+            "grounding": {
+                "box": {
+                    "left": 0.1991543471813202,
+                    "top": 0.9777420163154602,
+                    "right": 0.8004542589187622,
+                    "bottom": 0.999430239200592
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='98a328bf-f491-402a-a8ba-0c572d8c3e4d'></a>\n\n<::logo: Department of Health, Education, and Welfare\nDEPARTMENT OF HEALTH, EDUCATION, AND WELFARE\nU.S.A.\nA circular seal featuring a central shield with a book and a caduceus, encircled by the department's name.::>\n\n<a id='7ec05a13-6962-4ecf-af36-0a52b51952b1'></a>\n\nDEPARTMENT OF HEALTH, EDUCATION, AND WELFARE\nPUBLIC HEALTH SERVICE\nFOOD AND DRUG ADMINISTRATION\nWASHINGTON, D.C. 20204\n\n<a id='e999103b-0c8e-473d-8264-61d694903c60'></a>\n\nJuly 24, 1978\n\n<a id='80a6faf9-5b9d-41b5-8d0d-61d2aebbd15f'></a>\n\nLetitia Brewster\nCenter for Science in the\nPublic Interest\n1755 S Street, N.W.\nWashington, D.C. 20009\n\n<a id='b2955f84-3c30-499b-a5d9-da4fd1d693a1'></a>\n\nDear Mr. Brewster:\nF78-17347\nAs requested in your letter of June 26, 1978, enclosed is a copy of the\nminutes of meeting held May 5, 1978, regarding Labeling.\n\n<a id='9881baef-2f68-4d49-aec3-9fcd97750549'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nSincerely yours,\nDonald Plumb\nAssistant to the Director\nDivision of Regulatory Guidance\nBureau of Foods\nA handwritten signature is placed above the typed name and title, located in the bottom left quadrant of the image.::>\n\n<a id='3f54023b-ca60-4795-8f30-cffe1ddd5186'></a>\n\nEnclosure\n\n<a id='049f3e74-53d1-41a0-bf13-83af39fa0442'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lgpj0226",
+            "chunks": [
+                "98a328bf-f491-402a-a8ba-0c572d8c3e4d",
+                "7ec05a13-6962-4ecf-af36-0a52b51952b1",
+                "e999103b-0c8e-473d-8264-61d694903c60",
+                "80a6faf9-5b9d-41b5-8d0d-61d2aebbd15f",
+                "b2955f84-3c30-499b-a5d9-da4fd1d693a1",
+                "9881baef-2f68-4d49-aec3-9fcd97750549",
+                "3f54023b-ca60-4795-8f30-cffe1ddd5186",
+                "049f3e74-53d1-41a0-bf13-83af39fa0442"
+            ]
+        }
+    ],
+    "grounding": {
+        "98a328bf-f491-402a-a8ba-0c572d8c3e4d": {
+            "box": {
+                "left": 0.0827917829155922,
+                "top": 0.02984628826379776,
+                "right": 0.1954406201839447,
+                "bottom": 0.11197084933519363
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "7ec05a13-6962-4ecf-af36-0a52b51952b1": {
+            "box": {
+                "left": 0.2470378577709198,
+                "top": 0.062116898596286774,
+                "right": 0.7488770484924316,
+                "bottom": 0.1274484097957611
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e999103b-0c8e-473d-8264-61d694903c60": {
+            "box": {
+                "left": 0.42221495509147644,
+                "top": 0.13135388493537903,
+                "right": 0.5743595361709595,
+                "bottom": 0.1543528437614441
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "80a6faf9-5b9d-41b5-8d0d-61d2aebbd15f": {
+            "box": {
+                "left": 0.09544846415519714,
+                "top": 0.19586005806922913,
+                "right": 0.3734450340270996,
+                "bottom": 0.2853398621082306
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b2955f84-3c30-499b-a5d9-da4fd1d693a1": {
+            "box": {
+                "left": 0.09588751196861267,
+                "top": 0.2926407754421234,
+                "right": 0.8547999858856201,
+                "bottom": 0.38401278853416443
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9881baef-2f68-4d49-aec3-9fcd97750549": {
+            "box": {
+                "left": 0.484999418258667,
+                "top": 0.39190423488616943,
+                "right": 0.8334087133407593,
+                "bottom": 0.5297322273254395
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "3f54023b-ca60-4795-8f30-cffe1ddd5186": {
+            "box": {
+                "left": 0.09597732871770859,
+                "top": 0.5343643426895142,
+                "right": 0.2070310413837433,
+                "bottom": 0.559431791305542
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "049f3e74-53d1-41a0-bf13-83af39fa0442": {
+            "box": {
+                "left": 0.1991543471813202,
+                "top": 0.9777420163154602,
+                "right": 0.8004542589187622,
+                "bottom": 0.999430239200592
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lgpj0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7268,
+        "credit_usage": 3.0,
+        "job_id": "i9hp503np0kkgufoakz0qt4a1",
+        "version": "dpt-2-20250919"
+    }
+}

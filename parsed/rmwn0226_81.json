@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='3396548b-c5f4-4ab2-83aa-d591d371fd73'></a>\n\n<::Likelihood to use Ultamet XL\n: chart\nExtremely: 36%\nVery: 55%\nSomewhat: 9%\nNot Very: 0%\nNot at all: 0%::>\n\n<a id='5b0e138e-6500-4cc1-a590-e933f06e0eeb'></a>\n\nDM\n\n<a id='b11b25c7-5eba-4b24-87c3-840507264b6d'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER. rydocuments.ucsf.edu/docs/rmwn0226\n\n<a id='1411f695-ea91-4676-9632-9aab44272628'></a>\n\nP-09686-00081\nDEPUY023042001",
+    "chunks": [
+        {
+            "markdown": "<a id='3396548b-c5f4-4ab2-83aa-d591d371fd73'></a>\n\n<::Likelihood to use Ultamet XL\n: chart\nExtremely: 36%\nVery: 55%\nSomewhat: 9%\nNot Very: 0%\nNot at all: 0%::>",
+            "type": "figure",
+            "id": "3396548b-c5f4-4ab2-83aa-d591d371fd73",
+            "grounding": {
+                "box": {
+                    "left": 0.07921665906906128,
+                    "top": 0.13477441668510437,
+                    "right": 0.9215133786201477,
+                    "bottom": 0.8466966152191162
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5b0e138e-6500-4cc1-a590-e933f06e0eeb'></a>\n\nDM",
+            "type": "text",
+            "id": "5b0e138e-6500-4cc1-a590-e933f06e0eeb",
+            "grounding": {
+                "box": {
+                    "left": 0.48587557673454285,
+                    "top": 0.9568043947219849,
+                    "right": 0.5112442970275879,
+                    "bottom": 0.9750165939331055
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b11b25c7-5eba-4b24-87c3-840507264b6d'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER. rydocuments.ucsf.edu/docs/rmwn0226",
+            "type": "marginalia",
+            "id": "b11b25c7-5eba-4b24-87c3-840507264b6d",
+            "grounding": {
+                "box": {
+                    "left": 0.020723670721054077,
+                    "top": 0.9753673672676086,
+                    "right": 0.7251477241516113,
+                    "bottom": 0.9994975924491882
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1411f695-ea91-4676-9632-9aab44272628'></a>\n\nP-09686-00081\nDEPUY023042001",
+            "type": "text",
+            "id": "1411f695-ea91-4676-9632-9aab44272628",
+            "grounding": {
+                "box": {
+                    "left": 0.8704622983932495,
+                    "top": 0.9490497708320618,
+                    "right": 0.9775110483169556,
+                    "bottom": 0.9997593760490417
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3396548b-c5f4-4ab2-83aa-d591d371fd73'></a>\n\n<::Likelihood to use Ultamet XL\n: chart\nExtremely: 36%\nVery: 55%\nSomewhat: 9%\nNot Very: 0%\nNot at all: 0%::>\n\n<a id='5b0e138e-6500-4cc1-a590-e933f06e0eeb'></a>\n\nDM\n\n<a id='b11b25c7-5eba-4b24-87c3-840507264b6d'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER. rydocuments.ucsf.edu/docs/rmwn0226\n\n<a id='1411f695-ea91-4676-9632-9aab44272628'></a>\n\nP-09686-00081\nDEPUY023042001",
+            "chunks": [
+                "3396548b-c5f4-4ab2-83aa-d591d371fd73",
+                "5b0e138e-6500-4cc1-a590-e933f06e0eeb",
+                "b11b25c7-5eba-4b24-87c3-840507264b6d",
+                "1411f695-ea91-4676-9632-9aab44272628"
+            ]
+        }
+    ],
+    "grounding": {
+        "3396548b-c5f4-4ab2-83aa-d591d371fd73": {
+            "box": {
+                "left": 0.07921665906906128,
+                "top": 0.13477441668510437,
+                "right": 0.9215133786201477,
+                "bottom": 0.8466966152191162
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "5b0e138e-6500-4cc1-a590-e933f06e0eeb": {
+            "box": {
+                "left": 0.48587557673454285,
+                "top": 0.9568043947219849,
+                "right": 0.5112442970275879,
+                "bottom": 0.9750165939331055
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b11b25c7-5eba-4b24-87c3-840507264b6d": {
+            "box": {
+                "left": 0.020723670721054077,
+                "top": 0.9753673672676086,
+                "right": 0.7251477241516113,
+                "bottom": 0.9994975924491882
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "1411f695-ea91-4676-9632-9aab44272628": {
+            "box": {
+                "left": 0.8704622983932495,
+                "top": 0.9490497708320618,
+                "right": 0.9775110483169556,
+                "bottom": 0.9997593760490417
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rmwn0226_81.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8111,
+        "credit_usage": 3.0,
+        "job_id": "mxju68sh2j288gqzkgxrxygrd",
+        "version": "dpt-2-20250919"
+    }
+}

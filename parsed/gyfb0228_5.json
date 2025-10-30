@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='dd397b2f-97f7-4ef3-bb95-55aaa476c24d'></a>\n\n- 2 -\n\n<a id='22080f3e-f9d4-4339-acf4-ee090622987f'></a>\n\nIV. INTER AND INTRA FEDERAL GOVERNMENT COORDINATION\n\n3:15 A. NIEHS\n\n3:30 B. DA\n\n3:45 C. NCI\n\n4:00 D. U OF A\n\n4:15 E. Canada",
+    "chunks": [
+        {
+            "markdown": "<a id='dd397b2f-97f7-4ef3-bb95-55aaa476c24d'></a>\n\n- 2 -",
+            "type": "marginalia",
+            "id": "dd397b2f-97f7-4ef3-bb95-55aaa476c24d",
+            "grounding": {
+                "box": {
+                    "left": 0.4835069477558136,
+                    "top": 0.07207946479320526,
+                    "right": 0.548154354095459,
+                    "bottom": 0.08714857697486877
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='22080f3e-f9d4-4339-acf4-ee090622987f'></a>\n\nIV. INTER AND INTRA FEDERAL GOVERNMENT COORDINATION\n\n3:15 A. NIEHS\n\n3:30 B. DA\n\n3:45 C. NCI\n\n4:00 D. U OF A\n\n4:15 E. Canada",
+            "type": "text",
+            "id": "22080f3e-f9d4-4339-acf4-ee090622987f",
+            "grounding": {
+                "box": {
+                    "left": 0.11358097195625305,
+                    "top": 0.11399213969707489,
+                    "right": 0.7260390520095825,
+                    "bottom": 0.38352155685424805
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='dd397b2f-97f7-4ef3-bb95-55aaa476c24d'></a>\n\n- 2 -\n\n<a id='22080f3e-f9d4-4339-acf4-ee090622987f'></a>\n\nIV. INTER AND INTRA FEDERAL GOVERNMENT COORDINATION\n\n3:15 A. NIEHS\n\n3:30 B. DA\n\n3:45 C. NCI\n\n4:00 D. U OF A\n\n4:15 E. Canada",
+            "chunks": [
+                "dd397b2f-97f7-4ef3-bb95-55aaa476c24d",
+                "22080f3e-f9d4-4339-acf4-ee090622987f"
+            ]
+        }
+    ],
+    "grounding": {
+        "dd397b2f-97f7-4ef3-bb95-55aaa476c24d": {
+            "box": {
+                "left": 0.4835069477558136,
+                "top": 0.07207946479320526,
+                "right": 0.548154354095459,
+                "bottom": 0.08714857697486877
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "22080f3e-f9d4-4339-acf4-ee090622987f": {
+            "box": {
+                "left": 0.11358097195625305,
+                "top": 0.11399213969707489,
+                "right": 0.7260390520095825,
+                "bottom": 0.38352155685424805
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "gyfb0228_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5925,
+        "credit_usage": 3.0,
+        "job_id": "h6pc4vw6mxbir8czp1itap1qh",
+        "version": "dpt-2-20250919"
+    }
+}

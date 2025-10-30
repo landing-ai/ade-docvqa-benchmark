@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='5af4b30e-b55a-4039-aa2d-99b313b9f1df'></a>\n\n<::KIDNEY Figure 1\n\nLine graph showing TISSUE/SERUM RADIOVANADIUM RATIO (% Dose/g/% Dose/ml) on the y-axis versus DAYS on the x-axis.\n\nY-axis ranges from 0 to 70 in increments of 10.\nX-axis ranges from 0 to 20 in increments of 5.\n\nLegend:\n- CONTROL: represented by open circles connected by a dashed line.\n- HYPOX (18): represented by filled circles connected by a solid line.\n- TPTX (6): represented by filled squares connected by a dashed line.\n- ADX (6): represented by filled triangles connected by a dashed line.\n\nData points (approximate):\n- CONTROL:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~32\n  - Day 14: ~40\n- HYPOX:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~34\n  - Day 14: ~62\n- TPTX:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~34\n  - Day 14: ~60\n- ADX:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~27\n  - Day 14: ~31\n: chart::>\n\n<a id='4f891327-4840-431b-8d91-d0289458d7dd'></a>\n\nWallach - 79",
+    "chunks": [
+        {
+            "markdown": "<a id='5af4b30e-b55a-4039-aa2d-99b313b9f1df'></a>\n\n<::KIDNEY Figure 1\n\nLine graph showing TISSUE/SERUM RADIOVANADIUM RATIO (% Dose/g/% Dose/ml) on the y-axis versus DAYS on the x-axis.\n\nY-axis ranges from 0 to 70 in increments of 10.\nX-axis ranges from 0 to 20 in increments of 5.\n\nLegend:\n- CONTROL: represented by open circles connected by a dashed line.\n- HYPOX (18): represented by filled circles connected by a solid line.\n- TPTX (6): represented by filled squares connected by a dashed line.\n- ADX (6): represented by filled triangles connected by a dashed line.\n\nData points (approximate):\n- CONTROL:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~32\n  - Day 14: ~40\n- HYPOX:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~34\n  - Day 14: ~62\n- TPTX:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~34\n  - Day 14: ~60\n- ADX:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~27\n  - Day 14: ~31\n: chart::>",
+            "type": "figure",
+            "id": "5af4b30e-b55a-4039-aa2d-99b313b9f1df",
+            "grounding": {
+                "box": {
+                    "left": 0.25071266293525696,
+                    "top": 0.11770445108413696,
+                    "right": 0.779609203338623,
+                    "bottom": 0.7436357736587524
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4f891327-4840-431b-8d91-d0289458d7dd'></a>\n\nWallach - 79",
+            "type": "marginalia",
+            "id": "4f891327-4840-431b-8d91-d0289458d7dd",
+            "grounding": {
+                "box": {
+                    "left": 0.7186723947525024,
+                    "top": 0.8732585906982422,
+                    "right": 0.8564020395278931,
+                    "bottom": 0.8963131904602051
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='5af4b30e-b55a-4039-aa2d-99b313b9f1df'></a>\n\n<::KIDNEY Figure 1\n\nLine graph showing TISSUE/SERUM RADIOVANADIUM RATIO (% Dose/g/% Dose/ml) on the y-axis versus DAYS on the x-axis.\n\nY-axis ranges from 0 to 70 in increments of 10.\nX-axis ranges from 0 to 20 in increments of 5.\n\nLegend:\n- CONTROL: represented by open circles connected by a dashed line.\n- HYPOX (18): represented by filled circles connected by a solid line.\n- TPTX (6): represented by filled squares connected by a dashed line.\n- ADX (6): represented by filled triangles connected by a dashed line.\n\nData points (approximate):\n- CONTROL:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~32\n  - Day 14: ~40\n- HYPOX:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~34\n  - Day 14: ~62\n- TPTX:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~34\n  - Day 14: ~60\n- ADX:\n  - Day 1: ~5\n  - Day 2: ~10\n  - Day 4: ~17\n  - Day 7: ~27\n  - Day 14: ~31\n: chart::>\n\n<a id='4f891327-4840-431b-8d91-d0289458d7dd'></a>\n\nWallach - 79",
+            "chunks": [
+                "5af4b30e-b55a-4039-aa2d-99b313b9f1df",
+                "4f891327-4840-431b-8d91-d0289458d7dd"
+            ]
+        }
+    ],
+    "grounding": {
+        "5af4b30e-b55a-4039-aa2d-99b313b9f1df": {
+            "box": {
+                "left": 0.25071266293525696,
+                "top": 0.11770445108413696,
+                "right": 0.779609203338623,
+                "bottom": 0.7436357736587524
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "4f891327-4840-431b-8d91-d0289458d7dd": {
+            "box": {
+                "left": 0.7186723947525024,
+                "top": 0.8732585906982422,
+                "right": 0.8564020395278931,
+                "bottom": 0.8963131904602051
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yymp0227_42.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10711,
+        "credit_usage": 3.0,
+        "job_id": "tcre4qmkg0jwat17xvd0uuz37",
+        "version": "dpt-2-20250919"
+    }
+}

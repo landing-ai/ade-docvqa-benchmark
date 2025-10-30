@@ -1,0 +1,473 @@
+{
+    "markdown": "<a id='1a153160-15e8-46c2-8dab-8f5a4508eb36'></a>\n\n## RJRT CONFIDENTIAL\n## JOB ASSIGNMENT ADDENDUM\n\n<a id='2bfe811e-08c2-4b45-94a7-f70d295b3d1b'></a>\n\nTITLE: NAS Snus Benchmarker/Name Evaluation\nPROPOSAL #: 13-3006-16\nSUPPLIER: Affinnova\n\n<a id='23696c52-5274-47aa-9c29-8b875fb8ed22'></a>\n\nThis Job Assignment Addendum, including the Proposal attached hereto and hereby incorporated by reference, is made as of the date below pursuant to the Master Contract between R. J. Reynolds Tobacco Company and Supplier. The provisions thereof are incorporated herein.\n\n<a id='ef1c4769-7d0a-46cc-bf44-86c35c2454ad'></a>\n\nRESEARCH OBJECTIVES:\n* Identify highest performing test concepts including 9-12 name images with concept statement, package image, and logo image, on the following key measures:\n  * Likes and Dislikes\n  * Uniqueness\n  * Believability\n  * Fit with Brand\n* Measure test concept appeal versus key in-market benchmarks to determine preference share of concept, variations in appeal, and ATC profiles for acceptors\n\n<a id='e800e9b9-9da9-49b7-a04d-5f501712f3df'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TIMING:</td><td id=\"0-3\">ACCOUNTING CODES:</td></tr>\n<tr><td id=\"0-4\" rowspan=\"3\">Project approval 10/11 \u2022 Pre-Work\u2014 10 days prior to input \u2022 Execution\u2014 4 weeks (input, programming, fielding) \u2022 Report\u2014 5th week (final analysis and summary)</td><td id=\"0-5\">Source of Funds: SFNTC Research Budget</td></tr>\n<tr><td id=\"0-6\">GL Code:3006-560000010-95050</td></tr>\n<tr><td id=\"0-7\">Internal Order #: 907145-846500</td></tr>\n</table>\n\n<a id='55faaeaf-342b-4c52-a3ca-1fde8d718adf'></a>\n\nITEMIZED COSTS:\n<table id=\"0-8\">\n<tr><td id=\"0-9\">Component</td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\">Natural American Spirit Snus Benchmarker 3</td><td id=\"0-c\">$47,550</td></tr>\n<tr><td id=\"0-d\">\u2022 # of test concepts (up to 12)</td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\">\u2022 Note: If only 9 concepts are evaluated (~$10,000 invoice reduction)</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">Solution Options</td><td id=\"0-i\">$3,160</td></tr>\n<tr><td id=\"0-j\">Premium Panel Acquisition Cost\nNumber of completes (n) = 600</td><td id=\"0-k\">$3,950</td></tr>\n<tr><td id=\"0-l\">Total</td><td id=\"0-m\">$54,660</td></tr>\n</table>\n\n<a id='006f6475-afeb-4e3f-a4f3-ba1c900cb1ef'></a>\n\n<::attestation: Agreement and Acceptance Signature Lines\nAGREED TO AND ACCEPTED:\nR. J. REYNOLDS TOBACCO COMPANY\n____________________\n(Name/ Date)\nAFFINNOVA\n____________________\n(Name/ Date)\nTwo signature lines with company names and date placeholders, positioned side-by-side for agreement.::>\n\n<a id='c29dcccb-682d-4bf4-9695-2387501fefbc'></a>\n\n53741 0317\n\n<a id='898a9042-9906-49e1-9166-b9b9cc0e5112'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zkjn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='1a153160-15e8-46c2-8dab-8f5a4508eb36'></a>\n\n## RJRT CONFIDENTIAL\n## JOB ASSIGNMENT ADDENDUM",
+            "type": "text",
+            "id": "1a153160-15e8-46c2-8dab-8f5a4508eb36",
+            "grounding": {
+                "box": {
+                    "left": 0.3497714400291443,
+                    "top": 0.0851743072271347,
+                    "right": 0.6378538608551025,
+                    "bottom": 0.12078407406806946
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2bfe811e-08c2-4b45-94a7-f70d295b3d1b'></a>\n\nTITLE: NAS Snus Benchmarker/Name Evaluation\nPROPOSAL #: 13-3006-16\nSUPPLIER: Affinnova",
+            "type": "text",
+            "id": "2bfe811e-08c2-4b45-94a7-f70d295b3d1b",
+            "grounding": {
+                "box": {
+                    "left": 0.27660882472991943,
+                    "top": 0.12964943051338196,
+                    "right": 0.7123937606811523,
+                    "bottom": 0.1791532039642334
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='23696c52-5274-47aa-9c29-8b875fb8ed22'></a>\n\nThis Job Assignment Addendum, including the Proposal attached hereto and hereby incorporated by reference, is made as of the date below pursuant to the Master Contract between R. J. Reynolds Tobacco Company and Supplier. The provisions thereof are incorporated herein.",
+            "type": "text",
+            "id": "23696c52-5274-47aa-9c29-8b875fb8ed22",
+            "grounding": {
+                "box": {
+                    "left": 0.10405117273330688,
+                    "top": 0.1805742084980011,
+                    "right": 0.8243996500968933,
+                    "bottom": 0.24403488636016846
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ef1c4769-7d0a-46cc-bf44-86c35c2454ad'></a>\n\nRESEARCH OBJECTIVES:\n* Identify highest performing test concepts including 9-12 name images with concept statement, package image, and logo image, on the following key measures:\n  * Likes and Dislikes\n  * Uniqueness\n  * Believability\n  * Fit with Brand\n* Measure test concept appeal versus key in-market benchmarks to determine preference share of concept, variations in appeal, and ATC profiles for acceptors",
+            "type": "text",
+            "id": "ef1c4769-7d0a-46cc-bf44-86c35c2454ad",
+            "grounding": {
+                "box": {
+                    "left": 0.10430717468261719,
+                    "top": 0.2521206736564636,
+                    "right": 0.8777726888656616,
+                    "bottom": 0.39269745349884033
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e800e9b9-9da9-49b7-a04d-5f501712f3df'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TIMING:</td><td id=\"0-3\">ACCOUNTING CODES:</td></tr>\n<tr><td id=\"0-4\" rowspan=\"3\">Project approval 10/11 \u2022 Pre-Work\u2014 10 days prior to input \u2022 Execution\u2014 4 weeks (input, programming, fielding) \u2022 Report\u2014 5th week (final analysis and summary)</td><td id=\"0-5\">Source of Funds: SFNTC Research Budget</td></tr>\n<tr><td id=\"0-6\">GL Code:3006-560000010-95050</td></tr>\n<tr><td id=\"0-7\">Internal Order #: 907145-846500</td></tr>\n</table>",
+            "type": "table",
+            "id": "e800e9b9-9da9-49b7-a04d-5f501712f3df",
+            "grounding": {
+                "box": {
+                    "left": 0.10476124286651611,
+                    "top": 0.3981722593307495,
+                    "right": 0.833159327507019,
+                    "bottom": 0.5308248400688171
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='55faaeaf-342b-4c52-a3ca-1fde8d718adf'></a>\n\nITEMIZED COSTS:\n<table id=\"0-8\">\n<tr><td id=\"0-9\">Component</td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\">Natural American Spirit Snus Benchmarker 3</td><td id=\"0-c\">$47,550</td></tr>\n<tr><td id=\"0-d\">\u2022 # of test concepts (up to 12)</td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\">\u2022 Note: If only 9 concepts are evaluated (~$10,000 invoice reduction)</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">Solution Options</td><td id=\"0-i\">$3,160</td></tr>\n<tr><td id=\"0-j\">Premium Panel Acquisition Cost\nNumber of completes (n) = 600</td><td id=\"0-k\">$3,950</td></tr>\n<tr><td id=\"0-l\">Total</td><td id=\"0-m\">$54,660</td></tr>\n</table>",
+            "type": "table",
+            "id": "55faaeaf-342b-4c52-a3ca-1fde8d718adf",
+            "grounding": {
+                "box": {
+                    "left": 0.10661077499389648,
+                    "top": 0.5368427038192749,
+                    "right": 0.7526417970657349,
+                    "bottom": 0.7304760217666626
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='006f6475-afeb-4e3f-a4f3-ba1c900cb1ef'></a>\n\n<::attestation: Agreement and Acceptance Signature Lines\nAGREED TO AND ACCEPTED:\nR. J. REYNOLDS TOBACCO COMPANY\n____________________\n(Name/ Date)\nAFFINNOVA\n____________________\n(Name/ Date)\nTwo signature lines with company names and date placeholders, positioned side-by-side for agreement.::>",
+            "type": "attestation",
+            "id": "006f6475-afeb-4e3f-a4f3-ba1c900cb1ef",
+            "grounding": {
+                "box": {
+                    "left": 0.1037149727344513,
+                    "top": 0.7368918657302856,
+                    "right": 0.7622411251068115,
+                    "bottom": 0.850071907043457
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c29dcccb-682d-4bf4-9695-2387501fefbc'></a>\n\n53741 0317",
+            "type": "marginalia",
+            "id": "c29dcccb-682d-4bf4-9695-2387501fefbc",
+            "grounding": {
+                "box": {
+                    "left": 0.8208830952644348,
+                    "top": 0.9208834171295166,
+                    "right": 0.9478170275688171,
+                    "bottom": 0.9436036348342896
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='898a9042-9906-49e1-9166-b9b9cc0e5112'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zkjn0226",
+            "type": "text",
+            "id": "898a9042-9906-49e1-9166-b9b9cc0e5112",
+            "grounding": {
+                "box": {
+                    "left": 0.2180672585964203,
+                    "top": 0.9772655963897705,
+                    "right": 0.7823144197463989,
+                    "bottom": 0.999849796295166
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='1a153160-15e8-46c2-8dab-8f5a4508eb36'></a>\n\n## RJRT CONFIDENTIAL\n## JOB ASSIGNMENT ADDENDUM\n\n<a id='2bfe811e-08c2-4b45-94a7-f70d295b3d1b'></a>\n\nTITLE: NAS Snus Benchmarker/Name Evaluation\nPROPOSAL #: 13-3006-16\nSUPPLIER: Affinnova\n\n<a id='23696c52-5274-47aa-9c29-8b875fb8ed22'></a>\n\nThis Job Assignment Addendum, including the Proposal attached hereto and hereby incorporated by reference, is made as of the date below pursuant to the Master Contract between R. J. Reynolds Tobacco Company and Supplier. The provisions thereof are incorporated herein.\n\n<a id='ef1c4769-7d0a-46cc-bf44-86c35c2454ad'></a>\n\nRESEARCH OBJECTIVES:\n* Identify highest performing test concepts including 9-12 name images with concept statement, package image, and logo image, on the following key measures:\n  * Likes and Dislikes\n  * Uniqueness\n  * Believability\n  * Fit with Brand\n* Measure test concept appeal versus key in-market benchmarks to determine preference share of concept, variations in appeal, and ATC profiles for acceptors\n\n<a id='e800e9b9-9da9-49b7-a04d-5f501712f3df'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">TIMING:</td><td id=\"0-3\">ACCOUNTING CODES:</td></tr>\n<tr><td id=\"0-4\" rowspan=\"3\">Project approval 10/11 \u2022 Pre-Work\u2014 10 days prior to input \u2022 Execution\u2014 4 weeks (input, programming, fielding) \u2022 Report\u2014 5th week (final analysis and summary)</td><td id=\"0-5\">Source of Funds: SFNTC Research Budget</td></tr>\n<tr><td id=\"0-6\">GL Code:3006-560000010-95050</td></tr>\n<tr><td id=\"0-7\">Internal Order #: 907145-846500</td></tr>\n</table>\n\n<a id='55faaeaf-342b-4c52-a3ca-1fde8d718adf'></a>\n\nITEMIZED COSTS:\n<table id=\"0-8\">\n<tr><td id=\"0-9\">Component</td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\">Natural American Spirit Snus Benchmarker 3</td><td id=\"0-c\">$47,550</td></tr>\n<tr><td id=\"0-d\">\u2022 # of test concepts (up to 12)</td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\">\u2022 Note: If only 9 concepts are evaluated (~$10,000 invoice reduction)</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">Solution Options</td><td id=\"0-i\">$3,160</td></tr>\n<tr><td id=\"0-j\">Premium Panel Acquisition Cost\nNumber of completes (n) = 600</td><td id=\"0-k\">$3,950</td></tr>\n<tr><td id=\"0-l\">Total</td><td id=\"0-m\">$54,660</td></tr>\n</table>\n\n<a id='006f6475-afeb-4e3f-a4f3-ba1c900cb1ef'></a>\n\n<::attestation: Agreement and Acceptance Signature Lines\nAGREED TO AND ACCEPTED:\nR. J. REYNOLDS TOBACCO COMPANY\n____________________\n(Name/ Date)\nAFFINNOVA\n____________________\n(Name/ Date)\nTwo signature lines with company names and date placeholders, positioned side-by-side for agreement.::>\n\n<a id='c29dcccb-682d-4bf4-9695-2387501fefbc'></a>\n\n53741 0317\n\n<a id='898a9042-9906-49e1-9166-b9b9cc0e5112'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zkjn0226",
+            "chunks": [
+                "1a153160-15e8-46c2-8dab-8f5a4508eb36",
+                "2bfe811e-08c2-4b45-94a7-f70d295b3d1b",
+                "23696c52-5274-47aa-9c29-8b875fb8ed22",
+                "ef1c4769-7d0a-46cc-bf44-86c35c2454ad",
+                "e800e9b9-9da9-49b7-a04d-5f501712f3df",
+                "55faaeaf-342b-4c52-a3ca-1fde8d718adf",
+                "006f6475-afeb-4e3f-a4f3-ba1c900cb1ef",
+                "c29dcccb-682d-4bf4-9695-2387501fefbc",
+                "898a9042-9906-49e1-9166-b9b9cc0e5112"
+            ]
+        }
+    ],
+    "grounding": {
+        "1a153160-15e8-46c2-8dab-8f5a4508eb36": {
+            "box": {
+                "left": 0.3497714400291443,
+                "top": 0.0851743072271347,
+                "right": 0.6378538608551025,
+                "bottom": 0.12078407406806946
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2bfe811e-08c2-4b45-94a7-f70d295b3d1b": {
+            "box": {
+                "left": 0.27660882472991943,
+                "top": 0.12964943051338196,
+                "right": 0.7123937606811523,
+                "bottom": 0.1791532039642334
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "23696c52-5274-47aa-9c29-8b875fb8ed22": {
+            "box": {
+                "left": 0.10405117273330688,
+                "top": 0.1805742084980011,
+                "right": 0.8243996500968933,
+                "bottom": 0.24403488636016846
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ef1c4769-7d0a-46cc-bf44-86c35c2454ad": {
+            "box": {
+                "left": 0.10430717468261719,
+                "top": 0.2521206736564636,
+                "right": 0.8777726888656616,
+                "bottom": 0.39269745349884033
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e800e9b9-9da9-49b7-a04d-5f501712f3df": {
+            "box": {
+                "left": 0.10476124286651611,
+                "top": 0.3981722593307495,
+                "right": 0.833159327507019,
+                "bottom": 0.5308248400688171
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11153118732696798,
+                "top": 0.4038770202400317,
+                "right": 0.8257487094003437,
+                "bottom": 0.5250315620590982
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11153118732696798,
+                "top": 0.4038770202400317,
+                "right": 0.4803240954797303,
+                "bottom": 0.41892926661554064
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.4803240954797303,
+                "top": 0.4038770202400317,
+                "right": 0.8254723671389854,
+                "bottom": 0.41892926661554064
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.11153118732696798,
+                "top": 0.41892926661554064,
+                "right": 0.8254723671389854,
+                "bottom": 0.5250315620590982
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.4803240954797303,
+                "top": 0.41892926661554064,
+                "right": 0.8254723671389854,
+                "bottom": 0.4504406763706559
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.4803240954797303,
+                "top": 0.4504406763706559,
+                "right": 0.8254723671389854,
+                "bottom": 0.47853075389504696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.4803240954797303,
+                "top": 0.47853075389504696,
+                "right": 0.8254723671389854,
+                "bottom": 0.5250315620590982
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "55faaeaf-342b-4c52-a3ca-1fde8d718adf": {
+            "box": {
+                "left": 0.10661077499389648,
+                "top": 0.5368427038192749,
+                "right": 0.7526417970657349,
+                "bottom": 0.7304760217666626
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.24480617721650866,
+                "top": 0.571048355983713,
+                "right": 0.7456694342394741,
+                "bottom": 0.7254916063156571
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.24480617721650866,
+                "top": 0.571048355983713,
+                "right": 0.6266611701149998,
+                "bottom": 0.5868763688584124
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6266611701149998,
+                "top": 0.571048355983713,
+                "right": 0.7453341970893916,
+                "bottom": 0.5868763688584124
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.24480617721650866,
+                "top": 0.5868763688584124,
+                "right": 0.6266611701149998,
+                "bottom": 0.6032289577265715
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.6266611701149998,
+                "top": 0.5868763688584124,
+                "right": 0.7453341970893916,
+                "bottom": 0.6032289577265715
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.24480617721650866,
+                "top": 0.6032289577265715,
+                "right": 0.6266611701149998,
+                "bottom": 0.6188321951865845
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.6266611701149998,
+                "top": 0.6032289577265715,
+                "right": 0.7453341970893916,
+                "bottom": 0.6188321951865845
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.24480617721650866,
+                "top": 0.6188321951865845,
+                "right": 0.6266611701149998,
+                "bottom": 0.6486196840518517
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6266611701149998,
+                "top": 0.6188321951865845,
+                "right": 0.7453341970893916,
+                "bottom": 0.6486196840518517
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.24480617721650866,
+                "top": 0.6486196840518517,
+                "right": 0.6266611701149998,
+                "bottom": 0.6627864040019489
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.6266611701149998,
+                "top": 0.6486196840518517,
+                "right": 0.7453341970893916,
+                "bottom": 0.6627864040019489
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.24480617721650866,
+                "top": 0.6627864040019489,
+                "right": 0.6266611701149998,
+                "bottom": 0.7091185890896128
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6266611701149998,
+                "top": 0.6627864040019489,
+                "right": 0.7453341970893916,
+                "bottom": 0.7091185890896128
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.24480617721650866,
+                "top": 0.7091185890896128,
+                "right": 0.6266611701149998,
+                "bottom": 0.7254916063156571
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.6266611701149998,
+                "top": 0.7091185890896128,
+                "right": 0.7453341970893916,
+                "bottom": 0.7254916063156571
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "006f6475-afeb-4e3f-a4f3-ba1c900cb1ef": {
+            "box": {
+                "left": 0.1037149727344513,
+                "top": 0.7368918657302856,
+                "right": 0.7622411251068115,
+                "bottom": 0.850071907043457
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "c29dcccb-682d-4bf4-9695-2387501fefbc": {
+            "box": {
+                "left": 0.8208830952644348,
+                "top": 0.9208834171295166,
+                "right": 0.9478170275688171,
+                "bottom": 0.9436036348342896
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "898a9042-9906-49e1-9166-b9b9cc0e5112": {
+            "box": {
+                "left": 0.2180672585964203,
+                "top": 0.9772655963897705,
+                "right": 0.7823144197463989,
+                "bottom": 0.999849796295166
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "zkjn0226_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8937,
+        "credit_usage": 3.0,
+        "job_id": "p726uyve9az5j8phl7mdsqipe",
+        "version": "dpt-2-20250919"
+    }
+}

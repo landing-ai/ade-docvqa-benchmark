@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='04f41518-f2ed-41a5-9e66-b16b8457cb0b'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: Herbert\nA handwritten signature centered on a white background.::>\n\n<a id='f6386e74-655a-4e0f-84ff-37534ca759ca'></a>\n\n<::logo:\n\n81\nAugust 16-21, 1981\nSan Diego, California\nA stylized grain plant is intertwined with a gridded globe featuring the numbers \"81\".::>\n\n<a id='97e2b637-00dd-4012-bd27-40413b548620'></a>\n\nXII INTERNATIONAL CONGRESS OF NUTRITION\nInternational Union of Nutritional Sciences\n\n<a id='533aabab-d9b2-47b8-9385-614984e0c5c8'></a>\n\n1629 K Street, N.W., Suite 700\nWashington, D.C. 20006, U.S.A.\n(202) 296-8803\nCable: ICN-89-2407\n\n<a id='c1b17ab7-d2d1-45fb-a3d0-a951ce9833d6'></a>\n\nCongress Officers\n\nPresident: George K. Davis\nVice President: Samuel J. Fomon\nVice President: Alfred E. Harper\nSecretary: John G. Bieri\nTreasurer: Mattie Rae S. Fox\n\n<a id='eea15ed5-de9b-4687-8c77-4340568fa18c'></a>\n\nXII International Congress of Nutrition, August 16 - 21, 1981\nTown and Country Hotel, San Diego, California, U.S.A.\n\n<a id='077c3281-721b-4cba-97be-dfe09cf2da70'></a>\n\nAugust 17 Workshop on \"Interaction of Vitamin B\u2081\u2082 with Nutrients and Drugs\"\n\nPresentation by Victor Herbert, M.D., J.D., Chief, Hematology and\n\nNutrition Laboratory, Bronx VA Medical Center and Professor of Medicine,\n\nSUNY Downstate Medical Center will refer to the following material,\n\nand which, if confirmed by other workers, suggests that the $2-billion-\n\na-year multivitamin/mineral industry may have to take vitamin B\u2081\u2082 out of\n\ntheir products:\n\n<a id='de28233b-2131-4c34-89c1-02d0b5e646aa'></a>\n\nThe abstract (see over) will be published in the October 1981 issue\nof \"Clinical Research.\"\n\n<a id='18b871dc-c063-46e7-89b3-b5d3a7d0bc59'></a>\n\nHosts: American Institute of Nutrition, American Society for Clinical Nutrition, U.S. National Academy of Sciences",
+    "chunks": [
+        {
+            "markdown": "<a id='04f41518-f2ed-41a5-9e66-b16b8457cb0b'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: Herbert\nA handwritten signature centered on a white background.::>",
+            "type": "attestation",
+            "id": "04f41518-f2ed-41a5-9e66-b16b8457cb0b",
+            "grounding": {
+                "box": {
+                    "left": 0.04424140602350235,
+                    "top": 0.02383244037628174,
+                    "right": 0.1457434594631195,
+                    "bottom": 0.052668288350105286
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f6386e74-655a-4e0f-84ff-37534ca759ca'></a>\n\n<::logo:\n\n81\nAugust 16-21, 1981\nSan Diego, California\nA stylized grain plant is intertwined with a gridded globe featuring the numbers \"81\".::>",
+            "type": "logo",
+            "id": "f6386e74-655a-4e0f-84ff-37534ca759ca",
+            "grounding": {
+                "box": {
+                    "left": 0.04787559062242508,
+                    "top": 0.05666228383779526,
+                    "right": 0.24821239709854126,
+                    "bottom": 0.24971258640289307
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='97e2b637-00dd-4012-bd27-40413b548620'></a>\n\nXII INTERNATIONAL CONGRESS OF NUTRITION\nInternational Union of Nutritional Sciences",
+            "type": "text",
+            "id": "97e2b637-00dd-4012-bd27-40413b548620",
+            "grounding": {
+                "box": {
+                    "left": 0.2803378701210022,
+                    "top": 0.08818832039833069,
+                    "right": 0.7079920172691345,
+                    "bottom": 0.12653745710849762
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='533aabab-d9b2-47b8-9385-614984e0c5c8'></a>\n\n1629 K Street, N.W., Suite 700\nWashington, D.C. 20006, U.S.A.\n(202) 296-8803\nCable: ICN-89-2407",
+            "type": "text",
+            "id": "533aabab-d9b2-47b8-9385-614984e0c5c8",
+            "grounding": {
+                "box": {
+                    "left": 0.7283126711845398,
+                    "top": 0.15182355046272278,
+                    "right": 0.9237363934516907,
+                    "bottom": 0.20632198452949524
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c1b17ab7-d2d1-45fb-a3d0-a951ce9833d6'></a>\n\nCongress Officers\n\nPresident: George K. Davis\nVice President: Samuel J. Fomon\nVice President: Alfred E. Harper\nSecretary: John G. Bieri\nTreasurer: Mattie Rae S. Fox",
+            "type": "text",
+            "id": "c1b17ab7-d2d1-45fb-a3d0-a951ce9833d6",
+            "grounding": {
+                "box": {
+                    "left": 0.06143598258495331,
+                    "top": 0.25993505120277405,
+                    "right": 0.2642568349838257,
+                    "bottom": 0.3383956849575043
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='eea15ed5-de9b-4687-8c77-4340568fa18c'></a>\n\nXII International Congress of Nutrition, August 16 - 21, 1981\nTown and Country Hotel, San Diego, California, U.S.A.",
+            "type": "text",
+            "id": "eea15ed5-de9b-4687-8c77-4340568fa18c",
+            "grounding": {
+                "box": {
+                    "left": 0.06492465734481812,
+                    "top": 0.34927910566329956,
+                    "right": 0.7926667928695679,
+                    "bottom": 0.40577083826065063
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='077c3281-721b-4cba-97be-dfe09cf2da70'></a>\n\nAugust 17 Workshop on \"Interaction of Vitamin B\u2081\u2082 with Nutrients and Drugs\"\n\nPresentation by Victor Herbert, M.D., J.D., Chief, Hematology and\n\nNutrition Laboratory, Bronx VA Medical Center and Professor of Medicine,\n\nSUNY Downstate Medical Center will refer to the following material,\n\nand which, if confirmed by other workers, suggests that the $2-billion-\n\na-year multivitamin/mineral industry may have to take vitamin B\u2081\u2082 out of\n\ntheir products:",
+            "type": "text",
+            "id": "077c3281-721b-4cba-97be-dfe09cf2da70",
+            "grounding": {
+                "box": {
+                    "left": 0.06428572535514832,
+                    "top": 0.4379750192165375,
+                    "right": 0.9436211585998535,
+                    "bottom": 0.6460021734237671
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='de28233b-2131-4c34-89c1-02d0b5e646aa'></a>\n\nThe abstract (see over) will be published in the October 1981 issue\nof \"Clinical Research.\"",
+            "type": "text",
+            "id": "de28233b-2131-4c34-89c1-02d0b5e646aa",
+            "grounding": {
+                "box": {
+                    "left": 0.06317877769470215,
+                    "top": 0.6845213770866394,
+                    "right": 0.851050853729248,
+                    "bottom": 0.7424902319908142
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='18b871dc-c063-46e7-89b3-b5d3a7d0bc59'></a>\n\nHosts: American Institute of Nutrition, American Society for Clinical Nutrition, U.S. National Academy of Sciences",
+            "type": "text",
+            "id": "18b871dc-c063-46e7-89b3-b5d3a7d0bc59",
+            "grounding": {
+                "box": {
+                    "left": 0.175089031457901,
+                    "top": 0.9387319684028625,
+                    "right": 0.8460484743118286,
+                    "bottom": 0.9606067538261414
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='04f41518-f2ed-41a5-9e66-b16b8457cb0b'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: Herbert\nA handwritten signature centered on a white background.::>\n\n<a id='f6386e74-655a-4e0f-84ff-37534ca759ca'></a>\n\n<::logo:\n\n81\nAugust 16-21, 1981\nSan Diego, California\nA stylized grain plant is intertwined with a gridded globe featuring the numbers \"81\".::>\n\n<a id='97e2b637-00dd-4012-bd27-40413b548620'></a>\n\nXII INTERNATIONAL CONGRESS OF NUTRITION\nInternational Union of Nutritional Sciences\n\n<a id='533aabab-d9b2-47b8-9385-614984e0c5c8'></a>\n\n1629 K Street, N.W., Suite 700\nWashington, D.C. 20006, U.S.A.\n(202) 296-8803\nCable: ICN-89-2407\n\n<a id='c1b17ab7-d2d1-45fb-a3d0-a951ce9833d6'></a>\n\nCongress Officers\n\nPresident: George K. Davis\nVice President: Samuel J. Fomon\nVice President: Alfred E. Harper\nSecretary: John G. Bieri\nTreasurer: Mattie Rae S. Fox\n\n<a id='eea15ed5-de9b-4687-8c77-4340568fa18c'></a>\n\nXII International Congress of Nutrition, August 16 - 21, 1981\nTown and Country Hotel, San Diego, California, U.S.A.\n\n<a id='077c3281-721b-4cba-97be-dfe09cf2da70'></a>\n\nAugust 17 Workshop on \"Interaction of Vitamin B\u2081\u2082 with Nutrients and Drugs\"\n\nPresentation by Victor Herbert, M.D., J.D., Chief, Hematology and\n\nNutrition Laboratory, Bronx VA Medical Center and Professor of Medicine,\n\nSUNY Downstate Medical Center will refer to the following material,\n\nand which, if confirmed by other workers, suggests that the $2-billion-\n\na-year multivitamin/mineral industry may have to take vitamin B\u2081\u2082 out of\n\ntheir products:\n\n<a id='de28233b-2131-4c34-89c1-02d0b5e646aa'></a>\n\nThe abstract (see over) will be published in the October 1981 issue\nof \"Clinical Research.\"\n\n<a id='18b871dc-c063-46e7-89b3-b5d3a7d0bc59'></a>\n\nHosts: American Institute of Nutrition, American Society for Clinical Nutrition, U.S. National Academy of Sciences",
+            "chunks": [
+                "04f41518-f2ed-41a5-9e66-b16b8457cb0b",
+                "f6386e74-655a-4e0f-84ff-37534ca759ca",
+                "97e2b637-00dd-4012-bd27-40413b548620",
+                "533aabab-d9b2-47b8-9385-614984e0c5c8",
+                "c1b17ab7-d2d1-45fb-a3d0-a951ce9833d6",
+                "eea15ed5-de9b-4687-8c77-4340568fa18c",
+                "077c3281-721b-4cba-97be-dfe09cf2da70",
+                "de28233b-2131-4c34-89c1-02d0b5e646aa",
+                "18b871dc-c063-46e7-89b3-b5d3a7d0bc59"
+            ]
+        }
+    ],
+    "grounding": {
+        "04f41518-f2ed-41a5-9e66-b16b8457cb0b": {
+            "box": {
+                "left": 0.04424140602350235,
+                "top": 0.02383244037628174,
+                "right": 0.1457434594631195,
+                "bottom": 0.052668288350105286
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "f6386e74-655a-4e0f-84ff-37534ca759ca": {
+            "box": {
+                "left": 0.04787559062242508,
+                "top": 0.05666228383779526,
+                "right": 0.24821239709854126,
+                "bottom": 0.24971258640289307
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "97e2b637-00dd-4012-bd27-40413b548620": {
+            "box": {
+                "left": 0.2803378701210022,
+                "top": 0.08818832039833069,
+                "right": 0.7079920172691345,
+                "bottom": 0.12653745710849762
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "533aabab-d9b2-47b8-9385-614984e0c5c8": {
+            "box": {
+                "left": 0.7283126711845398,
+                "top": 0.15182355046272278,
+                "right": 0.9237363934516907,
+                "bottom": 0.20632198452949524
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c1b17ab7-d2d1-45fb-a3d0-a951ce9833d6": {
+            "box": {
+                "left": 0.06143598258495331,
+                "top": 0.25993505120277405,
+                "right": 0.2642568349838257,
+                "bottom": 0.3383956849575043
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "eea15ed5-de9b-4687-8c77-4340568fa18c": {
+            "box": {
+                "left": 0.06492465734481812,
+                "top": 0.34927910566329956,
+                "right": 0.7926667928695679,
+                "bottom": 0.40577083826065063
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "077c3281-721b-4cba-97be-dfe09cf2da70": {
+            "box": {
+                "left": 0.06428572535514832,
+                "top": 0.4379750192165375,
+                "right": 0.9436211585998535,
+                "bottom": 0.6460021734237671
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "de28233b-2131-4c34-89c1-02d0b5e646aa": {
+            "box": {
+                "left": 0.06317877769470215,
+                "top": 0.6845213770866394,
+                "right": 0.851050853729248,
+                "bottom": 0.7424902319908142
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "18b871dc-c063-46e7-89b3-b5d3a7d0bc59": {
+            "box": {
+                "left": 0.175089031457901,
+                "top": 0.9387319684028625,
+                "right": 0.8460484743118286,
+                "bottom": 0.9606067538261414
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "fpkm0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8951,
+        "credit_usage": 3.0,
+        "job_id": "os3jm1s8g1elvstkaov1r3pkp",
+        "version": "dpt-2-20250919"
+    }
+}

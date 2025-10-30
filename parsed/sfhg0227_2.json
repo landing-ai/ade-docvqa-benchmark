@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='35aa6f7a-e842-4d49-b325-e436cee48a8b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/sfhg0227\n\n<a id='dd55e984-63f0-4f21-98cf-c293d00134b4'></a>\n\nTHIS SIDE OF CARD IS FOR ADDRESS\n\n<a id='03abb58b-0148-4322-a84d-6afb22d066c7'></a>\n\n<::logo: U.S. Postal Service\nU.S. POSTAL CARD\nTWO CENTS\nWASHINGTON\n2\nA circular, monochromatic design features a profile portrait of George Washington, encircled by text and the number \"2\", within a laurel wreath.::>\n\n<a id='f92d9f14-dec8-4d0f-ba47-6be5d89706c3'></a>\n\nNUTRITION REVIEWS\n17\n\n<a id='f23411ee-8acc-4ffb-a7fa-86508894c880'></a>\n\nDate ...\n\n<a id='65a27e29-134d-4d85-baeb-f29787b8828b'></a>\n\nDear Dr. ......\n\n<a id='8c02ff02-a9db-4e9e-8f0c-58ac4b366e76'></a>\n\nIt will not be satisfactory for you to review the article in\n\n<a id='bd921c42-b358-40a8-9870-130f4fcadc0c'></a>\n\n(Give complete reference.)\n...\n\n<a id='e1cc5b43-2530-4857-a0cc-9770f7100c3a'></a>\n\nComments:\n\n<a id='fea3a868-e5fe-4523-bca0-35ce1cda8093'></a>\n\n<::attestation: Signature line\nStatus: unsigned\nReadable Text: Signed:\nVisual elements: A dotted line followed by the word \"Signed:\" rotated 90 degrees counter-clockwise, positioned horizontally in the middle of the image.::>",
+    "chunks": [
+        {
+            "markdown": "<a id='35aa6f7a-e842-4d49-b325-e436cee48a8b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/sfhg0227",
+            "type": "text",
+            "id": "35aa6f7a-e842-4d49-b325-e436cee48a8b",
+            "grounding": {
+                "box": {
+                    "left": 0.09077054262161255,
+                    "top": 0.9660823345184326,
+                    "right": 0.9156970381736755,
+                    "bottom": 0.9983357191085815
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dd55e984-63f0-4f21-98cf-c293d00134b4'></a>\n\nTHIS SIDE OF CARD IS FOR ADDRESS",
+            "type": "text",
+            "id": "dd55e984-63f0-4f21-98cf-c293d00134b4",
+            "grounding": {
+                "box": {
+                    "left": 0.2110748142004013,
+                    "top": 0.6679186820983887,
+                    "right": 0.6206968426704407,
+                    "bottom": 0.7043464183807373
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='03abb58b-0148-4322-a84d-6afb22d066c7'></a>\n\n<::logo: U.S. Postal Service\nU.S. POSTAL CARD\nTWO CENTS\nWASHINGTON\n2\nA circular, monochromatic design features a profile portrait of George Washington, encircled by text and the number \"2\", within a laurel wreath.::>",
+            "type": "logo",
+            "id": "03abb58b-0148-4322-a84d-6afb22d066c7",
+            "grounding": {
+                "box": {
+                    "left": 0.6865648031234741,
+                    "top": 0.5470057725906372,
+                    "right": 0.887466549873352,
+                    "bottom": 0.7028156518936157
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f92d9f14-dec8-4d0f-ba47-6be5d89706c3'></a>\n\nNUTRITION REVIEWS\n17",
+            "type": "text",
+            "id": "f92d9f14-dec8-4d0f-ba47-6be5d89706c3",
+            "grounding": {
+                "box": {
+                    "left": 0.3154136538505554,
+                    "top": 0.43515393137931824,
+                    "right": 0.6351661086082458,
+                    "bottom": 0.47934845089912415
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f23411ee-8acc-4ffb-a7fa-86508894c880'></a>\n\nDate ...",
+            "type": "text",
+            "id": "f23411ee-8acc-4ffb-a7fa-86508894c880",
+            "grounding": {
+                "box": {
+                    "left": 0.09915836155414581,
+                    "top": 0.3994782269001007,
+                    "right": 0.40788137912750244,
+                    "bottom": 0.43021830916404724
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='65a27e29-134d-4d85-baeb-f29787b8828b'></a>\n\nDear Dr. ......",
+            "type": "text",
+            "id": "65a27e29-134d-4d85-baeb-f29787b8828b",
+            "grounding": {
+                "box": {
+                    "left": 0.4765155017375946,
+                    "top": 0.35102295875549316,
+                    "right": 0.8763936758041382,
+                    "bottom": 0.38594114780426025
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8c02ff02-a9db-4e9e-8f0c-58ac4b366e76'></a>\n\nIt will not be satisfactory for you to review the article in",
+            "type": "text",
+            "id": "8c02ff02-a9db-4e9e-8f0c-58ac4b366e76",
+            "grounding": {
+                "box": {
+                    "left": 0.2200993001461029,
+                    "top": 0.2929176390171051,
+                    "right": 0.8318890333175659,
+                    "bottom": 0.34400495886802673
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bd921c42-b358-40a8-9870-130f4fcadc0c'></a>\n\n(Give complete reference.)\n...",
+            "type": "text",
+            "id": "bd921c42-b358-40a8-9870-130f4fcadc0c",
+            "grounding": {
+                "box": {
+                    "left": 0.09647715091705322,
+                    "top": 0.24085694551467896,
+                    "right": 0.8801709413528442,
+                    "bottom": 0.2801228165626526
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e1cc5b43-2530-4857-a0cc-9770f7100c3a'></a>\n\nComments:",
+            "type": "text",
+            "id": "e1cc5b43-2530-4857-a0cc-9770f7100c3a",
+            "grounding": {
+                "box": {
+                    "left": 0.7498917579650879,
+                    "top": 0.20634037256240845,
+                    "right": 0.878097414970398,
+                    "bottom": 0.23664534091949463
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fea3a868-e5fe-4523-bca0-35ce1cda8093'></a>\n\n<::attestation: Signature line\nStatus: unsigned\nReadable Text: Signed:\nVisual elements: A dotted line followed by the word \"Signed:\" rotated 90 degrees counter-clockwise, positioned horizontally in the middle of the image.::>",
+            "type": "attestation",
+            "id": "fea3a868-e5fe-4523-bca0-35ce1cda8093",
+            "grounding": {
+                "box": {
+                    "left": 0.23414599895477295,
+                    "top": 0.06122127175331116,
+                    "right": 0.5649360418319702,
+                    "bottom": 0.09047821164131165
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='35aa6f7a-e842-4d49-b325-e436cee48a8b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/sfhg0227\n\n<a id='dd55e984-63f0-4f21-98cf-c293d00134b4'></a>\n\nTHIS SIDE OF CARD IS FOR ADDRESS\n\n<a id='03abb58b-0148-4322-a84d-6afb22d066c7'></a>\n\n<::logo: U.S. Postal Service\nU.S. POSTAL CARD\nTWO CENTS\nWASHINGTON\n2\nA circular, monochromatic design features a profile portrait of George Washington, encircled by text and the number \"2\", within a laurel wreath.::>\n\n<a id='f92d9f14-dec8-4d0f-ba47-6be5d89706c3'></a>\n\nNUTRITION REVIEWS\n17\n\n<a id='f23411ee-8acc-4ffb-a7fa-86508894c880'></a>\n\nDate ...\n\n<a id='65a27e29-134d-4d85-baeb-f29787b8828b'></a>\n\nDear Dr. ......\n\n<a id='8c02ff02-a9db-4e9e-8f0c-58ac4b366e76'></a>\n\nIt will not be satisfactory for you to review the article in\n\n<a id='bd921c42-b358-40a8-9870-130f4fcadc0c'></a>\n\n(Give complete reference.)\n...\n\n<a id='e1cc5b43-2530-4857-a0cc-9770f7100c3a'></a>\n\nComments:\n\n<a id='fea3a868-e5fe-4523-bca0-35ce1cda8093'></a>\n\n<::attestation: Signature line\nStatus: unsigned\nReadable Text: Signed:\nVisual elements: A dotted line followed by the word \"Signed:\" rotated 90 degrees counter-clockwise, positioned horizontally in the middle of the image.::>",
+            "chunks": [
+                "35aa6f7a-e842-4d49-b325-e436cee48a8b",
+                "dd55e984-63f0-4f21-98cf-c293d00134b4",
+                "03abb58b-0148-4322-a84d-6afb22d066c7",
+                "f92d9f14-dec8-4d0f-ba47-6be5d89706c3",
+                "f23411ee-8acc-4ffb-a7fa-86508894c880",
+                "65a27e29-134d-4d85-baeb-f29787b8828b",
+                "8c02ff02-a9db-4e9e-8f0c-58ac4b366e76",
+                "bd921c42-b358-40a8-9870-130f4fcadc0c",
+                "e1cc5b43-2530-4857-a0cc-9770f7100c3a",
+                "fea3a868-e5fe-4523-bca0-35ce1cda8093"
+            ]
+        }
+    ],
+    "grounding": {
+        "35aa6f7a-e842-4d49-b325-e436cee48a8b": {
+            "box": {
+                "left": 0.09077054262161255,
+                "top": 0.9660823345184326,
+                "right": 0.9156970381736755,
+                "bottom": 0.9983357191085815
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dd55e984-63f0-4f21-98cf-c293d00134b4": {
+            "box": {
+                "left": 0.2110748142004013,
+                "top": 0.6679186820983887,
+                "right": 0.6206968426704407,
+                "bottom": 0.7043464183807373
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "03abb58b-0148-4322-a84d-6afb22d066c7": {
+            "box": {
+                "left": 0.6865648031234741,
+                "top": 0.5470057725906372,
+                "right": 0.887466549873352,
+                "bottom": 0.7028156518936157
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "f92d9f14-dec8-4d0f-ba47-6be5d89706c3": {
+            "box": {
+                "left": 0.3154136538505554,
+                "top": 0.43515393137931824,
+                "right": 0.6351661086082458,
+                "bottom": 0.47934845089912415
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f23411ee-8acc-4ffb-a7fa-86508894c880": {
+            "box": {
+                "left": 0.09915836155414581,
+                "top": 0.3994782269001007,
+                "right": 0.40788137912750244,
+                "bottom": 0.43021830916404724
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "65a27e29-134d-4d85-baeb-f29787b8828b": {
+            "box": {
+                "left": 0.4765155017375946,
+                "top": 0.35102295875549316,
+                "right": 0.8763936758041382,
+                "bottom": 0.38594114780426025
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8c02ff02-a9db-4e9e-8f0c-58ac4b366e76": {
+            "box": {
+                "left": 0.2200993001461029,
+                "top": 0.2929176390171051,
+                "right": 0.8318890333175659,
+                "bottom": 0.34400495886802673
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bd921c42-b358-40a8-9870-130f4fcadc0c": {
+            "box": {
+                "left": 0.09647715091705322,
+                "top": 0.24085694551467896,
+                "right": 0.8801709413528442,
+                "bottom": 0.2801228165626526
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e1cc5b43-2530-4857-a0cc-9770f7100c3a": {
+            "box": {
+                "left": 0.7498917579650879,
+                "top": 0.20634037256240845,
+                "right": 0.878097414970398,
+                "bottom": 0.23664534091949463
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fea3a868-e5fe-4523-bca0-35ce1cda8093": {
+            "box": {
+                "left": 0.23414599895477295,
+                "top": 0.06122127175331116,
+                "right": 0.5649360418319702,
+                "bottom": 0.09047821164131165
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        }
+    },
+    "metadata": {
+        "filename": "sfhg0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 19221,
+        "credit_usage": 3.0,
+        "job_id": "vc14wmq3jiua3lg77o1er9lho",
+        "version": "dpt-2-20250919"
+    }
+}

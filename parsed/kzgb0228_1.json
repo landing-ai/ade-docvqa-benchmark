@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='cde2c7cf-1d40-4614-8d39-6b8dd8e1af27'></a>\n\nCHAPTER 1\n\n<a id='0dd18fd4-22a0-4c90-ab00-bc57065761a5'></a>\n\nSTATE LICENSING BOARD FOR THE HEALING ARTS\n\n<a id='176d9ab7-efdd-471e-b9a5-f6edd05239e2'></a>\n\nSECTIONS 63:101 - 63:127\n\n<a id='17f808db-3613-486a-abb7-1344ac55c942'></a>\n\nTENNESSEE CODE ANNOTATED\n\n<a id='f99931b3-6e89-4304-95b5-5cffbe058744'></a>\n\n<::logo: The Great Seal of the State of Tennessee\nTHE GREAT SEAL OF THE STATE OF TENNESSEE\nXVI\nAGRICULTURE\nCOMMERCE\n1796\nA circular seal with a central image depicting a plow, wheat, and a boat, surrounded by text and a dotted border.::>\n\n<a id='f5644728-cf21-40fe-b77a-aac5e4bc2a21'></a>\n\nSTATE LICENSING BOARD FOR THE HEALING ARTS\nNASHVILLE, TENNESSEE\n\n<a id='f17f0442-e5e3-4806-ae3d-73ab55bc4ebb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kzgb0228",
+    "chunks": [
+        {
+            "markdown": "<a id='cde2c7cf-1d40-4614-8d39-6b8dd8e1af27'></a>\n\nCHAPTER 1",
+            "type": "text",
+            "id": "cde2c7cf-1d40-4614-8d39-6b8dd8e1af27",
+            "grounding": {
+                "box": {
+                    "left": 0.44596630334854126,
+                    "top": 0.17634421586990356,
+                    "right": 0.592110812664032,
+                    "bottom": 0.2045370638370514
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0dd18fd4-22a0-4c90-ab00-bc57065761a5'></a>\n\nSTATE LICENSING BOARD FOR THE HEALING ARTS",
+            "type": "text",
+            "id": "0dd18fd4-22a0-4c90-ab00-bc57065761a5",
+            "grounding": {
+                "box": {
+                    "left": 0.20821112394332886,
+                    "top": 0.24450834095478058,
+                    "right": 0.7992857098579407,
+                    "bottom": 0.2787433862686157
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='176d9ab7-efdd-471e-b9a5-f6edd05239e2'></a>\n\nSECTIONS 63:101 - 63:127",
+            "type": "text",
+            "id": "176d9ab7-efdd-471e-b9a5-f6edd05239e2",
+            "grounding": {
+                "box": {
+                    "left": 0.3460856080055237,
+                    "top": 0.3029335141181946,
+                    "right": 0.6877234578132629,
+                    "bottom": 0.3337440490722656
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='17f808db-3613-486a-abb7-1344ac55c942'></a>\n\nTENNESSEE CODE ANNOTATED",
+            "type": "text",
+            "id": "17f808db-3613-486a-abb7-1344ac55c942",
+            "grounding": {
+                "box": {
+                    "left": 0.34747838973999023,
+                    "top": 0.3575381338596344,
+                    "right": 0.6888681650161743,
+                    "bottom": 0.3871285617351532
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f99931b3-6e89-4304-95b5-5cffbe058744'></a>\n\n<::logo: The Great Seal of the State of Tennessee\nTHE GREAT SEAL OF THE STATE OF TENNESSEE\nXVI\nAGRICULTURE\nCOMMERCE\n1796\nA circular seal with a central image depicting a plow, wheat, and a boat, surrounded by text and a dotted border.::>",
+            "type": "logo",
+            "id": "f99931b3-6e89-4304-95b5-5cffbe058744",
+            "grounding": {
+                "box": {
+                    "left": 0.41340020298957825,
+                    "top": 0.48260265588760376,
+                    "right": 0.5995098352432251,
+                    "bottom": 0.6083343625068665
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f5644728-cf21-40fe-b77a-aac5e4bc2a21'></a>\n\nSTATE LICENSING BOARD FOR THE HEALING ARTS\nNASHVILLE, TENNESSEE",
+            "type": "text",
+            "id": "f5644728-cf21-40fe-b77a-aac5e4bc2a21",
+            "grounding": {
+                "box": {
+                    "left": 0.27045756578445435,
+                    "top": 0.7115233540534973,
+                    "right": 0.7653191685676575,
+                    "bottom": 0.7713839411735535
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f17f0442-e5e3-4806-ae3d-73ab55bc4ebb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kzgb0228",
+            "type": "text",
+            "id": "f17f0442-e5e3-4806-ae3d-73ab55bc4ebb",
+            "grounding": {
+                "box": {
+                    "left": 0.1105518639087677,
+                    "top": 0.9706437587738037,
+                    "right": 0.8912515640258789,
+                    "bottom": 0.998589038848877
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='cde2c7cf-1d40-4614-8d39-6b8dd8e1af27'></a>\n\nCHAPTER 1\n\n<a id='0dd18fd4-22a0-4c90-ab00-bc57065761a5'></a>\n\nSTATE LICENSING BOARD FOR THE HEALING ARTS\n\n<a id='176d9ab7-efdd-471e-b9a5-f6edd05239e2'></a>\n\nSECTIONS 63:101 - 63:127\n\n<a id='17f808db-3613-486a-abb7-1344ac55c942'></a>\n\nTENNESSEE CODE ANNOTATED\n\n<a id='f99931b3-6e89-4304-95b5-5cffbe058744'></a>\n\n<::logo: The Great Seal of the State of Tennessee\nTHE GREAT SEAL OF THE STATE OF TENNESSEE\nXVI\nAGRICULTURE\nCOMMERCE\n1796\nA circular seal with a central image depicting a plow, wheat, and a boat, surrounded by text and a dotted border.::>\n\n<a id='f5644728-cf21-40fe-b77a-aac5e4bc2a21'></a>\n\nSTATE LICENSING BOARD FOR THE HEALING ARTS\nNASHVILLE, TENNESSEE\n\n<a id='f17f0442-e5e3-4806-ae3d-73ab55bc4ebb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kzgb0228",
+            "chunks": [
+                "cde2c7cf-1d40-4614-8d39-6b8dd8e1af27",
+                "0dd18fd4-22a0-4c90-ab00-bc57065761a5",
+                "176d9ab7-efdd-471e-b9a5-f6edd05239e2",
+                "17f808db-3613-486a-abb7-1344ac55c942",
+                "f99931b3-6e89-4304-95b5-5cffbe058744",
+                "f5644728-cf21-40fe-b77a-aac5e4bc2a21",
+                "f17f0442-e5e3-4806-ae3d-73ab55bc4ebb"
+            ]
+        }
+    ],
+    "grounding": {
+        "cde2c7cf-1d40-4614-8d39-6b8dd8e1af27": {
+            "box": {
+                "left": 0.44596630334854126,
+                "top": 0.17634421586990356,
+                "right": 0.592110812664032,
+                "bottom": 0.2045370638370514
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0dd18fd4-22a0-4c90-ab00-bc57065761a5": {
+            "box": {
+                "left": 0.20821112394332886,
+                "top": 0.24450834095478058,
+                "right": 0.7992857098579407,
+                "bottom": 0.2787433862686157
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "176d9ab7-efdd-471e-b9a5-f6edd05239e2": {
+            "box": {
+                "left": 0.3460856080055237,
+                "top": 0.3029335141181946,
+                "right": 0.6877234578132629,
+                "bottom": 0.3337440490722656
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "17f808db-3613-486a-abb7-1344ac55c942": {
+            "box": {
+                "left": 0.34747838973999023,
+                "top": 0.3575381338596344,
+                "right": 0.6888681650161743,
+                "bottom": 0.3871285617351532
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f99931b3-6e89-4304-95b5-5cffbe058744": {
+            "box": {
+                "left": 0.41340020298957825,
+                "top": 0.48260265588760376,
+                "right": 0.5995098352432251,
+                "bottom": 0.6083343625068665
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "f5644728-cf21-40fe-b77a-aac5e4bc2a21": {
+            "box": {
+                "left": 0.27045756578445435,
+                "top": 0.7115233540534973,
+                "right": 0.7653191685676575,
+                "bottom": 0.7713839411735535
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f17f0442-e5e3-4806-ae3d-73ab55bc4ebb": {
+            "box": {
+                "left": 0.1105518639087677,
+                "top": 0.9706437587738037,
+                "right": 0.8912515640258789,
+                "bottom": 0.998589038848877
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kzgb0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4126,
+        "credit_usage": 3.0,
+        "job_id": "k5bdwdfhfv72fx3ut1agzaqjt",
+        "version": "dpt-2-20250919"
+    }
+}

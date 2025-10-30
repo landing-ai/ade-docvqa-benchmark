@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='68095e3b-092e-4264-9f75-29df28d1c126'></a>\n\nTAB A\n\n<a id='534c48a0-62d4-4379-8a5b-c09c6c67e9d9'></a>\n\nOVERWEIGHT\nITS\nSIGNIFICANCE\nAND\nPREVENTION\n<::A large circular dial with an arrow pointing to the upper right, indicating a high reading. Inside the dial, there is a silhouette of an overweight person.: figure::>\n.\n.\n.\n.\n.\n.\n---\n<::A horizontal line separates the page. Below the line, on the left, there is a bar chart or histogram-like visual with horizontal bars of varying lengths stacked vertically, forming a pyramid shape on both sides of a central vertical axis.: figure::> METROPOLITAN LIFE INSURANCE COMPANY\nHOME OFFICE: NEW YORK\nPacific Coast Head Office: San Francisco\nCanadian Head Office: Ottawa",
+    "chunks": [
+        {
+            "markdown": "<a id='68095e3b-092e-4264-9f75-29df28d1c126'></a>\n\nTAB A",
+            "type": "text",
+            "id": "68095e3b-092e-4264-9f75-29df28d1c126",
+            "grounding": {
+                "box": {
+                    "left": 0.8142164945602417,
+                    "top": 0.04692782834172249,
+                    "right": 0.8928705453872681,
+                    "bottom": 0.0722712054848671
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='534c48a0-62d4-4379-8a5b-c09c6c67e9d9'></a>\n\nOVERWEIGHT\nITS\nSIGNIFICANCE\nAND\nPREVENTION\n<::A large circular dial with an arrow pointing to the upper right, indicating a high reading. Inside the dial, there is a silhouette of an overweight person.: figure::>\n.\n.\n.\n.\n.\n.\n---\n<::A horizontal line separates the page. Below the line, on the left, there is a bar chart or histogram-like visual with horizontal bars of varying lengths stacked vertically, forming a pyramid shape on both sides of a central vertical axis.: figure::> METROPOLITAN LIFE INSURANCE COMPANY\nHOME OFFICE: NEW YORK\nPacific Coast Head Office: San Francisco\nCanadian Head Office: Ottawa",
+            "type": "figure",
+            "id": "534c48a0-62d4-4379-8a5b-c09c6c67e9d9",
+            "grounding": {
+                "box": {
+                    "left": 0.0697941780090332,
+                    "top": 0.10145366191864014,
+                    "right": 0.9213314652442932,
+                    "bottom": 0.8794110417366028
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='68095e3b-092e-4264-9f75-29df28d1c126'></a>\n\nTAB A\n\n<a id='534c48a0-62d4-4379-8a5b-c09c6c67e9d9'></a>\n\nOVERWEIGHT\nITS\nSIGNIFICANCE\nAND\nPREVENTION\n<::A large circular dial with an arrow pointing to the upper right, indicating a high reading. Inside the dial, there is a silhouette of an overweight person.: figure::>\n.\n.\n.\n.\n.\n.\n---\n<::A horizontal line separates the page. Below the line, on the left, there is a bar chart or histogram-like visual with horizontal bars of varying lengths stacked vertically, forming a pyramid shape on both sides of a central vertical axis.: figure::> METROPOLITAN LIFE INSURANCE COMPANY\nHOME OFFICE: NEW YORK\nPacific Coast Head Office: San Francisco\nCanadian Head Office: Ottawa",
+            "chunks": [
+                "68095e3b-092e-4264-9f75-29df28d1c126",
+                "534c48a0-62d4-4379-8a5b-c09c6c67e9d9"
+            ]
+        }
+    ],
+    "grounding": {
+        "68095e3b-092e-4264-9f75-29df28d1c126": {
+            "box": {
+                "left": 0.8142164945602417,
+                "top": 0.04692782834172249,
+                "right": 0.8928705453872681,
+                "bottom": 0.0722712054848671
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "534c48a0-62d4-4379-8a5b-c09c6c67e9d9": {
+            "box": {
+                "left": 0.0697941780090332,
+                "top": 0.10145366191864014,
+                "right": 0.9213314652442932,
+                "bottom": 0.8794110417366028
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "ysmc0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 20608,
+        "credit_usage": 3.0,
+        "job_id": "csc80irg8ni7f7o9z9cc5rnp0",
+        "version": "dpt-2-20250919"
+    }
+}

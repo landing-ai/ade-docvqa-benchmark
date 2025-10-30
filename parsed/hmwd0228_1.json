@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='cf17674c-8d45-4a66-83b6-f7efcd0612c9'></a>\n\n<::logo: Not identifiable\nNone\nA stylized, abstract drawing resembling a bird or creature with a pointed head, curled body, and shaded areas, accompanied by a small black circle.::>\n\n<a id='5ec181dd-9bd0-4af5-9223-bc67c664dac5'></a>\n\nF.P.C. Sub Committee\nHuman\n\n<a id='ca5f2ecd-6d4c-47a9-9cb6-e515706b86d1'></a>\n\nHenry Can meet Wash - or N.Y.\n20 Feb\n27 Feb.\n\n<a id='e8d2d6dd-5959-4bde-a501-e0ceb7795d21'></a>\n\nHe will call Colin McLeod.\n\n<a id='ad15cb22-1128-4b51-bef5-90fea7286730'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hmwd0228",
+    "chunks": [
+        {
+            "markdown": "<a id='cf17674c-8d45-4a66-83b6-f7efcd0612c9'></a>\n\n<::logo: Not identifiable\nNone\nA stylized, abstract drawing resembling a bird or creature with a pointed head, curled body, and shaded areas, accompanied by a small black circle.::>",
+            "type": "logo",
+            "id": "cf17674c-8d45-4a66-83b6-f7efcd0612c9",
+            "grounding": {
+                "box": {
+                    "left": 0.39855799078941345,
+                    "top": 0.0073743462562561035,
+                    "right": 0.6857335567474365,
+                    "bottom": 0.13821254670619965
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5ec181dd-9bd0-4af5-9223-bc67c664dac5'></a>\n\nF.P.C. Sub Committee\nHuman",
+            "type": "text",
+            "id": "5ec181dd-9bd0-4af5-9223-bc67c664dac5",
+            "grounding": {
+                "box": {
+                    "left": 0.03357270359992981,
+                    "top": 0.08385198563337326,
+                    "right": 0.389822781085968,
+                    "bottom": 0.15624728798866272
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ca5f2ecd-6d4c-47a9-9cb6-e515706b86d1'></a>\n\nHenry Can meet Wash - or N.Y.\n20 Feb\n27 Feb.",
+            "type": "text",
+            "id": "ca5f2ecd-6d4c-47a9-9cb6-e515706b86d1",
+            "grounding": {
+                "box": {
+                    "left": 0.10869711637496948,
+                    "top": 0.15806689858436584,
+                    "right": 0.729656457901001,
+                    "bottom": 0.27370119094848633
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e8d2d6dd-5959-4bde-a501-e0ceb7795d21'></a>\n\nHe will call Colin McLeod.",
+            "type": "text",
+            "id": "e8d2d6dd-5959-4bde-a501-e0ceb7795d21",
+            "grounding": {
+                "box": {
+                    "left": 0.0686216950416565,
+                    "top": 0.3048608899116516,
+                    "right": 0.5817387104034424,
+                    "bottom": 0.35573071241378784
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ad15cb22-1128-4b51-bef5-90fea7286730'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hmwd0228",
+            "type": "text",
+            "id": "ad15cb22-1128-4b51-bef5-90fea7286730",
+            "grounding": {
+                "box": {
+                    "left": 0.1932002305984497,
+                    "top": 0.9758020639419556,
+                    "right": 0.8046388030052185,
+                    "bottom": 0.9988833665847778
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='cf17674c-8d45-4a66-83b6-f7efcd0612c9'></a>\n\n<::logo: Not identifiable\nNone\nA stylized, abstract drawing resembling a bird or creature with a pointed head, curled body, and shaded areas, accompanied by a small black circle.::>\n\n<a id='5ec181dd-9bd0-4af5-9223-bc67c664dac5'></a>\n\nF.P.C. Sub Committee\nHuman\n\n<a id='ca5f2ecd-6d4c-47a9-9cb6-e515706b86d1'></a>\n\nHenry Can meet Wash - or N.Y.\n20 Feb\n27 Feb.\n\n<a id='e8d2d6dd-5959-4bde-a501-e0ceb7795d21'></a>\n\nHe will call Colin McLeod.\n\n<a id='ad15cb22-1128-4b51-bef5-90fea7286730'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hmwd0228",
+            "chunks": [
+                "cf17674c-8d45-4a66-83b6-f7efcd0612c9",
+                "5ec181dd-9bd0-4af5-9223-bc67c664dac5",
+                "ca5f2ecd-6d4c-47a9-9cb6-e515706b86d1",
+                "e8d2d6dd-5959-4bde-a501-e0ceb7795d21",
+                "ad15cb22-1128-4b51-bef5-90fea7286730"
+            ]
+        }
+    ],
+    "grounding": {
+        "cf17674c-8d45-4a66-83b6-f7efcd0612c9": {
+            "box": {
+                "left": 0.39855799078941345,
+                "top": 0.0073743462562561035,
+                "right": 0.6857335567474365,
+                "bottom": 0.13821254670619965
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "5ec181dd-9bd0-4af5-9223-bc67c664dac5": {
+            "box": {
+                "left": 0.03357270359992981,
+                "top": 0.08385198563337326,
+                "right": 0.389822781085968,
+                "bottom": 0.15624728798866272
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ca5f2ecd-6d4c-47a9-9cb6-e515706b86d1": {
+            "box": {
+                "left": 0.10869711637496948,
+                "top": 0.15806689858436584,
+                "right": 0.729656457901001,
+                "bottom": 0.27370119094848633
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e8d2d6dd-5959-4bde-a501-e0ceb7795d21": {
+            "box": {
+                "left": 0.0686216950416565,
+                "top": 0.3048608899116516,
+                "right": 0.5817387104034424,
+                "bottom": 0.35573071241378784
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ad15cb22-1128-4b51-bef5-90fea7286730": {
+            "box": {
+                "left": 0.1932002305984497,
+                "top": 0.9758020639419556,
+                "right": 0.8046388030052185,
+                "bottom": 0.9988833665847778
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "hmwd0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4233,
+        "credit_usage": 3.0,
+        "job_id": "zda3w1sk8i1232bd8htxgpefq",
+        "version": "dpt-2-20250919"
+    }
+}

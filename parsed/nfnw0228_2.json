@@ -1,0 +1,538 @@
+{
+    "markdown": "<a id='90cd0095-b7f2-4f9b-9f34-eff294a8f724'></a>\n\n<::logo: Dominion Bank\nDOMINION BANK\nA detailed crest-like emblem with a shield and decorative elements is positioned to the right of the text.::>\n\n<a id='865cdeea-40d9-4604-9898-afd9368a0141'></a>\n\n<::attestation: Handwritten verification/record\nMailed, dated\nSignature: none\nmailed to Maggs Sept 1, 1992\nLogo with registered trademark symbol\nHandwritten text in black ink, angled upwards from left to right, positioned in the upper-middle section of the image. A small logo with a registered trademark symbol is visible in the upper-left corner.::>\n\n<a id='fef9859f-7010-4817-8d3b-b5f7976dc6f6'></a>\n\nForeign Draft\nFD- 018186\n\n<a id='46b34f5b-1c22-4261-a4eb-346534ad157b'></a>\n\nDate\n[illegible] AUGUST 28, 1992\n---\n\n<a id='a72647e6-7c34-4ec6-9793-8e1f192f3212'></a>\n\nIn Favor Of\n---\n\n<a id='4e74bf14-7e13-4b76-ada2-c8f91c9519b8'></a>\n\nMAGGS BROTHERS LTD\n\n<a id='e948c5a9-eb98-4eac-ab66-ee3a7b7eb746'></a>\n\n<::logo: Unidentifiable\n240.00\nAmount In Figures\nA numerical value '240.00' is displayed above the text 'Amount In Figures', separated by a horizontal line.::>\n\n<a id='db601ac1-7c0e-4fb4-9250-57a4868964fc'></a>\n\nAmount: POUND STERLING TWO HUNDRED FORTY AND 00/100\n\n<a id='5b195189-9b09-41e2-8fa2-67828e7c9d3c'></a>\n\nDrawn On\n\nBARCLAYS BANK PLC\n168 FENCHURCH STREET\nLONDON, ENGLAND\n\n<a id='4ab1fea2-1181-425c-ba47-b25f17bbea2a'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nAuthorized Signature\nDEBRA F HARRIS\nC/O DR WILLIAM J DARBY\nA black handwritten signature is present above a horizontal line, with printed text \"Authorized Signature\" and \"DEBRA F HARRIS\" below the line, and \"C/O DR WILLIAM J DARBY\" further below and to the left. This content is centered horizontally in the lower middle portion of the image.::>\n\n<a id='c7eaab64-433e-48de-87b8-f0f6a5995658'></a>\n\nPurchaser's Name and Address\n\n<a id='28249e9b-8388-450b-9024-f83fabea9120'></a>\n\nDR WILLIAM J DARBY\n4683 COLUMBIA PIKE\nTHOMPSON STATION TENNESSEE 37179\n\n<a id='f69fda1a-a452-48f6-bc3f-c0f0c32fd2b8'></a>\n\nStatement of Charges\n<table id=\"0-1\">\n<tr><td id=\"0-2\" rowspan=\"2\">Office</td><td id=\"0-3\" rowspan=\"2\">XXXXXXXYXXXXX DBMT BR 1</td><td id=\"0-4\" rowspan=\"2\">Made By C HUNLEY</td><td id=\"0-5\" rowspan=\"2\">Checked By C HUNLEY</td><td id=\"0-6\">Draft Amount</td><td id=\"0-7\">Rate</td><td id=\"0-8\">Dollar Value</td></tr>\n<tr><td id=\"0-9\">GBP240.00**</td><td id=\"0-a\">2.0238</td><td id=\"0-b\">485.72</td></tr>\n</table>\n\n<a id='50261198-8e2c-419b-8a9e-5e0e61d1057c'></a>\n\nCommission\n15.00\n\nTotal Collected\n500.72\n\n<a id='f0945767-2ca3-4a80-8b52-186bbb41133f'></a>\n\nThe sale of this draft is subject to the conditions stated on the reverse side.\n\n<a id='142205b5-5d8c-4552-af81-c8ab1b824cb9'></a>\n\nPURCHASER\n---",
+    "chunks": [
+        {
+            "markdown": "<a id='90cd0095-b7f2-4f9b-9f34-eff294a8f724'></a>\n\n<::logo: Dominion Bank\nDOMINION BANK\nA detailed crest-like emblem with a shield and decorative elements is positioned to the right of the text.::>",
+            "type": "logo",
+            "id": "90cd0095-b7f2-4f9b-9f34-eff294a8f724",
+            "grounding": {
+                "box": {
+                    "left": 0.05471174418926239,
+                    "top": 0.02174307405948639,
+                    "right": 0.33090895414352417,
+                    "bottom": 0.21043819189071655
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='865cdeea-40d9-4604-9898-afd9368a0141'></a>\n\n<::attestation: Handwritten verification/record\nMailed, dated\nSignature: none\nmailed to Maggs Sept 1, 1992\nLogo with registered trademark symbol\nHandwritten text in black ink, angled upwards from left to right, positioned in the upper-middle section of the image. A small logo with a registered trademark symbol is visible in the upper-left corner.::>",
+            "type": "attestation",
+            "id": "865cdeea-40d9-4604-9898-afd9368a0141",
+            "grounding": {
+                "box": {
+                    "left": 0.28991639614105225,
+                    "top": 0.035857342183589935,
+                    "right": 0.5163750648498535,
+                    "bottom": 0.19874373078346252
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fef9859f-7010-4817-8d3b-b5f7976dc6f6'></a>\n\nForeign Draft\nFD- 018186",
+            "type": "text",
+            "id": "fef9859f-7010-4817-8d3b-b5f7976dc6f6",
+            "grounding": {
+                "box": {
+                    "left": 0.6219558119773865,
+                    "top": 0.02789541706442833,
+                    "right": 0.8258693814277649,
+                    "bottom": 0.12334826588630676
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='46b34f5b-1c22-4261-a4eb-346534ad157b'></a>\n\nDate\n[illegible] AUGUST 28, 1992\n---",
+            "type": "text",
+            "id": "46b34f5b-1c22-4261-a4eb-346534ad157b",
+            "grounding": {
+                "box": {
+                    "left": 0.6223524808883667,
+                    "top": 0.164497509598732,
+                    "right": 0.8246597051620483,
+                    "bottom": 0.2096640020608902
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a72647e6-7c34-4ec6-9793-8e1f192f3212'></a>\n\nIn Favor Of\n---",
+            "type": "text",
+            "id": "a72647e6-7c34-4ec6-9793-8e1f192f3212",
+            "grounding": {
+                "box": {
+                    "left": 0.058657024055719376,
+                    "top": 0.2253798097372055,
+                    "right": 0.1329827904701233,
+                    "bottom": 0.2503913342952728
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4e74bf14-7e13-4b76-ada2-c8f91c9519b8'></a>\n\nMAGGS BROTHERS LTD",
+            "type": "text",
+            "id": "4e74bf14-7e13-4b76-ada2-c8f91c9519b8",
+            "grounding": {
+                "box": {
+                    "left": 0.17607390880584717,
+                    "top": 0.2205616980791092,
+                    "right": 0.3270670175552368,
+                    "bottom": 0.2476133555173874
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e948c5a9-eb98-4eac-ab66-ee3a7b7eb746'></a>\n\n<::logo: Unidentifiable\n240.00\nAmount In Figures\nA numerical value '240.00' is displayed above the text 'Amount In Figures', separated by a horizontal line.::>",
+            "type": "logo",
+            "id": "e948c5a9-eb98-4eac-ab66-ee3a7b7eb746",
+            "grounding": {
+                "box": {
+                    "left": 0.7179805040359497,
+                    "top": 0.21801207959651947,
+                    "right": 0.8589231967926025,
+                    "bottom": 0.26981326937675476
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='db601ac1-7c0e-4fb4-9250-57a4868964fc'></a>\n\nAmount: POUND STERLING TWO HUNDRED FORTY AND 00/100",
+            "type": "text",
+            "id": "db601ac1-7c0e-4fb4-9250-57a4868964fc",
+            "grounding": {
+                "box": {
+                    "left": 0.06240233778953552,
+                    "top": 0.2656121551990509,
+                    "right": 0.4584038555622101,
+                    "bottom": 0.29848918318748474
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5b195189-9b09-41e2-8fa2-67828e7c9d3c'></a>\n\nDrawn On\n\nBARCLAYS BANK PLC\n168 FENCHURCH STREET\nLONDON, ENGLAND",
+            "type": "text",
+            "id": "5b195189-9b09-41e2-8fa2-67828e7c9d3c",
+            "grounding": {
+                "box": {
+                    "left": 0.05912351608276367,
+                    "top": 0.3220725953578949,
+                    "right": 0.2800633907318115,
+                    "bottom": 0.4361891448497772
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4ab1fea2-1181-425c-ba47-b25f17bbea2a'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nAuthorized Signature\nDEBRA F HARRIS\nC/O DR WILLIAM J DARBY\nA black handwritten signature is present above a horizontal line, with printed text \"Authorized Signature\" and \"DEBRA F HARRIS\" below the line, and \"C/O DR WILLIAM J DARBY\" further below and to the left. This content is centered horizontally in the lower middle portion of the image.::>",
+            "type": "attestation",
+            "id": "4ab1fea2-1181-425c-ba47-b25f17bbea2a",
+            "grounding": {
+                "box": {
+                    "left": 0.5718370079994202,
+                    "top": 0.3431189954280853,
+                    "right": 0.9795079827308655,
+                    "bottom": 0.487832635641098
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c7eaab64-433e-48de-87b8-f0f6a5995658'></a>\n\nPurchaser's Name and Address",
+            "type": "text",
+            "id": "c7eaab64-433e-48de-87b8-f0f6a5995658",
+            "grounding": {
+                "box": {
+                    "left": 0.061405546963214874,
+                    "top": 0.5360457897186279,
+                    "right": 0.2233637273311615,
+                    "bottom": 0.5614639520645142
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='28249e9b-8388-450b-9024-f83fabea9120'></a>\n\nDR WILLIAM J DARBY\n4683 COLUMBIA PIKE\nTHOMPSON STATION TENNESSEE 37179",
+            "type": "text",
+            "id": "28249e9b-8388-450b-9024-f83fabea9120",
+            "grounding": {
+                "box": {
+                    "left": 0.11168090999126434,
+                    "top": 0.5860208868980408,
+                    "right": 0.37979769706726074,
+                    "bottom": 0.6709269881248474
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f69fda1a-a452-48f6-bc3f-c0f0c32fd2b8'></a>\n\nStatement of Charges\n<table id=\"0-1\">\n<tr><td id=\"0-2\" rowspan=\"2\">Office</td><td id=\"0-3\" rowspan=\"2\">XXXXXXXYXXXXX DBMT BR 1</td><td id=\"0-4\" rowspan=\"2\">Made By C HUNLEY</td><td id=\"0-5\" rowspan=\"2\">Checked By C HUNLEY</td><td id=\"0-6\">Draft Amount</td><td id=\"0-7\">Rate</td><td id=\"0-8\">Dollar Value</td></tr>\n<tr><td id=\"0-9\">GBP240.00**</td><td id=\"0-a\">2.0238</td><td id=\"0-b\">485.72</td></tr>\n</table>",
+            "type": "table",
+            "id": "f69fda1a-a452-48f6-bc3f-c0f0c32fd2b8",
+            "grounding": {
+                "box": {
+                    "left": 0.061452716588974,
+                    "top": 0.7113263010978699,
+                    "right": 0.9472582340240479,
+                    "bottom": 0.8116334080696106
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='50261198-8e2c-419b-8a9e-5e0e61d1057c'></a>\n\nCommission\n15.00\n\nTotal Collected\n500.72",
+            "type": "text",
+            "id": "50261198-8e2c-419b-8a9e-5e0e61d1057c",
+            "grounding": {
+                "box": {
+                    "left": 0.7807519435882568,
+                    "top": 0.8055694699287415,
+                    "right": 0.948346734046936,
+                    "bottom": 0.9388582110404968
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f0945767-2ca3-4a80-8b52-186bbb41133f'></a>\n\nThe sale of this draft is subject to the conditions stated on the reverse side.",
+            "type": "text",
+            "id": "f0945767-2ca3-4a80-8b52-186bbb41133f",
+            "grounding": {
+                "box": {
+                    "left": 0.06378886103630066,
+                    "top": 0.9030922651290894,
+                    "right": 0.4326251745223999,
+                    "bottom": 0.9312281608581543
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='142205b5-5d8c-4552-af81-c8ab1b824cb9'></a>\n\nPURCHASER\n---",
+            "type": "text",
+            "id": "142205b5-5d8c-4552-af81-c8ab1b824cb9",
+            "grounding": {
+                "box": {
+                    "left": 0.4396924376487732,
+                    "top": 0.9650572538375854,
+                    "right": 0.5396181344985962,
+                    "bottom": 0.9881631135940552
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='90cd0095-b7f2-4f9b-9f34-eff294a8f724'></a>\n\n<::logo: Dominion Bank\nDOMINION BANK\nA detailed crest-like emblem with a shield and decorative elements is positioned to the right of the text.::>\n\n<a id='865cdeea-40d9-4604-9898-afd9368a0141'></a>\n\n<::attestation: Handwritten verification/record\nMailed, dated\nSignature: none\nmailed to Maggs Sept 1, 1992\nLogo with registered trademark symbol\nHandwritten text in black ink, angled upwards from left to right, positioned in the upper-middle section of the image. A small logo with a registered trademark symbol is visible in the upper-left corner.::>\n\n<a id='fef9859f-7010-4817-8d3b-b5f7976dc6f6'></a>\n\nForeign Draft\nFD- 018186\n\n<a id='46b34f5b-1c22-4261-a4eb-346534ad157b'></a>\n\nDate\n[illegible] AUGUST 28, 1992\n---\n\n<a id='a72647e6-7c34-4ec6-9793-8e1f192f3212'></a>\n\nIn Favor Of\n---\n\n<a id='4e74bf14-7e13-4b76-ada2-c8f91c9519b8'></a>\n\nMAGGS BROTHERS LTD\n\n<a id='e948c5a9-eb98-4eac-ab66-ee3a7b7eb746'></a>\n\n<::logo: Unidentifiable\n240.00\nAmount In Figures\nA numerical value '240.00' is displayed above the text 'Amount In Figures', separated by a horizontal line.::>\n\n<a id='db601ac1-7c0e-4fb4-9250-57a4868964fc'></a>\n\nAmount: POUND STERLING TWO HUNDRED FORTY AND 00/100\n\n<a id='5b195189-9b09-41e2-8fa2-67828e7c9d3c'></a>\n\nDrawn On\n\nBARCLAYS BANK PLC\n168 FENCHURCH STREET\nLONDON, ENGLAND\n\n<a id='4ab1fea2-1181-425c-ba47-b25f17bbea2a'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nAuthorized Signature\nDEBRA F HARRIS\nC/O DR WILLIAM J DARBY\nA black handwritten signature is present above a horizontal line, with printed text \"Authorized Signature\" and \"DEBRA F HARRIS\" below the line, and \"C/O DR WILLIAM J DARBY\" further below and to the left. This content is centered horizontally in the lower middle portion of the image.::>\n\n<a id='c7eaab64-433e-48de-87b8-f0f6a5995658'></a>\n\nPurchaser's Name and Address\n\n<a id='28249e9b-8388-450b-9024-f83fabea9120'></a>\n\nDR WILLIAM J DARBY\n4683 COLUMBIA PIKE\nTHOMPSON STATION TENNESSEE 37179\n\n<a id='f69fda1a-a452-48f6-bc3f-c0f0c32fd2b8'></a>\n\nStatement of Charges\n<table id=\"0-1\">\n<tr><td id=\"0-2\" rowspan=\"2\">Office</td><td id=\"0-3\" rowspan=\"2\">XXXXXXXYXXXXX DBMT BR 1</td><td id=\"0-4\" rowspan=\"2\">Made By C HUNLEY</td><td id=\"0-5\" rowspan=\"2\">Checked By C HUNLEY</td><td id=\"0-6\">Draft Amount</td><td id=\"0-7\">Rate</td><td id=\"0-8\">Dollar Value</td></tr>\n<tr><td id=\"0-9\">GBP240.00**</td><td id=\"0-a\">2.0238</td><td id=\"0-b\">485.72</td></tr>\n</table>\n\n<a id='50261198-8e2c-419b-8a9e-5e0e61d1057c'></a>\n\nCommission\n15.00\n\nTotal Collected\n500.72\n\n<a id='f0945767-2ca3-4a80-8b52-186bbb41133f'></a>\n\nThe sale of this draft is subject to the conditions stated on the reverse side.\n\n<a id='142205b5-5d8c-4552-af81-c8ab1b824cb9'></a>\n\nPURCHASER\n---",
+            "chunks": [
+                "90cd0095-b7f2-4f9b-9f34-eff294a8f724",
+                "865cdeea-40d9-4604-9898-afd9368a0141",
+                "fef9859f-7010-4817-8d3b-b5f7976dc6f6",
+                "46b34f5b-1c22-4261-a4eb-346534ad157b",
+                "a72647e6-7c34-4ec6-9793-8e1f192f3212",
+                "4e74bf14-7e13-4b76-ada2-c8f91c9519b8",
+                "e948c5a9-eb98-4eac-ab66-ee3a7b7eb746",
+                "db601ac1-7c0e-4fb4-9250-57a4868964fc",
+                "5b195189-9b09-41e2-8fa2-67828e7c9d3c",
+                "4ab1fea2-1181-425c-ba47-b25f17bbea2a",
+                "c7eaab64-433e-48de-87b8-f0f6a5995658",
+                "28249e9b-8388-450b-9024-f83fabea9120",
+                "f69fda1a-a452-48f6-bc3f-c0f0c32fd2b8",
+                "50261198-8e2c-419b-8a9e-5e0e61d1057c",
+                "f0945767-2ca3-4a80-8b52-186bbb41133f",
+                "142205b5-5d8c-4552-af81-c8ab1b824cb9"
+            ]
+        }
+    ],
+    "grounding": {
+        "90cd0095-b7f2-4f9b-9f34-eff294a8f724": {
+            "box": {
+                "left": 0.05471174418926239,
+                "top": 0.02174307405948639,
+                "right": 0.33090895414352417,
+                "bottom": 0.21043819189071655
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "865cdeea-40d9-4604-9898-afd9368a0141": {
+            "box": {
+                "left": 0.28991639614105225,
+                "top": 0.035857342183589935,
+                "right": 0.5163750648498535,
+                "bottom": 0.19874373078346252
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "fef9859f-7010-4817-8d3b-b5f7976dc6f6": {
+            "box": {
+                "left": 0.6219558119773865,
+                "top": 0.02789541706442833,
+                "right": 0.8258693814277649,
+                "bottom": 0.12334826588630676
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "46b34f5b-1c22-4261-a4eb-346534ad157b": {
+            "box": {
+                "left": 0.6223524808883667,
+                "top": 0.164497509598732,
+                "right": 0.8246597051620483,
+                "bottom": 0.2096640020608902
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a72647e6-7c34-4ec6-9793-8e1f192f3212": {
+            "box": {
+                "left": 0.058657024055719376,
+                "top": 0.2253798097372055,
+                "right": 0.1329827904701233,
+                "bottom": 0.2503913342952728
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4e74bf14-7e13-4b76-ada2-c8f91c9519b8": {
+            "box": {
+                "left": 0.17607390880584717,
+                "top": 0.2205616980791092,
+                "right": 0.3270670175552368,
+                "bottom": 0.2476133555173874
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e948c5a9-eb98-4eac-ab66-ee3a7b7eb746": {
+            "box": {
+                "left": 0.7179805040359497,
+                "top": 0.21801207959651947,
+                "right": 0.8589231967926025,
+                "bottom": 0.26981326937675476
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "db601ac1-7c0e-4fb4-9250-57a4868964fc": {
+            "box": {
+                "left": 0.06240233778953552,
+                "top": 0.2656121551990509,
+                "right": 0.4584038555622101,
+                "bottom": 0.29848918318748474
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5b195189-9b09-41e2-8fa2-67828e7c9d3c": {
+            "box": {
+                "left": 0.05912351608276367,
+                "top": 0.3220725953578949,
+                "right": 0.2800633907318115,
+                "bottom": 0.4361891448497772
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4ab1fea2-1181-425c-ba47-b25f17bbea2a": {
+            "box": {
+                "left": 0.5718370079994202,
+                "top": 0.3431189954280853,
+                "right": 0.9795079827308655,
+                "bottom": 0.487832635641098
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "c7eaab64-433e-48de-87b8-f0f6a5995658": {
+            "box": {
+                "left": 0.061405546963214874,
+                "top": 0.5360457897186279,
+                "right": 0.2233637273311615,
+                "bottom": 0.5614639520645142
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "28249e9b-8388-450b-9024-f83fabea9120": {
+            "box": {
+                "left": 0.11168090999126434,
+                "top": 0.5860208868980408,
+                "right": 0.37979769706726074,
+                "bottom": 0.6709269881248474
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f69fda1a-a452-48f6-bc3f-c0f0c32fd2b8": {
+            "box": {
+                "left": 0.061452716588974,
+                "top": 0.7113263010978699,
+                "right": 0.9472582340240479,
+                "bottom": 0.8116334080696106
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.06799839113756914,
+                "top": 0.7402181665182894,
+                "right": 0.941362109211175,
+                "bottom": 0.8090039691676054
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.06799839113756914,
+                "top": 0.7402181665182894,
+                "right": 0.2659482426704951,
+                "bottom": 0.8090039691676054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.10612515253624044,
+                "top": 0.7402181665182894,
+                "right": 0.3810304638900419,
+                "bottom": 0.8090039691676054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.2659482426704951,
+                "top": 0.7402181665182894,
+                "right": 0.49763361424574537,
+                "bottom": 0.8090039691676054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.3810304638900419,
+                "top": 0.7402181665182894,
+                "right": 0.6937346875214327,
+                "bottom": 0.8090039691676054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.49763361424574537,
+                "top": 0.7402181665182894,
+                "right": 0.6937346875214327,
+                "bottom": 0.7630542858021627
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6937346875214327,
+                "top": 0.7402181665182894,
+                "right": 0.7867563217196061,
+                "bottom": 0.7630542858021627
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7867563217196061,
+                "top": 0.7402181665182894,
+                "right": 0.9416779475841981,
+                "bottom": 0.7630542858021627
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.49763361424574537,
+                "top": 0.7630542858021627,
+                "right": 0.6937346875214327,
+                "bottom": 0.8090039691676054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6937346875214327,
+                "top": 0.7630542858021627,
+                "right": 0.7867563217196061,
+                "bottom": 0.8090039691676054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7867563217196061,
+                "top": 0.7630542858021627,
+                "right": 0.9416779475841981,
+                "bottom": 0.8090039691676054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "50261198-8e2c-419b-8a9e-5e0e61d1057c": {
+            "box": {
+                "left": 0.7807519435882568,
+                "top": 0.8055694699287415,
+                "right": 0.948346734046936,
+                "bottom": 0.9388582110404968
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f0945767-2ca3-4a80-8b52-186bbb41133f": {
+            "box": {
+                "left": 0.06378886103630066,
+                "top": 0.9030922651290894,
+                "right": 0.4326251745223999,
+                "bottom": 0.9312281608581543
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "142205b5-5d8c-4552-af81-c8ab1b824cb9": {
+            "box": {
+                "left": 0.4396924376487732,
+                "top": 0.9650572538375854,
+                "right": 0.5396181344985962,
+                "bottom": 0.9881631135940552
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "nfnw0228_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10173,
+        "credit_usage": 3.0,
+        "job_id": "kidzxakulisds49i4fb806z8j",
+        "version": "dpt-2-20250919"
+    }
+}

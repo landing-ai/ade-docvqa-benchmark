@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='01e583d2-29ad-49ad-8803-673b7911313a'></a>\n\nWOHL CLINIC\nDR. R. SHANK\n4950 AUDUBON\n\n<a id='7737bbb7-a9fd-4081-aa9e-fc666b6d26f7'></a>\n\nOTIS ELEVATOR CO.\nATTN: MR. BRINKMAN\n2301 LOCUST ST.\nCITY\n\n<a id='7e805fd5-2e59-44b2-b2ca-0d96bfa74cd3'></a>\n\nORDER NO. 49372\n\n<a id='111a7de9-944f-486d-8158-1708cf0a4369'></a>\n\nPA73WBC43\n\n<a id='e1e18f9c-a9f0-4e27-81fd-f8b973ab8037'></a>\n\nReq. 4 - 00581\n\n<a id='575b4cc6-c6ef-4b63-a98f-3785281bafee'></a>\n\n6-12-61\n\n<a id='9ee3ae88-8a51-4a1e-8624-dd8de0a732f3'></a>\n\nINSTALL HOOKS & REMOVABLE PADDING IN ONE ELEVATOR\nAT THE WOHL CLINIC BLDG.                                90.00\n\n<a id='fbad7f87-c941-4824-b014-df3a4bd91842'></a>\n\nSent copies to hill & Miss Kaiser\n\n<a id='48aa1703-4ccc-4a33-965a-eabfe3647382'></a>\n\n8/2/61\n\n<a id='7fcb8383-7b92-45cb-8500-34756733c555'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fhng0227",
+    "chunks": [
+        {
+            "markdown": "<a id='01e583d2-29ad-49ad-8803-673b7911313a'></a>\n\nWOHL CLINIC\nDR. R. SHANK\n4950 AUDUBON",
+            "type": "text",
+            "id": "01e583d2-29ad-49ad-8803-673b7911313a",
+            "grounding": {
+                "box": {
+                    "left": 0.6446466445922852,
+                    "top": 0.1529129445552826,
+                    "right": 0.8148790597915649,
+                    "bottom": 0.26525449752807617
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7737bbb7-a9fd-4081-aa9e-fc666b6d26f7'></a>\n\nOTIS ELEVATOR CO.\nATTN: MR. BRINKMAN\n2301 LOCUST ST.\nCITY",
+            "type": "text",
+            "id": "7737bbb7-a9fd-4081-aa9e-fc666b6d26f7",
+            "grounding": {
+                "box": {
+                    "left": 0.13652975857257843,
+                    "top": 0.28356626629829407,
+                    "right": 0.36011743545532227,
+                    "bottom": 0.4212058484554291
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7e805fd5-2e59-44b2-b2ca-0d96bfa74cd3'></a>\n\nORDER NO. 49372",
+            "type": "text",
+            "id": "7e805fd5-2e59-44b2-b2ca-0d96bfa74cd3",
+            "grounding": {
+                "box": {
+                    "left": 0.6694183945655823,
+                    "top": 0.3491508364677429,
+                    "right": 0.854658305644989,
+                    "bottom": 0.39141249656677246
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='111a7de9-944f-486d-8158-1708cf0a4369'></a>\n\nPA73WBC43",
+            "type": "text",
+            "id": "111a7de9-944f-486d-8158-1708cf0a4369",
+            "grounding": {
+                "box": {
+                    "left": 0.14100277423858643,
+                    "top": 0.44444432854652405,
+                    "right": 0.25894713401794434,
+                    "bottom": 0.48646536469459534
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e1e18f9c-a9f0-4e27-81fd-f8b973ab8037'></a>\n\nReq. 4 - 00581",
+            "type": "text",
+            "id": "e1e18f9c-a9f0-4e27-81fd-f8b973ab8037",
+            "grounding": {
+                "box": {
+                    "left": 0.37391647696495056,
+                    "top": 0.44610726833343506,
+                    "right": 0.550824761390686,
+                    "bottom": 0.4879800081253052
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='575b4cc6-c6ef-4b63-a98f-3785281bafee'></a>\n\n6-12-61",
+            "type": "text",
+            "id": "575b4cc6-c6ef-4b63-a98f-3785281bafee",
+            "grounding": {
+                "box": {
+                    "left": 0.6793347001075745,
+                    "top": 0.44429606199264526,
+                    "right": 0.7764509320259094,
+                    "bottom": 0.4881119132041931
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9ee3ae88-8a51-4a1e-8624-dd8de0a732f3'></a>\n\nINSTALL HOOKS & REMOVABLE PADDING IN ONE ELEVATOR\nAT THE WOHL CLINIC BLDG.                                90.00",
+            "type": "text",
+            "id": "9ee3ae88-8a51-4a1e-8624-dd8de0a732f3",
+            "grounding": {
+                "box": {
+                    "left": 0.139428973197937,
+                    "top": 0.5717241168022156,
+                    "right": 0.8329205513000488,
+                    "bottom": 0.6533363461494446
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fbad7f87-c941-4824-b014-df3a4bd91842'></a>\n\nSent copies to hill & Miss Kaiser",
+            "type": "text",
+            "id": "fbad7f87-c941-4824-b014-df3a4bd91842",
+            "grounding": {
+                "box": {
+                    "left": 0.13779397308826447,
+                    "top": 0.7664281129837036,
+                    "right": 0.5279664397239685,
+                    "bottom": 0.8146071434020996
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='48aa1703-4ccc-4a33-965a-eabfe3647382'></a>\n\n8/2/61",
+            "type": "text",
+            "id": "48aa1703-4ccc-4a33-965a-eabfe3647382",
+            "grounding": {
+                "box": {
+                    "left": 0.5438584685325623,
+                    "top": 0.7675771713256836,
+                    "right": 0.6302639842033386,
+                    "bottom": 0.8163195848464966
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7fcb8383-7b92-45cb-8500-34756733c555'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fhng0227",
+            "type": "text",
+            "id": "7fcb8383-7b92-45cb-8500-34756733c555",
+            "grounding": {
+                "box": {
+                    "left": 0.2238517701625824,
+                    "top": 0.9586696028709412,
+                    "right": 0.7775363922119141,
+                    "bottom": 0.9994602799415588
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='01e583d2-29ad-49ad-8803-673b7911313a'></a>\n\nWOHL CLINIC\nDR. R. SHANK\n4950 AUDUBON\n\n<a id='7737bbb7-a9fd-4081-aa9e-fc666b6d26f7'></a>\n\nOTIS ELEVATOR CO.\nATTN: MR. BRINKMAN\n2301 LOCUST ST.\nCITY\n\n<a id='7e805fd5-2e59-44b2-b2ca-0d96bfa74cd3'></a>\n\nORDER NO. 49372\n\n<a id='111a7de9-944f-486d-8158-1708cf0a4369'></a>\n\nPA73WBC43\n\n<a id='e1e18f9c-a9f0-4e27-81fd-f8b973ab8037'></a>\n\nReq. 4 - 00581\n\n<a id='575b4cc6-c6ef-4b63-a98f-3785281bafee'></a>\n\n6-12-61\n\n<a id='9ee3ae88-8a51-4a1e-8624-dd8de0a732f3'></a>\n\nINSTALL HOOKS & REMOVABLE PADDING IN ONE ELEVATOR\nAT THE WOHL CLINIC BLDG.                                90.00\n\n<a id='fbad7f87-c941-4824-b014-df3a4bd91842'></a>\n\nSent copies to hill & Miss Kaiser\n\n<a id='48aa1703-4ccc-4a33-965a-eabfe3647382'></a>\n\n8/2/61\n\n<a id='7fcb8383-7b92-45cb-8500-34756733c555'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fhng0227",
+            "chunks": [
+                "01e583d2-29ad-49ad-8803-673b7911313a",
+                "7737bbb7-a9fd-4081-aa9e-fc666b6d26f7",
+                "7e805fd5-2e59-44b2-b2ca-0d96bfa74cd3",
+                "111a7de9-944f-486d-8158-1708cf0a4369",
+                "e1e18f9c-a9f0-4e27-81fd-f8b973ab8037",
+                "575b4cc6-c6ef-4b63-a98f-3785281bafee",
+                "9ee3ae88-8a51-4a1e-8624-dd8de0a732f3",
+                "fbad7f87-c941-4824-b014-df3a4bd91842",
+                "48aa1703-4ccc-4a33-965a-eabfe3647382",
+                "7fcb8383-7b92-45cb-8500-34756733c555"
+            ]
+        }
+    ],
+    "grounding": {
+        "01e583d2-29ad-49ad-8803-673b7911313a": {
+            "box": {
+                "left": 0.6446466445922852,
+                "top": 0.1529129445552826,
+                "right": 0.8148790597915649,
+                "bottom": 0.26525449752807617
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7737bbb7-a9fd-4081-aa9e-fc666b6d26f7": {
+            "box": {
+                "left": 0.13652975857257843,
+                "top": 0.28356626629829407,
+                "right": 0.36011743545532227,
+                "bottom": 0.4212058484554291
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7e805fd5-2e59-44b2-b2ca-0d96bfa74cd3": {
+            "box": {
+                "left": 0.6694183945655823,
+                "top": 0.3491508364677429,
+                "right": 0.854658305644989,
+                "bottom": 0.39141249656677246
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "111a7de9-944f-486d-8158-1708cf0a4369": {
+            "box": {
+                "left": 0.14100277423858643,
+                "top": 0.44444432854652405,
+                "right": 0.25894713401794434,
+                "bottom": 0.48646536469459534
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e1e18f9c-a9f0-4e27-81fd-f8b973ab8037": {
+            "box": {
+                "left": 0.37391647696495056,
+                "top": 0.44610726833343506,
+                "right": 0.550824761390686,
+                "bottom": 0.4879800081253052
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "575b4cc6-c6ef-4b63-a98f-3785281bafee": {
+            "box": {
+                "left": 0.6793347001075745,
+                "top": 0.44429606199264526,
+                "right": 0.7764509320259094,
+                "bottom": 0.4881119132041931
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9ee3ae88-8a51-4a1e-8624-dd8de0a732f3": {
+            "box": {
+                "left": 0.139428973197937,
+                "top": 0.5717241168022156,
+                "right": 0.8329205513000488,
+                "bottom": 0.6533363461494446
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fbad7f87-c941-4824-b014-df3a4bd91842": {
+            "box": {
+                "left": 0.13779397308826447,
+                "top": 0.7664281129837036,
+                "right": 0.5279664397239685,
+                "bottom": 0.8146071434020996
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "48aa1703-4ccc-4a33-965a-eabfe3647382": {
+            "box": {
+                "left": 0.5438584685325623,
+                "top": 0.7675771713256836,
+                "right": 0.6302639842033386,
+                "bottom": 0.8163195848464966
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7fcb8383-7b92-45cb-8500-34756733c555": {
+            "box": {
+                "left": 0.2238517701625824,
+                "top": 0.9586696028709412,
+                "right": 0.7775363922119141,
+                "bottom": 0.9994602799415588
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "fhng0227_16.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5920,
+        "credit_usage": 3.0,
+        "job_id": "iwilu1crq7aq1tn78252alba4",
+        "version": "dpt-2-20250919"
+    }
+}

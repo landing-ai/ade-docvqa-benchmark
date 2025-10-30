@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='ea00a150-59a9-4fea-8c1f-4fc87305d2c5'></a>\n\n<::FIGURE 2\nLine graph showing Percent Change in Hemoglobin on the y-axis versus Infusion Period (weeks) on the x-axis.\n\nY-axis ranges from 60 to 100.\nX-axis ranges from 1 to 5 weeks.\n\nTwo data series are plotted:\n1. Triangles (\u25b2): SR 675 at 40 ml./Kg. (4 dogs)\n   - Data points (approximate): (0, 100), (1, 92), (2, 88), (3, 92), (4, 90), (5, 89)\n2. Circles (\u2022): SR (1958-59) at 30-40-50 ml./Kg. (17 dogs)\n   - Data points (approximate): (0, 100), (1, 84), (2, 77), (3, 71), (4, 72), (5, 68)\n\nBoth series start at 100% hemoglobin at week 0 and show a decrease over the infusion period. The SR 675 series shows a less pronounced decrease and then stabilizes around 90%, while the SR (1958-59) series shows a more significant and continuous decrease, ending around 68% at week 5.\n: chart::>\n\n<a id='16bc4da5-036b-4b2e-a98f-89fa7e2e239e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ylwg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='ea00a150-59a9-4fea-8c1f-4fc87305d2c5'></a>\n\n<::FIGURE 2\nLine graph showing Percent Change in Hemoglobin on the y-axis versus Infusion Period (weeks) on the x-axis.\n\nY-axis ranges from 60 to 100.\nX-axis ranges from 1 to 5 weeks.\n\nTwo data series are plotted:\n1. Triangles (\u25b2): SR 675 at 40 ml./Kg. (4 dogs)\n   - Data points (approximate): (0, 100), (1, 92), (2, 88), (3, 92), (4, 90), (5, 89)\n2. Circles (\u2022): SR (1958-59) at 30-40-50 ml./Kg. (17 dogs)\n   - Data points (approximate): (0, 100), (1, 84), (2, 77), (3, 71), (4, 72), (5, 68)\n\nBoth series start at 100% hemoglobin at week 0 and show a decrease over the infusion period. The SR 675 series shows a less pronounced decrease and then stabilizes around 90%, while the SR (1958-59) series shows a more significant and continuous decrease, ending around 68% at week 5.\n: chart::>",
+            "type": "figure",
+            "id": "ea00a150-59a9-4fea-8c1f-4fc87305d2c5",
+            "grounding": {
+                "box": {
+                    "left": 0.13460960984230042,
+                    "top": 0.1003885567188263,
+                    "right": 0.8210340738296509,
+                    "bottom": 0.8855308294296265
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='16bc4da5-036b-4b2e-a98f-89fa7e2e239e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ylwg0227",
+            "type": "marginalia",
+            "id": "16bc4da5-036b-4b2e-a98f-89fa7e2e239e",
+            "grounding": {
+                "box": {
+                    "left": 0.28603607416152954,
+                    "top": 0.972648024559021,
+                    "right": 0.7136324048042297,
+                    "bottom": 0.999656081199646
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ea00a150-59a9-4fea-8c1f-4fc87305d2c5'></a>\n\n<::FIGURE 2\nLine graph showing Percent Change in Hemoglobin on the y-axis versus Infusion Period (weeks) on the x-axis.\n\nY-axis ranges from 60 to 100.\nX-axis ranges from 1 to 5 weeks.\n\nTwo data series are plotted:\n1. Triangles (\u25b2): SR 675 at 40 ml./Kg. (4 dogs)\n   - Data points (approximate): (0, 100), (1, 92), (2, 88), (3, 92), (4, 90), (5, 89)\n2. Circles (\u2022): SR (1958-59) at 30-40-50 ml./Kg. (17 dogs)\n   - Data points (approximate): (0, 100), (1, 84), (2, 77), (3, 71), (4, 72), (5, 68)\n\nBoth series start at 100% hemoglobin at week 0 and show a decrease over the infusion period. The SR 675 series shows a less pronounced decrease and then stabilizes around 90%, while the SR (1958-59) series shows a more significant and continuous decrease, ending around 68% at week 5.\n: chart::>\n\n<a id='16bc4da5-036b-4b2e-a98f-89fa7e2e239e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ylwg0227",
+            "chunks": [
+                "ea00a150-59a9-4fea-8c1f-4fc87305d2c5",
+                "16bc4da5-036b-4b2e-a98f-89fa7e2e239e"
+            ]
+        }
+    ],
+    "grounding": {
+        "ea00a150-59a9-4fea-8c1f-4fc87305d2c5": {
+            "box": {
+                "left": 0.13460960984230042,
+                "top": 0.1003885567188263,
+                "right": 0.8210340738296509,
+                "bottom": 0.8855308294296265
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "16bc4da5-036b-4b2e-a98f-89fa7e2e239e": {
+            "box": {
+                "left": 0.28603607416152954,
+                "top": 0.972648024559021,
+                "right": 0.7136324048042297,
+                "bottom": 0.999656081199646
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "ylwg0227_15.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10723,
+        "credit_usage": 3.0,
+        "job_id": "if3y7rhh47ba891m0lmpatobe",
+        "version": "dpt-2-20250919"
+    }
+}

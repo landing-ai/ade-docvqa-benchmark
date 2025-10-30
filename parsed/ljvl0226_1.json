@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='f1c0a857-bb8a-4426-84c3-1e9d6803a4c8'></a>\n\nUNIVERSITY OF CALIFORNIA, SAN DIEGO\n\nTo P.S.\n\nDate 2/25/80 Time\n\nWHILE YOU WERE OUT\n\nDr.\nMr. Michael Hall\nMs.\n\nFrom Silver 88 Magazine\n\noption Telephoned: [x]\noption Came to see you: [ ]\noption Will phone again: [ ]\noption Will come again: [ ]\noption Please phone: [x]\noption Rush: [ ]\n\n<a id='08e52ca6-2fc2-4d9a-8b95-fa36969ff3e7'></a>\n\nMESSAGE\nRe: Story Re: Bill\nWalton\nTelephone No\nVander Mey\n202-232-0950 7:00\nPhone party at (202) 967-5200\nTaken by Cove -5209\n71-75-Source: https://www.industrydocuments.ucsf.edu/docs/livl0226",
+    "chunks": [
+        {
+            "markdown": "<a id='f1c0a857-bb8a-4426-84c3-1e9d6803a4c8'></a>\n\nUNIVERSITY OF CALIFORNIA, SAN DIEGO\n\nTo P.S.\n\nDate 2/25/80 Time\n\nWHILE YOU WERE OUT\n\nDr.\nMr. Michael Hall\nMs.\n\nFrom Silver 88 Magazine\n\noption Telephoned: [x]\noption Came to see you: [ ]\noption Will phone again: [ ]\noption Will come again: [ ]\noption Please phone: [x]\noption Rush: [ ]",
+            "type": "card",
+            "id": "f1c0a857-bb8a-4426-84c3-1e9d6803a4c8",
+            "grounding": {
+                "box": {
+                    "left": 0.017376810312271118,
+                    "top": 0.04354603588581085,
+                    "right": 0.9409184455871582,
+                    "bottom": 0.48411625623703003
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='08e52ca6-2fc2-4d9a-8b95-fa36969ff3e7'></a>\n\nMESSAGE\nRe: Story Re: Bill\nWalton\nTelephone No\nVander Mey\n202-232-0950 7:00\nPhone party at (202) 967-5200\nTaken by Cove -5209\n71-75-Source: https://www.industrydocuments.ucsf.edu/docs/livl0226",
+            "type": "text",
+            "id": "08e52ca6-2fc2-4d9a-8b95-fa36969ff3e7",
+            "grounding": {
+                "box": {
+                    "left": 0.005373209714889526,
+                    "top": 0.5002025961875916,
+                    "right": 0.9302635192871094,
+                    "bottom": 0.9873692393302917
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='f1c0a857-bb8a-4426-84c3-1e9d6803a4c8'></a>\n\nUNIVERSITY OF CALIFORNIA, SAN DIEGO\n\nTo P.S.\n\nDate 2/25/80 Time\n\nWHILE YOU WERE OUT\n\nDr.\nMr. Michael Hall\nMs.\n\nFrom Silver 88 Magazine\n\noption Telephoned: [x]\noption Came to see you: [ ]\noption Will phone again: [ ]\noption Will come again: [ ]\noption Please phone: [x]\noption Rush: [ ]\n\n<a id='08e52ca6-2fc2-4d9a-8b95-fa36969ff3e7'></a>\n\nMESSAGE\nRe: Story Re: Bill\nWalton\nTelephone No\nVander Mey\n202-232-0950 7:00\nPhone party at (202) 967-5200\nTaken by Cove -5209\n71-75-Source: https://www.industrydocuments.ucsf.edu/docs/livl0226",
+            "chunks": [
+                "f1c0a857-bb8a-4426-84c3-1e9d6803a4c8",
+                "08e52ca6-2fc2-4d9a-8b95-fa36969ff3e7"
+            ]
+        }
+    ],
+    "grounding": {
+        "f1c0a857-bb8a-4426-84c3-1e9d6803a4c8": {
+            "box": {
+                "left": 0.017376810312271118,
+                "top": 0.04354603588581085,
+                "right": 0.9409184455871582,
+                "bottom": 0.48411625623703003
+            },
+            "page": 0,
+            "type": "chunkCard"
+        },
+        "08e52ca6-2fc2-4d9a-8b95-fa36969ff3e7": {
+            "box": {
+                "left": 0.005373209714889526,
+                "top": 0.5002025961875916,
+                "right": 0.9302635192871094,
+                "bottom": 0.9873692393302917
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "ljvl0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 27581,
+        "credit_usage": 3.0,
+        "job_id": "etngx2w8i8hjx0fobzug5zpar",
+        "version": "dpt-2-20250919"
+    }
+}

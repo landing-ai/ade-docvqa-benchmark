@@ -1,0 +1,328 @@
+{
+    "markdown": "<a id='2d341637-b119-44ac-8cfe-540d14c01300'></a>\n\nThe Sugar Association,\n\n<a id='7872d777-41aa-4b97-9731-35ad370044f3'></a>\n\nInc.\n\n<a id='309504e6-dda2-4736-ba36-5b397cc2be8c'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nReadable Text: File, 3\nA handwritten signature with the word \"File\" above it and a small number \"3\" to its left, centrally positioned.::>\n\n<a id='a2e942c0-b1d8-4fff-9a8b-833e40ad8ff9'></a>\n\n1511 K Street, N. W. Washington, D. C. 20005\n\n<a id='0ba2070f-1e16-42f9-9339-b93711ca20a6'></a>\n\nJune 10, 1977\n\n<a id='9434cfd2-d848-420d-a123-0d8029f57a4c'></a>\n\n<::attestation: Date stamp\nJUN 13 1977\nA black date stamp, slightly tilted, centered on a white background::>\n\n<a id='ff1cdf7e-aa7b-4ea3-8dc5-0394eb9f5a25'></a>\n\nTO: THE PUBLIC COMMUNICATIONS COMMITTEE\n\n<a id='625c1c7a-df04-4797-9aec-7f4f49049a3a'></a>\n\nGentlemen:\n\nThe enclosed five items are self-explanatory.\n\n<a id='f0e348a4-6f95-4772-bef7-7701890cf6b0'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: Cordially,\nJ. R. O'Connell\nDirector Public Relations\nA handwritten signature, appearing to be \"Jack\", is positioned centrally above the typed name and title \"J. R. O'Connell Director Public Relations\".::>\n\n<a id='c5f29198-fde8-4e25-9354-f3e4ac4cd78b'></a>\n\nJRO: drb\nenclosures\n\n<a id='7be37811-80f8-4eba-98cd-256c78241bca'></a>\n\nTelephone: Area Code (202) 628 - 0189\n\n<a id='08554eba-efed-4e56-89ad-33d72da734ed'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/glmk0226",
+    "chunks": [
+        {
+            "markdown": "<a id='2d341637-b119-44ac-8cfe-540d14c01300'></a>\n\nThe Sugar Association,",
+            "type": "text",
+            "id": "2d341637-b119-44ac-8cfe-540d14c01300",
+            "grounding": {
+                "box": {
+                    "left": 0.12529566884040833,
+                    "top": 0.03528713434934616,
+                    "right": 0.6863621473312378,
+                    "bottom": 0.12749844789505005
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7872d777-41aa-4b97-9731-35ad370044f3'></a>\n\nInc.",
+            "type": "text",
+            "id": "7872d777-41aa-4b97-9731-35ad370044f3",
+            "grounding": {
+                "box": {
+                    "left": 0.6903557777404785,
+                    "top": 0.058552056550979614,
+                    "right": 0.7928808927536011,
+                    "bottom": 0.11398182809352875
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='309504e6-dda2-4736-ba36-5b397cc2be8c'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nReadable Text: File, 3\nA handwritten signature with the word \"File\" above it and a small number \"3\" to its left, centrally positioned.::>",
+            "type": "attestation",
+            "id": "309504e6-dda2-4736-ba36-5b397cc2be8c",
+            "grounding": {
+                "box": {
+                    "left": 0.8763594031333923,
+                    "top": 0.011338979005813599,
+                    "right": 0.9888330101966858,
+                    "bottom": 0.12489372491836548
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a2e942c0-b1d8-4fff-9a8b-833e40ad8ff9'></a>\n\n1511 K Street, N. W. Washington, D. C. 20005",
+            "type": "text",
+            "id": "a2e942c0-b1d8-4fff-9a8b-833e40ad8ff9",
+            "grounding": {
+                "box": {
+                    "left": 0.5065013766288757,
+                    "top": 0.12144322693347931,
+                    "right": 0.8782930970191956,
+                    "bottom": 0.1467454582452774
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0ba2070f-1e16-42f9-9339-b93711ca20a6'></a>\n\nJune 10, 1977",
+            "type": "text",
+            "id": "0ba2070f-1e16-42f9-9339-b93711ca20a6",
+            "grounding": {
+                "box": {
+                    "left": 0.5810847878456116,
+                    "top": 0.21635501086711884,
+                    "right": 0.7615688443183899,
+                    "bottom": 0.2453785389661789
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9434cfd2-d848-420d-a123-0d8029f57a4c'></a>\n\n<::attestation: Date stamp\nJUN 13 1977\nA black date stamp, slightly tilted, centered on a white background::>",
+            "type": "attestation",
+            "id": "9434cfd2-d848-420d-a123-0d8029f57a4c",
+            "grounding": {
+                "box": {
+                    "left": 0.7808175086975098,
+                    "top": 0.2420942187309265,
+                    "right": 0.923213005065918,
+                    "bottom": 0.2819633483886719
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ff1cdf7e-aa7b-4ea3-8dc5-0394eb9f5a25'></a>\n\nTO: THE PUBLIC COMMUNICATIONS COMMITTEE",
+            "type": "text",
+            "id": "ff1cdf7e-aa7b-4ea3-8dc5-0394eb9f5a25",
+            "grounding": {
+                "box": {
+                    "left": 0.212582528591156,
+                    "top": 0.30631566047668457,
+                    "right": 0.7562158107757568,
+                    "bottom": 0.3430854082107544
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='625c1c7a-df04-4797-9aec-7f4f49049a3a'></a>\n\nGentlemen:\n\nThe enclosed five items are self-explanatory.",
+            "type": "text",
+            "id": "625c1c7a-df04-4797-9aec-7f4f49049a3a",
+            "grounding": {
+                "box": {
+                    "left": 0.2123904824256897,
+                    "top": 0.35676372051239014,
+                    "right": 0.7716023921966553,
+                    "bottom": 0.4183771014213562
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f0e348a4-6f95-4772-bef7-7701890cf6b0'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: Cordially,\nJ. R. O'Connell\nDirector Public Relations\nA handwritten signature, appearing to be \"Jack\", is positioned centrally above the typed name and title \"J. R. O'Connell Director Public Relations\".::>",
+            "type": "attestation",
+            "id": "f0e348a4-6f95-4772-bef7-7701890cf6b0",
+            "grounding": {
+                "box": {
+                    "left": 0.5043174028396606,
+                    "top": 0.4315662086009979,
+                    "right": 0.8569378852844238,
+                    "bottom": 0.5447276830673218
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c5f29198-fde8-4e25-9354-f3e4ac4cd78b'></a>\n\nJRO: drb\nenclosures",
+            "type": "text",
+            "id": "c5f29198-fde8-4e25-9354-f3e4ac4cd78b",
+            "grounding": {
+                "box": {
+                    "left": 0.21288323402404785,
+                    "top": 0.5372651219367981,
+                    "right": 0.36182618141174316,
+                    "bottom": 0.6007482409477234
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7be37811-80f8-4eba-98cd-256c78241bca'></a>\n\nTelephone: Area Code (202) 628 - 0189",
+            "type": "marginalia",
+            "id": "7be37811-80f8-4eba-98cd-256c78241bca",
+            "grounding": {
+                "box": {
+                    "left": 0.3188859224319458,
+                    "top": 0.9502165913581848,
+                    "right": 0.6572228074073792,
+                    "bottom": 0.9765728116035461
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='08554eba-efed-4e56-89ad-33d72da734ed'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/glmk0226",
+            "type": "marginalia",
+            "id": "08554eba-efed-4e56-89ad-33d72da734ed",
+            "grounding": {
+                "box": {
+                    "left": 0.20995557308197021,
+                    "top": 0.9757255911827087,
+                    "right": 0.7895994782447815,
+                    "bottom": 1.0001020431518555
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2d341637-b119-44ac-8cfe-540d14c01300'></a>\n\nThe Sugar Association,\n\n<a id='7872d777-41aa-4b97-9731-35ad370044f3'></a>\n\nInc.\n\n<a id='309504e6-dda2-4736-ba36-5b397cc2be8c'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nReadable Text: File, 3\nA handwritten signature with the word \"File\" above it and a small number \"3\" to its left, centrally positioned.::>\n\n<a id='a2e942c0-b1d8-4fff-9a8b-833e40ad8ff9'></a>\n\n1511 K Street, N. W. Washington, D. C. 20005\n\n<a id='0ba2070f-1e16-42f9-9339-b93711ca20a6'></a>\n\nJune 10, 1977\n\n<a id='9434cfd2-d848-420d-a123-0d8029f57a4c'></a>\n\n<::attestation: Date stamp\nJUN 13 1977\nA black date stamp, slightly tilted, centered on a white background::>\n\n<a id='ff1cdf7e-aa7b-4ea3-8dc5-0394eb9f5a25'></a>\n\nTO: THE PUBLIC COMMUNICATIONS COMMITTEE\n\n<a id='625c1c7a-df04-4797-9aec-7f4f49049a3a'></a>\n\nGentlemen:\n\nThe enclosed five items are self-explanatory.\n\n<a id='f0e348a4-6f95-4772-bef7-7701890cf6b0'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nReadable Text: Cordially,\nJ. R. O'Connell\nDirector Public Relations\nA handwritten signature, appearing to be \"Jack\", is positioned centrally above the typed name and title \"J. R. O'Connell Director Public Relations\".::>\n\n<a id='c5f29198-fde8-4e25-9354-f3e4ac4cd78b'></a>\n\nJRO: drb\nenclosures\n\n<a id='7be37811-80f8-4eba-98cd-256c78241bca'></a>\n\nTelephone: Area Code (202) 628 - 0189\n\n<a id='08554eba-efed-4e56-89ad-33d72da734ed'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/glmk0226",
+            "chunks": [
+                "2d341637-b119-44ac-8cfe-540d14c01300",
+                "7872d777-41aa-4b97-9731-35ad370044f3",
+                "309504e6-dda2-4736-ba36-5b397cc2be8c",
+                "a2e942c0-b1d8-4fff-9a8b-833e40ad8ff9",
+                "0ba2070f-1e16-42f9-9339-b93711ca20a6",
+                "9434cfd2-d848-420d-a123-0d8029f57a4c",
+                "ff1cdf7e-aa7b-4ea3-8dc5-0394eb9f5a25",
+                "625c1c7a-df04-4797-9aec-7f4f49049a3a",
+                "f0e348a4-6f95-4772-bef7-7701890cf6b0",
+                "c5f29198-fde8-4e25-9354-f3e4ac4cd78b",
+                "7be37811-80f8-4eba-98cd-256c78241bca",
+                "08554eba-efed-4e56-89ad-33d72da734ed"
+            ]
+        }
+    ],
+    "grounding": {
+        "2d341637-b119-44ac-8cfe-540d14c01300": {
+            "box": {
+                "left": 0.12529566884040833,
+                "top": 0.03528713434934616,
+                "right": 0.6863621473312378,
+                "bottom": 0.12749844789505005
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7872d777-41aa-4b97-9731-35ad370044f3": {
+            "box": {
+                "left": 0.6903557777404785,
+                "top": 0.058552056550979614,
+                "right": 0.7928808927536011,
+                "bottom": 0.11398182809352875
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "309504e6-dda2-4736-ba36-5b397cc2be8c": {
+            "box": {
+                "left": 0.8763594031333923,
+                "top": 0.011338979005813599,
+                "right": 0.9888330101966858,
+                "bottom": 0.12489372491836548
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "a2e942c0-b1d8-4fff-9a8b-833e40ad8ff9": {
+            "box": {
+                "left": 0.5065013766288757,
+                "top": 0.12144322693347931,
+                "right": 0.8782930970191956,
+                "bottom": 0.1467454582452774
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0ba2070f-1e16-42f9-9339-b93711ca20a6": {
+            "box": {
+                "left": 0.5810847878456116,
+                "top": 0.21635501086711884,
+                "right": 0.7615688443183899,
+                "bottom": 0.2453785389661789
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9434cfd2-d848-420d-a123-0d8029f57a4c": {
+            "box": {
+                "left": 0.7808175086975098,
+                "top": 0.2420942187309265,
+                "right": 0.923213005065918,
+                "bottom": 0.2819633483886719
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "ff1cdf7e-aa7b-4ea3-8dc5-0394eb9f5a25": {
+            "box": {
+                "left": 0.212582528591156,
+                "top": 0.30631566047668457,
+                "right": 0.7562158107757568,
+                "bottom": 0.3430854082107544
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "625c1c7a-df04-4797-9aec-7f4f49049a3a": {
+            "box": {
+                "left": 0.2123904824256897,
+                "top": 0.35676372051239014,
+                "right": 0.7716023921966553,
+                "bottom": 0.4183771014213562
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f0e348a4-6f95-4772-bef7-7701890cf6b0": {
+            "box": {
+                "left": 0.5043174028396606,
+                "top": 0.4315662086009979,
+                "right": 0.8569378852844238,
+                "bottom": 0.5447276830673218
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "c5f29198-fde8-4e25-9354-f3e4ac4cd78b": {
+            "box": {
+                "left": 0.21288323402404785,
+                "top": 0.5372651219367981,
+                "right": 0.36182618141174316,
+                "bottom": 0.6007482409477234
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7be37811-80f8-4eba-98cd-256c78241bca": {
+            "box": {
+                "left": 0.3188859224319458,
+                "top": 0.9502165913581848,
+                "right": 0.6572228074073792,
+                "bottom": 0.9765728116035461
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "08554eba-efed-4e56-89ad-33d72da734ed": {
+            "box": {
+                "left": 0.20995557308197021,
+                "top": 0.9757255911827087,
+                "right": 0.7895994782447815,
+                "bottom": 1.0001020431518555
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "glmk0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5343,
+        "credit_usage": 3.0,
+        "job_id": "fgr2xkx0m0tdjykp9wk16vx3z",
+        "version": "dpt-2-20250919"
+    }
+}

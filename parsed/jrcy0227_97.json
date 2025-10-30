@@ -1,0 +1,413 @@
+{
+    "markdown": "<a id='2607de76-002f-41e7-b35d-1634fd407112'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nI ACKNOWLEDGE RECEIPT OF TICKET(S) AND/ OR COUPONS FOR RELATED CHARGES DESCRIBED FON. PAYMENT IN FULL TO BE MADE WHEN OR IN EXTENDED PAYMENTS IN ACCORD- AN ITH STANDARD POLICY OF COMPANY ISSUING CARD AND AS REFLECTED IN APPLICABLE TARIFFS. X dushbongh\nA handwritten signature \"dushbongh\" is present over printed text, with an 'X' mark to its left, positioned at the bottom right of the cropped image.::>\n\n<a id='10bf04a9-12ab-4d5c-8011-8ec6a0ec5bf2'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">UNIVERSAL CREDIT CARD CHARGE FORM</td></tr>\n<tr><td id=\"0-3\">EASTERN AIR LINES 007</td><td id=\"0-4\">2. CONTRACTOR INVOICE COPY</td></tr>\n<tr><td id=\"0-5\" rowspan=\"2\">DATE OF ISSUE</td><td id=\"0-6\" rowspan=\"2\">IF EXTENDED PAYMENT DESIRED, CIRCLE NO. OF MONTHS 3 6 9 12</td></tr>\n</table>\n\n<a id='edd1ce29-b3d2-4911-983a-fb7ba959ed34'></a>\n\n<::attestation: Official stamp/seal\nReadable Text: DATE AND PLACE OF ISSUE\n7 CTO NYCA\nNEW YORK NY\nText within faint circular mark: [illegible]\nA faint circular stamp/seal is present on the left, next to the text \"7 CTO NYCA\". The text is centered within a rectangular area.::>\n\n<a id='84b39fab-9b0d-4bce-86f1-e31527be80de'></a>\n\n<table id=\"0-7\">\n<tr><td id=\"0-8\" rowspan=\"2\" colspan=\"2\">faint handwritten text</td><td id=\"0-9\" rowspan=\"2\">TICKETS NOT TRANSFERABLE</td><td id=\"0-a\" colspan=\"4\">image of a gray bar with thin lines</td></tr>\n<tr><td id=\"0-b\" colspan=\"3\">FARE BASIS CARRIER (text rotated)</td><td id=\"0-c\">COMPLETE ROUTING (text upside down)</td></tr>\n<tr><td id=\"0-d\">APPROVAL CODE (text on image)</td><td id=\"0-e\" colspan=\"2\">CONNECTION OF PASSENGER WITH SUBSCRIBER (text upside down)</td><td id=\"0-f\">OTAYO NO. (text on image)</td><td id=\"0-g\" colspan=\"3\">NAME OF PASSENGER IF OTHER THAN CARDHOLDER</td></tr>\n</table>\n\n<a id='0f5f8765-b417-4900-af21-50b7955c0666'></a>\n\n<table><thead><tr><th>COMPLETE ROUTING</th><th>FARE BASIS</th><th>CARRIER</th></tr></thead><tbody><tr><td>MC</td><td>Y</td><td>EA</td></tr><tr><td>DLA</td><td>YDL</td><td>EA</td></tr><tr><td>ATL</td><td>Y</td><td>EA</td></tr><tr><td colspan=\"3\">---</td></tr><tr><td>MSY</td><td>Y</td><td>EA</td></tr><tr><td>NYC</td><td>Y</td><td>EA</td></tr></tbody></table>\n\n<a id='91922470-79d6-4da6-80d2-1a56256789e5'></a>\n\n<::attestation: Type of attestation: Signature/initials and terms of agreement\nSignature: legible (JATP)\nReadable Text: CONNECTION OF PASSENGER WITH RESERVATION\nJURRIVING DATE\nTICKETS NOT TRANSFERABLE\nNO CASH REFUNDS\nCREDIT CARD NAME/CODE\nShort description of visual elements and positioning: Handwritten initials \"JATP\" are present in a box next to terms and conditions, above a \"CREDIT CARD NAME/CODE\" label.::>\n\n<a id='f3748f99-df7f-41bd-b61a-57ce5e12b5be'></a>\n\nAIRLINE FORM SERIAL NO. FORM OF CREDIT\n\n007440/137245\n\nUA 53 12 09 \u00a5\nCITIZENS COMMISSION\nDR CHANNING H LUSHBOUGH\n\nEXP. DATE\n\n<a id='467fe0f0-ce54-4264-8254-f5fc125908af'></a>\n\n<table><thead><tr><th>FARE</th><th>TOTAL</th><th>ROUTE CODE</th></tr></thead><tbody><tr><td>187.55</td><td>202.55</td><td></td></tr><tr><td>TAX</td><td></td><td></td></tr><tr><td>15.00</td><td></td><td></td></tr><tr><td>EQU<br>AMT.</td><td></td><td></td></tr></tbody></table>\n\n<a id='896df5cf-856e-4389-980c-de3aafb5e83b'></a>\n\n01653120000",
+    "chunks": [
+        {
+            "markdown": "<a id='2607de76-002f-41e7-b35d-1634fd407112'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nI ACKNOWLEDGE RECEIPT OF TICKET(S) AND/ OR COUPONS FOR RELATED CHARGES DESCRIBED FON. PAYMENT IN FULL TO BE MADE WHEN OR IN EXTENDED PAYMENTS IN ACCORD- AN ITH STANDARD POLICY OF COMPANY ISSUING CARD AND AS REFLECTED IN APPLICABLE TARIFFS. X dushbongh\nA handwritten signature \"dushbongh\" is present over printed text, with an 'X' mark to its left, positioned at the bottom right of the cropped image.::>",
+            "type": "attestation",
+            "id": "2607de76-002f-41e7-b35d-1634fd407112",
+            "grounding": {
+                "box": {
+                    "left": 0.008332327008247375,
+                    "top": 0.020287662744522095,
+                    "right": 0.33763301372528076,
+                    "bottom": 0.2570372521877289
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='10bf04a9-12ab-4d5c-8011-8ec6a0ec5bf2'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">UNIVERSAL CREDIT CARD CHARGE FORM</td></tr>\n<tr><td id=\"0-3\">EASTERN AIR LINES 007</td><td id=\"0-4\">2. CONTRACTOR INVOICE COPY</td></tr>\n<tr><td id=\"0-5\" rowspan=\"2\">DATE OF ISSUE</td><td id=\"0-6\" rowspan=\"2\">IF EXTENDED PAYMENT DESIRED, CIRCLE NO. OF MONTHS 3 6 9 12</td></tr>\n</table>",
+            "type": "table",
+            "id": "10bf04a9-12ab-4d5c-8011-8ec6a0ec5bf2",
+            "grounding": {
+                "box": {
+                    "left": 0.33168673515319824,
+                    "top": 0.018304213881492615,
+                    "right": 0.770708441734314,
+                    "bottom": 0.25767940282821655
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='edd1ce29-b3d2-4911-983a-fb7ba959ed34'></a>\n\n<::attestation: Official stamp/seal\nReadable Text: DATE AND PLACE OF ISSUE\n7 CTO NYCA\nNEW YORK NY\nText within faint circular mark: [illegible]\nA faint circular stamp/seal is present on the left, next to the text \"7 CTO NYCA\". The text is centered within a rectangular area.::>",
+            "type": "attestation",
+            "id": "edd1ce29-b3d2-4911-983a-fb7ba959ed34",
+            "grounding": {
+                "box": {
+                    "left": 0.7630209922790527,
+                    "top": 0.015026643872261047,
+                    "right": 0.9903978109359741,
+                    "bottom": 0.4828495383262634
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='84b39fab-9b0d-4bce-86f1-e31527be80de'></a>\n\n<table id=\"0-7\">\n<tr><td id=\"0-8\" rowspan=\"2\" colspan=\"2\">faint handwritten text</td><td id=\"0-9\" rowspan=\"2\">TICKETS NOT TRANSFERABLE</td><td id=\"0-a\" colspan=\"4\">image of a gray bar with thin lines</td></tr>\n<tr><td id=\"0-b\" colspan=\"3\">FARE BASIS CARRIER (text rotated)</td><td id=\"0-c\">COMPLETE ROUTING (text upside down)</td></tr>\n<tr><td id=\"0-d\">APPROVAL CODE (text on image)</td><td id=\"0-e\" colspan=\"2\">CONNECTION OF PASSENGER WITH SUBSCRIBER (text upside down)</td><td id=\"0-f\">OTAYO NO. (text on image)</td><td id=\"0-g\" colspan=\"3\">NAME OF PASSENGER IF OTHER THAN CARDHOLDER</td></tr>\n</table>",
+            "type": "table",
+            "id": "84b39fab-9b0d-4bce-86f1-e31527be80de",
+            "grounding": {
+                "box": {
+                    "left": 0.007530122995376587,
+                    "top": 0.24213412404060364,
+                    "right": 0.7690378427505493,
+                    "bottom": 0.38703998923301697
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0f5f8765-b417-4900-af21-50b7955c0666'></a>\n\n<table><thead><tr><th>COMPLETE ROUTING</th><th>FARE BASIS</th><th>CARRIER</th></tr></thead><tbody><tr><td>MC</td><td>Y</td><td>EA</td></tr><tr><td>DLA</td><td>YDL</td><td>EA</td></tr><tr><td>ATL</td><td>Y</td><td>EA</td></tr><tr><td colspan=\"3\">---</td></tr><tr><td>MSY</td><td>Y</td><td>EA</td></tr><tr><td>NYC</td><td>Y</td><td>EA</td></tr></tbody></table>",
+            "type": "table",
+            "id": "0f5f8765-b417-4900-af21-50b7955c0666",
+            "grounding": {
+                "box": {
+                    "left": 0.009988158941268921,
+                    "top": 0.3430771827697754,
+                    "right": 0.4025234580039978,
+                    "bottom": 0.7845666408538818
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='91922470-79d6-4da6-80d2-1a56256789e5'></a>\n\n<::attestation: Type of attestation: Signature/initials and terms of agreement\nSignature: legible (JATP)\nReadable Text: CONNECTION OF PASSENGER WITH RESERVATION\nJURRIVING DATE\nTICKETS NOT TRANSFERABLE\nNO CASH REFUNDS\nCREDIT CARD NAME/CODE\nShort description of visual elements and positioning: Handwritten initials \"JATP\" are present in a box next to terms and conditions, above a \"CREDIT CARD NAME/CODE\" label.::>",
+            "type": "attestation",
+            "id": "91922470-79d6-4da6-80d2-1a56256789e5",
+            "grounding": {
+                "box": {
+                    "left": 0.3933546543121338,
+                    "top": 0.3358862102031708,
+                    "right": 0.7685922384262085,
+                    "bottom": 0.48715201020240784
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f3748f99-df7f-41bd-b61a-57ce5e12b5be'></a>\n\nAIRLINE FORM SERIAL NO. FORM OF CREDIT\n\n007440/137245\n\nUA 53 12 09 \u00a5\nCITIZENS COMMISSION\nDR CHANNING H LUSHBOUGH\n\nEXP. DATE",
+            "type": "text",
+            "id": "f3748f99-df7f-41bd-b61a-57ce5e12b5be",
+            "grounding": {
+                "box": {
+                    "left": 0.39270567893981934,
+                    "top": 0.4715860188007355,
+                    "right": 0.98663330078125,
+                    "bottom": 0.7889935970306396
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='467fe0f0-ce54-4264-8254-f5fc125908af'></a>\n\n<table><thead><tr><th>FARE</th><th>TOTAL</th><th>ROUTE CODE</th></tr></thead><tbody><tr><td>187.55</td><td>202.55</td><td></td></tr><tr><td>TAX</td><td></td><td></td></tr><tr><td>15.00</td><td></td><td></td></tr><tr><td>EQU<br>AMT.</td><td></td><td></td></tr></tbody></table>",
+            "type": "table",
+            "id": "467fe0f0-ce54-4264-8254-f5fc125908af",
+            "grounding": {
+                "box": {
+                    "left": 0.008422091603279114,
+                    "top": 0.7680404186248779,
+                    "right": 0.40188711881637573,
+                    "bottom": 0.9420753717422485
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='896df5cf-856e-4389-980c-de3aafb5e83b'></a>\n\n01653120000",
+            "type": "text",
+            "id": "896df5cf-856e-4389-980c-de3aafb5e83b",
+            "grounding": {
+                "box": {
+                    "left": 0.6849159002304077,
+                    "top": 0.8169479966163635,
+                    "right": 0.8628512620925903,
+                    "bottom": 0.8996469378471375
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2607de76-002f-41e7-b35d-1634fd407112'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nI ACKNOWLEDGE RECEIPT OF TICKET(S) AND/ OR COUPONS FOR RELATED CHARGES DESCRIBED FON. PAYMENT IN FULL TO BE MADE WHEN OR IN EXTENDED PAYMENTS IN ACCORD- AN ITH STANDARD POLICY OF COMPANY ISSUING CARD AND AS REFLECTED IN APPLICABLE TARIFFS. X dushbongh\nA handwritten signature \"dushbongh\" is present over printed text, with an 'X' mark to its left, positioned at the bottom right of the cropped image.::>\n\n<a id='10bf04a9-12ab-4d5c-8011-8ec6a0ec5bf2'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">UNIVERSAL CREDIT CARD CHARGE FORM</td></tr>\n<tr><td id=\"0-3\">EASTERN AIR LINES 007</td><td id=\"0-4\">2. CONTRACTOR INVOICE COPY</td></tr>\n<tr><td id=\"0-5\" rowspan=\"2\">DATE OF ISSUE</td><td id=\"0-6\" rowspan=\"2\">IF EXTENDED PAYMENT DESIRED, CIRCLE NO. OF MONTHS 3 6 9 12</td></tr>\n</table>\n\n<a id='edd1ce29-b3d2-4911-983a-fb7ba959ed34'></a>\n\n<::attestation: Official stamp/seal\nReadable Text: DATE AND PLACE OF ISSUE\n7 CTO NYCA\nNEW YORK NY\nText within faint circular mark: [illegible]\nA faint circular stamp/seal is present on the left, next to the text \"7 CTO NYCA\". The text is centered within a rectangular area.::>\n\n<a id='84b39fab-9b0d-4bce-86f1-e31527be80de'></a>\n\n<table id=\"0-7\">\n<tr><td id=\"0-8\" rowspan=\"2\" colspan=\"2\">faint handwritten text</td><td id=\"0-9\" rowspan=\"2\">TICKETS NOT TRANSFERABLE</td><td id=\"0-a\" colspan=\"4\">image of a gray bar with thin lines</td></tr>\n<tr><td id=\"0-b\" colspan=\"3\">FARE BASIS CARRIER (text rotated)</td><td id=\"0-c\">COMPLETE ROUTING (text upside down)</td></tr>\n<tr><td id=\"0-d\">APPROVAL CODE (text on image)</td><td id=\"0-e\" colspan=\"2\">CONNECTION OF PASSENGER WITH SUBSCRIBER (text upside down)</td><td id=\"0-f\">OTAYO NO. (text on image)</td><td id=\"0-g\" colspan=\"3\">NAME OF PASSENGER IF OTHER THAN CARDHOLDER</td></tr>\n</table>\n\n<a id='0f5f8765-b417-4900-af21-50b7955c0666'></a>\n\n<table><thead><tr><th>COMPLETE ROUTING</th><th>FARE BASIS</th><th>CARRIER</th></tr></thead><tbody><tr><td>MC</td><td>Y</td><td>EA</td></tr><tr><td>DLA</td><td>YDL</td><td>EA</td></tr><tr><td>ATL</td><td>Y</td><td>EA</td></tr><tr><td colspan=\"3\">---</td></tr><tr><td>MSY</td><td>Y</td><td>EA</td></tr><tr><td>NYC</td><td>Y</td><td>EA</td></tr></tbody></table>\n\n<a id='91922470-79d6-4da6-80d2-1a56256789e5'></a>\n\n<::attestation: Type of attestation: Signature/initials and terms of agreement\nSignature: legible (JATP)\nReadable Text: CONNECTION OF PASSENGER WITH RESERVATION\nJURRIVING DATE\nTICKETS NOT TRANSFERABLE\nNO CASH REFUNDS\nCREDIT CARD NAME/CODE\nShort description of visual elements and positioning: Handwritten initials \"JATP\" are present in a box next to terms and conditions, above a \"CREDIT CARD NAME/CODE\" label.::>\n\n<a id='f3748f99-df7f-41bd-b61a-57ce5e12b5be'></a>\n\nAIRLINE FORM SERIAL NO. FORM OF CREDIT\n\n007440/137245\n\nUA 53 12 09 \u00a5\nCITIZENS COMMISSION\nDR CHANNING H LUSHBOUGH\n\nEXP. DATE\n\n<a id='467fe0f0-ce54-4264-8254-f5fc125908af'></a>\n\n<table><thead><tr><th>FARE</th><th>TOTAL</th><th>ROUTE CODE</th></tr></thead><tbody><tr><td>187.55</td><td>202.55</td><td></td></tr><tr><td>TAX</td><td></td><td></td></tr><tr><td>15.00</td><td></td><td></td></tr><tr><td>EQU<br>AMT.</td><td></td><td></td></tr></tbody></table>\n\n<a id='896df5cf-856e-4389-980c-de3aafb5e83b'></a>\n\n01653120000",
+            "chunks": [
+                "2607de76-002f-41e7-b35d-1634fd407112",
+                "10bf04a9-12ab-4d5c-8011-8ec6a0ec5bf2",
+                "edd1ce29-b3d2-4911-983a-fb7ba959ed34",
+                "84b39fab-9b0d-4bce-86f1-e31527be80de",
+                "0f5f8765-b417-4900-af21-50b7955c0666",
+                "91922470-79d6-4da6-80d2-1a56256789e5",
+                "f3748f99-df7f-41bd-b61a-57ce5e12b5be",
+                "467fe0f0-ce54-4264-8254-f5fc125908af",
+                "896df5cf-856e-4389-980c-de3aafb5e83b"
+            ]
+        }
+    ],
+    "grounding": {
+        "2607de76-002f-41e7-b35d-1634fd407112": {
+            "box": {
+                "left": 0.008332327008247375,
+                "top": 0.020287662744522095,
+                "right": 0.33763301372528076,
+                "bottom": 0.2570372521877289
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "10bf04a9-12ab-4d5c-8011-8ec6a0ec5bf2": {
+            "box": {
+                "left": 0.33168673515319824,
+                "top": 0.018304213881492615,
+                "right": 0.770708441734314,
+                "bottom": 0.25767940282821655
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.3378745216335812,
+                "top": 0.025407953818284285,
+                "right": 0.766283556609288,
+                "bottom": 0.25194321846436285
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.3378745216335812,
+                "top": 0.025407953818284285,
+                "right": 0.7661107187336853,
+                "bottom": 0.12991099867149458
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3378745216335812,
+                "top": 0.07324401472105446,
+                "right": 0.5723000332616692,
+                "bottom": 0.12991099867149458
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5723000332616692,
+                "top": 0.07324401472105446,
+                "right": 0.7661107187336853,
+                "bottom": 0.12991099867149458
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.3378745216335812,
+                "top": 0.12991099867149458,
+                "right": 0.7661107187336853,
+                "bottom": 0.25194321846436285
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.5723000332616692,
+                "top": 0.12991099867149458,
+                "right": 0.7661107187336853,
+                "bottom": 0.25194321846436285
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "edd1ce29-b3d2-4911-983a-fb7ba959ed34": {
+            "box": {
+                "left": 0.7630209922790527,
+                "top": 0.015026643872261047,
+                "right": 0.9903978109359741,
+                "bottom": 0.4828495383262634
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "84b39fab-9b0d-4bce-86f1-e31527be80de": {
+            "box": {
+                "left": 0.007530122995376587,
+                "top": 0.24213412404060364,
+                "right": 0.7690378427505493,
+                "bottom": 0.38703998923301697
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.7658695266627031,
+                "top": 0.38702698181671025,
+                "right": 0.01148477350961008,
+                "bottom": 0.2518477576501521
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.29841526872066293,
+                "top": 0.3442449936265852,
+                "right": 0.01349553018534086,
+                "bottom": 0.2518477576501521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.39913381897345523,
+                "top": 0.3442449936265852,
+                "right": 0.29841526872066293,
+                "bottom": 0.2518477576501521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6480438714946075,
+                "top": 0.3442449936265852,
+                "right": 0.29841526872066293,
+                "bottom": 0.2518477576501521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7658695266627031,
+                "top": 0.3442449936265852,
+                "right": 0.6480438714946075,
+                "bottom": 0.2518477576501521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.2735114228080997,
+                "top": 0.3729542529322316,
+                "right": 0.01349553018534086,
+                "bottom": 0.3442449936265852
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.39913381897345523,
+                "top": 0.3729542529322316,
+                "right": 0.01349553018534086,
+                "bottom": 0.2518477576501521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.39913381897345523,
+                "top": 0.38702698181671025,
+                "right": 0.01349553018534086,
+                "bottom": 0.3442449936265852
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5969152120448147,
+                "top": 0.38702698181671025,
+                "right": 0.29841526872066293,
+                "bottom": 0.2518477576501521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7658695266627031,
+                "top": 0.38702698181671025,
+                "right": 0.39913381897345523,
+                "bottom": 0.2518477576501521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0f5f8765-b417-4900-af21-50b7955c0666": {
+            "box": {
+                "left": 0.009988158941268921,
+                "top": 0.3430771827697754,
+                "right": 0.4025234580039978,
+                "bottom": 0.7845666408538818
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "91922470-79d6-4da6-80d2-1a56256789e5": {
+            "box": {
+                "left": 0.3933546543121338,
+                "top": 0.3358862102031708,
+                "right": 0.7685922384262085,
+                "bottom": 0.48715201020240784
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "f3748f99-df7f-41bd-b61a-57ce5e12b5be": {
+            "box": {
+                "left": 0.39270567893981934,
+                "top": 0.4715860188007355,
+                "right": 0.98663330078125,
+                "bottom": 0.7889935970306396
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "467fe0f0-ce54-4264-8254-f5fc125908af": {
+            "box": {
+                "left": 0.008422091603279114,
+                "top": 0.7680404186248779,
+                "right": 0.40188711881637573,
+                "bottom": 0.9420753717422485
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "896df5cf-856e-4389-980c-de3aafb5e83b": {
+            "box": {
+                "left": 0.6849159002304077,
+                "top": 0.8169479966163635,
+                "right": 0.8628512620925903,
+                "bottom": 0.8996469378471375
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "jrcy0227_97.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9253,
+        "credit_usage": 3.0,
+        "job_id": "m5rfmtxf46pgvy0lcho8shc2k",
+        "version": "dpt-2-20250919"
+    }
+}

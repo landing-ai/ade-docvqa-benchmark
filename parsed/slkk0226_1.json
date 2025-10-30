@@ -1,0 +1,303 @@
+{
+    "markdown": "<a id='3e1003c9-1621-4548-914d-8027c5e22eb2'></a>\n\nTHE\nGreat\nWestern\nSugar\nCOMPANY\n\n<a id='01a6b452-bdeb-410f-a8c3-6bd00c18fe7f'></a>\n\n<::logo: Unknown\nNone\nA circular logo featuring a central tear-drop shape with five radiating leaf-like elements above it, all in a monochrome style.::>\n\n<a id='4f8c52ef-f44c-45af-b933-54c6de9aa97e'></a>\n\nMarch 8, 1978\n\n<a id='3c7c7200-e5cb-4f01-a7ab-a6e8c3bfa651'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nTO: GREAT WESTERN SUGAR DEPARTMENT HEADS\nFROM: Jack B. Powell\nSUBJECT: HISTORIC PRESERVATION\nA handwritten signature \"Jack\" is placed above and slightly to the right of the typed name \"Jack B. Powell\", which is next to \"FROM:\".::>\n\n<a id='bc50fde8-013c-4304-bcab-ec8f9d304fe7'></a>\n\nThis letter is to introduce Dena S. Markoff, a graduate student at the\nUniversity of Colorado. She is presently working on a survey of the\nbeet sugar industry in Colorado as a practicum for a Historic Preservation\nclass. The survey is being done through the State Historical Society\nof Colorado.\n\n<a id='46064a1c-b118-4f52-bdde-4dad90e8bf97'></a>\n\nPlease give Ms. Markoff access to any photographs your department has. She will make Xerox copies of photos needed for the survey and then make arrangements at a later date to copy the appropriate ones as photographs.\n\n<a id='b8fe1702-8ec4-4e99-9f56-88154c610e9d'></a>\n\nPlease call me if you have any questions.\n\n<a id='9f099f4d-708a-43c9-8133-c22682ad6f93'></a>\n\nBy May 9 -\n\n<a id='8c3187cd-6281-4b92-a78c-a6cdf8e349b8'></a>\n\n492-6114\n\n<a id='f389b4f2-2321-4fc7-81f4-eed01a24b032'></a>\n\nPOST OFFICE BOX 5308 \u2022 DENVER, COLORADO 80217 \u2022 (303) 593-4600 \u2022 A SUBSIDIARY OF GREAT WESTERN UNITED CORPORATION\n\n<a id='9a53416a-b40b-4f90-9552-0e81b2a1bb04'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/slkk0226",
+    "chunks": [
+        {
+            "markdown": "<a id='3e1003c9-1621-4548-914d-8027c5e22eb2'></a>\n\nTHE\nGreat\nWestern\nSugar\nCOMPANY",
+            "type": "text",
+            "id": "3e1003c9-1621-4548-914d-8027c5e22eb2",
+            "grounding": {
+                "box": {
+                    "left": 0.6627680659294128,
+                    "top": 0.0039020106196403503,
+                    "right": 0.8038060069084167,
+                    "bottom": 0.11097194254398346
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='01a6b452-bdeb-410f-a8c3-6bd00c18fe7f'></a>\n\n<::logo: Unknown\nNone\nA circular logo featuring a central tear-drop shape with five radiating leaf-like elements above it, all in a monochrome style.::>",
+            "type": "logo",
+            "id": "01a6b452-bdeb-410f-a8c3-6bd00c18fe7f",
+            "grounding": {
+                "box": {
+                    "left": 0.8210601210594177,
+                    "top": 0.0009537078440189362,
+                    "right": 0.9689787030220032,
+                    "bottom": 0.11420691013336182
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4f8c52ef-f44c-45af-b933-54c6de9aa97e'></a>\n\nMarch 8, 1978",
+            "type": "text",
+            "id": "4f8c52ef-f44c-45af-b933-54c6de9aa97e",
+            "grounding": {
+                "box": {
+                    "left": 0.6856324076652527,
+                    "top": 0.15525756776332855,
+                    "right": 0.8414090275764465,
+                    "bottom": 0.17861030995845795
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3c7c7200-e5cb-4f01-a7ab-a6e8c3bfa651'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nTO: GREAT WESTERN SUGAR DEPARTMENT HEADS\nFROM: Jack B. Powell\nSUBJECT: HISTORIC PRESERVATION\nA handwritten signature \"Jack\" is placed above and slightly to the right of the typed name \"Jack B. Powell\", which is next to \"FROM:\".::>",
+            "type": "attestation",
+            "id": "3c7c7200-e5cb-4f01-a7ab-a6e8c3bfa651",
+            "grounding": {
+                "box": {
+                    "left": 0.15272533893585205,
+                    "top": 0.22529232501983643,
+                    "right": 0.7369876503944397,
+                    "bottom": 0.3227730393409729
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bc50fde8-013c-4304-bcab-ec8f9d304fe7'></a>\n\nThis letter is to introduce Dena S. Markoff, a graduate student at the\nUniversity of Colorado. She is presently working on a survey of the\nbeet sugar industry in Colorado as a practicum for a Historic Preservation\nclass. The survey is being done through the State Historical Society\nof Colorado.",
+            "type": "text",
+            "id": "bc50fde8-013c-4304-bcab-ec8f9d304fe7",
+            "grounding": {
+                "box": {
+                    "left": 0.15480297803878784,
+                    "top": 0.45447272062301636,
+                    "right": 0.8901382088661194,
+                    "bottom": 0.5486748814582825
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='46064a1c-b118-4f52-bdde-4dad90e8bf97'></a>\n\nPlease give Ms. Markoff access to any photographs your department has. She will make Xerox copies of photos needed for the survey and then make arrangements at a later date to copy the appropriate ones as photographs.",
+            "type": "text",
+            "id": "46064a1c-b118-4f52-bdde-4dad90e8bf97",
+            "grounding": {
+                "box": {
+                    "left": 0.15571627020835876,
+                    "top": 0.5600789189338684,
+                    "right": 0.8622168302536011,
+                    "bottom": 0.6370478272438049
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b8fe1702-8ec4-4e99-9f56-88154c610e9d'></a>\n\nPlease call me if you have any questions.",
+            "type": "text",
+            "id": "b8fe1702-8ec4-4e99-9f56-88154c610e9d",
+            "grounding": {
+                "box": {
+                    "left": 0.15489421784877777,
+                    "top": 0.6475203633308411,
+                    "right": 0.5811542272567749,
+                    "bottom": 0.6736662983894348
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9f099f4d-708a-43c9-8133-c22682ad6f93'></a>\n\nBy May 9 -",
+            "type": "text",
+            "id": "9f099f4d-708a-43c9-8133-c22682ad6f93",
+            "grounding": {
+                "box": {
+                    "left": 0.5731381773948669,
+                    "top": 0.8400094509124756,
+                    "right": 0.8353294730186462,
+                    "bottom": 0.8991503715515137
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8c3187cd-6281-4b92-a78c-a6cdf8e349b8'></a>\n\n492-6114",
+            "type": "text",
+            "id": "8c3187cd-6281-4b92-a78c-a6cdf8e349b8",
+            "grounding": {
+                "box": {
+                    "left": 0.5751643776893616,
+                    "top": 0.9016194343566895,
+                    "right": 0.7745742201805115,
+                    "bottom": 0.9427400827407837
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f389b4f2-2321-4fc7-81f4-eed01a24b032'></a>\n\nPOST OFFICE BOX 5308 \u2022 DENVER, COLORADO 80217 \u2022 (303) 593-4600 \u2022 A SUBSIDIARY OF GREAT WESTERN UNITED CORPORATION",
+            "type": "text",
+            "id": "f389b4f2-2321-4fc7-81f4-eed01a24b032",
+            "grounding": {
+                "box": {
+                    "left": 0.09752961993217468,
+                    "top": 0.941985011100769,
+                    "right": 0.9008760452270508,
+                    "bottom": 0.9643207788467407
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9a53416a-b40b-4f90-9552-0e81b2a1bb04'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/slkk0226",
+            "type": "text",
+            "id": "9a53416a-b40b-4f90-9552-0e81b2a1bb04",
+            "grounding": {
+                "box": {
+                    "left": 0.22106435894966125,
+                    "top": 0.9793704152107239,
+                    "right": 0.781625509262085,
+                    "bottom": 0.9985176920890808
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3e1003c9-1621-4548-914d-8027c5e22eb2'></a>\n\nTHE\nGreat\nWestern\nSugar\nCOMPANY\n\n<a id='01a6b452-bdeb-410f-a8c3-6bd00c18fe7f'></a>\n\n<::logo: Unknown\nNone\nA circular logo featuring a central tear-drop shape with five radiating leaf-like elements above it, all in a monochrome style.::>\n\n<a id='4f8c52ef-f44c-45af-b933-54c6de9aa97e'></a>\n\nMarch 8, 1978\n\n<a id='3c7c7200-e5cb-4f01-a7ab-a6e8c3bfa651'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nTO: GREAT WESTERN SUGAR DEPARTMENT HEADS\nFROM: Jack B. Powell\nSUBJECT: HISTORIC PRESERVATION\nA handwritten signature \"Jack\" is placed above and slightly to the right of the typed name \"Jack B. Powell\", which is next to \"FROM:\".::>\n\n<a id='bc50fde8-013c-4304-bcab-ec8f9d304fe7'></a>\n\nThis letter is to introduce Dena S. Markoff, a graduate student at the\nUniversity of Colorado. She is presently working on a survey of the\nbeet sugar industry in Colorado as a practicum for a Historic Preservation\nclass. The survey is being done through the State Historical Society\nof Colorado.\n\n<a id='46064a1c-b118-4f52-bdde-4dad90e8bf97'></a>\n\nPlease give Ms. Markoff access to any photographs your department has. She will make Xerox copies of photos needed for the survey and then make arrangements at a later date to copy the appropriate ones as photographs.\n\n<a id='b8fe1702-8ec4-4e99-9f56-88154c610e9d'></a>\n\nPlease call me if you have any questions.\n\n<a id='9f099f4d-708a-43c9-8133-c22682ad6f93'></a>\n\nBy May 9 -\n\n<a id='8c3187cd-6281-4b92-a78c-a6cdf8e349b8'></a>\n\n492-6114\n\n<a id='f389b4f2-2321-4fc7-81f4-eed01a24b032'></a>\n\nPOST OFFICE BOX 5308 \u2022 DENVER, COLORADO 80217 \u2022 (303) 593-4600 \u2022 A SUBSIDIARY OF GREAT WESTERN UNITED CORPORATION\n\n<a id='9a53416a-b40b-4f90-9552-0e81b2a1bb04'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/slkk0226",
+            "chunks": [
+                "3e1003c9-1621-4548-914d-8027c5e22eb2",
+                "01a6b452-bdeb-410f-a8c3-6bd00c18fe7f",
+                "4f8c52ef-f44c-45af-b933-54c6de9aa97e",
+                "3c7c7200-e5cb-4f01-a7ab-a6e8c3bfa651",
+                "bc50fde8-013c-4304-bcab-ec8f9d304fe7",
+                "46064a1c-b118-4f52-bdde-4dad90e8bf97",
+                "b8fe1702-8ec4-4e99-9f56-88154c610e9d",
+                "9f099f4d-708a-43c9-8133-c22682ad6f93",
+                "8c3187cd-6281-4b92-a78c-a6cdf8e349b8",
+                "f389b4f2-2321-4fc7-81f4-eed01a24b032",
+                "9a53416a-b40b-4f90-9552-0e81b2a1bb04"
+            ]
+        }
+    ],
+    "grounding": {
+        "3e1003c9-1621-4548-914d-8027c5e22eb2": {
+            "box": {
+                "left": 0.6627680659294128,
+                "top": 0.0039020106196403503,
+                "right": 0.8038060069084167,
+                "bottom": 0.11097194254398346
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "01a6b452-bdeb-410f-a8c3-6bd00c18fe7f": {
+            "box": {
+                "left": 0.8210601210594177,
+                "top": 0.0009537078440189362,
+                "right": 0.9689787030220032,
+                "bottom": 0.11420691013336182
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "4f8c52ef-f44c-45af-b933-54c6de9aa97e": {
+            "box": {
+                "left": 0.6856324076652527,
+                "top": 0.15525756776332855,
+                "right": 0.8414090275764465,
+                "bottom": 0.17861030995845795
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3c7c7200-e5cb-4f01-a7ab-a6e8c3bfa651": {
+            "box": {
+                "left": 0.15272533893585205,
+                "top": 0.22529232501983643,
+                "right": 0.7369876503944397,
+                "bottom": 0.3227730393409729
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "bc50fde8-013c-4304-bcab-ec8f9d304fe7": {
+            "box": {
+                "left": 0.15480297803878784,
+                "top": 0.45447272062301636,
+                "right": 0.8901382088661194,
+                "bottom": 0.5486748814582825
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "46064a1c-b118-4f52-bdde-4dad90e8bf97": {
+            "box": {
+                "left": 0.15571627020835876,
+                "top": 0.5600789189338684,
+                "right": 0.8622168302536011,
+                "bottom": 0.6370478272438049
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b8fe1702-8ec4-4e99-9f56-88154c610e9d": {
+            "box": {
+                "left": 0.15489421784877777,
+                "top": 0.6475203633308411,
+                "right": 0.5811542272567749,
+                "bottom": 0.6736662983894348
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9f099f4d-708a-43c9-8133-c22682ad6f93": {
+            "box": {
+                "left": 0.5731381773948669,
+                "top": 0.8400094509124756,
+                "right": 0.8353294730186462,
+                "bottom": 0.8991503715515137
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8c3187cd-6281-4b92-a78c-a6cdf8e349b8": {
+            "box": {
+                "left": 0.5751643776893616,
+                "top": 0.9016194343566895,
+                "right": 0.7745742201805115,
+                "bottom": 0.9427400827407837
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f389b4f2-2321-4fc7-81f4-eed01a24b032": {
+            "box": {
+                "left": 0.09752961993217468,
+                "top": 0.941985011100769,
+                "right": 0.9008760452270508,
+                "bottom": 0.9643207788467407
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9a53416a-b40b-4f90-9552-0e81b2a1bb04": {
+            "box": {
+                "left": 0.22106435894966125,
+                "top": 0.9793704152107239,
+                "right": 0.781625509262085,
+                "bottom": 0.9985176920890808
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "slkk0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5324,
+        "credit_usage": 3.0,
+        "job_id": "wzqi0q7xbcw5vwfzubnpfv7lp",
+        "version": "dpt-2-20250919"
+    }
+}

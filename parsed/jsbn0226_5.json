@@ -1,0 +1,883 @@
+{
+    "markdown": "<a id='cedae229-2ab2-46e8-aadb-5c0d4170a132'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">#</td><td id=\"0-3\">DESCRIPTION</td><td id=\"0-4\">EIF</td><td id=\"0-5\">VALUE</td><td id=\"0-6\">INCOME TYPE</td><td id=\"0-7\">INCOME AMOUNT</td></tr>\n<tr><td id=\"0-8\">5</td><td id=\"0-9\">Personal loan to Mr. Workman</td><td id=\"0-a\">N/A</td><td id=\"0-b\">$1,001 - $15,000</td><td id=\"0-c\">Interest</td><td id=\"0-d\">$201 - $1,000</td></tr>\n<tr><td id=\"0-e\">6</td><td id=\"0-f\">Dourson, Dourson and Fowler, a General Partnership owning undeveloped land (Stanton, Kentucky)</td><td id=\"0-g\">N/A</td><td id=\"0-h\">$15,001 - $50,000</td><td id=\"0-i\"></td><td id=\"0-j\">None (or less than $201)</td></tr>\n<tr><td id=\"0-k\">7</td><td id=\"0-l\">Residential real estate, Cincinnati, Ohio</td><td id=\"0-m\">N/A</td><td id=\"0-n\">$100,001 - $250,000</td><td id=\"0-o\">Rent or Royalties</td><td id=\"0-p\">$5,001 - $15,000</td></tr>\n<tr><td id=\"0-q\">8</td><td id=\"0-r\">Thrivent Financial Variable Annuity #1</td><td id=\"0-s\">No</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">8.1</td><td id=\"0-x\">Aggressive allocation portfolio</td><td id=\"0-y\">Yes</td><td id=\"0-z\">$50,001 - $100,000</td><td id=\"0-A\"></td><td id=\"0-B\">None (or less than $201)</td></tr>\n<tr><td id=\"0-C\">8.2</td><td id=\"0-D\">Limited maturity bond portfolio</td><td id=\"0-E\">Yes</td><td id=\"0-F\">$15,001 - $50,000</td><td id=\"0-G\"></td><td id=\"0-H\">None (or less than $201)</td></tr>\n<tr><td id=\"0-I\">9</td><td id=\"0-J\">Thrivent Financial Variable Annuity #2: Aggressive Allocation Portfolio</td><td id=\"0-K\">Yes</td><td id=\"0-L\">$100,001 - $250,000</td><td id=\"0-M\"></td><td id=\"0-N\">None (or less than $201)</td></tr>\n</table>\n\n<a id='c42e0add-c584-433e-9285-20c8545570eb'></a>\n\n7. Transactions\n(N/A) - Not required for this type of report\n...\n8. Liabilities\n<table id=\"0-O\">\n<tr><td id=\"0-P\">#</td><td id=\"0-Q\">CREDITOR NAME</td><td id=\"0-R\">TYPE</td><td id=\"0-S\">AMOUNT</td><td id=\"0-T\">YEAR INCURRED</td><td id=\"0-U\">RATE</td><td id=\"0-V\">TERM</td></tr>\n<tr><td id=\"0-W\">1</td><td id=\"0-X\">Union Savings, Cincinnati, Ohio</td><td id=\"0-Y\">Mortgage (investment/rental property)</td><td id=\"0-Z\">$100,001 - $250,000</td><td id=\"0-10\">2016</td><td id=\"0-11\">3.25</td><td id=\"0-12\">10 years</td></tr>\n<tr><td id=\"0-13\">2</td><td id=\"0-14\">U.S. Bank, Lucas, Ohio</td><td id=\"0-15\">Mortgage on Personal Residence</td><td id=\"0-16\">$100,001 - $250,000</td><td id=\"0-17\">2006</td><td id=\"0-18\">2.99</td><td id=\"0-19\">15 years</td></tr>\n<tr><td id=\"0-1a\">3</td><td id=\"0-1b\">Whitaker Bank, Stanton, Kentucky</td><td id=\"0-1c\">Mortgage (investment/rental property)</td><td id=\"0-1d\">$100,001 - $250,000</td><td id=\"0-1e\">2010</td><td id=\"0-1f\">variable</td><td id=\"0-1g\">15 year</td></tr>\n</table>\n\n<a id='0dd219b9-7b7d-4c1f-8953-d42fc6aa29a1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jsbn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='cedae229-2ab2-46e8-aadb-5c0d4170a132'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">#</td><td id=\"0-3\">DESCRIPTION</td><td id=\"0-4\">EIF</td><td id=\"0-5\">VALUE</td><td id=\"0-6\">INCOME TYPE</td><td id=\"0-7\">INCOME AMOUNT</td></tr>\n<tr><td id=\"0-8\">5</td><td id=\"0-9\">Personal loan to Mr. Workman</td><td id=\"0-a\">N/A</td><td id=\"0-b\">$1,001 - $15,000</td><td id=\"0-c\">Interest</td><td id=\"0-d\">$201 - $1,000</td></tr>\n<tr><td id=\"0-e\">6</td><td id=\"0-f\">Dourson, Dourson and Fowler, a General Partnership owning undeveloped land (Stanton, Kentucky)</td><td id=\"0-g\">N/A</td><td id=\"0-h\">$15,001 - $50,000</td><td id=\"0-i\"></td><td id=\"0-j\">None (or less than $201)</td></tr>\n<tr><td id=\"0-k\">7</td><td id=\"0-l\">Residential real estate, Cincinnati, Ohio</td><td id=\"0-m\">N/A</td><td id=\"0-n\">$100,001 - $250,000</td><td id=\"0-o\">Rent or Royalties</td><td id=\"0-p\">$5,001 - $15,000</td></tr>\n<tr><td id=\"0-q\">8</td><td id=\"0-r\">Thrivent Financial Variable Annuity #1</td><td id=\"0-s\">No</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">8.1</td><td id=\"0-x\">Aggressive allocation portfolio</td><td id=\"0-y\">Yes</td><td id=\"0-z\">$50,001 - $100,000</td><td id=\"0-A\"></td><td id=\"0-B\">None (or less than $201)</td></tr>\n<tr><td id=\"0-C\">8.2</td><td id=\"0-D\">Limited maturity bond portfolio</td><td id=\"0-E\">Yes</td><td id=\"0-F\">$15,001 - $50,000</td><td id=\"0-G\"></td><td id=\"0-H\">None (or less than $201)</td></tr>\n<tr><td id=\"0-I\">9</td><td id=\"0-J\">Thrivent Financial Variable Annuity #2: Aggressive Allocation Portfolio</td><td id=\"0-K\">Yes</td><td id=\"0-L\">$100,001 - $250,000</td><td id=\"0-M\"></td><td id=\"0-N\">None (or less than $201)</td></tr>\n</table>",
+            "type": "table",
+            "id": "cedae229-2ab2-46e8-aadb-5c0d4170a132",
+            "grounding": {
+                "box": {
+                    "left": 0.029180020093917847,
+                    "top": 0.05833081901073456,
+                    "right": 0.8710598945617676,
+                    "bottom": 0.45775675773620605
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c42e0add-c584-433e-9285-20c8545570eb'></a>\n\n7. Transactions\n(N/A) - Not required for this type of report\n...\n8. Liabilities\n<table id=\"0-O\">\n<tr><td id=\"0-P\">#</td><td id=\"0-Q\">CREDITOR NAME</td><td id=\"0-R\">TYPE</td><td id=\"0-S\">AMOUNT</td><td id=\"0-T\">YEAR INCURRED</td><td id=\"0-U\">RATE</td><td id=\"0-V\">TERM</td></tr>\n<tr><td id=\"0-W\">1</td><td id=\"0-X\">Union Savings, Cincinnati, Ohio</td><td id=\"0-Y\">Mortgage (investment/rental property)</td><td id=\"0-Z\">$100,001 - $250,000</td><td id=\"0-10\">2016</td><td id=\"0-11\">3.25</td><td id=\"0-12\">10 years</td></tr>\n<tr><td id=\"0-13\">2</td><td id=\"0-14\">U.S. Bank, Lucas, Ohio</td><td id=\"0-15\">Mortgage on Personal Residence</td><td id=\"0-16\">$100,001 - $250,000</td><td id=\"0-17\">2006</td><td id=\"0-18\">2.99</td><td id=\"0-19\">15 years</td></tr>\n<tr><td id=\"0-1a\">3</td><td id=\"0-1b\">Whitaker Bank, Stanton, Kentucky</td><td id=\"0-1c\">Mortgage (investment/rental property)</td><td id=\"0-1d\">$100,001 - $250,000</td><td id=\"0-1e\">2010</td><td id=\"0-1f\">variable</td><td id=\"0-1g\">15 year</td></tr>\n</table>",
+            "type": "table",
+            "id": "c42e0add-c584-433e-9285-20c8545570eb",
+            "grounding": {
+                "box": {
+                    "left": 0.028941810131072998,
+                    "top": 0.4889587163925171,
+                    "right": 0.9715554118156433,
+                    "bottom": 0.9206876754760742
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0dd219b9-7b7d-4c1f-8953-d42fc6aa29a1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jsbn0226",
+            "type": "marginalia",
+            "id": "0dd219b9-7b7d-4c1f-8953-d42fc6aa29a1",
+            "grounding": {
+                "box": {
+                    "left": 0.29177629947662354,
+                    "top": 0.9681576490402222,
+                    "right": 0.7081669569015503,
+                    "bottom": 1.0001393556594849
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='cedae229-2ab2-46e8-aadb-5c0d4170a132'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">#</td><td id=\"0-3\">DESCRIPTION</td><td id=\"0-4\">EIF</td><td id=\"0-5\">VALUE</td><td id=\"0-6\">INCOME TYPE</td><td id=\"0-7\">INCOME AMOUNT</td></tr>\n<tr><td id=\"0-8\">5</td><td id=\"0-9\">Personal loan to Mr. Workman</td><td id=\"0-a\">N/A</td><td id=\"0-b\">$1,001 - $15,000</td><td id=\"0-c\">Interest</td><td id=\"0-d\">$201 - $1,000</td></tr>\n<tr><td id=\"0-e\">6</td><td id=\"0-f\">Dourson, Dourson and Fowler, a General Partnership owning undeveloped land (Stanton, Kentucky)</td><td id=\"0-g\">N/A</td><td id=\"0-h\">$15,001 - $50,000</td><td id=\"0-i\"></td><td id=\"0-j\">None (or less than $201)</td></tr>\n<tr><td id=\"0-k\">7</td><td id=\"0-l\">Residential real estate, Cincinnati, Ohio</td><td id=\"0-m\">N/A</td><td id=\"0-n\">$100,001 - $250,000</td><td id=\"0-o\">Rent or Royalties</td><td id=\"0-p\">$5,001 - $15,000</td></tr>\n<tr><td id=\"0-q\">8</td><td id=\"0-r\">Thrivent Financial Variable Annuity #1</td><td id=\"0-s\">No</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">8.1</td><td id=\"0-x\">Aggressive allocation portfolio</td><td id=\"0-y\">Yes</td><td id=\"0-z\">$50,001 - $100,000</td><td id=\"0-A\"></td><td id=\"0-B\">None (or less than $201)</td></tr>\n<tr><td id=\"0-C\">8.2</td><td id=\"0-D\">Limited maturity bond portfolio</td><td id=\"0-E\">Yes</td><td id=\"0-F\">$15,001 - $50,000</td><td id=\"0-G\"></td><td id=\"0-H\">None (or less than $201)</td></tr>\n<tr><td id=\"0-I\">9</td><td id=\"0-J\">Thrivent Financial Variable Annuity #2: Aggressive Allocation Portfolio</td><td id=\"0-K\">Yes</td><td id=\"0-L\">$100,001 - $250,000</td><td id=\"0-M\"></td><td id=\"0-N\">None (or less than $201)</td></tr>\n</table>\n\n<a id='c42e0add-c584-433e-9285-20c8545570eb'></a>\n\n7. Transactions\n(N/A) - Not required for this type of report\n...\n8. Liabilities\n<table id=\"0-O\">\n<tr><td id=\"0-P\">#</td><td id=\"0-Q\">CREDITOR NAME</td><td id=\"0-R\">TYPE</td><td id=\"0-S\">AMOUNT</td><td id=\"0-T\">YEAR INCURRED</td><td id=\"0-U\">RATE</td><td id=\"0-V\">TERM</td></tr>\n<tr><td id=\"0-W\">1</td><td id=\"0-X\">Union Savings, Cincinnati, Ohio</td><td id=\"0-Y\">Mortgage (investment/rental property)</td><td id=\"0-Z\">$100,001 - $250,000</td><td id=\"0-10\">2016</td><td id=\"0-11\">3.25</td><td id=\"0-12\">10 years</td></tr>\n<tr><td id=\"0-13\">2</td><td id=\"0-14\">U.S. Bank, Lucas, Ohio</td><td id=\"0-15\">Mortgage on Personal Residence</td><td id=\"0-16\">$100,001 - $250,000</td><td id=\"0-17\">2006</td><td id=\"0-18\">2.99</td><td id=\"0-19\">15 years</td></tr>\n<tr><td id=\"0-1a\">3</td><td id=\"0-1b\">Whitaker Bank, Stanton, Kentucky</td><td id=\"0-1c\">Mortgage (investment/rental property)</td><td id=\"0-1d\">$100,001 - $250,000</td><td id=\"0-1e\">2010</td><td id=\"0-1f\">variable</td><td id=\"0-1g\">15 year</td></tr>\n</table>\n\n<a id='0dd219b9-7b7d-4c1f-8953-d42fc6aa29a1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jsbn0226",
+            "chunks": [
+                "cedae229-2ab2-46e8-aadb-5c0d4170a132",
+                "c42e0add-c584-433e-9285-20c8545570eb",
+                "0dd219b9-7b7d-4c1f-8953-d42fc6aa29a1"
+            ]
+        }
+    ],
+    "grounding": {
+        "cedae229-2ab2-46e8-aadb-5c0d4170a132": {
+            "box": {
+                "left": 0.029180020093917847,
+                "top": 0.05833081901073456,
+                "right": 0.8710598945617676,
+                "bottom": 0.45775675773620605
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.03575913854130608,
+                "top": 0.06289723581764715,
+                "right": 0.8639795034952513,
+                "bottom": 0.44779842615557275
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.03575913854130608,
+                "top": 0.06289723581764715,
+                "right": 0.06473355337681619,
+                "bottom": 0.1116432996911032
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.06473355337681619,
+                "top": 0.06289723581764715,
+                "right": 0.3270742768905128,
+                "bottom": 0.1116432996911032
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.3270742768905128,
+                "top": 0.06289723581764715,
+                "right": 0.48193530067261925,
+                "bottom": 0.1116432996911032
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.48193530067261925,
+                "top": 0.06289723581764715,
+                "right": 0.651900966373482,
+                "bottom": 0.1116432996911032
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.651900966373482,
+                "top": 0.06289723581764715,
+                "right": 0.7443038834677846,
+                "bottom": 0.1116432996911032
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.7443038834677846,
+                "top": 0.06289723581764715,
+                "right": 0.8639994751156941,
+                "bottom": 0.1116432996911032
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.03575913854130608,
+                "top": 0.1116432996911032,
+                "right": 0.06473355337681619,
+                "bottom": 0.14538262576114125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.06473355337681619,
+                "top": 0.1116432996911032,
+                "right": 0.3270742768905128,
+                "bottom": 0.14538262576114125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.3270742768905128,
+                "top": 0.1116432996911032,
+                "right": 0.48193530067261925,
+                "bottom": 0.14538262576114125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.48193530067261925,
+                "top": 0.1116432996911032,
+                "right": 0.651900966373482,
+                "bottom": 0.14538262576114125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.651900966373482,
+                "top": 0.1116432996911032,
+                "right": 0.7443038834677846,
+                "bottom": 0.14538262576114125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7443038834677846,
+                "top": 0.1116432996911032,
+                "right": 0.8639994751156941,
+                "bottom": 0.14538262576114125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.03575913854130608,
+                "top": 0.14538262576114125,
+                "right": 0.06473355337681619,
+                "bottom": 0.21255604013349716
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.06473355337681619,
+                "top": 0.14538262576114125,
+                "right": 0.3270742768905128,
+                "bottom": 0.21255604013349716
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.3270742768905128,
+                "top": 0.14538262576114125,
+                "right": 0.48193530067261925,
+                "bottom": 0.21255604013349716
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.48193530067261925,
+                "top": 0.14538262576114125,
+                "right": 0.651900966373482,
+                "bottom": 0.21255604013349716
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.651900966373482,
+                "top": 0.14538262576114125,
+                "right": 0.7443038834677846,
+                "bottom": 0.21255604013349716
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.7443038834677846,
+                "top": 0.14538262576114125,
+                "right": 0.8639994751156941,
+                "bottom": 0.21255604013349716
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.03575913854130608,
+                "top": 0.21255604013349716,
+                "right": 0.06473355337681619,
+                "bottom": 0.26325228126756706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.06473355337681619,
+                "top": 0.21255604013349716,
+                "right": 0.3270742768905128,
+                "bottom": 0.26325228126756706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.3270742768905128,
+                "top": 0.21255604013349716,
+                "right": 0.48193530067261925,
+                "bottom": 0.26325228126756706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.48193530067261925,
+                "top": 0.21255604013349716,
+                "right": 0.651900966373482,
+                "bottom": 0.26325228126756706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.651900966373482,
+                "top": 0.21255604013349716,
+                "right": 0.7443038834677846,
+                "bottom": 0.26325228126756706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.7443038834677846,
+                "top": 0.21255604013349716,
+                "right": 0.8639994751156941,
+                "bottom": 0.26325228126756706
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.03575913854130608,
+                "top": 0.26325228126756706,
+                "right": 0.06473355337681619,
+                "bottom": 0.29652724524806917
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.06473355337681619,
+                "top": 0.26325228126756706,
+                "right": 0.3270742768905128,
+                "bottom": 0.29652724524806917
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.3270742768905128,
+                "top": 0.26325228126756706,
+                "right": 0.48193530067261925,
+                "bottom": 0.29652724524806917
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.48193530067261925,
+                "top": 0.26325228126756706,
+                "right": 0.651900966373482,
+                "bottom": 0.29652724524806917
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.651900966373482,
+                "top": 0.26325228126756706,
+                "right": 0.7443038834677846,
+                "bottom": 0.29652724524806917
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.7443038834677846,
+                "top": 0.26325228126756706,
+                "right": 0.8639994751156941,
+                "bottom": 0.29652724524806917
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.03575913854130608,
+                "top": 0.29652724524806917,
+                "right": 0.06473355337681619,
+                "bottom": 0.3468463614418402
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.06473355337681619,
+                "top": 0.29652724524806917,
+                "right": 0.3270742768905128,
+                "bottom": 0.3468463614418402
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.3270742768905128,
+                "top": 0.29652724524806917,
+                "right": 0.48193530067261925,
+                "bottom": 0.3468463614418402
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.48193530067261925,
+                "top": 0.29652724524806917,
+                "right": 0.651900966373482,
+                "bottom": 0.3468463614418402
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.651900966373482,
+                "top": 0.29652724524806917,
+                "right": 0.7443038834677846,
+                "bottom": 0.3468463614418402
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.7443038834677846,
+                "top": 0.29652724524806917,
+                "right": 0.8639994751156941,
+                "bottom": 0.3468463614418402
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.03575913854130608,
+                "top": 0.3468463614418402,
+                "right": 0.06473355337681619,
+                "bottom": 0.3971520977412615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.06473355337681619,
+                "top": 0.3468463614418402,
+                "right": 0.3270742768905128,
+                "bottom": 0.3971520977412615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.3270742768905128,
+                "top": 0.3468463614418402,
+                "right": 0.48193530067261925,
+                "bottom": 0.3971520977412615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.48193530067261925,
+                "top": 0.3468463614418402,
+                "right": 0.651900966373482,
+                "bottom": 0.3971520977412615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.651900966373482,
+                "top": 0.3468463614418402,
+                "right": 0.7443038834677846,
+                "bottom": 0.3971520977412615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.7443038834677846,
+                "top": 0.3468463614418402,
+                "right": 0.8639994751156941,
+                "bottom": 0.3971520977412615
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.03575913854130608,
+                "top": 0.3971520977412615,
+                "right": 0.06473355337681619,
+                "bottom": 0.44779842615557275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.06473355337681619,
+                "top": 0.3971520977412615,
+                "right": 0.3270742768905128,
+                "bottom": 0.44779842615557275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.3270742768905128,
+                "top": 0.3971520977412615,
+                "right": 0.48193530067261925,
+                "bottom": 0.44779842615557275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.48193530067261925,
+                "top": 0.3971520977412615,
+                "right": 0.651900966373482,
+                "bottom": 0.44779842615557275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.651900966373482,
+                "top": 0.3971520977412615,
+                "right": 0.7443038834677846,
+                "bottom": 0.44779842615557275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.7443038834677846,
+                "top": 0.3971520977412615,
+                "right": 0.8639994751156941,
+                "bottom": 0.44779842615557275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "c42e0add-c584-433e-9285-20c8545570eb": {
+            "box": {
+                "left": 0.028941810131072998,
+                "top": 0.4889587163925171,
+                "right": 0.9715554118156433,
+                "bottom": 0.9206876754760742
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.034878099571518995,
+                "top": 0.6605767840339141,
+                "right": 0.9670388804547656,
+                "bottom": 0.9115956738100408
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.034878099571518995,
+                "top": 0.6605767840339141,
+                "right": 0.059396715980042813,
+                "bottom": 0.7102987775105021
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.059396715980042813,
+                "top": 0.6605767840339141,
+                "right": 0.2859112799961281,
+                "bottom": 0.7102987775105021
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.2859112799961281,
+                "top": 0.6605767840339141,
+                "right": 0.5490493199359889,
+                "bottom": 0.7102987775105021
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.5490493199359889,
+                "top": 0.6605767840339141,
+                "right": 0.6227560126278604,
+                "bottom": 0.7102987775105021
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.6227560126278604,
+                "top": 0.6605767840339141,
+                "right": 0.7259451688967147,
+                "bottom": 0.7102987775105021
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.7259451688967147,
+                "top": 0.6605767840339141,
+                "right": 0.8146994374488941,
+                "bottom": 0.7102987775105021
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.8146994374488941,
+                "top": 0.6605767840339141,
+                "right": 0.9671475967828655,
+                "bottom": 0.7102987775105021
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.034878099571518995,
+                "top": 0.7102987775105021,
+                "right": 0.059396715980042813,
+                "bottom": 0.777790935389028
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.059396715980042813,
+                "top": 0.7102987775105021,
+                "right": 0.2859112799961281,
+                "bottom": 0.777790935389028
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.2859112799961281,
+                "top": 0.7102987775105021,
+                "right": 0.5490493199359889,
+                "bottom": 0.777790935389028
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.5490493199359889,
+                "top": 0.7102987775105021,
+                "right": 0.6227560126278604,
+                "bottom": 0.777790935389028
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.6227560126278604,
+                "top": 0.7102987775105021,
+                "right": 0.7259451688967147,
+                "bottom": 0.777790935389028
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.7259451688967147,
+                "top": 0.7102987775105021,
+                "right": 0.8146994374488941,
+                "bottom": 0.777790935389028
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.8146994374488941,
+                "top": 0.7102987775105021,
+                "right": 0.9671475967828655,
+                "bottom": 0.777790935389028
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.034878099571518995,
+                "top": 0.777790935389028,
+                "right": 0.059396715980042813,
+                "bottom": 0.8446433696135927
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.059396715980042813,
+                "top": 0.777790935389028,
+                "right": 0.2859112799961281,
+                "bottom": 0.8446433696135927
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.2859112799961281,
+                "top": 0.777790935389028,
+                "right": 0.5490493199359889,
+                "bottom": 0.8446433696135927
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-16": {
+            "box": {
+                "left": 0.5490493199359889,
+                "top": 0.777790935389028,
+                "right": 0.6227560126278604,
+                "bottom": 0.8446433696135927
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-17": {
+            "box": {
+                "left": 0.6227560126278604,
+                "top": 0.777790935389028,
+                "right": 0.7259451688967147,
+                "bottom": 0.8446433696135927
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-18": {
+            "box": {
+                "left": 0.7259451688967147,
+                "top": 0.777790935389028,
+                "right": 0.8146994374488941,
+                "bottom": 0.8446433696135927
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-19": {
+            "box": {
+                "left": 0.8146994374488941,
+                "top": 0.777790935389028,
+                "right": 0.9671475967828655,
+                "bottom": 0.8446433696135927
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1a": {
+            "box": {
+                "left": 0.034878099571518995,
+                "top": 0.8446433696135927,
+                "right": 0.059396715980042813,
+                "bottom": 0.9115956738100408
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1b": {
+            "box": {
+                "left": 0.059396715980042813,
+                "top": 0.8446433696135927,
+                "right": 0.2859112799961281,
+                "bottom": 0.9115956738100408
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1c": {
+            "box": {
+                "left": 0.2859112799961281,
+                "top": 0.8446433696135927,
+                "right": 0.5490493199359889,
+                "bottom": 0.9115956738100408
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1d": {
+            "box": {
+                "left": 0.5490493199359889,
+                "top": 0.8446433696135927,
+                "right": 0.6227560126278604,
+                "bottom": 0.9115956738100408
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1e": {
+            "box": {
+                "left": 0.6227560126278604,
+                "top": 0.8446433696135927,
+                "right": 0.7259451688967147,
+                "bottom": 0.9115956738100408
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1f": {
+            "box": {
+                "left": 0.7259451688967147,
+                "top": 0.8446433696135927,
+                "right": 0.8146994374488941,
+                "bottom": 0.9115956738100408
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1g": {
+            "box": {
+                "left": 0.8146994374488941,
+                "top": 0.8446433696135927,
+                "right": 0.9671475967828655,
+                "bottom": 0.9115956738100408
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0dd219b9-7b7d-4c1f-8953-d42fc6aa29a1": {
+            "box": {
+                "left": 0.29177629947662354,
+                "top": 0.9681576490402222,
+                "right": 0.7081669569015503,
+                "bottom": 1.0001393556594849
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "jsbn0226_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6057,
+        "credit_usage": 3.0,
+        "job_id": "ihornk0vbaklp73b2fs8wg29u",
+        "version": "dpt-2-20250919"
+    }
+}

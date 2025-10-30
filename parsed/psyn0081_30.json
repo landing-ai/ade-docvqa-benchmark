@@ -1,0 +1,393 @@
+{
+    "markdown": "<a id='333203c1-d5da-4c2a-9697-7bccf1183eec'></a>\n\nEmotional Enhancement\n\n<a id='655c4409-53cc-4983-b3d9-33971328888c'></a>\n\nYankelovich MONITOR 1990\n\n<a id='4f8818bf-77e9-4e7d-82a4-262fa2ac41aa'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Non-</td></tr>\n<tr><td id=\"0-4\">Smokers</td><td id=\"0-5\">Smokers</td></tr>\n<tr><td id=\"0-6\">%</td><td id=\"0-7\">%</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">70</td><td id=\"0-b\">64</td></tr>\n<tr><td id=\"0-c\">61</td><td id=\"0-d\">57</td></tr>\n<tr><td id=\"0-e\">68</td><td id=\"0-f\">75</td></tr>\n<tr><td id=\"0-g\">80</td><td id=\"0-h\">82</td></tr>\n<tr><td id=\"0-i\">27</td><td id=\"0-j\">23</td></tr>\n</table>\n\n<a id='d368af0d-ca6d-480d-9e96-e7922c179929'></a>\n\n**Smokers show above average**\n**interest in romance and excitement**\n\nFeel the need to find more excitement and\nsensation in life 70\n\nFeel the need to restore romance and mystery\nto modern life 61\n\n**But are more materialistic than non-smokers**\n\nDoing enjoyable things means more to me than\nhaving a lot of prized possessions 68\n\nThere should be less emphasis on money\nin our society 80\n\nThe only meaningful measure of success\nis money 27\n\n<a id='c45ec4de-7350-45d5-85d7-d5b10c46dd1b'></a>\n\nRJR712/MONITOR/mg/pl\n\n<a id='2b81af4c-b18b-4858-8d95-b8a993bbf69f'></a>\n\n51336 9882\n\n<a id='f5e14139-a49a-4ffa-a7d0-5ecd90e95ca3'></a>\n\n29",
+    "chunks": [
+        {
+            "markdown": "<a id='333203c1-d5da-4c2a-9697-7bccf1183eec'></a>\n\nEmotional Enhancement",
+            "type": "text",
+            "id": "333203c1-d5da-4c2a-9697-7bccf1183eec",
+            "grounding": {
+                "box": {
+                    "left": 0.04881766438484192,
+                    "top": 0.13616138696670532,
+                    "right": 0.3921594023704529,
+                    "bottom": 0.18246245384216309
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='655c4409-53cc-4983-b3d9-33971328888c'></a>\n\nYankelovich MONITOR 1990",
+            "type": "text",
+            "id": "655c4409-53cc-4983-b3d9-33971328888c",
+            "grounding": {
+                "box": {
+                    "left": 0.5869303345680237,
+                    "top": 0.21916276216506958,
+                    "right": 0.796030580997467,
+                    "bottom": 0.2535000443458557
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4f8818bf-77e9-4e7d-82a4-262fa2ac41aa'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Non-</td></tr>\n<tr><td id=\"0-4\">Smokers</td><td id=\"0-5\">Smokers</td></tr>\n<tr><td id=\"0-6\">%</td><td id=\"0-7\">%</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">70</td><td id=\"0-b\">64</td></tr>\n<tr><td id=\"0-c\">61</td><td id=\"0-d\">57</td></tr>\n<tr><td id=\"0-e\">68</td><td id=\"0-f\">75</td></tr>\n<tr><td id=\"0-g\">80</td><td id=\"0-h\">82</td></tr>\n<tr><td id=\"0-i\">27</td><td id=\"0-j\">23</td></tr>\n</table>",
+            "type": "table",
+            "id": "4f8818bf-77e9-4e7d-82a4-262fa2ac41aa",
+            "grounding": {
+                "box": {
+                    "left": 0.5079429745674133,
+                    "top": 0.2631584405899048,
+                    "right": 0.8520575165748596,
+                    "bottom": 0.814416766166687
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d368af0d-ca6d-480d-9e96-e7922c179929'></a>\n\n**Smokers show above average**\n**interest in romance and excitement**\n\nFeel the need to find more excitement and\nsensation in life 70\n\nFeel the need to restore romance and mystery\nto modern life 61\n\n**But are more materialistic than non-smokers**\n\nDoing enjoyable things means more to me than\nhaving a lot of prized possessions 68\n\nThere should be less emphasis on money\nin our society 80\n\nThe only meaningful measure of success\nis money 27",
+            "type": "text",
+            "id": "d368af0d-ca6d-480d-9e96-e7922c179929",
+            "grounding": {
+                "box": {
+                    "left": 0.04548156261444092,
+                    "top": 0.35839158296585083,
+                    "right": 0.6405039429664612,
+                    "bottom": 0.8118862509727478
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c45ec4de-7350-45d5-85d7-d5b10c46dd1b'></a>\n\nRJR712/MONITOR/mg/pl",
+            "type": "marginalia",
+            "id": "c45ec4de-7350-45d5-85d7-d5b10c46dd1b",
+            "grounding": {
+                "box": {
+                    "left": 0.049946077167987823,
+                    "top": 0.9582660794258118,
+                    "right": 0.167466402053833,
+                    "bottom": 0.9817333817481995
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2b81af4c-b18b-4858-8d95-b8a993bbf69f'></a>\n\n51336 9882",
+            "type": "marginalia",
+            "id": "2b81af4c-b18b-4858-8d95-b8a993bbf69f",
+            "grounding": {
+                "box": {
+                    "left": 0.186090886592865,
+                    "top": 0.9626206755638123,
+                    "right": 0.28632721304893494,
+                    "bottom": 0.9882891774177551
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f5e14139-a49a-4ffa-a7d0-5ecd90e95ca3'></a>\n\n29",
+            "type": "marginalia",
+            "id": "f5e14139-a49a-4ffa-a7d0-5ecd90e95ca3",
+            "grounding": {
+                "box": {
+                    "left": 0.8044767379760742,
+                    "top": 0.9507767558097839,
+                    "right": 0.8329614400863647,
+                    "bottom": 0.9800040125846863
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='333203c1-d5da-4c2a-9697-7bccf1183eec'></a>\n\nEmotional Enhancement\n\n<a id='655c4409-53cc-4983-b3d9-33971328888c'></a>\n\nYankelovich MONITOR 1990\n\n<a id='4f8818bf-77e9-4e7d-82a4-262fa2ac41aa'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Non-</td></tr>\n<tr><td id=\"0-4\">Smokers</td><td id=\"0-5\">Smokers</td></tr>\n<tr><td id=\"0-6\">%</td><td id=\"0-7\">%</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">70</td><td id=\"0-b\">64</td></tr>\n<tr><td id=\"0-c\">61</td><td id=\"0-d\">57</td></tr>\n<tr><td id=\"0-e\">68</td><td id=\"0-f\">75</td></tr>\n<tr><td id=\"0-g\">80</td><td id=\"0-h\">82</td></tr>\n<tr><td id=\"0-i\">27</td><td id=\"0-j\">23</td></tr>\n</table>\n\n<a id='d368af0d-ca6d-480d-9e96-e7922c179929'></a>\n\n**Smokers show above average**\n**interest in romance and excitement**\n\nFeel the need to find more excitement and\nsensation in life 70\n\nFeel the need to restore romance and mystery\nto modern life 61\n\n**But are more materialistic than non-smokers**\n\nDoing enjoyable things means more to me than\nhaving a lot of prized possessions 68\n\nThere should be less emphasis on money\nin our society 80\n\nThe only meaningful measure of success\nis money 27\n\n<a id='c45ec4de-7350-45d5-85d7-d5b10c46dd1b'></a>\n\nRJR712/MONITOR/mg/pl\n\n<a id='2b81af4c-b18b-4858-8d95-b8a993bbf69f'></a>\n\n51336 9882\n\n<a id='f5e14139-a49a-4ffa-a7d0-5ecd90e95ca3'></a>\n\n29",
+            "chunks": [
+                "333203c1-d5da-4c2a-9697-7bccf1183eec",
+                "655c4409-53cc-4983-b3d9-33971328888c",
+                "4f8818bf-77e9-4e7d-82a4-262fa2ac41aa",
+                "d368af0d-ca6d-480d-9e96-e7922c179929",
+                "c45ec4de-7350-45d5-85d7-d5b10c46dd1b",
+                "2b81af4c-b18b-4858-8d95-b8a993bbf69f",
+                "f5e14139-a49a-4ffa-a7d0-5ecd90e95ca3"
+            ]
+        }
+    ],
+    "grounding": {
+        "333203c1-d5da-4c2a-9697-7bccf1183eec": {
+            "box": {
+                "left": 0.04881766438484192,
+                "top": 0.13616138696670532,
+                "right": 0.3921594023704529,
+                "bottom": 0.18246245384216309
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "655c4409-53cc-4983-b3d9-33971328888c": {
+            "box": {
+                "left": 0.5869303345680237,
+                "top": 0.21916276216506958,
+                "right": 0.796030580997467,
+                "bottom": 0.2535000443458557
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4f8818bf-77e9-4e7d-82a4-262fa2ac41aa": {
+            "box": {
+                "left": 0.5079429745674133,
+                "top": 0.2631584405899048,
+                "right": 0.8520575165748596,
+                "bottom": 0.814416766166687
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.5671675870324115,
+                "top": 0.2671111753942037,
+                "right": 0.847073693752904,
+                "bottom": 0.8094480135886641
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.5671675870324115,
+                "top": 0.2671111753942037,
+                "right": 0.6523007660624529,
+                "bottom": 0.2912671479926079
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.6523007660624529,
+                "top": 0.2671111753942037,
+                "right": 0.845967483426108,
+                "bottom": 0.2912671479926079
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5671675870324115,
+                "top": 0.2912671479926079,
+                "right": 0.6523007660624529,
+                "bottom": 0.3164266514664007
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6523007660624529,
+                "top": 0.2912671479926079,
+                "right": 0.845967483426108,
+                "bottom": 0.3164266514664007
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.5671675870324115,
+                "top": 0.3164266514664007,
+                "right": 0.6523007660624529,
+                "bottom": 0.3432987277588708
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6523007660624529,
+                "top": 0.3164266514664007,
+                "right": 0.845967483426108,
+                "bottom": 0.3432987277588708
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5671675870324115,
+                "top": 0.3432987277588708,
+                "right": 0.6523007660624529,
+                "bottom": 0.41542602615260904
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6523007660624529,
+                "top": 0.3432987277588708,
+                "right": 0.845967483426108,
+                "bottom": 0.41542602615260904
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5671675870324115,
+                "top": 0.41542602615260904,
+                "right": 0.6523007660624529,
+                "bottom": 0.504822287037058
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6523007660624529,
+                "top": 0.41542602615260904,
+                "right": 0.845967483426108,
+                "bottom": 0.504822287037058
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5671675870324115,
+                "top": 0.504822287037058,
+                "right": 0.6523007660624529,
+                "bottom": 0.5706980738401626
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6523007660624529,
+                "top": 0.504822287037058,
+                "right": 0.845967483426108,
+                "bottom": 0.5706980738401626
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.5671675870324115,
+                "top": 0.5706980738401626,
+                "right": 0.6523007660624529,
+                "bottom": 0.663744201406459
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.6523007660624529,
+                "top": 0.5706980738401626,
+                "right": 0.845967483426108,
+                "bottom": 0.663744201406459
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5671675870324115,
+                "top": 0.663744201406459,
+                "right": 0.6523007660624529,
+                "bottom": 0.7315803028983794
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6523007660624529,
+                "top": 0.663744201406459,
+                "right": 0.845967483426108,
+                "bottom": 0.7315803028983794
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.5671675870324115,
+                "top": 0.7315803028983794,
+                "right": 0.6523007660624529,
+                "bottom": 0.8094480135886641
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6523007660624529,
+                "top": 0.7315803028983794,
+                "right": 0.845967483426108,
+                "bottom": 0.8094480135886641
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "d368af0d-ca6d-480d-9e96-e7922c179929": {
+            "box": {
+                "left": 0.04548156261444092,
+                "top": 0.35839158296585083,
+                "right": 0.6405039429664612,
+                "bottom": 0.8118862509727478
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c45ec4de-7350-45d5-85d7-d5b10c46dd1b": {
+            "box": {
+                "left": 0.049946077167987823,
+                "top": 0.9582660794258118,
+                "right": 0.167466402053833,
+                "bottom": 0.9817333817481995
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "2b81af4c-b18b-4858-8d95-b8a993bbf69f": {
+            "box": {
+                "left": 0.186090886592865,
+                "top": 0.9626206755638123,
+                "right": 0.28632721304893494,
+                "bottom": 0.9882891774177551
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "f5e14139-a49a-4ffa-a7d0-5ecd90e95ca3": {
+            "box": {
+                "left": 0.8044767379760742,
+                "top": 0.9507767558097839,
+                "right": 0.8329614400863647,
+                "bottom": 0.9800040125846863
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "psyn0081_30.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6371,
+        "credit_usage": 3.0,
+        "job_id": "u74vwh5ganx3myubfih6t3ctc",
+        "version": "dpt-2-20250919"
+    }
+}

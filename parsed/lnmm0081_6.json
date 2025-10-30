@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='19b1013b-cc56-4c30-99a2-e4ee832f6910'></a>\n\nIf Everyone Pays\nWhy Do\nSmokers Pay\nMORE...?? \n\n<a id='30af9384-accb-4d1f-8597-a00266cc3555'></a>\n\n<::logo: Unknown\neB...'94\nA black, stylized, curved shape resembling a claw or brushstroke with hatching patterns, next to handwritten text.::>\n\n<a id='2e2f8ad8-879e-440a-a3e6-50168000d1d2'></a>\n\n<::logo: SMOKERS\nSMOKERS\nA black and white pixelated image showing a lit cigarette held by tongs over an ashtray with ash, and smoke rising.::>\n\n<a id='f094641d-1ef7-4ee3-b566-45459df96cda'></a>\n\nHillary Rotten Clinton\nSays You Are\nA Greater Hazard\nTo The Health Care Program\nTHAN...\n19 5453\n\n<a id='9d070853-190b-4105-98e0-2acd8b8e6e01'></a>\n\n51359\n5453",
+    "chunks": [
+        {
+            "markdown": "<a id='19b1013b-cc56-4c30-99a2-e4ee832f6910'></a>\n\nIf Everyone Pays\nWhy Do\nSmokers Pay\nMORE...?? ",
+            "type": "text",
+            "id": "19b1013b-cc56-4c30-99a2-e4ee832f6910",
+            "grounding": {
+                "box": {
+                    "left": 0.07041366398334503,
+                    "top": 0.4772944748401642,
+                    "right": 0.4247362017631531,
+                    "bottom": 0.6802182197570801
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='30af9384-accb-4d1f-8597-a00266cc3555'></a>\n\n<::logo: Unknown\neB...'94\nA black, stylized, curved shape resembling a claw or brushstroke with hatching patterns, next to handwritten text.::>",
+            "type": "logo",
+            "id": "30af9384-accb-4d1f-8597-a00266cc3555",
+            "grounding": {
+                "box": {
+                    "left": 0.021498948335647583,
+                    "top": 0.7583761215209961,
+                    "right": 0.34376809000968933,
+                    "bottom": 0.9232178926467896
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2e2f8ad8-879e-440a-a3e6-50168000d1d2'></a>\n\n<::logo: SMOKERS\nSMOKERS\nA black and white pixelated image showing a lit cigarette held by tongs over an ashtray with ash, and smoke rising.::>",
+            "type": "logo",
+            "id": "2e2f8ad8-879e-440a-a3e6-50168000d1d2",
+            "grounding": {
+                "box": {
+                    "left": 0.5860363841056824,
+                    "top": 0.49430185556411743,
+                    "right": 0.9201517701148987,
+                    "bottom": 0.7743131518363953
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f094641d-1ef7-4ee3-b566-45459df96cda'></a>\n\nHillary Rotten Clinton\nSays You Are\nA Greater Hazard\nTo The Health Care Program\nTHAN...\n19 5453",
+            "type": "text",
+            "id": "f094641d-1ef7-4ee3-b566-45459df96cda",
+            "grounding": {
+                "box": {
+                    "left": 0.5432747006416321,
+                    "top": 0.781531810760498,
+                    "right": 0.9658359885215759,
+                    "bottom": 0.9264907836914062
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9d070853-190b-4105-98e0-2acd8b8e6e01'></a>\n\n51359\n5453",
+            "type": "marginalia",
+            "id": "9d070853-190b-4105-98e0-2acd8b8e6e01",
+            "grounding": {
+                "box": {
+                    "left": 0.9413038492202759,
+                    "top": 0.7404910326004028,
+                    "right": 0.9745932817459106,
+                    "bottom": 0.8469847440719604
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='19b1013b-cc56-4c30-99a2-e4ee832f6910'></a>\n\nIf Everyone Pays\nWhy Do\nSmokers Pay\nMORE...?? \n\n<a id='30af9384-accb-4d1f-8597-a00266cc3555'></a>\n\n<::logo: Unknown\neB...'94\nA black, stylized, curved shape resembling a claw or brushstroke with hatching patterns, next to handwritten text.::>\n\n<a id='2e2f8ad8-879e-440a-a3e6-50168000d1d2'></a>\n\n<::logo: SMOKERS\nSMOKERS\nA black and white pixelated image showing a lit cigarette held by tongs over an ashtray with ash, and smoke rising.::>\n\n<a id='f094641d-1ef7-4ee3-b566-45459df96cda'></a>\n\nHillary Rotten Clinton\nSays You Are\nA Greater Hazard\nTo The Health Care Program\nTHAN...\n19 5453\n\n<a id='9d070853-190b-4105-98e0-2acd8b8e6e01'></a>\n\n51359\n5453",
+            "chunks": [
+                "19b1013b-cc56-4c30-99a2-e4ee832f6910",
+                "30af9384-accb-4d1f-8597-a00266cc3555",
+                "2e2f8ad8-879e-440a-a3e6-50168000d1d2",
+                "f094641d-1ef7-4ee3-b566-45459df96cda",
+                "9d070853-190b-4105-98e0-2acd8b8e6e01"
+            ]
+        }
+    ],
+    "grounding": {
+        "19b1013b-cc56-4c30-99a2-e4ee832f6910": {
+            "box": {
+                "left": 0.07041366398334503,
+                "top": 0.4772944748401642,
+                "right": 0.4247362017631531,
+                "bottom": 0.6802182197570801
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "30af9384-accb-4d1f-8597-a00266cc3555": {
+            "box": {
+                "left": 0.021498948335647583,
+                "top": 0.7583761215209961,
+                "right": 0.34376809000968933,
+                "bottom": 0.9232178926467896
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "2e2f8ad8-879e-440a-a3e6-50168000d1d2": {
+            "box": {
+                "left": 0.5860363841056824,
+                "top": 0.49430185556411743,
+                "right": 0.9201517701148987,
+                "bottom": 0.7743131518363953
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "f094641d-1ef7-4ee3-b566-45459df96cda": {
+            "box": {
+                "left": 0.5432747006416321,
+                "top": 0.781531810760498,
+                "right": 0.9658359885215759,
+                "bottom": 0.9264907836914062
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9d070853-190b-4105-98e0-2acd8b8e6e01": {
+            "box": {
+                "left": 0.9413038492202759,
+                "top": 0.7404910326004028,
+                "right": 0.9745932817459106,
+                "bottom": 0.8469847440719604
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lnmm0081_6.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7219,
+        "credit_usage": 3.0,
+        "job_id": "q7s91xu6mhq0tg4v4kvpap4wz",
+        "version": "dpt-2-20250919"
+    }
+}

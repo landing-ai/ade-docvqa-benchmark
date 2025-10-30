@@ -1,0 +1,53 @@
+{
+    "markdown": "<a id='ce961169-cb20-46b0-99b0-5175023f68e5'></a>\n\n<::Line graph showing H2S in mMOL/MOL of Thiamine versus Time in Min.\n\n**Y-axis:** H2S in mMOL/MOL of Thiamine, ranging from 0 to 100.\n**X-axis:** Time in Min, ranging from 0 to 30.\n\n**Legend:**\n- Triangle (\u0394): HEATING IN OPEN AIR\n- Square (\u25a1): HEATING IN SEALED TUBE\n- Circle (\u25cb): HEATING IN NITROGEN\n- Cross (\u00d7): AUTOCLAVING IN SEALED TUBE (120\u00b0C)\n\n**Data Series:**\n- **HEATING IN OPEN AIR (\u0394):** Starts at (0,0), increases to approximately (5,15), then to (15,32), and reaches about (30,58).\n- **HEATING IN SEALED TUBE (\u25a1):** Starts at (0,0), increases to approximately (5,8), then to (15,18), and reaches about (30,45).\n- **HEATING IN NITROGEN (\u25cb):** Starts at (0,0), increases to approximately (5,18), then to (15,32), and reaches about (30,68).\n- **AUTOCLAVING IN SEALED TUBE (120\u00b0C) (\u00d7):** Starts at (0,0), rapidly increases to approximately (5,78), then levels off around (15,88) and (30,87).\n: chart::>",
+    "chunks": [
+        {
+            "markdown": "<a id='ce961169-cb20-46b0-99b0-5175023f68e5'></a>\n\n<::Line graph showing H2S in mMOL/MOL of Thiamine versus Time in Min.\n\n**Y-axis:** H2S in mMOL/MOL of Thiamine, ranging from 0 to 100.\n**X-axis:** Time in Min, ranging from 0 to 30.\n\n**Legend:**\n- Triangle (\u0394): HEATING IN OPEN AIR\n- Square (\u25a1): HEATING IN SEALED TUBE\n- Circle (\u25cb): HEATING IN NITROGEN\n- Cross (\u00d7): AUTOCLAVING IN SEALED TUBE (120\u00b0C)\n\n**Data Series:**\n- **HEATING IN OPEN AIR (\u0394):** Starts at (0,0), increases to approximately (5,15), then to (15,32), and reaches about (30,58).\n- **HEATING IN SEALED TUBE (\u25a1):** Starts at (0,0), increases to approximately (5,8), then to (15,18), and reaches about (30,45).\n- **HEATING IN NITROGEN (\u25cb):** Starts at (0,0), increases to approximately (5,18), then to (15,32), and reaches about (30,68).\n- **AUTOCLAVING IN SEALED TUBE (120\u00b0C) (\u00d7):** Starts at (0,0), rapidly increases to approximately (5,78), then levels off around (15,88) and (30,87).\n: chart::>",
+            "type": "figure",
+            "id": "ce961169-cb20-46b0-99b0-5175023f68e5",
+            "grounding": {
+                "box": {
+                    "left": 0.07671809196472168,
+                    "top": 0.04595962166786194,
+                    "right": 0.9600013494491577,
+                    "bottom": 0.8607326745986938
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ce961169-cb20-46b0-99b0-5175023f68e5'></a>\n\n<::Line graph showing H2S in mMOL/MOL of Thiamine versus Time in Min.\n\n**Y-axis:** H2S in mMOL/MOL of Thiamine, ranging from 0 to 100.\n**X-axis:** Time in Min, ranging from 0 to 30.\n\n**Legend:**\n- Triangle (\u0394): HEATING IN OPEN AIR\n- Square (\u25a1): HEATING IN SEALED TUBE\n- Circle (\u25cb): HEATING IN NITROGEN\n- Cross (\u00d7): AUTOCLAVING IN SEALED TUBE (120\u00b0C)\n\n**Data Series:**\n- **HEATING IN OPEN AIR (\u0394):** Starts at (0,0), increases to approximately (5,15), then to (15,32), and reaches about (30,58).\n- **HEATING IN SEALED TUBE (\u25a1):** Starts at (0,0), increases to approximately (5,8), then to (15,18), and reaches about (30,45).\n- **HEATING IN NITROGEN (\u25cb):** Starts at (0,0), increases to approximately (5,18), then to (15,32), and reaches about (30,68).\n- **AUTOCLAVING IN SEALED TUBE (120\u00b0C) (\u00d7):** Starts at (0,0), rapidly increases to approximately (5,78), then levels off around (15,88) and (30,87).\n: chart::>",
+            "chunks": [
+                "ce961169-cb20-46b0-99b0-5175023f68e5"
+            ]
+        }
+    ],
+    "grounding": {
+        "ce961169-cb20-46b0-99b0-5175023f68e5": {
+            "box": {
+                "left": 0.07671809196472168,
+                "top": 0.04595962166786194,
+                "right": 0.9600013494491577,
+                "bottom": 0.8607326745986938
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "lybx0227_23.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 22002,
+        "credit_usage": 3.0,
+        "job_id": "veuteatxramyz8glrmm18m486",
+        "version": "dpt-2-20250919"
+    }
+}

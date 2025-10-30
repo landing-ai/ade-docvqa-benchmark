@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='3448648a-dbd0-4694-a17d-3dee7d335433'></a>\n\nAn invitation to Marlboro smokers:\nTAKE\nTHE SMOOTH\nCHALLENGE.\n\n<a id='4308ce3f-ee7a-471e-9520-cc5db697848a'></a>\n\n<::logo: Winston\nA Flavor Seal\u2122, Winston, SELECT, BOX, SELECT SMOOTH TASTE\nA large white eagle with outstretched wings is depicted against a dark background.::>\n\n<a id='967c1096-3c7f-4726-9eaf-dad38fc1fa6e'></a>\n\nYOU SELECT\n\n<a id='b9997749-af69-48d0-aed3-f0232f2f890f'></a>\n\n<::logo: Winston\nYOU SELECT\nThe Smooth One\nFrom Winston\nThe letter 'S' in \"SELECT\" is stylized as a swan, with a bird flying beside it, all in white on a black background.::>\n\n<a id='fac8b9a8-ef3e-4938-87d7-0d785996070c'></a>\n\n50913 9354\n\n<a id='4ba13f15-f03b-4b7f-b149-b57a75aec02a'></a>\n\n18 mg \"tar\", 14 me nicoune av per cigarene by FTC method\n\n<a id='74596abe-1ebf-4bab-bfc1-0785dee56ba9'></a>\n\nSURGEON GENERAL'S WARNING: Quitting Smoking\nNow Greatly Reduces, Serious Risks to Your Health.\nTC [illegible] of 12/93\n\n<a id='f4a236ad-4b39-42ec-a0d2-4f1419f81835'></a>\n\n\u00a9 1990 R. J. REYNOLDS TOBACCO CO",
+    "chunks": [
+        {
+            "markdown": "<a id='3448648a-dbd0-4694-a17d-3dee7d335433'></a>\n\nAn invitation to Marlboro smokers:\nTAKE\nTHE SMOOTH\nCHALLENGE.",
+            "type": "text",
+            "id": "3448648a-dbd0-4694-a17d-3dee7d335433",
+            "grounding": {
+                "box": {
+                    "left": 0.12507140636444092,
+                    "top": 0.24665650725364685,
+                    "right": 0.4957559108734131,
+                    "bottom": 0.42040732502937317
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4308ce3f-ee7a-471e-9520-cc5db697848a'></a>\n\n<::logo: Winston\nA Flavor Seal\u2122, Winston, SELECT, BOX, SELECT SMOOTH TASTE\nA large white eagle with outstretched wings is depicted against a dark background.::>",
+            "type": "logo",
+            "id": "4308ce3f-ee7a-471e-9520-cc5db697848a",
+            "grounding": {
+                "box": {
+                    "left": 0.13638490438461304,
+                    "top": 0.4327127933502197,
+                    "right": 0.44639652967453003,
+                    "bottom": 0.6607798337936401
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='967c1096-3c7f-4726-9eaf-dad38fc1fa6e'></a>\n\nYOU SELECT",
+            "type": "text",
+            "id": "967c1096-3c7f-4726-9eaf-dad38fc1fa6e",
+            "grounding": {
+                "box": {
+                    "left": 0.22327664494514465,
+                    "top": 0.6667345762252808,
+                    "right": 0.3907335102558136,
+                    "bottom": 0.694072961807251
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b9997749-af69-48d0-aed3-f0232f2f890f'></a>\n\n<::logo: Winston\nYOU SELECT\nThe Smooth One\nFrom Winston\nThe letter 'S' in \"SELECT\" is stylized as a swan, with a bird flying beside it, all in white on a black background.::>",
+            "type": "logo",
+            "id": "b9997749-af69-48d0-aed3-f0232f2f890f",
+            "grounding": {
+                "box": {
+                    "left": 0.048645444214344025,
+                    "top": 0.6731343865394592,
+                    "right": 0.28086772561073303,
+                    "bottom": 0.7763432860374451
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fac8b9a8-ef3e-4938-87d7-0d785996070c'></a>\n\n50913 9354",
+            "type": "text",
+            "id": "fac8b9a8-ef3e-4938-87d7-0d785996070c",
+            "grounding": {
+                "box": {
+                    "left": 0.5348451137542725,
+                    "top": 0.6494081020355225,
+                    "right": 0.5833864212036133,
+                    "bottom": 0.7803921699523926
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4ba13f15-f03b-4b7f-b149-b57a75aec02a'></a>\n\n18 mg \"tar\", 14 me nicoune av per cigarene by FTC method",
+            "type": "marginalia",
+            "id": "4ba13f15-f03b-4b7f-b149-b57a75aec02a",
+            "grounding": {
+                "box": {
+                    "left": 0.3011825680732727,
+                    "top": 0.7898334264755249,
+                    "right": 0.5660472512245178,
+                    "bottom": 0.8070088624954224
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='74596abe-1ebf-4bab-bfc1-0785dee56ba9'></a>\n\nSURGEON GENERAL'S WARNING: Quitting Smoking\nNow Greatly Reduces, Serious Risks to Your Health.\nTC [illegible] of 12/93",
+            "type": "text",
+            "id": "74596abe-1ebf-4bab-bfc1-0785dee56ba9",
+            "grounding": {
+                "box": {
+                    "left": 0.2049085795879364,
+                    "top": 0.8182584643363953,
+                    "right": 0.5627914667129517,
+                    "bottom": 0.8791877627372742
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f4a236ad-4b39-42ec-a0d2-4f1419f81835'></a>\n\n\u00a9 1990 R. J. REYNOLDS TOBACCO CO",
+            "type": "marginalia",
+            "id": "f4a236ad-4b39-42ec-a0d2-4f1419f81835",
+            "grounding": {
+                "box": {
+                    "left": 0.045224644243717194,
+                    "top": 0.8667343854904175,
+                    "right": 0.18538561463356018,
+                    "bottom": 0.8779982328414917
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3448648a-dbd0-4694-a17d-3dee7d335433'></a>\n\nAn invitation to Marlboro smokers:\nTAKE\nTHE SMOOTH\nCHALLENGE.\n\n<a id='4308ce3f-ee7a-471e-9520-cc5db697848a'></a>\n\n<::logo: Winston\nA Flavor Seal\u2122, Winston, SELECT, BOX, SELECT SMOOTH TASTE\nA large white eagle with outstretched wings is depicted against a dark background.::>\n\n<a id='967c1096-3c7f-4726-9eaf-dad38fc1fa6e'></a>\n\nYOU SELECT\n\n<a id='b9997749-af69-48d0-aed3-f0232f2f890f'></a>\n\n<::logo: Winston\nYOU SELECT\nThe Smooth One\nFrom Winston\nThe letter 'S' in \"SELECT\" is stylized as a swan, with a bird flying beside it, all in white on a black background.::>\n\n<a id='fac8b9a8-ef3e-4938-87d7-0d785996070c'></a>\n\n50913 9354\n\n<a id='4ba13f15-f03b-4b7f-b149-b57a75aec02a'></a>\n\n18 mg \"tar\", 14 me nicoune av per cigarene by FTC method\n\n<a id='74596abe-1ebf-4bab-bfc1-0785dee56ba9'></a>\n\nSURGEON GENERAL'S WARNING: Quitting Smoking\nNow Greatly Reduces, Serious Risks to Your Health.\nTC [illegible] of 12/93\n\n<a id='f4a236ad-4b39-42ec-a0d2-4f1419f81835'></a>\n\n\u00a9 1990 R. J. REYNOLDS TOBACCO CO",
+            "chunks": [
+                "3448648a-dbd0-4694-a17d-3dee7d335433",
+                "4308ce3f-ee7a-471e-9520-cc5db697848a",
+                "967c1096-3c7f-4726-9eaf-dad38fc1fa6e",
+                "b9997749-af69-48d0-aed3-f0232f2f890f",
+                "fac8b9a8-ef3e-4938-87d7-0d785996070c",
+                "4ba13f15-f03b-4b7f-b149-b57a75aec02a",
+                "74596abe-1ebf-4bab-bfc1-0785dee56ba9",
+                "f4a236ad-4b39-42ec-a0d2-4f1419f81835"
+            ]
+        }
+    ],
+    "grounding": {
+        "3448648a-dbd0-4694-a17d-3dee7d335433": {
+            "box": {
+                "left": 0.12507140636444092,
+                "top": 0.24665650725364685,
+                "right": 0.4957559108734131,
+                "bottom": 0.42040732502937317
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4308ce3f-ee7a-471e-9520-cc5db697848a": {
+            "box": {
+                "left": 0.13638490438461304,
+                "top": 0.4327127933502197,
+                "right": 0.44639652967453003,
+                "bottom": 0.6607798337936401
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "967c1096-3c7f-4726-9eaf-dad38fc1fa6e": {
+            "box": {
+                "left": 0.22327664494514465,
+                "top": 0.6667345762252808,
+                "right": 0.3907335102558136,
+                "bottom": 0.694072961807251
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b9997749-af69-48d0-aed3-f0232f2f890f": {
+            "box": {
+                "left": 0.048645444214344025,
+                "top": 0.6731343865394592,
+                "right": 0.28086772561073303,
+                "bottom": 0.7763432860374451
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "fac8b9a8-ef3e-4938-87d7-0d785996070c": {
+            "box": {
+                "left": 0.5348451137542725,
+                "top": 0.6494081020355225,
+                "right": 0.5833864212036133,
+                "bottom": 0.7803921699523926
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4ba13f15-f03b-4b7f-b149-b57a75aec02a": {
+            "box": {
+                "left": 0.3011825680732727,
+                "top": 0.7898334264755249,
+                "right": 0.5660472512245178,
+                "bottom": 0.8070088624954224
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "74596abe-1ebf-4bab-bfc1-0785dee56ba9": {
+            "box": {
+                "left": 0.2049085795879364,
+                "top": 0.8182584643363953,
+                "right": 0.5627914667129517,
+                "bottom": 0.8791877627372742
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f4a236ad-4b39-42ec-a0d2-4f1419f81835": {
+            "box": {
+                "left": 0.045224644243717194,
+                "top": 0.8667343854904175,
+                "right": 0.18538561463356018,
+                "bottom": 0.8779982328414917
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fpdp0080_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5623,
+        "credit_usage": 3.0,
+        "job_id": "v3toex8rwlpuer3r07v2ljvan",
+        "version": "dpt-2-20250919"
+    }
+}

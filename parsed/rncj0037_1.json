@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='dd1bcf04-b3ad-4ed1-8478-91a270807344'></a>\n\n<::logo: B&W\nB&W\nThree dark, stylized leaves are arranged above the text \"B&W\" in a monochromatic design.::>\n\n<a id='7192b404-f429-47b7-a155-ff6b68780b92'></a>\n\nBROWN & WILLIAMSON TOBACCO CORPORATION\n\nRESEARCH & DEVELOPMENT\n\nMEETING REPORT\n\n<a id='ba70bd9a-7263-426c-bdc0-5714952d60ea'></a>\n\nSUBJECT: Reduced Ignition Propensity/498\n\nPRESENT: J. Wu, F.K. St. Charles, L. C. Chao, R. A. Gonterman\n\nMEETING DATE: February 7, 1994\n\nISSUE DATE: February 7, 1994\n\nCC: Attendees, T. F. Riehl, A. McMurtrie, R. H. Honeycutt, S. W. Brooks\n\n<a id='54275702-2eb7-4afe-b46f-e464c6346f91'></a>\n\nThe purpose of this meeting was to review the specific follow-up items from the January 24th meeting.\n\n<a id='b56bb00c-ea48-456a-9ba4-3fdd7acad678'></a>\n\n* Lee Chao\n\n<a id='d9d0fccd-36af-4e0d-ace6-59971190f9fe'></a>\n\n1. Run 17-21mm products and SAVANNAH Browns on RIP-4 - Complete (results attached).\n2. Run 498057-062 cigarettes on RIP-4 - Done (results attached).\n3. Run P4049-99, 99A, 99B, and 100 on RIP-4 - In progress (partial results on RIP-6 attached).\n4. Request Art Diesing approval of banded papers - Approved.\n5. Evaluate aluminum chloride as a burn retardant - In progress (a result on GPC attached). Art Diesing approval still needed.\n\n<a id='65239498-ac06-4cfd-994f-05b570f54e56'></a>\n\n* Kelley St. Charles\n\n1. Check with Ecusta on status of IR camera studies - Ecusta getting data ready to be sent - In progress.\n2. Check with KC to see if they could put bands \"long-ways\" - The answer is negative.\n3. Check on \"shrinking\" paper (Cogbill and others) - In progress.\n\n<a id='3dbfcfce-cce1-4edd-af23-4d7bdb0f4b22'></a>\n\n584100573\n\n<a id='9a034604-91f9-46d8-a097-d0e268ea802e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rncj0037",
+    "chunks": [
+        {
+            "markdown": "<a id='dd1bcf04-b3ad-4ed1-8478-91a270807344'></a>\n\n<::logo: B&W\nB&W\nThree dark, stylized leaves are arranged above the text \"B&W\" in a monochromatic design.::>",
+            "type": "logo",
+            "id": "dd1bcf04-b3ad-4ed1-8478-91a270807344",
+            "grounding": {
+                "box": {
+                    "left": 0.43559470772743225,
+                    "top": 0.05383218824863434,
+                    "right": 0.4976014792919159,
+                    "bottom": 0.09238237142562866
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7192b404-f429-47b7-a155-ff6b68780b92'></a>\n\nBROWN & WILLIAMSON TOBACCO CORPORATION\n\nRESEARCH & DEVELOPMENT\n\nMEETING REPORT",
+            "type": "text",
+            "id": "7192b404-f429-47b7-a155-ff6b68780b92",
+            "grounding": {
+                "box": {
+                    "left": 0.2896776795387268,
+                    "top": 0.09705515205860138,
+                    "right": 0.6445927619934082,
+                    "bottom": 0.1678915172815323
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ba70bd9a-7263-426c-bdc0-5714952d60ea'></a>\n\nSUBJECT: Reduced Ignition Propensity/498\n\nPRESENT: J. Wu, F.K. St. Charles, L. C. Chao, R. A. Gonterman\n\nMEETING DATE: February 7, 1994\n\nISSUE DATE: February 7, 1994\n\nCC: Attendees, T. F. Riehl, A. McMurtrie, R. H. Honeycutt, S. W. Brooks",
+            "type": "text",
+            "id": "ba70bd9a-7263-426c-bdc0-5714952d60ea",
+            "grounding": {
+                "box": {
+                    "left": 0.13494589924812317,
+                    "top": 0.18793100118637085,
+                    "right": 0.7599115371704102,
+                    "bottom": 0.32840287685394287
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='54275702-2eb7-4afe-b46f-e464c6346f91'></a>\n\nThe purpose of this meeting was to review the specific follow-up items from the January 24th meeting.",
+            "type": "text",
+            "id": "54275702-2eb7-4afe-b46f-e464c6346f91",
+            "grounding": {
+                "box": {
+                    "left": 0.13568133115768433,
+                    "top": 0.3626401722431183,
+                    "right": 0.7791577577590942,
+                    "bottom": 0.39726564288139343
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b56bb00c-ea48-456a-9ba4-3fdd7acad678'></a>\n\n* Lee Chao",
+            "type": "text",
+            "id": "b56bb00c-ea48-456a-9ba4-3fdd7acad678",
+            "grounding": {
+                "box": {
+                    "left": 0.1739647537469864,
+                    "top": 0.41470029950141907,
+                    "right": 0.2761571705341339,
+                    "bottom": 0.43389132618904114
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d9d0fccd-36af-4e0d-ace6-59971190f9fe'></a>\n\n1. Run 17-21mm products and SAVANNAH Browns on RIP-4 - Complete (results attached).\n2. Run 498057-062 cigarettes on RIP-4 - Done (results attached).\n3. Run P4049-99, 99A, 99B, and 100 on RIP-4 - In progress (partial results on RIP-6 attached).\n4. Request Art Diesing approval of banded papers - Approved.\n5. Evaluate aluminum chloride as a burn retardant - In progress (a result on GPC attached). Art Diesing approval still needed.",
+            "type": "text",
+            "id": "d9d0fccd-36af-4e0d-ace6-59971190f9fe",
+            "grounding": {
+                "box": {
+                    "left": 0.1884099543094635,
+                    "top": 0.4399573802947998,
+                    "right": 0.7976264953613281,
+                    "bottom": 0.6075208187103271
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='65239498-ac06-4cfd-994f-05b570f54e56'></a>\n\n* Kelley St. Charles\n\n1. Check with Ecusta on status of IR camera studies - Ecusta getting data ready to be sent - In progress.\n2. Check with KC to see if they could put bands \"long-ways\" - The answer is negative.\n3. Check on \"shrinking\" paper (Cogbill and others) - In progress.",
+            "type": "text",
+            "id": "65239498-ac06-4cfd-994f-05b570f54e56",
+            "grounding": {
+                "box": {
+                    "left": 0.17372241616249084,
+                    "top": 0.6248170137405396,
+                    "right": 0.7876298427581787,
+                    "bottom": 0.7519134283065796
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3dbfcfce-cce1-4edd-af23-4d7bdb0f4b22'></a>\n\n584100573",
+            "type": "text",
+            "id": "3dbfcfce-cce1-4edd-af23-4d7bdb0f4b22",
+            "grounding": {
+                "box": {
+                    "left": 0.6167812347412109,
+                    "top": 0.8783949017524719,
+                    "right": 0.777920126914978,
+                    "bottom": 0.9068878293037415
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9a034604-91f9-46d8-a097-d0e268ea802e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rncj0037",
+            "type": "marginalia",
+            "id": "9a034604-91f9-46d8-a097-d0e268ea802e",
+            "grounding": {
+                "box": {
+                    "left": 0.20058706402778625,
+                    "top": 0.975787341594696,
+                    "right": 0.7986599206924438,
+                    "bottom": 0.9998052716255188
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='dd1bcf04-b3ad-4ed1-8478-91a270807344'></a>\n\n<::logo: B&W\nB&W\nThree dark, stylized leaves are arranged above the text \"B&W\" in a monochromatic design.::>\n\n<a id='7192b404-f429-47b7-a155-ff6b68780b92'></a>\n\nBROWN & WILLIAMSON TOBACCO CORPORATION\n\nRESEARCH & DEVELOPMENT\n\nMEETING REPORT\n\n<a id='ba70bd9a-7263-426c-bdc0-5714952d60ea'></a>\n\nSUBJECT: Reduced Ignition Propensity/498\n\nPRESENT: J. Wu, F.K. St. Charles, L. C. Chao, R. A. Gonterman\n\nMEETING DATE: February 7, 1994\n\nISSUE DATE: February 7, 1994\n\nCC: Attendees, T. F. Riehl, A. McMurtrie, R. H. Honeycutt, S. W. Brooks\n\n<a id='54275702-2eb7-4afe-b46f-e464c6346f91'></a>\n\nThe purpose of this meeting was to review the specific follow-up items from the January 24th meeting.\n\n<a id='b56bb00c-ea48-456a-9ba4-3fdd7acad678'></a>\n\n* Lee Chao\n\n<a id='d9d0fccd-36af-4e0d-ace6-59971190f9fe'></a>\n\n1. Run 17-21mm products and SAVANNAH Browns on RIP-4 - Complete (results attached).\n2. Run 498057-062 cigarettes on RIP-4 - Done (results attached).\n3. Run P4049-99, 99A, 99B, and 100 on RIP-4 - In progress (partial results on RIP-6 attached).\n4. Request Art Diesing approval of banded papers - Approved.\n5. Evaluate aluminum chloride as a burn retardant - In progress (a result on GPC attached). Art Diesing approval still needed.\n\n<a id='65239498-ac06-4cfd-994f-05b570f54e56'></a>\n\n* Kelley St. Charles\n\n1. Check with Ecusta on status of IR camera studies - Ecusta getting data ready to be sent - In progress.\n2. Check with KC to see if they could put bands \"long-ways\" - The answer is negative.\n3. Check on \"shrinking\" paper (Cogbill and others) - In progress.\n\n<a id='3dbfcfce-cce1-4edd-af23-4d7bdb0f4b22'></a>\n\n584100573\n\n<a id='9a034604-91f9-46d8-a097-d0e268ea802e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rncj0037",
+            "chunks": [
+                "dd1bcf04-b3ad-4ed1-8478-91a270807344",
+                "7192b404-f429-47b7-a155-ff6b68780b92",
+                "ba70bd9a-7263-426c-bdc0-5714952d60ea",
+                "54275702-2eb7-4afe-b46f-e464c6346f91",
+                "b56bb00c-ea48-456a-9ba4-3fdd7acad678",
+                "d9d0fccd-36af-4e0d-ace6-59971190f9fe",
+                "65239498-ac06-4cfd-994f-05b570f54e56",
+                "3dbfcfce-cce1-4edd-af23-4d7bdb0f4b22",
+                "9a034604-91f9-46d8-a097-d0e268ea802e"
+            ]
+        }
+    ],
+    "grounding": {
+        "dd1bcf04-b3ad-4ed1-8478-91a270807344": {
+            "box": {
+                "left": 0.43559470772743225,
+                "top": 0.05383218824863434,
+                "right": 0.4976014792919159,
+                "bottom": 0.09238237142562866
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "7192b404-f429-47b7-a155-ff6b68780b92": {
+            "box": {
+                "left": 0.2896776795387268,
+                "top": 0.09705515205860138,
+                "right": 0.6445927619934082,
+                "bottom": 0.1678915172815323
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ba70bd9a-7263-426c-bdc0-5714952d60ea": {
+            "box": {
+                "left": 0.13494589924812317,
+                "top": 0.18793100118637085,
+                "right": 0.7599115371704102,
+                "bottom": 0.32840287685394287
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "54275702-2eb7-4afe-b46f-e464c6346f91": {
+            "box": {
+                "left": 0.13568133115768433,
+                "top": 0.3626401722431183,
+                "right": 0.7791577577590942,
+                "bottom": 0.39726564288139343
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b56bb00c-ea48-456a-9ba4-3fdd7acad678": {
+            "box": {
+                "left": 0.1739647537469864,
+                "top": 0.41470029950141907,
+                "right": 0.2761571705341339,
+                "bottom": 0.43389132618904114
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d9d0fccd-36af-4e0d-ace6-59971190f9fe": {
+            "box": {
+                "left": 0.1884099543094635,
+                "top": 0.4399573802947998,
+                "right": 0.7976264953613281,
+                "bottom": 0.6075208187103271
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "65239498-ac06-4cfd-994f-05b570f54e56": {
+            "box": {
+                "left": 0.17372241616249084,
+                "top": 0.6248170137405396,
+                "right": 0.7876298427581787,
+                "bottom": 0.7519134283065796
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3dbfcfce-cce1-4edd-af23-4d7bdb0f4b22": {
+            "box": {
+                "left": 0.6167812347412109,
+                "top": 0.8783949017524719,
+                "right": 0.777920126914978,
+                "bottom": 0.9068878293037415
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9a034604-91f9-46d8-a097-d0e268ea802e": {
+            "box": {
+                "left": 0.20058706402778625,
+                "top": 0.975787341594696,
+                "right": 0.7986599206924438,
+                "bottom": 0.9998052716255188
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "rncj0037_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4745,
+        "credit_usage": 3.0,
+        "job_id": "snr14b7io5tq5pi6t2e10iich",
+        "version": "dpt-2-20250919"
+    }
+}

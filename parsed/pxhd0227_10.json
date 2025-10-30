@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='57c3cd58-4b86-423f-8d4b-fbe0e281ffbf'></a>\n\nHasumura 10\n\n<a id='3cd5632b-3813-494c-97da-d60200ffd70b'></a>\n\n<::\nChronic ethanol consumption\n\u2193\nIncreased acetaldehyde concentration\n\nIncreased acetaldehyde concentration leads to:\n  - Mitochondrial impairment\n\nMitochondrial impairment leads to:\n  - Decreased acetaldehyde metabolism\n\nDecreased acetaldehyde metabolism leads to:\n  - Increased acetaldehyde concentration\n: flowchart::>\n\n<a id='e08cf727-ab66-45b7-a4c6-774095132769'></a>\n\nFigure 1.\n\n<a id='00929a3c-d3ee-444f-96ed-b8a595ea49c9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pxhd0227",
+    "chunks": [
+        {
+            "markdown": "<a id='57c3cd58-4b86-423f-8d4b-fbe0e281ffbf'></a>\n\nHasumura 10",
+            "type": "marginalia",
+            "id": "57c3cd58-4b86-423f-8d4b-fbe0e281ffbf",
+            "grounding": {
+                "box": {
+                    "left": 0.7481034398078918,
+                    "top": 0.08301848918199539,
+                    "right": 0.8703972697257996,
+                    "bottom": 0.10484784096479416
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3cd5632b-3813-494c-97da-d60200ffd70b'></a>\n\n<::\nChronic ethanol consumption\n\u2193\nIncreased acetaldehyde concentration\n\nIncreased acetaldehyde concentration leads to:\n  - Mitochondrial impairment\n\nMitochondrial impairment leads to:\n  - Decreased acetaldehyde metabolism\n\nDecreased acetaldehyde metabolism leads to:\n  - Increased acetaldehyde concentration\n: flowchart::>",
+            "type": "figure",
+            "id": "3cd5632b-3813-494c-97da-d60200ffd70b",
+            "grounding": {
+                "box": {
+                    "left": 0.26284852623939514,
+                    "top": 0.30855369567871094,
+                    "right": 0.7856967449188232,
+                    "bottom": 0.5714511275291443
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e08cf727-ab66-45b7-a4c6-774095132769'></a>\n\nFigure 1.",
+            "type": "marginalia",
+            "id": "e08cf727-ab66-45b7-a4c6-774095132769",
+            "grounding": {
+                "box": {
+                    "left": 0.42476359009742737,
+                    "top": 0.7034538388252258,
+                    "right": 0.5152226686477661,
+                    "bottom": 0.7260958552360535
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='00929a3c-d3ee-444f-96ed-b8a595ea49c9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pxhd0227",
+            "type": "marginalia",
+            "id": "00929a3c-d3ee-444f-96ed-b8a595ea49c9",
+            "grounding": {
+                "box": {
+                    "left": 0.2261713743209839,
+                    "top": 0.9785791635513306,
+                    "right": 0.7762664556503296,
+                    "bottom": 0.9999324083328247
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='57c3cd58-4b86-423f-8d4b-fbe0e281ffbf'></a>\n\nHasumura 10\n\n<a id='3cd5632b-3813-494c-97da-d60200ffd70b'></a>\n\n<::\nChronic ethanol consumption\n\u2193\nIncreased acetaldehyde concentration\n\nIncreased acetaldehyde concentration leads to:\n  - Mitochondrial impairment\n\nMitochondrial impairment leads to:\n  - Decreased acetaldehyde metabolism\n\nDecreased acetaldehyde metabolism leads to:\n  - Increased acetaldehyde concentration\n: flowchart::>\n\n<a id='e08cf727-ab66-45b7-a4c6-774095132769'></a>\n\nFigure 1.\n\n<a id='00929a3c-d3ee-444f-96ed-b8a595ea49c9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pxhd0227",
+            "chunks": [
+                "57c3cd58-4b86-423f-8d4b-fbe0e281ffbf",
+                "3cd5632b-3813-494c-97da-d60200ffd70b",
+                "e08cf727-ab66-45b7-a4c6-774095132769",
+                "00929a3c-d3ee-444f-96ed-b8a595ea49c9"
+            ]
+        }
+    ],
+    "grounding": {
+        "57c3cd58-4b86-423f-8d4b-fbe0e281ffbf": {
+            "box": {
+                "left": 0.7481034398078918,
+                "top": 0.08301848918199539,
+                "right": 0.8703972697257996,
+                "bottom": 0.10484784096479416
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "3cd5632b-3813-494c-97da-d60200ffd70b": {
+            "box": {
+                "left": 0.26284852623939514,
+                "top": 0.30855369567871094,
+                "right": 0.7856967449188232,
+                "bottom": 0.5714511275291443
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "e08cf727-ab66-45b7-a4c6-774095132769": {
+            "box": {
+                "left": 0.42476359009742737,
+                "top": 0.7034538388252258,
+                "right": 0.5152226686477661,
+                "bottom": 0.7260958552360535
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "00929a3c-d3ee-444f-96ed-b8a595ea49c9": {
+            "box": {
+                "left": 0.2261713743209839,
+                "top": 0.9785791635513306,
+                "right": 0.7762664556503296,
+                "bottom": 0.9999324083328247
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "pxhd0227_10.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 12365,
+        "credit_usage": 3.0,
+        "job_id": "ej6he5i1ge01mp8046j7i3xlv",
+        "version": "dpt-2-20250919"
+    }
+}

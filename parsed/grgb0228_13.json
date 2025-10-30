@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='cadd85c1-7b42-414b-8fba-1279c437f84f'></a>\n\nFigure 1\n\n<a id='7d091cbd-a9db-40c8-9934-7349edaa22c0'></a>\n\nORGANIZATIONAL PLAN\n\nLABORATORY RESEARCH DIVISION\n\nTHE SAMUEL ROBERTS NOBLE FOUNDATION, INC.\n\n<a id='96b00692-b7d1-401d-bdc3-1ff9357ff08b'></a>\n\nLABORATORY RESEARCH DIVISION\n\n<a id='3d916212-a130-4065-bd62-13ca79e0fc38'></a>\n\n<::Organizational Chart\n: flowchart::>\n- Research Service Department (Earl Wurman)\n  - Library (Miss Hunter, Miss Reands)\n  - Stockroom (M.W.G. Cox, Stockroom acet.)\n  - Shop Facilities (Mr. Jim Johnson)\n- Research Department (Kruse)\n  - Protein Section (Mellens)\n  - Growth and Respiration Section (M. great... Wallch t..., D. Neumann (Roht E) Ch..., Kisen, Respiration Pattern)\n  - Small Animal Section (Caken)\n<::",
+    "chunks": [
+        {
+            "markdown": "<a id='cadd85c1-7b42-414b-8fba-1279c437f84f'></a>\n\nFigure 1",
+            "type": "text",
+            "id": "cadd85c1-7b42-414b-8fba-1279c437f84f",
+            "grounding": {
+                "box": {
+                    "left": 0.4595493674278259,
+                    "top": 0.13002415001392365,
+                    "right": 0.5380584597587585,
+                    "bottom": 0.159467414021492
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7d091cbd-a9db-40c8-9934-7349edaa22c0'></a>\n\nORGANIZATIONAL PLAN\n\nLABORATORY RESEARCH DIVISION\n\nTHE SAMUEL ROBERTS NOBLE FOUNDATION, INC.",
+            "type": "text",
+            "id": "7d091cbd-a9db-40c8-9934-7349edaa22c0",
+            "grounding": {
+                "box": {
+                    "left": 0.2833409905433655,
+                    "top": 0.19164139032363892,
+                    "right": 0.7000796794891357,
+                    "bottom": 0.31233155727386475
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='96b00692-b7d1-401d-bdc3-1ff9357ff08b'></a>\n\nLABORATORY RESEARCH DIVISION",
+            "type": "text",
+            "id": "96b00692-b7d1-401d-bdc3-1ff9357ff08b",
+            "grounding": {
+                "box": {
+                    "left": 0.325189471244812,
+                    "top": 0.3545112907886505,
+                    "right": 0.6457391977310181,
+                    "bottom": 0.4361264407634735
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3d916212-a130-4065-bd62-13ca79e0fc38'></a>\n\n<::Organizational Chart\n: flowchart::>\n- Research Service Department (Earl Wurman)\n  - Library (Miss Hunter, Miss Reands)\n  - Stockroom (M.W.G. Cox, Stockroom acet.)\n  - Shop Facilities (Mr. Jim Johnson)\n- Research Department (Kruse)\n  - Protein Section (Mellens)\n  - Growth and Respiration Section (M. great... Wallch t..., D. Neumann (Roht E) Ch..., Kisen, Respiration Pattern)\n  - Small Animal Section (Caken)\n<::",
+            "type": "figure",
+            "id": "3d916212-a130-4065-bd62-13ca79e0fc38",
+            "grounding": {
+                "box": {
+                    "left": 0.024327069520950317,
+                    "top": 0.44995200634002686,
+                    "right": 0.9426653385162354,
+                    "bottom": 0.8275705575942993
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='cadd85c1-7b42-414b-8fba-1279c437f84f'></a>\n\nFigure 1\n\n<a id='7d091cbd-a9db-40c8-9934-7349edaa22c0'></a>\n\nORGANIZATIONAL PLAN\n\nLABORATORY RESEARCH DIVISION\n\nTHE SAMUEL ROBERTS NOBLE FOUNDATION, INC.\n\n<a id='96b00692-b7d1-401d-bdc3-1ff9357ff08b'></a>\n\nLABORATORY RESEARCH DIVISION\n\n<a id='3d916212-a130-4065-bd62-13ca79e0fc38'></a>\n\n<::Organizational Chart\n: flowchart::>\n- Research Service Department (Earl Wurman)\n  - Library (Miss Hunter, Miss Reands)\n  - Stockroom (M.W.G. Cox, Stockroom acet.)\n  - Shop Facilities (Mr. Jim Johnson)\n- Research Department (Kruse)\n  - Protein Section (Mellens)\n  - Growth and Respiration Section (M. great... Wallch t..., D. Neumann (Roht E) Ch..., Kisen, Respiration Pattern)\n  - Small Animal Section (Caken)\n<::",
+            "chunks": [
+                "cadd85c1-7b42-414b-8fba-1279c437f84f",
+                "7d091cbd-a9db-40c8-9934-7349edaa22c0",
+                "96b00692-b7d1-401d-bdc3-1ff9357ff08b",
+                "3d916212-a130-4065-bd62-13ca79e0fc38"
+            ]
+        }
+    ],
+    "grounding": {
+        "cadd85c1-7b42-414b-8fba-1279c437f84f": {
+            "box": {
+                "left": 0.4595493674278259,
+                "top": 0.13002415001392365,
+                "right": 0.5380584597587585,
+                "bottom": 0.159467414021492
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7d091cbd-a9db-40c8-9934-7349edaa22c0": {
+            "box": {
+                "left": 0.2833409905433655,
+                "top": 0.19164139032363892,
+                "right": 0.7000796794891357,
+                "bottom": 0.31233155727386475
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "96b00692-b7d1-401d-bdc3-1ff9357ff08b": {
+            "box": {
+                "left": 0.325189471244812,
+                "top": 0.3545112907886505,
+                "right": 0.6457391977310181,
+                "bottom": 0.4361264407634735
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3d916212-a130-4065-bd62-13ca79e0fc38": {
+            "box": {
+                "left": 0.024327069520950317,
+                "top": 0.44995200634002686,
+                "right": 0.9426653385162354,
+                "bottom": 0.8275705575942993
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "grgb0228_13.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8007,
+        "credit_usage": 3.0,
+        "job_id": "cvd2yqppg23r353t3p3hkdso3",
+        "version": "dpt-2-20250919"
+    }
+}

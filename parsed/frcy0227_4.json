@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='561eaa47-2369-4dad-810f-ba8261cb92da'></a>\n\n<::attestation: Check with signature and bank processing stamps\nSigned, Processed\nSignature: C.H. Lushbough\nReadable Text: CITIZENS COMMISSION ON\nSCIENCE LAW AND FOOD SUPPLY\n1230 YORK AVENUE NEW YORK, N. Y. 10021\nJune 11, 19 74\n309\n1-2\n210\nPAY\nTO THE\nORDER OF Dr. A. Hunter Dupree ---\n$ 71.27\nSEVENTY-ONE and 27/100 --- DOLLARS\nJUN 25 74\nTHE CHASE MANHATTAN BANK\nNational Association\n422 Lexington Avenue, New York, N. Y. 10017\n\u24460210\u24490002\u2446 003\u24491\u2449085228\u2448\n\u24480000007127\u2448\nRUDCO CHECKS 001\nShort description of visual elements and positioning: A check with a handwritten signature in the bottom right, a circular stamp with \"A.R.\" inside, and a date stamp \"JUN 25 74\" in the middle.::>\n\n<a id='afa0ca37-3e44-4d7e-9c3f-6e6e95fa0844'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/frcy0227",
+    "chunks": [
+        {
+            "markdown": "<a id='561eaa47-2369-4dad-810f-ba8261cb92da'></a>\n\n<::attestation: Check with signature and bank processing stamps\nSigned, Processed\nSignature: C.H. Lushbough\nReadable Text: CITIZENS COMMISSION ON\nSCIENCE LAW AND FOOD SUPPLY\n1230 YORK AVENUE NEW YORK, N. Y. 10021\nJune 11, 19 74\n309\n1-2\n210\nPAY\nTO THE\nORDER OF Dr. A. Hunter Dupree ---\n$ 71.27\nSEVENTY-ONE and 27/100 --- DOLLARS\nJUN 25 74\nTHE CHASE MANHATTAN BANK\nNational Association\n422 Lexington Avenue, New York, N. Y. 10017\n\u24460210\u24490002\u2446 003\u24491\u2449085228\u2448\n\u24480000007127\u2448\nRUDCO CHECKS 001\nShort description of visual elements and positioning: A check with a handwritten signature in the bottom right, a circular stamp with \"A.R.\" inside, and a date stamp \"JUN 25 74\" in the middle.::>",
+            "type": "attestation",
+            "id": "561eaa47-2369-4dad-810f-ba8261cb92da",
+            "grounding": {
+                "box": {
+                    "left": 0.018531084060668945,
+                    "top": 0.04619801044464111,
+                    "right": 0.9812696576118469,
+                    "bottom": 0.9496272802352905
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='afa0ca37-3e44-4d7e-9c3f-6e6e95fa0844'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/frcy0227",
+            "type": "text",
+            "id": "afa0ca37-3e44-4d7e-9c3f-6e6e95fa0844",
+            "grounding": {
+                "box": {
+                    "left": 0.28979602456092834,
+                    "top": 0.9421838521957397,
+                    "right": 0.7070894241333008,
+                    "bottom": 0.9949498176574707
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='561eaa47-2369-4dad-810f-ba8261cb92da'></a>\n\n<::attestation: Check with signature and bank processing stamps\nSigned, Processed\nSignature: C.H. Lushbough\nReadable Text: CITIZENS COMMISSION ON\nSCIENCE LAW AND FOOD SUPPLY\n1230 YORK AVENUE NEW YORK, N. Y. 10021\nJune 11, 19 74\n309\n1-2\n210\nPAY\nTO THE\nORDER OF Dr. A. Hunter Dupree ---\n$ 71.27\nSEVENTY-ONE and 27/100 --- DOLLARS\nJUN 25 74\nTHE CHASE MANHATTAN BANK\nNational Association\n422 Lexington Avenue, New York, N. Y. 10017\n\u24460210\u24490002\u2446 003\u24491\u2449085228\u2448\n\u24480000007127\u2448\nRUDCO CHECKS 001\nShort description of visual elements and positioning: A check with a handwritten signature in the bottom right, a circular stamp with \"A.R.\" inside, and a date stamp \"JUN 25 74\" in the middle.::>\n\n<a id='afa0ca37-3e44-4d7e-9c3f-6e6e95fa0844'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/frcy0227",
+            "chunks": [
+                "561eaa47-2369-4dad-810f-ba8261cb92da",
+                "afa0ca37-3e44-4d7e-9c3f-6e6e95fa0844"
+            ]
+        }
+    ],
+    "grounding": {
+        "561eaa47-2369-4dad-810f-ba8261cb92da": {
+            "box": {
+                "left": 0.018531084060668945,
+                "top": 0.04619801044464111,
+                "right": 0.9812696576118469,
+                "bottom": 0.9496272802352905
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "afa0ca37-3e44-4d7e-9c3f-6e6e95fa0844": {
+            "box": {
+                "left": 0.28979602456092834,
+                "top": 0.9421838521957397,
+                "right": 0.7070894241333008,
+                "bottom": 0.9949498176574707
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "frcy0227_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 15822,
+        "credit_usage": 3.0,
+        "job_id": "dkjehha0k54844hji6ip0hucq",
+        "version": "dpt-2-20250919"
+    }
+}

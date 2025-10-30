@@ -1,0 +1,378 @@
+{
+    "markdown": "<a id='cd9cf419-90e2-4dd7-a667-3ace9d0900f1'></a>\n\nThe second-hand\nsmokescreen.\nRFC\n\n<a id='73fefaa4-5dde-40eb-a4b3-2ecf7b9b8297'></a>\n\n<::attestation: Official stamp/mark\nRECEIVED\nRECEIVED MAY 14 1985\nCentered, black text::>\n\n<a id='85c7607f-7d90-444c-bc59-fba67806d1d2'></a>\n\nFor decades, public and private organi-\nzations have waged a massive campaign to\ndiscourage cigarette smoking. For most of\nthat time, the target of this effort has been\nthe smoker.\n\n<a id='b99d4c3a-d26d-498e-ba68-909eddaf220e'></a>\n\nRecently, however, the emphasis has\nundergone a major shift. Today there are\nscientists who claim that cigarette smoke\nin the air can actually cause disease in\nnon-smokers. We hear a great deal about\n\"second-hand smoke\" and \"passive\nsmoking.\"\nBut is this new approach wholly moti-\nvated by concern for the non-smoker, or is\nit the same old war on smoking in a new\nguise?\nThese doubts are raised when we re-\ncall statements like the following, by a\nspokesperson for the American Lung\nAssociation:\n\n<a id='768c0161-9548-4ae2-b26c-ff2a39546d82'></a>\n\nProbably the only way we can win a substan-\ntial reduction [in smoking] is if we can somehow\nmake it nonacceptable socially.... We thought the\nscare of medical statistics and opinions would\nproduce a major reduction. It really didn't.\n\n<a id='548a92e3-a3f8-473a-ac6d-484e7dbe6e3d'></a>\n\nObviously, one way to make smoking\n\"nonacceptable socially\" would be to sug-\ngest that second-hand smoke could cause\ndisease. So it is not surprising that we are\nnow seeing a flurry of research seeking sci-\nentific support for these suggestions.\n\n<a id='363c87e7-26e8-4879-a86a-b40049272f11'></a>\n\nMany independent experts believe the\nscientific evidence on passive smoking is\nquestionable. But a zealous group of anti-\nsmokers are using this issue in their cam-\npaign against tobacco as if the claims were\nestablished scientific fact.\n\n<a id='d57e7639-f739-4535-ae52-9a23b38b6810'></a>\n\nWe deplore the actions of those who try\nto manipulate public opinion through scare\ntactics. As the late, respected pathologist,\nDr. H. Russell Fisher, stated in testimony\nsubmitted to a Congressional hearing on\npassive smoking:\n\n<a id='d0340c79-b64f-4fb2-973d-cca9b2110805'></a>\n\n...[I]n the absence of any scientific proof of harm from atmospheric tobacco smoke, we are dealing with a social question and not a medical one. In this regard it should be noted that, since fears and phobias can lead to ill health, those who urge policies based on fear and not scientific facts could be making a medical problem out of a social one. This is indeed a strange prospect to see coming from the efforts of members of the medical profession.\n\n<a id='4d7cbbb6-3192-4813-af17-90a903d1a160'></a>\n\nWe are not ignoring the fact that ciga-\nrette smoke can be bothersome to many\nnon-smokers. But we believe this problem\nis best solved not by governments but by\nindividuals, and not with more rhetoric but\nmore common sense and courtesy.\n\n<a id='f5b59d73-bf78-4f86-bcb2-8b0c8019ade6'></a>\n\nOf course, if anti-smoking advocates\nwant to work for the abolition of smoking,\nthat is their right. We only wish they would\ncome out from behind their second-hand\nsmokescreen.\n\n<a id='2d55c22c-a1fd-45c6-99a4-d053d2fd852a'></a>\n\nR.J. Reynolds Tobacco Company\n\n<a id='4e8fb801-b394-4489-898e-c960e21f1f49'></a>\n\nC 1985 R. J. REYNOLDS TOBACCO CO.\n\n<a id='0cd0ea4f-cb82-4288-b688-1444ee04acfe'></a>\n\n51521 6194",
+    "chunks": [
+        {
+            "markdown": "<a id='cd9cf419-90e2-4dd7-a667-3ace9d0900f1'></a>\n\nThe second-hand\nsmokescreen.\nRFC",
+            "type": "text",
+            "id": "cd9cf419-90e2-4dd7-a667-3ace9d0900f1",
+            "grounding": {
+                "box": {
+                    "left": 0.13429763913154602,
+                    "top": 0.02139170467853546,
+                    "right": 0.8826606273651123,
+                    "bottom": 0.17693710327148438
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='73fefaa4-5dde-40eb-a4b3-2ecf7b9b8297'></a>\n\n<::attestation: Official stamp/mark\nRECEIVED\nRECEIVED MAY 14 1985\nCentered, black text::>",
+            "type": "attestation",
+            "id": "73fefaa4-5dde-40eb-a4b3-2ecf7b9b8297",
+            "grounding": {
+                "box": {
+                    "left": 0.8241270184516907,
+                    "top": 0.15877124667167664,
+                    "right": 0.9612248539924622,
+                    "bottom": 0.2152302861213684
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='85c7607f-7d90-444c-bc59-fba67806d1d2'></a>\n\nFor decades, public and private organi-\nzations have waged a massive campaign to\ndiscourage cigarette smoking. For most of\nthat time, the target of this effort has been\nthe smoker.",
+            "type": "text",
+            "id": "85c7607f-7d90-444c-bc59-fba67806d1d2",
+            "grounding": {
+                "box": {
+                    "left": 0.0936574786901474,
+                    "top": 0.23516590893268585,
+                    "right": 0.4973755478858948,
+                    "bottom": 0.33263251185417175
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b99d4c3a-d26d-498e-ba68-909eddaf220e'></a>\n\nRecently, however, the emphasis has\nundergone a major shift. Today there are\nscientists who claim that cigarette smoke\nin the air can actually cause disease in\nnon-smokers. We hear a great deal about\n\"second-hand smoke\" and \"passive\nsmoking.\"\nBut is this new approach wholly moti-\nvated by concern for the non-smoker, or is\nit the same old war on smoking in a new\nguise?\nThese doubts are raised when we re-\ncall statements like the following, by a\nspokesperson for the American Lung\nAssociation:",
+            "type": "text",
+            "id": "b99d4c3a-d26d-498e-ba68-909eddaf220e",
+            "grounding": {
+                "box": {
+                    "left": 0.09204033017158508,
+                    "top": 0.3323206901550293,
+                    "right": 0.4954266846179962,
+                    "bottom": 0.6137275695800781
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='768c0161-9548-4ae2-b26c-ff2a39546d82'></a>\n\nProbably the only way we can win a substan-\ntial reduction [in smoking] is if we can somehow\nmake it nonacceptable socially.... We thought the\nscare of medical statistics and opinions would\nproduce a major reduction. It really didn't.",
+            "type": "text",
+            "id": "768c0161-9548-4ae2-b26c-ff2a39546d82",
+            "grounding": {
+                "box": {
+                    "left": 0.11281053721904755,
+                    "top": 0.6248673796653748,
+                    "right": 0.4714627265930176,
+                    "bottom": 0.7054228186607361
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='548a92e3-a3f8-473a-ac6d-484e7dbe6e3d'></a>\n\nObviously, one way to make smoking\n\"nonacceptable socially\" would be to sug-\ngest that second-hand smoke could cause\ndisease. So it is not surprising that we are\nnow seeing a flurry of research seeking sci-\nentific support for these suggestions.",
+            "type": "text",
+            "id": "548a92e3-a3f8-473a-ac6d-484e7dbe6e3d",
+            "grounding": {
+                "box": {
+                    "left": 0.08932992815971375,
+                    "top": 0.7149543166160583,
+                    "right": 0.49380555748939514,
+                    "bottom": 0.8349050879478455
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='363c87e7-26e8-4879-a86a-b40049272f11'></a>\n\nMany independent experts believe the\nscientific evidence on passive smoking is\nquestionable. But a zealous group of anti-\nsmokers are using this issue in their cam-\npaign against tobacco as if the claims were\nestablished scientific fact.",
+            "type": "text",
+            "id": "363c87e7-26e8-4879-a86a-b40049272f11",
+            "grounding": {
+                "box": {
+                    "left": 0.5280635952949524,
+                    "top": 0.23667274415493011,
+                    "right": 0.9303049445152283,
+                    "bottom": 0.35177990794181824
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d57e7639-f739-4535-ae52-9a23b38b6810'></a>\n\nWe deplore the actions of those who try\nto manipulate public opinion through scare\ntactics. As the late, respected pathologist,\nDr. H. Russell Fisher, stated in testimony\nsubmitted to a Congressional hearing on\npassive smoking:",
+            "type": "text",
+            "id": "d57e7639-f739-4535-ae52-9a23b38b6810",
+            "grounding": {
+                "box": {
+                    "left": 0.5278578996658325,
+                    "top": 0.3513256311416626,
+                    "right": 0.930020809173584,
+                    "bottom": 0.4665880799293518
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d0340c79-b64f-4fb2-973d-cca9b2110805'></a>\n\n...[I]n the absence of any scientific proof of harm from atmospheric tobacco smoke, we are dealing with a social question and not a medical one. In this regard it should be noted that, since fears and phobias can lead to ill health, those who urge policies based on fear and not scientific facts could be making a medical problem out of a social one. This is indeed a strange prospect to see coming from the efforts of members of the medical profession.",
+            "type": "text",
+            "id": "d0340c79-b64f-4fb2-973d-cca9b2110805",
+            "grounding": {
+                "box": {
+                    "left": 0.5462817549705505,
+                    "top": 0.46838390827178955,
+                    "right": 0.9064580798149109,
+                    "bottom": 0.6194828748703003
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4d7cbbb6-3192-4813-af17-90a903d1a160'></a>\n\nWe are not ignoring the fact that ciga-\nrette smoke can be bothersome to many\nnon-smokers. But we believe this problem\nis best solved not by governments but by\nindividuals, and not with more rhetoric but\nmore common sense and courtesy.",
+            "type": "text",
+            "id": "4d7cbbb6-3192-4813-af17-90a903d1a160",
+            "grounding": {
+                "box": {
+                    "left": 0.5250097513198853,
+                    "top": 0.6221992373466492,
+                    "right": 0.9266930818557739,
+                    "bottom": 0.7370126843452454
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f5b59d73-bf78-4f86-bcb2-8b0c8019ade6'></a>\n\nOf course, if anti-smoking advocates\nwant to work for the abolition of smoking,\nthat is their right. We only wish they would\ncome out from behind their second-hand\nsmokescreen.",
+            "type": "text",
+            "id": "f5b59d73-bf78-4f86-bcb2-8b0c8019ade6",
+            "grounding": {
+                "box": {
+                    "left": 0.5247914791107178,
+                    "top": 0.7360207438468933,
+                    "right": 0.9269818067550659,
+                    "bottom": 0.8327092528343201
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2d55c22c-a1fd-45c6-99a4-d053d2fd852a'></a>\n\nR.J. Reynolds Tobacco Company",
+            "type": "text",
+            "id": "2d55c22c-a1fd-45c6-99a4-d053d2fd852a",
+            "grounding": {
+                "box": {
+                    "left": 0.29282957315444946,
+                    "top": 0.8693341612815857,
+                    "right": 0.7222978472709656,
+                    "bottom": 0.9066523909568787
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4e8fb801-b394-4489-898e-c960e21f1f49'></a>\n\nC 1985 R. J. REYNOLDS TOBACCO CO.",
+            "type": "marginalia",
+            "id": "4e8fb801-b394-4489-898e-c960e21f1f49",
+            "grounding": {
+                "box": {
+                    "left": 0.08357910811901093,
+                    "top": 0.9089913964271545,
+                    "right": 0.24188081920146942,
+                    "bottom": 0.9250752329826355
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0cd0ea4f-cb82-4288-b688-1444ee04acfe'></a>\n\n51521 6194",
+            "type": "marginalia",
+            "id": "0cd0ea4f-cb82-4288-b688-1444ee04acfe",
+            "grounding": {
+                "box": {
+                    "left": 0.9579424262046814,
+                    "top": 0.8018791079521179,
+                    "right": 0.9855065941810608,
+                    "bottom": 0.9038200974464417
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='cd9cf419-90e2-4dd7-a667-3ace9d0900f1'></a>\n\nThe second-hand\nsmokescreen.\nRFC\n\n<a id='73fefaa4-5dde-40eb-a4b3-2ecf7b9b8297'></a>\n\n<::attestation: Official stamp/mark\nRECEIVED\nRECEIVED MAY 14 1985\nCentered, black text::>\n\n<a id='85c7607f-7d90-444c-bc59-fba67806d1d2'></a>\n\nFor decades, public and private organi-\nzations have waged a massive campaign to\ndiscourage cigarette smoking. For most of\nthat time, the target of this effort has been\nthe smoker.\n\n<a id='b99d4c3a-d26d-498e-ba68-909eddaf220e'></a>\n\nRecently, however, the emphasis has\nundergone a major shift. Today there are\nscientists who claim that cigarette smoke\nin the air can actually cause disease in\nnon-smokers. We hear a great deal about\n\"second-hand smoke\" and \"passive\nsmoking.\"\nBut is this new approach wholly moti-\nvated by concern for the non-smoker, or is\nit the same old war on smoking in a new\nguise?\nThese doubts are raised when we re-\ncall statements like the following, by a\nspokesperson for the American Lung\nAssociation:\n\n<a id='768c0161-9548-4ae2-b26c-ff2a39546d82'></a>\n\nProbably the only way we can win a substan-\ntial reduction [in smoking] is if we can somehow\nmake it nonacceptable socially.... We thought the\nscare of medical statistics and opinions would\nproduce a major reduction. It really didn't.\n\n<a id='548a92e3-a3f8-473a-ac6d-484e7dbe6e3d'></a>\n\nObviously, one way to make smoking\n\"nonacceptable socially\" would be to sug-\ngest that second-hand smoke could cause\ndisease. So it is not surprising that we are\nnow seeing a flurry of research seeking sci-\nentific support for these suggestions.\n\n<a id='363c87e7-26e8-4879-a86a-b40049272f11'></a>\n\nMany independent experts believe the\nscientific evidence on passive smoking is\nquestionable. But a zealous group of anti-\nsmokers are using this issue in their cam-\npaign against tobacco as if the claims were\nestablished scientific fact.\n\n<a id='d57e7639-f739-4535-ae52-9a23b38b6810'></a>\n\nWe deplore the actions of those who try\nto manipulate public opinion through scare\ntactics. As the late, respected pathologist,\nDr. H. Russell Fisher, stated in testimony\nsubmitted to a Congressional hearing on\npassive smoking:\n\n<a id='d0340c79-b64f-4fb2-973d-cca9b2110805'></a>\n\n...[I]n the absence of any scientific proof of harm from atmospheric tobacco smoke, we are dealing with a social question and not a medical one. In this regard it should be noted that, since fears and phobias can lead to ill health, those who urge policies based on fear and not scientific facts could be making a medical problem out of a social one. This is indeed a strange prospect to see coming from the efforts of members of the medical profession.\n\n<a id='4d7cbbb6-3192-4813-af17-90a903d1a160'></a>\n\nWe are not ignoring the fact that ciga-\nrette smoke can be bothersome to many\nnon-smokers. But we believe this problem\nis best solved not by governments but by\nindividuals, and not with more rhetoric but\nmore common sense and courtesy.\n\n<a id='f5b59d73-bf78-4f86-bcb2-8b0c8019ade6'></a>\n\nOf course, if anti-smoking advocates\nwant to work for the abolition of smoking,\nthat is their right. We only wish they would\ncome out from behind their second-hand\nsmokescreen.\n\n<a id='2d55c22c-a1fd-45c6-99a4-d053d2fd852a'></a>\n\nR.J. Reynolds Tobacco Company\n\n<a id='4e8fb801-b394-4489-898e-c960e21f1f49'></a>\n\nC 1985 R. J. REYNOLDS TOBACCO CO.\n\n<a id='0cd0ea4f-cb82-4288-b688-1444ee04acfe'></a>\n\n51521 6194",
+            "chunks": [
+                "cd9cf419-90e2-4dd7-a667-3ace9d0900f1",
+                "73fefaa4-5dde-40eb-a4b3-2ecf7b9b8297",
+                "85c7607f-7d90-444c-bc59-fba67806d1d2",
+                "b99d4c3a-d26d-498e-ba68-909eddaf220e",
+                "768c0161-9548-4ae2-b26c-ff2a39546d82",
+                "548a92e3-a3f8-473a-ac6d-484e7dbe6e3d",
+                "363c87e7-26e8-4879-a86a-b40049272f11",
+                "d57e7639-f739-4535-ae52-9a23b38b6810",
+                "d0340c79-b64f-4fb2-973d-cca9b2110805",
+                "4d7cbbb6-3192-4813-af17-90a903d1a160",
+                "f5b59d73-bf78-4f86-bcb2-8b0c8019ade6",
+                "2d55c22c-a1fd-45c6-99a4-d053d2fd852a",
+                "4e8fb801-b394-4489-898e-c960e21f1f49",
+                "0cd0ea4f-cb82-4288-b688-1444ee04acfe"
+            ]
+        }
+    ],
+    "grounding": {
+        "cd9cf419-90e2-4dd7-a667-3ace9d0900f1": {
+            "box": {
+                "left": 0.13429763913154602,
+                "top": 0.02139170467853546,
+                "right": 0.8826606273651123,
+                "bottom": 0.17693710327148438
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "73fefaa4-5dde-40eb-a4b3-2ecf7b9b8297": {
+            "box": {
+                "left": 0.8241270184516907,
+                "top": 0.15877124667167664,
+                "right": 0.9612248539924622,
+                "bottom": 0.2152302861213684
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "85c7607f-7d90-444c-bc59-fba67806d1d2": {
+            "box": {
+                "left": 0.0936574786901474,
+                "top": 0.23516590893268585,
+                "right": 0.4973755478858948,
+                "bottom": 0.33263251185417175
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b99d4c3a-d26d-498e-ba68-909eddaf220e": {
+            "box": {
+                "left": 0.09204033017158508,
+                "top": 0.3323206901550293,
+                "right": 0.4954266846179962,
+                "bottom": 0.6137275695800781
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "768c0161-9548-4ae2-b26c-ff2a39546d82": {
+            "box": {
+                "left": 0.11281053721904755,
+                "top": 0.6248673796653748,
+                "right": 0.4714627265930176,
+                "bottom": 0.7054228186607361
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "548a92e3-a3f8-473a-ac6d-484e7dbe6e3d": {
+            "box": {
+                "left": 0.08932992815971375,
+                "top": 0.7149543166160583,
+                "right": 0.49380555748939514,
+                "bottom": 0.8349050879478455
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "363c87e7-26e8-4879-a86a-b40049272f11": {
+            "box": {
+                "left": 0.5280635952949524,
+                "top": 0.23667274415493011,
+                "right": 0.9303049445152283,
+                "bottom": 0.35177990794181824
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d57e7639-f739-4535-ae52-9a23b38b6810": {
+            "box": {
+                "left": 0.5278578996658325,
+                "top": 0.3513256311416626,
+                "right": 0.930020809173584,
+                "bottom": 0.4665880799293518
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d0340c79-b64f-4fb2-973d-cca9b2110805": {
+            "box": {
+                "left": 0.5462817549705505,
+                "top": 0.46838390827178955,
+                "right": 0.9064580798149109,
+                "bottom": 0.6194828748703003
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4d7cbbb6-3192-4813-af17-90a903d1a160": {
+            "box": {
+                "left": 0.5250097513198853,
+                "top": 0.6221992373466492,
+                "right": 0.9266930818557739,
+                "bottom": 0.7370126843452454
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f5b59d73-bf78-4f86-bcb2-8b0c8019ade6": {
+            "box": {
+                "left": 0.5247914791107178,
+                "top": 0.7360207438468933,
+                "right": 0.9269818067550659,
+                "bottom": 0.8327092528343201
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2d55c22c-a1fd-45c6-99a4-d053d2fd852a": {
+            "box": {
+                "left": 0.29282957315444946,
+                "top": 0.8693341612815857,
+                "right": 0.7222978472709656,
+                "bottom": 0.9066523909568787
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4e8fb801-b394-4489-898e-c960e21f1f49": {
+            "box": {
+                "left": 0.08357910811901093,
+                "top": 0.9089913964271545,
+                "right": 0.24188081920146942,
+                "bottom": 0.9250752329826355
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "0cd0ea4f-cb82-4288-b688-1444ee04acfe": {
+            "box": {
+                "left": 0.9579424262046814,
+                "top": 0.8018791079521179,
+                "right": 0.9855065941810608,
+                "bottom": 0.9038200974464417
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xsdp0078_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4680,
+        "credit_usage": 3.0,
+        "job_id": "fulea2ddkikfllhi6p43hmfr7",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='615aa351-38f5-40ae-a514-54c3b180044c'></a>\n\nTuskegee Institute\n\n<a id='573c929a-717f-45df-88e8-03ccfc3e84c5'></a>\n\nPhotographs\n\n<a id='213f1a2d-7de2-424d-84af-64fd35653ef3'></a>\n\nMagic Moments\nProject # 512\nNutrition Education\nfor K-6th Grade Teachers\n\n<a id='18638b82-b5d0-4521-a161-6cfe42b9d92f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qjgx0227",
+    "chunks": [
+        {
+            "markdown": "<a id='615aa351-38f5-40ae-a514-54c3b180044c'></a>\n\nTuskegee Institute",
+            "type": "text",
+            "id": "615aa351-38f5-40ae-a514-54c3b180044c",
+            "grounding": {
+                "box": {
+                    "left": 0.013125285506248474,
+                    "top": 0.030222665518522263,
+                    "right": 0.33332353830337524,
+                    "bottom": 0.1385788768529892
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='573c929a-717f-45df-88e8-03ccfc3e84c5'></a>\n\nPhotographs",
+            "type": "text",
+            "id": "573c929a-717f-45df-88e8-03ccfc3e84c5",
+            "grounding": {
+                "box": {
+                    "left": 0.4814905524253845,
+                    "top": 0.02836969867348671,
+                    "right": 0.819797694683075,
+                    "bottom": 0.13530519604682922
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='213f1a2d-7de2-424d-84af-64fd35653ef3'></a>\n\nMagic Moments\nProject # 512\nNutrition Education\nfor K-6th Grade Teachers",
+            "type": "text",
+            "id": "213f1a2d-7de2-424d-84af-64fd35653ef3",
+            "grounding": {
+                "box": {
+                    "left": 0.15535405278205872,
+                    "top": 0.10961160063743591,
+                    "right": 0.991037130355835,
+                    "bottom": 0.2706966698169708
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='18638b82-b5d0-4521-a161-6cfe42b9d92f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qjgx0227",
+            "type": "text",
+            "id": "18638b82-b5d0-4521-a161-6cfe42b9d92f",
+            "grounding": {
+                "box": {
+                    "left": 0.14810436964035034,
+                    "top": 0.9441478848457336,
+                    "right": 0.855151355266571,
+                    "bottom": 0.9972766041755676
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='615aa351-38f5-40ae-a514-54c3b180044c'></a>\n\nTuskegee Institute\n\n<a id='573c929a-717f-45df-88e8-03ccfc3e84c5'></a>\n\nPhotographs\n\n<a id='213f1a2d-7de2-424d-84af-64fd35653ef3'></a>\n\nMagic Moments\nProject # 512\nNutrition Education\nfor K-6th Grade Teachers\n\n<a id='18638b82-b5d0-4521-a161-6cfe42b9d92f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qjgx0227",
+            "chunks": [
+                "615aa351-38f5-40ae-a514-54c3b180044c",
+                "573c929a-717f-45df-88e8-03ccfc3e84c5",
+                "213f1a2d-7de2-424d-84af-64fd35653ef3",
+                "18638b82-b5d0-4521-a161-6cfe42b9d92f"
+            ]
+        }
+    ],
+    "grounding": {
+        "615aa351-38f5-40ae-a514-54c3b180044c": {
+            "box": {
+                "left": 0.013125285506248474,
+                "top": 0.030222665518522263,
+                "right": 0.33332353830337524,
+                "bottom": 0.1385788768529892
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "573c929a-717f-45df-88e8-03ccfc3e84c5": {
+            "box": {
+                "left": 0.4814905524253845,
+                "top": 0.02836969867348671,
+                "right": 0.819797694683075,
+                "bottom": 0.13530519604682922
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "213f1a2d-7de2-424d-84af-64fd35653ef3": {
+            "box": {
+                "left": 0.15535405278205872,
+                "top": 0.10961160063743591,
+                "right": 0.991037130355835,
+                "bottom": 0.2706966698169708
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "18638b82-b5d0-4521-a161-6cfe42b9d92f": {
+            "box": {
+                "left": 0.14810436964035034,
+                "top": 0.9441478848457336,
+                "right": 0.855151355266571,
+                "bottom": 0.9972766041755676
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qjgx0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4358,
+        "credit_usage": 3.0,
+        "job_id": "cfbv4t0xyrz54qq1fjmbndn7g",
+        "version": "dpt-2-20250919"
+    }
+}

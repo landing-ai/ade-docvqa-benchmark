@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='1dcd28b4-03d7-4a05-86ea-9ecc7049fc4c'></a>\n\n<::A scatter plot titled \"BLOOD PRESSURE (mm Hg)\" on the y-axis versus \"SALT INTAKE (g/day)\" on the x-axis.\n\nThe x-axis ranges from 0 to 28 in increments of 4.\n\nThe y-axis ranges from 60 to 180 in increments of 10. The y-axis is divided into two sections: \"Diastolic\" (from 60 to approximately 100) and \"Systolic\" (from approximately 100 to 180).\n\nThere are two sets of data points and corresponding regression lines:\n\n1.  **Systolic Blood Pressure**: Represented by filled circles. The regression line for systolic blood pressure is labeled \"Y = 114 + 1.60X\".\n2.  **Diastolic Blood Pressure**: Represented by open circles. The regression line for diastolic blood pressure is labeled \"Y = 73.8 + 78 X\".\n\nThe legend indicates:\n-   An open square represents \"two values\".\n-   A filled square represents \"two values\".\n\nData points are scattered around both regression lines, showing a general positive correlation between salt intake and both systolic and diastolic blood pressure.\n: chart::>\n\n<a id='514fdf11-b74c-41d4-98c9-9f0d71bb25f9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/njnf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='1dcd28b4-03d7-4a05-86ea-9ecc7049fc4c'></a>\n\n<::A scatter plot titled \"BLOOD PRESSURE (mm Hg)\" on the y-axis versus \"SALT INTAKE (g/day)\" on the x-axis.\n\nThe x-axis ranges from 0 to 28 in increments of 4.\n\nThe y-axis ranges from 60 to 180 in increments of 10. The y-axis is divided into two sections: \"Diastolic\" (from 60 to approximately 100) and \"Systolic\" (from approximately 100 to 180).\n\nThere are two sets of data points and corresponding regression lines:\n\n1.  **Systolic Blood Pressure**: Represented by filled circles. The regression line for systolic blood pressure is labeled \"Y = 114 + 1.60X\".\n2.  **Diastolic Blood Pressure**: Represented by open circles. The regression line for diastolic blood pressure is labeled \"Y = 73.8 + 78 X\".\n\nThe legend indicates:\n-   An open square represents \"two values\".\n-   A filled square represents \"two values\".\n\nData points are scattered around both regression lines, showing a general positive correlation between salt intake and both systolic and diastolic blood pressure.\n: chart::>",
+            "type": "figure",
+            "id": "1dcd28b4-03d7-4a05-86ea-9ecc7049fc4c",
+            "grounding": {
+                "box": {
+                    "left": 0.2137218713760376,
+                    "top": 0.27019286155700684,
+                    "right": 0.731246829032898,
+                    "bottom": 0.7308883666992188
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='514fdf11-b74c-41d4-98c9-9f0d71bb25f9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/njnf0227",
+            "type": "marginalia",
+            "id": "514fdf11-b74c-41d4-98c9-9f0d71bb25f9",
+            "grounding": {
+                "box": {
+                    "left": 0.22837325930595398,
+                    "top": 0.9799478054046631,
+                    "right": 0.7690632343292236,
+                    "bottom": 0.998918890953064
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='1dcd28b4-03d7-4a05-86ea-9ecc7049fc4c'></a>\n\n<::A scatter plot titled \"BLOOD PRESSURE (mm Hg)\" on the y-axis versus \"SALT INTAKE (g/day)\" on the x-axis.\n\nThe x-axis ranges from 0 to 28 in increments of 4.\n\nThe y-axis ranges from 60 to 180 in increments of 10. The y-axis is divided into two sections: \"Diastolic\" (from 60 to approximately 100) and \"Systolic\" (from approximately 100 to 180).\n\nThere are two sets of data points and corresponding regression lines:\n\n1.  **Systolic Blood Pressure**: Represented by filled circles. The regression line for systolic blood pressure is labeled \"Y = 114 + 1.60X\".\n2.  **Diastolic Blood Pressure**: Represented by open circles. The regression line for diastolic blood pressure is labeled \"Y = 73.8 + 78 X\".\n\nThe legend indicates:\n-   An open square represents \"two values\".\n-   A filled square represents \"two values\".\n\nData points are scattered around both regression lines, showing a general positive correlation between salt intake and both systolic and diastolic blood pressure.\n: chart::>\n\n<a id='514fdf11-b74c-41d4-98c9-9f0d71bb25f9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/njnf0227",
+            "chunks": [
+                "1dcd28b4-03d7-4a05-86ea-9ecc7049fc4c",
+                "514fdf11-b74c-41d4-98c9-9f0d71bb25f9"
+            ]
+        }
+    ],
+    "grounding": {
+        "1dcd28b4-03d7-4a05-86ea-9ecc7049fc4c": {
+            "box": {
+                "left": 0.2137218713760376,
+                "top": 0.27019286155700684,
+                "right": 0.731246829032898,
+                "bottom": 0.7308883666992188
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "514fdf11-b74c-41d4-98c9-9f0d71bb25f9": {
+            "box": {
+                "left": 0.22837325930595398,
+                "top": 0.9799478054046631,
+                "right": 0.7690632343292236,
+                "bottom": 0.998918890953064
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "njnf0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9073,
+        "credit_usage": 3.0,
+        "job_id": "y59wopymttkjjz728ku3zaz1d",
+        "version": "dpt-2-20250919"
+    }
+}

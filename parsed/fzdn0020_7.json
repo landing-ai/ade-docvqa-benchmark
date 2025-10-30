@@ -1,0 +1,688 @@
+{
+    "markdown": "<a id='8b166d18-1df3-4614-a906-9700ff6bc54b'></a>\n\n10. *What percentage of your Inside Sales does the cigarette category currently represent?*\n<table id=\"0-1\">\n<tr><td id=\"0-2\">%'s</td><td id=\"0-3\">0-10%</td><td id=\"0-4\">11-16%</td><td id=\"0-5\">17-25%</td><td id=\"0-6\">36-33%</td><td id=\"0-7\">34-40%</td><td id=\"0-8\">41-50%</td></tr>\n<tr><td id=\"0-9\"># OF RESPONSES</td><td id=\"0-a\"></td><td id=\"0-b\">2</td><td id=\"0-c\">17</td><td id=\"0-d\">7</td><td id=\"0-e\">2</td><td id=\"0-f\">2</td></tr>\n</table>\n\n<a id='267a18aa-95fb-46b2-8ece-f4310d05654f'></a>\n\nNOTE: # of people who did not answer the question = 1\n<table id=\"0-g\">\n<tr><td id=\"0-h\" colspan=\"8\">11. What percentage of your Total Sales does the cigarette category currently represent?</td></tr>\n<tr><td id=\"0-i\">%'s</td><td id=\"0-j\">0-5%</td><td id=\"0-k\">6-10%</td><td id=\"0-l\">11-16%</td><td id=\"0-m\">17-25%</td><td id=\"0-n\">26-33%</td><td id=\"0-o\">34-40%</td><td id=\"0-p\">41-50%</td></tr>\n<tr><td id=\"0-q\"># OF RESPONSES</td><td id=\"0-r\">2</td><td id=\"0-s\">4</td><td id=\"0-t\">10</td><td id=\"0-u\">4</td><td id=\"0-v\">2</td><td id=\"0-w\">1</td><td id=\"0-x\"></td></tr>\n</table>\nNOTE: # of people who did not answer the question = 8\n\n<a id='5b2b8693-9390-4ac4-b1e1-ca79ffc0b71a'></a>\n\n12. Is your organization currently in the carton sales business as well as pack?\nIf no, what is your level of interest in pursing carton sales?\n\nYES: 27\nNO: 4 (two of the respondents indicated their level of interest was very little, while 1 indicated they had no interest and the fourth did not indicate.)\n\n<a id='f9a8903c-a63c-4190-af78-3633061d65a9'></a>\n\n13. If known, what is the average $ ring when cigarettes are purchased?\n(Below is a list of the prices given. Each was only mentioned once)\n\n1. $3.50\n5. $3.26\n2. $4.33\n6. $1.50\n3. $2.57\n7. $3.00\n4. $5.00\n8. $2.05\n\n<a id='4266150e-ab45-434e-a4d8-97e4bd473f3b'></a>\n\nNote: The number of people who did not answer this question = 23\n\n<a id='81a24915-b223-40ec-87ec-c96b7ce57dc7'></a>\n\n14. If known, what is the average $ ring when cigarettes are purchased, excluding the\nvalue of the cigarettes purchased? (The following answers were each given once)\n<table id=\"0-y\">\n<tr><td id=\"0-z\">1.</td><td id=\"0-A\">$2.50</td><td id=\"0-B\">4.</td><td id=\"0-C\">$1.30</td></tr>\n<tr><td id=\"0-D\">2</td><td id=\"0-E\">$1.79</td><td id=\"0-F\">5.</td><td id=\"0-G\">$2.10</td></tr>\n<tr><td id=\"0-H\">3.</td><td id=\"0-I\">$0.90</td><td id=\"0-J\">6.</td><td id=\"0-K\">$6.50</td></tr>\n</table>\nNote: The number of people who did not answer this question = 25\n\n<a id='d842fa4b-cdd9-4bb7-91d2-2c995d45d57c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fzdo0020\n\n<a id='ac22922a-f8b4-4aac-ae21-b58c578c0916'></a>\n\n52426 6266",
+    "chunks": [
+        {
+            "markdown": "<a id='8b166d18-1df3-4614-a906-9700ff6bc54b'></a>\n\n10. *What percentage of your Inside Sales does the cigarette category currently represent?*\n<table id=\"0-1\">\n<tr><td id=\"0-2\">%'s</td><td id=\"0-3\">0-10%</td><td id=\"0-4\">11-16%</td><td id=\"0-5\">17-25%</td><td id=\"0-6\">36-33%</td><td id=\"0-7\">34-40%</td><td id=\"0-8\">41-50%</td></tr>\n<tr><td id=\"0-9\"># OF RESPONSES</td><td id=\"0-a\"></td><td id=\"0-b\">2</td><td id=\"0-c\">17</td><td id=\"0-d\">7</td><td id=\"0-e\">2</td><td id=\"0-f\">2</td></tr>\n</table>",
+            "type": "table",
+            "id": "8b166d18-1df3-4614-a906-9700ff6bc54b",
+            "grounding": {
+                "box": {
+                    "left": 0.08488968014717102,
+                    "top": 0.06682732701301575,
+                    "right": 0.8529685735702515,
+                    "bottom": 0.18543487787246704
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='267a18aa-95fb-46b2-8ece-f4310d05654f'></a>\n\nNOTE: # of people who did not answer the question = 1\n<table id=\"0-g\">\n<tr><td id=\"0-h\" colspan=\"8\">11. What percentage of your Total Sales does the cigarette category currently represent?</td></tr>\n<tr><td id=\"0-i\">%'s</td><td id=\"0-j\">0-5%</td><td id=\"0-k\">6-10%</td><td id=\"0-l\">11-16%</td><td id=\"0-m\">17-25%</td><td id=\"0-n\">26-33%</td><td id=\"0-o\">34-40%</td><td id=\"0-p\">41-50%</td></tr>\n<tr><td id=\"0-q\"># OF RESPONSES</td><td id=\"0-r\">2</td><td id=\"0-s\">4</td><td id=\"0-t\">10</td><td id=\"0-u\">4</td><td id=\"0-v\">2</td><td id=\"0-w\">1</td><td id=\"0-x\"></td></tr>\n</table>\nNOTE: # of people who did not answer the question = 8",
+            "type": "table",
+            "id": "267a18aa-95fb-46b2-8ece-f4310d05654f",
+            "grounding": {
+                "box": {
+                    "left": 0.08532631397247314,
+                    "top": 0.20081022381782532,
+                    "right": 0.8538855910301208,
+                    "bottom": 0.42707350850105286
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5b2b8693-9390-4ac4-b1e1-ca79ffc0b71a'></a>\n\n12. Is your organization currently in the carton sales business as well as pack?\nIf no, what is your level of interest in pursing carton sales?\n\nYES: 27\nNO: 4 (two of the respondents indicated their level of interest was very little, while 1 indicated they had no interest and the fourth did not indicate.)",
+            "type": "text",
+            "id": "5b2b8693-9390-4ac4-b1e1-ca79ffc0b71a",
+            "grounding": {
+                "box": {
+                    "left": 0.07609882950782776,
+                    "top": 0.4356057047843933,
+                    "right": 0.8506560325622559,
+                    "bottom": 0.5567080974578857
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f9a8903c-a63c-4190-af78-3633061d65a9'></a>\n\n13. If known, what is the average $ ring when cigarettes are purchased?\n(Below is a list of the prices given. Each was only mentioned once)\n\n1. $3.50\n5. $3.26\n2. $4.33\n6. $1.50\n3. $2.57\n7. $3.00\n4. $5.00\n8. $2.05",
+            "type": "text",
+            "id": "f9a8903c-a63c-4190-af78-3633061d65a9",
+            "grounding": {
+                "box": {
+                    "left": 0.0941125750541687,
+                    "top": 0.5793129205703735,
+                    "right": 0.7145571708679199,
+                    "bottom": 0.7166802883148193
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4266150e-ab45-434e-a4d8-97e4bd473f3b'></a>\n\nNote: The number of people who did not answer this question = 23",
+            "type": "text",
+            "id": "4266150e-ab45-434e-a4d8-97e4bd473f3b",
+            "grounding": {
+                "box": {
+                    "left": 0.09749612212181091,
+                    "top": 0.7235410213470459,
+                    "right": 0.6390335559844971,
+                    "bottom": 0.7507011890411377
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='81a24915-b223-40ec-87ec-c96b7ce57dc7'></a>\n\n14. If known, what is the average $ ring when cigarettes are purchased, excluding the\nvalue of the cigarettes purchased? (The following answers were each given once)\n<table id=\"0-y\">\n<tr><td id=\"0-z\">1.</td><td id=\"0-A\">$2.50</td><td id=\"0-B\">4.</td><td id=\"0-C\">$1.30</td></tr>\n<tr><td id=\"0-D\">2</td><td id=\"0-E\">$1.79</td><td id=\"0-F\">5.</td><td id=\"0-G\">$2.10</td></tr>\n<tr><td id=\"0-H\">3.</td><td id=\"0-I\">$0.90</td><td id=\"0-J\">6.</td><td id=\"0-K\">$6.50</td></tr>\n</table>\nNote: The number of people who did not answer this question = 25",
+            "type": "table",
+            "id": "81a24915-b223-40ec-87ec-c96b7ce57dc7",
+            "grounding": {
+                "box": {
+                    "left": 0.09795179963111877,
+                    "top": 0.778047502040863,
+                    "right": 0.8227386474609375,
+                    "bottom": 0.931311309337616
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d842fa4b-cdd9-4bb7-91d2-2c995d45d57c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fzdo0020",
+            "type": "marginalia",
+            "id": "d842fa4b-cdd9-4bb7-91d2-2c995d45d57c",
+            "grounding": {
+                "box": {
+                    "left": 0.21460437774658203,
+                    "top": 0.9766107201576233,
+                    "right": 0.7844552397727966,
+                    "bottom": 0.9992950558662415
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ac22922a-f8b4-4aac-ae21-b58c578c0916'></a>\n\n52426 6266",
+            "type": "marginalia",
+            "id": "ac22922a-f8b4-4aac-ae21-b58c578c0916",
+            "grounding": {
+                "box": {
+                    "left": 0.8962544202804565,
+                    "top": 0.854082465171814,
+                    "right": 0.9282329082489014,
+                    "bottom": 0.9559997320175171
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='8b166d18-1df3-4614-a906-9700ff6bc54b'></a>\n\n10. *What percentage of your Inside Sales does the cigarette category currently represent?*\n<table id=\"0-1\">\n<tr><td id=\"0-2\">%'s</td><td id=\"0-3\">0-10%</td><td id=\"0-4\">11-16%</td><td id=\"0-5\">17-25%</td><td id=\"0-6\">36-33%</td><td id=\"0-7\">34-40%</td><td id=\"0-8\">41-50%</td></tr>\n<tr><td id=\"0-9\"># OF RESPONSES</td><td id=\"0-a\"></td><td id=\"0-b\">2</td><td id=\"0-c\">17</td><td id=\"0-d\">7</td><td id=\"0-e\">2</td><td id=\"0-f\">2</td></tr>\n</table>\n\n<a id='267a18aa-95fb-46b2-8ece-f4310d05654f'></a>\n\nNOTE: # of people who did not answer the question = 1\n<table id=\"0-g\">\n<tr><td id=\"0-h\" colspan=\"8\">11. What percentage of your Total Sales does the cigarette category currently represent?</td></tr>\n<tr><td id=\"0-i\">%'s</td><td id=\"0-j\">0-5%</td><td id=\"0-k\">6-10%</td><td id=\"0-l\">11-16%</td><td id=\"0-m\">17-25%</td><td id=\"0-n\">26-33%</td><td id=\"0-o\">34-40%</td><td id=\"0-p\">41-50%</td></tr>\n<tr><td id=\"0-q\"># OF RESPONSES</td><td id=\"0-r\">2</td><td id=\"0-s\">4</td><td id=\"0-t\">10</td><td id=\"0-u\">4</td><td id=\"0-v\">2</td><td id=\"0-w\">1</td><td id=\"0-x\"></td></tr>\n</table>\nNOTE: # of people who did not answer the question = 8\n\n<a id='5b2b8693-9390-4ac4-b1e1-ca79ffc0b71a'></a>\n\n12. Is your organization currently in the carton sales business as well as pack?\nIf no, what is your level of interest in pursing carton sales?\n\nYES: 27\nNO: 4 (two of the respondents indicated their level of interest was very little, while 1 indicated they had no interest and the fourth did not indicate.)\n\n<a id='f9a8903c-a63c-4190-af78-3633061d65a9'></a>\n\n13. If known, what is the average $ ring when cigarettes are purchased?\n(Below is a list of the prices given. Each was only mentioned once)\n\n1. $3.50\n5. $3.26\n2. $4.33\n6. $1.50\n3. $2.57\n7. $3.00\n4. $5.00\n8. $2.05\n\n<a id='4266150e-ab45-434e-a4d8-97e4bd473f3b'></a>\n\nNote: The number of people who did not answer this question = 23\n\n<a id='81a24915-b223-40ec-87ec-c96b7ce57dc7'></a>\n\n14. If known, what is the average $ ring when cigarettes are purchased, excluding the\nvalue of the cigarettes purchased? (The following answers were each given once)\n<table id=\"0-y\">\n<tr><td id=\"0-z\">1.</td><td id=\"0-A\">$2.50</td><td id=\"0-B\">4.</td><td id=\"0-C\">$1.30</td></tr>\n<tr><td id=\"0-D\">2</td><td id=\"0-E\">$1.79</td><td id=\"0-F\">5.</td><td id=\"0-G\">$2.10</td></tr>\n<tr><td id=\"0-H\">3.</td><td id=\"0-I\">$0.90</td><td id=\"0-J\">6.</td><td id=\"0-K\">$6.50</td></tr>\n</table>\nNote: The number of people who did not answer this question = 25\n\n<a id='d842fa4b-cdd9-4bb7-91d2-2c995d45d57c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fzdo0020\n\n<a id='ac22922a-f8b4-4aac-ae21-b58c578c0916'></a>\n\n52426 6266",
+            "chunks": [
+                "8b166d18-1df3-4614-a906-9700ff6bc54b",
+                "267a18aa-95fb-46b2-8ece-f4310d05654f",
+                "5b2b8693-9390-4ac4-b1e1-ca79ffc0b71a",
+                "f9a8903c-a63c-4190-af78-3633061d65a9",
+                "4266150e-ab45-434e-a4d8-97e4bd473f3b",
+                "81a24915-b223-40ec-87ec-c96b7ce57dc7",
+                "d842fa4b-cdd9-4bb7-91d2-2c995d45d57c",
+                "ac22922a-f8b4-4aac-ae21-b58c578c0916"
+            ]
+        }
+    ],
+    "grounding": {
+        "8b166d18-1df3-4614-a906-9700ff6bc54b": {
+            "box": {
+                "left": 0.08488968014717102,
+                "top": 0.06682732701301575,
+                "right": 0.8529685735702515,
+                "bottom": 0.18543487787246704
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.09617642701751764,
+                "top": 0.10540794647355956,
+                "right": 0.8456723987267178,
+                "bottom": 0.17303821896145521
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.09617642701751764,
+                "top": 0.10540794647355956,
+                "right": 0.20824119834442234,
+                "bottom": 0.13593608859261863
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.20824119834442234,
+                "top": 0.10540794647355956,
+                "right": 0.28569227280072873,
+                "bottom": 0.13593608859261863
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.28569227280072873,
+                "top": 0.10540794647355956,
+                "right": 0.39575474824560875,
+                "bottom": 0.13593608859261863
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.39575474824560875,
+                "top": 0.10540794647355956,
+                "right": 0.5050629347877269,
+                "bottom": 0.13593608859261863
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.5050629347877269,
+                "top": 0.10540794647355956,
+                "right": 0.6119052384684096,
+                "bottom": 0.13593608859261863
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6119052384684096,
+                "top": 0.10540794647355956,
+                "right": 0.7185364456371577,
+                "bottom": 0.13593608859261863
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7185364456371577,
+                "top": 0.10540794647355956,
+                "right": 0.8453900668704826,
+                "bottom": 0.13593608859261863
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.09617642701751764,
+                "top": 0.13593608859261863,
+                "right": 0.20824119834442234,
+                "bottom": 0.17303821896145521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.20824119834442234,
+                "top": 0.13593608859261863,
+                "right": 0.28569227280072873,
+                "bottom": 0.17303821896145521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.28569227280072873,
+                "top": 0.13593608859261863,
+                "right": 0.39575474824560875,
+                "bottom": 0.17303821896145521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.39575474824560875,
+                "top": 0.13593608859261863,
+                "right": 0.5050629347877269,
+                "bottom": 0.17303821896145521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5050629347877269,
+                "top": 0.13593608859261863,
+                "right": 0.6119052384684096,
+                "bottom": 0.17303821896145521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.6119052384684096,
+                "top": 0.13593608859261863,
+                "right": 0.7185364456371577,
+                "bottom": 0.17303821896145521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7185364456371577,
+                "top": 0.13593608859261863,
+                "right": 0.8453900668704826,
+                "bottom": 0.17303821896145521
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "267a18aa-95fb-46b2-8ece-f4310d05654f": {
+            "box": {
+                "left": 0.08532631397247314,
+                "top": 0.20081022381782532,
+                "right": 0.8538855910301208,
+                "bottom": 0.42707350850105286
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.0959687868828547,
+                "top": 0.24364807422022494,
+                "right": 0.8451953529992302,
+                "bottom": 0.3669036375636523
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.0959687868828547,
+                "top": 0.24364807422022494,
+                "right": 0.8450752399587564,
+                "bottom": 0.32745574798050825
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.0959687868828547,
+                "top": 0.2858593895993806,
+                "right": 0.21152282570238778,
+                "bottom": 0.32745574798050825
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.21152282570238778,
+                "top": 0.2858593895993806,
+                "right": 0.27722867864295075,
+                "bottom": 0.32745574798050825
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.27722867864295075,
+                "top": 0.2858593895993806,
+                "right": 0.35764030508144984,
+                "bottom": 0.32745574798050825
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.35764030508144984,
+                "top": 0.2858593895993806,
+                "right": 0.46145539857788975,
+                "bottom": 0.32745574798050825
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.46145539857788975,
+                "top": 0.2858593895993806,
+                "right": 0.5556438579105922,
+                "bottom": 0.32745574798050825
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.5556438579105922,
+                "top": 0.2858593895993806,
+                "right": 0.6519690650159333,
+                "bottom": 0.32745574798050825
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.6519690650159333,
+                "top": 0.2858593895993806,
+                "right": 0.7420678173305824,
+                "bottom": 0.32745574798050825
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.7420678173305824,
+                "top": 0.2858593895993806,
+                "right": 0.8450752399587564,
+                "bottom": 0.32745574798050825
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.0959687868828547,
+                "top": 0.32745574798050825,
+                "right": 0.21152282570238778,
+                "bottom": 0.3669036375636523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.21152282570238778,
+                "top": 0.32745574798050825,
+                "right": 0.27722867864295075,
+                "bottom": 0.3669036375636523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.27722867864295075,
+                "top": 0.32745574798050825,
+                "right": 0.35764030508144984,
+                "bottom": 0.3669036375636523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.35764030508144984,
+                "top": 0.32745574798050825,
+                "right": 0.46145539857788975,
+                "bottom": 0.3669036375636523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.46145539857788975,
+                "top": 0.32745574798050825,
+                "right": 0.5556438579105922,
+                "bottom": 0.3669036375636523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.5556438579105922,
+                "top": 0.32745574798050825,
+                "right": 0.6519690650159333,
+                "bottom": 0.3669036375636523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.6519690650159333,
+                "top": 0.32745574798050825,
+                "right": 0.7420678173305824,
+                "bottom": 0.3669036375636523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.7420678173305824,
+                "top": 0.32745574798050825,
+                "right": 0.8450752399587564,
+                "bottom": 0.3669036375636523
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "5b2b8693-9390-4ac4-b1e1-ca79ffc0b71a": {
+            "box": {
+                "left": 0.07609882950782776,
+                "top": 0.4356057047843933,
+                "right": 0.8506560325622559,
+                "bottom": 0.5567080974578857
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f9a8903c-a63c-4190-af78-3633061d65a9": {
+            "box": {
+                "left": 0.0941125750541687,
+                "top": 0.5793129205703735,
+                "right": 0.7145571708679199,
+                "bottom": 0.7166802883148193
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4266150e-ab45-434e-a4d8-97e4bd473f3b": {
+            "box": {
+                "left": 0.09749612212181091,
+                "top": 0.7235410213470459,
+                "right": 0.6390335559844971,
+                "bottom": 0.7507011890411377
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "81a24915-b223-40ec-87ec-c96b7ce57dc7": {
+            "box": {
+                "left": 0.09795179963111877,
+                "top": 0.778047502040863,
+                "right": 0.8227386474609375,
+                "bottom": 0.931311309337616
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.10799755211077944,
+                "top": 0.8265035005362478,
+                "right": 0.5056962855311777,
+                "bottom": 0.8952812764503761
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.10799755211077944,
+                "top": 0.8265035005362478,
+                "right": 0.13047441135616833,
+                "bottom": 0.8556151369241007
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.13047441135616833,
+                "top": 0.8265035005362478,
+                "right": 0.21727436257575405,
+                "bottom": 0.8556151369241007
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.21727436257575405,
+                "top": 0.8265035005362478,
+                "right": 0.41355074102199474,
+                "bottom": 0.8556151369241007
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.41355074102199474,
+                "top": 0.8265035005362478,
+                "right": 0.5060359723412233,
+                "bottom": 0.8556151369241007
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.10799755211077944,
+                "top": 0.8556151369241007,
+                "right": 0.13047441135616833,
+                "bottom": 0.8738882191829447
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.13047441135616833,
+                "top": 0.8556151369241007,
+                "right": 0.21727436257575405,
+                "bottom": 0.8738882191829447
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.21727436257575405,
+                "top": 0.8556151369241007,
+                "right": 0.41355074102199474,
+                "bottom": 0.8738882191829447
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.41355074102199474,
+                "top": 0.8556151369241007,
+                "right": 0.5060359723412233,
+                "bottom": 0.8738882191829447
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.10799755211077944,
+                "top": 0.8738882191829447,
+                "right": 0.13047441135616833,
+                "bottom": 0.8952812764503761
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.13047441135616833,
+                "top": 0.8738882191829447,
+                "right": 0.21727436257575405,
+                "bottom": 0.8952812764503761
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.21727436257575405,
+                "top": 0.8738882191829447,
+                "right": 0.41355074102199474,
+                "bottom": 0.8952812764503761
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.41355074102199474,
+                "top": 0.8738882191829447,
+                "right": 0.5060359723412233,
+                "bottom": 0.8952812764503761
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "d842fa4b-cdd9-4bb7-91d2-2c995d45d57c": {
+            "box": {
+                "left": 0.21460437774658203,
+                "top": 0.9766107201576233,
+                "right": 0.7844552397727966,
+                "bottom": 0.9992950558662415
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "ac22922a-f8b4-4aac-ae21-b58c578c0916": {
+            "box": {
+                "left": 0.8962544202804565,
+                "top": 0.854082465171814,
+                "right": 0.9282329082489014,
+                "bottom": 0.9559997320175171
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fzdn0020_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8872,
+        "credit_usage": 3.0,
+        "job_id": "d78xbsyzxjy1nwib440kxa36w",
+        "version": "dpt-2-20250919"
+    }
+}

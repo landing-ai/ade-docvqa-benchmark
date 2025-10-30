@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='af663036-e9a5-41e4-916f-6c9eecd7309a'></a>\n\n- 2 -\n\n<a id='ba19e936-de7e-4108-b8fa-b825ae21c4b4'></a>\n\nSCHEDULE FOR THE VISIT OF DR. ARTHUR NELSON (CONT.)\n\n<a id='b0613ded-6aaa-41bb-8644-445c904eb996'></a>\n\nSeptember 13\n\n1:30 - 2:00 p.m. - Miss Isabelle Bohman, Assistant Professor and Associate Director, Program in Physical Therapy\n\n2:00 - 2:30 p.m. - Miss Barbara Nash, Assistant Professor of Physical Therapy\n\n2:30 - 3:00 p.m. - Dr. Jerry Johnson, Professor and Director of the Program in Occupational Therapy\n\n3:00 - 4:00 p.m. - Dr. Maxwell Cowan, Professor and Head of the Department of Anatomy and Neurobiology\n\n4:00 p.m. - Dr. Sven Eliasson, Professor of Neurology, Associate Medical Director of the Irene Walter Johnson Institute of Rehabilitation\n\nTO AIRPORT\n\n<a id='33fddcc1-d096-4134-9405-cfc013cde45c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nrjw0227",
+    "chunks": [
+        {
+            "markdown": "<a id='af663036-e9a5-41e4-916f-6c9eecd7309a'></a>\n\n- 2 -",
+            "type": "marginalia",
+            "id": "af663036-e9a5-41e4-916f-6c9eecd7309a",
+            "grounding": {
+                "box": {
+                    "left": 0.47081273794174194,
+                    "top": 0.077874094247818,
+                    "right": 0.5420004725456238,
+                    "bottom": 0.10206945240497589
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ba19e936-de7e-4108-b8fa-b825ae21c4b4'></a>\n\nSCHEDULE FOR THE VISIT OF DR. ARTHUR NELSON (CONT.)",
+            "type": "text",
+            "id": "ba19e936-de7e-4108-b8fa-b825ae21c4b4",
+            "grounding": {
+                "box": {
+                    "left": 0.19984623789787292,
+                    "top": 0.11969232559204102,
+                    "right": 0.7889970541000366,
+                    "bottom": 0.1481056809425354
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b0613ded-6aaa-41bb-8644-445c904eb996'></a>\n\nSeptember 13\n\n1:30 - 2:00 p.m. - Miss Isabelle Bohman, Assistant Professor and Associate Director, Program in Physical Therapy\n\n2:00 - 2:30 p.m. - Miss Barbara Nash, Assistant Professor of Physical Therapy\n\n2:30 - 3:00 p.m. - Dr. Jerry Johnson, Professor and Director of the Program in Occupational Therapy\n\n3:00 - 4:00 p.m. - Dr. Maxwell Cowan, Professor and Head of the Department of Anatomy and Neurobiology\n\n4:00 p.m. - Dr. Sven Eliasson, Professor of Neurology, Associate Medical Director of the Irene Walter Johnson Institute of Rehabilitation\n\nTO AIRPORT",
+            "type": "text",
+            "id": "b0613ded-6aaa-41bb-8644-445c904eb996",
+            "grounding": {
+                "box": {
+                    "left": 0.10932514071464539,
+                    "top": 0.17925837635993958,
+                    "right": 0.8888934850692749,
+                    "bottom": 0.532541036605835
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='33fddcc1-d096-4134-9405-cfc013cde45c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nrjw0227",
+            "type": "text",
+            "id": "33fddcc1-d096-4134-9405-cfc013cde45c",
+            "grounding": {
+                "box": {
+                    "left": 0.22961896657943726,
+                    "top": 0.9777471423149109,
+                    "right": 0.7731936573982239,
+                    "bottom": 1.0000544786453247
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='af663036-e9a5-41e4-916f-6c9eecd7309a'></a>\n\n- 2 -\n\n<a id='ba19e936-de7e-4108-b8fa-b825ae21c4b4'></a>\n\nSCHEDULE FOR THE VISIT OF DR. ARTHUR NELSON (CONT.)\n\n<a id='b0613ded-6aaa-41bb-8644-445c904eb996'></a>\n\nSeptember 13\n\n1:30 - 2:00 p.m. - Miss Isabelle Bohman, Assistant Professor and Associate Director, Program in Physical Therapy\n\n2:00 - 2:30 p.m. - Miss Barbara Nash, Assistant Professor of Physical Therapy\n\n2:30 - 3:00 p.m. - Dr. Jerry Johnson, Professor and Director of the Program in Occupational Therapy\n\n3:00 - 4:00 p.m. - Dr. Maxwell Cowan, Professor and Head of the Department of Anatomy and Neurobiology\n\n4:00 p.m. - Dr. Sven Eliasson, Professor of Neurology, Associate Medical Director of the Irene Walter Johnson Institute of Rehabilitation\n\nTO AIRPORT\n\n<a id='33fddcc1-d096-4134-9405-cfc013cde45c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nrjw0227",
+            "chunks": [
+                "af663036-e9a5-41e4-916f-6c9eecd7309a",
+                "ba19e936-de7e-4108-b8fa-b825ae21c4b4",
+                "b0613ded-6aaa-41bb-8644-445c904eb996",
+                "33fddcc1-d096-4134-9405-cfc013cde45c"
+            ]
+        }
+    ],
+    "grounding": {
+        "af663036-e9a5-41e4-916f-6c9eecd7309a": {
+            "box": {
+                "left": 0.47081273794174194,
+                "top": 0.077874094247818,
+                "right": 0.5420004725456238,
+                "bottom": 0.10206945240497589
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "ba19e936-de7e-4108-b8fa-b825ae21c4b4": {
+            "box": {
+                "left": 0.19984623789787292,
+                "top": 0.11969232559204102,
+                "right": 0.7889970541000366,
+                "bottom": 0.1481056809425354
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b0613ded-6aaa-41bb-8644-445c904eb996": {
+            "box": {
+                "left": 0.10932514071464539,
+                "top": 0.17925837635993958,
+                "right": 0.8888934850692749,
+                "bottom": 0.532541036605835
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "33fddcc1-d096-4134-9405-cfc013cde45c": {
+            "box": {
+                "left": 0.22961896657943726,
+                "top": 0.9777471423149109,
+                "right": 0.7731936573982239,
+                "bottom": 1.0000544786453247
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "nrjw0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5831,
+        "credit_usage": 3.0,
+        "job_id": "gb0aurjinmvhtptgpcad29fbe",
+        "version": "dpt-2-20250919"
+    }
+}

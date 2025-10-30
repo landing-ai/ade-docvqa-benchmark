@@ -1,0 +1,513 @@
+{
+    "markdown": "<a id='e6452bf3-40ff-4f84-8776-8026ec4932e1'></a>\n\n<::logo: Marabou\nMarabou\nThe word \"Marabou\" is written in a bold, dark, cursive font.::>\n\n<a id='4a6f1946-2c84-402e-997d-4cb4399b68ba'></a>\n\nMarabou Nutrition Symposium 1981, tentative program\n\n<a id='967bc40c-ac1e-4422-ab25-ef750fc07755'></a>\n\nFOOD INDUSTRY AND NUTRITION\n---\n\n<a id='8d6da40d-ab73-4437-a359-29716d5d304b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Friday, June 12, 1981</td><td id=\"0-3\"></td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">\"Food industry and nutrition - problems, responsibilities, and the future\"</td><td id=\"0-6\"></td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">by Sir David Orr, President of Unilever</td><td id=\"0-9\">40 minutes</td><td id=\"0-a\">FS</td></tr>\n<tr><td id=\"0-b\">Saturday, June 13, 1981 \"Social changes and the food industry\"</td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">by Professor John McKenzie</td><td id=\"0-f\">25 minutes</td><td id=\"0-g\">AD/ST</td></tr>\n<tr><td id=\"0-h\">\"The attitude of the consumer\" by</td><td id=\"0-i\">30 minutes</td><td id=\"0-j\">PW</td></tr>\n<tr><td id=\"0-k\">\"The role of industrial food in family economy\" by Professor Ray Goldberg, Professor of Food Economics, Harvard Business School, Boston, USA</td><td id=\"0-l\">25 minutes</td><td id=\"0-m\">FS</td></tr>\n<tr><td id=\"0-n\">\"Effects of food processing on nutrients - industrial, institutional, home\" by Professor Arnold E. Bender, Queen Elizabeth College, London University, England</td><td id=\"0-o\">40 minutes</td><td id=\"0-p\">AD</td></tr>\n<tr><td id=\"0-q\">\"How safe are our foods\" by Dr Mike Foster, Head of Food Research, Wisconsin University, USA</td><td id=\"0-r\">30 minutes</td><td id=\"0-s\">FS</td></tr>\n<tr><td id=\"0-t\">\"What do we seek from the food industry\" by Philip White, Chicago, USA</td><td id=\"0-u\">30 minutes</td><td id=\"0-v\">PW</td></tr>\n</table>\n\n<a id='67dca0d8-0dd4-4481-bea9-b8a152fd6257'></a>\n\nThe symposium shall include industrialized catering but baby foods and farming will not be discussed.\n\n<a id='5dbdbe90-3a82-45b5-a69c-17a82331a752'></a>\n\n80.11.13\nPOW/elh\n\n<a id='4adb29b3-6bca-454a-b874-3f7b64edb5b0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gmgv0228",
+    "chunks": [
+        {
+            "markdown": "<a id='e6452bf3-40ff-4f84-8776-8026ec4932e1'></a>\n\n<::logo: Marabou\nMarabou\nThe word \"Marabou\" is written in a bold, dark, cursive font.::>",
+            "type": "logo",
+            "id": "e6452bf3-40ff-4f84-8776-8026ec4932e1",
+            "grounding": {
+                "box": {
+                    "left": 0.05605226755142212,
+                    "top": 0.03275936469435692,
+                    "right": 0.20284223556518555,
+                    "bottom": 0.07391640543937683
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4a6f1946-2c84-402e-997d-4cb4399b68ba'></a>\n\nMarabou Nutrition Symposium 1981, tentative program",
+            "type": "text",
+            "id": "4a6f1946-2c84-402e-997d-4cb4399b68ba",
+            "grounding": {
+                "box": {
+                    "left": 0.13571211695671082,
+                    "top": 0.08795115351676941,
+                    "right": 0.6600030660629272,
+                    "bottom": 0.11352327466011047
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='967bc40c-ac1e-4422-ab25-ef750fc07755'></a>\n\nFOOD INDUSTRY AND NUTRITION\n---",
+            "type": "text",
+            "id": "967bc40c-ac1e-4422-ab25-ef750fc07755",
+            "grounding": {
+                "box": {
+                    "left": 0.13528305292129517,
+                    "top": 0.14230158925056458,
+                    "right": 0.4261777997016907,
+                    "bottom": 0.17029505968093872
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8d6da40d-ab73-4437-a359-29716d5d304b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Friday, June 12, 1981</td><td id=\"0-3\"></td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">\"Food industry and nutrition - problems, responsibilities, and the future\"</td><td id=\"0-6\"></td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">by Sir David Orr, President of Unilever</td><td id=\"0-9\">40 minutes</td><td id=\"0-a\">FS</td></tr>\n<tr><td id=\"0-b\">Saturday, June 13, 1981 \"Social changes and the food industry\"</td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">by Professor John McKenzie</td><td id=\"0-f\">25 minutes</td><td id=\"0-g\">AD/ST</td></tr>\n<tr><td id=\"0-h\">\"The attitude of the consumer\" by</td><td id=\"0-i\">30 minutes</td><td id=\"0-j\">PW</td></tr>\n<tr><td id=\"0-k\">\"The role of industrial food in family economy\" by Professor Ray Goldberg, Professor of Food Economics, Harvard Business School, Boston, USA</td><td id=\"0-l\">25 minutes</td><td id=\"0-m\">FS</td></tr>\n<tr><td id=\"0-n\">\"Effects of food processing on nutrients - industrial, institutional, home\" by Professor Arnold E. Bender, Queen Elizabeth College, London University, England</td><td id=\"0-o\">40 minutes</td><td id=\"0-p\">AD</td></tr>\n<tr><td id=\"0-q\">\"How safe are our foods\" by Dr Mike Foster, Head of Food Research, Wisconsin University, USA</td><td id=\"0-r\">30 minutes</td><td id=\"0-s\">FS</td></tr>\n<tr><td id=\"0-t\">\"What do we seek from the food industry\" by Philip White, Chicago, USA</td><td id=\"0-u\">30 minutes</td><td id=\"0-v\">PW</td></tr>\n</table>",
+            "type": "table",
+            "id": "8d6da40d-ab73-4437-a359-29716d5d304b",
+            "grounding": {
+                "box": {
+                    "left": 0.13442212343215942,
+                    "top": 0.18518215417861938,
+                    "right": 0.966559112071991,
+                    "bottom": 0.6143388748168945
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='67dca0d8-0dd4-4481-bea9-b8a152fd6257'></a>\n\nThe symposium shall include industrialized catering but baby foods and farming will not be discussed.",
+            "type": "text",
+            "id": "67dca0d8-0dd4-4481-bea9-b8a152fd6257",
+            "grounding": {
+                "box": {
+                    "left": 0.13915720582008362,
+                    "top": 0.7085859775543213,
+                    "right": 0.8517576456069946,
+                    "bottom": 0.747839093208313
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5dbdbe90-3a82-45b5-a69c-17a82331a752'></a>\n\n80.11.13\nPOW/elh",
+            "type": "marginalia",
+            "id": "5dbdbe90-3a82-45b5-a69c-17a82331a752",
+            "grounding": {
+                "box": {
+                    "left": 0.13895657658576965,
+                    "top": 0.9098352789878845,
+                    "right": 0.23536890745162964,
+                    "bottom": 0.9475495219230652
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4adb29b3-6bca-454a-b874-3f7b64edb5b0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gmgv0228",
+            "type": "text",
+            "id": "4adb29b3-6bca-454a-b874-3f7b64edb5b0",
+            "grounding": {
+                "box": {
+                    "left": 0.21159696578979492,
+                    "top": 0.9785813689231873,
+                    "right": 0.7899640798568726,
+                    "bottom": 0.9984554648399353
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e6452bf3-40ff-4f84-8776-8026ec4932e1'></a>\n\n<::logo: Marabou\nMarabou\nThe word \"Marabou\" is written in a bold, dark, cursive font.::>\n\n<a id='4a6f1946-2c84-402e-997d-4cb4399b68ba'></a>\n\nMarabou Nutrition Symposium 1981, tentative program\n\n<a id='967bc40c-ac1e-4422-ab25-ef750fc07755'></a>\n\nFOOD INDUSTRY AND NUTRITION\n---\n\n<a id='8d6da40d-ab73-4437-a359-29716d5d304b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Friday, June 12, 1981</td><td id=\"0-3\"></td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">\"Food industry and nutrition - problems, responsibilities, and the future\"</td><td id=\"0-6\"></td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">by Sir David Orr, President of Unilever</td><td id=\"0-9\">40 minutes</td><td id=\"0-a\">FS</td></tr>\n<tr><td id=\"0-b\">Saturday, June 13, 1981 \"Social changes and the food industry\"</td><td id=\"0-c\"></td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">by Professor John McKenzie</td><td id=\"0-f\">25 minutes</td><td id=\"0-g\">AD/ST</td></tr>\n<tr><td id=\"0-h\">\"The attitude of the consumer\" by</td><td id=\"0-i\">30 minutes</td><td id=\"0-j\">PW</td></tr>\n<tr><td id=\"0-k\">\"The role of industrial food in family economy\" by Professor Ray Goldberg, Professor of Food Economics, Harvard Business School, Boston, USA</td><td id=\"0-l\">25 minutes</td><td id=\"0-m\">FS</td></tr>\n<tr><td id=\"0-n\">\"Effects of food processing on nutrients - industrial, institutional, home\" by Professor Arnold E. Bender, Queen Elizabeth College, London University, England</td><td id=\"0-o\">40 minutes</td><td id=\"0-p\">AD</td></tr>\n<tr><td id=\"0-q\">\"How safe are our foods\" by Dr Mike Foster, Head of Food Research, Wisconsin University, USA</td><td id=\"0-r\">30 minutes</td><td id=\"0-s\">FS</td></tr>\n<tr><td id=\"0-t\">\"What do we seek from the food industry\" by Philip White, Chicago, USA</td><td id=\"0-u\">30 minutes</td><td id=\"0-v\">PW</td></tr>\n</table>\n\n<a id='67dca0d8-0dd4-4481-bea9-b8a152fd6257'></a>\n\nThe symposium shall include industrialized catering but baby foods and farming will not be discussed.\n\n<a id='5dbdbe90-3a82-45b5-a69c-17a82331a752'></a>\n\n80.11.13\nPOW/elh\n\n<a id='4adb29b3-6bca-454a-b874-3f7b64edb5b0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gmgv0228",
+            "chunks": [
+                "e6452bf3-40ff-4f84-8776-8026ec4932e1",
+                "4a6f1946-2c84-402e-997d-4cb4399b68ba",
+                "967bc40c-ac1e-4422-ab25-ef750fc07755",
+                "8d6da40d-ab73-4437-a359-29716d5d304b",
+                "67dca0d8-0dd4-4481-bea9-b8a152fd6257",
+                "5dbdbe90-3a82-45b5-a69c-17a82331a752",
+                "4adb29b3-6bca-454a-b874-3f7b64edb5b0"
+            ]
+        }
+    ],
+    "grounding": {
+        "e6452bf3-40ff-4f84-8776-8026ec4932e1": {
+            "box": {
+                "left": 0.05605226755142212,
+                "top": 0.03275936469435692,
+                "right": 0.20284223556518555,
+                "bottom": 0.07391640543937683
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "4a6f1946-2c84-402e-997d-4cb4399b68ba": {
+            "box": {
+                "left": 0.13571211695671082,
+                "top": 0.08795115351676941,
+                "right": 0.6600030660629272,
+                "bottom": 0.11352327466011047
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "967bc40c-ac1e-4422-ab25-ef750fc07755": {
+            "box": {
+                "left": 0.13528305292129517,
+                "top": 0.14230158925056458,
+                "right": 0.4261777997016907,
+                "bottom": 0.17029505968093872
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8d6da40d-ab73-4437-a359-29716d5d304b": {
+            "box": {
+                "left": 0.13442212343215942,
+                "top": 0.18518215417861938,
+                "right": 0.966559112071991,
+                "bottom": 0.6143388748168945
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.18974731812589596,
+                "right": 0.9665507298021865,
+                "bottom": 0.6143344239431983
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.18974731812589596,
+                "right": 0.726000021296052,
+                "bottom": 0.20974549012911758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.726000021296052,
+                "top": 0.18974731812589596,
+                "right": 0.8914601745275021,
+                "bottom": 0.20974549012911758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.8914601745275021,
+                "top": 0.18974731812589596,
+                "right": 0.9665257317904619,
+                "bottom": 0.20974549012911758
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.20974549012911758,
+                "right": 0.726000021296052,
+                "bottom": 0.24151142046393925
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.726000021296052,
+                "top": 0.20974549012911758,
+                "right": 0.8914601745275021,
+                "bottom": 0.24151142046393925
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.8914601745275021,
+                "top": 0.20974549012911758,
+                "right": 0.9665257317904619,
+                "bottom": 0.24151142046393925
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.24151142046393925,
+                "right": 0.726000021296052,
+                "bottom": 0.2591960845952537
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.726000021296052,
+                "top": 0.24151142046393925,
+                "right": 0.8914601745275021,
+                "bottom": 0.2591960845952537
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.8914601745275021,
+                "top": 0.24151142046393925,
+                "right": 0.9665257317904619,
+                "bottom": 0.2591960845952537
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.2591960845952537,
+                "right": 0.726000021296052,
+                "bottom": 0.32035899971472404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.726000021296052,
+                "top": 0.2591960845952537,
+                "right": 0.8914601745275021,
+                "bottom": 0.32035899971472404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.8914601745275021,
+                "top": 0.2591960845952537,
+                "right": 0.9665257317904619,
+                "bottom": 0.32035899971472404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.32035899971472404,
+                "right": 0.726000021296052,
+                "bottom": 0.33771798267419406
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.726000021296052,
+                "top": 0.32035899971472404,
+                "right": 0.8914601745275021,
+                "bottom": 0.33771798267419406
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.8914601745275021,
+                "top": 0.32035899971472404,
+                "right": 0.9665257317904619,
+                "bottom": 0.33771798267419406
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.33771798267419406,
+                "right": 0.726000021296052,
+                "bottom": 0.38075239330474986
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.726000021296052,
+                "top": 0.33771798267419406,
+                "right": 0.8914601745275021,
+                "bottom": 0.38075239330474986
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.8914601745275021,
+                "top": 0.33771798267419406,
+                "right": 0.9665257317904619,
+                "bottom": 0.38075239330474986
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.38075239330474986,
+                "right": 0.726000021296052,
+                "bottom": 0.4375115973623025
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.726000021296052,
+                "top": 0.38075239330474986,
+                "right": 0.8914601745275021,
+                "bottom": 0.4375115973623025
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.8914601745275021,
+                "top": 0.38075239330474986,
+                "right": 0.9665257317904619,
+                "bottom": 0.4375115973623025
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.4375115973623025,
+                "right": 0.726000021296052,
+                "bottom": 0.509563747642904
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.726000021296052,
+                "top": 0.4375115973623025,
+                "right": 0.8914601745275021,
+                "bottom": 0.509563747642904
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.8914601745275021,
+                "top": 0.4375115973623025,
+                "right": 0.9665257317904619,
+                "bottom": 0.509563747642904
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.509563747642904,
+                "right": 0.726000021296052,
+                "bottom": 0.5674439067988359
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.726000021296052,
+                "top": 0.509563747642904,
+                "right": 0.8914601745275021,
+                "bottom": 0.5674439067988359
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.8914601745275021,
+                "top": 0.509563747642904,
+                "right": 0.9665257317904619,
+                "bottom": 0.5674439067988359
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.13845696224953213,
+                "top": 0.5674439067988359,
+                "right": 0.726000021296052,
+                "bottom": 0.6143344239431983
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.726000021296052,
+                "top": 0.5674439067988359,
+                "right": 0.8914601745275021,
+                "bottom": 0.6143344239431983
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.8914601745275021,
+                "top": 0.5674439067988359,
+                "right": 0.9665257317904619,
+                "bottom": 0.6143344239431983
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "67dca0d8-0dd4-4481-bea9-b8a152fd6257": {
+            "box": {
+                "left": 0.13915720582008362,
+                "top": 0.7085859775543213,
+                "right": 0.8517576456069946,
+                "bottom": 0.747839093208313
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5dbdbe90-3a82-45b5-a69c-17a82331a752": {
+            "box": {
+                "left": 0.13895657658576965,
+                "top": 0.9098352789878845,
+                "right": 0.23536890745162964,
+                "bottom": 0.9475495219230652
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "4adb29b3-6bca-454a-b874-3f7b64edb5b0": {
+            "box": {
+                "left": 0.21159696578979492,
+                "top": 0.9785813689231873,
+                "right": 0.7899640798568726,
+                "bottom": 0.9984554648399353
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "gmgv0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6089,
+        "credit_usage": 3.0,
+        "job_id": "igz99zsz8cltprzjlch9te9q2",
+        "version": "dpt-2-20250919"
+    }
+}

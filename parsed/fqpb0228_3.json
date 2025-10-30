@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='49230627-9312-4921-bf1a-5c16e5f7a27c'></a>\n\n\"Developing Attitudes toward Patient Care\"\nChairman---Dr. David E. Rogers\n\n10:30 Dr. F. T. Billings\n10:50 Discussion\n\n12:15 Lunch\n\n\"Where Do We Go\"\nChairman---Dr. Sam Clark\n\n1:30 Dr. Lloyd Ramsey\n2:00 Discussion\n\n4:30 Swimming\n\n6:00 Reception\n\n7:00 Dinner\n\n<a id='4b964127-eab5-4739-90ff-7e8c0e77fe6b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fqpb0228",
+    "chunks": [
+        {
+            "markdown": "<a id='49230627-9312-4921-bf1a-5c16e5f7a27c'></a>\n\n\"Developing Attitudes toward Patient Care\"\nChairman---Dr. David E. Rogers\n\n10:30 Dr. F. T. Billings\n10:50 Discussion\n\n12:15 Lunch\n\n\"Where Do We Go\"\nChairman---Dr. Sam Clark\n\n1:30 Dr. Lloyd Ramsey\n2:00 Discussion\n\n4:30 Swimming\n\n6:00 Reception\n\n7:00 Dinner",
+            "type": "text",
+            "id": "49230627-9312-4921-bf1a-5c16e5f7a27c",
+            "grounding": {
+                "box": {
+                    "left": 0.13716790080070496,
+                    "top": 0.11491881310939789,
+                    "right": 0.6678479909896851,
+                    "bottom": 0.41410189867019653
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4b964127-eab5-4739-90ff-7e8c0e77fe6b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fqpb0228",
+            "type": "marginalia",
+            "id": "4b964127-eab5-4739-90ff-7e8c0e77fe6b",
+            "grounding": {
+                "box": {
+                    "left": 0.22438672184944153,
+                    "top": 0.9779523015022278,
+                    "right": 0.7762737274169922,
+                    "bottom": 0.9985267519950867
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='49230627-9312-4921-bf1a-5c16e5f7a27c'></a>\n\n\"Developing Attitudes toward Patient Care\"\nChairman---Dr. David E. Rogers\n\n10:30 Dr. F. T. Billings\n10:50 Discussion\n\n12:15 Lunch\n\n\"Where Do We Go\"\nChairman---Dr. Sam Clark\n\n1:30 Dr. Lloyd Ramsey\n2:00 Discussion\n\n4:30 Swimming\n\n6:00 Reception\n\n7:00 Dinner\n\n<a id='4b964127-eab5-4739-90ff-7e8c0e77fe6b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fqpb0228",
+            "chunks": [
+                "49230627-9312-4921-bf1a-5c16e5f7a27c",
+                "4b964127-eab5-4739-90ff-7e8c0e77fe6b"
+            ]
+        }
+    ],
+    "grounding": {
+        "49230627-9312-4921-bf1a-5c16e5f7a27c": {
+            "box": {
+                "left": 0.13716790080070496,
+                "top": 0.11491881310939789,
+                "right": 0.6678479909896851,
+                "bottom": 0.41410189867019653
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4b964127-eab5-4739-90ff-7e8c0e77fe6b": {
+            "box": {
+                "left": 0.22438672184944153,
+                "top": 0.9779523015022278,
+                "right": 0.7762737274169922,
+                "bottom": 0.9985267519950867
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fqpb0228_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6873,
+        "credit_usage": 3.0,
+        "job_id": "y38be2hp5gw8147j00hugo63i",
+        "version": "dpt-2-20250919"
+    }
+}

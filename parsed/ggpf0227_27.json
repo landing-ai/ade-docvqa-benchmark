@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='dd591ccf-ce52-400a-a8c4-8030c3a5d53a'></a>\n\nF-551\n\n<a id='52aea3e2-5c8d-4d76-b4da-931061955a33'></a>\n\n<::Line chart titled \"PERCENT CALORIES FROM FAT\".\n\nThe y-axis is labeled \"% of Group\".\n\nThe x-axis is labeled \"Percent Calories from Fat\" and ranges from 15 to 55.\n\nTwo lines are plotted:\n- A solid line represents \"Men\".\n- A dashed line represents \"Women\".\n\nThe chart shows the distribution of percent calories from fat for men and women, with men peaking around 38-40% and women peaking slightly lower, around 38%.\n\n(Framingham)\n: chart::>\n\n<a id='1915699c-7d5c-4bb3-aabe-00725e38f5fc'></a>\n\n367/C02/\n\n<a id='b5111374-ef13-4f2a-b2a2-b19df474cd7e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ggpf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='dd591ccf-ce52-400a-a8c4-8030c3a5d53a'></a>\n\nF-551",
+            "type": "text",
+            "id": "dd591ccf-ce52-400a-a8c4-8030c3a5d53a",
+            "grounding": {
+                "box": {
+                    "left": 0.8128687143325806,
+                    "top": 0.02837921492755413,
+                    "right": 0.9234879016876221,
+                    "bottom": 0.061448268592357635
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='52aea3e2-5c8d-4d76-b4da-931061955a33'></a>\n\n<::Line chart titled \"PERCENT CALORIES FROM FAT\".\n\nThe y-axis is labeled \"% of Group\".\n\nThe x-axis is labeled \"Percent Calories from Fat\" and ranges from 15 to 55.\n\nTwo lines are plotted:\n- A solid line represents \"Men\".\n- A dashed line represents \"Women\".\n\nThe chart shows the distribution of percent calories from fat for men and women, with men peaking around 38-40% and women peaking slightly lower, around 38%.\n\n(Framingham)\n: chart::>",
+            "type": "figure",
+            "id": "52aea3e2-5c8d-4d76-b4da-931061955a33",
+            "grounding": {
+                "box": {
+                    "left": 0.016536563634872437,
+                    "top": 0.18360498547554016,
+                    "right": 0.970444917678833,
+                    "bottom": 0.7153835296630859
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1915699c-7d5c-4bb3-aabe-00725e38f5fc'></a>\n\n367/C02/",
+            "type": "text",
+            "id": "1915699c-7d5c-4bb3-aabe-00725e38f5fc",
+            "grounding": {
+                "box": {
+                    "left": 0.6721352338790894,
+                    "top": 0.9348270297050476,
+                    "right": 0.8347276449203491,
+                    "bottom": 0.9666755795478821
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b5111374-ef13-4f2a-b2a2-b19df474cd7e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ggpf0227",
+            "type": "text",
+            "id": "b5111374-ef13-4f2a-b2a2-b19df474cd7e",
+            "grounding": {
+                "box": {
+                    "left": 0.22496697306632996,
+                    "top": 0.9782646894454956,
+                    "right": 0.7774685621261597,
+                    "bottom": 1.0001397132873535
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='dd591ccf-ce52-400a-a8c4-8030c3a5d53a'></a>\n\nF-551\n\n<a id='52aea3e2-5c8d-4d76-b4da-931061955a33'></a>\n\n<::Line chart titled \"PERCENT CALORIES FROM FAT\".\n\nThe y-axis is labeled \"% of Group\".\n\nThe x-axis is labeled \"Percent Calories from Fat\" and ranges from 15 to 55.\n\nTwo lines are plotted:\n- A solid line represents \"Men\".\n- A dashed line represents \"Women\".\n\nThe chart shows the distribution of percent calories from fat for men and women, with men peaking around 38-40% and women peaking slightly lower, around 38%.\n\n(Framingham)\n: chart::>\n\n<a id='1915699c-7d5c-4bb3-aabe-00725e38f5fc'></a>\n\n367/C02/\n\n<a id='b5111374-ef13-4f2a-b2a2-b19df474cd7e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ggpf0227",
+            "chunks": [
+                "dd591ccf-ce52-400a-a8c4-8030c3a5d53a",
+                "52aea3e2-5c8d-4d76-b4da-931061955a33",
+                "1915699c-7d5c-4bb3-aabe-00725e38f5fc",
+                "b5111374-ef13-4f2a-b2a2-b19df474cd7e"
+            ]
+        }
+    ],
+    "grounding": {
+        "dd591ccf-ce52-400a-a8c4-8030c3a5d53a": {
+            "box": {
+                "left": 0.8128687143325806,
+                "top": 0.02837921492755413,
+                "right": 0.9234879016876221,
+                "bottom": 0.061448268592357635
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "52aea3e2-5c8d-4d76-b4da-931061955a33": {
+            "box": {
+                "left": 0.016536563634872437,
+                "top": 0.18360498547554016,
+                "right": 0.970444917678833,
+                "bottom": 0.7153835296630859
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "1915699c-7d5c-4bb3-aabe-00725e38f5fc": {
+            "box": {
+                "left": 0.6721352338790894,
+                "top": 0.9348270297050476,
+                "right": 0.8347276449203491,
+                "bottom": 0.9666755795478821
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b5111374-ef13-4f2a-b2a2-b19df474cd7e": {
+            "box": {
+                "left": 0.22496697306632996,
+                "top": 0.9782646894454956,
+                "right": 0.7774685621261597,
+                "bottom": 1.0001397132873535
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "ggpf0227_27.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8589,
+        "credit_usage": 3.0,
+        "job_id": "oda2remekenfaq20e741wb0zr",
+        "version": "dpt-2-20250919"
+    }
+}

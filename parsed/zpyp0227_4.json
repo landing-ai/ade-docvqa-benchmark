@@ -1,0 +1,53 @@
+{
+    "markdown": "<a id='c941d81c-6340-472e-a332-bfdec0b73250'></a>\n\n<::PRESENT ORGANIZATION STRUCTURE\n: flowchart\n  - Trustees\n    - (14 public, 66 industry)\n    - Chairman (public)\n  - Directors\n    - (2 public, 15 industry, 2 ex officio)\n    - Chairman & Vice Chairman (industry)\n  - Foundation Employees\n    - President (& Ex Officio Director)\n    - Executive Secretary & Treasurer\n    - Staff\n    - Scientific Advisory Committee\n      - (11 public, 3 industry, 2 Foundation Staff)\n      - Chairman - Foundation Pres.\n    - Food Industries Advisory Committee\n      - (64 industry)\n      - Chairman - (Industry)\n    - Nutrition Education Advisory Committee\n      - (5 Public)\n::>",
+    "chunks": [
+        {
+            "markdown": "<a id='c941d81c-6340-472e-a332-bfdec0b73250'></a>\n\n<::PRESENT ORGANIZATION STRUCTURE\n: flowchart\n  - Trustees\n    - (14 public, 66 industry)\n    - Chairman (public)\n  - Directors\n    - (2 public, 15 industry, 2 ex officio)\n    - Chairman & Vice Chairman (industry)\n  - Foundation Employees\n    - President (& Ex Officio Director)\n    - Executive Secretary & Treasurer\n    - Staff\n    - Scientific Advisory Committee\n      - (11 public, 3 industry, 2 Foundation Staff)\n      - Chairman - Foundation Pres.\n    - Food Industries Advisory Committee\n      - (64 industry)\n      - Chairman - (Industry)\n    - Nutrition Education Advisory Committee\n      - (5 Public)\n::>",
+            "type": "figure",
+            "id": "c941d81c-6340-472e-a332-bfdec0b73250",
+            "grounding": {
+                "box": {
+                    "left": 0.08864304423332214,
+                    "top": 0.14484304189682007,
+                    "right": 0.9242156744003296,
+                    "bottom": 0.7616879343986511
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c941d81c-6340-472e-a332-bfdec0b73250'></a>\n\n<::PRESENT ORGANIZATION STRUCTURE\n: flowchart\n  - Trustees\n    - (14 public, 66 industry)\n    - Chairman (public)\n  - Directors\n    - (2 public, 15 industry, 2 ex officio)\n    - Chairman & Vice Chairman (industry)\n  - Foundation Employees\n    - President (& Ex Officio Director)\n    - Executive Secretary & Treasurer\n    - Staff\n    - Scientific Advisory Committee\n      - (11 public, 3 industry, 2 Foundation Staff)\n      - Chairman - Foundation Pres.\n    - Food Industries Advisory Committee\n      - (64 industry)\n      - Chairman - (Industry)\n    - Nutrition Education Advisory Committee\n      - (5 Public)\n::>",
+            "chunks": [
+                "c941d81c-6340-472e-a332-bfdec0b73250"
+            ]
+        }
+    ],
+    "grounding": {
+        "c941d81c-6340-472e-a332-bfdec0b73250": {
+            "box": {
+                "left": 0.08864304423332214,
+                "top": 0.14484304189682007,
+                "right": 0.9242156744003296,
+                "bottom": 0.7616879343986511
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "zpyp0227_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8190,
+        "credit_usage": 3.0,
+        "job_id": "mzwgzz1342ga0vhs7fjz84uop",
+        "version": "dpt-2-20250919"
+    }
+}

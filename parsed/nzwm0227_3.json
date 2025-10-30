@@ -1,0 +1,53 @@
+{
+    "markdown": "<a id='bf11b091-f0bf-49a8-a7ec-82a5491ed82d'></a>\n\n<::The International Life Sciences Institute\n: flowchart\n  - Board of Members\n  - Industry Technical Committees\n    - Caffeine\n    - Food Color Users\n    - Oral Health\n    - Phosphates (dashed box)\n  - Special Activities\n    - Hanover Guideline Meeting\n  - Scientific Expert Committees\n    - Pathology/Toxicology\n    - Nutrition\n    - Subcommittee on Statistics (dashed box)\n      - Subcommittee on Epidemiology (dashed box)\n    - Subcommittee on Teratology (dashed box)\n  - Board of Trustees\n    - Officers of the Institute\n::>",
+    "chunks": [
+        {
+            "markdown": "<a id='bf11b091-f0bf-49a8-a7ec-82a5491ed82d'></a>\n\n<::The International Life Sciences Institute\n: flowchart\n  - Board of Members\n  - Industry Technical Committees\n    - Caffeine\n    - Food Color Users\n    - Oral Health\n    - Phosphates (dashed box)\n  - Special Activities\n    - Hanover Guideline Meeting\n  - Scientific Expert Committees\n    - Pathology/Toxicology\n    - Nutrition\n    - Subcommittee on Statistics (dashed box)\n      - Subcommittee on Epidemiology (dashed box)\n    - Subcommittee on Teratology (dashed box)\n  - Board of Trustees\n    - Officers of the Institute\n::>",
+            "type": "figure",
+            "id": "bf11b091-f0bf-49a8-a7ec-82a5491ed82d",
+            "grounding": {
+                "box": {
+                    "left": 0.029767096042633057,
+                    "top": 0.07168149948120117,
+                    "right": 0.977189838886261,
+                    "bottom": 0.9554183483123779
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='bf11b091-f0bf-49a8-a7ec-82a5491ed82d'></a>\n\n<::The International Life Sciences Institute\n: flowchart\n  - Board of Members\n  - Industry Technical Committees\n    - Caffeine\n    - Food Color Users\n    - Oral Health\n    - Phosphates (dashed box)\n  - Special Activities\n    - Hanover Guideline Meeting\n  - Scientific Expert Committees\n    - Pathology/Toxicology\n    - Nutrition\n    - Subcommittee on Statistics (dashed box)\n      - Subcommittee on Epidemiology (dashed box)\n    - Subcommittee on Teratology (dashed box)\n  - Board of Trustees\n    - Officers of the Institute\n::>",
+            "chunks": [
+                "bf11b091-f0bf-49a8-a7ec-82a5491ed82d"
+            ]
+        }
+    ],
+    "grounding": {
+        "bf11b091-f0bf-49a8-a7ec-82a5491ed82d": {
+            "box": {
+                "left": 0.029767096042633057,
+                "top": 0.07168149948120117,
+                "right": 0.977189838886261,
+                "bottom": 0.9554183483123779
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "nzwm0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9717,
+        "credit_usage": 3.0,
+        "job_id": "abjnsxnran2r3os8g39qcuc5v",
+        "version": "dpt-2-20250919"
+    }
+}

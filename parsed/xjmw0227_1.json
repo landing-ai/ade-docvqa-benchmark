@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='ac2c30a2-38c4-47ca-8013-c76e1fbeaf5e'></a>\n\nTHOMAS JEFFERSON\nUNITED STATES\n1\u00a2\n\n5\u00a2\nU.S. POSTAGE\n\n<a id='d0986fac-63f0-4799-89d4-2534b35ae9e4'></a>\n\nExecutive Secretary\nAmerican Institute of Nutrition\n9650 Rockville Pike\nBethesda, Maryland 20014\n\n<a id='fdd5c999-7c95-4e0e-a100-fc24aa3dab65'></a>\n\n[5]\n\n<a id='d3cb53a9-3799-4e23-a8d1-2c0b8d852089'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xjmw0227",
+    "chunks": [
+        {
+            "markdown": "<a id='ac2c30a2-38c4-47ca-8013-c76e1fbeaf5e'></a>\n\nTHOMAS JEFFERSON\nUNITED STATES\n1\u00a2\n\n5\u00a2\nU.S. POSTAGE",
+            "type": "card",
+            "id": "ac2c30a2-38c4-47ca-8013-c76e1fbeaf5e",
+            "grounding": {
+                "box": {
+                    "left": 0.5478273630142212,
+                    "top": 0.13475966453552246,
+                    "right": 0.9001275300979614,
+                    "bottom": 0.4307126998901367
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d0986fac-63f0-4799-89d4-2534b35ae9e4'></a>\n\nExecutive Secretary\nAmerican Institute of Nutrition\n9650 Rockville Pike\nBethesda, Maryland 20014",
+            "type": "text",
+            "id": "d0986fac-63f0-4799-89d4-2534b35ae9e4",
+            "grounding": {
+                "box": {
+                    "left": 0.267108678817749,
+                    "top": 0.4859738349914551,
+                    "right": 0.7267690300941467,
+                    "bottom": 0.6875724792480469
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fdd5c999-7c95-4e0e-a100-fc24aa3dab65'></a>\n\n[5]",
+            "type": "text",
+            "id": "fdd5c999-7c95-4e0e-a100-fc24aa3dab65",
+            "grounding": {
+                "box": {
+                    "left": 0.5545170307159424,
+                    "top": 0.8104797601699829,
+                    "right": 0.6086668968200684,
+                    "bottom": 0.8672648668289185
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d3cb53a9-3799-4e23-a8d1-2c0b8d852089'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xjmw0227",
+            "type": "text",
+            "id": "d3cb53a9-3799-4e23-a8d1-2c0b8d852089",
+            "grounding": {
+                "box": {
+                    "left": 0.08430230617523193,
+                    "top": 0.9383764266967773,
+                    "right": 0.9146358370780945,
+                    "bottom": 0.9968409538269043
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ac2c30a2-38c4-47ca-8013-c76e1fbeaf5e'></a>\n\nTHOMAS JEFFERSON\nUNITED STATES\n1\u00a2\n\n5\u00a2\nU.S. POSTAGE\n\n<a id='d0986fac-63f0-4799-89d4-2534b35ae9e4'></a>\n\nExecutive Secretary\nAmerican Institute of Nutrition\n9650 Rockville Pike\nBethesda, Maryland 20014\n\n<a id='fdd5c999-7c95-4e0e-a100-fc24aa3dab65'></a>\n\n[5]\n\n<a id='d3cb53a9-3799-4e23-a8d1-2c0b8d852089'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xjmw0227",
+            "chunks": [
+                "ac2c30a2-38c4-47ca-8013-c76e1fbeaf5e",
+                "d0986fac-63f0-4799-89d4-2534b35ae9e4",
+                "fdd5c999-7c95-4e0e-a100-fc24aa3dab65",
+                "d3cb53a9-3799-4e23-a8d1-2c0b8d852089"
+            ]
+        }
+    ],
+    "grounding": {
+        "ac2c30a2-38c4-47ca-8013-c76e1fbeaf5e": {
+            "box": {
+                "left": 0.5478273630142212,
+                "top": 0.13475966453552246,
+                "right": 0.9001275300979614,
+                "bottom": 0.4307126998901367
+            },
+            "page": 0,
+            "type": "chunkCard"
+        },
+        "d0986fac-63f0-4799-89d4-2534b35ae9e4": {
+            "box": {
+                "left": 0.267108678817749,
+                "top": 0.4859738349914551,
+                "right": 0.7267690300941467,
+                "bottom": 0.6875724792480469
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fdd5c999-7c95-4e0e-a100-fc24aa3dab65": {
+            "box": {
+                "left": 0.5545170307159424,
+                "top": 0.8104797601699829,
+                "right": 0.6086668968200684,
+                "bottom": 0.8672648668289185
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d3cb53a9-3799-4e23-a8d1-2c0b8d852089": {
+            "box": {
+                "left": 0.08430230617523193,
+                "top": 0.9383764266967773,
+                "right": 0.9146358370780945,
+                "bottom": 0.9968409538269043
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "xjmw0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3107,
+        "credit_usage": 3.0,
+        "job_id": "hj226d8co11yjr40pssl9wniw",
+        "version": "dpt-2-20250919"
+    }
+}

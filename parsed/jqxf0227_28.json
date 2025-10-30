@@ -1,0 +1,378 @@
+{
+    "markdown": "<a id='ccc3cce3-8bfe-470d-94a3-eca1375c5c8a'></a>\n\nCONFIDENTIAL\nNATIONAL BOARD OF MEDICAL EXAMINERS\n\n<a id='7d043579-1658-4bdd-adfd-dfa58291f586'></a>\n\nSubject: Vital Statistics\n\nTotal number of items: 1\n\n<a id='67d442c5-2722-403f-954b-406b704b795b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">CORRECT ANSWER</td><td id=\"0-3\">CATEGORY</td><td id=\"0-4\">ITEM No.</td><td id=\"0-5\">ITEM</td></tr>\n<tr><td id=\"0-6\">E</td><td id=\"0-7\">14</td><td id=\"0-8\"></td><td id=\"0-9\">A survey of death certificates would be an accurate</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\">79</td><td id=\"0-d\">method of studying the magnitude in a community of</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\">1. leukemia. 2. diabetes mellitus.</td></tr>\n<tr><td id=\"0-i\" rowspan=\"2\"></td><td id=\"0-j\" rowspan=\"2\"></td><td id=\"0-k\" rowspan=\"2\"></td><td id=\"0-l\" rowspan=\"2\">3. coronary thrombosis. 4. cancer of the lung.</td></tr>\n<tr><td id=\"0-m\">1800-4/5</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n</table>\n\n<a id='886b130f-fcbd-4ae6-bdd5-16f9f691cb90'></a>\n\n1800-4/57",
+    "chunks": [
+        {
+            "markdown": "<a id='ccc3cce3-8bfe-470d-94a3-eca1375c5c8a'></a>\n\nCONFIDENTIAL\nNATIONAL BOARD OF MEDICAL EXAMINERS",
+            "type": "text",
+            "id": "ccc3cce3-8bfe-470d-94a3-eca1375c5c8a",
+            "grounding": {
+                "box": {
+                    "left": 0.09892351925373077,
+                    "top": 0.05511070042848587,
+                    "right": 0.5298893451690674,
+                    "bottom": 0.1156049594283104
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7d043579-1658-4bdd-adfd-dfa58291f586'></a>\n\nSubject: Vital Statistics\n\nTotal number of items: 1",
+            "type": "text",
+            "id": "7d043579-1658-4bdd-adfd-dfa58291f586",
+            "grounding": {
+                "box": {
+                    "left": 0.615383505821228,
+                    "top": 0.058145731687545776,
+                    "right": 0.9147292375564575,
+                    "bottom": 0.11630697548389435
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='67d442c5-2722-403f-954b-406b704b795b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">CORRECT ANSWER</td><td id=\"0-3\">CATEGORY</td><td id=\"0-4\">ITEM No.</td><td id=\"0-5\">ITEM</td></tr>\n<tr><td id=\"0-6\">E</td><td id=\"0-7\">14</td><td id=\"0-8\"></td><td id=\"0-9\">A survey of death certificates would be an accurate</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\">79</td><td id=\"0-d\">method of studying the magnitude in a community of</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\">1. leukemia. 2. diabetes mellitus.</td></tr>\n<tr><td id=\"0-i\" rowspan=\"2\"></td><td id=\"0-j\" rowspan=\"2\"></td><td id=\"0-k\" rowspan=\"2\"></td><td id=\"0-l\" rowspan=\"2\">3. coronary thrombosis. 4. cancer of the lung.</td></tr>\n<tr><td id=\"0-m\">1800-4/5</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "67d442c5-2722-403f-954b-406b704b795b",
+            "grounding": {
+                "box": {
+                    "left": 0.023307204246520996,
+                    "top": 0.13351508975028992,
+                    "right": 0.9863362312316895,
+                    "bottom": 0.9854321479797363
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='886b130f-fcbd-4ae6-bdd5-16f9f691cb90'></a>\n\n1800-4/57",
+            "type": "marginalia",
+            "id": "886b130f-fcbd-4ae6-bdd5-16f9f691cb90",
+            "grounding": {
+                "box": {
+                    "left": 0.04340487718582153,
+                    "top": 0.9656808972358704,
+                    "right": 0.10407596826553345,
+                    "bottom": 0.9826896786689758
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ccc3cce3-8bfe-470d-94a3-eca1375c5c8a'></a>\n\nCONFIDENTIAL\nNATIONAL BOARD OF MEDICAL EXAMINERS\n\n<a id='7d043579-1658-4bdd-adfd-dfa58291f586'></a>\n\nSubject: Vital Statistics\n\nTotal number of items: 1\n\n<a id='67d442c5-2722-403f-954b-406b704b795b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">CORRECT ANSWER</td><td id=\"0-3\">CATEGORY</td><td id=\"0-4\">ITEM No.</td><td id=\"0-5\">ITEM</td></tr>\n<tr><td id=\"0-6\">E</td><td id=\"0-7\">14</td><td id=\"0-8\"></td><td id=\"0-9\">A survey of death certificates would be an accurate</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\">79</td><td id=\"0-d\">method of studying the magnitude in a community of</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\">1. leukemia. 2. diabetes mellitus.</td></tr>\n<tr><td id=\"0-i\" rowspan=\"2\"></td><td id=\"0-j\" rowspan=\"2\"></td><td id=\"0-k\" rowspan=\"2\"></td><td id=\"0-l\" rowspan=\"2\">3. coronary thrombosis. 4. cancer of the lung.</td></tr>\n<tr><td id=\"0-m\">1800-4/5</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td></tr>\n</table>\n\n<a id='886b130f-fcbd-4ae6-bdd5-16f9f691cb90'></a>\n\n1800-4/57",
+            "chunks": [
+                "ccc3cce3-8bfe-470d-94a3-eca1375c5c8a",
+                "7d043579-1658-4bdd-adfd-dfa58291f586",
+                "67d442c5-2722-403f-954b-406b704b795b",
+                "886b130f-fcbd-4ae6-bdd5-16f9f691cb90"
+            ]
+        }
+    ],
+    "grounding": {
+        "ccc3cce3-8bfe-470d-94a3-eca1375c5c8a": {
+            "box": {
+                "left": 0.09892351925373077,
+                "top": 0.05511070042848587,
+                "right": 0.5298893451690674,
+                "bottom": 0.1156049594283104
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7d043579-1658-4bdd-adfd-dfa58291f586": {
+            "box": {
+                "left": 0.615383505821228,
+                "top": 0.058145731687545776,
+                "right": 0.9147292375564575,
+                "bottom": 0.11630697548389435
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "67d442c5-2722-403f-954b-406b704b795b": {
+            "box": {
+                "left": 0.023307204246520996,
+                "top": 0.13351508975028992,
+                "right": 0.9863362312316895,
+                "bottom": 0.9854321479797363
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.03215344323760916,
+                "top": 0.14455225496029955,
+                "right": 0.9816105788526173,
+                "bottom": 0.9854238203527004
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.03215344323760916,
+                "top": 0.14455225496029955,
+                "right": 0.10013703334509483,
+                "bottom": 0.17181053638383814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.10013703334509483,
+                "top": 0.14455225496029955,
+                "right": 0.16933350485349585,
+                "bottom": 0.17181053638383814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.16933350485349585,
+                "top": 0.14455225496029955,
+                "right": 0.25697484875439436,
+                "bottom": 0.17181053638383814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.25697484875439436,
+                "top": 0.14455225496029955,
+                "right": 0.9818687111633864,
+                "bottom": 0.17181053638383814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.03215344323760916,
+                "top": 0.17181053638383814,
+                "right": 0.10013703334509483,
+                "bottom": 0.20346990522311104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.10013703334509483,
+                "top": 0.17181053638383814,
+                "right": 0.16933350485349585,
+                "bottom": 0.20346990522311104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.16933350485349585,
+                "top": 0.17181053638383814,
+                "right": 0.25697484875439436,
+                "bottom": 0.20346990522311104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.25697484875439436,
+                "top": 0.17181053638383814,
+                "right": 0.9818687111633864,
+                "bottom": 0.20346990522311104
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.03215344323760916,
+                "top": 0.20346990522311104,
+                "right": 0.10013703334509483,
+                "bottom": 0.23399030920966135
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.10013703334509483,
+                "top": 0.20346990522311104,
+                "right": 0.16933350485349585,
+                "bottom": 0.23399030920966135
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.16933350485349585,
+                "top": 0.20346990522311104,
+                "right": 0.25697484875439436,
+                "bottom": 0.23399030920966135
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.25697484875439436,
+                "top": 0.20346990522311104,
+                "right": 0.9818687111633864,
+                "bottom": 0.23399030920966135
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.03215344323760916,
+                "top": 0.23399030920966135,
+                "right": 0.10013703334509483,
+                "bottom": 0.29914151201999584
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.10013703334509483,
+                "top": 0.23399030920966135,
+                "right": 0.16933350485349585,
+                "bottom": 0.29914151201999584
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.16933350485349585,
+                "top": 0.23399030920966135,
+                "right": 0.25697484875439436,
+                "bottom": 0.29914151201999584
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.25697484875439436,
+                "top": 0.23399030920966135,
+                "right": 0.9818687111633864,
+                "bottom": 0.29914151201999584
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.03215344323760916,
+                "top": 0.29914151201999584,
+                "right": 0.16933350485349585,
+                "bottom": 0.9854238203527004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.10013703334509483,
+                "top": 0.29914151201999584,
+                "right": 0.25697484875439436,
+                "bottom": 0.9854238203527004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.16933350485349585,
+                "top": 0.29914151201999584,
+                "right": 0.9818687111633864,
+                "bottom": 0.9854238203527004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.25697484875439436,
+                "top": 0.29914151201999584,
+                "right": 0.9818687111633864,
+                "bottom": 0.9854238203527004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.03215344323760916,
+                "top": 0.9647312412929789,
+                "right": 0.10013703334509483,
+                "bottom": 0.9854238203527004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.10013703334509483,
+                "top": 0.9647312412929789,
+                "right": 0.16933350485349585,
+                "bottom": 0.9854238203527004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.16933350485349585,
+                "top": 0.9647312412929789,
+                "right": 0.25697484875439436,
+                "bottom": 0.9854238203527004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.25697484875439436,
+                "top": 0.9647312412929789,
+                "right": 0.9818687111633864,
+                "bottom": 0.9854238203527004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "886b130f-fcbd-4ae6-bdd5-16f9f691cb90": {
+            "box": {
+                "left": 0.04340487718582153,
+                "top": 0.9656808972358704,
+                "right": 0.10407596826553345,
+                "bottom": 0.9826896786689758
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "jqxf0227_28.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10267,
+        "credit_usage": 3.0,
+        "job_id": "mwbthf5ydhh0vgsq312xgjbh1",
+        "version": "dpt-2-20250919"
+    }
+}

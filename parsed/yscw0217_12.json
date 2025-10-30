@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='f9ffe823-33d3-4fe6-9f0d-4fab1df87718'></a>\n\n<::logo: DesignWrite\nDesignWrite\nINCORPORATED\nThe logo features \"Design\" in bold, solid black text, and \"Write\" in outlined, hollow text, with \"INCORPORATED\" in smaller, spaced-out letters below.::>\n\n<a id='e3096665-471a-470b-be5f-22e29dd4be70'></a>\n\nImportant Fax Message\nPlease Deliver Immediately\n\n<a id='398a057e-7124-4660-91c4-75bff7c1de54'></a>\n\nTo: Giuseppe M.C. Rosano, MD, PhD,\nFACC \u2013 GUEST\nPalace Hotel Berlin\n\nFax: 011-49-30-25021161\n\n<a id='e5f8a9da-a02f-420a-aaf4-93a36a0f7d0e'></a>\n\nDate: June 13, 2002\n\nFrom: Adrienne Pitrelli for Karen Mittleman, PhD\n\nTime: 12:15 PM EST\n\nPhone: 609-924-1116\n\nFax: 609-497-2304\n\n<a id='e70b18bf-1ae4-424e-a502-8fd47acb875a'></a>\n\nNumber of pages (including cover sheet): 5\n\n<a id='8ee85e40-2d24-4401-ac28-7f2512dc565e'></a>\n\nRe: Article Requested by Karen Mittleman\n---\nDear Dr. Rosano:\n\nKaren Mittleman asked that we fax this article to your attention. Please let us know if you have any questions. Thank you!\n\nSincerely.\n\n<a id='94ed95a1-ef91-41ca-af97-ba0cd8b842f5'></a>\n\n<::attestation: Signature\nlegible\nSignature: legible\nReadable Text: Adrienne Pitrelli\nCentered on a white background::>\n\n<a id='42dfd640-62b0-4d86-8bc7-fca695bd55fa'></a>\n\n189 WALL STREET, PRINCETON, NEW JERSEY 08540 \u2022 609/924-1116 \u2022 FAX: 609/497-2304\n\n<a id='c48259c6-7576-481a-b3b5-a504053f0a61'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217\n\n<a id='dfeb383e-14df-4954-b365-ac65fe66a28a'></a>\n\nDWRITE 067823",
+    "chunks": [
+        {
+            "markdown": "<a id='f9ffe823-33d3-4fe6-9f0d-4fab1df87718'></a>\n\n<::logo: DesignWrite\nDesignWrite\nINCORPORATED\nThe logo features \"Design\" in bold, solid black text, and \"Write\" in outlined, hollow text, with \"INCORPORATED\" in smaller, spaced-out letters below.::>",
+            "type": "logo",
+            "id": "f9ffe823-33d3-4fe6-9f0d-4fab1df87718",
+            "grounding": {
+                "box": {
+                    "left": 0.34824931621551514,
+                    "top": 0.050249435007572174,
+                    "right": 0.6068357825279236,
+                    "bottom": 0.10220784693956375
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e3096665-471a-470b-be5f-22e29dd4be70'></a>\n\nImportant Fax Message\nPlease Deliver Immediately",
+            "type": "text",
+            "id": "e3096665-471a-470b-be5f-22e29dd4be70",
+            "grounding": {
+                "box": {
+                    "left": 0.3053463399410248,
+                    "top": 0.12535426020622253,
+                    "right": 0.6571849584579468,
+                    "bottom": 0.18867570161819458
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='398a057e-7124-4660-91c4-75bff7c1de54'></a>\n\nTo: Giuseppe M.C. Rosano, MD, PhD,\nFACC \u2013 GUEST\nPalace Hotel Berlin\n\nFax: 011-49-30-25021161",
+            "type": "text",
+            "id": "398a057e-7124-4660-91c4-75bff7c1de54",
+            "grounding": {
+                "box": {
+                    "left": 0.12960350513458252,
+                    "top": 0.1993907243013382,
+                    "right": 0.768681526184082,
+                    "bottom": 0.25975584983825684
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e5f8a9da-a02f-420a-aaf4-93a36a0f7d0e'></a>\n\nDate: June 13, 2002\n\nFrom: Adrienne Pitrelli for Karen Mittleman, PhD\n\nTime: 12:15 PM EST\n\nPhone: 609-924-1116\n\nFax: 609-497-2304",
+            "type": "text",
+            "id": "e5f8a9da-a02f-420a-aaf4-93a36a0f7d0e",
+            "grounding": {
+                "box": {
+                    "left": 0.13066357374191284,
+                    "top": 0.27151215076446533,
+                    "right": 0.7959660887718201,
+                    "bottom": 0.36752188205718994
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e70b18bf-1ae4-424e-a502-8fd47acb875a'></a>\n\nNumber of pages (including cover sheet): 5",
+            "type": "text",
+            "id": "e70b18bf-1ae4-424e-a502-8fd47acb875a",
+            "grounding": {
+                "box": {
+                    "left": 0.13093112409114838,
+                    "top": 0.3771147131919861,
+                    "right": 0.5554941296577454,
+                    "bottom": 0.4024468660354614
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ee85e40-2d24-4401-ac28-7f2512dc565e'></a>\n\nRe: Article Requested by Karen Mittleman\n---\nDear Dr. Rosano:\n\nKaren Mittleman asked that we fax this article to your attention. Please let us know if you have any questions. Thank you!\n\nSincerely.",
+            "type": "text",
+            "id": "8ee85e40-2d24-4401-ac28-7f2512dc565e",
+            "grounding": {
+                "box": {
+                    "left": 0.12965428829193115,
+                    "top": 0.4136761426925659,
+                    "right": 0.8485018014907837,
+                    "bottom": 0.557533860206604
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='94ed95a1-ef91-41ca-af97-ba0cd8b842f5'></a>\n\n<::attestation: Signature\nlegible\nSignature: legible\nReadable Text: Adrienne Pitrelli\nCentered on a white background::>",
+            "type": "attestation",
+            "id": "94ed95a1-ef91-41ca-af97-ba0cd8b842f5",
+            "grounding": {
+                "box": {
+                    "left": 0.1312820315361023,
+                    "top": 0.5996784567832947,
+                    "right": 0.28292882442474365,
+                    "bottom": 0.6264072060585022
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='42dfd640-62b0-4d86-8bc7-fca695bd55fa'></a>\n\n189 WALL STREET, PRINCETON, NEW JERSEY 08540 \u2022 609/924-1116 \u2022 FAX: 609/497-2304",
+            "type": "text",
+            "id": "42dfd640-62b0-4d86-8bc7-fca695bd55fa",
+            "grounding": {
+                "box": {
+                    "left": 0.15322744846343994,
+                    "top": 0.90798020362854,
+                    "right": 0.8205626606941223,
+                    "bottom": 0.9296596050262451
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c48259c6-7576-481a-b3b5-a504053f0a61'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217",
+            "type": "marginalia",
+            "id": "c48259c6-7576-481a-b3b5-a504053f0a61",
+            "grounding": {
+                "box": {
+                    "left": 0.21377268433570862,
+                    "top": 0.9766270518302917,
+                    "right": 0.7868083715438843,
+                    "bottom": 0.9999437928199768
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dfeb383e-14df-4954-b365-ac65fe66a28a'></a>\n\nDWRITE 067823",
+            "type": "marginalia",
+            "id": "dfeb383e-14df-4954-b365-ac65fe66a28a",
+            "grounding": {
+                "box": {
+                    "left": 0.8402938842773438,
+                    "top": 0.9731282591819763,
+                    "right": 0.9736946821212769,
+                    "bottom": 0.9930806756019592
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='f9ffe823-33d3-4fe6-9f0d-4fab1df87718'></a>\n\n<::logo: DesignWrite\nDesignWrite\nINCORPORATED\nThe logo features \"Design\" in bold, solid black text, and \"Write\" in outlined, hollow text, with \"INCORPORATED\" in smaller, spaced-out letters below.::>\n\n<a id='e3096665-471a-470b-be5f-22e29dd4be70'></a>\n\nImportant Fax Message\nPlease Deliver Immediately\n\n<a id='398a057e-7124-4660-91c4-75bff7c1de54'></a>\n\nTo: Giuseppe M.C. Rosano, MD, PhD,\nFACC \u2013 GUEST\nPalace Hotel Berlin\n\nFax: 011-49-30-25021161\n\n<a id='e5f8a9da-a02f-420a-aaf4-93a36a0f7d0e'></a>\n\nDate: June 13, 2002\n\nFrom: Adrienne Pitrelli for Karen Mittleman, PhD\n\nTime: 12:15 PM EST\n\nPhone: 609-924-1116\n\nFax: 609-497-2304\n\n<a id='e70b18bf-1ae4-424e-a502-8fd47acb875a'></a>\n\nNumber of pages (including cover sheet): 5\n\n<a id='8ee85e40-2d24-4401-ac28-7f2512dc565e'></a>\n\nRe: Article Requested by Karen Mittleman\n---\nDear Dr. Rosano:\n\nKaren Mittleman asked that we fax this article to your attention. Please let us know if you have any questions. Thank you!\n\nSincerely.\n\n<a id='94ed95a1-ef91-41ca-af97-ba0cd8b842f5'></a>\n\n<::attestation: Signature\nlegible\nSignature: legible\nReadable Text: Adrienne Pitrelli\nCentered on a white background::>\n\n<a id='42dfd640-62b0-4d86-8bc7-fca695bd55fa'></a>\n\n189 WALL STREET, PRINCETON, NEW JERSEY 08540 \u2022 609/924-1116 \u2022 FAX: 609/497-2304\n\n<a id='c48259c6-7576-481a-b3b5-a504053f0a61'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yscw0217\n\n<a id='dfeb383e-14df-4954-b365-ac65fe66a28a'></a>\n\nDWRITE 067823",
+            "chunks": [
+                "f9ffe823-33d3-4fe6-9f0d-4fab1df87718",
+                "e3096665-471a-470b-be5f-22e29dd4be70",
+                "398a057e-7124-4660-91c4-75bff7c1de54",
+                "e5f8a9da-a02f-420a-aaf4-93a36a0f7d0e",
+                "e70b18bf-1ae4-424e-a502-8fd47acb875a",
+                "8ee85e40-2d24-4401-ac28-7f2512dc565e",
+                "94ed95a1-ef91-41ca-af97-ba0cd8b842f5",
+                "42dfd640-62b0-4d86-8bc7-fca695bd55fa",
+                "c48259c6-7576-481a-b3b5-a504053f0a61",
+                "dfeb383e-14df-4954-b365-ac65fe66a28a"
+            ]
+        }
+    ],
+    "grounding": {
+        "f9ffe823-33d3-4fe6-9f0d-4fab1df87718": {
+            "box": {
+                "left": 0.34824931621551514,
+                "top": 0.050249435007572174,
+                "right": 0.6068357825279236,
+                "bottom": 0.10220784693956375
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "e3096665-471a-470b-be5f-22e29dd4be70": {
+            "box": {
+                "left": 0.3053463399410248,
+                "top": 0.12535426020622253,
+                "right": 0.6571849584579468,
+                "bottom": 0.18867570161819458
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "398a057e-7124-4660-91c4-75bff7c1de54": {
+            "box": {
+                "left": 0.12960350513458252,
+                "top": 0.1993907243013382,
+                "right": 0.768681526184082,
+                "bottom": 0.25975584983825684
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e5f8a9da-a02f-420a-aaf4-93a36a0f7d0e": {
+            "box": {
+                "left": 0.13066357374191284,
+                "top": 0.27151215076446533,
+                "right": 0.7959660887718201,
+                "bottom": 0.36752188205718994
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e70b18bf-1ae4-424e-a502-8fd47acb875a": {
+            "box": {
+                "left": 0.13093112409114838,
+                "top": 0.3771147131919861,
+                "right": 0.5554941296577454,
+                "bottom": 0.4024468660354614
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8ee85e40-2d24-4401-ac28-7f2512dc565e": {
+            "box": {
+                "left": 0.12965428829193115,
+                "top": 0.4136761426925659,
+                "right": 0.8485018014907837,
+                "bottom": 0.557533860206604
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "94ed95a1-ef91-41ca-af97-ba0cd8b842f5": {
+            "box": {
+                "left": 0.1312820315361023,
+                "top": 0.5996784567832947,
+                "right": 0.28292882442474365,
+                "bottom": 0.6264072060585022
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "42dfd640-62b0-4d86-8bc7-fca695bd55fa": {
+            "box": {
+                "left": 0.15322744846343994,
+                "top": 0.90798020362854,
+                "right": 0.8205626606941223,
+                "bottom": 0.9296596050262451
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c48259c6-7576-481a-b3b5-a504053f0a61": {
+            "box": {
+                "left": 0.21377268433570862,
+                "top": 0.9766270518302917,
+                "right": 0.7868083715438843,
+                "bottom": 0.9999437928199768
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "dfeb383e-14df-4954-b365-ac65fe66a28a": {
+            "box": {
+                "left": 0.8402938842773438,
+                "top": 0.9731282591819763,
+                "right": 0.9736946821212769,
+                "bottom": 0.9930806756019592
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yscw0217_12.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7932,
+        "credit_usage": 3.0,
+        "job_id": "rmt3jsmfyvvbasrf6m0oeix6d",
+        "version": "dpt-2-20250919"
+    }
+}

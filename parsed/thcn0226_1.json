@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='6a29f6f8-ae2e-4052-89ee-494f606c303d'></a>\n\n<::An abstract background pattern composed of multiple isometric cubes. Some cubes are outlined with dotted lines, while others have one or more faces filled with a dotted shading pattern. The cubes are arranged in a seemingly random, overlapping fashion across the image. At the bottom left, there is a horizontal line made of dots.\n: figure::>\n\n<a id='f735270d-fde4-4f72-a51f-c2a34e6df7e1'></a>\n\n<::logo:\nJune 30, 2016\nThe text is rendered with a diagonal line pattern.::>\n\n<a id='903a122b-6b1c-45bf-9d79-e5f7cb5e27b2'></a>\n\nCOMMENTS AT THE EPA PUBLIC SCIENCE\nMEETING ON TERT-BUTANOL\n\n<a id='182b4cfd-0cc6-4361-9d9f-16abfe6052aa'></a>\n\nNancy Beck, PhD, DABT\nSenior Director, ACC\n\n---\n\nAmerican\nChemistry\nCouncil\n\nSource: https://www.industrydocuments.ucsf.edu/docs/thcn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='6a29f6f8-ae2e-4052-89ee-494f606c303d'></a>\n\n<::An abstract background pattern composed of multiple isometric cubes. Some cubes are outlined with dotted lines, while others have one or more faces filled with a dotted shading pattern. The cubes are arranged in a seemingly random, overlapping fashion across the image. At the bottom left, there is a horizontal line made of dots.\n: figure::>",
+            "type": "figure",
+            "id": "6a29f6f8-ae2e-4052-89ee-494f606c303d",
+            "grounding": {
+                "box": {
+                    "left": 0.4644010663032532,
+                    "top": 0.0005116462707519531,
+                    "right": 0.9993142485618591,
+                    "bottom": 0.2772141098976135
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f735270d-fde4-4f72-a51f-c2a34e6df7e1'></a>\n\n<::logo:\nJune 30, 2016\nThe text is rendered with a diagonal line pattern.::>",
+            "type": "logo",
+            "id": "f735270d-fde4-4f72-a51f-c2a34e6df7e1",
+            "grounding": {
+                "box": {
+                    "left": 0.16807395219802856,
+                    "top": 0.19821983575820923,
+                    "right": 0.3709413409233093,
+                    "bottom": 0.25933703780174255
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='903a122b-6b1c-45bf-9d79-e5f7cb5e27b2'></a>\n\nCOMMENTS AT THE EPA PUBLIC SCIENCE\nMEETING ON TERT-BUTANOL",
+            "type": "text",
+            "id": "903a122b-6b1c-45bf-9d79-e5f7cb5e27b2",
+            "grounding": {
+                "box": {
+                    "left": 0.15976440906524658,
+                    "top": 0.3366025686264038,
+                    "right": 0.8433248996734619,
+                    "bottom": 0.45370668172836304
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='182b4cfd-0cc6-4361-9d9f-16abfe6052aa'></a>\n\nNancy Beck, PhD, DABT\nSenior Director, ACC\n\n---\n\nAmerican\nChemistry\nCouncil\n\nSource: https://www.industrydocuments.ucsf.edu/docs/thcn0226",
+            "type": "text",
+            "id": "182b4cfd-0cc6-4361-9d9f-16abfe6052aa",
+            "grounding": {
+                "box": {
+                    "left": 0.003850102424621582,
+                    "top": 0.5347168445587158,
+                    "right": 0.8763604164123535,
+                    "bottom": 1.0000745058059692
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6a29f6f8-ae2e-4052-89ee-494f606c303d'></a>\n\n<::An abstract background pattern composed of multiple isometric cubes. Some cubes are outlined with dotted lines, while others have one or more faces filled with a dotted shading pattern. The cubes are arranged in a seemingly random, overlapping fashion across the image. At the bottom left, there is a horizontal line made of dots.\n: figure::>\n\n<a id='f735270d-fde4-4f72-a51f-c2a34e6df7e1'></a>\n\n<::logo:\nJune 30, 2016\nThe text is rendered with a diagonal line pattern.::>\n\n<a id='903a122b-6b1c-45bf-9d79-e5f7cb5e27b2'></a>\n\nCOMMENTS AT THE EPA PUBLIC SCIENCE\nMEETING ON TERT-BUTANOL\n\n<a id='182b4cfd-0cc6-4361-9d9f-16abfe6052aa'></a>\n\nNancy Beck, PhD, DABT\nSenior Director, ACC\n\n---\n\nAmerican\nChemistry\nCouncil\n\nSource: https://www.industrydocuments.ucsf.edu/docs/thcn0226",
+            "chunks": [
+                "6a29f6f8-ae2e-4052-89ee-494f606c303d",
+                "f735270d-fde4-4f72-a51f-c2a34e6df7e1",
+                "903a122b-6b1c-45bf-9d79-e5f7cb5e27b2",
+                "182b4cfd-0cc6-4361-9d9f-16abfe6052aa"
+            ]
+        }
+    ],
+    "grounding": {
+        "6a29f6f8-ae2e-4052-89ee-494f606c303d": {
+            "box": {
+                "left": 0.4644010663032532,
+                "top": 0.0005116462707519531,
+                "right": 0.9993142485618591,
+                "bottom": 0.2772141098976135
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "f735270d-fde4-4f72-a51f-c2a34e6df7e1": {
+            "box": {
+                "left": 0.16807395219802856,
+                "top": 0.19821983575820923,
+                "right": 0.3709413409233093,
+                "bottom": 0.25933703780174255
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "903a122b-6b1c-45bf-9d79-e5f7cb5e27b2": {
+            "box": {
+                "left": 0.15976440906524658,
+                "top": 0.3366025686264038,
+                "right": 0.8433248996734619,
+                "bottom": 0.45370668172836304
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "182b4cfd-0cc6-4361-9d9f-16abfe6052aa": {
+            "box": {
+                "left": 0.003850102424621582,
+                "top": 0.5347168445587158,
+                "right": 0.8763604164123535,
+                "bottom": 1.0000745058059692
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "thcn0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 14075,
+        "credit_usage": 3.0,
+        "job_id": "fqcqpl0uet680ksjg0deiqgwv",
+        "version": "dpt-2-20250919"
+    }
+}

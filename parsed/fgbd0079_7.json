@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='1b81bce3-ba35-4cc5-bdf4-7f296328a5c6'></a>\n\nSENT BY:RJ REYNOLDS TOB. CO. ; 8-8-84 ; 15:26 ;PT&D MECH & INST DEV\u2192\n\n<a id='4020ceb0-5311-4c09-8da2-fec6aa639b20'></a>\n\n9197410918:# 7\n\n<a id='e5bf81f8-058a-44ea-bf34-a61efa2ab5e8'></a>\n\n# CSF Run Sheet\n\nDate: 7-28-94\n\nPD: 5960 C\n\nCSF: 721\n\nRun Nos. 1934 - 1943\n\nNet Pounds Infeed: 584\n\nNet Pounds Out: 487\n\n83.4%\n\nSEPARATE BINDER HYDRATION IN PULP PRIOR TO B-3\n\n<a id='9ce239d5-223f-49d2-bcc0-cc19447b68dd'></a>\n\n51441\n8654",
+    "chunks": [
+        {
+            "markdown": "<a id='1b81bce3-ba35-4cc5-bdf4-7f296328a5c6'></a>\n\nSENT BY:RJ REYNOLDS TOB. CO. ; 8-8-84 ; 15:26 ;PT&D MECH & INST DEV\u2192",
+            "type": "text",
+            "id": "1b81bce3-ba35-4cc5-bdf4-7f296328a5c6",
+            "grounding": {
+                "box": {
+                    "left": 0.05108490586280823,
+                    "top": 0.004510198719799519,
+                    "right": 0.7227152585983276,
+                    "bottom": 0.031147882342338562
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4020ceb0-5311-4c09-8da2-fec6aa639b20'></a>\n\n9197410918:# 7",
+            "type": "text",
+            "id": "4020ceb0-5311-4c09-8da2-fec6aa639b20",
+            "grounding": {
+                "box": {
+                    "left": 0.8023906946182251,
+                    "top": 0.007398565299808979,
+                    "right": 0.9449285268783569,
+                    "bottom": 0.028813820332288742
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e5bf81f8-058a-44ea-bf34-a61efa2ab5e8'></a>\n\n# CSF Run Sheet\n\nDate: 7-28-94\n\nPD: 5960 C\n\nCSF: 721\n\nRun Nos. 1934 - 1943\n\nNet Pounds Infeed: 584\n\nNet Pounds Out: 487\n\n83.4%\n\nSEPARATE BINDER HYDRATION IN PULP PRIOR TO B-3",
+            "type": "text",
+            "id": "e5bf81f8-058a-44ea-bf34-a61efa2ab5e8",
+            "grounding": {
+                "box": {
+                    "left": 0.10097876191139221,
+                    "top": 0.17285048961639404,
+                    "right": 0.8051067590713501,
+                    "bottom": 0.7241029143333435
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9ce239d5-223f-49d2-bcc0-cc19447b68dd'></a>\n\n51441\n8654",
+            "type": "text",
+            "id": "9ce239d5-223f-49d2-bcc0-cc19447b68dd",
+            "grounding": {
+                "box": {
+                    "left": 0.9086213111877441,
+                    "top": 0.8367307782173157,
+                    "right": 0.9469619989395142,
+                    "bottom": 0.9391787648200989
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='1b81bce3-ba35-4cc5-bdf4-7f296328a5c6'></a>\n\nSENT BY:RJ REYNOLDS TOB. CO. ; 8-8-84 ; 15:26 ;PT&D MECH & INST DEV\u2192\n\n<a id='4020ceb0-5311-4c09-8da2-fec6aa639b20'></a>\n\n9197410918:# 7\n\n<a id='e5bf81f8-058a-44ea-bf34-a61efa2ab5e8'></a>\n\n# CSF Run Sheet\n\nDate: 7-28-94\n\nPD: 5960 C\n\nCSF: 721\n\nRun Nos. 1934 - 1943\n\nNet Pounds Infeed: 584\n\nNet Pounds Out: 487\n\n83.4%\n\nSEPARATE BINDER HYDRATION IN PULP PRIOR TO B-3\n\n<a id='9ce239d5-223f-49d2-bcc0-cc19447b68dd'></a>\n\n51441\n8654",
+            "chunks": [
+                "1b81bce3-ba35-4cc5-bdf4-7f296328a5c6",
+                "4020ceb0-5311-4c09-8da2-fec6aa639b20",
+                "e5bf81f8-058a-44ea-bf34-a61efa2ab5e8",
+                "9ce239d5-223f-49d2-bcc0-cc19447b68dd"
+            ]
+        }
+    ],
+    "grounding": {
+        "1b81bce3-ba35-4cc5-bdf4-7f296328a5c6": {
+            "box": {
+                "left": 0.05108490586280823,
+                "top": 0.004510198719799519,
+                "right": 0.7227152585983276,
+                "bottom": 0.031147882342338562
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4020ceb0-5311-4c09-8da2-fec6aa639b20": {
+            "box": {
+                "left": 0.8023906946182251,
+                "top": 0.007398565299808979,
+                "right": 0.9449285268783569,
+                "bottom": 0.028813820332288742
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e5bf81f8-058a-44ea-bf34-a61efa2ab5e8": {
+            "box": {
+                "left": 0.10097876191139221,
+                "top": 0.17285048961639404,
+                "right": 0.8051067590713501,
+                "bottom": 0.7241029143333435
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9ce239d5-223f-49d2-bcc0-cc19447b68dd": {
+            "box": {
+                "left": 0.9086213111877441,
+                "top": 0.8367307782173157,
+                "right": 0.9469619989395142,
+                "bottom": 0.9391787648200989
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "fgbd0079_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11735,
+        "credit_usage": 3.0,
+        "job_id": "cycllwul58g1vb9d3am8nb9qk",
+        "version": "dpt-2-20250919"
+    }
+}

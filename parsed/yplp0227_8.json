@@ -1,0 +1,428 @@
+{
+    "markdown": "<a id='f3ba8e1c-121a-46ea-8dbd-5c503177ae30'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">PAST PRESIDENTS</td></tr>\n<tr><td id=\"0-3\" colspan=\"3\">AND HONORARY LIFE MEMBERS</td></tr>\n<tr><td id=\"0-4\" colspan=\"2\">1. John Dingee ....................</td><td id=\"0-5\">1949-1951</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">2. Robert A. Sindall, Jr.,........</td><td id=\"0-7\">1952-1953</td></tr>\n<tr><td id=\"0-8\" colspan=\"2\">3. M.R. (Joe) Feeney</td><td id=\"0-9\">1954-1955</td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">4. David S. Nay</td><td id=\"0-b\">1956-1957</td></tr>\n<tr><td id=\"0-c\" colspan=\"2\">5. Frank S. Langsenkamp</td><td id=\"0-d\">1958-1959</td></tr>\n<tr><td id=\"0-e\" colspan=\"2\">6. Edward E. Judge................</td><td id=\"0-f\">1960-1961</td></tr>\n<tr><td id=\"0-g\" colspan=\"2\">7. Charles E.Schick.</td><td id=\"0-h\">1962-1963</td></tr>\n<tr><td id=\"0-i\" colspan=\"2\">8. Louis E. Kibler, Sr.</td><td id=\"0-j\">1964-1965</td></tr>\n<tr><td id=\"0-k\" colspan=\"2\">9. Clyde N. Monda .............</td><td id=\"0-l\">1966-1967</td></tr>\n<tr><td id=\"0-m\" colspan=\"2\">10. Nat C. Barnard</td><td id=\"0-n\">1968-1969</td></tr>\n<tr><td id=\"0-o\" colspan=\"2\">11. James G. McGinnis</td><td id=\"0-p\">1970-1971</td></tr>\n<tr><td id=\"0-q\" colspan=\"2\">12. Thomas N. Martin.</td><td id=\"0-r\">1972-1973</td></tr>\n<tr><td id=\"0-s\" colspan=\"2\">13. Herbert E. Shek................</td><td id=\"0-t\">1974-1975</td></tr>\n<tr><td id=\"0-u\" colspan=\"2\">14. Arthur I. Judge II</td><td id=\"0-v\">1976-1977</td></tr>\n<tr><td id=\"0-w\" colspan=\"2\">15. George L. Shipley*............</td><td id=\"0-x\">1978-1979</td></tr>\n<tr><td id=\"0-y\" colspan=\"2\">*Becomes H.L.M. in 1982</td><td id=\"0-z\">(visual only)</td></tr>\n</table>\n\n<a id='865f5f0c-f62c-48c9-b892-c0cc929421d1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yplp0227",
+    "chunks": [
+        {
+            "markdown": "<a id='f3ba8e1c-121a-46ea-8dbd-5c503177ae30'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">PAST PRESIDENTS</td></tr>\n<tr><td id=\"0-3\" colspan=\"3\">AND HONORARY LIFE MEMBERS</td></tr>\n<tr><td id=\"0-4\" colspan=\"2\">1. John Dingee ....................</td><td id=\"0-5\">1949-1951</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">2. Robert A. Sindall, Jr.,........</td><td id=\"0-7\">1952-1953</td></tr>\n<tr><td id=\"0-8\" colspan=\"2\">3. M.R. (Joe) Feeney</td><td id=\"0-9\">1954-1955</td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">4. David S. Nay</td><td id=\"0-b\">1956-1957</td></tr>\n<tr><td id=\"0-c\" colspan=\"2\">5. Frank S. Langsenkamp</td><td id=\"0-d\">1958-1959</td></tr>\n<tr><td id=\"0-e\" colspan=\"2\">6. Edward E. Judge................</td><td id=\"0-f\">1960-1961</td></tr>\n<tr><td id=\"0-g\" colspan=\"2\">7. Charles E.Schick.</td><td id=\"0-h\">1962-1963</td></tr>\n<tr><td id=\"0-i\" colspan=\"2\">8. Louis E. Kibler, Sr.</td><td id=\"0-j\">1964-1965</td></tr>\n<tr><td id=\"0-k\" colspan=\"2\">9. Clyde N. Monda .............</td><td id=\"0-l\">1966-1967</td></tr>\n<tr><td id=\"0-m\" colspan=\"2\">10. Nat C. Barnard</td><td id=\"0-n\">1968-1969</td></tr>\n<tr><td id=\"0-o\" colspan=\"2\">11. James G. McGinnis</td><td id=\"0-p\">1970-1971</td></tr>\n<tr><td id=\"0-q\" colspan=\"2\">12. Thomas N. Martin.</td><td id=\"0-r\">1972-1973</td></tr>\n<tr><td id=\"0-s\" colspan=\"2\">13. Herbert E. Shek................</td><td id=\"0-t\">1974-1975</td></tr>\n<tr><td id=\"0-u\" colspan=\"2\">14. Arthur I. Judge II</td><td id=\"0-v\">1976-1977</td></tr>\n<tr><td id=\"0-w\" colspan=\"2\">15. George L. Shipley*............</td><td id=\"0-x\">1978-1979</td></tr>\n<tr><td id=\"0-y\" colspan=\"2\">*Becomes H.L.M. in 1982</td><td id=\"0-z\">(visual only)</td></tr>\n</table>",
+            "type": "table",
+            "id": "f3ba8e1c-121a-46ea-8dbd-5c503177ae30",
+            "grounding": {
+                "box": {
+                    "left": 0.2278088927268982,
+                    "top": 0.12792614102363586,
+                    "right": 0.8854637742042542,
+                    "bottom": 0.8652071952819824
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='865f5f0c-f62c-48c9-b892-c0cc929421d1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yplp0227",
+            "type": "text",
+            "id": "865f5f0c-f62c-48c9-b892-c0cc929421d1",
+            "grounding": {
+                "box": {
+                    "left": 0.052199870347976685,
+                    "top": 0.9582176208496094,
+                    "right": 0.9413138628005981,
+                    "bottom": 0.9983843564987183
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='f3ba8e1c-121a-46ea-8dbd-5c503177ae30'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"3\">PAST PRESIDENTS</td></tr>\n<tr><td id=\"0-3\" colspan=\"3\">AND HONORARY LIFE MEMBERS</td></tr>\n<tr><td id=\"0-4\" colspan=\"2\">1. John Dingee ....................</td><td id=\"0-5\">1949-1951</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">2. Robert A. Sindall, Jr.,........</td><td id=\"0-7\">1952-1953</td></tr>\n<tr><td id=\"0-8\" colspan=\"2\">3. M.R. (Joe) Feeney</td><td id=\"0-9\">1954-1955</td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">4. David S. Nay</td><td id=\"0-b\">1956-1957</td></tr>\n<tr><td id=\"0-c\" colspan=\"2\">5. Frank S. Langsenkamp</td><td id=\"0-d\">1958-1959</td></tr>\n<tr><td id=\"0-e\" colspan=\"2\">6. Edward E. Judge................</td><td id=\"0-f\">1960-1961</td></tr>\n<tr><td id=\"0-g\" colspan=\"2\">7. Charles E.Schick.</td><td id=\"0-h\">1962-1963</td></tr>\n<tr><td id=\"0-i\" colspan=\"2\">8. Louis E. Kibler, Sr.</td><td id=\"0-j\">1964-1965</td></tr>\n<tr><td id=\"0-k\" colspan=\"2\">9. Clyde N. Monda .............</td><td id=\"0-l\">1966-1967</td></tr>\n<tr><td id=\"0-m\" colspan=\"2\">10. Nat C. Barnard</td><td id=\"0-n\">1968-1969</td></tr>\n<tr><td id=\"0-o\" colspan=\"2\">11. James G. McGinnis</td><td id=\"0-p\">1970-1971</td></tr>\n<tr><td id=\"0-q\" colspan=\"2\">12. Thomas N. Martin.</td><td id=\"0-r\">1972-1973</td></tr>\n<tr><td id=\"0-s\" colspan=\"2\">13. Herbert E. Shek................</td><td id=\"0-t\">1974-1975</td></tr>\n<tr><td id=\"0-u\" colspan=\"2\">14. Arthur I. Judge II</td><td id=\"0-v\">1976-1977</td></tr>\n<tr><td id=\"0-w\" colspan=\"2\">15. George L. Shipley*............</td><td id=\"0-x\">1978-1979</td></tr>\n<tr><td id=\"0-y\" colspan=\"2\">*Becomes H.L.M. in 1982</td><td id=\"0-z\">(visual only)</td></tr>\n</table>\n\n<a id='865f5f0c-f62c-48c9-b892-c0cc929421d1'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yplp0227",
+            "chunks": [
+                "f3ba8e1c-121a-46ea-8dbd-5c503177ae30",
+                "865f5f0c-f62c-48c9-b892-c0cc929421d1"
+            ]
+        }
+    ],
+    "grounding": {
+        "f3ba8e1c-121a-46ea-8dbd-5c503177ae30": {
+            "box": {
+                "left": 0.2278088927268982,
+                "top": 0.12792614102363586,
+                "right": 0.8854637742042542,
+                "bottom": 0.8652071952819824
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.13347555066176936,
+                "right": 0.869249577707059,
+                "bottom": 0.8651999003496762
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.13347555066176936,
+                "right": 0.8760323868907491,
+                "bottom": 0.241365216807492
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.1717247497950427,
+                "right": 0.8760323868907491,
+                "bottom": 0.2949447697407197
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.241365216807492,
+                "right": 0.8760323868907491,
+                "bottom": 0.33248485393789107
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.241365216807492,
+                "right": 0.8760323868907491,
+                "bottom": 0.2949447697407197
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.2949447697407197,
+                "right": 0.8760323868907491,
+                "bottom": 0.3692408098165503
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.2949447697407197,
+                "right": 0.8760323868907491,
+                "bottom": 0.33248485393789107
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.33248485393789107,
+                "right": 0.8760323868907491,
+                "bottom": 0.40610438791941394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.33248485393789107,
+                "right": 0.8760323868907491,
+                "bottom": 0.3692408098165503
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.3692408098165503,
+                "right": 0.8760323868907491,
+                "bottom": 0.4440949012274631
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.3692408098165503,
+                "right": 0.8760323868907491,
+                "bottom": 0.40610438791941394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.40610438791941394,
+                "right": 0.8760323868907491,
+                "bottom": 0.4806749657413292
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.40610438791941394,
+                "right": 0.8760323868907491,
+                "bottom": 0.4440949012274631
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.4440949012274631,
+                "right": 0.8760323868907491,
+                "bottom": 0.5178085881756491
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.4440949012274631,
+                "right": 0.8760323868907491,
+                "bottom": 0.4806749657413292
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.4806749657413292,
+                "right": 0.8760323868907491,
+                "bottom": 0.5542518727087735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.4806749657413292,
+                "right": 0.8760323868907491,
+                "bottom": 0.5178085881756491
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.5178085881756491,
+                "right": 0.8760323868907491,
+                "bottom": 0.5923213558563063
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.5178085881756491,
+                "right": 0.8760323868907491,
+                "bottom": 0.5542518727087735
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.5542518727087735,
+                "right": 0.8760323868907491,
+                "bottom": 0.6285392885046939
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.5542518727087735,
+                "right": 0.8760323868907491,
+                "bottom": 0.5923213558563063
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.5923213558563063,
+                "right": 0.8760323868907491,
+                "bottom": 0.6657309188344609
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.5923213558563063,
+                "right": 0.8760323868907491,
+                "bottom": 0.6285392885046939
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.6285392885046939,
+                "right": 0.8760323868907491,
+                "bottom": 0.7033496103217693
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.6285392885046939,
+                "right": 0.8760323868907491,
+                "bottom": 0.6657309188344609
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.6657309188344609,
+                "right": 0.8760323868907491,
+                "bottom": 0.7407114410902231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.6657309188344609,
+                "right": 0.8760323868907491,
+                "bottom": 0.7033496103217693
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.7033496103217693,
+                "right": 0.8760323868907491,
+                "bottom": 0.7793242648584435
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.7033496103217693,
+                "right": 0.8760323868907491,
+                "bottom": 0.7407114410902231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.7407114410902231,
+                "right": 0.8760323868907491,
+                "bottom": 0.8166170574422402
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.7407114410902231,
+                "right": 0.8760323868907491,
+                "bottom": 0.7793242648584435
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.7793242648584435,
+                "right": 0.8760323868907491,
+                "bottom": 0.8651999003496762
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.7793242648584435,
+                "right": 0.8760323868907491,
+                "bottom": 0.8166170574422402
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.24806381038218106,
+                "top": 0.8166170574422402,
+                "right": 0.8760323868907491,
+                "bottom": 0.8651999003496762
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.7275013154610406,
+                "top": 0.8166170574422402,
+                "right": 0.8760323868907491,
+                "bottom": 0.8651999003496762
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "865f5f0c-f62c-48c9-b892-c0cc929421d1": {
+            "box": {
+                "left": 0.052199870347976685,
+                "top": 0.9582176208496094,
+                "right": 0.9413138628005981,
+                "bottom": 0.9983843564987183
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "yplp0227_8.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6364,
+        "credit_usage": 3.0,
+        "job_id": "yrc4wrrx3cxoe26xatwtphgxa",
+        "version": "dpt-2-20250919"
+    }
+}

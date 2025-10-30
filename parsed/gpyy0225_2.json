@@ -1,0 +1,553 @@
+{
+    "markdown": "<a id='8cebef37-0b3c-4fff-b1a0-f45028bdcdd2'></a>\n\nRJR CONFIDENTIAL\nJOB ASSIGNMENT\n\n<a id='8ec240af-590a-4191-8b32-5383e5c0e619'></a>\n\nTITLE:\nBrand Switching Retest for Retail Multibrand\nIntercept\n\nPROPOSAL:\n01-11140 and 01-13123\n\nSUPPLIER:\nTarget Research Group\n\n<a id='8616c68b-eb8a-4aea-8641-90b623b898f7'></a>\n\nThis Job Assignment is made as of the date below pursuant to the Master Contract between R. J. Reynolds Tobacco Company and Supplier. The provisions thereof are incorporated herein.\n\n<a id='6f99d512-25d2-4616-a7b5-a1da90d6b80a'></a>\n\n**TEST OBJECTIVE:** To assess brand switching and occasional usage levels for four RJR brands (primarily Camel and Winston) among 500 competitive smokers taking part In the B1G4F multibrand intercept program at retail stores.\n\n<a id='51053d32-9f3d-47aa-944c-2ee3c71c93f1'></a>\n\nTIMING:\nProposal Approved: by 12/20/01\nPhone Interviewing--- 2/5 to 3/11/02\nResults presented--- by 3/27/02\n\n<a id='e47bbab7-bae3-45c6-9132-0e3eab6334c3'></a>\n\n**ACCOUNTING CODES:**\n\nSource of Funds: '02 Winston Res. Budget and 02 Camel Res. Budget\n\nCharge Code: WIN 04-75-3200-8750-855\nCAMEL 04-75-4600-8750-855\n\nResearch Type:\noption Other: [ ] (010101)\noption Qualitative: [ ] (020101)\noption Quantitative: [x] (030101)\n\n<a id='9f91060e-7bb6-4225-96a8-3d068616e12a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Itemized Costs</td><td id=\"0-3\">Winston</td><td id=\"0-4\">Camel</td><td id=\"0-5\">Total</td></tr>\n<tr><td id=\"0-6\">Fieldwork</td><td id=\"0-7\">14,500</td><td id=\"0-8\">14,500</td><td id=\"0-9\">29,000</td></tr>\n<tr><td id=\"0-a\">Data Processing</td><td id=\"0-b\">1,500</td><td id=\"0-c\">1,500</td><td id=\"0-d\">3,000</td></tr>\n<tr><td id=\"0-e\">Admin</td><td id=\"0-f\">1,250</td><td id=\"0-g\">1,250</td><td id=\"0-h\">2,500</td></tr>\n<tr><td id=\"0-i\">Study Preparation</td><td id=\"0-j\">250</td><td id=\"0-k\">250</td><td id=\"0-l\">500</td></tr>\n<tr><td id=\"0-m\">TOTAL</td><td id=\"0-n\">$17,500</td><td id=\"0-o\">$17,500</td><td id=\"0-p\">$35,000</td></tr>\n</table>\n\n<a id='d4ee8c38-fddd-405c-b576-cb84d5553e7b'></a>\n\nAGREED TO AND ACCEPTED:\nR. J. REYNOLDS TOBACCO COMPANY TARGET RESEARCH GROUP\n\n<a id='fd126bfd-d1ae-41b8-9a7d-774cd9fbe06b'></a>\n\n<::attestation: Signature line\nStatus indicators - Signature on file 1/2/02\nSignature: [illegible]\nReadable Text: Signature on file 1/2/02, NAME/DATE\nShort description of visual elements and positioning: A horizontal line with 'Signature on file 1/2/02' above it and 'NAME/DATE' below it, positioned on the left side of the document.\n::>\n\n<::attestation: Signature line\nStatus indicators - Signature on file 1/2/02\nSignature: [illegible]\nReadable Text: Signature on file 1/2/02, NAME/DATE\nShort description of visual elements and positioning: A horizontal line with 'Signature on file 1/2/02' above it and 'NAME/DATE' below it, positioned on the right side of the document.\n::>\n\n<a id='c8696d42-e8f9-471b-a3a3-3a8195f10910'></a>\n\n52643 7166\n\n<a id='c12f9b43-058e-4355-84cd-594d2ea75d55'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gpyy0225",
+    "chunks": [
+        {
+            "markdown": "<a id='8cebef37-0b3c-4fff-b1a0-f45028bdcdd2'></a>\n\nRJR CONFIDENTIAL\nJOB ASSIGNMENT",
+            "type": "text",
+            "id": "8cebef37-0b3c-4fff-b1a0-f45028bdcdd2",
+            "grounding": {
+                "box": {
+                    "left": 0.3912453353404999,
+                    "top": 0.1640932559967041,
+                    "right": 0.5856506824493408,
+                    "bottom": 0.22151347994804382
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ec240af-590a-4191-8b32-5383e5c0e619'></a>\n\nTITLE:\nBrand Switching Retest for Retail Multibrand\nIntercept\n\nPROPOSAL:\n01-11140 and 01-13123\n\nSUPPLIER:\nTarget Research Group",
+            "type": "text",
+            "id": "8ec240af-590a-4191-8b32-5383e5c0e619",
+            "grounding": {
+                "box": {
+                    "left": 0.22583916783332825,
+                    "top": 0.24372747540473938,
+                    "right": 0.7827045917510986,
+                    "bottom": 0.35442158579826355
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8616c68b-eb8a-4aea-8641-90b623b898f7'></a>\n\nThis Job Assignment is made as of the date below pursuant to the Master Contract between R. J. Reynolds Tobacco Company and Supplier. The provisions thereof are incorporated herein.",
+            "type": "text",
+            "id": "8616c68b-eb8a-4aea-8641-90b623b898f7",
+            "grounding": {
+                "box": {
+                    "left": 0.1715705692768097,
+                    "top": 0.37933290004730225,
+                    "right": 0.7782067060470581,
+                    "bottom": 0.42885661125183105
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6f99d512-25d2-4616-a7b5-a1da90d6b80a'></a>\n\n**TEST OBJECTIVE:** To assess brand switching and occasional usage levels for four RJR brands (primarily Camel and Winston) among 500 competitive smokers taking part In the B1G4F multibrand intercept program at retail stores.",
+            "type": "text",
+            "id": "6f99d512-25d2-4616-a7b5-a1da90d6b80a",
+            "grounding": {
+                "box": {
+                    "left": 0.1729941964149475,
+                    "top": 0.435131698846817,
+                    "right": 0.7952948808670044,
+                    "bottom": 0.48520365357398987
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='51053d32-9f3d-47aa-944c-2ee3c71c93f1'></a>\n\nTIMING:\nProposal Approved: by 12/20/01\nPhone Interviewing--- 2/5 to 3/11/02\nResults presented--- by 3/27/02",
+            "type": "text",
+            "id": "51053d32-9f3d-47aa-944c-2ee3c71c93f1",
+            "grounding": {
+                "box": {
+                    "left": 0.1716311275959015,
+                    "top": 0.5030121207237244,
+                    "right": 0.4387979805469513,
+                    "bottom": 0.5967939496040344
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e47bbab7-bae3-45c6-9132-0e3eab6334c3'></a>\n\n**ACCOUNTING CODES:**\n\nSource of Funds: '02 Winston Res. Budget and 02 Camel Res. Budget\n\nCharge Code: WIN 04-75-3200-8750-855\nCAMEL 04-75-4600-8750-855\n\nResearch Type:\noption Other: [ ] (010101)\noption Qualitative: [ ] (020101)\noption Quantitative: [x] (030101)",
+            "type": "text",
+            "id": "e47bbab7-bae3-45c6-9132-0e3eab6334c3",
+            "grounding": {
+                "box": {
+                    "left": 0.4891629219055176,
+                    "top": 0.5038265585899353,
+                    "right": 0.8039579391479492,
+                    "bottom": 0.6357001662254333
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9f91060e-7bb6-4225-96a8-3d068616e12a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Itemized Costs</td><td id=\"0-3\">Winston</td><td id=\"0-4\">Camel</td><td id=\"0-5\">Total</td></tr>\n<tr><td id=\"0-6\">Fieldwork</td><td id=\"0-7\">14,500</td><td id=\"0-8\">14,500</td><td id=\"0-9\">29,000</td></tr>\n<tr><td id=\"0-a\">Data Processing</td><td id=\"0-b\">1,500</td><td id=\"0-c\">1,500</td><td id=\"0-d\">3,000</td></tr>\n<tr><td id=\"0-e\">Admin</td><td id=\"0-f\">1,250</td><td id=\"0-g\">1,250</td><td id=\"0-h\">2,500</td></tr>\n<tr><td id=\"0-i\">Study Preparation</td><td id=\"0-j\">250</td><td id=\"0-k\">250</td><td id=\"0-l\">500</td></tr>\n<tr><td id=\"0-m\">TOTAL</td><td id=\"0-n\">$17,500</td><td id=\"0-o\">$17,500</td><td id=\"0-p\">$35,000</td></tr>\n</table>",
+            "type": "table",
+            "id": "9f91060e-7bb6-4225-96a8-3d068616e12a",
+            "grounding": {
+                "box": {
+                    "left": 0.1727849543094635,
+                    "top": 0.6420844197273254,
+                    "right": 0.8143758773803711,
+                    "bottom": 0.7396141886711121
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d4ee8c38-fddd-405c-b576-cb84d5553e7b'></a>\n\nAGREED TO AND ACCEPTED:\nR. J. REYNOLDS TOBACCO COMPANY TARGET RESEARCH GROUP",
+            "type": "text",
+            "id": "d4ee8c38-fddd-405c-b576-cb84d5553e7b",
+            "grounding": {
+                "box": {
+                    "left": 0.1713663637638092,
+                    "top": 0.7624530792236328,
+                    "right": 0.7195611000061035,
+                    "bottom": 0.8090717792510986
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fd126bfd-d1ae-41b8-9a7d-774cd9fbe06b'></a>\n\n<::attestation: Signature line\nStatus indicators - Signature on file 1/2/02\nSignature: [illegible]\nReadable Text: Signature on file 1/2/02, NAME/DATE\nShort description of visual elements and positioning: A horizontal line with 'Signature on file 1/2/02' above it and 'NAME/DATE' below it, positioned on the left side of the document.\n::>\n\n<::attestation: Signature line\nStatus indicators - Signature on file 1/2/02\nSignature: [illegible]\nReadable Text: Signature on file 1/2/02, NAME/DATE\nShort description of visual elements and positioning: A horizontal line with 'Signature on file 1/2/02' above it and 'NAME/DATE' below it, positioned on the right side of the document.\n::>",
+            "type": "attestation",
+            "id": "fd126bfd-d1ae-41b8-9a7d-774cd9fbe06b",
+            "grounding": {
+                "box": {
+                    "left": 0.17140740156173706,
+                    "top": 0.8147762417793274,
+                    "right": 0.7899541258811951,
+                    "bottom": 0.8637471795082092
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c8696d42-e8f9-471b-a3a3-3a8195f10910'></a>\n\n52643 7166",
+            "type": "marginalia",
+            "id": "c8696d42-e8f9-471b-a3a3-3a8195f10910",
+            "grounding": {
+                "box": {
+                    "left": 0.8926655650138855,
+                    "top": 0.8435473442077637,
+                    "right": 0.9260497689247131,
+                    "bottom": 0.9370549917221069
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c12f9b43-058e-4355-84cd-594d2ea75d55'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gpyy0225",
+            "type": "marginalia",
+            "id": "c12f9b43-058e-4355-84cd-594d2ea75d55",
+            "grounding": {
+                "box": {
+                    "left": 0.21842974424362183,
+                    "top": 0.9798933267593384,
+                    "right": 0.7829776406288147,
+                    "bottom": 0.9987236261367798
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='8cebef37-0b3c-4fff-b1a0-f45028bdcdd2'></a>\n\nRJR CONFIDENTIAL\nJOB ASSIGNMENT\n\n<a id='8ec240af-590a-4191-8b32-5383e5c0e619'></a>\n\nTITLE:\nBrand Switching Retest for Retail Multibrand\nIntercept\n\nPROPOSAL:\n01-11140 and 01-13123\n\nSUPPLIER:\nTarget Research Group\n\n<a id='8616c68b-eb8a-4aea-8641-90b623b898f7'></a>\n\nThis Job Assignment is made as of the date below pursuant to the Master Contract between R. J. Reynolds Tobacco Company and Supplier. The provisions thereof are incorporated herein.\n\n<a id='6f99d512-25d2-4616-a7b5-a1da90d6b80a'></a>\n\n**TEST OBJECTIVE:** To assess brand switching and occasional usage levels for four RJR brands (primarily Camel and Winston) among 500 competitive smokers taking part In the B1G4F multibrand intercept program at retail stores.\n\n<a id='51053d32-9f3d-47aa-944c-2ee3c71c93f1'></a>\n\nTIMING:\nProposal Approved: by 12/20/01\nPhone Interviewing--- 2/5 to 3/11/02\nResults presented--- by 3/27/02\n\n<a id='e47bbab7-bae3-45c6-9132-0e3eab6334c3'></a>\n\n**ACCOUNTING CODES:**\n\nSource of Funds: '02 Winston Res. Budget and 02 Camel Res. Budget\n\nCharge Code: WIN 04-75-3200-8750-855\nCAMEL 04-75-4600-8750-855\n\nResearch Type:\noption Other: [ ] (010101)\noption Qualitative: [ ] (020101)\noption Quantitative: [x] (030101)\n\n<a id='9f91060e-7bb6-4225-96a8-3d068616e12a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Itemized Costs</td><td id=\"0-3\">Winston</td><td id=\"0-4\">Camel</td><td id=\"0-5\">Total</td></tr>\n<tr><td id=\"0-6\">Fieldwork</td><td id=\"0-7\">14,500</td><td id=\"0-8\">14,500</td><td id=\"0-9\">29,000</td></tr>\n<tr><td id=\"0-a\">Data Processing</td><td id=\"0-b\">1,500</td><td id=\"0-c\">1,500</td><td id=\"0-d\">3,000</td></tr>\n<tr><td id=\"0-e\">Admin</td><td id=\"0-f\">1,250</td><td id=\"0-g\">1,250</td><td id=\"0-h\">2,500</td></tr>\n<tr><td id=\"0-i\">Study Preparation</td><td id=\"0-j\">250</td><td id=\"0-k\">250</td><td id=\"0-l\">500</td></tr>\n<tr><td id=\"0-m\">TOTAL</td><td id=\"0-n\">$17,500</td><td id=\"0-o\">$17,500</td><td id=\"0-p\">$35,000</td></tr>\n</table>\n\n<a id='d4ee8c38-fddd-405c-b576-cb84d5553e7b'></a>\n\nAGREED TO AND ACCEPTED:\nR. J. REYNOLDS TOBACCO COMPANY TARGET RESEARCH GROUP\n\n<a id='fd126bfd-d1ae-41b8-9a7d-774cd9fbe06b'></a>\n\n<::attestation: Signature line\nStatus indicators - Signature on file 1/2/02\nSignature: [illegible]\nReadable Text: Signature on file 1/2/02, NAME/DATE\nShort description of visual elements and positioning: A horizontal line with 'Signature on file 1/2/02' above it and 'NAME/DATE' below it, positioned on the left side of the document.\n::>\n\n<::attestation: Signature line\nStatus indicators - Signature on file 1/2/02\nSignature: [illegible]\nReadable Text: Signature on file 1/2/02, NAME/DATE\nShort description of visual elements and positioning: A horizontal line with 'Signature on file 1/2/02' above it and 'NAME/DATE' below it, positioned on the right side of the document.\n::>\n\n<a id='c8696d42-e8f9-471b-a3a3-3a8195f10910'></a>\n\n52643 7166\n\n<a id='c12f9b43-058e-4355-84cd-594d2ea75d55'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gpyy0225",
+            "chunks": [
+                "8cebef37-0b3c-4fff-b1a0-f45028bdcdd2",
+                "8ec240af-590a-4191-8b32-5383e5c0e619",
+                "8616c68b-eb8a-4aea-8641-90b623b898f7",
+                "6f99d512-25d2-4616-a7b5-a1da90d6b80a",
+                "51053d32-9f3d-47aa-944c-2ee3c71c93f1",
+                "e47bbab7-bae3-45c6-9132-0e3eab6334c3",
+                "9f91060e-7bb6-4225-96a8-3d068616e12a",
+                "d4ee8c38-fddd-405c-b576-cb84d5553e7b",
+                "fd126bfd-d1ae-41b8-9a7d-774cd9fbe06b",
+                "c8696d42-e8f9-471b-a3a3-3a8195f10910",
+                "c12f9b43-058e-4355-84cd-594d2ea75d55"
+            ]
+        }
+    ],
+    "grounding": {
+        "8cebef37-0b3c-4fff-b1a0-f45028bdcdd2": {
+            "box": {
+                "left": 0.3912453353404999,
+                "top": 0.1640932559967041,
+                "right": 0.5856506824493408,
+                "bottom": 0.22151347994804382
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8ec240af-590a-4191-8b32-5383e5c0e619": {
+            "box": {
+                "left": 0.22583916783332825,
+                "top": 0.24372747540473938,
+                "right": 0.7827045917510986,
+                "bottom": 0.35442158579826355
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8616c68b-eb8a-4aea-8641-90b623b898f7": {
+            "box": {
+                "left": 0.1715705692768097,
+                "top": 0.37933290004730225,
+                "right": 0.7782067060470581,
+                "bottom": 0.42885661125183105
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6f99d512-25d2-4616-a7b5-a1da90d6b80a": {
+            "box": {
+                "left": 0.1729941964149475,
+                "top": 0.435131698846817,
+                "right": 0.7952948808670044,
+                "bottom": 0.48520365357398987
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "51053d32-9f3d-47aa-944c-2ee3c71c93f1": {
+            "box": {
+                "left": 0.1716311275959015,
+                "top": 0.5030121207237244,
+                "right": 0.4387979805469513,
+                "bottom": 0.5967939496040344
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e47bbab7-bae3-45c6-9132-0e3eab6334c3": {
+            "box": {
+                "left": 0.4891629219055176,
+                "top": 0.5038265585899353,
+                "right": 0.8039579391479492,
+                "bottom": 0.6357001662254333
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9f91060e-7bb6-4225-96a8-3d068616e12a": {
+            "box": {
+                "left": 0.1727849543094635,
+                "top": 0.6420844197273254,
+                "right": 0.8143758773803711,
+                "bottom": 0.7396141886711121
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.18040463994265654,
+                "top": 0.6476410761797271,
+                "right": 0.8077961846429726,
+                "bottom": 0.7333663122512135
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.18040463994265654,
+                "top": 0.6476410761797271,
+                "right": 0.3740273357074191,
+                "bottom": 0.6617460055262239
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3740273357074191,
+                "top": 0.6476410761797271,
+                "right": 0.5287111680684831,
+                "bottom": 0.6617460055262239
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5287111680684831,
+                "top": 0.6476410761797271,
+                "right": 0.6710892101515853,
+                "bottom": 0.6617460055262239
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6710892101515853,
+                "top": 0.6476410761797271,
+                "right": 0.8079710261482784,
+                "bottom": 0.6617460055262239
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.18040463994265654,
+                "top": 0.6617460055262239,
+                "right": 0.3740273357074191,
+                "bottom": 0.6763713019118818
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.3740273357074191,
+                "top": 0.6617460055262239,
+                "right": 0.5287111680684831,
+                "bottom": 0.6763713019118818
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5287111680684831,
+                "top": 0.6617460055262239,
+                "right": 0.6710892101515853,
+                "bottom": 0.6763713019118818
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6710892101515853,
+                "top": 0.6617460055262239,
+                "right": 0.8079710261482784,
+                "bottom": 0.6763713019118818
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.18040463994265654,
+                "top": 0.6763713019118818,
+                "right": 0.3740273357074191,
+                "bottom": 0.690447511372561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.3740273357074191,
+                "top": 0.6763713019118818,
+                "right": 0.5287111680684831,
+                "bottom": 0.690447511372561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5287111680684831,
+                "top": 0.6763713019118818,
+                "right": 0.6710892101515853,
+                "bottom": 0.690447511372561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6710892101515853,
+                "top": 0.6763713019118818,
+                "right": 0.8079710261482784,
+                "bottom": 0.690447511372561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.18040463994265654,
+                "top": 0.690447511372561,
+                "right": 0.3740273357074191,
+                "bottom": 0.7046511671204811
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3740273357074191,
+                "top": 0.690447511372561,
+                "right": 0.5287111680684831,
+                "bottom": 0.7046511671204811
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5287111680684831,
+                "top": 0.690447511372561,
+                "right": 0.6710892101515853,
+                "bottom": 0.7046511671204811
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6710892101515853,
+                "top": 0.690447511372561,
+                "right": 0.8079710261482784,
+                "bottom": 0.7046511671204811
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.18040463994265654,
+                "top": 0.7046511671204811,
+                "right": 0.3740273357074191,
+                "bottom": 0.7188073404283628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.3740273357074191,
+                "top": 0.7046511671204811,
+                "right": 0.5287111680684831,
+                "bottom": 0.7188073404283628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5287111680684831,
+                "top": 0.7046511671204811,
+                "right": 0.6710892101515853,
+                "bottom": 0.7188073404283628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6710892101515853,
+                "top": 0.7046511671204811,
+                "right": 0.8079710261482784,
+                "bottom": 0.7188073404283628
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.18040463994265654,
+                "top": 0.7188073404283628,
+                "right": 0.3740273357074191,
+                "bottom": 0.7333663122512135
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.3740273357074191,
+                "top": 0.7188073404283628,
+                "right": 0.5287111680684831,
+                "bottom": 0.7333663122512135
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.5287111680684831,
+                "top": 0.7188073404283628,
+                "right": 0.6710892101515853,
+                "bottom": 0.7333663122512135
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.6710892101515853,
+                "top": 0.7188073404283628,
+                "right": 0.8079710261482784,
+                "bottom": 0.7333663122512135
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "d4ee8c38-fddd-405c-b576-cb84d5553e7b": {
+            "box": {
+                "left": 0.1713663637638092,
+                "top": 0.7624530792236328,
+                "right": 0.7195611000061035,
+                "bottom": 0.8090717792510986
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fd126bfd-d1ae-41b8-9a7d-774cd9fbe06b": {
+            "box": {
+                "left": 0.17140740156173706,
+                "top": 0.8147762417793274,
+                "right": 0.7899541258811951,
+                "bottom": 0.8637471795082092
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "c8696d42-e8f9-471b-a3a3-3a8195f10910": {
+            "box": {
+                "left": 0.8926655650138855,
+                "top": 0.8435473442077637,
+                "right": 0.9260497689247131,
+                "bottom": 0.9370549917221069
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "c12f9b43-058e-4355-84cd-594d2ea75d55": {
+            "box": {
+                "left": 0.21842974424362183,
+                "top": 0.9798933267593384,
+                "right": 0.7829776406288147,
+                "bottom": 0.9987236261367798
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "gpyy0225_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7491,
+        "credit_usage": 3.0,
+        "job_id": "bu27zz1pxo50la85xxf5vx1f8",
+        "version": "dpt-2-20250919"
+    }
+}

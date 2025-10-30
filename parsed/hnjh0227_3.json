@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='626a3834-e968-43d4-a6c9-65d228040c01'></a>\n\n<::logo: National Corporation for Housing Partnerships\nDec. 15, 1970\nNational Corporation for Housing Partnerships\n1133 Fifteenth Street, Northwest, Washington, D.C. 20005 Tel: (202) 466-8200\nA stylized, blocky, three-dimensional symbol resembling the letter 'H'.::>\n\n<a id='0e977de6-6c94-461e-9cfa-4d217626720d'></a>\n\nCarter L. Burgess\nChairman\n\n<a id='f83c2b68-2bce-4a05-af6d-17dc5d549b96'></a>\n\nDear Tim,\n\nCarter L. Burgess\nChairman\n\nI am enclosing the latest information\nwe have on Materials Systems. I shall let\nyou know when I get any additional information.\n\nGeorge W. DeFranceaux\nPresident\n\nI trust you will be flashing down\nThe slopes over the holidays. I am sorry I\nshall not be able to join you, but I shall be\nout there later this winter.\n\nBest.\nHaig\n\n<a id='39205b5c-d92e-47c9-8f5f-9ebbf3c46893'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hnjh0227",
+    "chunks": [
+        {
+            "markdown": "<a id='626a3834-e968-43d4-a6c9-65d228040c01'></a>\n\n<::logo: National Corporation for Housing Partnerships\nDec. 15, 1970\nNational Corporation for Housing Partnerships\n1133 Fifteenth Street, Northwest, Washington, D.C. 20005 Tel: (202) 466-8200\nA stylized, blocky, three-dimensional symbol resembling the letter 'H'.::>",
+            "type": "logo",
+            "id": "626a3834-e968-43d4-a6c9-65d228040c01",
+            "grounding": {
+                "box": {
+                    "left": 0.4858477711677551,
+                    "top": 0.026312418282032013,
+                    "right": 0.9596263766288757,
+                    "bottom": 0.15898346900939941
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0e977de6-6c94-461e-9cfa-4d217626720d'></a>\n\nCarter L. Burgess\nChairman",
+            "type": "text",
+            "id": "0e977de6-6c94-461e-9cfa-4d217626720d",
+            "grounding": {
+                "box": {
+                    "left": 0.8368536233901978,
+                    "top": 0.17509791254997253,
+                    "right": 0.9589722156524658,
+                    "bottom": 0.20721453428268433
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f83c2b68-2bce-4a05-af6d-17dc5d549b96'></a>\n\nDear Tim,\n\nCarter L. Burgess\nChairman\n\nI am enclosing the latest information\nwe have on Materials Systems. I shall let\nyou know when I get any additional information.\n\nGeorge W. DeFranceaux\nPresident\n\nI trust you will be flashing down\nThe slopes over the holidays. I am sorry I\nshall not be able to join you, but I shall be\nout there later this winter.\n\nBest.\nHaig",
+            "type": "text",
+            "id": "f83c2b68-2bce-4a05-af6d-17dc5d549b96",
+            "grounding": {
+                "box": {
+                    "left": 0.009456992149353027,
+                    "top": 0.16586768627166748,
+                    "right": 0.963695764541626,
+                    "bottom": 0.5884413719177246
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='39205b5c-d92e-47c9-8f5f-9ebbf3c46893'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hnjh0227",
+            "type": "text",
+            "id": "39205b5c-d92e-47c9-8f5f-9ebbf3c46893",
+            "grounding": {
+                "box": {
+                    "left": 0.28618818521499634,
+                    "top": 0.9805020093917847,
+                    "right": 0.7143118977546692,
+                    "bottom": 0.9992901086807251
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='626a3834-e968-43d4-a6c9-65d228040c01'></a>\n\n<::logo: National Corporation for Housing Partnerships\nDec. 15, 1970\nNational Corporation for Housing Partnerships\n1133 Fifteenth Street, Northwest, Washington, D.C. 20005 Tel: (202) 466-8200\nA stylized, blocky, three-dimensional symbol resembling the letter 'H'.::>\n\n<a id='0e977de6-6c94-461e-9cfa-4d217626720d'></a>\n\nCarter L. Burgess\nChairman\n\n<a id='f83c2b68-2bce-4a05-af6d-17dc5d549b96'></a>\n\nDear Tim,\n\nCarter L. Burgess\nChairman\n\nI am enclosing the latest information\nwe have on Materials Systems. I shall let\nyou know when I get any additional information.\n\nGeorge W. DeFranceaux\nPresident\n\nI trust you will be flashing down\nThe slopes over the holidays. I am sorry I\nshall not be able to join you, but I shall be\nout there later this winter.\n\nBest.\nHaig\n\n<a id='39205b5c-d92e-47c9-8f5f-9ebbf3c46893'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hnjh0227",
+            "chunks": [
+                "626a3834-e968-43d4-a6c9-65d228040c01",
+                "0e977de6-6c94-461e-9cfa-4d217626720d",
+                "f83c2b68-2bce-4a05-af6d-17dc5d549b96",
+                "39205b5c-d92e-47c9-8f5f-9ebbf3c46893"
+            ]
+        }
+    ],
+    "grounding": {
+        "626a3834-e968-43d4-a6c9-65d228040c01": {
+            "box": {
+                "left": 0.4858477711677551,
+                "top": 0.026312418282032013,
+                "right": 0.9596263766288757,
+                "bottom": 0.15898346900939941
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "0e977de6-6c94-461e-9cfa-4d217626720d": {
+            "box": {
+                "left": 0.8368536233901978,
+                "top": 0.17509791254997253,
+                "right": 0.9589722156524658,
+                "bottom": 0.20721453428268433
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f83c2b68-2bce-4a05-af6d-17dc5d549b96": {
+            "box": {
+                "left": 0.009456992149353027,
+                "top": 0.16586768627166748,
+                "right": 0.963695764541626,
+                "bottom": 0.5884413719177246
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "39205b5c-d92e-47c9-8f5f-9ebbf3c46893": {
+            "box": {
+                "left": 0.28618818521499634,
+                "top": 0.9805020093917847,
+                "right": 0.7143118977546692,
+                "bottom": 0.9992901086807251
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "hnjh0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4500,
+        "credit_usage": 3.0,
+        "job_id": "nkgziqdk4b2w3eag4zxff9via",
+        "version": "dpt-2-20250919"
+    }
+}

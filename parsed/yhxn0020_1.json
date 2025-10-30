@@ -1,0 +1,328 @@
+{
+    "markdown": "<a id='ee013a25-89a7-49a6-81f0-1e7b38ad2a67'></a>\n\nR.J.Reynolds Tobacco Company\n\n<a id='06fae671-d0ab-49eb-9370-7f05f7a34355'></a>\n\n12/21/95\n\n<a id='016d4827-d72f-4bd8-a226-7c9ac0e2e15d'></a>\n\nCRIS Case Summary\n\n<a id='6b850a8b-dbee-41a5-961c-5805d3cd19e0'></a>\n\nCase 2459103\n\nAcct# :\nName : Mr. Sam Hall\nAddress: 217 Highway 30 West\nNew Haven, IN 46774\n\n<a id='8cacc5a6-38a5-4b72-9540-6946c6068fb7'></a>\n\nHome Ph: 219-493-3522\nWork Ph: - -\n\n<a id='15809d0e-4615-421b-856a-645a7bc63489'></a>\n\nDate Occurred: 00:00\nDate Received: 12/12/95 15:57\nDate Closed : 12/21/95 10:53\n\nWhen Referred :\nReferral Resp Due :\nReferral Resp Recd :\n\nCheck Amount : $ 0.00\nCoupon Amount: $ 0.00\n\nCertif. Mail : N\n\nD.O.B. : 01/04/49\nAge : 46\n\n<a id='5e317175-9c0a-430d-b4b4-fb87e3b7882f'></a>\n\n<::attestation: Official Stamp\nStamped, Received\nRECEIVED\nDEC 22 1995\nA rectangular stamp with \"RECEIVED\" and the date \"DEC 22 1995\", positioned in the lower-middle section of the document, overlapping with some handwritten text.::>\n\n<a id='f9172342-01b2-45d2-98a1-d7c9f2b4d45d'></a>\n\nJulickrings\nx 6648\n\nInitial Representative: A. Burton\nLast Representative: J. G. Griggs\nMethod of Contact: call\nType of Contact: Other\nType of Customer: Unknown - Written Only\nProduct Brands: No Entry\nPromotions: Not Promotion Related\nReason for Contact: Smoking Controversies - Health\nPriority: No Entry\nAction Taken: resolved referred no further crd followup\nReferred To:\nStore Type/Class of Trade: No Entry\nRoot Cause: Other Cause (Enter in \"O text)\nSource of Contact: No Entry\nSurvey: No\nPhone Type: Touch Tone\nRegional OPS Number: Detroit Region (800-714-6637)\nSatisfaction Tracking System: Julie Griggs\nPromo Type: Other\nContact by Family: No Entry\nFulfillment House: No Entry\nPlant: No Entry\nSales Divisions: 6737 - Ft. Wayne\n\n<a id='afec947a-04ad-48b4-8040-c667807cf350'></a>\n\nType: C Representative: A. Burton\nIn Date: 12/20/95 16:00 Due Date: 00:00 Done Date: 00:00\nDesc: Who:\nwants to know the average tar and nicotine inhaled be second hand smoke,\nhas a committe meeting tonight and is the head of the restaurant\nassociation in his area, says that the legislatures want to band\nsmoking, wants info to rebuttle\n\n<a id='6bf55f62-5891-4724-978b-0cb33a2f38cb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yhxn0020\n\n<a id='6fa7af3d-61f7-41de-b8a8-fb362277d9e1'></a>\n\n52415\n\n<a id='a90da822-999e-4518-8ce7-b7ce059913bb'></a>\n\n2698",
+    "chunks": [
+        {
+            "markdown": "<a id='ee013a25-89a7-49a6-81f0-1e7b38ad2a67'></a>\n\nR.J.Reynolds Tobacco Company",
+            "type": "text",
+            "id": "ee013a25-89a7-49a6-81f0-1e7b38ad2a67",
+            "grounding": {
+                "box": {
+                    "left": 0.029191508889198303,
+                    "top": 0.04997941106557846,
+                    "right": 0.3645588159561157,
+                    "bottom": 0.06993453949689865
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='06fae671-d0ab-49eb-9370-7f05f7a34355'></a>\n\n12/21/95",
+            "type": "marginalia",
+            "id": "06fae671-d0ab-49eb-9370-7f05f7a34355",
+            "grounding": {
+                "box": {
+                    "left": 0.5425934791564941,
+                    "top": 0.04878238961100578,
+                    "right": 0.6442428827285767,
+                    "bottom": 0.06706082820892334
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='016d4827-d72f-4bd8-a226-7c9ac0e2e15d'></a>\n\nCRIS Case Summary",
+            "type": "text",
+            "id": "016d4827-d72f-4bd8-a226-7c9ac0e2e15d",
+            "grounding": {
+                "box": {
+                    "left": 0.7071150541305542,
+                    "top": 0.048107556998729706,
+                    "right": 0.9178158044815063,
+                    "bottom": 0.06881354004144669
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6b850a8b-dbee-41a5-961c-5805d3cd19e0'></a>\n\nCase 2459103\n\nAcct# :\nName : Mr. Sam Hall\nAddress: 217 Highway 30 West\nNew Haven, IN 46774",
+            "type": "text",
+            "id": "6b850a8b-dbee-41a5-961c-5805d3cd19e0",
+            "grounding": {
+                "box": {
+                    "left": 0.029283180832862854,
+                    "top": 0.09199390560388565,
+                    "right": 0.3733862042427063,
+                    "bottom": 0.18760576844215393
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8cacc5a6-38a5-4b72-9540-6946c6068fb7'></a>\n\nHome Ph: 219-493-3522\nWork Ph: - -",
+            "type": "text",
+            "id": "8cacc5a6-38a5-4b72-9540-6946c6068fb7",
+            "grounding": {
+                "box": {
+                    "left": 0.6341369152069092,
+                    "top": 0.12112872302532196,
+                    "right": 0.8940751552581787,
+                    "bottom": 0.15492750704288483
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='15809d0e-4615-421b-856a-645a7bc63489'></a>\n\nDate Occurred: 00:00\nDate Received: 12/12/95 15:57\nDate Closed : 12/21/95 10:53\n\nWhen Referred :\nReferral Resp Due :\nReferral Resp Recd :\n\nCheck Amount : $ 0.00\nCoupon Amount: $ 0.00\n\nCertif. Mail : N\n\nD.O.B. : 01/04/49\nAge : 46",
+            "type": "text",
+            "id": "15809d0e-4615-421b-856a-645a7bc63489",
+            "grounding": {
+                "box": {
+                    "left": 0.02101665735244751,
+                    "top": 0.2385285347700119,
+                    "right": 0.3983112573623657,
+                    "bottom": 0.4733196496963501
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5e317175-9c0a-430d-b4b4-fb87e3b7882f'></a>\n\n<::attestation: Official Stamp\nStamped, Received\nRECEIVED\nDEC 22 1995\nA rectangular stamp with \"RECEIVED\" and the date \"DEC 22 1995\", positioned in the lower-middle section of the document, overlapping with some handwritten text.::>",
+            "type": "attestation",
+            "id": "5e317175-9c0a-430d-b4b4-fb87e3b7882f",
+            "grounding": {
+                "box": {
+                    "left": 0.5373380184173584,
+                    "top": 0.2522602081298828,
+                    "right": 0.9026414155960083,
+                    "bottom": 0.5176791548728943
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f9172342-01b2-45d2-98a1-d7c9f2b4d45d'></a>\n\nJulickrings\nx 6648\n\nInitial Representative: A. Burton\nLast Representative: J. G. Griggs\nMethod of Contact: call\nType of Contact: Other\nType of Customer: Unknown - Written Only\nProduct Brands: No Entry\nPromotions: Not Promotion Related\nReason for Contact: Smoking Controversies - Health\nPriority: No Entry\nAction Taken: resolved referred no further crd followup\nReferred To:\nStore Type/Class of Trade: No Entry\nRoot Cause: Other Cause (Enter in \"O text)\nSource of Contact: No Entry\nSurvey: No\nPhone Type: Touch Tone\nRegional OPS Number: Detroit Region (800-714-6637)\nSatisfaction Tracking System: Julie Griggs\nPromo Type: Other\nContact by Family: No Entry\nFulfillment House: No Entry\nPlant: No Entry\nSales Divisions: 6737 - Ft. Wayne",
+            "type": "text",
+            "id": "f9172342-01b2-45d2-98a1-d7c9f2b4d45d",
+            "grounding": {
+                "box": {
+                    "left": 0.021873444318771362,
+                    "top": 0.483886182308197,
+                    "right": 0.9013926982879639,
+                    "bottom": 0.8396475911140442
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='afec947a-04ad-48b4-8040-c667807cf350'></a>\n\nType: C Representative: A. Burton\nIn Date: 12/20/95 16:00 Due Date: 00:00 Done Date: 00:00\nDesc: Who:\nwants to know the average tar and nicotine inhaled be second hand smoke,\nhas a committe meeting tonight and is the head of the restaurant\nassociation in his area, says that the legislatures want to band\nsmoking, wants info to rebuttle",
+            "type": "text",
+            "id": "afec947a-04ad-48b4-8040-c667807cf350",
+            "grounding": {
+                "box": {
+                    "left": 0.019650310277938843,
+                    "top": 0.848122775554657,
+                    "right": 0.9106053113937378,
+                    "bottom": 0.9593021273612976
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6bf55f62-5891-4724-978b-0cb33a2f38cb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yhxn0020",
+            "type": "text",
+            "id": "6bf55f62-5891-4724-978b-0cb33a2f38cb",
+            "grounding": {
+                "box": {
+                    "left": 0.20894700288772583,
+                    "top": 0.9787865877151489,
+                    "right": 0.7924452424049377,
+                    "bottom": 0.9987080097198486
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6fa7af3d-61f7-41de-b8a8-fb362277d9e1'></a>\n\n52415",
+            "type": "marginalia",
+            "id": "6fa7af3d-61f7-41de-b8a8-fb362277d9e1",
+            "grounding": {
+                "box": {
+                    "left": 0.9514609575271606,
+                    "top": 0.8430866003036499,
+                    "right": 0.9761749505996704,
+                    "bottom": 0.8939419984817505
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a90da822-999e-4518-8ce7-b7ce059913bb'></a>\n\n2698",
+            "type": "marginalia",
+            "id": "a90da822-999e-4518-8ce7-b7ce059913bb",
+            "grounding": {
+                "box": {
+                    "left": 0.9490460157394409,
+                    "top": 0.8978501558303833,
+                    "right": 0.9750456809997559,
+                    "bottom": 0.938153862953186
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ee013a25-89a7-49a6-81f0-1e7b38ad2a67'></a>\n\nR.J.Reynolds Tobacco Company\n\n<a id='06fae671-d0ab-49eb-9370-7f05f7a34355'></a>\n\n12/21/95\n\n<a id='016d4827-d72f-4bd8-a226-7c9ac0e2e15d'></a>\n\nCRIS Case Summary\n\n<a id='6b850a8b-dbee-41a5-961c-5805d3cd19e0'></a>\n\nCase 2459103\n\nAcct# :\nName : Mr. Sam Hall\nAddress: 217 Highway 30 West\nNew Haven, IN 46774\n\n<a id='8cacc5a6-38a5-4b72-9540-6946c6068fb7'></a>\n\nHome Ph: 219-493-3522\nWork Ph: - -\n\n<a id='15809d0e-4615-421b-856a-645a7bc63489'></a>\n\nDate Occurred: 00:00\nDate Received: 12/12/95 15:57\nDate Closed : 12/21/95 10:53\n\nWhen Referred :\nReferral Resp Due :\nReferral Resp Recd :\n\nCheck Amount : $ 0.00\nCoupon Amount: $ 0.00\n\nCertif. Mail : N\n\nD.O.B. : 01/04/49\nAge : 46\n\n<a id='5e317175-9c0a-430d-b4b4-fb87e3b7882f'></a>\n\n<::attestation: Official Stamp\nStamped, Received\nRECEIVED\nDEC 22 1995\nA rectangular stamp with \"RECEIVED\" and the date \"DEC 22 1995\", positioned in the lower-middle section of the document, overlapping with some handwritten text.::>\n\n<a id='f9172342-01b2-45d2-98a1-d7c9f2b4d45d'></a>\n\nJulickrings\nx 6648\n\nInitial Representative: A. Burton\nLast Representative: J. G. Griggs\nMethod of Contact: call\nType of Contact: Other\nType of Customer: Unknown - Written Only\nProduct Brands: No Entry\nPromotions: Not Promotion Related\nReason for Contact: Smoking Controversies - Health\nPriority: No Entry\nAction Taken: resolved referred no further crd followup\nReferred To:\nStore Type/Class of Trade: No Entry\nRoot Cause: Other Cause (Enter in \"O text)\nSource of Contact: No Entry\nSurvey: No\nPhone Type: Touch Tone\nRegional OPS Number: Detroit Region (800-714-6637)\nSatisfaction Tracking System: Julie Griggs\nPromo Type: Other\nContact by Family: No Entry\nFulfillment House: No Entry\nPlant: No Entry\nSales Divisions: 6737 - Ft. Wayne\n\n<a id='afec947a-04ad-48b4-8040-c667807cf350'></a>\n\nType: C Representative: A. Burton\nIn Date: 12/20/95 16:00 Due Date: 00:00 Done Date: 00:00\nDesc: Who:\nwants to know the average tar and nicotine inhaled be second hand smoke,\nhas a committe meeting tonight and is the head of the restaurant\nassociation in his area, says that the legislatures want to band\nsmoking, wants info to rebuttle\n\n<a id='6bf55f62-5891-4724-978b-0cb33a2f38cb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yhxn0020\n\n<a id='6fa7af3d-61f7-41de-b8a8-fb362277d9e1'></a>\n\n52415\n\n<a id='a90da822-999e-4518-8ce7-b7ce059913bb'></a>\n\n2698",
+            "chunks": [
+                "ee013a25-89a7-49a6-81f0-1e7b38ad2a67",
+                "06fae671-d0ab-49eb-9370-7f05f7a34355",
+                "016d4827-d72f-4bd8-a226-7c9ac0e2e15d",
+                "6b850a8b-dbee-41a5-961c-5805d3cd19e0",
+                "8cacc5a6-38a5-4b72-9540-6946c6068fb7",
+                "15809d0e-4615-421b-856a-645a7bc63489",
+                "5e317175-9c0a-430d-b4b4-fb87e3b7882f",
+                "f9172342-01b2-45d2-98a1-d7c9f2b4d45d",
+                "afec947a-04ad-48b4-8040-c667807cf350",
+                "6bf55f62-5891-4724-978b-0cb33a2f38cb",
+                "6fa7af3d-61f7-41de-b8a8-fb362277d9e1",
+                "a90da822-999e-4518-8ce7-b7ce059913bb"
+            ]
+        }
+    ],
+    "grounding": {
+        "ee013a25-89a7-49a6-81f0-1e7b38ad2a67": {
+            "box": {
+                "left": 0.029191508889198303,
+                "top": 0.04997941106557846,
+                "right": 0.3645588159561157,
+                "bottom": 0.06993453949689865
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "06fae671-d0ab-49eb-9370-7f05f7a34355": {
+            "box": {
+                "left": 0.5425934791564941,
+                "top": 0.04878238961100578,
+                "right": 0.6442428827285767,
+                "bottom": 0.06706082820892334
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "016d4827-d72f-4bd8-a226-7c9ac0e2e15d": {
+            "box": {
+                "left": 0.7071150541305542,
+                "top": 0.048107556998729706,
+                "right": 0.9178158044815063,
+                "bottom": 0.06881354004144669
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6b850a8b-dbee-41a5-961c-5805d3cd19e0": {
+            "box": {
+                "left": 0.029283180832862854,
+                "top": 0.09199390560388565,
+                "right": 0.3733862042427063,
+                "bottom": 0.18760576844215393
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8cacc5a6-38a5-4b72-9540-6946c6068fb7": {
+            "box": {
+                "left": 0.6341369152069092,
+                "top": 0.12112872302532196,
+                "right": 0.8940751552581787,
+                "bottom": 0.15492750704288483
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "15809d0e-4615-421b-856a-645a7bc63489": {
+            "box": {
+                "left": 0.02101665735244751,
+                "top": 0.2385285347700119,
+                "right": 0.3983112573623657,
+                "bottom": 0.4733196496963501
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5e317175-9c0a-430d-b4b4-fb87e3b7882f": {
+            "box": {
+                "left": 0.5373380184173584,
+                "top": 0.2522602081298828,
+                "right": 0.9026414155960083,
+                "bottom": 0.5176791548728943
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "f9172342-01b2-45d2-98a1-d7c9f2b4d45d": {
+            "box": {
+                "left": 0.021873444318771362,
+                "top": 0.483886182308197,
+                "right": 0.9013926982879639,
+                "bottom": 0.8396475911140442
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "afec947a-04ad-48b4-8040-c667807cf350": {
+            "box": {
+                "left": 0.019650310277938843,
+                "top": 0.848122775554657,
+                "right": 0.9106053113937378,
+                "bottom": 0.9593021273612976
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6bf55f62-5891-4724-978b-0cb33a2f38cb": {
+            "box": {
+                "left": 0.20894700288772583,
+                "top": 0.9787865877151489,
+                "right": 0.7924452424049377,
+                "bottom": 0.9987080097198486
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6fa7af3d-61f7-41de-b8a8-fb362277d9e1": {
+            "box": {
+                "left": 0.9514609575271606,
+                "top": 0.8430866003036499,
+                "right": 0.9761749505996704,
+                "bottom": 0.8939419984817505
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "a90da822-999e-4518-8ce7-b7ce059913bb": {
+            "box": {
+                "left": 0.9490460157394409,
+                "top": 0.8978501558303833,
+                "right": 0.9750456809997559,
+                "bottom": 0.938153862953186
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yhxn0020_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9642,
+        "credit_usage": 3.0,
+        "job_id": "bjd54gp8ntbhkz953zg2m4n3a",
+        "version": "dpt-2-20250919"
+    }
+}

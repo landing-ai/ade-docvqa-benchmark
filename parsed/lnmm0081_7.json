@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='ae00c603-1637-40b6-acf0-9e41c111d771'></a>\n\nTHESE\nARE\nALL\nOK!\n\n<::illustration of a bottle and a glass: figure::> Alcoholics\n<::illustration of a factory emitting smoke: figure::> Industrial Polluters\n<::illustration of a syringe: figure::> Drug Abusers\n<::illustration of a person with obesity: figure::> Obesity\n<::illustration of a gun: figure::> Criminals\n<::illustration of a skull: figure::> AIDS\n\nSMOKING\nIS\nEVIL\nAND\nTAXABLE...\n\nDOTY\n\n<a id='ce32cbee-355b-4b48-87d0-3b4c440991b9'></a>\n\nAccording To Hillary ..\nSmokers Are Really\nBad And Evil People !!\n\n<a id='831876db-0771-4603-8c91-8577c8735aee'></a>\n\nSO YOU GET\nHIGHER TAXES\nFOR SMOKING!!\nBULL PUCKEY #?!*@?!\n\n<a id='3065fea8-5d3a-4b53-be4b-13ca9980db85'></a>\n\n51359 5454",
+    "chunks": [
+        {
+            "markdown": "<a id='ae00c603-1637-40b6-acf0-9e41c111d771'></a>\n\nTHESE\nARE\nALL\nOK!\n\n<::illustration of a bottle and a glass: figure::> Alcoholics\n<::illustration of a factory emitting smoke: figure::> Industrial Polluters\n<::illustration of a syringe: figure::> Drug Abusers\n<::illustration of a person with obesity: figure::> Obesity\n<::illustration of a gun: figure::> Criminals\n<::illustration of a skull: figure::> AIDS\n\nSMOKING\nIS\nEVIL\nAND\nTAXABLE...\n\nDOTY",
+            "type": "figure",
+            "id": "ae00c603-1637-40b6-acf0-9e41c111d771",
+            "grounding": {
+                "box": {
+                    "left": 0.033797234296798706,
+                    "top": 0.49569064378738403,
+                    "right": 0.8387335538864136,
+                    "bottom": 0.8111011385917664
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ce32cbee-355b-4b48-87d0-3b4c440991b9'></a>\n\nAccording To Hillary ..\nSmokers Are Really\nBad And Evil People !!",
+            "type": "text",
+            "id": "ce32cbee-355b-4b48-87d0-3b4c440991b9",
+            "grounding": {
+                "box": {
+                    "left": 0.017580538988113403,
+                    "top": 0.8142357468605042,
+                    "right": 0.4260602593421936,
+                    "bottom": 0.9305387139320374
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='831876db-0771-4603-8c91-8577c8735aee'></a>\n\nSO YOU GET\nHIGHER TAXES\nFOR SMOKING!!\nBULL PUCKEY #?!*@?!",
+            "type": "text",
+            "id": "831876db-0771-4603-8c91-8577c8735aee",
+            "grounding": {
+                "box": {
+                    "left": 0.5531463623046875,
+                    "top": 0.7972612977027893,
+                    "right": 0.9419341087341309,
+                    "bottom": 0.9313370585441589
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3065fea8-5d3a-4b53-be4b-13ca9980db85'></a>\n\n51359 5454",
+            "type": "marginalia",
+            "id": "3065fea8-5d3a-4b53-be4b-13ca9980db85",
+            "grounding": {
+                "box": {
+                    "left": 0.941484808921814,
+                    "top": 0.7374946475028992,
+                    "right": 0.969457745552063,
+                    "bottom": 0.8380704522132874
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ae00c603-1637-40b6-acf0-9e41c111d771'></a>\n\nTHESE\nARE\nALL\nOK!\n\n<::illustration of a bottle and a glass: figure::> Alcoholics\n<::illustration of a factory emitting smoke: figure::> Industrial Polluters\n<::illustration of a syringe: figure::> Drug Abusers\n<::illustration of a person with obesity: figure::> Obesity\n<::illustration of a gun: figure::> Criminals\n<::illustration of a skull: figure::> AIDS\n\nSMOKING\nIS\nEVIL\nAND\nTAXABLE...\n\nDOTY\n\n<a id='ce32cbee-355b-4b48-87d0-3b4c440991b9'></a>\n\nAccording To Hillary ..\nSmokers Are Really\nBad And Evil People !!\n\n<a id='831876db-0771-4603-8c91-8577c8735aee'></a>\n\nSO YOU GET\nHIGHER TAXES\nFOR SMOKING!!\nBULL PUCKEY #?!*@?!\n\n<a id='3065fea8-5d3a-4b53-be4b-13ca9980db85'></a>\n\n51359 5454",
+            "chunks": [
+                "ae00c603-1637-40b6-acf0-9e41c111d771",
+                "ce32cbee-355b-4b48-87d0-3b4c440991b9",
+                "831876db-0771-4603-8c91-8577c8735aee",
+                "3065fea8-5d3a-4b53-be4b-13ca9980db85"
+            ]
+        }
+    ],
+    "grounding": {
+        "ae00c603-1637-40b6-acf0-9e41c111d771": {
+            "box": {
+                "left": 0.033797234296798706,
+                "top": 0.49569064378738403,
+                "right": 0.8387335538864136,
+                "bottom": 0.8111011385917664
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "ce32cbee-355b-4b48-87d0-3b4c440991b9": {
+            "box": {
+                "left": 0.017580538988113403,
+                "top": 0.8142357468605042,
+                "right": 0.4260602593421936,
+                "bottom": 0.9305387139320374
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "831876db-0771-4603-8c91-8577c8735aee": {
+            "box": {
+                "left": 0.5531463623046875,
+                "top": 0.7972612977027893,
+                "right": 0.9419341087341309,
+                "bottom": 0.9313370585441589
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3065fea8-5d3a-4b53-be4b-13ca9980db85": {
+            "box": {
+                "left": 0.941484808921814,
+                "top": 0.7374946475028992,
+                "right": 0.969457745552063,
+                "bottom": 0.8380704522132874
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lnmm0081_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 21777,
+        "credit_usage": 3.0,
+        "job_id": "bk1zycykw3pa1qsf8pj9ldy6a",
+        "version": "dpt-2-20250919"
+    }
+}

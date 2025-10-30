@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='2e0c8964-72d9-411e-b808-fe9386a4eb9c'></a>\n\nTHE NATIONAL SUGAR REFINING COMPANY\n\n<a id='56b26092-02a9-4aa4-bc1f-a80857dac5cf'></a>\n\nCOMPARISON OF BASIC HOURLY WAGE RATES FOR MALE\nWORKERS AND COST OF LIVING IN VARIOUS SUGAR REFINING CENTERS\n\n<a id='7850690d-ad63-4951-a903-7ce72fa2a47d'></a>\n\n                                                                1941-2\n                                                                Basic           Cost\n                                                                Hourly          of\n                                                                Rate            Living\n                                                                ----           ------\n                                                                Boston          70\u00a2             $1,472.\n                                                                New York        77\u00bd\u00a2            $1,553.\n                                                                Philadelphia    68\u00a2             $1,383.\n                                                                Baltimore       57\u00bd\u00a2            $1,384.\n<::map of the United States with data points for various cities:\nSan Francisco: 79\u00a2, $1,514.\nSavannah: 44\u00a2, $1,369.*\n1942 New Orleans: 39\u00a2 - 42\u00a2\n1941 New Orleans: 32\u00a2 - 40\u00a2, $1,323.\n1942 Galveston: 47\u00bd\u00a2\n1941 Galveston: 40\u00a2, $1,339.**\n: map::>\n\n<a id='1a293a9f-dd13-4bc6-94cd-6b1e495b2ee5'></a>\n\nCost of Living data from U. S. Bureau of Labor Statistics, as of June 15, 1941;\nBasic hourly wage rates from various union contracts.\n* Actually, Jacksonville, Florida\n** Actually, Houston, Texas\n\n<a id='5af72053-da37-41bd-a638-554edbc329e2'></a>\n\nMarch 26, 1942\n\n<a id='5e56db87-dc8c-4292-b6f8-0d84bf1c1cba'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pggl0226",
+    "chunks": [
+        {
+            "markdown": "<a id='2e0c8964-72d9-411e-b808-fe9386a4eb9c'></a>\n\nTHE NATIONAL SUGAR REFINING COMPANY",
+            "type": "text",
+            "id": "2e0c8964-72d9-411e-b808-fe9386a4eb9c",
+            "grounding": {
+                "box": {
+                    "left": 0.6154513359069824,
+                    "top": 0.09466759860515594,
+                    "right": 0.8938322067260742,
+                    "bottom": 0.12158811092376709
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='56b26092-02a9-4aa4-bc1f-a80857dac5cf'></a>\n\nCOMPARISON OF BASIC HOURLY WAGE RATES FOR MALE\nWORKERS AND COST OF LIVING IN VARIOUS SUGAR REFINING CENTERS",
+            "type": "text",
+            "id": "56b26092-02a9-4aa4-bc1f-a80857dac5cf",
+            "grounding": {
+                "box": {
+                    "left": 0.25560978055000305,
+                    "top": 0.15351355075836182,
+                    "right": 0.7261554002761841,
+                    "bottom": 0.2032356560230255
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7850690d-ad63-4951-a903-7ce72fa2a47d'></a>\n\n                                                                1941-2\n                                                                Basic           Cost\n                                                                Hourly          of\n                                                                Rate            Living\n                                                                ----           ------\n                                                                Boston          70\u00a2             $1,472.\n                                                                New York        77\u00bd\u00a2            $1,553.\n                                                                Philadelphia    68\u00a2             $1,383.\n                                                                Baltimore       57\u00bd\u00a2            $1,384.\n<::map of the United States with data points for various cities:\nSan Francisco: 79\u00a2, $1,514.\nSavannah: 44\u00a2, $1,369.*\n1942 New Orleans: 39\u00a2 - 42\u00a2\n1941 New Orleans: 32\u00a2 - 40\u00a2, $1,323.\n1942 Galveston: 47\u00bd\u00a2\n1941 Galveston: 40\u00a2, $1,339.**\n: map::>",
+            "type": "figure",
+            "id": "7850690d-ad63-4951-a903-7ce72fa2a47d",
+            "grounding": {
+                "box": {
+                    "left": 0.03597119450569153,
+                    "top": 0.2606678307056427,
+                    "right": 0.9611866474151611,
+                    "bottom": 0.76021409034729
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1a293a9f-dd13-4bc6-94cd-6b1e495b2ee5'></a>\n\nCost of Living data from U. S. Bureau of Labor Statistics, as of June 15, 1941;\nBasic hourly wage rates from various union contracts.\n* Actually, Jacksonville, Florida\n** Actually, Houston, Texas",
+            "type": "text",
+            "id": "1a293a9f-dd13-4bc6-94cd-6b1e495b2ee5",
+            "grounding": {
+                "box": {
+                    "left": 0.15237382054328918,
+                    "top": 0.7733383178710938,
+                    "right": 0.7768107652664185,
+                    "bottom": 0.8653167486190796
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5af72053-da37-41bd-a638-554edbc329e2'></a>\n\nMarch 26, 1942",
+            "type": "text",
+            "id": "5af72053-da37-41bd-a638-554edbc329e2",
+            "grounding": {
+                "box": {
+                    "left": 0.7524585127830505,
+                    "top": 0.8750890493392944,
+                    "right": 0.8722447752952576,
+                    "bottom": 0.9068554639816284
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5e56db87-dc8c-4292-b6f8-0d84bf1c1cba'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pggl0226",
+            "type": "text",
+            "id": "5e56db87-dc8c-4292-b6f8-0d84bf1c1cba",
+            "grounding": {
+                "box": {
+                    "left": 0.06220376491546631,
+                    "top": 0.9440933465957642,
+                    "right": 0.9385330677032471,
+                    "bottom": 0.9953855276107788
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2e0c8964-72d9-411e-b808-fe9386a4eb9c'></a>\n\nTHE NATIONAL SUGAR REFINING COMPANY\n\n<a id='56b26092-02a9-4aa4-bc1f-a80857dac5cf'></a>\n\nCOMPARISON OF BASIC HOURLY WAGE RATES FOR MALE\nWORKERS AND COST OF LIVING IN VARIOUS SUGAR REFINING CENTERS\n\n<a id='7850690d-ad63-4951-a903-7ce72fa2a47d'></a>\n\n                                                                1941-2\n                                                                Basic           Cost\n                                                                Hourly          of\n                                                                Rate            Living\n                                                                ----           ------\n                                                                Boston          70\u00a2             $1,472.\n                                                                New York        77\u00bd\u00a2            $1,553.\n                                                                Philadelphia    68\u00a2             $1,383.\n                                                                Baltimore       57\u00bd\u00a2            $1,384.\n<::map of the United States with data points for various cities:\nSan Francisco: 79\u00a2, $1,514.\nSavannah: 44\u00a2, $1,369.*\n1942 New Orleans: 39\u00a2 - 42\u00a2\n1941 New Orleans: 32\u00a2 - 40\u00a2, $1,323.\n1942 Galveston: 47\u00bd\u00a2\n1941 Galveston: 40\u00a2, $1,339.**\n: map::>\n\n<a id='1a293a9f-dd13-4bc6-94cd-6b1e495b2ee5'></a>\n\nCost of Living data from U. S. Bureau of Labor Statistics, as of June 15, 1941;\nBasic hourly wage rates from various union contracts.\n* Actually, Jacksonville, Florida\n** Actually, Houston, Texas\n\n<a id='5af72053-da37-41bd-a638-554edbc329e2'></a>\n\nMarch 26, 1942\n\n<a id='5e56db87-dc8c-4292-b6f8-0d84bf1c1cba'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pggl0226",
+            "chunks": [
+                "2e0c8964-72d9-411e-b808-fe9386a4eb9c",
+                "56b26092-02a9-4aa4-bc1f-a80857dac5cf",
+                "7850690d-ad63-4951-a903-7ce72fa2a47d",
+                "1a293a9f-dd13-4bc6-94cd-6b1e495b2ee5",
+                "5af72053-da37-41bd-a638-554edbc329e2",
+                "5e56db87-dc8c-4292-b6f8-0d84bf1c1cba"
+            ]
+        }
+    ],
+    "grounding": {
+        "2e0c8964-72d9-411e-b808-fe9386a4eb9c": {
+            "box": {
+                "left": 0.6154513359069824,
+                "top": 0.09466759860515594,
+                "right": 0.8938322067260742,
+                "bottom": 0.12158811092376709
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "56b26092-02a9-4aa4-bc1f-a80857dac5cf": {
+            "box": {
+                "left": 0.25560978055000305,
+                "top": 0.15351355075836182,
+                "right": 0.7261554002761841,
+                "bottom": 0.2032356560230255
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7850690d-ad63-4951-a903-7ce72fa2a47d": {
+            "box": {
+                "left": 0.03597119450569153,
+                "top": 0.2606678307056427,
+                "right": 0.9611866474151611,
+                "bottom": 0.76021409034729
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "1a293a9f-dd13-4bc6-94cd-6b1e495b2ee5": {
+            "box": {
+                "left": 0.15237382054328918,
+                "top": 0.7733383178710938,
+                "right": 0.7768107652664185,
+                "bottom": 0.8653167486190796
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5af72053-da37-41bd-a638-554edbc329e2": {
+            "box": {
+                "left": 0.7524585127830505,
+                "top": 0.8750890493392944,
+                "right": 0.8722447752952576,
+                "bottom": 0.9068554639816284
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5e56db87-dc8c-4292-b6f8-0d84bf1c1cba": {
+            "box": {
+                "left": 0.06220376491546631,
+                "top": 0.9440933465957642,
+                "right": 0.9385330677032471,
+                "bottom": 0.9953855276107788
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "pggl0226_23.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 31555,
+        "credit_usage": 3.0,
+        "job_id": "a6if0bofctq6471kh2j3cf0fn",
+        "version": "dpt-2-20250919"
+    }
+}

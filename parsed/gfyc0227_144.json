@@ -1,0 +1,698 @@
+{
+    "markdown": "<a id='bc8b49ea-3567-4b4d-b778-d87edd286e83'></a>\n\n126\n\n<a id='4193fe5b-66a0-4e9a-94cb-63e095331cc0'></a>\n\nINTERPRETATIVE GUIDE FOR BIOCHEMICAL DATA\nGUIDE USED IN INTERPRETATION OF BLOOD DATA - YOUNG ADULT MALES\n\n<a id='de79c6a1-3b01-4869-abdb-48b71db98e82'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Deficient</td><td id=\"0-4\">Low</td><td id=\"0-5\">Acceptable</td><td id=\"0-6\">High</td></tr>\n<tr><td id=\"0-7\">Hemoglobin gm/100 ml</td><td id=\"0-8\">< 12.0</td><td id=\"0-9\">12.0-13.9</td><td id=\"0-a\">14.0-14.9</td><td id=\"0-b\">\u2265 15.0</td></tr>\n<tr><td id=\"0-c\">Total Serum Protein gm/100 ml</td><td id=\"0-d\">< 6.0</td><td id=\"0-e\">6.0-6.39</td><td id=\"0-f\">6.4-7.1 1/</td><td id=\"0-g\">\u2265 7.2 1/</td></tr>\n<tr><td id=\"0-h\">Serum Vitamin A mcg/100 ml</td><td id=\"0-i\">< 10</td><td id=\"0-j\">10-19</td><td id=\"0-k\">20-49</td><td id=\"0-l\">\u2265 50</td></tr>\n<tr><td id=\"0-m\">Serum Carotene mcg/100 ml</td><td id=\"0-n\">< 20</td><td id=\"0-o\">20-39</td><td id=\"0-p\">40-99</td><td id=\"0-q\">\u2265 100</td></tr>\n<tr><td id=\"0-r\">Serum Ascorbic Acid mg/100 ml</td><td id=\"0-s\">< 0.10</td><td id=\"0-t\">.10-.19</td><td id=\"0-u\">0.20-0.39</td><td id=\"0-v\">\u2265.40</td></tr>\n</table>\n\n<a id='3eec6f1c-1df8-4ca3-b630-714ba320cd18'></a>\n\n<table id=\"0-w\">\n<tr><td id=\"0-x\" colspan=\"5\">GUIDE USED IN INTERPRETATION OF URINE DATA</td></tr>\n<tr><td id=\"0-y\"></td><td id=\"0-z\" colspan=\"2\">YOUNG ADULT MALES</td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n<tr><td id=\"0-C\">Thiamine mcg/gm creatinine</td><td id=\"0-D\">< 27</td><td id=\"0-E\">27-65</td><td id=\"0-F\">66-129</td><td id=\"0-G\">\u2265 130</td></tr>\n<tr><td id=\"0-H\">Riboflavin mcg/gm creatinine</td><td id=\"0-I\">< 27</td><td id=\"0-J\">27-79</td><td id=\"0-K\">80-269</td><td id=\"0-L\">\u2265 270</td></tr>\n<tr><td id=\"0-M\">N'Methylnicotinamide mg/gm creatinine</td><td id=\"0-N\">< 0.5</td><td id=\"0-O\">0.5-1.59</td><td id=\"0-P\">1.60-4.29</td><td id=\"0-Q\">\u2265 4.30</td></tr>\n</table>\n\n<a id='11174434-c860-4516-9d6e-096535e41e36'></a>\n\n1/ These categories differ slightly from those proposed by the ICNND Manual, but\ndo not in any way affect the interpretation of the data presented in this\nreport.\n\n<a id='f8c0d66b-9699-4186-84fa-114f2ee726ff'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gfyc0227",
+    "chunks": [
+        {
+            "markdown": "<a id='bc8b49ea-3567-4b4d-b778-d87edd286e83'></a>\n\n126",
+            "type": "marginalia",
+            "id": "bc8b49ea-3567-4b4d-b778-d87edd286e83",
+            "grounding": {
+                "box": {
+                    "left": 0.9098526239395142,
+                    "top": 0.07952387630939484,
+                    "right": 0.9326857328414917,
+                    "bottom": 0.10234613716602325
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4193fe5b-66a0-4e9a-94cb-63e095331cc0'></a>\n\nINTERPRETATIVE GUIDE FOR BIOCHEMICAL DATA\nGUIDE USED IN INTERPRETATION OF BLOOD DATA - YOUNG ADULT MALES",
+            "type": "text",
+            "id": "4193fe5b-66a0-4e9a-94cb-63e095331cc0",
+            "grounding": {
+                "box": {
+                    "left": 0.579169511795044,
+                    "top": 0.11639132350683212,
+                    "right": 0.9072407484054565,
+                    "bottom": 0.1728849709033966
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='de79c6a1-3b01-4869-abdb-48b71db98e82'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Deficient</td><td id=\"0-4\">Low</td><td id=\"0-5\">Acceptable</td><td id=\"0-6\">High</td></tr>\n<tr><td id=\"0-7\">Hemoglobin gm/100 ml</td><td id=\"0-8\">< 12.0</td><td id=\"0-9\">12.0-13.9</td><td id=\"0-a\">14.0-14.9</td><td id=\"0-b\">\u2265 15.0</td></tr>\n<tr><td id=\"0-c\">Total Serum Protein gm/100 ml</td><td id=\"0-d\">< 6.0</td><td id=\"0-e\">6.0-6.39</td><td id=\"0-f\">6.4-7.1 1/</td><td id=\"0-g\">\u2265 7.2 1/</td></tr>\n<tr><td id=\"0-h\">Serum Vitamin A mcg/100 ml</td><td id=\"0-i\">< 10</td><td id=\"0-j\">10-19</td><td id=\"0-k\">20-49</td><td id=\"0-l\">\u2265 50</td></tr>\n<tr><td id=\"0-m\">Serum Carotene mcg/100 ml</td><td id=\"0-n\">< 20</td><td id=\"0-o\">20-39</td><td id=\"0-p\">40-99</td><td id=\"0-q\">\u2265 100</td></tr>\n<tr><td id=\"0-r\">Serum Ascorbic Acid mg/100 ml</td><td id=\"0-s\">< 0.10</td><td id=\"0-t\">.10-.19</td><td id=\"0-u\">0.20-0.39</td><td id=\"0-v\">\u2265.40</td></tr>\n</table>",
+            "type": "table",
+            "id": "de79c6a1-3b01-4869-abdb-48b71db98e82",
+            "grounding": {
+                "box": {
+                    "left": 0.5365796685218811,
+                    "top": 0.20558302104473114,
+                    "right": 0.9573660492897034,
+                    "bottom": 0.4842648506164551
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3eec6f1c-1df8-4ca3-b630-714ba320cd18'></a>\n\n<table id=\"0-w\">\n<tr><td id=\"0-x\" colspan=\"5\">GUIDE USED IN INTERPRETATION OF URINE DATA</td></tr>\n<tr><td id=\"0-y\"></td><td id=\"0-z\" colspan=\"2\">YOUNG ADULT MALES</td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n<tr><td id=\"0-C\">Thiamine mcg/gm creatinine</td><td id=\"0-D\">< 27</td><td id=\"0-E\">27-65</td><td id=\"0-F\">66-129</td><td id=\"0-G\">\u2265 130</td></tr>\n<tr><td id=\"0-H\">Riboflavin mcg/gm creatinine</td><td id=\"0-I\">< 27</td><td id=\"0-J\">27-79</td><td id=\"0-K\">80-269</td><td id=\"0-L\">\u2265 270</td></tr>\n<tr><td id=\"0-M\">N'Methylnicotinamide mg/gm creatinine</td><td id=\"0-N\">< 0.5</td><td id=\"0-O\">0.5-1.59</td><td id=\"0-P\">1.60-4.29</td><td id=\"0-Q\">\u2265 4.30</td></tr>\n</table>",
+            "type": "table",
+            "id": "3eec6f1c-1df8-4ca3-b630-714ba320cd18",
+            "grounding": {
+                "box": {
+                    "left": 0.5358836054801941,
+                    "top": 0.5046958923339844,
+                    "right": 0.950280487537384,
+                    "bottom": 0.7280387878417969
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='11174434-c860-4516-9d6e-096535e41e36'></a>\n\n1/ These categories differ slightly from those proposed by the ICNND Manual, but\ndo not in any way affect the interpretation of the data presented in this\nreport.",
+            "type": "text",
+            "id": "11174434-c860-4516-9d6e-096535e41e36",
+            "grounding": {
+                "box": {
+                    "left": 0.5357682108879089,
+                    "top": 0.7368230819702148,
+                    "right": 0.9630226492881775,
+                    "bottom": 0.7978287935256958
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f8c0d66b-9699-4186-84fa-114f2ee726ff'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gfyc0227",
+            "type": "text",
+            "id": "f8c0d66b-9699-4186-84fa-114f2ee726ff",
+            "grounding": {
+                "box": {
+                    "left": 0.3512078523635864,
+                    "top": 0.9781873822212219,
+                    "right": 0.649091362953186,
+                    "bottom": 0.9996573328971863
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='bc8b49ea-3567-4b4d-b778-d87edd286e83'></a>\n\n126\n\n<a id='4193fe5b-66a0-4e9a-94cb-63e095331cc0'></a>\n\nINTERPRETATIVE GUIDE FOR BIOCHEMICAL DATA\nGUIDE USED IN INTERPRETATION OF BLOOD DATA - YOUNG ADULT MALES\n\n<a id='de79c6a1-3b01-4869-abdb-48b71db98e82'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Deficient</td><td id=\"0-4\">Low</td><td id=\"0-5\">Acceptable</td><td id=\"0-6\">High</td></tr>\n<tr><td id=\"0-7\">Hemoglobin gm/100 ml</td><td id=\"0-8\">< 12.0</td><td id=\"0-9\">12.0-13.9</td><td id=\"0-a\">14.0-14.9</td><td id=\"0-b\">\u2265 15.0</td></tr>\n<tr><td id=\"0-c\">Total Serum Protein gm/100 ml</td><td id=\"0-d\">< 6.0</td><td id=\"0-e\">6.0-6.39</td><td id=\"0-f\">6.4-7.1 1/</td><td id=\"0-g\">\u2265 7.2 1/</td></tr>\n<tr><td id=\"0-h\">Serum Vitamin A mcg/100 ml</td><td id=\"0-i\">< 10</td><td id=\"0-j\">10-19</td><td id=\"0-k\">20-49</td><td id=\"0-l\">\u2265 50</td></tr>\n<tr><td id=\"0-m\">Serum Carotene mcg/100 ml</td><td id=\"0-n\">< 20</td><td id=\"0-o\">20-39</td><td id=\"0-p\">40-99</td><td id=\"0-q\">\u2265 100</td></tr>\n<tr><td id=\"0-r\">Serum Ascorbic Acid mg/100 ml</td><td id=\"0-s\">< 0.10</td><td id=\"0-t\">.10-.19</td><td id=\"0-u\">0.20-0.39</td><td id=\"0-v\">\u2265.40</td></tr>\n</table>\n\n<a id='3eec6f1c-1df8-4ca3-b630-714ba320cd18'></a>\n\n<table id=\"0-w\">\n<tr><td id=\"0-x\" colspan=\"5\">GUIDE USED IN INTERPRETATION OF URINE DATA</td></tr>\n<tr><td id=\"0-y\"></td><td id=\"0-z\" colspan=\"2\">YOUNG ADULT MALES</td><td id=\"0-A\"></td><td id=\"0-B\"></td></tr>\n<tr><td id=\"0-C\">Thiamine mcg/gm creatinine</td><td id=\"0-D\">< 27</td><td id=\"0-E\">27-65</td><td id=\"0-F\">66-129</td><td id=\"0-G\">\u2265 130</td></tr>\n<tr><td id=\"0-H\">Riboflavin mcg/gm creatinine</td><td id=\"0-I\">< 27</td><td id=\"0-J\">27-79</td><td id=\"0-K\">80-269</td><td id=\"0-L\">\u2265 270</td></tr>\n<tr><td id=\"0-M\">N'Methylnicotinamide mg/gm creatinine</td><td id=\"0-N\">< 0.5</td><td id=\"0-O\">0.5-1.59</td><td id=\"0-P\">1.60-4.29</td><td id=\"0-Q\">\u2265 4.30</td></tr>\n</table>\n\n<a id='11174434-c860-4516-9d6e-096535e41e36'></a>\n\n1/ These categories differ slightly from those proposed by the ICNND Manual, but\ndo not in any way affect the interpretation of the data presented in this\nreport.\n\n<a id='f8c0d66b-9699-4186-84fa-114f2ee726ff'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gfyc0227",
+            "chunks": [
+                "bc8b49ea-3567-4b4d-b778-d87edd286e83",
+                "4193fe5b-66a0-4e9a-94cb-63e095331cc0",
+                "de79c6a1-3b01-4869-abdb-48b71db98e82",
+                "3eec6f1c-1df8-4ca3-b630-714ba320cd18",
+                "11174434-c860-4516-9d6e-096535e41e36",
+                "f8c0d66b-9699-4186-84fa-114f2ee726ff"
+            ]
+        }
+    ],
+    "grounding": {
+        "bc8b49ea-3567-4b4d-b778-d87edd286e83": {
+            "box": {
+                "left": 0.9098526239395142,
+                "top": 0.07952387630939484,
+                "right": 0.9326857328414917,
+                "bottom": 0.10234613716602325
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "4193fe5b-66a0-4e9a-94cb-63e095331cc0": {
+            "box": {
+                "left": 0.579169511795044,
+                "top": 0.11639132350683212,
+                "right": 0.9072407484054565,
+                "bottom": 0.1728849709033966
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "de79c6a1-3b01-4869-abdb-48b71db98e82": {
+            "box": {
+                "left": 0.5365796685218811,
+                "top": 0.20558302104473114,
+                "right": 0.9573660492897034,
+                "bottom": 0.4842648506164551
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.5421036683956975,
+                "top": 0.2123416717654942,
+                "right": 0.9552212627320671,
+                "bottom": 0.4800521365687249
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.5421036683956975,
+                "top": 0.2123416717654942,
+                "right": 0.6490339013935795,
+                "bottom": 0.24299171299168054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.6490339013935795,
+                "top": 0.2123416717654942,
+                "right": 0.7514792808145785,
+                "bottom": 0.24299171299168054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.7514792808145785,
+                "top": 0.2123416717654942,
+                "right": 0.8085425417193335,
+                "bottom": 0.24299171299168054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.8085425417193335,
+                "top": 0.2123416717654942,
+                "right": 0.8815854719815945,
+                "bottom": 0.24299171299168054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.8815854719815945,
+                "top": 0.2123416717654942,
+                "right": 0.955939577495684,
+                "bottom": 0.24299171299168054
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5421036683956975,
+                "top": 0.24299171299168054,
+                "right": 0.6490339013935795,
+                "bottom": 0.28482903357920364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.6490339013935795,
+                "top": 0.24299171299168054,
+                "right": 0.7514792808145785,
+                "bottom": 0.28482903357920364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7514792808145785,
+                "top": 0.24299171299168054,
+                "right": 0.8085425417193335,
+                "bottom": 0.28482903357920364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.8085425417193335,
+                "top": 0.24299171299168054,
+                "right": 0.8815854719815945,
+                "bottom": 0.28482903357920364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.8815854719815945,
+                "top": 0.24299171299168054,
+                "right": 0.955939577495684,
+                "bottom": 0.28482903357920364
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5421036683956975,
+                "top": 0.28482903357920364,
+                "right": 0.6490339013935795,
+                "bottom": 0.33066206146602006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6490339013935795,
+                "top": 0.28482903357920364,
+                "right": 0.7514792808145785,
+                "bottom": 0.33066206146602006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.7514792808145785,
+                "top": 0.28482903357920364,
+                "right": 0.8085425417193335,
+                "bottom": 0.33066206146602006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.8085425417193335,
+                "top": 0.28482903357920364,
+                "right": 0.8815854719815945,
+                "bottom": 0.33066206146602006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.8815854719815945,
+                "top": 0.28482903357920364,
+                "right": 0.955939577495684,
+                "bottom": 0.33066206146602006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.5421036683956975,
+                "top": 0.33066206146602006,
+                "right": 0.6490339013935795,
+                "bottom": 0.3769693755681276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.6490339013935795,
+                "top": 0.33066206146602006,
+                "right": 0.7514792808145785,
+                "bottom": 0.3769693755681276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.7514792808145785,
+                "top": 0.33066206146602006,
+                "right": 0.8085425417193335,
+                "bottom": 0.3769693755681276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.8085425417193335,
+                "top": 0.33066206146602006,
+                "right": 0.8815854719815945,
+                "bottom": 0.3769693755681276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.8815854719815945,
+                "top": 0.33066206146602006,
+                "right": 0.955939577495684,
+                "bottom": 0.3769693755681276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5421036683956975,
+                "top": 0.3769693755681276,
+                "right": 0.6490339013935795,
+                "bottom": 0.4231836529633446
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.6490339013935795,
+                "top": 0.3769693755681276,
+                "right": 0.7514792808145785,
+                "bottom": 0.4231836529633446
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7514792808145785,
+                "top": 0.3769693755681276,
+                "right": 0.8085425417193335,
+                "bottom": 0.4231836529633446
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.8085425417193335,
+                "top": 0.3769693755681276,
+                "right": 0.8815854719815945,
+                "bottom": 0.4231836529633446
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.8815854719815945,
+                "top": 0.3769693755681276,
+                "right": 0.955939577495684,
+                "bottom": 0.4231836529633446
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.5421036683956975,
+                "top": 0.4231836529633446,
+                "right": 0.6490339013935795,
+                "bottom": 0.4800521365687249
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.6490339013935795,
+                "top": 0.4231836529633446,
+                "right": 0.7514792808145785,
+                "bottom": 0.4800521365687249
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.7514792808145785,
+                "top": 0.4231836529633446,
+                "right": 0.8085425417193335,
+                "bottom": 0.4800521365687249
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.8085425417193335,
+                "top": 0.4231836529633446,
+                "right": 0.8815854719815945,
+                "bottom": 0.4800521365687249
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.8815854719815945,
+                "top": 0.4231836529633446,
+                "right": 0.955939577495684,
+                "bottom": 0.4800521365687249
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "3eec6f1c-1df8-4ca3-b630-714ba320cd18": {
+            "box": {
+                "left": 0.5358836054801941,
+                "top": 0.5046958923339844,
+                "right": 0.950280487537384,
+                "bottom": 0.7280387878417969
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.5391174853446427,
+                "top": 0.5066640244676677,
+                "right": 0.9466257551518922,
+                "bottom": 0.7067026738914137
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.5391174853446427,
+                "top": 0.5066640244676677,
+                "right": 0.9453427888452168,
+                "bottom": 0.5579130420039746
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.5391174853446427,
+                "top": 0.5268252181276694,
+                "right": 0.6484662330389668,
+                "bottom": 0.5579130420039746
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.6484662330389668,
+                "top": 0.5268252181276694,
+                "right": 0.87048703263617,
+                "bottom": 0.6069848360957621
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.8080900693099267,
+                "top": 0.5268252181276694,
+                "right": 0.87048703263617,
+                "bottom": 0.5579130420039746
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.87048703263617,
+                "top": 0.5268252181276694,
+                "right": 0.9453427888452168,
+                "bottom": 0.5579130420039746
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.5391174853446427,
+                "top": 0.5579130420039746,
+                "right": 0.6484662330389668,
+                "bottom": 0.6069848360957621
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.6484662330389668,
+                "top": 0.5579130420039746,
+                "right": 0.7414286175678164,
+                "bottom": 0.6069848360957621
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.7414286175678164,
+                "top": 0.5579130420039746,
+                "right": 0.8080900693099267,
+                "bottom": 0.6069848360957621
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.8080900693099267,
+                "top": 0.5579130420039746,
+                "right": 0.87048703263617,
+                "bottom": 0.6069848360957621
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.87048703263617,
+                "top": 0.5579130420039746,
+                "right": 0.9453427888452168,
+                "bottom": 0.6069848360957621
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.5391174853446427,
+                "top": 0.6069848360957621,
+                "right": 0.6484662330389668,
+                "bottom": 0.6543181437236854
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.6484662330389668,
+                "top": 0.6069848360957621,
+                "right": 0.7414286175678164,
+                "bottom": 0.6543181437236854
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.7414286175678164,
+                "top": 0.6069848360957621,
+                "right": 0.8080900693099267,
+                "bottom": 0.6543181437236854
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.8080900693099267,
+                "top": 0.6069848360957621,
+                "right": 0.87048703263617,
+                "bottom": 0.6543181437236854
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.87048703263617,
+                "top": 0.6069848360957621,
+                "right": 0.9453427888452168,
+                "bottom": 0.6543181437236854
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.5391174853446427,
+                "top": 0.6543181437236854,
+                "right": 0.6484662330389668,
+                "bottom": 0.7067026738914137
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.6484662330389668,
+                "top": 0.6543181437236854,
+                "right": 0.7414286175678164,
+                "bottom": 0.7067026738914137
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.7414286175678164,
+                "top": 0.6543181437236854,
+                "right": 0.8080900693099267,
+                "bottom": 0.7067026738914137
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.8080900693099267,
+                "top": 0.6543181437236854,
+                "right": 0.87048703263617,
+                "bottom": 0.7067026738914137
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.87048703263617,
+                "top": 0.6543181437236854,
+                "right": 0.9453427888452168,
+                "bottom": 0.7067026738914137
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "11174434-c860-4516-9d6e-096535e41e36": {
+            "box": {
+                "left": 0.5357682108879089,
+                "top": 0.7368230819702148,
+                "right": 0.9630226492881775,
+                "bottom": 0.7978287935256958
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f8c0d66b-9699-4186-84fa-114f2ee726ff": {
+            "box": {
+                "left": 0.3512078523635864,
+                "top": 0.9781873822212219,
+                "right": 0.649091362953186,
+                "bottom": 0.9996573328971863
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "gfyc0227_144.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6756,
+        "credit_usage": 3.0,
+        "job_id": "zjhejsodr2hboizs9gcw6mgkl",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,773 @@
+{
+    "markdown": "<a id='e27c35e9-f1a1-411a-ae3c-e2bca6f5f20b'></a>\n\nTable 2. WOH-Funded Activities\n\n<a id='c0096a75-f17d-486c-86b5-4186a97e18f0'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Title</td><td id=\"0-4\">1967</td><td id=\"0-5\">1968</td><td id=\"0-6\">1969</td><td id=\"0-7\">Source</td></tr>\n<tr><td id=\"0-8\">Goal No. 1:</td><td id=\"0-9\">a) Equipment for Improvement/ Expansion Child Feeding</td><td id=\"0-a\">$250,000</td><td id=\"0-b\">$3,000,000</td><td id=\"0-c\">$4,000,000</td><td id=\"0-d\">WOH Fund</td></tr>\n<tr><td id=\"0-e\">Goal No. 2:</td><td id=\"0-f\">a) Train middle and upper level personnel in nutrition, food science and program adminis.</td><td id=\"0-g\"></td><td id=\"0-h\">$ 500,000</td><td id=\"0-i\">$ 500,000</td><td id=\"0-j\">WOH Fund</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">b) Promote and Facilitate Regional cooperation in the planning and execution of programs and in the free exchange of information</td><td id=\"0-m\"></td><td id=\"0-n\">$ 124,000</td><td id=\"0-o\">$ 185,000</td><td id=\"0-p\">WOH Fund</td></tr>\n<tr><td id=\"0-q\">Goal No. 3:</td><td id=\"0-r\">a) Educate Mothers and Children in Basics of Nutrition</td><td id=\"0-s\"></td><td id=\"0-t\">$ 150,000</td><td id=\"0-u\">$ 300,000</td><td id=\"0-v\">WOH Fund</td></tr>\n<tr><td id=\"0-w\">Goal No. 4:</td><td id=\"0-x\">a) Establishment of Regional food testing and evaluation centers</td><td id=\"0-y\"></td><td id=\"0-z\">$ 264,000</td><td id=\"0-A\">$ 420,000</td><td id=\"0-B\">WOH Fund</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\">b) Advisory Consortium of Scientific and Technical Societies</td><td id=\"0-E\"></td><td id=\"0-F\">$ 45,000</td><td id=\"0-G\">$ 75,000</td><td id=\"0-H\">WOH Fund</td></tr>\n<tr><td id=\"0-I\"></td><td id=\"0-J\" colspan=\"2\">c) Research concerned with the develop- ment of new nutritious foods or studies to increase knowledge of nutrition, food technology as. follows:</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\"></td><td id=\"0-O\">1) Development of Protein Food Technology, USDA-ARS</td><td id=\"0-P\">($190,000)</td><td id=\"0-Q\">$ 107,000</td><td id=\"0-R\"></td><td id=\"0-S\">IG Fund</td></tr>\n<tr><td id=\"0-T\"></td><td id=\"0-U\">2) Improving Nutritive Value of Cereal-Based Food, Kansas U.</td><td id=\"0-V\">(280,000)</td><td id=\"0-W\"></td><td id=\"0-X\">$ 290,000</td><td id=\"0-Y\">IG Fund</td></tr>\n<tr><td id=\"0-Z\" rowspan=\"2\">white rectangle with faint texture</td><td id=\"0-10\" rowspan=\"2\">3) Effects of Extrusion Process- ing variables on nutritive, quality of inexpensive food mixtures, U. of Calif. & U. of Chile</td><td id=\"0-11\" rowspan=\"2\">(110,000)</td><td id=\"0-12\">$ 35,000</td><td id=\"0-13\" rowspan=\"2\">$ 35,000</td><td id=\"0-14\" rowspan=\"2\">IG Fund</td></tr>\n<tr><td id=\"0-15\"></td></tr>\n</table>\n\n<a id='bf225708-d589-4b5d-b4c0-81b1be331d4c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nldg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='e27c35e9-f1a1-411a-ae3c-e2bca6f5f20b'></a>\n\nTable 2. WOH-Funded Activities",
+            "type": "text",
+            "id": "e27c35e9-f1a1-411a-ae3c-e2bca6f5f20b",
+            "grounding": {
+                "box": {
+                    "left": 0.3858044147491455,
+                    "top": 0.06721405684947968,
+                    "right": 0.6399295330047607,
+                    "bottom": 0.09783941507339478
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c0096a75-f17d-486c-86b5-4186a97e18f0'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Title</td><td id=\"0-4\">1967</td><td id=\"0-5\">1968</td><td id=\"0-6\">1969</td><td id=\"0-7\">Source</td></tr>\n<tr><td id=\"0-8\">Goal No. 1:</td><td id=\"0-9\">a) Equipment for Improvement/ Expansion Child Feeding</td><td id=\"0-a\">$250,000</td><td id=\"0-b\">$3,000,000</td><td id=\"0-c\">$4,000,000</td><td id=\"0-d\">WOH Fund</td></tr>\n<tr><td id=\"0-e\">Goal No. 2:</td><td id=\"0-f\">a) Train middle and upper level personnel in nutrition, food science and program adminis.</td><td id=\"0-g\"></td><td id=\"0-h\">$ 500,000</td><td id=\"0-i\">$ 500,000</td><td id=\"0-j\">WOH Fund</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">b) Promote and Facilitate Regional cooperation in the planning and execution of programs and in the free exchange of information</td><td id=\"0-m\"></td><td id=\"0-n\">$ 124,000</td><td id=\"0-o\">$ 185,000</td><td id=\"0-p\">WOH Fund</td></tr>\n<tr><td id=\"0-q\">Goal No. 3:</td><td id=\"0-r\">a) Educate Mothers and Children in Basics of Nutrition</td><td id=\"0-s\"></td><td id=\"0-t\">$ 150,000</td><td id=\"0-u\">$ 300,000</td><td id=\"0-v\">WOH Fund</td></tr>\n<tr><td id=\"0-w\">Goal No. 4:</td><td id=\"0-x\">a) Establishment of Regional food testing and evaluation centers</td><td id=\"0-y\"></td><td id=\"0-z\">$ 264,000</td><td id=\"0-A\">$ 420,000</td><td id=\"0-B\">WOH Fund</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\">b) Advisory Consortium of Scientific and Technical Societies</td><td id=\"0-E\"></td><td id=\"0-F\">$ 45,000</td><td id=\"0-G\">$ 75,000</td><td id=\"0-H\">WOH Fund</td></tr>\n<tr><td id=\"0-I\"></td><td id=\"0-J\" colspan=\"2\">c) Research concerned with the develop- ment of new nutritious foods or studies to increase knowledge of nutrition, food technology as. follows:</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\"></td><td id=\"0-O\">1) Development of Protein Food Technology, USDA-ARS</td><td id=\"0-P\">($190,000)</td><td id=\"0-Q\">$ 107,000</td><td id=\"0-R\"></td><td id=\"0-S\">IG Fund</td></tr>\n<tr><td id=\"0-T\"></td><td id=\"0-U\">2) Improving Nutritive Value of Cereal-Based Food, Kansas U.</td><td id=\"0-V\">(280,000)</td><td id=\"0-W\"></td><td id=\"0-X\">$ 290,000</td><td id=\"0-Y\">IG Fund</td></tr>\n<tr><td id=\"0-Z\" rowspan=\"2\">white rectangle with faint texture</td><td id=\"0-10\" rowspan=\"2\">3) Effects of Extrusion Process- ing variables on nutritive, quality of inexpensive food mixtures, U. of Calif. & U. of Chile</td><td id=\"0-11\" rowspan=\"2\">(110,000)</td><td id=\"0-12\">$ 35,000</td><td id=\"0-13\" rowspan=\"2\">$ 35,000</td><td id=\"0-14\" rowspan=\"2\">IG Fund</td></tr>\n<tr><td id=\"0-15\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "c0096a75-f17d-486c-86b5-4186a97e18f0",
+            "grounding": {
+                "box": {
+                    "left": 0.07531410455703735,
+                    "top": 0.12050944566726685,
+                    "right": 0.9054102301597595,
+                    "bottom": 0.9179492592811584
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bf225708-d589-4b5d-b4c0-81b1be331d4c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nldg0227",
+            "type": "text",
+            "id": "bf225708-d589-4b5d-b4c0-81b1be331d4c",
+            "grounding": {
+                "box": {
+                    "left": 0.2749154567718506,
+                    "top": 0.9719603061676025,
+                    "right": 0.7258809804916382,
+                    "bottom": 1.0000392198562622
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e27c35e9-f1a1-411a-ae3c-e2bca6f5f20b'></a>\n\nTable 2. WOH-Funded Activities\n\n<a id='c0096a75-f17d-486c-86b5-4186a97e18f0'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Title</td><td id=\"0-4\">1967</td><td id=\"0-5\">1968</td><td id=\"0-6\">1969</td><td id=\"0-7\">Source</td></tr>\n<tr><td id=\"0-8\">Goal No. 1:</td><td id=\"0-9\">a) Equipment for Improvement/ Expansion Child Feeding</td><td id=\"0-a\">$250,000</td><td id=\"0-b\">$3,000,000</td><td id=\"0-c\">$4,000,000</td><td id=\"0-d\">WOH Fund</td></tr>\n<tr><td id=\"0-e\">Goal No. 2:</td><td id=\"0-f\">a) Train middle and upper level personnel in nutrition, food science and program adminis.</td><td id=\"0-g\"></td><td id=\"0-h\">$ 500,000</td><td id=\"0-i\">$ 500,000</td><td id=\"0-j\">WOH Fund</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">b) Promote and Facilitate Regional cooperation in the planning and execution of programs and in the free exchange of information</td><td id=\"0-m\"></td><td id=\"0-n\">$ 124,000</td><td id=\"0-o\">$ 185,000</td><td id=\"0-p\">WOH Fund</td></tr>\n<tr><td id=\"0-q\">Goal No. 3:</td><td id=\"0-r\">a) Educate Mothers and Children in Basics of Nutrition</td><td id=\"0-s\"></td><td id=\"0-t\">$ 150,000</td><td id=\"0-u\">$ 300,000</td><td id=\"0-v\">WOH Fund</td></tr>\n<tr><td id=\"0-w\">Goal No. 4:</td><td id=\"0-x\">a) Establishment of Regional food testing and evaluation centers</td><td id=\"0-y\"></td><td id=\"0-z\">$ 264,000</td><td id=\"0-A\">$ 420,000</td><td id=\"0-B\">WOH Fund</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\">b) Advisory Consortium of Scientific and Technical Societies</td><td id=\"0-E\"></td><td id=\"0-F\">$ 45,000</td><td id=\"0-G\">$ 75,000</td><td id=\"0-H\">WOH Fund</td></tr>\n<tr><td id=\"0-I\"></td><td id=\"0-J\" colspan=\"2\">c) Research concerned with the develop- ment of new nutritious foods or studies to increase knowledge of nutrition, food technology as. follows:</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\"></td><td id=\"0-O\">1) Development of Protein Food Technology, USDA-ARS</td><td id=\"0-P\">($190,000)</td><td id=\"0-Q\">$ 107,000</td><td id=\"0-R\"></td><td id=\"0-S\">IG Fund</td></tr>\n<tr><td id=\"0-T\"></td><td id=\"0-U\">2) Improving Nutritive Value of Cereal-Based Food, Kansas U.</td><td id=\"0-V\">(280,000)</td><td id=\"0-W\"></td><td id=\"0-X\">$ 290,000</td><td id=\"0-Y\">IG Fund</td></tr>\n<tr><td id=\"0-Z\" rowspan=\"2\">white rectangle with faint texture</td><td id=\"0-10\" rowspan=\"2\">3) Effects of Extrusion Process- ing variables on nutritive, quality of inexpensive food mixtures, U. of Calif. & U. of Chile</td><td id=\"0-11\" rowspan=\"2\">(110,000)</td><td id=\"0-12\">$ 35,000</td><td id=\"0-13\" rowspan=\"2\">$ 35,000</td><td id=\"0-14\" rowspan=\"2\">IG Fund</td></tr>\n<tr><td id=\"0-15\"></td></tr>\n</table>\n\n<a id='bf225708-d589-4b5d-b4c0-81b1be331d4c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nldg0227",
+            "chunks": [
+                "e27c35e9-f1a1-411a-ae3c-e2bca6f5f20b",
+                "c0096a75-f17d-486c-86b5-4186a97e18f0",
+                "bf225708-d589-4b5d-b4c0-81b1be331d4c"
+            ]
+        }
+    ],
+    "grounding": {
+        "e27c35e9-f1a1-411a-ae3c-e2bca6f5f20b": {
+            "box": {
+                "left": 0.3858044147491455,
+                "top": 0.06721405684947968,
+                "right": 0.6399295330047607,
+                "bottom": 0.09783941507339478
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c0096a75-f17d-486c-86b5-4186a97e18f0": {
+            "box": {
+                "left": 0.07531410455703735,
+                "top": 0.12050944566726685,
+                "right": 0.9054102301597595,
+                "bottom": 0.9179492592811584
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.12480936114719687,
+                "right": 0.8987019602715094,
+                "bottom": 0.917927157311837
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.12480936114719687,
+                "right": 0.1796096617919467,
+                "bottom": 0.15692055967446006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.12480936114719687,
+                "right": 0.5233420451685191,
+                "bottom": 0.15692055967446006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5233420451685191,
+                "top": 0.12480936114719687,
+                "right": 0.6204686219852817,
+                "bottom": 0.15692055967446006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.12480936114719687,
+                "right": 0.7167346846490119,
+                "bottom": 0.15692055967446006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.12480936114719687,
+                "right": 0.8165028202351081,
+                "bottom": 0.15692055967446006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.12480936114719687,
+                "right": 0.8986569851470207,
+                "bottom": 0.15692055967446006
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.15692055967446006,
+                "right": 0.1796096617919467,
+                "bottom": 0.2176672727757829
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.15692055967446006,
+                "right": 0.5233420451685191,
+                "bottom": 0.2176672727757829
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5233420451685191,
+                "top": 0.15692055967446006,
+                "right": 0.6204686219852817,
+                "bottom": 0.2176672727757829
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.15692055967446006,
+                "right": 0.7167346846490119,
+                "bottom": 0.2176672727757829
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.15692055967446006,
+                "right": 0.8165028202351081,
+                "bottom": 0.2176672727757829
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.15692055967446006,
+                "right": 0.8986569851470207,
+                "bottom": 0.2176672727757829
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.2176672727757829,
+                "right": 0.1796096617919467,
+                "bottom": 0.29997023559281644
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.2176672727757829,
+                "right": 0.5233420451685191,
+                "bottom": 0.29997023559281644
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5233420451685191,
+                "top": 0.2176672727757829,
+                "right": 0.6204686219852817,
+                "bottom": 0.29997023559281644
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.2176672727757829,
+                "right": 0.7167346846490119,
+                "bottom": 0.29997023559281644
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.2176672727757829,
+                "right": 0.8165028202351081,
+                "bottom": 0.29997023559281644
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.2176672727757829,
+                "right": 0.8986569851470207,
+                "bottom": 0.29997023559281644
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.29997023559281644,
+                "right": 0.1796096617919467,
+                "bottom": 0.395958921996737
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.29997023559281644,
+                "right": 0.5233420451685191,
+                "bottom": 0.395958921996737
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5233420451685191,
+                "top": 0.29997023559281644,
+                "right": 0.6204686219852817,
+                "bottom": 0.395958921996737
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.29997023559281644,
+                "right": 0.7167346846490119,
+                "bottom": 0.395958921996737
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.29997023559281644,
+                "right": 0.8165028202351081,
+                "bottom": 0.395958921996737
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.29997023559281644,
+                "right": 0.8986569851470207,
+                "bottom": 0.395958921996737
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.395958921996737,
+                "right": 0.1796096617919467,
+                "bottom": 0.45685172495630155
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.395958921996737,
+                "right": 0.5233420451685191,
+                "bottom": 0.45685172495630155
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.5233420451685191,
+                "top": 0.395958921996737,
+                "right": 0.6204686219852817,
+                "bottom": 0.45685172495630155
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.395958921996737,
+                "right": 0.7167346846490119,
+                "bottom": 0.45685172495630155
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.395958921996737,
+                "right": 0.8165028202351081,
+                "bottom": 0.45685172495630155
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.395958921996737,
+                "right": 0.8986569851470207,
+                "bottom": 0.45685172495630155
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.45685172495630155,
+                "right": 0.1796096617919467,
+                "bottom": 0.5180084444420103
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.45685172495630155,
+                "right": 0.5233420451685191,
+                "bottom": 0.5180084444420103
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.5233420451685191,
+                "top": 0.45685172495630155,
+                "right": 0.6204686219852817,
+                "bottom": 0.5180084444420103
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.45685172495630155,
+                "right": 0.7167346846490119,
+                "bottom": 0.5180084444420103
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.45685172495630155,
+                "right": 0.8165028202351081,
+                "bottom": 0.5180084444420103
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.45685172495630155,
+                "right": 0.8986569851470207,
+                "bottom": 0.5180084444420103
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.5180084444420103,
+                "right": 0.1796096617919467,
+                "bottom": 0.5774004523879768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.5180084444420103,
+                "right": 0.5233420451685191,
+                "bottom": 0.5774004523879768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.5233420451685191,
+                "top": 0.5180084444420103,
+                "right": 0.6204686219852817,
+                "bottom": 0.5774004523879768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.5180084444420103,
+                "right": 0.7167346846490119,
+                "bottom": 0.5774004523879768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.5180084444420103,
+                "right": 0.8165028202351081,
+                "bottom": 0.5774004523879768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.5180084444420103,
+                "right": 0.8986569851470207,
+                "bottom": 0.5774004523879768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.5774004523879768,
+                "right": 0.1796096617919467,
+                "bottom": 0.6957673827298123
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.5774004523879768,
+                "right": 0.7167346846490119,
+                "bottom": 0.746768366140131
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.5774004523879768,
+                "right": 0.7167346846490119,
+                "bottom": 0.6957673827298123
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.5774004523879768,
+                "right": 0.8165028202351081,
+                "bottom": 0.6957673827298123
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.5774004523879768,
+                "right": 0.8986569851470207,
+                "bottom": 0.6957673827298123
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.6957673827298123,
+                "right": 0.1796096617919467,
+                "bottom": 0.746768366140131
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.6957673827298123,
+                "right": 0.5233420451685191,
+                "bottom": 0.746768366140131
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.5233420451685191,
+                "top": 0.6957673827298123,
+                "right": 0.6204686219852817,
+                "bottom": 0.746768366140131
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.6957673827298123,
+                "right": 0.7167346846490119,
+                "bottom": 0.746768366140131
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.6957673827298123,
+                "right": 0.8165028202351081,
+                "bottom": 0.746768366140131
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.6957673827298123,
+                "right": 0.8986569851470207,
+                "bottom": 0.746768366140131
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.746768366140131,
+                "right": 0.1796096617919467,
+                "bottom": 0.7975819343568276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.746768366140131,
+                "right": 0.5233420451685191,
+                "bottom": 0.7975819343568276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.5233420451685191,
+                "top": 0.746768366140131,
+                "right": 0.6204686219852817,
+                "bottom": 0.7975819343568276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.746768366140131,
+                "right": 0.7167346846490119,
+                "bottom": 0.7975819343568276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.746768366140131,
+                "right": 0.8165028202351081,
+                "bottom": 0.7975819343568276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.746768366140131,
+                "right": 0.8986569851470207,
+                "bottom": 0.7975819343568276
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.08001165217502221,
+                "top": 0.7975819343568276,
+                "right": 0.5233420451685191,
+                "bottom": 0.917927157311837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.1796096617919467,
+                "top": 0.7975819343568276,
+                "right": 0.6204686219852817,
+                "bottom": 0.917927157311837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.5233420451685191,
+                "top": 0.7975819343568276,
+                "right": 0.7167346846490119,
+                "bottom": 0.917927157311837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.7975819343568276,
+                "right": 0.7167346846490119,
+                "bottom": 0.9054038487765155
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.7167346846490119,
+                "top": 0.7975819343568276,
+                "right": 0.8986569851470207,
+                "bottom": 0.917927157311837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.8165028202351081,
+                "top": 0.7975819343568276,
+                "right": 0.8986569851470207,
+                "bottom": 0.917927157311837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.6204686219852817,
+                "top": 0.9054038487765155,
+                "right": 0.7167346846490119,
+                "bottom": 0.917927157311837
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "bf225708-d589-4b5d-b4c0-81b1be331d4c": {
+            "box": {
+                "left": 0.2749154567718506,
+                "top": 0.9719603061676025,
+                "right": 0.7258809804916382,
+                "bottom": 1.0000392198562622
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "nldg0227_14.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 68026,
+        "credit_usage": 3.0,
+        "job_id": "ao3l2qgkrqq9xum8nhrsyij0g",
+        "version": "dpt-2-20250919"
+    }
+}

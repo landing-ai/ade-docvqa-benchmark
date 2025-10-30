@@ -1,0 +1,448 @@
+{
+    "markdown": "<a id='d7a65f5e-b5c8-4e8e-915a-02ad2e09b82f'></a>\n\nThe Environment\n\n<a id='61893340-6bdc-42fc-ab2e-69961c485aa9'></a>\n\nWillingness to take consumer action remains strong\n\n<a id='8ea8223d-cb1a-46a7-99d6-da333960a7b7'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">Yankelovich MONITOR 1990</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\">Smokers</td><td id=\"0-6\">Non-Smokers</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\">%</td><td id=\"0-9\">%</td></tr>\n<tr><td id=\"0-a\">Would be willing to:</td><td id=\"0-b\"></td><td id=\"0-c\"></td></tr>\n<tr><td id=\"0-d\">Spend a few hours a week of my own time to reduce the pollution problem</td><td id=\"0-e\">71</td><td id=\"0-f\">72</td></tr>\n<tr><td id=\"0-g\">Give up convenience products I now enjoy if it meant helping preserve our natural resources</td><td id=\"0-h\">78</td><td id=\"0-i\">79</td></tr>\n<tr><td id=\"0-j\">Pay as much as 10% more for groceries if I could be sure they would not harm the environment</td><td id=\"0-k\">59</td><td id=\"0-l\">65</td></tr>\n<tr><td id=\"0-m\">Boycott manufacturers whose products contribute to pollution</td><td id=\"0-n\">74</td><td id=\"0-o\">78</td></tr>\n<tr><td id=\"0-p\">* Not asked in 1987 and 1988.</td><td id=\"0-q\"></td><td id=\"0-r\"></td></tr>\n</table>\n\n<a id='dc0259c1-e0ef-4584-bd47-f4b6bd127e56'></a>\n\nRJR712/MONITOR/mg/pl\n\n<a id='0530cc64-2cfe-4c0c-a8d7-2851943d37b7'></a>\n\n51336 9897\n\n<a id='cac4c09b-abb4-4deb-a829-cba6f9119b5b'></a>\n\n44",
+    "chunks": [
+        {
+            "markdown": "<a id='d7a65f5e-b5c8-4e8e-915a-02ad2e09b82f'></a>\n\nThe Environment",
+            "type": "text",
+            "id": "d7a65f5e-b5c8-4e8e-915a-02ad2e09b82f",
+            "grounding": {
+                "box": {
+                    "left": 0.05750749260187149,
+                    "top": 0.13453491032123566,
+                    "right": 0.3027716279029846,
+                    "bottom": 0.18200235068798065
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='61893340-6bdc-42fc-ab2e-69961c485aa9'></a>\n\nWillingness to take consumer action remains strong",
+            "type": "text",
+            "id": "61893340-6bdc-42fc-ab2e-69961c485aa9",
+            "grounding": {
+                "box": {
+                    "left": 0.10654398798942566,
+                    "top": 0.2417299449443817,
+                    "right": 0.5870152711868286,
+                    "bottom": 0.283191055059433
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ea8223d-cb1a-46a7-99d6-da333960a7b7'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">Yankelovich MONITOR 1990</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\">Smokers</td><td id=\"0-6\">Non-Smokers</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\">%</td><td id=\"0-9\">%</td></tr>\n<tr><td id=\"0-a\">Would be willing to:</td><td id=\"0-b\"></td><td id=\"0-c\"></td></tr>\n<tr><td id=\"0-d\">Spend a few hours a week of my own time to reduce the pollution problem</td><td id=\"0-e\">71</td><td id=\"0-f\">72</td></tr>\n<tr><td id=\"0-g\">Give up convenience products I now enjoy if it meant helping preserve our natural resources</td><td id=\"0-h\">78</td><td id=\"0-i\">79</td></tr>\n<tr><td id=\"0-j\">Pay as much as 10% more for groceries if I could be sure they would not harm the environment</td><td id=\"0-k\">59</td><td id=\"0-l\">65</td></tr>\n<tr><td id=\"0-m\">Boycott manufacturers whose products contribute to pollution</td><td id=\"0-n\">74</td><td id=\"0-o\">78</td></tr>\n<tr><td id=\"0-p\">* Not asked in 1987 and 1988.</td><td id=\"0-q\"></td><td id=\"0-r\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "8ea8223d-cb1a-46a7-99d6-da333960a7b7",
+            "grounding": {
+                "box": {
+                    "left": 0.05851021409034729,
+                    "top": 0.28875839710235596,
+                    "right": 0.8619694709777832,
+                    "bottom": 0.886319637298584
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dc0259c1-e0ef-4584-bd47-f4b6bd127e56'></a>\n\nRJR712/MONITOR/mg/pl",
+            "type": "marginalia",
+            "id": "dc0259c1-e0ef-4584-bd47-f4b6bd127e56",
+            "grounding": {
+                "box": {
+                    "left": 0.056970953941345215,
+                    "top": 0.9547820687294006,
+                    "right": 0.17690089344978333,
+                    "bottom": 0.9812039732933044
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0530cc64-2cfe-4c0c-a8d7-2851943d37b7'></a>\n\n51336 9897",
+            "type": "marginalia",
+            "id": "0530cc64-2cfe-4c0c-a8d7-2851943d37b7",
+            "grounding": {
+                "box": {
+                    "left": 0.19546028971672058,
+                    "top": 0.9601473212242126,
+                    "right": 0.2987808287143707,
+                    "bottom": 0.9894408583641052
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cac4c09b-abb4-4deb-a829-cba6f9119b5b'></a>\n\n44",
+            "type": "marginalia",
+            "id": "cac4c09b-abb4-4deb-a829-cba6f9119b5b",
+            "grounding": {
+                "box": {
+                    "left": 0.8099127411842346,
+                    "top": 0.9485097527503967,
+                    "right": 0.8413898348808289,
+                    "bottom": 0.9780893921852112
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d7a65f5e-b5c8-4e8e-915a-02ad2e09b82f'></a>\n\nThe Environment\n\n<a id='61893340-6bdc-42fc-ab2e-69961c485aa9'></a>\n\nWillingness to take consumer action remains strong\n\n<a id='8ea8223d-cb1a-46a7-99d6-da333960a7b7'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">Yankelovich MONITOR 1990</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\">Smokers</td><td id=\"0-6\">Non-Smokers</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\">%</td><td id=\"0-9\">%</td></tr>\n<tr><td id=\"0-a\">Would be willing to:</td><td id=\"0-b\"></td><td id=\"0-c\"></td></tr>\n<tr><td id=\"0-d\">Spend a few hours a week of my own time to reduce the pollution problem</td><td id=\"0-e\">71</td><td id=\"0-f\">72</td></tr>\n<tr><td id=\"0-g\">Give up convenience products I now enjoy if it meant helping preserve our natural resources</td><td id=\"0-h\">78</td><td id=\"0-i\">79</td></tr>\n<tr><td id=\"0-j\">Pay as much as 10% more for groceries if I could be sure they would not harm the environment</td><td id=\"0-k\">59</td><td id=\"0-l\">65</td></tr>\n<tr><td id=\"0-m\">Boycott manufacturers whose products contribute to pollution</td><td id=\"0-n\">74</td><td id=\"0-o\">78</td></tr>\n<tr><td id=\"0-p\">* Not asked in 1987 and 1988.</td><td id=\"0-q\"></td><td id=\"0-r\"></td></tr>\n</table>\n\n<a id='dc0259c1-e0ef-4584-bd47-f4b6bd127e56'></a>\n\nRJR712/MONITOR/mg/pl\n\n<a id='0530cc64-2cfe-4c0c-a8d7-2851943d37b7'></a>\n\n51336 9897\n\n<a id='cac4c09b-abb4-4deb-a829-cba6f9119b5b'></a>\n\n44",
+            "chunks": [
+                "d7a65f5e-b5c8-4e8e-915a-02ad2e09b82f",
+                "61893340-6bdc-42fc-ab2e-69961c485aa9",
+                "8ea8223d-cb1a-46a7-99d6-da333960a7b7",
+                "dc0259c1-e0ef-4584-bd47-f4b6bd127e56",
+                "0530cc64-2cfe-4c0c-a8d7-2851943d37b7",
+                "cac4c09b-abb4-4deb-a829-cba6f9119b5b"
+            ]
+        }
+    ],
+    "grounding": {
+        "d7a65f5e-b5c8-4e8e-915a-02ad2e09b82f": {
+            "box": {
+                "left": 0.05750749260187149,
+                "top": 0.13453491032123566,
+                "right": 0.3027716279029846,
+                "bottom": 0.18200235068798065
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "61893340-6bdc-42fc-ab2e-69961c485aa9": {
+            "box": {
+                "left": 0.10654398798942566,
+                "top": 0.2417299449443817,
+                "right": 0.5870152711868286,
+                "bottom": 0.283191055059433
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8ea8223d-cb1a-46a7-99d6-da333960a7b7": {
+            "box": {
+                "left": 0.05851021409034729,
+                "top": 0.28875839710235596,
+                "right": 0.8619694709777832,
+                "bottom": 0.886319637298584
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.06092270521102764,
+                "top": 0.29264673056952256,
+                "right": 0.8563238739122934,
+                "bottom": 0.8862898255134795
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.06092270521102764,
+                "top": 0.29264673056952256,
+                "right": 0.4315391599131493,
+                "bottom": 0.32135702313970604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.4315391599131493,
+                "top": 0.29264673056952256,
+                "right": 0.8558979889995939,
+                "bottom": 0.3859448788736106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.06092270521102764,
+                "top": 0.32135702313970604,
+                "right": 0.4315391599131493,
+                "bottom": 0.3859448788736106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.4315391599131493,
+                "top": 0.32135702313970604,
+                "right": 0.6554981378517706,
+                "bottom": 0.3859448788736106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6554981378517706,
+                "top": 0.32135702313970604,
+                "right": 0.8558979889995939,
+                "bottom": 0.3859448788736106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.06092270521102764,
+                "top": 0.3859448788736106,
+                "right": 0.4315391599131493,
+                "bottom": 0.4146049121956068
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.4315391599131493,
+                "top": 0.3859448788736106,
+                "right": 0.6554981378517706,
+                "bottom": 0.4146049121956068
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6554981378517706,
+                "top": 0.3859448788736106,
+                "right": 0.8558979889995939,
+                "bottom": 0.4146049121956068
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.06092270521102764,
+                "top": 0.4146049121956068,
+                "right": 0.4315391599131493,
+                "bottom": 0.4617811182617473
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.4315391599131493,
+                "top": 0.4146049121956068,
+                "right": 0.6554981378517706,
+                "bottom": 0.4617811182617473
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.6554981378517706,
+                "top": 0.4146049121956068,
+                "right": 0.8558979889995939,
+                "bottom": 0.4617811182617473
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.06092270521102764,
+                "top": 0.4617811182617473,
+                "right": 0.4315391599131493,
+                "bottom": 0.530208105050427
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.4315391599131493,
+                "top": 0.4617811182617473,
+                "right": 0.6554981378517706,
+                "bottom": 0.530208105050427
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.6554981378517706,
+                "top": 0.4617811182617473,
+                "right": 0.8558979889995939,
+                "bottom": 0.530208105050427
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.06092270521102764,
+                "top": 0.530208105050427,
+                "right": 0.4315391599131493,
+                "bottom": 0.6251471361799261
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.4315391599131493,
+                "top": 0.530208105050427,
+                "right": 0.6554981378517706,
+                "bottom": 0.6251471361799261
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.6554981378517706,
+                "top": 0.530208105050427,
+                "right": 0.8558979889995939,
+                "bottom": 0.6251471361799261
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.06092270521102764,
+                "top": 0.6251471361799261,
+                "right": 0.4315391599131493,
+                "bottom": 0.7264896461445716
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.4315391599131493,
+                "top": 0.6251471361799261,
+                "right": 0.6554981378517706,
+                "bottom": 0.7264896461445716
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6554981378517706,
+                "top": 0.6251471361799261,
+                "right": 0.8558979889995939,
+                "bottom": 0.7264896461445716
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.06092270521102764,
+                "top": 0.7264896461445716,
+                "right": 0.4315391599131493,
+                "bottom": 0.7994116232603261
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.4315391599131493,
+                "top": 0.7264896461445716,
+                "right": 0.6554981378517706,
+                "bottom": 0.7994116232603261
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.6554981378517706,
+                "top": 0.7264896461445716,
+                "right": 0.8558979889995939,
+                "bottom": 0.7994116232603261
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.06092270521102764,
+                "top": 0.7994116232603261,
+                "right": 0.4315391599131493,
+                "bottom": 0.8862898255134795
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.4315391599131493,
+                "top": 0.7994116232603261,
+                "right": 0.6554981378517706,
+                "bottom": 0.8862898255134795
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.6554981378517706,
+                "top": 0.7994116232603261,
+                "right": 0.8558979889995939,
+                "bottom": 0.8862898255134795
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "dc0259c1-e0ef-4584-bd47-f4b6bd127e56": {
+            "box": {
+                "left": 0.056970953941345215,
+                "top": 0.9547820687294006,
+                "right": 0.17690089344978333,
+                "bottom": 0.9812039732933044
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "0530cc64-2cfe-4c0c-a8d7-2851943d37b7": {
+            "box": {
+                "left": 0.19546028971672058,
+                "top": 0.9601473212242126,
+                "right": 0.2987808287143707,
+                "bottom": 0.9894408583641052
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "cac4c09b-abb4-4deb-a829-cba6f9119b5b": {
+            "box": {
+                "left": 0.8099127411842346,
+                "top": 0.9485097527503967,
+                "right": 0.8413898348808289,
+                "bottom": 0.9780893921852112
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "psyn0081_45.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7490,
+        "credit_usage": 3.0,
+        "job_id": "cfkbbtjoobjtbzp96dl0jqll6",
+        "version": "dpt-2-20250919"
+    }
+}

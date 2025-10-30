@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='98c5fa41-f7fd-470d-827c-4692118c6fe1'></a>\n\nThe Environment\n\n<a id='e7d2be07-a07a-415c-8f86-802d1b30a1c8'></a>\n\n* Rapidly growing interest in nature and the simple life\n\n<a id='5f4f683c-70aa-44af-a0e0-7af0ca01a831'></a>\n\nYankelovich MONITOR 1990\n\n<table><thead><tr><th>Smokers<br>%</th><th>Non<br>Smokers<br>%</th></tr></thead><tbody><tr><td>64</td><td>60</td></tr><tr><td>60</td><td>57</td></tr></tbody></table>\n\n<a id='3e7d0014-ce8d-4ea6-9cf0-0c54fa979531'></a>\n\nWe should return to more natural ways even\nif it means giving up modern conveniences\n\n<a id='bc317470-0cc7-4cd4-929a-aebf590af1ac'></a>\n\nMore and more I find I dream of moving way\nout into the country to be closer to nature\n\n60\n\n<a id='cdce0cb5-ad64-4f67-9d0e-bbbe89765be1'></a>\n\n* Not asked in 1988 and 1989.\n\n<a id='51258a08-6142-48f0-a77a-16ea8945e6f8'></a>\n\nRJR712/MONITOR/mg/p\n\n<a id='1fb8d452-53bd-44fc-b55e-5a518473df20'></a>\n\n51336 9899\n\n<a id='77e898bb-212f-443c-999f-9414b8aa3bea'></a>\n\n46",
+    "chunks": [
+        {
+            "markdown": "<a id='98c5fa41-f7fd-470d-827c-4692118c6fe1'></a>\n\nThe Environment",
+            "type": "text",
+            "id": "98c5fa41-f7fd-470d-827c-4692118c6fe1",
+            "grounding": {
+                "box": {
+                    "left": 0.05694900453090668,
+                    "top": 0.13669662177562714,
+                    "right": 0.3004247546195984,
+                    "bottom": 0.18311931192874908
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e7d2be07-a07a-415c-8f86-802d1b30a1c8'></a>\n\n* Rapidly growing interest in nature and the simple life",
+            "type": "text",
+            "id": "e7d2be07-a07a-415c-8f86-802d1b30a1c8",
+            "grounding": {
+                "box": {
+                    "left": 0.10419139266014099,
+                    "top": 0.24126239120960236,
+                    "right": 0.5932948589324951,
+                    "bottom": 0.28579849004745483
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5f4f683c-70aa-44af-a0e0-7af0ca01a831'></a>\n\nYankelovich MONITOR 1990\n\n<table><thead><tr><th>Smokers<br>%</th><th>Non<br>Smokers<br>%</th></tr></thead><tbody><tr><td>64</td><td>60</td></tr><tr><td>60</td><td>57</td></tr></tbody></table>",
+            "type": "table",
+            "id": "5f4f683c-70aa-44af-a0e0-7af0ca01a831",
+            "grounding": {
+                "box": {
+                    "left": 0.5739192366600037,
+                    "top": 0.2967682480812073,
+                    "right": 0.8545926213264465,
+                    "bottom": 0.5898374319076538
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3e7d0014-ce8d-4ea6-9cf0-0c54fa979531'></a>\n\nWe should return to more natural ways even\nif it means giving up modern conveniences",
+            "type": "text",
+            "id": "3e7d0014-ce8d-4ea6-9cf0-0c54fa979531",
+            "grounding": {
+                "box": {
+                    "left": 0.05447724461555481,
+                    "top": 0.4343361556529999,
+                    "right": 0.4285777807235718,
+                    "bottom": 0.5044227838516235
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bc317470-0cc7-4cd4-929a-aebf590af1ac'></a>\n\nMore and more I find I dream of moving way\nout into the country to be closer to nature\n\n60",
+            "type": "text",
+            "id": "bc317470-0cc7-4cd4-929a-aebf590af1ac",
+            "grounding": {
+                "box": {
+                    "left": 0.05385482311248779,
+                    "top": 0.5188212990760803,
+                    "right": 0.6411471366882324,
+                    "bottom": 0.5922343134880066
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cdce0cb5-ad64-4f67-9d0e-bbbe89765be1'></a>\n\n* Not asked in 1988 and 1989.",
+            "type": "text",
+            "id": "cdce0cb5-ad64-4f67-9d0e-bbbe89765be1",
+            "grounding": {
+                "box": {
+                    "left": 0.08086427301168442,
+                    "top": 0.8383480310440063,
+                    "right": 0.3069640100002289,
+                    "bottom": 0.8727014064788818
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='51258a08-6142-48f0-a77a-16ea8945e6f8'></a>\n\nRJR712/MONITOR/mg/p",
+            "type": "marginalia",
+            "id": "51258a08-6142-48f0-a77a-16ea8945e6f8",
+            "grounding": {
+                "box": {
+                    "left": 0.05665469542145729,
+                    "top": 0.9572829604148865,
+                    "right": 0.17028792202472687,
+                    "bottom": 0.9800224900245667
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1fb8d452-53bd-44fc-b55e-5a518473df20'></a>\n\n51336 9899",
+            "type": "marginalia",
+            "id": "1fb8d452-53bd-44fc-b55e-5a518473df20",
+            "grounding": {
+                "box": {
+                    "left": 0.18432757258415222,
+                    "top": 0.9631624817848206,
+                    "right": 0.2830882966518402,
+                    "bottom": 0.9902728199958801
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='77e898bb-212f-443c-999f-9414b8aa3bea'></a>\n\n46",
+            "type": "marginalia",
+            "id": "77e898bb-212f-443c-999f-9414b8aa3bea",
+            "grounding": {
+                "box": {
+                    "left": 0.8089550137519836,
+                    "top": 0.9499194025993347,
+                    "right": 0.8364256024360657,
+                    "bottom": 0.979442298412323
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='98c5fa41-f7fd-470d-827c-4692118c6fe1'></a>\n\nThe Environment\n\n<a id='e7d2be07-a07a-415c-8f86-802d1b30a1c8'></a>\n\n* Rapidly growing interest in nature and the simple life\n\n<a id='5f4f683c-70aa-44af-a0e0-7af0ca01a831'></a>\n\nYankelovich MONITOR 1990\n\n<table><thead><tr><th>Smokers<br>%</th><th>Non<br>Smokers<br>%</th></tr></thead><tbody><tr><td>64</td><td>60</td></tr><tr><td>60</td><td>57</td></tr></tbody></table>\n\n<a id='3e7d0014-ce8d-4ea6-9cf0-0c54fa979531'></a>\n\nWe should return to more natural ways even\nif it means giving up modern conveniences\n\n<a id='bc317470-0cc7-4cd4-929a-aebf590af1ac'></a>\n\nMore and more I find I dream of moving way\nout into the country to be closer to nature\n\n60\n\n<a id='cdce0cb5-ad64-4f67-9d0e-bbbe89765be1'></a>\n\n* Not asked in 1988 and 1989.\n\n<a id='51258a08-6142-48f0-a77a-16ea8945e6f8'></a>\n\nRJR712/MONITOR/mg/p\n\n<a id='1fb8d452-53bd-44fc-b55e-5a518473df20'></a>\n\n51336 9899\n\n<a id='77e898bb-212f-443c-999f-9414b8aa3bea'></a>\n\n46",
+            "chunks": [
+                "98c5fa41-f7fd-470d-827c-4692118c6fe1",
+                "e7d2be07-a07a-415c-8f86-802d1b30a1c8",
+                "5f4f683c-70aa-44af-a0e0-7af0ca01a831",
+                "3e7d0014-ce8d-4ea6-9cf0-0c54fa979531",
+                "bc317470-0cc7-4cd4-929a-aebf590af1ac",
+                "cdce0cb5-ad64-4f67-9d0e-bbbe89765be1",
+                "51258a08-6142-48f0-a77a-16ea8945e6f8",
+                "1fb8d452-53bd-44fc-b55e-5a518473df20",
+                "77e898bb-212f-443c-999f-9414b8aa3bea"
+            ]
+        }
+    ],
+    "grounding": {
+        "98c5fa41-f7fd-470d-827c-4692118c6fe1": {
+            "box": {
+                "left": 0.05694900453090668,
+                "top": 0.13669662177562714,
+                "right": 0.3004247546195984,
+                "bottom": 0.18311931192874908
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e7d2be07-a07a-415c-8f86-802d1b30a1c8": {
+            "box": {
+                "left": 0.10419139266014099,
+                "top": 0.24126239120960236,
+                "right": 0.5932948589324951,
+                "bottom": 0.28579849004745483
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5f4f683c-70aa-44af-a0e0-7af0ca01a831": {
+            "box": {
+                "left": 0.5739192366600037,
+                "top": 0.2967682480812073,
+                "right": 0.8545926213264465,
+                "bottom": 0.5898374319076538
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "3e7d0014-ce8d-4ea6-9cf0-0c54fa979531": {
+            "box": {
+                "left": 0.05447724461555481,
+                "top": 0.4343361556529999,
+                "right": 0.4285777807235718,
+                "bottom": 0.5044227838516235
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bc317470-0cc7-4cd4-929a-aebf590af1ac": {
+            "box": {
+                "left": 0.05385482311248779,
+                "top": 0.5188212990760803,
+                "right": 0.6411471366882324,
+                "bottom": 0.5922343134880066
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cdce0cb5-ad64-4f67-9d0e-bbbe89765be1": {
+            "box": {
+                "left": 0.08086427301168442,
+                "top": 0.8383480310440063,
+                "right": 0.3069640100002289,
+                "bottom": 0.8727014064788818
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "51258a08-6142-48f0-a77a-16ea8945e6f8": {
+            "box": {
+                "left": 0.05665469542145729,
+                "top": 0.9572829604148865,
+                "right": 0.17028792202472687,
+                "bottom": 0.9800224900245667
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "1fb8d452-53bd-44fc-b55e-5a518473df20": {
+            "box": {
+                "left": 0.18432757258415222,
+                "top": 0.9631624817848206,
+                "right": 0.2830882966518402,
+                "bottom": 0.9902728199958801
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "77e898bb-212f-443c-999f-9414b8aa3bea": {
+            "box": {
+                "left": 0.8089550137519836,
+                "top": 0.9499194025993347,
+                "right": 0.8364256024360657,
+                "bottom": 0.979442298412323
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "psyn0081_47.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7194,
+        "credit_usage": 3.0,
+        "job_id": "c70giokk12fu4s2t3agn01g0a",
+        "version": "dpt-2-20250919"
+    }
+}

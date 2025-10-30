@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='e200e90b-5eef-4130-a7f6-675cf7f056af'></a>\n\n<::chart: Two line charts showing head circumferences (cm) versus age (months) for boys and girls.::>\n<::chart: Chart 1: Boys::>\n<::chart: Y-axis: Head circumference (cm) from 34 to 50.::>\n<::chart: X-axis: Age (mos) in ranges: 0-5, 6-11, 12-17, 18-23, 24-29, 30-35, 36-41, 42-47, 48-53, 54-59, 60+.::>\n<::chart: Legend:\n- Solid line with dots: TOTAL GROUP\n- Dashed line with dots: MALNOURISHED (Marasmus, Prekwashiorkor, Kwashiorkor)::>\n<::chart: Data points for Boys:\n- TOTAL GROUP (solid line):\n  - 0-5 mos: 38.5 cm\n  - 6-11 mos: 42 cm\n  - 12-17 mos: 44 cm\n  - 18-23 mos: 45.5 cm\n  - 24-29 mos: 46.5 cm\n  - 30-35 mos: 47 cm\n  - 36-41 mos: 48 cm\n  - 42-47 mos: 48.5 cm\n  - 48-53 mos: 49 cm\n  - 54-59 mos: 49.5 cm\n  - 60+ mos: 50 cm\n- MALNOURISHED (dashed line):\n  - 0-5 mos: 37 cm\n  - 6-11 mos: 40 cm\n  - 12-17 mos: 42.5 cm\n  - 18-23 mos: 44 cm\n  - 24-29 mos: 45 cm\n  - 30-35 mos: 45.5 cm\n  - 36-41 mos: 46 cm\n  - 42-47 mos: 46.5 cm\n  - 48-53 mos: 47 cm\n  - 54-59 mos: 48 cm\n  - 60+ mos: 48.5 cm::>\n<::chart: Chart 2: Girls::>\n<::chart: Y-axis: Head circumference (cm) from 38 to 54.::>\n<::chart: X-axis: Age (mos) in ranges: 0-5, 6-11, 12-17, 18-23, 24-29, 30-35, 36-41, 42-47, 48-53, 54-59, 60+.::>\n<::chart: Legend:\n- Solid line with dots: TOTAL GROUP (Marasmus, Prekwashiorkor, Kwashiorkor)\n- Dashed line with dots: MALNOURISHED::>\n<::chart: Data points for Girls:\n- TOTAL GROUP (solid line):\n  - 0-5 mos: 38 cm\n  - 6-11 mos: 41.5 cm\n  - 12-17 mos: 43.5 cm\n  - 18-23 mos: 45 cm\n  - 24-29 mos: 46 cm\n  - 30-35 mos: 47 cm\n  - 36-41 mos: 48 cm\n  - 42-47 mos: 48.5 cm\n  - 48-53 mos: 49 cm\n  - 54-59 mos: 49.5 cm\n  - 60+ mos: 50.5 cm\n- MALNOURISHED (dashed line):\n  - 0-5 mos: 37 cm\n  - 6-11 mos: 40 cm\n  - 12-17 mos: 42 cm\n  - 18-23 mos: 43.5 cm\n  - 24-29 mos: 44.5 cm\n  - 30-35 mos: 45.5 cm\n  - 36-41 mos: 46 cm\n  - 42-47 mos: 47 cm\n  - 48-53 mos: 47.5 cm\n  - 54-59 mos: 48 cm\n  - 60+ mos: 48.5 cm::>\nFIGURE 27 HEAD CIRCUMFERENCES OF MALNOURISHED CHILDREN\nCOMPARED TO TOTAL GROUP, JORDAN PEDIATRIC STUDY\n98\n\n<a id='d423b075-92e4-4675-837b-d8d681af6be1'></a>\n\n<::chart: Line graph showing head circumference by sex and age for malnourished children compared with the total group. The Y-axis represents head circumference, with values from 34 to 52. The X-axis represents AGE (mos) with categories: 0-5, 6-11, 12-17, 18-23, 24-29, 30-35, 36-41, 42-47, 48-53, 54-59, 60+. The legend indicates four lines:\n- Solid line with filled circles: BOYS (part of TOTAL GROUP)\n- Dashed line with open circles: GIRLS (part of TOTAL GROUP)\n- Dash-dot line with filled circles: MALNOURISHED BOYS\n- Dotted line with open circles: MALNOURISHED GIRLS\nAnnotations include (2) near the end of the BOYS and GIRLS lines, (2) near the MALNOURISHED BOYS line, and (7) near the MALNOURISHED GIRLS line. An isolated open circle with (2) above it is also present at the top of the chart.::>\n\nFIGURE 28 HEAD CIRCUMFERENCE BY SEX AND AGE, MALNOURISHED CHILDREN (MARASMUS, PREKWASHIORKOR AND KWASHIORKOR) COMPARED WITH TOTAL GROUP, JORDAN\n\n<a id='ebcafbc2-a5bd-43c7-83e1-1be7e90a06ed'></a>\n\n99\n\n<a id='91d7e2fe-8b92-456a-87ae-a8f77e55f1d7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pyyc0227",
+    "chunks": [
+        {
+            "markdown": "<a id='e200e90b-5eef-4130-a7f6-675cf7f056af'></a>\n\n<::chart: Two line charts showing head circumferences (cm) versus age (months) for boys and girls.::>\n<::chart: Chart 1: Boys::>\n<::chart: Y-axis: Head circumference (cm) from 34 to 50.::>\n<::chart: X-axis: Age (mos) in ranges: 0-5, 6-11, 12-17, 18-23, 24-29, 30-35, 36-41, 42-47, 48-53, 54-59, 60+.::>\n<::chart: Legend:\n- Solid line with dots: TOTAL GROUP\n- Dashed line with dots: MALNOURISHED (Marasmus, Prekwashiorkor, Kwashiorkor)::>\n<::chart: Data points for Boys:\n- TOTAL GROUP (solid line):\n  - 0-5 mos: 38.5 cm\n  - 6-11 mos: 42 cm\n  - 12-17 mos: 44 cm\n  - 18-23 mos: 45.5 cm\n  - 24-29 mos: 46.5 cm\n  - 30-35 mos: 47 cm\n  - 36-41 mos: 48 cm\n  - 42-47 mos: 48.5 cm\n  - 48-53 mos: 49 cm\n  - 54-59 mos: 49.5 cm\n  - 60+ mos: 50 cm\n- MALNOURISHED (dashed line):\n  - 0-5 mos: 37 cm\n  - 6-11 mos: 40 cm\n  - 12-17 mos: 42.5 cm\n  - 18-23 mos: 44 cm\n  - 24-29 mos: 45 cm\n  - 30-35 mos: 45.5 cm\n  - 36-41 mos: 46 cm\n  - 42-47 mos: 46.5 cm\n  - 48-53 mos: 47 cm\n  - 54-59 mos: 48 cm\n  - 60+ mos: 48.5 cm::>\n<::chart: Chart 2: Girls::>\n<::chart: Y-axis: Head circumference (cm) from 38 to 54.::>\n<::chart: X-axis: Age (mos) in ranges: 0-5, 6-11, 12-17, 18-23, 24-29, 30-35, 36-41, 42-47, 48-53, 54-59, 60+.::>\n<::chart: Legend:\n- Solid line with dots: TOTAL GROUP (Marasmus, Prekwashiorkor, Kwashiorkor)\n- Dashed line with dots: MALNOURISHED::>\n<::chart: Data points for Girls:\n- TOTAL GROUP (solid line):\n  - 0-5 mos: 38 cm\n  - 6-11 mos: 41.5 cm\n  - 12-17 mos: 43.5 cm\n  - 18-23 mos: 45 cm\n  - 24-29 mos: 46 cm\n  - 30-35 mos: 47 cm\n  - 36-41 mos: 48 cm\n  - 42-47 mos: 48.5 cm\n  - 48-53 mos: 49 cm\n  - 54-59 mos: 49.5 cm\n  - 60+ mos: 50.5 cm\n- MALNOURISHED (dashed line):\n  - 0-5 mos: 37 cm\n  - 6-11 mos: 40 cm\n  - 12-17 mos: 42 cm\n  - 18-23 mos: 43.5 cm\n  - 24-29 mos: 44.5 cm\n  - 30-35 mos: 45.5 cm\n  - 36-41 mos: 46 cm\n  - 42-47 mos: 47 cm\n  - 48-53 mos: 47.5 cm\n  - 54-59 mos: 48 cm\n  - 60+ mos: 48.5 cm::>\nFIGURE 27 HEAD CIRCUMFERENCES OF MALNOURISHED CHILDREN\nCOMPARED TO TOTAL GROUP, JORDAN PEDIATRIC STUDY\n98",
+            "type": "figure",
+            "id": "e200e90b-5eef-4130-a7f6-675cf7f056af",
+            "grounding": {
+                "box": {
+                    "left": 0.035311684012413025,
+                    "top": 0.015580236911773682,
+                    "right": 0.5004249215126038,
+                    "bottom": 0.9648435711860657
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d423b075-92e4-4675-837b-d8d681af6be1'></a>\n\n<::chart: Line graph showing head circumference by sex and age for malnourished children compared with the total group. The Y-axis represents head circumference, with values from 34 to 52. The X-axis represents AGE (mos) with categories: 0-5, 6-11, 12-17, 18-23, 24-29, 30-35, 36-41, 42-47, 48-53, 54-59, 60+. The legend indicates four lines:\n- Solid line with filled circles: BOYS (part of TOTAL GROUP)\n- Dashed line with open circles: GIRLS (part of TOTAL GROUP)\n- Dash-dot line with filled circles: MALNOURISHED BOYS\n- Dotted line with open circles: MALNOURISHED GIRLS\nAnnotations include (2) near the end of the BOYS and GIRLS lines, (2) near the MALNOURISHED BOYS line, and (7) near the MALNOURISHED GIRLS line. An isolated open circle with (2) above it is also present at the top of the chart.::>\n\nFIGURE 28 HEAD CIRCUMFERENCE BY SEX AND AGE, MALNOURISHED CHILDREN (MARASMUS, PREKWASHIORKOR AND KWASHIORKOR) COMPARED WITH TOTAL GROUP, JORDAN",
+            "type": "figure",
+            "id": "d423b075-92e4-4675-837b-d8d681af6be1",
+            "grounding": {
+                "box": {
+                    "left": 0.5492100715637207,
+                    "top": 0.15398672223091125,
+                    "right": 0.9480080604553223,
+                    "bottom": 0.7930612564086914
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ebcafbc2-a5bd-43c7-83e1-1be7e90a06ed'></a>\n\n99",
+            "type": "marginalia",
+            "id": "ebcafbc2-a5bd-43c7-83e1-1be7e90a06ed",
+            "grounding": {
+                "box": {
+                    "left": 0.7543790340423584,
+                    "top": 0.9144600629806519,
+                    "right": 0.7693731784820557,
+                    "bottom": 0.9353982210159302
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='91d7e2fe-8b92-456a-87ae-a8f77e55f1d7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pyyc0227",
+            "type": "marginalia",
+            "id": "91d7e2fe-8b92-456a-87ae-a8f77e55f1d7",
+            "grounding": {
+                "box": {
+                    "left": 0.3441711664199829,
+                    "top": 0.9768500924110413,
+                    "right": 0.6576193571090698,
+                    "bottom": 1.0002135038375854
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e200e90b-5eef-4130-a7f6-675cf7f056af'></a>\n\n<::chart: Two line charts showing head circumferences (cm) versus age (months) for boys and girls.::>\n<::chart: Chart 1: Boys::>\n<::chart: Y-axis: Head circumference (cm) from 34 to 50.::>\n<::chart: X-axis: Age (mos) in ranges: 0-5, 6-11, 12-17, 18-23, 24-29, 30-35, 36-41, 42-47, 48-53, 54-59, 60+.::>\n<::chart: Legend:\n- Solid line with dots: TOTAL GROUP\n- Dashed line with dots: MALNOURISHED (Marasmus, Prekwashiorkor, Kwashiorkor)::>\n<::chart: Data points for Boys:\n- TOTAL GROUP (solid line):\n  - 0-5 mos: 38.5 cm\n  - 6-11 mos: 42 cm\n  - 12-17 mos: 44 cm\n  - 18-23 mos: 45.5 cm\n  - 24-29 mos: 46.5 cm\n  - 30-35 mos: 47 cm\n  - 36-41 mos: 48 cm\n  - 42-47 mos: 48.5 cm\n  - 48-53 mos: 49 cm\n  - 54-59 mos: 49.5 cm\n  - 60+ mos: 50 cm\n- MALNOURISHED (dashed line):\n  - 0-5 mos: 37 cm\n  - 6-11 mos: 40 cm\n  - 12-17 mos: 42.5 cm\n  - 18-23 mos: 44 cm\n  - 24-29 mos: 45 cm\n  - 30-35 mos: 45.5 cm\n  - 36-41 mos: 46 cm\n  - 42-47 mos: 46.5 cm\n  - 48-53 mos: 47 cm\n  - 54-59 mos: 48 cm\n  - 60+ mos: 48.5 cm::>\n<::chart: Chart 2: Girls::>\n<::chart: Y-axis: Head circumference (cm) from 38 to 54.::>\n<::chart: X-axis: Age (mos) in ranges: 0-5, 6-11, 12-17, 18-23, 24-29, 30-35, 36-41, 42-47, 48-53, 54-59, 60+.::>\n<::chart: Legend:\n- Solid line with dots: TOTAL GROUP (Marasmus, Prekwashiorkor, Kwashiorkor)\n- Dashed line with dots: MALNOURISHED::>\n<::chart: Data points for Girls:\n- TOTAL GROUP (solid line):\n  - 0-5 mos: 38 cm\n  - 6-11 mos: 41.5 cm\n  - 12-17 mos: 43.5 cm\n  - 18-23 mos: 45 cm\n  - 24-29 mos: 46 cm\n  - 30-35 mos: 47 cm\n  - 36-41 mos: 48 cm\n  - 42-47 mos: 48.5 cm\n  - 48-53 mos: 49 cm\n  - 54-59 mos: 49.5 cm\n  - 60+ mos: 50.5 cm\n- MALNOURISHED (dashed line):\n  - 0-5 mos: 37 cm\n  - 6-11 mos: 40 cm\n  - 12-17 mos: 42 cm\n  - 18-23 mos: 43.5 cm\n  - 24-29 mos: 44.5 cm\n  - 30-35 mos: 45.5 cm\n  - 36-41 mos: 46 cm\n  - 42-47 mos: 47 cm\n  - 48-53 mos: 47.5 cm\n  - 54-59 mos: 48 cm\n  - 60+ mos: 48.5 cm::>\nFIGURE 27 HEAD CIRCUMFERENCES OF MALNOURISHED CHILDREN\nCOMPARED TO TOTAL GROUP, JORDAN PEDIATRIC STUDY\n98\n\n<a id='d423b075-92e4-4675-837b-d8d681af6be1'></a>\n\n<::chart: Line graph showing head circumference by sex and age for malnourished children compared with the total group. The Y-axis represents head circumference, with values from 34 to 52. The X-axis represents AGE (mos) with categories: 0-5, 6-11, 12-17, 18-23, 24-29, 30-35, 36-41, 42-47, 48-53, 54-59, 60+. The legend indicates four lines:\n- Solid line with filled circles: BOYS (part of TOTAL GROUP)\n- Dashed line with open circles: GIRLS (part of TOTAL GROUP)\n- Dash-dot line with filled circles: MALNOURISHED BOYS\n- Dotted line with open circles: MALNOURISHED GIRLS\nAnnotations include (2) near the end of the BOYS and GIRLS lines, (2) near the MALNOURISHED BOYS line, and (7) near the MALNOURISHED GIRLS line. An isolated open circle with (2) above it is also present at the top of the chart.::>\n\nFIGURE 28 HEAD CIRCUMFERENCE BY SEX AND AGE, MALNOURISHED CHILDREN (MARASMUS, PREKWASHIORKOR AND KWASHIORKOR) COMPARED WITH TOTAL GROUP, JORDAN\n\n<a id='ebcafbc2-a5bd-43c7-83e1-1be7e90a06ed'></a>\n\n99\n\n<a id='91d7e2fe-8b92-456a-87ae-a8f77e55f1d7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pyyc0227",
+            "chunks": [
+                "e200e90b-5eef-4130-a7f6-675cf7f056af",
+                "d423b075-92e4-4675-837b-d8d681af6be1",
+                "ebcafbc2-a5bd-43c7-83e1-1be7e90a06ed",
+                "91d7e2fe-8b92-456a-87ae-a8f77e55f1d7"
+            ]
+        }
+    ],
+    "grounding": {
+        "e200e90b-5eef-4130-a7f6-675cf7f056af": {
+            "box": {
+                "left": 0.035311684012413025,
+                "top": 0.015580236911773682,
+                "right": 0.5004249215126038,
+                "bottom": 0.9648435711860657
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "d423b075-92e4-4675-837b-d8d681af6be1": {
+            "box": {
+                "left": 0.5492100715637207,
+                "top": 0.15398672223091125,
+                "right": 0.9480080604553223,
+                "bottom": 0.7930612564086914
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "ebcafbc2-a5bd-43c7-83e1-1be7e90a06ed": {
+            "box": {
+                "left": 0.7543790340423584,
+                "top": 0.9144600629806519,
+                "right": 0.7693731784820557,
+                "bottom": 0.9353982210159302
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "91d7e2fe-8b92-456a-87ae-a8f77e55f1d7": {
+            "box": {
+                "left": 0.3441711664199829,
+                "top": 0.9768500924110413,
+                "right": 0.6576193571090698,
+                "bottom": 1.0002135038375854
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "pyyc0227_52.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 15847,
+        "credit_usage": 3.0,
+        "job_id": "jjm6xfolta7o93243j9w1lwqv",
+        "version": "dpt-2-20250919"
+    }
+}

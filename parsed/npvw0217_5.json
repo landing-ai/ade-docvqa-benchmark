@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='66b424a7-b7b4-40cd-8eae-dca3dce9b9d7'></a>\n\n<::Subjects Signed Consent (signed consent form) N=103\n: flowchart\n  - study Subjects Enrolled drug N=100\n    - Subject with baseline angiogram n=81\n      - IVUS N=63\n      - No IVUS 18 All SVG occluded or diseased\n    - Subject refused to continue in study N=19 (Table 2)\n  - Protocol violation N=3 (Table 1)\n::>\n\n<a id='27513529-ecdd-4d07-bd08-911295636e69'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/npvw0217\n\n<a id='0a0f24cb-90e0-4321-92a1-d105f7d92536'></a>\n\nDWRITE 045517",
+    "chunks": [
+        {
+            "markdown": "<a id='66b424a7-b7b4-40cd-8eae-dca3dce9b9d7'></a>\n\n<::Subjects Signed Consent (signed consent form) N=103\n: flowchart\n  - study Subjects Enrolled drug N=100\n    - Subject with baseline angiogram n=81\n      - IVUS N=63\n      - No IVUS 18 All SVG occluded or diseased\n    - Subject refused to continue in study N=19 (Table 2)\n  - Protocol violation N=3 (Table 1)\n::>",
+            "type": "figure",
+            "id": "66b424a7-b7b4-40cd-8eae-dca3dce9b9d7",
+            "grounding": {
+                "box": {
+                    "left": 0.13181915879249573,
+                    "top": 0.3171016573905945,
+                    "right": 0.9015380144119263,
+                    "bottom": 0.736680805683136
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='27513529-ecdd-4d07-bd08-911295636e69'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/npvw0217",
+            "type": "text",
+            "id": "27513529-ecdd-4d07-bd08-911295636e69",
+            "grounding": {
+                "box": {
+                    "left": 0.2780991494655609,
+                    "top": 0.9715830087661743,
+                    "right": 0.7226648330688477,
+                    "bottom": 0.9999122619628906
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0a0f24cb-90e0-4321-92a1-d105f7d92536'></a>\n\nDWRITE 045517",
+            "type": "marginalia",
+            "id": "0a0f24cb-90e0-4321-92a1-d105f7d92536",
+            "grounding": {
+                "box": {
+                    "left": 0.008776976726949215,
+                    "top": 0.8356878757476807,
+                    "right": 0.029473330825567245,
+                    "bottom": 0.9703719615936279
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='66b424a7-b7b4-40cd-8eae-dca3dce9b9d7'></a>\n\n<::Subjects Signed Consent (signed consent form) N=103\n: flowchart\n  - study Subjects Enrolled drug N=100\n    - Subject with baseline angiogram n=81\n      - IVUS N=63\n      - No IVUS 18 All SVG occluded or diseased\n    - Subject refused to continue in study N=19 (Table 2)\n  - Protocol violation N=3 (Table 1)\n::>\n\n<a id='27513529-ecdd-4d07-bd08-911295636e69'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/npvw0217\n\n<a id='0a0f24cb-90e0-4321-92a1-d105f7d92536'></a>\n\nDWRITE 045517",
+            "chunks": [
+                "66b424a7-b7b4-40cd-8eae-dca3dce9b9d7",
+                "27513529-ecdd-4d07-bd08-911295636e69",
+                "0a0f24cb-90e0-4321-92a1-d105f7d92536"
+            ]
+        }
+    ],
+    "grounding": {
+        "66b424a7-b7b4-40cd-8eae-dca3dce9b9d7": {
+            "box": {
+                "left": 0.13181915879249573,
+                "top": 0.3171016573905945,
+                "right": 0.9015380144119263,
+                "bottom": 0.736680805683136
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "27513529-ecdd-4d07-bd08-911295636e69": {
+            "box": {
+                "left": 0.2780991494655609,
+                "top": 0.9715830087661743,
+                "right": 0.7226648330688477,
+                "bottom": 0.9999122619628906
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0a0f24cb-90e0-4321-92a1-d105f7d92536": {
+            "box": {
+                "left": 0.008776976726949215,
+                "top": 0.8356878757476807,
+                "right": 0.029473330825567245,
+                "bottom": 0.9703719615936279
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "npvw0217_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4997,
+        "credit_usage": 3.0,
+        "job_id": "p1hrbh9uu4o5iojp26p1a6zop",
+        "version": "dpt-2-20250919"
+    }
+}

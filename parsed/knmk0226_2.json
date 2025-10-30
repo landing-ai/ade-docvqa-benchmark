@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='34877716-82a5-4fde-94d9-75c3118a5d1c'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: File\nA handwritten signature in the center of the image.::>\n\n<a id='16375af1-062d-477b-b77f-8b088a0d5f5c'></a>\n\nCarl Byoir & Associates, Inc.\n\n<a id='b5a945ef-8380-4bd0-ab91-1ba4ae21e383'></a>\n\nMAR 1 3 1978\n\n<a id='0464c5dd-2de2-4798-a5c3-4863772b1287'></a>\n\nCarolyn Walden, Director\nTV, Radio, Film Department\n\n<a id='99b95040-fd46-4d25-bb88-4aa54b68b352'></a>\n\nFebruary 9, 1978\n\n<a id='c8c85b12-98f6-433a-91c8-6a511aaf51fd'></a>\n\nMs. Julia Child\n\"The French Chef\"\nc/o WGBH-TV\n125 Western Avenue\nBoston, Massachusetts 02134\n\n<a id='11161bde-9ff6-4ffd-9df1-4dffbfc84f19'></a>\n\nDear Ms. Child:\n\nBoy...do you have a lot of fans! Unfortunately for me, a lot of them are members of the Sugar Association which is a client of mine. I say unfortunately because in the last month or so it seems I've heard from each and every one of the Association's members.\n\nThe reason? It seems in a recent broadcast you mentioned that you were about to use cane sugar as an ingredient...instead of beet sugar...because of its superior qualities. Well, as you'll soon see from the enclosed materials, the authorities say there is no difference between the two. That, indeed, sugar -- whether refined from sugar beets or from sugar cane -- is the same sugar. I guess (to paraphrase Gertrude Stein) you could say that \"sugar...is sugar ...is sugar.\"\n\nThis should serve as an explanation for all that I've sent. I hope you find the material both interesting and informative. And if I can be of any additional help, please don't hesitate to call me collect in New York.\n\n<a id='6aa7c157-a14b-4d38-a27c-2fd28ef3e32b'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Carolyn Walder)\nReadable Text: Cordially,\nA handwritten signature appears below the typed word \"Cordially,\" positioned in the lower-left quadrant of the image.::>\n\n<a id='dfab6403-9588-4653-93f8-86db19c9b7e5'></a>\n\n(more)\n\n<a id='a94196b4-9726-403b-8cf2-af817b50e3ee'></a>\n\n380 Madison Avenue, New York, N.Y. 10017 \u00b7 Telephone (212) 986-6100",
+    "chunks": [
+        {
+            "markdown": "<a id='34877716-82a5-4fde-94d9-75c3118a5d1c'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: File\nA handwritten signature in the center of the image.::>",
+            "type": "attestation",
+            "id": "34877716-82a5-4fde-94d9-75c3118a5d1c",
+            "grounding": {
+                "box": {
+                    "left": 0.7942875027656555,
+                    "top": 0.01584784872829914,
+                    "right": 0.8753605484962463,
+                    "bottom": 0.07534658908843994
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='16375af1-062d-477b-b77f-8b088a0d5f5c'></a>\n\nCarl Byoir & Associates, Inc.",
+            "type": "marginalia",
+            "id": "16375af1-062d-477b-b77f-8b088a0d5f5c",
+            "grounding": {
+                "box": {
+                    "left": 0.18597841262817383,
+                    "top": 0.05741465464234352,
+                    "right": 0.48207521438598633,
+                    "bottom": 0.08566759526729584
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b5a945ef-8380-4bd0-ab91-1ba4ae21e383'></a>\n\nMAR 1 3 1978",
+            "type": "text",
+            "id": "b5a945ef-8380-4bd0-ab91-1ba4ae21e383",
+            "grounding": {
+                "box": {
+                    "left": 0.6570231914520264,
+                    "top": 0.05424267053604126,
+                    "right": 0.7901178598403931,
+                    "bottom": 0.08266735076904297
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0464c5dd-2de2-4798-a5c3-4863772b1287'></a>\n\nCarolyn Walden, Director\nTV, Radio, Film Department",
+            "type": "text",
+            "id": "0464c5dd-2de2-4798-a5c3-4863772b1287",
+            "grounding": {
+                "box": {
+                    "left": 0.5589427351951599,
+                    "top": 0.11579913645982742,
+                    "right": 0.7562921643257141,
+                    "bottom": 0.15238089859485626
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='99b95040-fd46-4d25-bb88-4aa54b68b352'></a>\n\nFebruary 9, 1978",
+            "type": "text",
+            "id": "99b95040-fd46-4d25-bb88-4aa54b68b352",
+            "grounding": {
+                "box": {
+                    "left": 0.49054455757141113,
+                    "top": 0.19693629443645477,
+                    "right": 0.6695822477340698,
+                    "bottom": 0.22149167954921722
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c8c85b12-98f6-433a-91c8-6a511aaf51fd'></a>\n\nMs. Julia Child\n\"The French Chef\"\nc/o WGBH-TV\n125 Western Avenue\nBoston, Massachusetts 02134",
+            "type": "text",
+            "id": "c8c85b12-98f6-433a-91c8-6a511aaf51fd",
+            "grounding": {
+                "box": {
+                    "left": 0.09366104006767273,
+                    "top": 0.25936248898506165,
+                    "right": 0.38160473108291626,
+                    "bottom": 0.34453389048576355
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='11161bde-9ff6-4ffd-9df1-4dffbfc84f19'></a>\n\nDear Ms. Child:\n\nBoy...do you have a lot of fans! Unfortunately for me, a lot of them are members of the Sugar Association which is a client of mine. I say unfortunately because in the last month or so it seems I've heard from each and every one of the Association's members.\n\nThe reason? It seems in a recent broadcast you mentioned that you were about to use cane sugar as an ingredient...instead of beet sugar...because of its superior qualities. Well, as you'll soon see from the enclosed materials, the authorities say there is no difference between the two. That, indeed, sugar -- whether refined from sugar beets or from sugar cane -- is the same sugar. I guess (to paraphrase Gertrude Stein) you could say that \"sugar...is sugar ...is sugar.\"\n\nThis should serve as an explanation for all that I've sent. I hope you find the material both interesting and informative. And if I can be of any additional help, please don't hesitate to call me collect in New York.",
+            "type": "text",
+            "id": "11161bde-9ff6-4ffd-9df1-4dffbfc84f19",
+            "grounding": {
+                "box": {
+                    "left": 0.09339004755020142,
+                    "top": 0.35277754068374634,
+                    "right": 0.7915219068527222,
+                    "bottom": 0.6707109808921814
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6aa7c157-a14b-4d38-a27c-2fd28ef3e32b'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Carolyn Walder)\nReadable Text: Cordially,\nA handwritten signature appears below the typed word \"Cordially,\" positioned in the lower-left quadrant of the image.::>",
+            "type": "attestation",
+            "id": "6aa7c157-a14b-4d38-a27c-2fd28ef3e32b",
+            "grounding": {
+                "box": {
+                    "left": 0.09332799911499023,
+                    "top": 0.6944980621337891,
+                    "right": 0.48757410049438477,
+                    "bottom": 0.8032666444778442
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dfab6403-9588-4653-93f8-86db19c9b7e5'></a>\n\n(more)",
+            "type": "marginalia",
+            "id": "dfab6403-9588-4653-93f8-86db19c9b7e5",
+            "grounding": {
+                "box": {
+                    "left": 0.541424036026001,
+                    "top": 0.8206071853637695,
+                    "right": 0.6103992462158203,
+                    "bottom": 0.84456467628479
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a94196b4-9726-403b-8cf2-af817b50e3ee'></a>\n\n380 Madison Avenue, New York, N.Y. 10017 \u00b7 Telephone (212) 986-6100",
+            "type": "text",
+            "id": "a94196b4-9726-403b-8cf2-af817b50e3ee",
+            "grounding": {
+                "box": {
+                    "left": 0.13582074642181396,
+                    "top": 0.9178365468978882,
+                    "right": 0.7622550129890442,
+                    "bottom": 0.939818263053894
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='34877716-82a5-4fde-94d9-75c3118a5d1c'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: File\nA handwritten signature in the center of the image.::>\n\n<a id='16375af1-062d-477b-b77f-8b088a0d5f5c'></a>\n\nCarl Byoir & Associates, Inc.\n\n<a id='b5a945ef-8380-4bd0-ab91-1ba4ae21e383'></a>\n\nMAR 1 3 1978\n\n<a id='0464c5dd-2de2-4798-a5c3-4863772b1287'></a>\n\nCarolyn Walden, Director\nTV, Radio, Film Department\n\n<a id='99b95040-fd46-4d25-bb88-4aa54b68b352'></a>\n\nFebruary 9, 1978\n\n<a id='c8c85b12-98f6-433a-91c8-6a511aaf51fd'></a>\n\nMs. Julia Child\n\"The French Chef\"\nc/o WGBH-TV\n125 Western Avenue\nBoston, Massachusetts 02134\n\n<a id='11161bde-9ff6-4ffd-9df1-4dffbfc84f19'></a>\n\nDear Ms. Child:\n\nBoy...do you have a lot of fans! Unfortunately for me, a lot of them are members of the Sugar Association which is a client of mine. I say unfortunately because in the last month or so it seems I've heard from each and every one of the Association's members.\n\nThe reason? It seems in a recent broadcast you mentioned that you were about to use cane sugar as an ingredient...instead of beet sugar...because of its superior qualities. Well, as you'll soon see from the enclosed materials, the authorities say there is no difference between the two. That, indeed, sugar -- whether refined from sugar beets or from sugar cane -- is the same sugar. I guess (to paraphrase Gertrude Stein) you could say that \"sugar...is sugar ...is sugar.\"\n\nThis should serve as an explanation for all that I've sent. I hope you find the material both interesting and informative. And if I can be of any additional help, please don't hesitate to call me collect in New York.\n\n<a id='6aa7c157-a14b-4d38-a27c-2fd28ef3e32b'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible (Carolyn Walder)\nReadable Text: Cordially,\nA handwritten signature appears below the typed word \"Cordially,\" positioned in the lower-left quadrant of the image.::>\n\n<a id='dfab6403-9588-4653-93f8-86db19c9b7e5'></a>\n\n(more)\n\n<a id='a94196b4-9726-403b-8cf2-af817b50e3ee'></a>\n\n380 Madison Avenue, New York, N.Y. 10017 \u00b7 Telephone (212) 986-6100",
+            "chunks": [
+                "34877716-82a5-4fde-94d9-75c3118a5d1c",
+                "16375af1-062d-477b-b77f-8b088a0d5f5c",
+                "b5a945ef-8380-4bd0-ab91-1ba4ae21e383",
+                "0464c5dd-2de2-4798-a5c3-4863772b1287",
+                "99b95040-fd46-4d25-bb88-4aa54b68b352",
+                "c8c85b12-98f6-433a-91c8-6a511aaf51fd",
+                "11161bde-9ff6-4ffd-9df1-4dffbfc84f19",
+                "6aa7c157-a14b-4d38-a27c-2fd28ef3e32b",
+                "dfab6403-9588-4653-93f8-86db19c9b7e5",
+                "a94196b4-9726-403b-8cf2-af817b50e3ee"
+            ]
+        }
+    ],
+    "grounding": {
+        "34877716-82a5-4fde-94d9-75c3118a5d1c": {
+            "box": {
+                "left": 0.7942875027656555,
+                "top": 0.01584784872829914,
+                "right": 0.8753605484962463,
+                "bottom": 0.07534658908843994
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "16375af1-062d-477b-b77f-8b088a0d5f5c": {
+            "box": {
+                "left": 0.18597841262817383,
+                "top": 0.05741465464234352,
+                "right": 0.48207521438598633,
+                "bottom": 0.08566759526729584
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "b5a945ef-8380-4bd0-ab91-1ba4ae21e383": {
+            "box": {
+                "left": 0.6570231914520264,
+                "top": 0.05424267053604126,
+                "right": 0.7901178598403931,
+                "bottom": 0.08266735076904297
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0464c5dd-2de2-4798-a5c3-4863772b1287": {
+            "box": {
+                "left": 0.5589427351951599,
+                "top": 0.11579913645982742,
+                "right": 0.7562921643257141,
+                "bottom": 0.15238089859485626
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "99b95040-fd46-4d25-bb88-4aa54b68b352": {
+            "box": {
+                "left": 0.49054455757141113,
+                "top": 0.19693629443645477,
+                "right": 0.6695822477340698,
+                "bottom": 0.22149167954921722
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c8c85b12-98f6-433a-91c8-6a511aaf51fd": {
+            "box": {
+                "left": 0.09366104006767273,
+                "top": 0.25936248898506165,
+                "right": 0.38160473108291626,
+                "bottom": 0.34453389048576355
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "11161bde-9ff6-4ffd-9df1-4dffbfc84f19": {
+            "box": {
+                "left": 0.09339004755020142,
+                "top": 0.35277754068374634,
+                "right": 0.7915219068527222,
+                "bottom": 0.6707109808921814
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6aa7c157-a14b-4d38-a27c-2fd28ef3e32b": {
+            "box": {
+                "left": 0.09332799911499023,
+                "top": 0.6944980621337891,
+                "right": 0.48757410049438477,
+                "bottom": 0.8032666444778442
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "dfab6403-9588-4653-93f8-86db19c9b7e5": {
+            "box": {
+                "left": 0.541424036026001,
+                "top": 0.8206071853637695,
+                "right": 0.6103992462158203,
+                "bottom": 0.84456467628479
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "a94196b4-9726-403b-8cf2-af817b50e3ee": {
+            "box": {
+                "left": 0.13582074642181396,
+                "top": 0.9178365468978882,
+                "right": 0.7622550129890442,
+                "bottom": 0.939818263053894
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "knmk0226_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5613,
+        "credit_usage": 3.0,
+        "job_id": "xee28p0x04nabd8xuuq2xtzab",
+        "version": "dpt-2-20250919"
+    }
+}

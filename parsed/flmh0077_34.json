@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='797f8e30-5020-4972-ab3e-41d78aa091ce'></a>\n\n<::attestation: Handwritten number/identifier\n[Readable Text: 2130-4147]\nA handwritten number \"2130-4147\" is centered on the image, underlined.::>\n\n<a id='86e30370-6199-401a-a01e-a5b2f14dba5b'></a>\n\nHUNTSVILLE CHAPTER\n\n<a id='eb55194e-129d-4648-b4e7-b2967ded1f73'></a>\n\nOF\n\n<a id='e575ee69-0b38-4f4c-83bb-6b8e45f88fbc'></a>\n\n<::logo: Alabama Smokers' Rights, Inc.\nOF ALABAMA SMOKERS' RIGHTS, INC.\nThe logo features the word \"ALABAMA\" in a distressed, outlined font, with a silhouette of the state of Alabama behind the first letter, and \"SMOKERS' RIGHTS, INC.\" below.::>\n\n<a id='5c9a76d0-3c4e-4a4c-afbe-5a0c20d19fb6'></a>\n\nWe're new in town. Come join\nus! Please mark your calendars\nand plan to attend!\n\n<a id='e593e837-6b30-479b-9484-d21a2a712dbf'></a>\n\nWhen: The 1st Tuesday of every month\n\nWhere: American Legion Post #176\nCorner of Long Ave. and Triana Blvd.\n(One block north of Bob Wallace Ave.)\n\nTime: 7 p.m.\n\n<a id='305df416-dcdc-49b7-986e-c1653aff99a1'></a>\n\nNOTE: If American Legion door is locked, ring bell and tell them\nyou are attending smokers' rights meeting.\n\n<a id='1abb9875-cbcd-4c72-b61f-d40ac311d0cb'></a>\n\nFor more information about smokers' rights, call 1-800-681-7771, or locally 882-1360\n\n<a id='8902c948-56ec-47ba-ac25-cb35b64ad8ac'></a>\n\n52248 7703",
+    "chunks": [
+        {
+            "markdown": "<a id='797f8e30-5020-4972-ab3e-41d78aa091ce'></a>\n\n<::attestation: Handwritten number/identifier\n[Readable Text: 2130-4147]\nA handwritten number \"2130-4147\" is centered on the image, underlined.::>",
+            "type": "attestation",
+            "id": "797f8e30-5020-4972-ab3e-41d78aa091ce",
+            "grounding": {
+                "box": {
+                    "left": 0.7235381603240967,
+                    "top": 0.039741937071084976,
+                    "right": 0.9241417646408081,
+                    "bottom": 0.07806789875030518
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='86e30370-6199-401a-a01e-a5b2f14dba5b'></a>\n\nHUNTSVILLE CHAPTER",
+            "type": "text",
+            "id": "86e30370-6199-401a-a01e-a5b2f14dba5b",
+            "grounding": {
+                "box": {
+                    "left": 0.15217620134353638,
+                    "top": 0.09966068714857101,
+                    "right": 0.8652134537696838,
+                    "bottom": 0.16089196503162384
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='eb55194e-129d-4648-b4e7-b2967ded1f73'></a>\n\nOF",
+            "type": "text",
+            "id": "eb55194e-129d-4648-b4e7-b2967ded1f73",
+            "grounding": {
+                "box": {
+                    "left": 0.4637035131454468,
+                    "top": 0.17991730570793152,
+                    "right": 0.551122784614563,
+                    "bottom": 0.2212669849395752
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e575ee69-0b38-4f4c-83bb-6b8e45f88fbc'></a>\n\n<::logo: Alabama Smokers' Rights, Inc.\nOF ALABAMA SMOKERS' RIGHTS, INC.\nThe logo features the word \"ALABAMA\" in a distressed, outlined font, with a silhouette of the state of Alabama behind the first letter, and \"SMOKERS' RIGHTS, INC.\" below.::>",
+            "type": "logo",
+            "id": "e575ee69-0b38-4f4c-83bb-6b8e45f88fbc",
+            "grounding": {
+                "box": {
+                    "left": 0.1880323886871338,
+                    "top": 0.196232408285141,
+                    "right": 0.801970362663269,
+                    "bottom": 0.3937126696109772
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5c9a76d0-3c4e-4a4c-afbe-5a0c20d19fb6'></a>\n\nWe're new in town. Come join\nus! Please mark your calendars\nand plan to attend!",
+            "type": "text",
+            "id": "5c9a76d0-3c4e-4a4c-afbe-5a0c20d19fb6",
+            "grounding": {
+                "box": {
+                    "left": 0.11259281635284424,
+                    "top": 0.4398515820503235,
+                    "right": 0.8981411457061768,
+                    "bottom": 0.5740299820899963
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e593e837-6b30-479b-9484-d21a2a712dbf'></a>\n\nWhen: The 1st Tuesday of every month\n\nWhere: American Legion Post #176\nCorner of Long Ave. and Triana Blvd.\n(One block north of Bob Wallace Ave.)\n\nTime: 7 p.m.",
+            "type": "text",
+            "id": "e593e837-6b30-479b-9484-d21a2a712dbf",
+            "grounding": {
+                "box": {
+                    "left": 0.12328657507896423,
+                    "top": 0.6054458022117615,
+                    "right": 0.8312184810638428,
+                    "bottom": 0.7704151272773743
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='305df416-dcdc-49b7-986e-c1653aff99a1'></a>\n\nNOTE: If American Legion door is locked, ring bell and tell them\nyou are attending smokers' rights meeting.",
+            "type": "text",
+            "id": "305df416-dcdc-49b7-986e-c1653aff99a1",
+            "grounding": {
+                "box": {
+                    "left": 0.10375282168388367,
+                    "top": 0.7905590534210205,
+                    "right": 0.8596900701522827,
+                    "bottom": 0.8414199352264404
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1abb9875-cbcd-4c72-b61f-d40ac311d0cb'></a>\n\nFor more information about smokers' rights, call 1-800-681-7771, or locally 882-1360",
+            "type": "text",
+            "id": "1abb9875-cbcd-4c72-b61f-d40ac311d0cb",
+            "grounding": {
+                "box": {
+                    "left": 0.12786346673965454,
+                    "top": 0.8602567911148071,
+                    "right": 0.8781258463859558,
+                    "bottom": 0.9300005435943604
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8902c948-56ec-47ba-ac25-cb35b64ad8ac'></a>\n\n52248 7703",
+            "type": "marginalia",
+            "id": "8902c948-56ec-47ba-ac25-cb35b64ad8ac",
+            "grounding": {
+                "box": {
+                    "left": 0.9212393164634705,
+                    "top": 0.8621076345443726,
+                    "right": 0.9499714970588684,
+                    "bottom": 0.959601640701294
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='797f8e30-5020-4972-ab3e-41d78aa091ce'></a>\n\n<::attestation: Handwritten number/identifier\n[Readable Text: 2130-4147]\nA handwritten number \"2130-4147\" is centered on the image, underlined.::>\n\n<a id='86e30370-6199-401a-a01e-a5b2f14dba5b'></a>\n\nHUNTSVILLE CHAPTER\n\n<a id='eb55194e-129d-4648-b4e7-b2967ded1f73'></a>\n\nOF\n\n<a id='e575ee69-0b38-4f4c-83bb-6b8e45f88fbc'></a>\n\n<::logo: Alabama Smokers' Rights, Inc.\nOF ALABAMA SMOKERS' RIGHTS, INC.\nThe logo features the word \"ALABAMA\" in a distressed, outlined font, with a silhouette of the state of Alabama behind the first letter, and \"SMOKERS' RIGHTS, INC.\" below.::>\n\n<a id='5c9a76d0-3c4e-4a4c-afbe-5a0c20d19fb6'></a>\n\nWe're new in town. Come join\nus! Please mark your calendars\nand plan to attend!\n\n<a id='e593e837-6b30-479b-9484-d21a2a712dbf'></a>\n\nWhen: The 1st Tuesday of every month\n\nWhere: American Legion Post #176\nCorner of Long Ave. and Triana Blvd.\n(One block north of Bob Wallace Ave.)\n\nTime: 7 p.m.\n\n<a id='305df416-dcdc-49b7-986e-c1653aff99a1'></a>\n\nNOTE: If American Legion door is locked, ring bell and tell them\nyou are attending smokers' rights meeting.\n\n<a id='1abb9875-cbcd-4c72-b61f-d40ac311d0cb'></a>\n\nFor more information about smokers' rights, call 1-800-681-7771, or locally 882-1360\n\n<a id='8902c948-56ec-47ba-ac25-cb35b64ad8ac'></a>\n\n52248 7703",
+            "chunks": [
+                "797f8e30-5020-4972-ab3e-41d78aa091ce",
+                "86e30370-6199-401a-a01e-a5b2f14dba5b",
+                "eb55194e-129d-4648-b4e7-b2967ded1f73",
+                "e575ee69-0b38-4f4c-83bb-6b8e45f88fbc",
+                "5c9a76d0-3c4e-4a4c-afbe-5a0c20d19fb6",
+                "e593e837-6b30-479b-9484-d21a2a712dbf",
+                "305df416-dcdc-49b7-986e-c1653aff99a1",
+                "1abb9875-cbcd-4c72-b61f-d40ac311d0cb",
+                "8902c948-56ec-47ba-ac25-cb35b64ad8ac"
+            ]
+        }
+    ],
+    "grounding": {
+        "797f8e30-5020-4972-ab3e-41d78aa091ce": {
+            "box": {
+                "left": 0.7235381603240967,
+                "top": 0.039741937071084976,
+                "right": 0.9241417646408081,
+                "bottom": 0.07806789875030518
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "86e30370-6199-401a-a01e-a5b2f14dba5b": {
+            "box": {
+                "left": 0.15217620134353638,
+                "top": 0.09966068714857101,
+                "right": 0.8652134537696838,
+                "bottom": 0.16089196503162384
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "eb55194e-129d-4648-b4e7-b2967ded1f73": {
+            "box": {
+                "left": 0.4637035131454468,
+                "top": 0.17991730570793152,
+                "right": 0.551122784614563,
+                "bottom": 0.2212669849395752
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e575ee69-0b38-4f4c-83bb-6b8e45f88fbc": {
+            "box": {
+                "left": 0.1880323886871338,
+                "top": 0.196232408285141,
+                "right": 0.801970362663269,
+                "bottom": 0.3937126696109772
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "5c9a76d0-3c4e-4a4c-afbe-5a0c20d19fb6": {
+            "box": {
+                "left": 0.11259281635284424,
+                "top": 0.4398515820503235,
+                "right": 0.8981411457061768,
+                "bottom": 0.5740299820899963
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e593e837-6b30-479b-9484-d21a2a712dbf": {
+            "box": {
+                "left": 0.12328657507896423,
+                "top": 0.6054458022117615,
+                "right": 0.8312184810638428,
+                "bottom": 0.7704151272773743
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "305df416-dcdc-49b7-986e-c1653aff99a1": {
+            "box": {
+                "left": 0.10375282168388367,
+                "top": 0.7905590534210205,
+                "right": 0.8596900701522827,
+                "bottom": 0.8414199352264404
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1abb9875-cbcd-4c72-b61f-d40ac311d0cb": {
+            "box": {
+                "left": 0.12786346673965454,
+                "top": 0.8602567911148071,
+                "right": 0.8781258463859558,
+                "bottom": 0.9300005435943604
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8902c948-56ec-47ba-ac25-cb35b64ad8ac": {
+            "box": {
+                "left": 0.9212393164634705,
+                "top": 0.8621076345443726,
+                "right": 0.9499714970588684,
+                "bottom": 0.959601640701294
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "flmh0077_34.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4689,
+        "credit_usage": 3.0,
+        "job_id": "t14qlb20vqtity6d1rb384n45",
+        "version": "dpt-2-20250919"
+    }
+}

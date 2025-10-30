@@ -1,0 +1,338 @@
+{
+    "markdown": "<a id='d99da588-1472-4e1f-9753-e251c84ffe38'></a>\n\nAgenda\n\n<a id='8892deb6-2b7d-4311-892c-2fb6defdde73'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Wednesday, July 17</td></tr>\n<tr><td id=\"0-3\">10:00</td><td id=\"0-4\">Welcome Speech (Mr. TADA)</td></tr>\n<tr><td id=\"0-5\">10:05</td><td id=\"0-6\">Report on Europe and US launch (Mr. Bass)</td></tr>\n<tr><td id=\"0-7\">11:00</td><td id=\"0-8\">Launch Plan for NSP Product (Mr. Fujimoto)</td></tr>\n<tr><td id=\"0-9\">12:00</td><td id=\"0-a\">Launch</td></tr>\n<tr><td id=\"0-b\">13:00</td><td id=\"0-c\">License Negotiation</td></tr>\n<tr><td id=\"0-d\">16:30</td><td id=\"0-e\">Adjourn</td></tr>\n<tr><td id=\"0-f\">18:30</td><td id=\"0-g\">Dinner</td></tr>\n<tr><td id=\"0-h\" colspan=\"2\">Tuesday, July 18</td></tr>\n<tr><td id=\"0-i\">10:00</td><td id=\"0-j\">License Negotiation</td></tr>\n<tr><td id=\"0-k\">12:00</td><td id=\"0-l\">Adjourn</td></tr>\n</table>\n\n<a id='530f4e9a-7f8b-43e4-903b-cbd7f2a8e6ac'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mfnf0004\n\n<a id='fe3ad5ab-23c1-4112-a537-877a6123d045'></a>\n\n51722 0577",
+    "chunks": [
+        {
+            "markdown": "<a id='d99da588-1472-4e1f-9753-e251c84ffe38'></a>\n\nAgenda",
+            "type": "text",
+            "id": "d99da588-1472-4e1f-9753-e251c84ffe38",
+            "grounding": {
+                "box": {
+                    "left": 0.3871776759624481,
+                    "top": 0.06645789742469788,
+                    "right": 0.5576615333557129,
+                    "bottom": 0.10154563188552856
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8892deb6-2b7d-4311-892c-2fb6defdde73'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Wednesday, July 17</td></tr>\n<tr><td id=\"0-3\">10:00</td><td id=\"0-4\">Welcome Speech (Mr. TADA)</td></tr>\n<tr><td id=\"0-5\">10:05</td><td id=\"0-6\">Report on Europe and US launch (Mr. Bass)</td></tr>\n<tr><td id=\"0-7\">11:00</td><td id=\"0-8\">Launch Plan for NSP Product (Mr. Fujimoto)</td></tr>\n<tr><td id=\"0-9\">12:00</td><td id=\"0-a\">Launch</td></tr>\n<tr><td id=\"0-b\">13:00</td><td id=\"0-c\">License Negotiation</td></tr>\n<tr><td id=\"0-d\">16:30</td><td id=\"0-e\">Adjourn</td></tr>\n<tr><td id=\"0-f\">18:30</td><td id=\"0-g\">Dinner</td></tr>\n<tr><td id=\"0-h\" colspan=\"2\">Tuesday, July 18</td></tr>\n<tr><td id=\"0-i\">10:00</td><td id=\"0-j\">License Negotiation</td></tr>\n<tr><td id=\"0-k\">12:00</td><td id=\"0-l\">Adjourn</td></tr>\n</table>",
+            "type": "table",
+            "id": "8892deb6-2b7d-4311-892c-2fb6defdde73",
+            "grounding": {
+                "box": {
+                    "left": 0.08299952745437622,
+                    "top": 0.09499865770339966,
+                    "right": 0.8622321486473083,
+                    "bottom": 0.6850035190582275
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='530f4e9a-7f8b-43e4-903b-cbd7f2a8e6ac'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mfnf0004",
+            "type": "marginalia",
+            "id": "530f4e9a-7f8b-43e4-903b-cbd7f2a8e6ac",
+            "grounding": {
+                "box": {
+                    "left": 0.21401053667068481,
+                    "top": 0.9776062965393066,
+                    "right": 0.7859354615211487,
+                    "bottom": 0.9994361400604248
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fe3ad5ab-23c1-4112-a537-877a6123d045'></a>\n\n51722 0577",
+            "type": "marginalia",
+            "id": "fe3ad5ab-23c1-4112-a537-877a6123d045",
+            "grounding": {
+                "box": {
+                    "left": 0.8505899310112,
+                    "top": 0.8503864407539368,
+                    "right": 0.8857911229133606,
+                    "bottom": 0.9463312029838562
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d99da588-1472-4e1f-9753-e251c84ffe38'></a>\n\nAgenda\n\n<a id='8892deb6-2b7d-4311-892c-2fb6defdde73'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Wednesday, July 17</td></tr>\n<tr><td id=\"0-3\">10:00</td><td id=\"0-4\">Welcome Speech (Mr. TADA)</td></tr>\n<tr><td id=\"0-5\">10:05</td><td id=\"0-6\">Report on Europe and US launch (Mr. Bass)</td></tr>\n<tr><td id=\"0-7\">11:00</td><td id=\"0-8\">Launch Plan for NSP Product (Mr. Fujimoto)</td></tr>\n<tr><td id=\"0-9\">12:00</td><td id=\"0-a\">Launch</td></tr>\n<tr><td id=\"0-b\">13:00</td><td id=\"0-c\">License Negotiation</td></tr>\n<tr><td id=\"0-d\">16:30</td><td id=\"0-e\">Adjourn</td></tr>\n<tr><td id=\"0-f\">18:30</td><td id=\"0-g\">Dinner</td></tr>\n<tr><td id=\"0-h\" colspan=\"2\">Tuesday, July 18</td></tr>\n<tr><td id=\"0-i\">10:00</td><td id=\"0-j\">License Negotiation</td></tr>\n<tr><td id=\"0-k\">12:00</td><td id=\"0-l\">Adjourn</td></tr>\n</table>\n\n<a id='530f4e9a-7f8b-43e4-903b-cbd7f2a8e6ac'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mfnf0004\n\n<a id='fe3ad5ab-23c1-4112-a537-877a6123d045'></a>\n\n51722 0577",
+            "chunks": [
+                "d99da588-1472-4e1f-9753-e251c84ffe38",
+                "8892deb6-2b7d-4311-892c-2fb6defdde73",
+                "530f4e9a-7f8b-43e4-903b-cbd7f2a8e6ac",
+                "fe3ad5ab-23c1-4112-a537-877a6123d045"
+            ]
+        }
+    ],
+    "grounding": {
+        "d99da588-1472-4e1f-9753-e251c84ffe38": {
+            "box": {
+                "left": 0.3871776759624481,
+                "top": 0.06645789742469788,
+                "right": 0.5576615333557129,
+                "bottom": 0.10154563188552856
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8892deb6-2b7d-4311-892c-2fb6defdde73": {
+            "box": {
+                "left": 0.08299952745437622,
+                "top": 0.09499865770339966,
+                "right": 0.8622321486473083,
+                "bottom": 0.6850035190582275
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.10394865424524585,
+                "right": 0.8547022955548513,
+                "bottom": 0.6763674811236484
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.10394865424524585,
+                "right": 0.8531821217851601,
+                "bottom": 0.20746883377099223
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.16995533625618187,
+                "right": 0.1905543529606888,
+                "bottom": 0.20746883377099223
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.1905543529606888,
+                "top": 0.16995533625618187,
+                "right": 0.8531821217851601,
+                "bottom": 0.20746883377099223
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.20746883377099223,
+                "right": 0.1905543529606888,
+                "bottom": 0.25131178129459997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.1905543529606888,
+                "top": 0.20746883377099223,
+                "right": 0.8531821217851601,
+                "bottom": 0.25131178129459997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.25131178129459997,
+                "right": 0.1905543529606888,
+                "bottom": 0.29363361409494004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.1905543529606888,
+                "top": 0.25131178129459997,
+                "right": 0.8531821217851601,
+                "bottom": 0.29363361409494004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.29363361409494004,
+                "right": 0.1905543529606888,
+                "bottom": 0.3354938620406944
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.1905543529606888,
+                "top": 0.29363361409494004,
+                "right": 0.8531821217851601,
+                "bottom": 0.3354938620406944
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.3354938620406944,
+                "right": 0.1905543529606888,
+                "bottom": 0.37891649321962895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.1905543529606888,
+                "top": 0.3354938620406944,
+                "right": 0.8531821217851601,
+                "bottom": 0.37891649321962895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.37891649321962895,
+                "right": 0.1905543529606888,
+                "bottom": 0.4221590516205431
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.1905543529606888,
+                "top": 0.37891649321962895,
+                "right": 0.8531821217851601,
+                "bottom": 0.4221590516205431
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.4221590516205431,
+                "right": 0.1905543529606888,
+                "bottom": 0.4650660638030253
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.1905543529606888,
+                "top": 0.4221590516205431,
+                "right": 0.8531821217851601,
+                "bottom": 0.4650660638030253
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.4650660638030253,
+                "right": 0.8531821217851601,
+                "bottom": 0.5931328529210624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.5525406049988781,
+                "right": 0.1905543529606888,
+                "bottom": 0.5931328529210624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.1905543529606888,
+                "top": 0.5525406049988781,
+                "right": 0.8531821217851601,
+                "bottom": 0.5931328529210624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.09046548189677617,
+                "top": 0.5931328529210624,
+                "right": 0.1905543529606888,
+                "bottom": 0.6763674811236484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.1905543529606888,
+                "top": 0.5931328529210624,
+                "right": 0.8531821217851601,
+                "bottom": 0.6763674811236484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "530f4e9a-7f8b-43e4-903b-cbd7f2a8e6ac": {
+            "box": {
+                "left": 0.21401053667068481,
+                "top": 0.9776062965393066,
+                "right": 0.7859354615211487,
+                "bottom": 0.9994361400604248
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "fe3ad5ab-23c1-4112-a537-877a6123d045": {
+            "box": {
+                "left": 0.8505899310112,
+                "top": 0.8503864407539368,
+                "right": 0.8857911229133606,
+                "bottom": 0.9463312029838562
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "mfnf0004_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 20113,
+        "credit_usage": 3.0,
+        "job_id": "un860o1lqtcq6jt2jxizpe5e6",
+        "version": "dpt-2-20250919"
+    }
+}

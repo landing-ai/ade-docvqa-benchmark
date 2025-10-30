@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='63646a90-a668-484b-8dde-290eed37ef13'></a>\n\ni. Federal legislation and regulations on the sale of pharmaceuticals.\nii. The possibility of state legislation.\niii. The effects on prescription practices and the cost of drugs of regulations made by State Boards of Pharmacy.\niv. Criteria for selection of pharmaceuticals and purchasing policies adopted by health departments, welfare departments, etc..\n\n<a id='42094d49-5dc0-471c-8134-b326fec57127'></a>\n\nIV. If a program, as in III, is desired, steps should be taken to explore the availability of personnel and of sources of funds needed to carry it out.\n\n<a id='c6c07b53-52eb-4018-be97-d8eb55e95526'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pygf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='63646a90-a668-484b-8dde-290eed37ef13'></a>\n\ni. Federal legislation and regulations on the sale of pharmaceuticals.\nii. The possibility of state legislation.\niii. The effects on prescription practices and the cost of drugs of regulations made by State Boards of Pharmacy.\niv. Criteria for selection of pharmaceuticals and purchasing policies adopted by health departments, welfare departments, etc..",
+            "type": "text",
+            "id": "63646a90-a668-484b-8dde-290eed37ef13",
+            "grounding": {
+                "box": {
+                    "left": 0.20919445157051086,
+                    "top": 0.10016884654760361,
+                    "right": 0.9128574132919312,
+                    "bottom": 0.273611456155777
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='42094d49-5dc0-471c-8134-b326fec57127'></a>\n\nIV. If a program, as in III, is desired, steps should be taken to explore the availability of personnel and of sources of funds needed to carry it out.",
+            "type": "text",
+            "id": "42094d49-5dc0-471c-8134-b326fec57127",
+            "grounding": {
+                "box": {
+                    "left": 0.12722623348236084,
+                    "top": 0.30511972308158875,
+                    "right": 0.8839529752731323,
+                    "bottom": 0.361965149641037
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c6c07b53-52eb-4018-be97-d8eb55e95526'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pygf0227",
+            "type": "marginalia",
+            "id": "c6c07b53-52eb-4018-be97-d8eb55e95526",
+            "grounding": {
+                "box": {
+                    "left": 0.22565901279449463,
+                    "top": 0.9807076454162598,
+                    "right": 0.7718775272369385,
+                    "bottom": 0.9995986223220825
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='63646a90-a668-484b-8dde-290eed37ef13'></a>\n\ni. Federal legislation and regulations on the sale of pharmaceuticals.\nii. The possibility of state legislation.\niii. The effects on prescription practices and the cost of drugs of regulations made by State Boards of Pharmacy.\niv. Criteria for selection of pharmaceuticals and purchasing policies adopted by health departments, welfare departments, etc..\n\n<a id='42094d49-5dc0-471c-8134-b326fec57127'></a>\n\nIV. If a program, as in III, is desired, steps should be taken to explore the availability of personnel and of sources of funds needed to carry it out.\n\n<a id='c6c07b53-52eb-4018-be97-d8eb55e95526'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pygf0227",
+            "chunks": [
+                "63646a90-a668-484b-8dde-290eed37ef13",
+                "42094d49-5dc0-471c-8134-b326fec57127",
+                "c6c07b53-52eb-4018-be97-d8eb55e95526"
+            ]
+        }
+    ],
+    "grounding": {
+        "63646a90-a668-484b-8dde-290eed37ef13": {
+            "box": {
+                "left": 0.20919445157051086,
+                "top": 0.10016884654760361,
+                "right": 0.9128574132919312,
+                "bottom": 0.273611456155777
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "42094d49-5dc0-471c-8134-b326fec57127": {
+            "box": {
+                "left": 0.12722623348236084,
+                "top": 0.30511972308158875,
+                "right": 0.8839529752731323,
+                "bottom": 0.361965149641037
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c6c07b53-52eb-4018-be97-d8eb55e95526": {
+            "box": {
+                "left": 0.22565901279449463,
+                "top": 0.9807076454162598,
+                "right": 0.7718775272369385,
+                "bottom": 0.9995986223220825
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "pygf0227_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3600,
+        "credit_usage": 3.0,
+        "job_id": "r20iq9icbcqm3swhqt0vrqips",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='3e2caed3-2be2-4cc1-940b-5c4a92111a67'></a>\n\nProcter & Gamble: Diapers\n\nIn an effort to regain branded market share, Procter & Gamble is returning to a brand equity strategy.\n\n<a id='1fc9dbb8-e4e4-414e-83c6-0408d03e68a3'></a>\n\n# 1993 Initiatives\n\n* Increase advertising\n  * Performance, Value Positionings\n  * Major TV Campaign\n* Roll-out disposable training pants\n* Test 50% thinner diapers (same as KC new product)\n\n<a id='6322d20e-4a68-44bf-8f77-173ff8c8be26'></a>\n\n51336 9526\n\n<a id='4ce0eab8-521a-4ab5-aa58-7d8e7756be7a'></a>\n\n16",
+    "chunks": [
+        {
+            "markdown": "<a id='3e2caed3-2be2-4cc1-940b-5c4a92111a67'></a>\n\nProcter & Gamble: Diapers\n\nIn an effort to regain branded market share, Procter & Gamble is returning to a brand equity strategy.",
+            "type": "text",
+            "id": "3e2caed3-2be2-4cc1-940b-5c4a92111a67",
+            "grounding": {
+                "box": {
+                    "left": 0.09820979833602905,
+                    "top": 0.11218173056840897,
+                    "right": 0.8291475772857666,
+                    "bottom": 0.25576815009117126
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1fc9dbb8-e4e4-414e-83c6-0408d03e68a3'></a>\n\n# 1993 Initiatives\n\n* Increase advertising\n  * Performance, Value Positionings\n  * Major TV Campaign\n* Roll-out disposable training pants\n* Test 50% thinner diapers (same as KC new product)",
+            "type": "text",
+            "id": "1fc9dbb8-e4e4-414e-83c6-0408d03e68a3",
+            "grounding": {
+                "box": {
+                    "left": 0.14538171887397766,
+                    "top": 0.301088809967041,
+                    "right": 0.6163244247436523,
+                    "bottom": 0.5579788088798523
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6322d20e-4a68-44bf-8f77-173ff8c8be26'></a>\n\n51336 9526",
+            "type": "marginalia",
+            "id": "6322d20e-4a68-44bf-8f77-173ff8c8be26",
+            "grounding": {
+                "box": {
+                    "left": 0.0337909460067749,
+                    "top": 0.9455410242080688,
+                    "right": 0.13373933732509613,
+                    "bottom": 0.9718594551086426
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4ce0eab8-521a-4ab5-aa58-7d8e7756be7a'></a>\n\n16",
+            "type": "marginalia",
+            "id": "4ce0eab8-521a-4ab5-aa58-7d8e7756be7a",
+            "grounding": {
+                "box": {
+                    "left": 0.9488232135772705,
+                    "top": 0.9568275213241577,
+                    "right": 0.9696415662765503,
+                    "bottom": 0.9821300506591797
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3e2caed3-2be2-4cc1-940b-5c4a92111a67'></a>\n\nProcter & Gamble: Diapers\n\nIn an effort to regain branded market share, Procter & Gamble is returning to a brand equity strategy.\n\n<a id='1fc9dbb8-e4e4-414e-83c6-0408d03e68a3'></a>\n\n# 1993 Initiatives\n\n* Increase advertising\n  * Performance, Value Positionings\n  * Major TV Campaign\n* Roll-out disposable training pants\n* Test 50% thinner diapers (same as KC new product)\n\n<a id='6322d20e-4a68-44bf-8f77-173ff8c8be26'></a>\n\n51336 9526\n\n<a id='4ce0eab8-521a-4ab5-aa58-7d8e7756be7a'></a>\n\n16",
+            "chunks": [
+                "3e2caed3-2be2-4cc1-940b-5c4a92111a67",
+                "1fc9dbb8-e4e4-414e-83c6-0408d03e68a3",
+                "6322d20e-4a68-44bf-8f77-173ff8c8be26",
+                "4ce0eab8-521a-4ab5-aa58-7d8e7756be7a"
+            ]
+        }
+    ],
+    "grounding": {
+        "3e2caed3-2be2-4cc1-940b-5c4a92111a67": {
+            "box": {
+                "left": 0.09820979833602905,
+                "top": 0.11218173056840897,
+                "right": 0.8291475772857666,
+                "bottom": 0.25576815009117126
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1fc9dbb8-e4e4-414e-83c6-0408d03e68a3": {
+            "box": {
+                "left": 0.14538171887397766,
+                "top": 0.301088809967041,
+                "right": 0.6163244247436523,
+                "bottom": 0.5579788088798523
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6322d20e-4a68-44bf-8f77-173ff8c8be26": {
+            "box": {
+                "left": 0.0337909460067749,
+                "top": 0.9455410242080688,
+                "right": 0.13373933732509613,
+                "bottom": 0.9718594551086426
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "4ce0eab8-521a-4ab5-aa58-7d8e7756be7a": {
+            "box": {
+                "left": 0.9488232135772705,
+                "top": 0.9568275213241577,
+                "right": 0.9696415662765503,
+                "bottom": 0.9821300506591797
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hsyn0081_16.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4016,
+        "credit_usage": 3.0,
+        "job_id": "kyox4tck8pmkez03yuyh8jgqh",
+        "version": "dpt-2-20250919"
+    }
+}

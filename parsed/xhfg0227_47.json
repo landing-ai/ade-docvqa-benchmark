@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='1b38778a-be5a-4464-8518-3b92b0a32b10'></a>\n\nFigure V-9\n\n<a id='bf30fbab-597e-4f23-a5af-2e306edd4120'></a>\n\nPUBLIC AND PRIVATE EXPENDITURES FOR HEALTH CARE\nCuyahoga County, Ohio - 1960\nUnited States - 1963 23/\n(Estimated fiscal year for U.S.)\n\n<a id='5ca85b57-3f03-4a15-800e-68284e8ecff6'></a>\n\nCuyahoga County Total: $307.5 million\n\n<a id='f9de94fe-61d3-4c20-b4f3-1b3e9cb8b20f'></a>\n\n<::Pie chart showing the distribution of funds:\n- PRIVATE: 90.6% ($278.4 million)\n- PUBLIC (Tax): 9.4% ($29.1 million)\n- (Private) ---PHILANTHROPIC: 1.8% ($5.4 million)\n: chart::>\n\n<a id='b411b8ef-7a0c-43e1-914a-0ca0f2f0de78'></a>\n\nUnited States Total: $29,814 million\n\n<a id='0c72343b-631c-43bc-bc54-17ac716c3d34'></a>\n\n<::A pie chart showing funding distribution.\n: chart::>\n<::The chart is divided into two main segments:\n- PRIVATE: 81.2% ($24,205 million)\n- PUBLIC (Tax): 18.8% ($5,609 million)\n\nAn additional annotation indicates:\n- (Private) PHILANTHROPIC: 2.6% ($790 million)\n: chart::>\n\n<a id='e9102081-e5da-4d4f-8b7d-0cc3f90938a7'></a>\n\n- 40b -\n\n<a id='cea499ca-59d3-4892-b9c7-80700f04aadb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhfg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='1b38778a-be5a-4464-8518-3b92b0a32b10'></a>\n\nFigure V-9",
+            "type": "text",
+            "id": "1b38778a-be5a-4464-8518-3b92b0a32b10",
+            "grounding": {
+                "box": {
+                    "left": 0.43298080563545227,
+                    "top": 0.047719806432724,
+                    "right": 0.5423156023025513,
+                    "bottom": 0.06658347696065903
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bf30fbab-597e-4f23-a5af-2e306edd4120'></a>\n\nPUBLIC AND PRIVATE EXPENDITURES FOR HEALTH CARE\nCuyahoga County, Ohio - 1960\nUnited States - 1963 23/\n(Estimated fiscal year for U.S.)",
+            "type": "text",
+            "id": "bf30fbab-597e-4f23-a5af-2e306edd4120",
+            "grounding": {
+                "box": {
+                    "left": 0.2686168849468231,
+                    "top": 0.07204823195934296,
+                    "right": 0.7200114727020264,
+                    "bottom": 0.1422656774520874
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5ca85b57-3f03-4a15-800e-68284e8ecff6'></a>\n\nCuyahoga County Total: $307.5 million",
+            "type": "text",
+            "id": "5ca85b57-3f03-4a15-800e-68284e8ecff6",
+            "grounding": {
+                "box": {
+                    "left": 0.30508655309677124,
+                    "top": 0.14824947714805603,
+                    "right": 0.6813041567802429,
+                    "bottom": 0.17049893736839294
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f9de94fe-61d3-4c20-b4f3-1b3e9cb8b20f'></a>\n\n<::Pie chart showing the distribution of funds:\n- PRIVATE: 90.6% ($278.4 million)\n- PUBLIC (Tax): 9.4% ($29.1 million)\n- (Private) ---PHILANTHROPIC: 1.8% ($5.4 million)\n: chart::>",
+            "type": "figure",
+            "id": "f9de94fe-61d3-4c20-b4f3-1b3e9cb8b20f",
+            "grounding": {
+                "box": {
+                    "left": 0.28958660364151,
+                    "top": 0.17760337889194489,
+                    "right": 0.8917227387428284,
+                    "bottom": 0.5047525763511658
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b411b8ef-7a0c-43e1-914a-0ca0f2f0de78'></a>\n\nUnited States Total: $29,814 million",
+            "type": "text",
+            "id": "b411b8ef-7a0c-43e1-914a-0ca0f2f0de78",
+            "grounding": {
+                "box": {
+                    "left": 0.3198564052581787,
+                    "top": 0.5251966118812561,
+                    "right": 0.6840777397155762,
+                    "bottom": 0.5449202656745911
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0c72343b-631c-43bc-bc54-17ac716c3d34'></a>\n\n<::A pie chart showing funding distribution.\n: chart::>\n<::The chart is divided into two main segments:\n- PRIVATE: 81.2% ($24,205 million)\n- PUBLIC (Tax): 18.8% ($5,609 million)\n\nAn additional annotation indicates:\n- (Private) PHILANTHROPIC: 2.6% ($790 million)\n: chart::>",
+            "type": "figure",
+            "id": "0c72343b-631c-43bc-bc54-17ac716c3d34",
+            "grounding": {
+                "box": {
+                    "left": 0.2932612895965576,
+                    "top": 0.5667290687561035,
+                    "right": 0.8995523452758789,
+                    "bottom": 0.903778076171875
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e9102081-e5da-4d4f-8b7d-0cc3f90938a7'></a>\n\n- 40b -",
+            "type": "marginalia",
+            "id": "e9102081-e5da-4d4f-8b7d-0cc3f90938a7",
+            "grounding": {
+                "box": {
+                    "left": 0.47620031237602234,
+                    "top": 0.9074727892875671,
+                    "right": 0.5575566291809082,
+                    "bottom": 0.9263868927955627
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cea499ca-59d3-4892-b9c7-80700f04aadb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhfg0227",
+            "type": "text",
+            "id": "cea499ca-59d3-4892-b9c7-80700f04aadb",
+            "grounding": {
+                "box": {
+                    "left": 0.2272070050239563,
+                    "top": 0.9781696200370789,
+                    "right": 0.7754505276679993,
+                    "bottom": 1.0001418590545654
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='1b38778a-be5a-4464-8518-3b92b0a32b10'></a>\n\nFigure V-9\n\n<a id='bf30fbab-597e-4f23-a5af-2e306edd4120'></a>\n\nPUBLIC AND PRIVATE EXPENDITURES FOR HEALTH CARE\nCuyahoga County, Ohio - 1960\nUnited States - 1963 23/\n(Estimated fiscal year for U.S.)\n\n<a id='5ca85b57-3f03-4a15-800e-68284e8ecff6'></a>\n\nCuyahoga County Total: $307.5 million\n\n<a id='f9de94fe-61d3-4c20-b4f3-1b3e9cb8b20f'></a>\n\n<::Pie chart showing the distribution of funds:\n- PRIVATE: 90.6% ($278.4 million)\n- PUBLIC (Tax): 9.4% ($29.1 million)\n- (Private) ---PHILANTHROPIC: 1.8% ($5.4 million)\n: chart::>\n\n<a id='b411b8ef-7a0c-43e1-914a-0ca0f2f0de78'></a>\n\nUnited States Total: $29,814 million\n\n<a id='0c72343b-631c-43bc-bc54-17ac716c3d34'></a>\n\n<::A pie chart showing funding distribution.\n: chart::>\n<::The chart is divided into two main segments:\n- PRIVATE: 81.2% ($24,205 million)\n- PUBLIC (Tax): 18.8% ($5,609 million)\n\nAn additional annotation indicates:\n- (Private) PHILANTHROPIC: 2.6% ($790 million)\n: chart::>\n\n<a id='e9102081-e5da-4d4f-8b7d-0cc3f90938a7'></a>\n\n- 40b -\n\n<a id='cea499ca-59d3-4892-b9c7-80700f04aadb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xhfg0227",
+            "chunks": [
+                "1b38778a-be5a-4464-8518-3b92b0a32b10",
+                "bf30fbab-597e-4f23-a5af-2e306edd4120",
+                "5ca85b57-3f03-4a15-800e-68284e8ecff6",
+                "f9de94fe-61d3-4c20-b4f3-1b3e9cb8b20f",
+                "b411b8ef-7a0c-43e1-914a-0ca0f2f0de78",
+                "0c72343b-631c-43bc-bc54-17ac716c3d34",
+                "e9102081-e5da-4d4f-8b7d-0cc3f90938a7",
+                "cea499ca-59d3-4892-b9c7-80700f04aadb"
+            ]
+        }
+    ],
+    "grounding": {
+        "1b38778a-be5a-4464-8518-3b92b0a32b10": {
+            "box": {
+                "left": 0.43298080563545227,
+                "top": 0.047719806432724,
+                "right": 0.5423156023025513,
+                "bottom": 0.06658347696065903
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bf30fbab-597e-4f23-a5af-2e306edd4120": {
+            "box": {
+                "left": 0.2686168849468231,
+                "top": 0.07204823195934296,
+                "right": 0.7200114727020264,
+                "bottom": 0.1422656774520874
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5ca85b57-3f03-4a15-800e-68284e8ecff6": {
+            "box": {
+                "left": 0.30508655309677124,
+                "top": 0.14824947714805603,
+                "right": 0.6813041567802429,
+                "bottom": 0.17049893736839294
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f9de94fe-61d3-4c20-b4f3-1b3e9cb8b20f": {
+            "box": {
+                "left": 0.28958660364151,
+                "top": 0.17760337889194489,
+                "right": 0.8917227387428284,
+                "bottom": 0.5047525763511658
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "b411b8ef-7a0c-43e1-914a-0ca0f2f0de78": {
+            "box": {
+                "left": 0.3198564052581787,
+                "top": 0.5251966118812561,
+                "right": 0.6840777397155762,
+                "bottom": 0.5449202656745911
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0c72343b-631c-43bc-bc54-17ac716c3d34": {
+            "box": {
+                "left": 0.2932612895965576,
+                "top": 0.5667290687561035,
+                "right": 0.8995523452758789,
+                "bottom": 0.903778076171875
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "e9102081-e5da-4d4f-8b7d-0cc3f90938a7": {
+            "box": {
+                "left": 0.47620031237602234,
+                "top": 0.9074727892875671,
+                "right": 0.5575566291809082,
+                "bottom": 0.9263868927955627
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "cea499ca-59d3-4892-b9c7-80700f04aadb": {
+            "box": {
+                "left": 0.2272070050239563,
+                "top": 0.9781696200370789,
+                "right": 0.7754505276679993,
+                "bottom": 1.0001418590545654
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "xhfg0227_47.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8358,
+        "credit_usage": 3.0,
+        "job_id": "z2nzo5d6qwjvdwetjoe3efp64",
+        "version": "dpt-2-20250919"
+    }
+}

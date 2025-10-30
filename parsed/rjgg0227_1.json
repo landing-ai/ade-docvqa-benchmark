@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='873e176f-afd6-4334-a347-d3ce177edd9c'></a>\n\n<::attestation: Postmark, postage stamp, and cancellation mark\nStatus: Mailed/Processed\nReadable Text: NEW YORK, JAN 12, 430PM, 1954; UNITED STATES POSTAGE, GEORGE WASHINGTON, 1 CENT; POSTAL CARD, 1, WASHINGTON; THIS SIDE OF CARD IS FOR ADDRESS\nDescription: A postmark from New York dated January 12, 1954, 4:30 PM, is positioned to the left of a 1-cent United States postage stamp featuring George Washington. A cancellation mark, reading \"POSTAL CARD\" and \"1\" with \"WASHINGTON\", overlaps the stamp and extends to the right. Below these, a rectangular box contains the text \"THIS SIDE OF CARD IS FOR ADDRESS\".::>\n\n<a id='6017d338-9067-47dc-bae2-8b3f23463bd7'></a>\n\nDr. Robert E. Shank\nDepartment of Preventive Medicine & Public Health\nWashington University School of Medicine\nEuclid Ave. & Kingshighway\nSt. Louis 10, Missouri\n\n<a id='4e573dbd-766d-4b86-9097-3e0ebdb8bbf0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rjgg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='873e176f-afd6-4334-a347-d3ce177edd9c'></a>\n\n<::attestation: Postmark, postage stamp, and cancellation mark\nStatus: Mailed/Processed\nReadable Text: NEW YORK, JAN 12, 430PM, 1954; UNITED STATES POSTAGE, GEORGE WASHINGTON, 1 CENT; POSTAL CARD, 1, WASHINGTON; THIS SIDE OF CARD IS FOR ADDRESS\nDescription: A postmark from New York dated January 12, 1954, 4:30 PM, is positioned to the left of a 1-cent United States postage stamp featuring George Washington. A cancellation mark, reading \"POSTAL CARD\" and \"1\" with \"WASHINGTON\", overlaps the stamp and extends to the right. Below these, a rectangular box contains the text \"THIS SIDE OF CARD IS FOR ADDRESS\".::>",
+            "type": "attestation",
+            "id": "873e176f-afd6-4334-a347-d3ce177edd9c",
+            "grounding": {
+                "box": {
+                    "left": 0.23299163579940796,
+                    "top": 0.08735865354537964,
+                    "right": 0.9451715350151062,
+                    "bottom": 0.4485471248626709
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6017d338-9067-47dc-bae2-8b3f23463bd7'></a>\n\nDr. Robert E. Shank\nDepartment of Preventive Medicine & Public Health\nWashington University School of Medicine\nEuclid Ave. & Kingshighway\nSt. Louis 10, Missouri",
+            "type": "text",
+            "id": "6017d338-9067-47dc-bae2-8b3f23463bd7",
+            "grounding": {
+                "box": {
+                    "left": 0.1747090220451355,
+                    "top": 0.4815225601196289,
+                    "right": 0.8860345482826233,
+                    "bottom": 0.9163001775741577
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4e573dbd-766d-4b86-9097-3e0ebdb8bbf0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rjgg0227",
+            "type": "text",
+            "id": "4e573dbd-766d-4b86-9097-3e0ebdb8bbf0",
+            "grounding": {
+                "box": {
+                    "left": 0.09597182273864746,
+                    "top": 0.9362732172012329,
+                    "right": 0.9052313566207886,
+                    "bottom": 0.9985578060150146
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='873e176f-afd6-4334-a347-d3ce177edd9c'></a>\n\n<::attestation: Postmark, postage stamp, and cancellation mark\nStatus: Mailed/Processed\nReadable Text: NEW YORK, JAN 12, 430PM, 1954; UNITED STATES POSTAGE, GEORGE WASHINGTON, 1 CENT; POSTAL CARD, 1, WASHINGTON; THIS SIDE OF CARD IS FOR ADDRESS\nDescription: A postmark from New York dated January 12, 1954, 4:30 PM, is positioned to the left of a 1-cent United States postage stamp featuring George Washington. A cancellation mark, reading \"POSTAL CARD\" and \"1\" with \"WASHINGTON\", overlaps the stamp and extends to the right. Below these, a rectangular box contains the text \"THIS SIDE OF CARD IS FOR ADDRESS\".::>\n\n<a id='6017d338-9067-47dc-bae2-8b3f23463bd7'></a>\n\nDr. Robert E. Shank\nDepartment of Preventive Medicine & Public Health\nWashington University School of Medicine\nEuclid Ave. & Kingshighway\nSt. Louis 10, Missouri\n\n<a id='4e573dbd-766d-4b86-9097-3e0ebdb8bbf0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rjgg0227",
+            "chunks": [
+                "873e176f-afd6-4334-a347-d3ce177edd9c",
+                "6017d338-9067-47dc-bae2-8b3f23463bd7",
+                "4e573dbd-766d-4b86-9097-3e0ebdb8bbf0"
+            ]
+        }
+    ],
+    "grounding": {
+        "873e176f-afd6-4334-a347-d3ce177edd9c": {
+            "box": {
+                "left": 0.23299163579940796,
+                "top": 0.08735865354537964,
+                "right": 0.9451715350151062,
+                "bottom": 0.4485471248626709
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "6017d338-9067-47dc-bae2-8b3f23463bd7": {
+            "box": {
+                "left": 0.1747090220451355,
+                "top": 0.4815225601196289,
+                "right": 0.8860345482826233,
+                "bottom": 0.9163001775741577
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4e573dbd-766d-4b86-9097-3e0ebdb8bbf0": {
+            "box": {
+                "left": 0.09597182273864746,
+                "top": 0.9362732172012329,
+                "right": 0.9052313566207886,
+                "bottom": 0.9985578060150146
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rjgg0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 27910,
+        "credit_usage": 3.0,
+        "job_id": "vmzxpwxosoncg81rwnuh2b890",
+        "version": "dpt-2-20250919"
+    }
+}

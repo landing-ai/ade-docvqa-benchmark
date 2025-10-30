@@ -1,0 +1,553 @@
+{
+    "markdown": "<a id='006ff5f8-4f15-4a08-a8eb-ad0e35a4a024'></a>\n\nAchieving Clarity, Renewing Confidence\n\n<a id='ee574a37-636a-4ea7-8fe3-a0ee8bbdb661'></a>\n\n**Key Journals to Be Targeted**\n\n*Key Medical Journals for General Practitioners (First Tier, High Circulation)*\n\n<a id='33630b64-d46c-43ed-884c-8de604c70e7a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Journal</td><td id=\"0-3\">Circulation</td><td id=\"0-4\">Comments</td></tr>\n<tr><td id=\"0-5\">JAMA</td><td id=\"0-6\">372,000</td><td id=\"0-7\">Weekly</td></tr>\n<tr><td id=\"0-8\">New England Journal of Medicine</td><td id=\"0-9\">228,000</td><td id=\"0-a\">Weekly</td></tr>\n<tr><td id=\"0-b\">The Lancet</td><td id=\"0-c\">50,000</td><td id=\"0-d\">Weekly</td></tr>\n<tr><td id=\"0-e\">British Medical Journal</td><td id=\"0-f\">117,000</td><td id=\"0-g\">Weekly</td></tr>\n<tr><td id=\"0-h\">Annals of Internal Medicine</td><td id=\"0-i\">95,000</td><td id=\"0-j\">Monthly</td></tr>\n<tr><td id=\"0-k\">Archives of Internal Medicine</td><td id=\"0-l\">110,400</td><td id=\"0-m\">Monthly</td></tr>\n<tr><td id=\"0-n\">American Journal of Medicine</td><td id=\"0-o\">53,000</td><td id=\"0-p\">Monthly</td></tr>\n<tr><td id=\"0-q\">American Family Physician</td><td id=\"0-r\">186,948</td><td id=\"0-s\">Biweekly</td></tr>\n<tr><td id=\"0-t\">Annals of Family Medicine</td><td id=\"0-u\">New in 2003</td><td id=\"0-v\">Bimonthly</td></tr>\n<tr><td id=\"0-w\">Journal of Family Practice</td><td id=\"0-x\">86,163</td><td id=\"0-y\">Monthly</td></tr>\n<tr><td id=\"0-z\">Mayo Clinic Proceedings</td><td id=\"0-A\">126,000</td><td id=\"0-B\">Monthly</td></tr>\n<tr><td id=\"0-C\">Postgraduate Medicine</td><td id=\"0-D\">132,700</td><td id=\"0-E\">Monthly</td></tr>\n</table>\n\n<a id='3dbe749e-37ba-4d8b-952b-df1d3fa91fd6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fyvw0217\n\n<a id='06702798-e586-4066-a6d6-fc4066007b9b'></a>\n\nDWRITE 066164",
+    "chunks": [
+        {
+            "markdown": "<a id='006ff5f8-4f15-4a08-a8eb-ad0e35a4a024'></a>\n\nAchieving Clarity, Renewing Confidence",
+            "type": "text",
+            "id": "006ff5f8-4f15-4a08-a8eb-ad0e35a4a024",
+            "grounding": {
+                "box": {
+                    "left": 0.5400978326797485,
+                    "top": 0.24708057940006256,
+                    "right": 0.8657450675964355,
+                    "bottom": 0.27039673924446106
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ee574a37-636a-4ea7-8fe3-a0ee8bbdb661'></a>\n\n**Key Journals to Be Targeted**\n\n*Key Medical Journals for General Practitioners (First Tier, High Circulation)*",
+            "type": "text",
+            "id": "ee574a37-636a-4ea7-8fe3-a0ee8bbdb661",
+            "grounding": {
+                "box": {
+                    "left": 0.10806626081466675,
+                    "top": 0.2959786653518677,
+                    "right": 0.7449031472206116,
+                    "bottom": 0.35331159830093384
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='33630b64-d46c-43ed-884c-8de604c70e7a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Journal</td><td id=\"0-3\">Circulation</td><td id=\"0-4\">Comments</td></tr>\n<tr><td id=\"0-5\">JAMA</td><td id=\"0-6\">372,000</td><td id=\"0-7\">Weekly</td></tr>\n<tr><td id=\"0-8\">New England Journal of Medicine</td><td id=\"0-9\">228,000</td><td id=\"0-a\">Weekly</td></tr>\n<tr><td id=\"0-b\">The Lancet</td><td id=\"0-c\">50,000</td><td id=\"0-d\">Weekly</td></tr>\n<tr><td id=\"0-e\">British Medical Journal</td><td id=\"0-f\">117,000</td><td id=\"0-g\">Weekly</td></tr>\n<tr><td id=\"0-h\">Annals of Internal Medicine</td><td id=\"0-i\">95,000</td><td id=\"0-j\">Monthly</td></tr>\n<tr><td id=\"0-k\">Archives of Internal Medicine</td><td id=\"0-l\">110,400</td><td id=\"0-m\">Monthly</td></tr>\n<tr><td id=\"0-n\">American Journal of Medicine</td><td id=\"0-o\">53,000</td><td id=\"0-p\">Monthly</td></tr>\n<tr><td id=\"0-q\">American Family Physician</td><td id=\"0-r\">186,948</td><td id=\"0-s\">Biweekly</td></tr>\n<tr><td id=\"0-t\">Annals of Family Medicine</td><td id=\"0-u\">New in 2003</td><td id=\"0-v\">Bimonthly</td></tr>\n<tr><td id=\"0-w\">Journal of Family Practice</td><td id=\"0-x\">86,163</td><td id=\"0-y\">Monthly</td></tr>\n<tr><td id=\"0-z\">Mayo Clinic Proceedings</td><td id=\"0-A\">126,000</td><td id=\"0-B\">Monthly</td></tr>\n<tr><td id=\"0-C\">Postgraduate Medicine</td><td id=\"0-D\">132,700</td><td id=\"0-E\">Monthly</td></tr>\n</table>",
+            "type": "table",
+            "id": "33630b64-d46c-43ed-884c-8de604c70e7a",
+            "grounding": {
+                "box": {
+                    "left": 0.11115488409996033,
+                    "top": 0.35824036598205566,
+                    "right": 0.7935199737548828,
+                    "bottom": 0.7410707473754883
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3dbe749e-37ba-4d8b-952b-df1d3fa91fd6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fyvw0217",
+            "type": "marginalia",
+            "id": "3dbe749e-37ba-4d8b-952b-df1d3fa91fd6",
+            "grounding": {
+                "box": {
+                    "left": 0.2180337905883789,
+                    "top": 0.9780773520469666,
+                    "right": 0.7838315963745117,
+                    "bottom": 0.9996827244758606
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='06702798-e586-4066-a6d6-fc4066007b9b'></a>\n\nDWRITE 066164",
+            "type": "marginalia",
+            "id": "06702798-e586-4066-a6d6-fc4066007b9b",
+            "grounding": {
+                "box": {
+                    "left": 0.8420668244361877,
+                    "top": 0.9723389744758606,
+                    "right": 0.9762380719184875,
+                    "bottom": 0.9911127686500549
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='006ff5f8-4f15-4a08-a8eb-ad0e35a4a024'></a>\n\nAchieving Clarity, Renewing Confidence\n\n<a id='ee574a37-636a-4ea7-8fe3-a0ee8bbdb661'></a>\n\n**Key Journals to Be Targeted**\n\n*Key Medical Journals for General Practitioners (First Tier, High Circulation)*\n\n<a id='33630b64-d46c-43ed-884c-8de604c70e7a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Journal</td><td id=\"0-3\">Circulation</td><td id=\"0-4\">Comments</td></tr>\n<tr><td id=\"0-5\">JAMA</td><td id=\"0-6\">372,000</td><td id=\"0-7\">Weekly</td></tr>\n<tr><td id=\"0-8\">New England Journal of Medicine</td><td id=\"0-9\">228,000</td><td id=\"0-a\">Weekly</td></tr>\n<tr><td id=\"0-b\">The Lancet</td><td id=\"0-c\">50,000</td><td id=\"0-d\">Weekly</td></tr>\n<tr><td id=\"0-e\">British Medical Journal</td><td id=\"0-f\">117,000</td><td id=\"0-g\">Weekly</td></tr>\n<tr><td id=\"0-h\">Annals of Internal Medicine</td><td id=\"0-i\">95,000</td><td id=\"0-j\">Monthly</td></tr>\n<tr><td id=\"0-k\">Archives of Internal Medicine</td><td id=\"0-l\">110,400</td><td id=\"0-m\">Monthly</td></tr>\n<tr><td id=\"0-n\">American Journal of Medicine</td><td id=\"0-o\">53,000</td><td id=\"0-p\">Monthly</td></tr>\n<tr><td id=\"0-q\">American Family Physician</td><td id=\"0-r\">186,948</td><td id=\"0-s\">Biweekly</td></tr>\n<tr><td id=\"0-t\">Annals of Family Medicine</td><td id=\"0-u\">New in 2003</td><td id=\"0-v\">Bimonthly</td></tr>\n<tr><td id=\"0-w\">Journal of Family Practice</td><td id=\"0-x\">86,163</td><td id=\"0-y\">Monthly</td></tr>\n<tr><td id=\"0-z\">Mayo Clinic Proceedings</td><td id=\"0-A\">126,000</td><td id=\"0-B\">Monthly</td></tr>\n<tr><td id=\"0-C\">Postgraduate Medicine</td><td id=\"0-D\">132,700</td><td id=\"0-E\">Monthly</td></tr>\n</table>\n\n<a id='3dbe749e-37ba-4d8b-952b-df1d3fa91fd6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fyvw0217\n\n<a id='06702798-e586-4066-a6d6-fc4066007b9b'></a>\n\nDWRITE 066164",
+            "chunks": [
+                "006ff5f8-4f15-4a08-a8eb-ad0e35a4a024",
+                "ee574a37-636a-4ea7-8fe3-a0ee8bbdb661",
+                "33630b64-d46c-43ed-884c-8de604c70e7a",
+                "3dbe749e-37ba-4d8b-952b-df1d3fa91fd6",
+                "06702798-e586-4066-a6d6-fc4066007b9b"
+            ]
+        }
+    ],
+    "grounding": {
+        "006ff5f8-4f15-4a08-a8eb-ad0e35a4a024": {
+            "box": {
+                "left": 0.5400978326797485,
+                "top": 0.24708057940006256,
+                "right": 0.8657450675964355,
+                "bottom": 0.27039673924446106
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ee574a37-636a-4ea7-8fe3-a0ee8bbdb661": {
+            "box": {
+                "left": 0.10806626081466675,
+                "top": 0.2959786653518677,
+                "right": 0.7449031472206116,
+                "bottom": 0.35331159830093384
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "33630b64-d46c-43ed-884c-8de604c70e7a": {
+            "box": {
+                "left": 0.11115488409996033,
+                "top": 0.35824036598205566,
+                "right": 0.7935199737548828,
+                "bottom": 0.7410707473754883
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.3593908763924467,
+                "right": 0.7886775094306824,
+                "bottom": 0.7362188563349434
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.3593908763924467,
+                "right": 0.3962667305164933,
+                "bottom": 0.38571368558359076
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.3593908763924467,
+                "right": 0.6184528149136099,
+                "bottom": 0.38571368558359076
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.3593908763924467,
+                "right": 0.788738232918945,
+                "bottom": 0.38571368558359076
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.38571368558359076,
+                "right": 0.3962667305164933,
+                "bottom": 0.4117362925022192
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.38571368558359076,
+                "right": 0.6184528149136099,
+                "bottom": 0.4117362925022192
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.38571368558359076,
+                "right": 0.788738232918945,
+                "bottom": 0.4117362925022192
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.4117362925022192,
+                "right": 0.3962667305164933,
+                "bottom": 0.4421305900450996
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.4117362925022192,
+                "right": 0.6184528149136099,
+                "bottom": 0.4421305900450996
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.4117362925022192,
+                "right": 0.788738232918945,
+                "bottom": 0.4421305900450996
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.4421305900450996,
+                "right": 0.3962667305164933,
+                "bottom": 0.4714829962983629
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.4421305900450996,
+                "right": 0.6184528149136099,
+                "bottom": 0.4714829962983629
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.4421305900450996,
+                "right": 0.788738232918945,
+                "bottom": 0.4714829962983629
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.4714829962983629,
+                "right": 0.3962667305164933,
+                "bottom": 0.5009870027543286
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.4714829962983629,
+                "right": 0.6184528149136099,
+                "bottom": 0.5009870027543286
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.4714829962983629,
+                "right": 0.788738232918945,
+                "bottom": 0.5009870027543286
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.5009870027543286,
+                "right": 0.3962667305164933,
+                "bottom": 0.531905149592184
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.5009870027543286,
+                "right": 0.6184528149136099,
+                "bottom": 0.531905149592184
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.5009870027543286,
+                "right": 0.788738232918945,
+                "bottom": 0.531905149592184
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.531905149592184,
+                "right": 0.3962667305164933,
+                "bottom": 0.5606133733547694
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.531905149592184,
+                "right": 0.6184528149136099,
+                "bottom": 0.5606133733547694
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.531905149592184,
+                "right": 0.788738232918945,
+                "bottom": 0.5606133733547694
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.5606133733547694,
+                "right": 0.3962667305164933,
+                "bottom": 0.5895101347165763
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.5606133733547694,
+                "right": 0.6184528149136099,
+                "bottom": 0.5895101347165763
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.5606133733547694,
+                "right": 0.788738232918945,
+                "bottom": 0.5895101347165763
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.5895101347165763,
+                "right": 0.3962667305164933,
+                "bottom": 0.619288852719535
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.5895101347165763,
+                "right": 0.6184528149136099,
+                "bottom": 0.619288852719535
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.5895101347165763,
+                "right": 0.788738232918945,
+                "bottom": 0.619288852719535
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.619288852719535,
+                "right": 0.3962667305164933,
+                "bottom": 0.6488993073328828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.619288852719535,
+                "right": 0.6184528149136099,
+                "bottom": 0.6488993073328828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.619288852719535,
+                "right": 0.788738232918945,
+                "bottom": 0.6488993073328828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.6488993073328828,
+                "right": 0.3962667305164933,
+                "bottom": 0.6783414985566196
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.6488993073328828,
+                "right": 0.6184528149136099,
+                "bottom": 0.6783414985566196
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.6488993073328828,
+                "right": 0.788738232918945,
+                "bottom": 0.6783414985566196
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.6783414985566196,
+                "right": 0.3962667305164933,
+                "bottom": 0.7084751806616651
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.6783414985566196,
+                "right": 0.6184528149136099,
+                "bottom": 0.7084751806616651
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.6783414985566196,
+                "right": 0.788738232918945,
+                "bottom": 0.7084751806616651
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.11729884192844678,
+                "top": 0.7084751806616651,
+                "right": 0.3962667305164933,
+                "bottom": 0.7362188563349434
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.3962667305164933,
+                "top": 0.7084751806616651,
+                "right": 0.6184528149136099,
+                "bottom": 0.7362188563349434
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.6184528149136099,
+                "top": 0.7084751806616651,
+                "right": 0.788738232918945,
+                "bottom": 0.7362188563349434
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "3dbe749e-37ba-4d8b-952b-df1d3fa91fd6": {
+            "box": {
+                "left": 0.2180337905883789,
+                "top": 0.9780773520469666,
+                "right": 0.7838315963745117,
+                "bottom": 0.9996827244758606
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "06702798-e586-4066-a6d6-fc4066007b9b": {
+            "box": {
+                "left": 0.8420668244361877,
+                "top": 0.9723389744758606,
+                "right": 0.9762380719184875,
+                "bottom": 0.9911127686500549
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fyvw0217_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4814,
+        "credit_usage": 3.0,
+        "job_id": "y7xs6b9yjzg3rnfno1fi2zrxy",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,378 @@
+{
+    "markdown": "<a id='923a59b3-35bd-4133-98b7-a9d4e17cba97'></a>\n\nResponse Code Request Form\n\n<a id='47c68bc6-5595-425d-8965-a7821cba862d'></a>\n\nFax# (910) 741-5327\nAttn: Bonnie Tucker\n\n<a id='8d62b58b-0b9d-434c-8ee7-8604c378e872'></a>\n\nRJR Brand: Corporate\nRJR Program #: 700399\nResponse Code: Z86\n\nProject Name: Target Dimensions June Names\n\n<a id='4309d0a7-29e9-43d1-8afe-5cb35e5ec64a'></a>\n\nDescription: Names received from Target Dimensions for the month of June\n\n<a id='fcc6e246-f1d8-48ff-bdeb-e29e051b0d89'></a>\n\nDistribution:\nQuantity: 220,000\nPct. Response: 100.00 %\n# of Responders: 220000\n\n<a id='d0e5165f-80f7-454d-a7c9-99c89384baed'></a>\n\nTiming:\n\nDTS: 06/30/97\nExpiration Date: 06/30/97\nOffer Complete: 06/30/97\nDays Offer Open: 0\n\n<a id='b0132a7c-e233-4c30-a4e1-dc27a5ade246'></a>\n\nDistribution Vehicle: Other (Explanation in Comments)\n\nAge Verification:\noption YES: [ ]\noption NO: [x]\n\nData Entry:\nSupplier None\n\nNo. Days Tumaround\n(From 1 - 10)\n\nIncoming mall N/A\n\nIf M/A/R/C is supplier, do you need a M/A/R/C P.O. Box? N/A\n\nP.O. Box Title: N/A\n\n<a id='694a57b9-4e50-46ca-bc77-49c9444f2af4'></a>\n\nAgency:\nAgency Name: None\nContact Person: ___\nPhone #: ___\n\n<a id='b2f4a610-2e63-460a-ae65-cd8f5d3815e5'></a>\n\nFulfillment:\n\nCompany: None\n\nJob Number: ___\n\nNumber of Items on Order Form: ___\n\nP.O. Box: ___ City: ___ State: ___ Zip Code: ___\n\n\u0393.\u039f. DUX FILIG. ___\n\n<a id='e4980617-8bab-4821-9d9c-1c0a21e134ae'></a>\n\nComments: Mass Ad Names\n\n<a id='b80c732f-460e-43ec-85e9-29348ecb126b'></a>\n\nMarketing Person Responsible for Project: Joyce Bagby\n\nProduction Contact: Joyce Bagby\n\nResponse Code Requested By: Joyce Bagby\n\nCopies of Confirmation Letter To:\n\n<a id='1a1f0577-e28a-4f49-b558-3b7ccd9236b8'></a>\n\nMary Cloutier\n_______\nJoyce Bagby\n_______\nJanet Myers\n_______\nBonnie Tucker\n_______\nRJRT Form 991-WML 5/21/97\n\n<a id='c9b2a0f2-2d26-49fa-9d5b-e004cdd91e58'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xpcf0004\n\n<a id='4d39eacb-409a-4a5b-8d36-fc0e96c28bd8'></a>\n\n52266 1972",
+    "chunks": [
+        {
+            "markdown": "<a id='923a59b3-35bd-4133-98b7-a9d4e17cba97'></a>\n\nResponse Code Request Form",
+            "type": "text",
+            "id": "923a59b3-35bd-4133-98b7-a9d4e17cba97",
+            "grounding": {
+                "box": {
+                    "left": 0.27616041898727417,
+                    "top": 0.048150435090065,
+                    "right": 0.6523932814598083,
+                    "bottom": 0.07513483613729477
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='47c68bc6-5595-425d-8965-a7821cba862d'></a>\n\nFax# (910) 741-5327\nAttn: Bonnie Tucker",
+            "type": "text",
+            "id": "47c68bc6-5595-425d-8965-a7821cba862d",
+            "grounding": {
+                "box": {
+                    "left": 0.3649853765964508,
+                    "top": 0.08484724164009094,
+                    "right": 0.5634130239486694,
+                    "bottom": 0.12228356301784515
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8d62b58b-0b9d-434c-8ee7-8604c378e872'></a>\n\nRJR Brand: Corporate\nRJR Program #: 700399\nResponse Code: Z86\n\nProject Name: Target Dimensions June Names",
+            "type": "text",
+            "id": "8d62b58b-0b9d-434c-8ee7-8604c378e872",
+            "grounding": {
+                "box": {
+                    "left": 0.03958934545516968,
+                    "top": 0.12625786662101746,
+                    "right": 0.8699749708175659,
+                    "bottom": 0.18074709177017212
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4309d0a7-29e9-43d1-8afe-5cb35e5ec64a'></a>\n\nDescription: Names received from Target Dimensions for the month of June",
+            "type": "text",
+            "id": "4309d0a7-29e9-43d1-8afe-5cb35e5ec64a",
+            "grounding": {
+                "box": {
+                    "left": 0.04688146710395813,
+                    "top": 0.1849905252456665,
+                    "right": 0.8683345317840576,
+                    "bottom": 0.2692001760005951
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fcc6e246-f1d8-48ff-bdeb-e29e051b0d89'></a>\n\nDistribution:\nQuantity: 220,000\nPct. Response: 100.00 %\n# of Responders: 220000",
+            "type": "text",
+            "id": "fcc6e246-f1d8-48ff-bdeb-e29e051b0d89",
+            "grounding": {
+                "box": {
+                    "left": 0.03861930966377258,
+                    "top": 0.27547600865364075,
+                    "right": 0.41308364272117615,
+                    "bottom": 0.3454667627811432
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d0e5165f-80f7-454d-a7c9-99c89384baed'></a>\n\nTiming:\n\nDTS: 06/30/97\nExpiration Date: 06/30/97\nOffer Complete: 06/30/97\nDays Offer Open: 0",
+            "type": "text",
+            "id": "d0e5165f-80f7-454d-a7c9-99c89384baed",
+            "grounding": {
+                "box": {
+                    "left": 0.03850676119327545,
+                    "top": 0.36152297258377075,
+                    "right": 0.411718487739563,
+                    "bottom": 0.4513225555419922
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b0132a7c-e233-4c30-a4e1-dc27a5ade246'></a>\n\nDistribution Vehicle: Other (Explanation in Comments)\n\nAge Verification:\noption YES: [ ]\noption NO: [x]\n\nData Entry:\nSupplier None\n\nNo. Days Tumaround\n(From 1 - 10)\n\nIncoming mall N/A\n\nIf M/A/R/C is supplier, do you need a M/A/R/C P.O. Box? N/A\n\nP.O. Box Title: N/A",
+            "type": "text",
+            "id": "b0132a7c-e233-4c30-a4e1-dc27a5ade246",
+            "grounding": {
+                "box": {
+                    "left": 0.4426215887069702,
+                    "top": 0.2753537893295288,
+                    "right": 0.8910980224609375,
+                    "bottom": 0.5680285692214966
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='694a57b9-4e50-46ca-bc77-49c9444f2af4'></a>\n\nAgency:\nAgency Name: None\nContact Person: ___\nPhone #: ___",
+            "type": "text",
+            "id": "694a57b9-4e50-46ca-bc77-49c9444f2af4",
+            "grounding": {
+                "box": {
+                    "left": 0.038897544145584106,
+                    "top": 0.469365656375885,
+                    "right": 0.4119768440723419,
+                    "bottom": 0.5393984913825989
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b2f4a610-2e63-460a-ae65-cd8f5d3815e5'></a>\n\nFulfillment:\n\nCompany: None\n\nJob Number: ___\n\nNumber of Items on Order Form: ___\n\nP.O. Box: ___ City: ___ State: ___ Zip Code: ___\n\n\u0393.\u039f. DUX FILIG. ___",
+            "type": "text",
+            "id": "b2f4a610-2e63-460a-ae65-cd8f5d3815e5",
+            "grounding": {
+                "box": {
+                    "left": 0.03789263963699341,
+                    "top": 0.5560308694839478,
+                    "right": 0.8698257803916931,
+                    "bottom": 0.6420019865036011
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e4980617-8bab-4821-9d9c-1c0a21e134ae'></a>\n\nComments: Mass Ad Names",
+            "type": "text",
+            "id": "e4980617-8bab-4821-9d9c-1c0a21e134ae",
+            "grounding": {
+                "box": {
+                    "left": 0.04536235332489014,
+                    "top": 0.6432774662971497,
+                    "right": 0.8695587515830994,
+                    "bottom": 0.7435984015464783
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b80c732f-460e-43ec-85e9-29348ecb126b'></a>\n\nMarketing Person Responsible for Project: Joyce Bagby\n\nProduction Contact: Joyce Bagby\n\nResponse Code Requested By: Joyce Bagby\n\nCopies of Confirmation Letter To:",
+            "type": "text",
+            "id": "b80c732f-460e-43ec-85e9-29348ecb126b",
+            "grounding": {
+                "box": {
+                    "left": 0.03947579860687256,
+                    "top": 0.7486223578453064,
+                    "right": 0.8704144954681396,
+                    "bottom": 0.8614725470542908
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1a1f0577-e28a-4f49-b558-3b7ccd9236b8'></a>\n\nMary Cloutier\n_______\nJoyce Bagby\n_______\nJanet Myers\n_______\nBonnie Tucker\n_______\nRJRT Form 991-WML 5/21/97",
+            "type": "text",
+            "id": "1a1f0577-e28a-4f49-b558-3b7ccd9236b8",
+            "grounding": {
+                "box": {
+                    "left": 0.04304739832878113,
+                    "top": 0.8670725226402283,
+                    "right": 0.8613041639328003,
+                    "bottom": 0.9454131722450256
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c9b2a0f2-2d26-49fa-9d5b-e004cdd91e58'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xpcf0004",
+            "type": "marginalia",
+            "id": "c9b2a0f2-2d26-49fa-9d5b-e004cdd91e58",
+            "grounding": {
+                "box": {
+                    "left": 0.21355116367340088,
+                    "top": 0.974865734577179,
+                    "right": 0.7868378162384033,
+                    "bottom": 0.9999615550041199
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4d39eacb-409a-4a5b-8d36-fc0e96c28bd8'></a>\n\n52266 1972",
+            "type": "marginalia",
+            "id": "4d39eacb-409a-4a5b-8d36-fc0e96c28bd8",
+            "grounding": {
+                "box": {
+                    "left": 0.8979503512382507,
+                    "top": 0.8287495970726013,
+                    "right": 0.9221603274345398,
+                    "bottom": 0.9264786839485168
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='923a59b3-35bd-4133-98b7-a9d4e17cba97'></a>\n\nResponse Code Request Form\n\n<a id='47c68bc6-5595-425d-8965-a7821cba862d'></a>\n\nFax# (910) 741-5327\nAttn: Bonnie Tucker\n\n<a id='8d62b58b-0b9d-434c-8ee7-8604c378e872'></a>\n\nRJR Brand: Corporate\nRJR Program #: 700399\nResponse Code: Z86\n\nProject Name: Target Dimensions June Names\n\n<a id='4309d0a7-29e9-43d1-8afe-5cb35e5ec64a'></a>\n\nDescription: Names received from Target Dimensions for the month of June\n\n<a id='fcc6e246-f1d8-48ff-bdeb-e29e051b0d89'></a>\n\nDistribution:\nQuantity: 220,000\nPct. Response: 100.00 %\n# of Responders: 220000\n\n<a id='d0e5165f-80f7-454d-a7c9-99c89384baed'></a>\n\nTiming:\n\nDTS: 06/30/97\nExpiration Date: 06/30/97\nOffer Complete: 06/30/97\nDays Offer Open: 0\n\n<a id='b0132a7c-e233-4c30-a4e1-dc27a5ade246'></a>\n\nDistribution Vehicle: Other (Explanation in Comments)\n\nAge Verification:\noption YES: [ ]\noption NO: [x]\n\nData Entry:\nSupplier None\n\nNo. Days Tumaround\n(From 1 - 10)\n\nIncoming mall N/A\n\nIf M/A/R/C is supplier, do you need a M/A/R/C P.O. Box? N/A\n\nP.O. Box Title: N/A\n\n<a id='694a57b9-4e50-46ca-bc77-49c9444f2af4'></a>\n\nAgency:\nAgency Name: None\nContact Person: ___\nPhone #: ___\n\n<a id='b2f4a610-2e63-460a-ae65-cd8f5d3815e5'></a>\n\nFulfillment:\n\nCompany: None\n\nJob Number: ___\n\nNumber of Items on Order Form: ___\n\nP.O. Box: ___ City: ___ State: ___ Zip Code: ___\n\n\u0393.\u039f. DUX FILIG. ___\n\n<a id='e4980617-8bab-4821-9d9c-1c0a21e134ae'></a>\n\nComments: Mass Ad Names\n\n<a id='b80c732f-460e-43ec-85e9-29348ecb126b'></a>\n\nMarketing Person Responsible for Project: Joyce Bagby\n\nProduction Contact: Joyce Bagby\n\nResponse Code Requested By: Joyce Bagby\n\nCopies of Confirmation Letter To:\n\n<a id='1a1f0577-e28a-4f49-b558-3b7ccd9236b8'></a>\n\nMary Cloutier\n_______\nJoyce Bagby\n_______\nJanet Myers\n_______\nBonnie Tucker\n_______\nRJRT Form 991-WML 5/21/97\n\n<a id='c9b2a0f2-2d26-49fa-9d5b-e004cdd91e58'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xpcf0004\n\n<a id='4d39eacb-409a-4a5b-8d36-fc0e96c28bd8'></a>\n\n52266 1972",
+            "chunks": [
+                "923a59b3-35bd-4133-98b7-a9d4e17cba97",
+                "47c68bc6-5595-425d-8965-a7821cba862d",
+                "8d62b58b-0b9d-434c-8ee7-8604c378e872",
+                "4309d0a7-29e9-43d1-8afe-5cb35e5ec64a",
+                "fcc6e246-f1d8-48ff-bdeb-e29e051b0d89",
+                "d0e5165f-80f7-454d-a7c9-99c89384baed",
+                "b0132a7c-e233-4c30-a4e1-dc27a5ade246",
+                "694a57b9-4e50-46ca-bc77-49c9444f2af4",
+                "b2f4a610-2e63-460a-ae65-cd8f5d3815e5",
+                "e4980617-8bab-4821-9d9c-1c0a21e134ae",
+                "b80c732f-460e-43ec-85e9-29348ecb126b",
+                "1a1f0577-e28a-4f49-b558-3b7ccd9236b8",
+                "c9b2a0f2-2d26-49fa-9d5b-e004cdd91e58",
+                "4d39eacb-409a-4a5b-8d36-fc0e96c28bd8"
+            ]
+        }
+    ],
+    "grounding": {
+        "923a59b3-35bd-4133-98b7-a9d4e17cba97": {
+            "box": {
+                "left": 0.27616041898727417,
+                "top": 0.048150435090065,
+                "right": 0.6523932814598083,
+                "bottom": 0.07513483613729477
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "47c68bc6-5595-425d-8965-a7821cba862d": {
+            "box": {
+                "left": 0.3649853765964508,
+                "top": 0.08484724164009094,
+                "right": 0.5634130239486694,
+                "bottom": 0.12228356301784515
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8d62b58b-0b9d-434c-8ee7-8604c378e872": {
+            "box": {
+                "left": 0.03958934545516968,
+                "top": 0.12625786662101746,
+                "right": 0.8699749708175659,
+                "bottom": 0.18074709177017212
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4309d0a7-29e9-43d1-8afe-5cb35e5ec64a": {
+            "box": {
+                "left": 0.04688146710395813,
+                "top": 0.1849905252456665,
+                "right": 0.8683345317840576,
+                "bottom": 0.2692001760005951
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fcc6e246-f1d8-48ff-bdeb-e29e051b0d89": {
+            "box": {
+                "left": 0.03861930966377258,
+                "top": 0.27547600865364075,
+                "right": 0.41308364272117615,
+                "bottom": 0.3454667627811432
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d0e5165f-80f7-454d-a7c9-99c89384baed": {
+            "box": {
+                "left": 0.03850676119327545,
+                "top": 0.36152297258377075,
+                "right": 0.411718487739563,
+                "bottom": 0.4513225555419922
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b0132a7c-e233-4c30-a4e1-dc27a5ade246": {
+            "box": {
+                "left": 0.4426215887069702,
+                "top": 0.2753537893295288,
+                "right": 0.8910980224609375,
+                "bottom": 0.5680285692214966
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "694a57b9-4e50-46ca-bc77-49c9444f2af4": {
+            "box": {
+                "left": 0.038897544145584106,
+                "top": 0.469365656375885,
+                "right": 0.4119768440723419,
+                "bottom": 0.5393984913825989
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b2f4a610-2e63-460a-ae65-cd8f5d3815e5": {
+            "box": {
+                "left": 0.03789263963699341,
+                "top": 0.5560308694839478,
+                "right": 0.8698257803916931,
+                "bottom": 0.6420019865036011
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e4980617-8bab-4821-9d9c-1c0a21e134ae": {
+            "box": {
+                "left": 0.04536235332489014,
+                "top": 0.6432774662971497,
+                "right": 0.8695587515830994,
+                "bottom": 0.7435984015464783
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b80c732f-460e-43ec-85e9-29348ecb126b": {
+            "box": {
+                "left": 0.03947579860687256,
+                "top": 0.7486223578453064,
+                "right": 0.8704144954681396,
+                "bottom": 0.8614725470542908
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1a1f0577-e28a-4f49-b558-3b7ccd9236b8": {
+            "box": {
+                "left": 0.04304739832878113,
+                "top": 0.8670725226402283,
+                "right": 0.8613041639328003,
+                "bottom": 0.9454131722450256
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c9b2a0f2-2d26-49fa-9d5b-e004cdd91e58": {
+            "box": {
+                "left": 0.21355116367340088,
+                "top": 0.974865734577179,
+                "right": 0.7868378162384033,
+                "bottom": 0.9999615550041199
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "4d39eacb-409a-4a5b-8d36-fc0e96c28bd8": {
+            "box": {
+                "left": 0.8979503512382507,
+                "top": 0.8287495970726013,
+                "right": 0.9221603274345398,
+                "bottom": 0.9264786839485168
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xpcf0004_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7027,
+        "credit_usage": 3.0,
+        "job_id": "fgxuz83tve72evpj5b99cknpm",
+        "version": "dpt-2-20250919"
+    }
+}

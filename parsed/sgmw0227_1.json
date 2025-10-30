@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='1ee7ee71-020e-4e22-be67-b386c38f8abc'></a>\n\nName\n\nAddress\n\nCity State\n\n<a id='cb494c2a-c165-4310-b6c6-595bc33bb23f'></a>\n\nBUSINESS REPLY MAIL\nFirst Class Permit No. 267 Jefferson City, Mo. 65101\n\nMISSOURI STATE MEDICAL ASSOCIATION\n\nP. O. BOX 1028\n\nJEFFERSON CITY, MISSOURI 65101\n\n<a id='c2eefcb1-87cc-4b61-b25a-f136cfd84878'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/sgmw0227\n\n<a id='5bb4175c-7df5-4062-b5bc-f268cd68e062'></a>\n\n<:: No Postage Stamp Necessary If Mailed in the United States\n\n[A series of horizontal bars are depicted below the text, resembling a postal indicia design.]\n: figure::>",
+    "chunks": [
+        {
+            "markdown": "<a id='1ee7ee71-020e-4e22-be67-b386c38f8abc'></a>\n\nName\n\nAddress\n\nCity State",
+            "type": "text",
+            "id": "1ee7ee71-020e-4e22-be67-b386c38f8abc",
+            "grounding": {
+                "box": {
+                    "left": 0.047320470213890076,
+                    "top": 0.07780733704566956,
+                    "right": 0.37178605794906616,
+                    "bottom": 0.32859864830970764
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cb494c2a-c165-4310-b6c6-595bc33bb23f'></a>\n\nBUSINESS REPLY MAIL\nFirst Class Permit No. 267 Jefferson City, Mo. 65101\n\nMISSOURI STATE MEDICAL ASSOCIATION\n\nP. O. BOX 1028\n\nJEFFERSON CITY, MISSOURI 65101",
+            "type": "text",
+            "id": "cb494c2a-c165-4310-b6c6-595bc33bb23f",
+            "grounding": {
+                "box": {
+                    "left": 0.28465381264686584,
+                    "top": 0.4128861427307129,
+                    "right": 0.7187331914901733,
+                    "bottom": 0.8482067584991455
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c2eefcb1-87cc-4b61-b25a-f136cfd84878'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/sgmw0227",
+            "type": "marginalia",
+            "id": "c2eefcb1-87cc-4b61-b25a-f136cfd84878",
+            "grounding": {
+                "box": {
+                    "left": 0.2315080761909485,
+                    "top": 0.9448907971382141,
+                    "right": 0.7683491110801697,
+                    "bottom": 0.9996179938316345
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5bb4175c-7df5-4062-b5bc-f268cd68e062'></a>\n\n<:: No Postage Stamp Necessary If Mailed in the United States\n\n[A series of horizontal bars are depicted below the text, resembling a postal indicia design.]\n: figure::>",
+            "type": "figure",
+            "id": "5bb4175c-7df5-4062-b5bc-f268cd68e062",
+            "grounding": {
+                "box": {
+                    "left": 0.8440588712692261,
+                    "top": 0.09150409698486328,
+                    "right": 0.9728751182556152,
+                    "bottom": 0.8824241757392883
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='1ee7ee71-020e-4e22-be67-b386c38f8abc'></a>\n\nName\n\nAddress\n\nCity State\n\n<a id='cb494c2a-c165-4310-b6c6-595bc33bb23f'></a>\n\nBUSINESS REPLY MAIL\nFirst Class Permit No. 267 Jefferson City, Mo. 65101\n\nMISSOURI STATE MEDICAL ASSOCIATION\n\nP. O. BOX 1028\n\nJEFFERSON CITY, MISSOURI 65101\n\n<a id='c2eefcb1-87cc-4b61-b25a-f136cfd84878'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/sgmw0227\n\n<a id='5bb4175c-7df5-4062-b5bc-f268cd68e062'></a>\n\n<:: No Postage Stamp Necessary If Mailed in the United States\n\n[A series of horizontal bars are depicted below the text, resembling a postal indicia design.]\n: figure::>",
+            "chunks": [
+                "1ee7ee71-020e-4e22-be67-b386c38f8abc",
+                "cb494c2a-c165-4310-b6c6-595bc33bb23f",
+                "c2eefcb1-87cc-4b61-b25a-f136cfd84878",
+                "5bb4175c-7df5-4062-b5bc-f268cd68e062"
+            ]
+        }
+    ],
+    "grounding": {
+        "1ee7ee71-020e-4e22-be67-b386c38f8abc": {
+            "box": {
+                "left": 0.047320470213890076,
+                "top": 0.07780733704566956,
+                "right": 0.37178605794906616,
+                "bottom": 0.32859864830970764
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cb494c2a-c165-4310-b6c6-595bc33bb23f": {
+            "box": {
+                "left": 0.28465381264686584,
+                "top": 0.4128861427307129,
+                "right": 0.7187331914901733,
+                "bottom": 0.8482067584991455
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c2eefcb1-87cc-4b61-b25a-f136cfd84878": {
+            "box": {
+                "left": 0.2315080761909485,
+                "top": 0.9448907971382141,
+                "right": 0.7683491110801697,
+                "bottom": 0.9996179938316345
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "5bb4175c-7df5-4062-b5bc-f268cd68e062": {
+            "box": {
+                "left": 0.8440588712692261,
+                "top": 0.09150409698486328,
+                "right": 0.9728751182556152,
+                "bottom": 0.8824241757392883
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "sgmw0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6034,
+        "credit_usage": 3.0,
+        "job_id": "ay3aq7jj4zayygkdbf35am7gj",
+        "version": "dpt-2-20250919"
+    }
+}

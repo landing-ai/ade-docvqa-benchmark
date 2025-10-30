@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='79d0f61c-d6c4-4821-81d4-badbca5a0d2f'></a>\n\nTHE UNIVERSITY INTERSCHOLASTIC LEAGUE\n\n<a id='506d2dc0-41f2-4291-83b7-06af47257bf5'></a>\n\nSCIENCE CONTEST\n\n<a id='162d67d6-e02d-4d86-b752-b34a5aa52744'></a>\n\nNumber 15\n\n<a id='3c2cf1dd-e213-4c52-90c2-c0fdb82ad4a2'></a>\n\n## GENERAL DIRECTIONS:\n\n1. DO NOT OPEN EXAM UNTIL TOLD TO DO SO.\n2. Ninety minutes should be ample time to complete this contest, but since the exam is not a race, contestants may take up to two hours.\n3. Papers may not be turned in until sixty minutes have elapsed.\n4. All answers must be written on the answer sheet provided.\n5. Some sections of the contest may have more than one correct answer. These are specifically noted in the appropriate section instructions. There is a penalty for incorrect answers to these questions. All other sections have one correct (best) answer. There is no penalty for incorrect answers to these questions.\n6. If a question is omitted, no points are given or subtracted.\n\n<a id='d27feb26-57d3-429e-843a-6f5a86802b67'></a>\n\n# SCORING\n\n1. All questions for which there is only one correct answer requested will receive 5 points if answered correctly, and no points if unanswered or if answered incorrectly.\n2. On questions where one or more correct answers are possible (the last 10 questions), the following rules will apply:\n   (a) If only one answer is correct and only one correct answer is given, then 5 points will be awarded.\n   (b) If there are two correct answers and both of these are given, 5 points will be awarded. If only one of these is given, then only 2 points will be awarded.\n   (c) If there are three correct answers and all three correct answers are given, then 5 points will be awarded. If only two of the correct answers are given, then 3 points will be awarded, and if only one correct answer is given, then only 1 point will be awarded.\n   (d) If there are four correct answers and all four correct answers are given, then 5 points will be awarded. For three correct answers, 3 points will be awarded; for two correct answers, 2 points will be awarded; and for one correct answer, 1 point will be awarded.\n   (e) If there are five or more correct answers, 5 points will be awarded if all the correct answers are given; otherwise, 1 point will be awarded for each correct answer, up to a maximum of 4 points.\n   (f) On all questions where there may be one or more correct answers, if any incorrect answers are given, 2 points are subtracted from the total score for each incorrect answer.\n   (g) If a question is omitted, no points are given or subtracted.\n\n<a id='67e18361-29cc-452e-b636-275cfd958f33'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jyfk0226",
+    "chunks": [
+        {
+            "markdown": "<a id='79d0f61c-d6c4-4821-81d4-badbca5a0d2f'></a>\n\nTHE UNIVERSITY INTERSCHOLASTIC LEAGUE",
+            "type": "text",
+            "id": "79d0f61c-d6c4-4821-81d4-badbca5a0d2f",
+            "grounding": {
+                "box": {
+                    "left": 0.19135233759880066,
+                    "top": 0.04133068770170212,
+                    "right": 0.7729341983795166,
+                    "bottom": 0.0716097429394722
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='506d2dc0-41f2-4291-83b7-06af47257bf5'></a>\n\nSCIENCE CONTEST",
+            "type": "text",
+            "id": "506d2dc0-41f2-4291-83b7-06af47257bf5",
+            "grounding": {
+                "box": {
+                    "left": 0.26301223039627075,
+                    "top": 0.08503732085227966,
+                    "right": 0.7052019834518433,
+                    "bottom": 0.12171974778175354
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='162d67d6-e02d-4d86-b752-b34a5aa52744'></a>\n\nNumber 15",
+            "type": "text",
+            "id": "162d67d6-e02d-4d86-b752-b34a5aa52744",
+            "grounding": {
+                "box": {
+                    "left": 0.4033335745334625,
+                    "top": 0.13114067912101746,
+                    "right": 0.5612853169441223,
+                    "bottom": 0.15775710344314575
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3c2cf1dd-e213-4c52-90c2-c0fdb82ad4a2'></a>\n\n## GENERAL DIRECTIONS:\n\n1. DO NOT OPEN EXAM UNTIL TOLD TO DO SO.\n2. Ninety minutes should be ample time to complete this contest, but since the exam is not a race, contestants may take up to two hours.\n3. Papers may not be turned in until sixty minutes have elapsed.\n4. All answers must be written on the answer sheet provided.\n5. Some sections of the contest may have more than one correct answer. These are specifically noted in the appropriate section instructions. There is a penalty for incorrect answers to these questions. All other sections have one correct (best) answer. There is no penalty for incorrect answers to these questions.\n6. If a question is omitted, no points are given or subtracted.",
+            "type": "text",
+            "id": "3c2cf1dd-e213-4c52-90c2-c0fdb82ad4a2",
+            "grounding": {
+                "box": {
+                    "left": 0.1739128828048706,
+                    "top": 0.17961716651916504,
+                    "right": 0.8785102367401123,
+                    "bottom": 0.4257729649543762
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d27feb26-57d3-429e-843a-6f5a86802b67'></a>\n\n# SCORING\n\n1. All questions for which there is only one correct answer requested will receive 5 points if answered correctly, and no points if unanswered or if answered incorrectly.\n2. On questions where one or more correct answers are possible (the last 10 questions), the following rules will apply:\n   (a) If only one answer is correct and only one correct answer is given, then 5 points will be awarded.\n   (b) If there are two correct answers and both of these are given, 5 points will be awarded. If only one of these is given, then only 2 points will be awarded.\n   (c) If there are three correct answers and all three correct answers are given, then 5 points will be awarded. If only two of the correct answers are given, then 3 points will be awarded, and if only one correct answer is given, then only 1 point will be awarded.\n   (d) If there are four correct answers and all four correct answers are given, then 5 points will be awarded. For three correct answers, 3 points will be awarded; for two correct answers, 2 points will be awarded; and for one correct answer, 1 point will be awarded.\n   (e) If there are five or more correct answers, 5 points will be awarded if all the correct answers are given; otherwise, 1 point will be awarded for each correct answer, up to a maximum of 4 points.\n   (f) On all questions where there may be one or more correct answers, if any incorrect answers are given, 2 points are subtracted from the total score for each incorrect answer.\n   (g) If a question is omitted, no points are given or subtracted.",
+            "type": "text",
+            "id": "d27feb26-57d3-429e-843a-6f5a86802b67",
+            "grounding": {
+                "box": {
+                    "left": 0.17849189043045044,
+                    "top": 0.4415091276168823,
+                    "right": 0.7965231537818909,
+                    "bottom": 0.8474111557006836
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='67e18361-29cc-452e-b636-275cfd958f33'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jyfk0226",
+            "type": "marginalia",
+            "id": "67e18361-29cc-452e-b636-275cfd958f33",
+            "grounding": {
+                "box": {
+                    "left": 0.21853572130203247,
+                    "top": 0.9776847958564758,
+                    "right": 0.7818818688392639,
+                    "bottom": 0.9996228814125061
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='79d0f61c-d6c4-4821-81d4-badbca5a0d2f'></a>\n\nTHE UNIVERSITY INTERSCHOLASTIC LEAGUE\n\n<a id='506d2dc0-41f2-4291-83b7-06af47257bf5'></a>\n\nSCIENCE CONTEST\n\n<a id='162d67d6-e02d-4d86-b752-b34a5aa52744'></a>\n\nNumber 15\n\n<a id='3c2cf1dd-e213-4c52-90c2-c0fdb82ad4a2'></a>\n\n## GENERAL DIRECTIONS:\n\n1. DO NOT OPEN EXAM UNTIL TOLD TO DO SO.\n2. Ninety minutes should be ample time to complete this contest, but since the exam is not a race, contestants may take up to two hours.\n3. Papers may not be turned in until sixty minutes have elapsed.\n4. All answers must be written on the answer sheet provided.\n5. Some sections of the contest may have more than one correct answer. These are specifically noted in the appropriate section instructions. There is a penalty for incorrect answers to these questions. All other sections have one correct (best) answer. There is no penalty for incorrect answers to these questions.\n6. If a question is omitted, no points are given or subtracted.\n\n<a id='d27feb26-57d3-429e-843a-6f5a86802b67'></a>\n\n# SCORING\n\n1. All questions for which there is only one correct answer requested will receive 5 points if answered correctly, and no points if unanswered or if answered incorrectly.\n2. On questions where one or more correct answers are possible (the last 10 questions), the following rules will apply:\n   (a) If only one answer is correct and only one correct answer is given, then 5 points will be awarded.\n   (b) If there are two correct answers and both of these are given, 5 points will be awarded. If only one of these is given, then only 2 points will be awarded.\n   (c) If there are three correct answers and all three correct answers are given, then 5 points will be awarded. If only two of the correct answers are given, then 3 points will be awarded, and if only one correct answer is given, then only 1 point will be awarded.\n   (d) If there are four correct answers and all four correct answers are given, then 5 points will be awarded. For three correct answers, 3 points will be awarded; for two correct answers, 2 points will be awarded; and for one correct answer, 1 point will be awarded.\n   (e) If there are five or more correct answers, 5 points will be awarded if all the correct answers are given; otherwise, 1 point will be awarded for each correct answer, up to a maximum of 4 points.\n   (f) On all questions where there may be one or more correct answers, if any incorrect answers are given, 2 points are subtracted from the total score for each incorrect answer.\n   (g) If a question is omitted, no points are given or subtracted.\n\n<a id='67e18361-29cc-452e-b636-275cfd958f33'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jyfk0226",
+            "chunks": [
+                "79d0f61c-d6c4-4821-81d4-badbca5a0d2f",
+                "506d2dc0-41f2-4291-83b7-06af47257bf5",
+                "162d67d6-e02d-4d86-b752-b34a5aa52744",
+                "3c2cf1dd-e213-4c52-90c2-c0fdb82ad4a2",
+                "d27feb26-57d3-429e-843a-6f5a86802b67",
+                "67e18361-29cc-452e-b636-275cfd958f33"
+            ]
+        }
+    ],
+    "grounding": {
+        "79d0f61c-d6c4-4821-81d4-badbca5a0d2f": {
+            "box": {
+                "left": 0.19135233759880066,
+                "top": 0.04133068770170212,
+                "right": 0.7729341983795166,
+                "bottom": 0.0716097429394722
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "506d2dc0-41f2-4291-83b7-06af47257bf5": {
+            "box": {
+                "left": 0.26301223039627075,
+                "top": 0.08503732085227966,
+                "right": 0.7052019834518433,
+                "bottom": 0.12171974778175354
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "162d67d6-e02d-4d86-b752-b34a5aa52744": {
+            "box": {
+                "left": 0.4033335745334625,
+                "top": 0.13114067912101746,
+                "right": 0.5612853169441223,
+                "bottom": 0.15775710344314575
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3c2cf1dd-e213-4c52-90c2-c0fdb82ad4a2": {
+            "box": {
+                "left": 0.1739128828048706,
+                "top": 0.17961716651916504,
+                "right": 0.8785102367401123,
+                "bottom": 0.4257729649543762
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d27feb26-57d3-429e-843a-6f5a86802b67": {
+            "box": {
+                "left": 0.17849189043045044,
+                "top": 0.4415091276168823,
+                "right": 0.7965231537818909,
+                "bottom": 0.8474111557006836
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "67e18361-29cc-452e-b636-275cfd958f33": {
+            "box": {
+                "left": 0.21853572130203247,
+                "top": 0.9776847958564758,
+                "right": 0.7818818688392639,
+                "bottom": 0.9996228814125061
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "jyfk0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6392,
+        "credit_usage": 3.0,
+        "job_id": "evniidafze2iy2v1uz6p2x4x6",
+        "version": "dpt-2-20250919"
+    }
+}

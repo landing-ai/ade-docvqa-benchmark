@@ -1,0 +1,703 @@
+{
+    "markdown": "<a id='3048d671-489d-4225-929b-9e949662b893'></a>\n\nTHE FOLLOWING IS SUFFICIENT FOR A 10,000 LB BATCH OF MT-768 D\nINCLUDING UP TO A 200 LB PURGE\n\n<a id='17670e4f-95db-4ae6-9b4e-95591224873b'></a>\n\nCUT TOBACCO: MT-768 D BST391\n\n<a id='6564a96f-caee-4cb9-abe5-5592cd2c1aca'></a>\n\nBEST PROTOTYPE, 327391\n\n<a id='cb46d289-5940-42b7-af34-f958caa28c0f'></a>\n\nCASING: VIRGINIA ; C-727\n\nTOTAL CASING AMOUNT: 894.3551 LBS\n\n<a id='ffe2c96a-928b-4afd-ad47-ee060a271692'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ITEM</td><td id=\"0-3\">INGREDIENT</td><td id=\"0-4\">MATERIAL #</td><td id=\"0-5\">POUNDS</td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\">1</td><td id=\"0-8\">CELANDO</td><td id=\"0-9\">60-0130</td><td id=\"0-a\">94.7680</td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">2</td><td id=\"0-d\">HALWAY</td><td id=\"0-e\">60-0560</td><td id=\"0-f\">142.1520</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">3</td><td id=\"0-i\">QUASER</td><td id=\"0-j\">60-1120</td><td id=\"0-k\">220.8094</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">4</td><td id=\"0-n\">GRELANTER</td><td id=\"0-o\">60-0280</td><td id=\"0-p\">199.0128</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">5</td><td id=\"0-s\">UKELON</td><td id=\"0-t\">60-2260</td><td id=\"0-u\">47.3840</td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">6</td><td id=\"0-x\">XCF-2488</td><td id=\"0-y\">60-399T</td><td id=\"0-z\">5.7335</td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\"></td><td id=\"0-C\">HOTANTIS</td><td id=\"0-D\">60-2520</td><td id=\"0-E\">184.4955</td><td id=\"0-F\">22.1297 GAL</td></tr>\n<tr><td id=\"0-G\"></td><td id=\"0-H\" colspan=\"2\">HOTANTIS ADJUSTMENT....</td><td id=\"0-I\">220.5854</td><td id=\"0-J\">26.4586 GAL</td></tr>\n</table>\n\n<a id='fb7f6915-2c87-45cd-af56-db15f13aaa3c'></a>\n\nMIXING INSTRUCTIONS\n\n<a id='59611d21-45b9-4f26-ae70-422b5dd270a4'></a>\n\n1. ADD ALL INGREDIENTS TO HOTANTIS AT 110-120 F.\n2. MIX THOROUGHLY.\n3. HOLD AT 120 F. AND APPLY WITH AIR ATOMIZATION.\n\n<a id='cde7f488-0e02-4f50-9e78-eb6bb26f142f'></a>\n\n583232688\n\n<a id='1a4a7cf4-6594-45b3-8bbe-8b3d7009c704'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lycj0037",
+    "chunks": [
+        {
+            "markdown": "<a id='3048d671-489d-4225-929b-9e949662b893'></a>\n\nTHE FOLLOWING IS SUFFICIENT FOR A 10,000 LB BATCH OF MT-768 D\nINCLUDING UP TO A 200 LB PURGE",
+            "type": "text",
+            "id": "3048d671-489d-4225-929b-9e949662b893",
+            "grounding": {
+                "box": {
+                    "left": 0.14593610167503357,
+                    "top": 0.06802161782979965,
+                    "right": 0.876518726348877,
+                    "bottom": 0.12283804267644882
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='17670e4f-95db-4ae6-9b4e-95591224873b'></a>\n\nCUT TOBACCO: MT-768 D BST391",
+            "type": "text",
+            "id": "17670e4f-95db-4ae6-9b4e-95591224873b",
+            "grounding": {
+                "box": {
+                    "left": 0.04162043333053589,
+                    "top": 0.16290797293186188,
+                    "right": 0.41310620307922363,
+                    "bottom": 0.18299366533756256
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6564a96f-caee-4cb9-abe5-5592cd2c1aca'></a>\n\nBEST PROTOTYPE, 327391",
+            "type": "text",
+            "id": "6564a96f-caee-4cb9-abe5-5592cd2c1aca",
+            "grounding": {
+                "box": {
+                    "left": 0.5118496417999268,
+                    "top": 0.16250593960285187,
+                    "right": 0.7807708978652954,
+                    "bottom": 0.1831587702035904
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cb46d289-5940-42b7-af34-f958caa28c0f'></a>\n\nCASING: VIRGINIA ; C-727\n\nTOTAL CASING AMOUNT: 894.3551 LBS",
+            "type": "text",
+            "id": "cb46d289-5940-42b7-af34-f958caa28c0f",
+            "grounding": {
+                "box": {
+                    "left": 0.03931272029876709,
+                    "top": 0.19206537306308746,
+                    "right": 0.9704324007034302,
+                    "bottom": 0.21587316691875458
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ffe2c96a-928b-4afd-ad47-ee060a271692'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ITEM</td><td id=\"0-3\">INGREDIENT</td><td id=\"0-4\">MATERIAL #</td><td id=\"0-5\">POUNDS</td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\">1</td><td id=\"0-8\">CELANDO</td><td id=\"0-9\">60-0130</td><td id=\"0-a\">94.7680</td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">2</td><td id=\"0-d\">HALWAY</td><td id=\"0-e\">60-0560</td><td id=\"0-f\">142.1520</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">3</td><td id=\"0-i\">QUASER</td><td id=\"0-j\">60-1120</td><td id=\"0-k\">220.8094</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">4</td><td id=\"0-n\">GRELANTER</td><td id=\"0-o\">60-0280</td><td id=\"0-p\">199.0128</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">5</td><td id=\"0-s\">UKELON</td><td id=\"0-t\">60-2260</td><td id=\"0-u\">47.3840</td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">6</td><td id=\"0-x\">XCF-2488</td><td id=\"0-y\">60-399T</td><td id=\"0-z\">5.7335</td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\"></td><td id=\"0-C\">HOTANTIS</td><td id=\"0-D\">60-2520</td><td id=\"0-E\">184.4955</td><td id=\"0-F\">22.1297 GAL</td></tr>\n<tr><td id=\"0-G\"></td><td id=\"0-H\" colspan=\"2\">HOTANTIS ADJUSTMENT....</td><td id=\"0-I\">220.5854</td><td id=\"0-J\">26.4586 GAL</td></tr>\n</table>",
+            "type": "table",
+            "id": "ffe2c96a-928b-4afd-ad47-ee060a271692",
+            "grounding": {
+                "box": {
+                    "left": 0.03982353210449219,
+                    "top": 0.22386905550956726,
+                    "right": 0.8056683540344238,
+                    "bottom": 0.41604432463645935
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fb7f6915-2c87-45cd-af56-db15f13aaa3c'></a>\n\nMIXING INSTRUCTIONS",
+            "type": "text",
+            "id": "fb7f6915-2c87-45cd-af56-db15f13aaa3c",
+            "grounding": {
+                "box": {
+                    "left": 0.038038454949855804,
+                    "top": 0.43498149514198303,
+                    "right": 0.27732348442077637,
+                    "bottom": 0.45787230134010315
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='59611d21-45b9-4f26-ae70-422b5dd270a4'></a>\n\n1. ADD ALL INGREDIENTS TO HOTANTIS AT 110-120 F.\n2. MIX THOROUGHLY.\n3. HOLD AT 120 F. AND APPLY WITH AIR ATOMIZATION.",
+            "type": "text",
+            "id": "59611d21-45b9-4f26-ae70-422b5dd270a4",
+            "grounding": {
+                "box": {
+                    "left": 0.03920760750770569,
+                    "top": 0.4805191159248352,
+                    "right": 0.6291048526763916,
+                    "bottom": 0.5390353798866272
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cde7f488-0e02-4f50-9e78-eb6bb26f142f'></a>\n\n583232688",
+            "type": "marginalia",
+            "id": "cde7f488-0e02-4f50-9e78-eb6bb26f142f",
+            "grounding": {
+                "box": {
+                    "left": 0.7479696869850159,
+                    "top": 0.9292327761650085,
+                    "right": 0.917640745639801,
+                    "bottom": 0.9569234251976013
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1a4a7cf4-6594-45b3-8bbe-8b3d7009c704'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lycj0037",
+            "type": "marginalia",
+            "id": "1a4a7cf4-6594-45b3-8bbe-8b3d7009c704",
+            "grounding": {
+                "box": {
+                    "left": 0.22142833471298218,
+                    "top": 0.9784267544746399,
+                    "right": 0.7785165905952454,
+                    "bottom": 0.9995560050010681
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3048d671-489d-4225-929b-9e949662b893'></a>\n\nTHE FOLLOWING IS SUFFICIENT FOR A 10,000 LB BATCH OF MT-768 D\nINCLUDING UP TO A 200 LB PURGE\n\n<a id='17670e4f-95db-4ae6-9b4e-95591224873b'></a>\n\nCUT TOBACCO: MT-768 D BST391\n\n<a id='6564a96f-caee-4cb9-abe5-5592cd2c1aca'></a>\n\nBEST PROTOTYPE, 327391\n\n<a id='cb46d289-5940-42b7-af34-f958caa28c0f'></a>\n\nCASING: VIRGINIA ; C-727\n\nTOTAL CASING AMOUNT: 894.3551 LBS\n\n<a id='ffe2c96a-928b-4afd-ad47-ee060a271692'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ITEM</td><td id=\"0-3\">INGREDIENT</td><td id=\"0-4\">MATERIAL #</td><td id=\"0-5\">POUNDS</td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\">1</td><td id=\"0-8\">CELANDO</td><td id=\"0-9\">60-0130</td><td id=\"0-a\">94.7680</td><td id=\"0-b\"></td></tr>\n<tr><td id=\"0-c\">2</td><td id=\"0-d\">HALWAY</td><td id=\"0-e\">60-0560</td><td id=\"0-f\">142.1520</td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\">3</td><td id=\"0-i\">QUASER</td><td id=\"0-j\">60-1120</td><td id=\"0-k\">220.8094</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">4</td><td id=\"0-n\">GRELANTER</td><td id=\"0-o\">60-0280</td><td id=\"0-p\">199.0128</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">5</td><td id=\"0-s\">UKELON</td><td id=\"0-t\">60-2260</td><td id=\"0-u\">47.3840</td><td id=\"0-v\"></td></tr>\n<tr><td id=\"0-w\">6</td><td id=\"0-x\">XCF-2488</td><td id=\"0-y\">60-399T</td><td id=\"0-z\">5.7335</td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\"></td><td id=\"0-C\">HOTANTIS</td><td id=\"0-D\">60-2520</td><td id=\"0-E\">184.4955</td><td id=\"0-F\">22.1297 GAL</td></tr>\n<tr><td id=\"0-G\"></td><td id=\"0-H\" colspan=\"2\">HOTANTIS ADJUSTMENT....</td><td id=\"0-I\">220.5854</td><td id=\"0-J\">26.4586 GAL</td></tr>\n</table>\n\n<a id='fb7f6915-2c87-45cd-af56-db15f13aaa3c'></a>\n\nMIXING INSTRUCTIONS\n\n<a id='59611d21-45b9-4f26-ae70-422b5dd270a4'></a>\n\n1. ADD ALL INGREDIENTS TO HOTANTIS AT 110-120 F.\n2. MIX THOROUGHLY.\n3. HOLD AT 120 F. AND APPLY WITH AIR ATOMIZATION.\n\n<a id='cde7f488-0e02-4f50-9e78-eb6bb26f142f'></a>\n\n583232688\n\n<a id='1a4a7cf4-6594-45b3-8bbe-8b3d7009c704'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lycj0037",
+            "chunks": [
+                "3048d671-489d-4225-929b-9e949662b893",
+                "17670e4f-95db-4ae6-9b4e-95591224873b",
+                "6564a96f-caee-4cb9-abe5-5592cd2c1aca",
+                "cb46d289-5940-42b7-af34-f958caa28c0f",
+                "ffe2c96a-928b-4afd-ad47-ee060a271692",
+                "fb7f6915-2c87-45cd-af56-db15f13aaa3c",
+                "59611d21-45b9-4f26-ae70-422b5dd270a4",
+                "cde7f488-0e02-4f50-9e78-eb6bb26f142f",
+                "1a4a7cf4-6594-45b3-8bbe-8b3d7009c704"
+            ]
+        }
+    ],
+    "grounding": {
+        "3048d671-489d-4225-929b-9e949662b893": {
+            "box": {
+                "left": 0.14593610167503357,
+                "top": 0.06802161782979965,
+                "right": 0.876518726348877,
+                "bottom": 0.12283804267644882
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "17670e4f-95db-4ae6-9b4e-95591224873b": {
+            "box": {
+                "left": 0.04162043333053589,
+                "top": 0.16290797293186188,
+                "right": 0.41310620307922363,
+                "bottom": 0.18299366533756256
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6564a96f-caee-4cb9-abe5-5592cd2c1aca": {
+            "box": {
+                "left": 0.5118496417999268,
+                "top": 0.16250593960285187,
+                "right": 0.7807708978652954,
+                "bottom": 0.1831587702035904
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cb46d289-5940-42b7-af34-f958caa28c0f": {
+            "box": {
+                "left": 0.03931272029876709,
+                "top": 0.19206537306308746,
+                "right": 0.9704324007034302,
+                "bottom": 0.21587316691875458
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ffe2c96a-928b-4afd-ad47-ee060a271692": {
+            "box": {
+                "left": 0.03982353210449219,
+                "top": 0.22386905550956726,
+                "right": 0.8056683540344238,
+                "bottom": 0.41604432463645935
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.04342524053303087,
+                "top": 0.22449595538507852,
+                "right": 0.8047964789808475,
+                "bottom": 0.41303605351418327
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.04342524053303087,
+                "top": 0.22449595538507852,
+                "right": 0.10443232086279508,
+                "bottom": 0.2508034381023325
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.10443232086279508,
+                "top": 0.22449595538507852,
+                "right": 0.251353338460234,
+                "bottom": 0.2508034381023325
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.251353338460234,
+                "top": 0.22449595538507852,
+                "right": 0.41682075324200696,
+                "bottom": 0.2508034381023325
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.41682075324200696,
+                "top": 0.22449595538507852,
+                "right": 0.5772799077356581,
+                "bottom": 0.2508034381023325
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.5772799077356581,
+                "top": 0.22449595538507852,
+                "right": 0.8050128500674418,
+                "bottom": 0.2508034381023325
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.04342524053303087,
+                "top": 0.2508034381023325,
+                "right": 0.10443232086279508,
+                "bottom": 0.2880840811861205
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.10443232086279508,
+                "top": 0.2508034381023325,
+                "right": 0.251353338460234,
+                "bottom": 0.2880840811861205
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.251353338460234,
+                "top": 0.2508034381023325,
+                "right": 0.41682075324200696,
+                "bottom": 0.2880840811861205
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.41682075324200696,
+                "top": 0.2508034381023325,
+                "right": 0.5772799077356581,
+                "bottom": 0.2880840811861205
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5772799077356581,
+                "top": 0.2508034381023325,
+                "right": 0.8050128500674418,
+                "bottom": 0.2880840811861205
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.04342524053303087,
+                "top": 0.2880840811861205,
+                "right": 0.10443232086279508,
+                "bottom": 0.3037245091689442
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.10443232086279508,
+                "top": 0.2880840811861205,
+                "right": 0.251353338460234,
+                "bottom": 0.3037245091689442
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.251353338460234,
+                "top": 0.2880840811861205,
+                "right": 0.41682075324200696,
+                "bottom": 0.3037245091689442
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.41682075324200696,
+                "top": 0.2880840811861205,
+                "right": 0.5772799077356581,
+                "bottom": 0.3037245091689442
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5772799077356581,
+                "top": 0.2880840811861205,
+                "right": 0.8050128500674418,
+                "bottom": 0.3037245091689442
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.04342524053303087,
+                "top": 0.3037245091689442,
+                "right": 0.10443232086279508,
+                "bottom": 0.319014909359673
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.10443232086279508,
+                "top": 0.3037245091689442,
+                "right": 0.251353338460234,
+                "bottom": 0.319014909359673
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.251353338460234,
+                "top": 0.3037245091689442,
+                "right": 0.41682075324200696,
+                "bottom": 0.319014909359673
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.41682075324200696,
+                "top": 0.3037245091689442,
+                "right": 0.5772799077356581,
+                "bottom": 0.319014909359673
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.5772799077356581,
+                "top": 0.3037245091689442,
+                "right": 0.8050128500674418,
+                "bottom": 0.319014909359673
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.04342524053303087,
+                "top": 0.319014909359673,
+                "right": 0.10443232086279508,
+                "bottom": 0.3339051681517091
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.10443232086279508,
+                "top": 0.319014909359673,
+                "right": 0.251353338460234,
+                "bottom": 0.3339051681517091
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.251353338460234,
+                "top": 0.319014909359673,
+                "right": 0.41682075324200696,
+                "bottom": 0.3339051681517091
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.41682075324200696,
+                "top": 0.319014909359673,
+                "right": 0.5772799077356581,
+                "bottom": 0.3339051681517091
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.5772799077356581,
+                "top": 0.319014909359673,
+                "right": 0.8050128500674418,
+                "bottom": 0.3339051681517091
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.04342524053303087,
+                "top": 0.3339051681517091,
+                "right": 0.10443232086279508,
+                "bottom": 0.3488926874314302
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.10443232086279508,
+                "top": 0.3339051681517091,
+                "right": 0.251353338460234,
+                "bottom": 0.3488926874314302
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.251353338460234,
+                "top": 0.3339051681517091,
+                "right": 0.41682075324200696,
+                "bottom": 0.3488926874314302
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.41682075324200696,
+                "top": 0.3339051681517091,
+                "right": 0.5772799077356581,
+                "bottom": 0.3488926874314302
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.5772799077356581,
+                "top": 0.3339051681517091,
+                "right": 0.8050128500674418,
+                "bottom": 0.3488926874314302
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.04342524053303087,
+                "top": 0.3488926874314302,
+                "right": 0.10443232086279508,
+                "bottom": 0.36406619405522633
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.10443232086279508,
+                "top": 0.3488926874314302,
+                "right": 0.251353338460234,
+                "bottom": 0.36406619405522633
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.251353338460234,
+                "top": 0.3488926874314302,
+                "right": 0.41682075324200696,
+                "bottom": 0.36406619405522633
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.41682075324200696,
+                "top": 0.3488926874314302,
+                "right": 0.5772799077356581,
+                "bottom": 0.36406619405522633
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.5772799077356581,
+                "top": 0.3488926874314302,
+                "right": 0.8050128500674418,
+                "bottom": 0.36406619405522633
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.04342524053303087,
+                "top": 0.36406619405522633,
+                "right": 0.10443232086279508,
+                "bottom": 0.38137240977589926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.10443232086279508,
+                "top": 0.36406619405522633,
+                "right": 0.251353338460234,
+                "bottom": 0.38137240977589926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.251353338460234,
+                "top": 0.36406619405522633,
+                "right": 0.41682075324200696,
+                "bottom": 0.38137240977589926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.41682075324200696,
+                "top": 0.36406619405522633,
+                "right": 0.5772799077356581,
+                "bottom": 0.38137240977589926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.5772799077356581,
+                "top": 0.36406619405522633,
+                "right": 0.8050128500674418,
+                "bottom": 0.38137240977589926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.04342524053303087,
+                "top": 0.38137240977589926,
+                "right": 0.10443232086279508,
+                "bottom": 0.41303605351418327
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.10443232086279508,
+                "top": 0.38137240977589926,
+                "right": 0.5772799077356581,
+                "bottom": 0.41303605351418327
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.41682075324200696,
+                "top": 0.38137240977589926,
+                "right": 0.5772799077356581,
+                "bottom": 0.41303605351418327
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.5772799077356581,
+                "top": 0.38137240977589926,
+                "right": 0.8050128500674418,
+                "bottom": 0.41303605351418327
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "fb7f6915-2c87-45cd-af56-db15f13aaa3c": {
+            "box": {
+                "left": 0.038038454949855804,
+                "top": 0.43498149514198303,
+                "right": 0.27732348442077637,
+                "bottom": 0.45787230134010315
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "59611d21-45b9-4f26-ae70-422b5dd270a4": {
+            "box": {
+                "left": 0.03920760750770569,
+                "top": 0.4805191159248352,
+                "right": 0.6291048526763916,
+                "bottom": 0.5390353798866272
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cde7f488-0e02-4f50-9e78-eb6bb26f142f": {
+            "box": {
+                "left": 0.7479696869850159,
+                "top": 0.9292327761650085,
+                "right": 0.917640745639801,
+                "bottom": 0.9569234251976013
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "1a4a7cf4-6594-45b3-8bbe-8b3d7009c704": {
+            "box": {
+                "left": 0.22142833471298218,
+                "top": 0.9784267544746399,
+                "right": 0.7785165905952454,
+                "bottom": 0.9995560050010681
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lycj0037_8.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6422,
+        "credit_usage": 3.0,
+        "job_id": "smp0jdta671m8mj72taa65fzf",
+        "version": "dpt-2-20250919"
+    }
+}

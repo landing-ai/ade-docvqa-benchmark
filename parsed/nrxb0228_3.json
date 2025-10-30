@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='c9e4f8b6-b1fb-4556-ace9-b1ad1e805b0e'></a>\n\n<::attestation: [Postage Stamp with Postmark]\n[Stamped/Canceled]\n[Readable Text: EUROPA, 50, CEPT, HELVETIA]\n[Postmark: illegible]\nA rectangular postage stamp featuring \"EUROPA\" and \"HELVETIA\" text with a circular design, partially covered by a circular postmark in the lower left quadrant.::>\n\n<a id='d77f942c-6d20-49d6-9d47-9686e6ef3837'></a>\n\n<::attestation: Postmark/Cancellation Stamp\nStamped/Cancelled\nReadable Text: 50 HELV, MALAGNOU, 1, 61-10, GENEVE\nA circular postmark is stamped diagonally across the upper left portion of a postal stamp.\n::>\n\n<a id='ee85a3b1-d7f3-4e4d-b45f-3c1b50fafc9f'></a>\n\nProf. W. J. Darby\nDept. of Nutrition,\nVanderbilt University\nNASHVILLE\n---\n\n<a id='83681fc6-4702-4ba2-88a6-3165fa92c0b8'></a>\n\nTennessee\nU.S.A.\n\n<a id='6712314f-f931-473a-82bd-9f5d6acb7ed5'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nrxb0228",
+    "chunks": [
+        {
+            "markdown": "<a id='c9e4f8b6-b1fb-4556-ace9-b1ad1e805b0e'></a>\n\n<::attestation: [Postage Stamp with Postmark]\n[Stamped/Canceled]\n[Readable Text: EUROPA, 50, CEPT, HELVETIA]\n[Postmark: illegible]\nA rectangular postage stamp featuring \"EUROPA\" and \"HELVETIA\" text with a circular design, partially covered by a circular postmark in the lower left quadrant.::>",
+            "type": "attestation",
+            "id": "c9e4f8b6-b1fb-4556-ace9-b1ad1e805b0e",
+            "grounding": {
+                "box": {
+                    "left": 0.6926512122154236,
+                    "top": 0.07906302809715271,
+                    "right": 0.9116140007972717,
+                    "bottom": 0.3196602761745453
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d77f942c-6d20-49d6-9d47-9686e6ef3837'></a>\n\n<::attestation: Postmark/Cancellation Stamp\nStamped/Cancelled\nReadable Text: 50 HELV, MALAGNOU, 1, 61-10, GENEVE\nA circular postmark is stamped diagonally across the upper left portion of a postal stamp.\n::>",
+            "type": "attestation",
+            "id": "d77f942c-6d20-49d6-9d47-9686e6ef3837",
+            "grounding": {
+                "box": {
+                    "left": 0.6452009677886963,
+                    "top": 0.20800013840198517,
+                    "right": 0.832310676574707,
+                    "bottom": 0.48828595876693726
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ee85a3b1-d7f3-4e4d-b45f-3c1b50fafc9f'></a>\n\nProf. W. J. Darby\nDept. of Nutrition,\nVanderbilt University\nNASHVILLE\n---",
+            "type": "text",
+            "id": "ee85a3b1-d7f3-4e4d-b45f-3c1b50fafc9f",
+            "grounding": {
+                "box": {
+                    "left": 0.34096837043762207,
+                    "top": 0.5105049014091492,
+                    "right": 0.9792734384536743,
+                    "bottom": 0.9312425255775452
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='83681fc6-4702-4ba2-88a6-3165fa92c0b8'></a>\n\nTennessee\nU.S.A.",
+            "type": "text",
+            "id": "83681fc6-4702-4ba2-88a6-3165fa92c0b8",
+            "grounding": {
+                "box": {
+                    "left": 0.06108732521533966,
+                    "top": 0.7540310621261597,
+                    "right": 0.33948469161987305,
+                    "bottom": 0.9472429752349854
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6712314f-f931-473a-82bd-9f5d6acb7ed5'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nrxb0228",
+            "type": "text",
+            "id": "6712314f-f931-473a-82bd-9f5d6acb7ed5",
+            "grounding": {
+                "box": {
+                    "left": 0.11834371089935303,
+                    "top": 0.9421765804290771,
+                    "right": 0.8833134174346924,
+                    "bottom": 0.992830753326416
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c9e4f8b6-b1fb-4556-ace9-b1ad1e805b0e'></a>\n\n<::attestation: [Postage Stamp with Postmark]\n[Stamped/Canceled]\n[Readable Text: EUROPA, 50, CEPT, HELVETIA]\n[Postmark: illegible]\nA rectangular postage stamp featuring \"EUROPA\" and \"HELVETIA\" text with a circular design, partially covered by a circular postmark in the lower left quadrant.::>\n\n<a id='d77f942c-6d20-49d6-9d47-9686e6ef3837'></a>\n\n<::attestation: Postmark/Cancellation Stamp\nStamped/Cancelled\nReadable Text: 50 HELV, MALAGNOU, 1, 61-10, GENEVE\nA circular postmark is stamped diagonally across the upper left portion of a postal stamp.\n::>\n\n<a id='ee85a3b1-d7f3-4e4d-b45f-3c1b50fafc9f'></a>\n\nProf. W. J. Darby\nDept. of Nutrition,\nVanderbilt University\nNASHVILLE\n---\n\n<a id='83681fc6-4702-4ba2-88a6-3165fa92c0b8'></a>\n\nTennessee\nU.S.A.\n\n<a id='6712314f-f931-473a-82bd-9f5d6acb7ed5'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nrxb0228",
+            "chunks": [
+                "c9e4f8b6-b1fb-4556-ace9-b1ad1e805b0e",
+                "d77f942c-6d20-49d6-9d47-9686e6ef3837",
+                "ee85a3b1-d7f3-4e4d-b45f-3c1b50fafc9f",
+                "83681fc6-4702-4ba2-88a6-3165fa92c0b8",
+                "6712314f-f931-473a-82bd-9f5d6acb7ed5"
+            ]
+        }
+    ],
+    "grounding": {
+        "c9e4f8b6-b1fb-4556-ace9-b1ad1e805b0e": {
+            "box": {
+                "left": 0.6926512122154236,
+                "top": 0.07906302809715271,
+                "right": 0.9116140007972717,
+                "bottom": 0.3196602761745453
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "d77f942c-6d20-49d6-9d47-9686e6ef3837": {
+            "box": {
+                "left": 0.6452009677886963,
+                "top": 0.20800013840198517,
+                "right": 0.832310676574707,
+                "bottom": 0.48828595876693726
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "ee85a3b1-d7f3-4e4d-b45f-3c1b50fafc9f": {
+            "box": {
+                "left": 0.34096837043762207,
+                "top": 0.5105049014091492,
+                "right": 0.9792734384536743,
+                "bottom": 0.9312425255775452
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "83681fc6-4702-4ba2-88a6-3165fa92c0b8": {
+            "box": {
+                "left": 0.06108732521533966,
+                "top": 0.7540310621261597,
+                "right": 0.33948469161987305,
+                "bottom": 0.9472429752349854
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6712314f-f931-473a-82bd-9f5d6acb7ed5": {
+            "box": {
+                "left": 0.11834371089935303,
+                "top": 0.9421765804290771,
+                "right": 0.8833134174346924,
+                "bottom": 0.992830753326416
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "nrxb0228_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7241,
+        "credit_usage": 3.0,
+        "job_id": "wxofz3mvpulivq7r350bqhk5b",
+        "version": "dpt-2-20250919"
+    }
+}

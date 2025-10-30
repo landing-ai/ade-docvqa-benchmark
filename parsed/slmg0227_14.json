@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='6418fbb4-624c-4c5f-9795-ccd1211e8436'></a>\n\n<::EFFECT OF DIET ON FOOD CONSUMED IN COLD- AND WARM- ACCLIMATIZED RATS\n: chart\n  Y-axis: MEAN GRAMS FOOD CONSUMED DAILY, ranging from 12 to 19\n  X-axis: PERCENT PROTEIN IN DIET, with major ticks at 7.5, 20, and 40\n  Legend:\n    Fructose:\n      - Dashed line with open circles, labeled 4\u00b0C, showing values: (7.5, 18.7), (20, 18.2), (40, 17.2)\n      - Dashed line with open circles, labeled 24\u00b0C, showing values: (7.5, 14.0), (20, 15.8), (40, 16.2)\n    Glucose:\n      - Solid line with filled circles, labeled 4\u00b0C, showing values: (7.5, 17.5), (20, 16.7), (40, 16.0)\n      - Solid line with filled circles, labeled 24\u00b0C, showing values: (7.5, 15.0), (20, 15.1), (40, 15.7)\n::>\n\n<a id='ecb2c6d9-2412-45eb-922b-e4607015a046'></a>\n\nFIGURE 1 FOOD CONSUMED\n\n<a id='5c8c3287-c8ba-4325-a26e-ae7c4c01a2ba'></a>\n\nCALORIC EFFICIENCY = Mean Daily Body Weight Gain (Gm) / Mean Daily Food Consumption (Gm)\n1 Gm of each diet = 4.366 Calories\n<::A line graph with 'CALORIC EFFICIENCY x 100' on the y-axis and 'PERCENT PROTEIN IN DIET' on the x-axis. The x-axis shows values 0, 7.5, 20, and 40. The y-axis shows values 0 through 9.\n\nThere are two sets of data, one for 24\u00b0C and one for 4\u00b0C.\n\nFor 24\u00b0C:\n*   A solid line represents 'Glucose', with data points approximately at (7.5, 1.3), (20, 7.7), and (40, 8.5).\n*   A dashed line represents 'Fructose', with data points approximately at (7.5, 2.8), (20, 7.5), and (40, 8.2).\n\nFor 4\u00b0C:\n*   A solid line represents 'Glucose', with data points approximately at (7.5, 1.3), (20, 1.8), and (40, 2.2).\n*   A dashed line represents 'Fructose', with data points approximately at (7.5, 1.8), (20, 2.3), and (40, 2.4).\n: chart::>\n\n<a id='bbffa2d1-4c69-4753-be63-ea11fbb2812a'></a>\n\nFIGURE 2 CALORIC EFFICIENCY\n\n<a id='c16a31a6-a269-4f69-83b4-bcb235a52d93'></a>\n\n-13-\n\n<a id='3777b6c8-d760-4fea-8748-a950e7745f99'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/slmg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='6418fbb4-624c-4c5f-9795-ccd1211e8436'></a>\n\n<::EFFECT OF DIET ON FOOD CONSUMED IN COLD- AND WARM- ACCLIMATIZED RATS\n: chart\n  Y-axis: MEAN GRAMS FOOD CONSUMED DAILY, ranging from 12 to 19\n  X-axis: PERCENT PROTEIN IN DIET, with major ticks at 7.5, 20, and 40\n  Legend:\n    Fructose:\n      - Dashed line with open circles, labeled 4\u00b0C, showing values: (7.5, 18.7), (20, 18.2), (40, 17.2)\n      - Dashed line with open circles, labeled 24\u00b0C, showing values: (7.5, 14.0), (20, 15.8), (40, 16.2)\n    Glucose:\n      - Solid line with filled circles, labeled 4\u00b0C, showing values: (7.5, 17.5), (20, 16.7), (40, 16.0)\n      - Solid line with filled circles, labeled 24\u00b0C, showing values: (7.5, 15.0), (20, 15.1), (40, 15.7)\n::>",
+            "type": "figure",
+            "id": "6418fbb4-624c-4c5f-9795-ccd1211e8436",
+            "grounding": {
+                "box": {
+                    "left": 0.3395116329193115,
+                    "top": 0.16590917110443115,
+                    "right": 0.634548544883728,
+                    "bottom": 0.4180683493614197
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ecb2c6d9-2412-45eb-922b-e4607015a046'></a>\n\nFIGURE 1 FOOD CONSUMED",
+            "type": "figure",
+            "id": "ecb2c6d9-2412-45eb-922b-e4607015a046",
+            "grounding": {
+                "box": {
+                    "left": 0.34386950731277466,
+                    "top": 0.4897296130657196,
+                    "right": 0.5944477915763855,
+                    "bottom": 0.5139044523239136
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5c8c3287-c8ba-4325-a26e-ae7c4c01a2ba'></a>\n\nCALORIC EFFICIENCY = Mean Daily Body Weight Gain (Gm) / Mean Daily Food Consumption (Gm)\n1 Gm of each diet = 4.366 Calories\n<::A line graph with 'CALORIC EFFICIENCY x 100' on the y-axis and 'PERCENT PROTEIN IN DIET' on the x-axis. The x-axis shows values 0, 7.5, 20, and 40. The y-axis shows values 0 through 9.\n\nThere are two sets of data, one for 24\u00b0C and one for 4\u00b0C.\n\nFor 24\u00b0C:\n*   A solid line represents 'Glucose', with data points approximately at (7.5, 1.3), (20, 7.7), and (40, 8.5).\n*   A dashed line represents 'Fructose', with data points approximately at (7.5, 2.8), (20, 7.5), and (40, 8.2).\n\nFor 4\u00b0C:\n*   A solid line represents 'Glucose', with data points approximately at (7.5, 1.3), (20, 1.8), and (40, 2.2).\n*   A dashed line represents 'Fructose', with data points approximately at (7.5, 1.8), (20, 2.3), and (40, 2.4).\n: chart::>",
+            "type": "figure",
+            "id": "5c8c3287-c8ba-4325-a26e-ae7c4c01a2ba",
+            "grounding": {
+                "box": {
+                    "left": 0.34766367077827454,
+                    "top": 0.544622540473938,
+                    "right": 0.6331548690795898,
+                    "bottom": 0.8145701885223389
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bbffa2d1-4c69-4753-be63-ea11fbb2812a'></a>\n\nFIGURE 2 CALORIC EFFICIENCY",
+            "type": "text",
+            "id": "bbffa2d1-4c69-4753-be63-ea11fbb2812a",
+            "grounding": {
+                "box": {
+                    "left": 0.3443673253059387,
+                    "top": 0.8621954917907715,
+                    "right": 0.6418413519859314,
+                    "bottom": 0.884436845779419
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c16a31a6-a269-4f69-83b4-bcb235a52d93'></a>\n\n-13-",
+            "type": "marginalia",
+            "id": "c16a31a6-a269-4f69-83b4-bcb235a52d93",
+            "grounding": {
+                "box": {
+                    "left": 0.48179513216018677,
+                    "top": 0.9073557257652283,
+                    "right": 0.5433834195137024,
+                    "bottom": 0.9330233931541443
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3777b6c8-d760-4fea-8748-a950e7745f99'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/slmg0227",
+            "type": "marginalia",
+            "id": "3777b6c8-d760-4fea-8748-a950e7745f99",
+            "grounding": {
+                "box": {
+                    "left": 0.22687000036239624,
+                    "top": 0.9786384701728821,
+                    "right": 0.778139054775238,
+                    "bottom": 0.9999291300773621
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6418fbb4-624c-4c5f-9795-ccd1211e8436'></a>\n\n<::EFFECT OF DIET ON FOOD CONSUMED IN COLD- AND WARM- ACCLIMATIZED RATS\n: chart\n  Y-axis: MEAN GRAMS FOOD CONSUMED DAILY, ranging from 12 to 19\n  X-axis: PERCENT PROTEIN IN DIET, with major ticks at 7.5, 20, and 40\n  Legend:\n    Fructose:\n      - Dashed line with open circles, labeled 4\u00b0C, showing values: (7.5, 18.7), (20, 18.2), (40, 17.2)\n      - Dashed line with open circles, labeled 24\u00b0C, showing values: (7.5, 14.0), (20, 15.8), (40, 16.2)\n    Glucose:\n      - Solid line with filled circles, labeled 4\u00b0C, showing values: (7.5, 17.5), (20, 16.7), (40, 16.0)\n      - Solid line with filled circles, labeled 24\u00b0C, showing values: (7.5, 15.0), (20, 15.1), (40, 15.7)\n::>\n\n<a id='ecb2c6d9-2412-45eb-922b-e4607015a046'></a>\n\nFIGURE 1 FOOD CONSUMED\n\n<a id='5c8c3287-c8ba-4325-a26e-ae7c4c01a2ba'></a>\n\nCALORIC EFFICIENCY = Mean Daily Body Weight Gain (Gm) / Mean Daily Food Consumption (Gm)\n1 Gm of each diet = 4.366 Calories\n<::A line graph with 'CALORIC EFFICIENCY x 100' on the y-axis and 'PERCENT PROTEIN IN DIET' on the x-axis. The x-axis shows values 0, 7.5, 20, and 40. The y-axis shows values 0 through 9.\n\nThere are two sets of data, one for 24\u00b0C and one for 4\u00b0C.\n\nFor 24\u00b0C:\n*   A solid line represents 'Glucose', with data points approximately at (7.5, 1.3), (20, 7.7), and (40, 8.5).\n*   A dashed line represents 'Fructose', with data points approximately at (7.5, 2.8), (20, 7.5), and (40, 8.2).\n\nFor 4\u00b0C:\n*   A solid line represents 'Glucose', with data points approximately at (7.5, 1.3), (20, 1.8), and (40, 2.2).\n*   A dashed line represents 'Fructose', with data points approximately at (7.5, 1.8), (20, 2.3), and (40, 2.4).\n: chart::>\n\n<a id='bbffa2d1-4c69-4753-be63-ea11fbb2812a'></a>\n\nFIGURE 2 CALORIC EFFICIENCY\n\n<a id='c16a31a6-a269-4f69-83b4-bcb235a52d93'></a>\n\n-13-\n\n<a id='3777b6c8-d760-4fea-8748-a950e7745f99'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/slmg0227",
+            "chunks": [
+                "6418fbb4-624c-4c5f-9795-ccd1211e8436",
+                "ecb2c6d9-2412-45eb-922b-e4607015a046",
+                "5c8c3287-c8ba-4325-a26e-ae7c4c01a2ba",
+                "bbffa2d1-4c69-4753-be63-ea11fbb2812a",
+                "c16a31a6-a269-4f69-83b4-bcb235a52d93",
+                "3777b6c8-d760-4fea-8748-a950e7745f99"
+            ]
+        }
+    ],
+    "grounding": {
+        "6418fbb4-624c-4c5f-9795-ccd1211e8436": {
+            "box": {
+                "left": 0.3395116329193115,
+                "top": 0.16590917110443115,
+                "right": 0.634548544883728,
+                "bottom": 0.4180683493614197
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "ecb2c6d9-2412-45eb-922b-e4607015a046": {
+            "box": {
+                "left": 0.34386950731277466,
+                "top": 0.4897296130657196,
+                "right": 0.5944477915763855,
+                "bottom": 0.5139044523239136
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "5c8c3287-c8ba-4325-a26e-ae7c4c01a2ba": {
+            "box": {
+                "left": 0.34766367077827454,
+                "top": 0.544622540473938,
+                "right": 0.6331548690795898,
+                "bottom": 0.8145701885223389
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "bbffa2d1-4c69-4753-be63-ea11fbb2812a": {
+            "box": {
+                "left": 0.3443673253059387,
+                "top": 0.8621954917907715,
+                "right": 0.6418413519859314,
+                "bottom": 0.884436845779419
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c16a31a6-a269-4f69-83b4-bcb235a52d93": {
+            "box": {
+                "left": 0.48179513216018677,
+                "top": 0.9073557257652283,
+                "right": 0.5433834195137024,
+                "bottom": 0.9330233931541443
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "3777b6c8-d760-4fea-8748-a950e7745f99": {
+            "box": {
+                "left": 0.22687000036239624,
+                "top": 0.9786384701728821,
+                "right": 0.778139054775238,
+                "bottom": 0.9999291300773621
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "slmg0227_14.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 18325,
+        "credit_usage": 3.0,
+        "job_id": "o2f94tv2tnv6isgghr87gxikl",
+        "version": "dpt-2-20250919"
+    }
+}

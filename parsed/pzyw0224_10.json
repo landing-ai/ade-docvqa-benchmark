@@ -1,0 +1,303 @@
+{
+    "markdown": "<a id='77236bd4-b916-475a-81bf-b476c89443f9'></a>\n\nPlease provide the farm address where your barns are located.\nPlease complete a separate sheet for each farm.\n\n<a id='523046bb-34b7-415e-8f38-2551b386d53a'></a>\n\nREC'D 2000\n\n<a id='46e03232-945c-4e5e-9f42-a1b1c2d00f1b'></a>\n\nSwamp Fox Partnership\nName\n\n3677 W. Palmetto St.\nAddress\n\nFlorence, SC 29501\nCity, State, Zip Code\n\n<a id='46ff6dda-0b32-404b-82e7-3c82a916536f'></a>\n\nRJRT Grower ID #: 131057\n\n<a id='b143d3da-3425-47ca-a852-11734b797074'></a>\n\nEdward L. Young\nGeneral Partner\n\n<a id='84287d14-49a5-4fcb-9daa-5368aa8a5457'></a>\n\nPlease provide the Effective Quota pounds for owned and leased property you will tend in 2000.\n\n<a id='1a0a6a89-77ee-4343-a261-bb336b4e48e7'></a>\n\nOwned Pounds\n33,460\n\nLeased Pounds\n66,755 = 100,815\n\n<a id='07162bdf-106f-4918-94b3-4bd113cb1399'></a>\n\nPlease **print** the following information for **all** marketing cards:\n\n<a id='882502c8-a161-4c20-a432-49955f658673'></a>\n\n<table><thead><tr><th>FSA # (s)<br>(12 Digits)</th><th>POUNDS</th><th>PAYEE(s)</th><th>SPLIT /<br>PERCENT</th></tr></thead><tbody><tr><td>450410012711</td><td>100,215</td><td>Swamp Fox Partnership</td><td>100%</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>\n\n<a id='343a0308-b113-4df4-bbde-3f4f4f107df4'></a>\n\n52379 2925\n\n<a id='3f9a6edb-5039-4439-8273-8862224f0d90'></a>\n\n\u2713",
+    "chunks": [
+        {
+            "markdown": "<a id='77236bd4-b916-475a-81bf-b476c89443f9'></a>\n\nPlease provide the farm address where your barns are located.\nPlease complete a separate sheet for each farm.",
+            "type": "text",
+            "id": "77236bd4-b916-475a-81bf-b476c89443f9",
+            "grounding": {
+                "box": {
+                    "left": 0.07741373777389526,
+                    "top": 0.02677682414650917,
+                    "right": 0.6315884590148926,
+                    "bottom": 0.07176640629768372
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='523046bb-34b7-415e-8f38-2551b386d53a'></a>\n\nREC'D 2000",
+            "type": "marginalia",
+            "id": "523046bb-34b7-415e-8f38-2551b386d53a",
+            "grounding": {
+                "box": {
+                    "left": 0.7861098051071167,
+                    "top": 0.02470916509628296,
+                    "right": 0.9072412252426147,
+                    "bottom": 0.0492861270904541
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='46e03232-945c-4e5e-9f42-a1b1c2d00f1b'></a>\n\nSwamp Fox Partnership\nName\n\n3677 W. Palmetto St.\nAddress\n\nFlorence, SC 29501\nCity, State, Zip Code",
+            "type": "text",
+            "id": "46e03232-945c-4e5e-9f42-a1b1c2d00f1b",
+            "grounding": {
+                "box": {
+                    "left": 0.13864736258983612,
+                    "top": 0.09173169732093811,
+                    "right": 0.6063637733459473,
+                    "bottom": 0.22607263922691345
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='46ff6dda-0b32-404b-82e7-3c82a916536f'></a>\n\nRJRT Grower ID #: 131057",
+            "type": "text",
+            "id": "46ff6dda-0b32-404b-82e7-3c82a916536f",
+            "grounding": {
+                "box": {
+                    "left": 0.6559127569198608,
+                    "top": 0.09217269718647003,
+                    "right": 0.9181692600250244,
+                    "bottom": 0.12182703614234924
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b143d3da-3425-47ca-a852-11734b797074'></a>\n\nEdward L. Young\nGeneral Partner",
+            "type": "text",
+            "id": "b143d3da-3425-47ca-a852-11734b797074",
+            "grounding": {
+                "box": {
+                    "left": 0.6452686786651611,
+                    "top": 0.19084084033966064,
+                    "right": 0.8389874696731567,
+                    "bottom": 0.22906619310379028
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='84287d14-49a5-4fcb-9daa-5368aa8a5457'></a>\n\nPlease provide the Effective Quota pounds for owned and leased property you will tend in 2000.",
+            "type": "text",
+            "id": "84287d14-49a5-4fcb-9daa-5368aa8a5457",
+            "grounding": {
+                "box": {
+                    "left": 0.08211162686347961,
+                    "top": 0.24779267609119415,
+                    "right": 0.8383644819259644,
+                    "bottom": 0.2890375256538391
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1a0a6a89-77ee-4343-a261-bb336b4e48e7'></a>\n\nOwned Pounds\n33,460\n\nLeased Pounds\n66,755 = 100,815",
+            "type": "text",
+            "id": "1a0a6a89-77ee-4343-a261-bb336b4e48e7",
+            "grounding": {
+                "box": {
+                    "left": 0.25522539019584656,
+                    "top": 0.29898008704185486,
+                    "right": 0.8689067363739014,
+                    "bottom": 0.36406829953193665
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='07162bdf-106f-4918-94b3-4bd113cb1399'></a>\n\nPlease **print** the following information for **all** marketing cards:",
+            "type": "text",
+            "id": "07162bdf-106f-4918-94b3-4bd113cb1399",
+            "grounding": {
+                "box": {
+                    "left": 0.08174604177474976,
+                    "top": 0.39795878529548645,
+                    "right": 0.6230895519256592,
+                    "bottom": 0.4297187626361847
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='882502c8-a161-4c20-a432-49955f658673'></a>\n\n<table><thead><tr><th>FSA # (s)<br>(12 Digits)</th><th>POUNDS</th><th>PAYEE(s)</th><th>SPLIT /<br>PERCENT</th></tr></thead><tbody><tr><td>450410012711</td><td>100,215</td><td>Swamp Fox Partnership</td><td>100%</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>",
+            "type": "table",
+            "id": "882502c8-a161-4c20-a432-49955f658673",
+            "grounding": {
+                "box": {
+                    "left": 0.07849004864692688,
+                    "top": 0.4475610852241516,
+                    "right": 0.8815498352050781,
+                    "bottom": 0.9028059840202332
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='343a0308-b113-4df4-bbde-3f4f4f107df4'></a>\n\n52379 2925",
+            "type": "marginalia",
+            "id": "343a0308-b113-4df4-bbde-3f4f4f107df4",
+            "grounding": {
+                "box": {
+                    "left": 0.9126536846160889,
+                    "top": 0.7615143656730652,
+                    "right": 0.9440116882324219,
+                    "bottom": 0.8617033362388611
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3f9a6edb-5039-4439-8273-8862224f0d90'></a>\n\n\u2713",
+            "type": "marginalia",
+            "id": "3f9a6edb-5039-4439-8273-8862224f0d90",
+            "grounding": {
+                "box": {
+                    "left": 0.9257937669754028,
+                    "top": 0.9315094351768494,
+                    "right": 0.9611456394195557,
+                    "bottom": 0.9534013867378235
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='77236bd4-b916-475a-81bf-b476c89443f9'></a>\n\nPlease provide the farm address where your barns are located.\nPlease complete a separate sheet for each farm.\n\n<a id='523046bb-34b7-415e-8f38-2551b386d53a'></a>\n\nREC'D 2000\n\n<a id='46e03232-945c-4e5e-9f42-a1b1c2d00f1b'></a>\n\nSwamp Fox Partnership\nName\n\n3677 W. Palmetto St.\nAddress\n\nFlorence, SC 29501\nCity, State, Zip Code\n\n<a id='46ff6dda-0b32-404b-82e7-3c82a916536f'></a>\n\nRJRT Grower ID #: 131057\n\n<a id='b143d3da-3425-47ca-a852-11734b797074'></a>\n\nEdward L. Young\nGeneral Partner\n\n<a id='84287d14-49a5-4fcb-9daa-5368aa8a5457'></a>\n\nPlease provide the Effective Quota pounds for owned and leased property you will tend in 2000.\n\n<a id='1a0a6a89-77ee-4343-a261-bb336b4e48e7'></a>\n\nOwned Pounds\n33,460\n\nLeased Pounds\n66,755 = 100,815\n\n<a id='07162bdf-106f-4918-94b3-4bd113cb1399'></a>\n\nPlease **print** the following information for **all** marketing cards:\n\n<a id='882502c8-a161-4c20-a432-49955f658673'></a>\n\n<table><thead><tr><th>FSA # (s)<br>(12 Digits)</th><th>POUNDS</th><th>PAYEE(s)</th><th>SPLIT /<br>PERCENT</th></tr></thead><tbody><tr><td>450410012711</td><td>100,215</td><td>Swamp Fox Partnership</td><td>100%</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>\n\n<a id='343a0308-b113-4df4-bbde-3f4f4f107df4'></a>\n\n52379 2925\n\n<a id='3f9a6edb-5039-4439-8273-8862224f0d90'></a>\n\n\u2713",
+            "chunks": [
+                "77236bd4-b916-475a-81bf-b476c89443f9",
+                "523046bb-34b7-415e-8f38-2551b386d53a",
+                "46e03232-945c-4e5e-9f42-a1b1c2d00f1b",
+                "46ff6dda-0b32-404b-82e7-3c82a916536f",
+                "b143d3da-3425-47ca-a852-11734b797074",
+                "84287d14-49a5-4fcb-9daa-5368aa8a5457",
+                "1a0a6a89-77ee-4343-a261-bb336b4e48e7",
+                "07162bdf-106f-4918-94b3-4bd113cb1399",
+                "882502c8-a161-4c20-a432-49955f658673",
+                "343a0308-b113-4df4-bbde-3f4f4f107df4",
+                "3f9a6edb-5039-4439-8273-8862224f0d90"
+            ]
+        }
+    ],
+    "grounding": {
+        "77236bd4-b916-475a-81bf-b476c89443f9": {
+            "box": {
+                "left": 0.07741373777389526,
+                "top": 0.02677682414650917,
+                "right": 0.6315884590148926,
+                "bottom": 0.07176640629768372
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "523046bb-34b7-415e-8f38-2551b386d53a": {
+            "box": {
+                "left": 0.7861098051071167,
+                "top": 0.02470916509628296,
+                "right": 0.9072412252426147,
+                "bottom": 0.0492861270904541
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "46e03232-945c-4e5e-9f42-a1b1c2d00f1b": {
+            "box": {
+                "left": 0.13864736258983612,
+                "top": 0.09173169732093811,
+                "right": 0.6063637733459473,
+                "bottom": 0.22607263922691345
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "46ff6dda-0b32-404b-82e7-3c82a916536f": {
+            "box": {
+                "left": 0.6559127569198608,
+                "top": 0.09217269718647003,
+                "right": 0.9181692600250244,
+                "bottom": 0.12182703614234924
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b143d3da-3425-47ca-a852-11734b797074": {
+            "box": {
+                "left": 0.6452686786651611,
+                "top": 0.19084084033966064,
+                "right": 0.8389874696731567,
+                "bottom": 0.22906619310379028
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "84287d14-49a5-4fcb-9daa-5368aa8a5457": {
+            "box": {
+                "left": 0.08211162686347961,
+                "top": 0.24779267609119415,
+                "right": 0.8383644819259644,
+                "bottom": 0.2890375256538391
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1a0a6a89-77ee-4343-a261-bb336b4e48e7": {
+            "box": {
+                "left": 0.25522539019584656,
+                "top": 0.29898008704185486,
+                "right": 0.8689067363739014,
+                "bottom": 0.36406829953193665
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "07162bdf-106f-4918-94b3-4bd113cb1399": {
+            "box": {
+                "left": 0.08174604177474976,
+                "top": 0.39795878529548645,
+                "right": 0.6230895519256592,
+                "bottom": 0.4297187626361847
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "882502c8-a161-4c20-a432-49955f658673": {
+            "box": {
+                "left": 0.07849004864692688,
+                "top": 0.4475610852241516,
+                "right": 0.8815498352050781,
+                "bottom": 0.9028059840202332
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "343a0308-b113-4df4-bbde-3f4f4f107df4": {
+            "box": {
+                "left": 0.9126536846160889,
+                "top": 0.7615143656730652,
+                "right": 0.9440116882324219,
+                "bottom": 0.8617033362388611
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "3f9a6edb-5039-4439-8273-8862224f0d90": {
+            "box": {
+                "left": 0.9257937669754028,
+                "top": 0.9315094351768494,
+                "right": 0.9611456394195557,
+                "bottom": 0.9534013867378235
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "pzyw0224_10.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5630,
+        "credit_usage": 3.0,
+        "job_id": "ktqvsm18nc0u9mo43qaj8cre2",
+        "version": "dpt-2-20250919"
+    }
+}

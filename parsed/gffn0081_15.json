@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='4686d55b-5327-4d1f-9193-8184a64a8003'></a>\n\nC-27 PEAK COUNT\nVERSUS HEAT TREATMENT\n\n<a id='979bf765-7dad-4606-98dc-fcb6941fde4f'></a>\n\n<::logo: Generic Stamp\nBEST COPY\nA black circular stamp with the words \"BEST COPY\" rotated inside.::>\n\n<a id='f4e4ce65-3f64-4d8f-b7f4-efc9ef026463'></a>\n\n<::Bar chart titled \"PEAK COUNT\" with \"EXPERIMENT NUMBER\" on the x-axis and \"PEAK COUNT\" on the y-axis, ranging from 0 to 70 in increments of 10. Each experiment number (A through Z, then AA, AB, AC) has two bars, one solid black and one hatched. The values are as follows:\n- Experiment A: Black bar ~20, Hatched bar ~27\n- Experiment B: Black bar ~17, Hatched bar ~36\n- Experiment C: Black bar ~15, Hatched bar ~29\n- Experiment D: Black bar ~17, Hatched bar ~36\n- Experiment E: Black bar ~25, Hatched bar ~39\n- Experiment F: Black bar ~35, Hatched bar ~44\n- Experiment G: Black bar ~29, Hatched bar ~45\n- Experiment H: Black bar ~31, Hatched bar ~41\n- Experiment I: Black bar ~32, Hatched bar ~38\n- Experiment J: Black bar ~28, Hatched bar ~41\n- Experiment K: Black bar ~32, Hatched bar ~37\n- Experiment L: Black bar ~30, Hatched bar ~36\n- Experiment M: Black bar ~22, Hatched bar ~41\n- Experiment N: Black bar ~27, Hatched bar ~63\n- Experiment O: Black bar ~15, Hatched bar ~39\n- Experiment P: Black bar ~22, Hatched bar ~32\n- Experiment Q: Black bar ~22, Hatched bar ~51\n- Experiment R: Black bar ~30, Hatched bar ~50\n- Experiment S: Black bar ~32, Hatched bar ~40\n- Experiment T: Black bar ~29, Hatched bar ~47\n- Experiment U: Black bar ~29, Hatched bar ~43\n- Experiment V: Black bar ~32, Hatched bar ~39\n- Experiment W: Black bar ~34, Hatched bar ~43\n- Experiment X: Black bar ~36, Hatched bar ~42\n- Experiment Y: Black bar ~29, Hatched bar ~57\n- Experiment Z: Black bar ~30, Hatched bar ~41\n- Experiment AA: Black bar ~33, Hatched bar ~46\n- Experiment AB: Black bar ~27, Hatched bar ~59\n- Experiment AC: Black bar ~35, Hatched bar ~40\n: bar chart::>\n\n<a id='79bda29c-47ab-4642-abfe-df3bdb6423b3'></a>\n\nSeries 1\n\n<a id='e4d6f45d-4353-4333-82da-cfa19ee5e2ab'></a>\n\n<::A legend item with a hatched rectangle representing \"Series 2\".\n: figure::>\n\n<a id='9f2d3bed-f655-4cdb-aa3e-502d7df920cf'></a>\n\nDARK=BEFORE HEAT\n\n<a id='72144217-0b85-41e4-8b7d-9911ea3b3c45'></a>\n\n51354 3600\n\n<a id='c8f62f7a-9690-44d9-b546-25624c60b44a'></a>\n\nFigure 2",
+    "chunks": [
+        {
+            "markdown": "<a id='4686d55b-5327-4d1f-9193-8184a64a8003'></a>\n\nC-27 PEAK COUNT\nVERSUS HEAT TREATMENT",
+            "type": "text",
+            "id": "4686d55b-5327-4d1f-9193-8184a64a8003",
+            "grounding": {
+                "box": {
+                    "left": 0.19009065628051758,
+                    "top": 0.11604180186986923,
+                    "right": 0.7044830322265625,
+                    "bottom": 0.25001320242881775
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='979bf765-7dad-4606-98dc-fcb6941fde4f'></a>\n\n<::logo: Generic Stamp\nBEST COPY\nA black circular stamp with the words \"BEST COPY\" rotated inside.::>",
+            "type": "logo",
+            "id": "979bf765-7dad-4606-98dc-fcb6941fde4f",
+            "grounding": {
+                "box": {
+                    "left": 0.7853391170501709,
+                    "top": 0.13108748197555542,
+                    "right": 0.8687213659286499,
+                    "bottom": 0.23013636469841003
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f4e4ce65-3f64-4d8f-b7f4-efc9ef026463'></a>\n\n<::Bar chart titled \"PEAK COUNT\" with \"EXPERIMENT NUMBER\" on the x-axis and \"PEAK COUNT\" on the y-axis, ranging from 0 to 70 in increments of 10. Each experiment number (A through Z, then AA, AB, AC) has two bars, one solid black and one hatched. The values are as follows:\n- Experiment A: Black bar ~20, Hatched bar ~27\n- Experiment B: Black bar ~17, Hatched bar ~36\n- Experiment C: Black bar ~15, Hatched bar ~29\n- Experiment D: Black bar ~17, Hatched bar ~36\n- Experiment E: Black bar ~25, Hatched bar ~39\n- Experiment F: Black bar ~35, Hatched bar ~44\n- Experiment G: Black bar ~29, Hatched bar ~45\n- Experiment H: Black bar ~31, Hatched bar ~41\n- Experiment I: Black bar ~32, Hatched bar ~38\n- Experiment J: Black bar ~28, Hatched bar ~41\n- Experiment K: Black bar ~32, Hatched bar ~37\n- Experiment L: Black bar ~30, Hatched bar ~36\n- Experiment M: Black bar ~22, Hatched bar ~41\n- Experiment N: Black bar ~27, Hatched bar ~63\n- Experiment O: Black bar ~15, Hatched bar ~39\n- Experiment P: Black bar ~22, Hatched bar ~32\n- Experiment Q: Black bar ~22, Hatched bar ~51\n- Experiment R: Black bar ~30, Hatched bar ~50\n- Experiment S: Black bar ~32, Hatched bar ~40\n- Experiment T: Black bar ~29, Hatched bar ~47\n- Experiment U: Black bar ~29, Hatched bar ~43\n- Experiment V: Black bar ~32, Hatched bar ~39\n- Experiment W: Black bar ~34, Hatched bar ~43\n- Experiment X: Black bar ~36, Hatched bar ~42\n- Experiment Y: Black bar ~29, Hatched bar ~57\n- Experiment Z: Black bar ~30, Hatched bar ~41\n- Experiment AA: Black bar ~33, Hatched bar ~46\n- Experiment AB: Black bar ~27, Hatched bar ~59\n- Experiment AC: Black bar ~35, Hatched bar ~40\n: bar chart::>",
+            "type": "figure",
+            "id": "f4e4ce65-3f64-4d8f-b7f4-efc9ef026463",
+            "grounding": {
+                "box": {
+                    "left": 0.0770692229270935,
+                    "top": 0.2710571587085724,
+                    "right": 0.7909048199653625,
+                    "bottom": 0.7518515586853027
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='79bda29c-47ab-4642-abfe-df3bdb6423b3'></a>\n\nSeries 1",
+            "type": "text",
+            "id": "79bda29c-47ab-4642-abfe-df3bdb6423b3",
+            "grounding": {
+                "box": {
+                    "left": 0.29162055253982544,
+                    "top": 0.7735028862953186,
+                    "right": 0.42404550313949585,
+                    "bottom": 0.8158553242683411
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e4d6f45d-4353-4333-82da-cfa19ee5e2ab'></a>\n\n<::A legend item with a hatched rectangle representing \"Series 2\".\n: figure::>",
+            "type": "figure",
+            "id": "e4d6f45d-4353-4333-82da-cfa19ee5e2ab",
+            "grounding": {
+                "box": {
+                    "left": 0.44258809089660645,
+                    "top": 0.7754212021827698,
+                    "right": 0.5817667245864868,
+                    "bottom": 0.8153721690177917
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9f2d3bed-f655-4cdb-aa3e-502d7df920cf'></a>\n\nDARK=BEFORE HEAT",
+            "type": "text",
+            "id": "9f2d3bed-f655-4cdb-aa3e-502d7df920cf",
+            "grounding": {
+                "box": {
+                    "left": 0.04543362557888031,
+                    "top": 0.8448613286018372,
+                    "right": 0.2274235635995865,
+                    "bottom": 0.8775404095649719
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='72144217-0b85-41e4-8b7d-9911ea3b3c45'></a>\n\n51354 3600",
+            "type": "marginalia",
+            "id": "72144217-0b85-41e4-8b7d-9911ea3b3c45",
+            "grounding": {
+                "box": {
+                    "left": 0.0485234335064888,
+                    "top": 0.9275636672973633,
+                    "right": 0.15274932980537415,
+                    "bottom": 0.9587570428848267
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c8f62f7a-9690-44d9-b546-25624c60b44a'></a>\n\nFigure 2",
+            "type": "marginalia",
+            "id": "c8f62f7a-9690-44d9-b546-25624c60b44a",
+            "grounding": {
+                "box": {
+                    "left": 0.8509616255760193,
+                    "top": 0.4445164203643799,
+                    "right": 0.8760846257209778,
+                    "bottom": 0.5414509177207947
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4686d55b-5327-4d1f-9193-8184a64a8003'></a>\n\nC-27 PEAK COUNT\nVERSUS HEAT TREATMENT\n\n<a id='979bf765-7dad-4606-98dc-fcb6941fde4f'></a>\n\n<::logo: Generic Stamp\nBEST COPY\nA black circular stamp with the words \"BEST COPY\" rotated inside.::>\n\n<a id='f4e4ce65-3f64-4d8f-b7f4-efc9ef026463'></a>\n\n<::Bar chart titled \"PEAK COUNT\" with \"EXPERIMENT NUMBER\" on the x-axis and \"PEAK COUNT\" on the y-axis, ranging from 0 to 70 in increments of 10. Each experiment number (A through Z, then AA, AB, AC) has two bars, one solid black and one hatched. The values are as follows:\n- Experiment A: Black bar ~20, Hatched bar ~27\n- Experiment B: Black bar ~17, Hatched bar ~36\n- Experiment C: Black bar ~15, Hatched bar ~29\n- Experiment D: Black bar ~17, Hatched bar ~36\n- Experiment E: Black bar ~25, Hatched bar ~39\n- Experiment F: Black bar ~35, Hatched bar ~44\n- Experiment G: Black bar ~29, Hatched bar ~45\n- Experiment H: Black bar ~31, Hatched bar ~41\n- Experiment I: Black bar ~32, Hatched bar ~38\n- Experiment J: Black bar ~28, Hatched bar ~41\n- Experiment K: Black bar ~32, Hatched bar ~37\n- Experiment L: Black bar ~30, Hatched bar ~36\n- Experiment M: Black bar ~22, Hatched bar ~41\n- Experiment N: Black bar ~27, Hatched bar ~63\n- Experiment O: Black bar ~15, Hatched bar ~39\n- Experiment P: Black bar ~22, Hatched bar ~32\n- Experiment Q: Black bar ~22, Hatched bar ~51\n- Experiment R: Black bar ~30, Hatched bar ~50\n- Experiment S: Black bar ~32, Hatched bar ~40\n- Experiment T: Black bar ~29, Hatched bar ~47\n- Experiment U: Black bar ~29, Hatched bar ~43\n- Experiment V: Black bar ~32, Hatched bar ~39\n- Experiment W: Black bar ~34, Hatched bar ~43\n- Experiment X: Black bar ~36, Hatched bar ~42\n- Experiment Y: Black bar ~29, Hatched bar ~57\n- Experiment Z: Black bar ~30, Hatched bar ~41\n- Experiment AA: Black bar ~33, Hatched bar ~46\n- Experiment AB: Black bar ~27, Hatched bar ~59\n- Experiment AC: Black bar ~35, Hatched bar ~40\n: bar chart::>\n\n<a id='79bda29c-47ab-4642-abfe-df3bdb6423b3'></a>\n\nSeries 1\n\n<a id='e4d6f45d-4353-4333-82da-cfa19ee5e2ab'></a>\n\n<::A legend item with a hatched rectangle representing \"Series 2\".\n: figure::>\n\n<a id='9f2d3bed-f655-4cdb-aa3e-502d7df920cf'></a>\n\nDARK=BEFORE HEAT\n\n<a id='72144217-0b85-41e4-8b7d-9911ea3b3c45'></a>\n\n51354 3600\n\n<a id='c8f62f7a-9690-44d9-b546-25624c60b44a'></a>\n\nFigure 2",
+            "chunks": [
+                "4686d55b-5327-4d1f-9193-8184a64a8003",
+                "979bf765-7dad-4606-98dc-fcb6941fde4f",
+                "f4e4ce65-3f64-4d8f-b7f4-efc9ef026463",
+                "79bda29c-47ab-4642-abfe-df3bdb6423b3",
+                "e4d6f45d-4353-4333-82da-cfa19ee5e2ab",
+                "9f2d3bed-f655-4cdb-aa3e-502d7df920cf",
+                "72144217-0b85-41e4-8b7d-9911ea3b3c45",
+                "c8f62f7a-9690-44d9-b546-25624c60b44a"
+            ]
+        }
+    ],
+    "grounding": {
+        "4686d55b-5327-4d1f-9193-8184a64a8003": {
+            "box": {
+                "left": 0.19009065628051758,
+                "top": 0.11604180186986923,
+                "right": 0.7044830322265625,
+                "bottom": 0.25001320242881775
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "979bf765-7dad-4606-98dc-fcb6941fde4f": {
+            "box": {
+                "left": 0.7853391170501709,
+                "top": 0.13108748197555542,
+                "right": 0.8687213659286499,
+                "bottom": 0.23013636469841003
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "f4e4ce65-3f64-4d8f-b7f4-efc9ef026463": {
+            "box": {
+                "left": 0.0770692229270935,
+                "top": 0.2710571587085724,
+                "right": 0.7909048199653625,
+                "bottom": 0.7518515586853027
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "79bda29c-47ab-4642-abfe-df3bdb6423b3": {
+            "box": {
+                "left": 0.29162055253982544,
+                "top": 0.7735028862953186,
+                "right": 0.42404550313949585,
+                "bottom": 0.8158553242683411
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e4d6f45d-4353-4333-82da-cfa19ee5e2ab": {
+            "box": {
+                "left": 0.44258809089660645,
+                "top": 0.7754212021827698,
+                "right": 0.5817667245864868,
+                "bottom": 0.8153721690177917
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "9f2d3bed-f655-4cdb-aa3e-502d7df920cf": {
+            "box": {
+                "left": 0.04543362557888031,
+                "top": 0.8448613286018372,
+                "right": 0.2274235635995865,
+                "bottom": 0.8775404095649719
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "72144217-0b85-41e4-8b7d-9911ea3b3c45": {
+            "box": {
+                "left": 0.0485234335064888,
+                "top": 0.9275636672973633,
+                "right": 0.15274932980537415,
+                "bottom": 0.9587570428848267
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "c8f62f7a-9690-44d9-b546-25624c60b44a": {
+            "box": {
+                "left": 0.8509616255760193,
+                "top": 0.4445164203643799,
+                "right": 0.8760846257209778,
+                "bottom": 0.5414509177207947
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "gffn0081_15.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11026,
+        "credit_usage": 3.0,
+        "job_id": "oqyg2oha24of62q8hnw7iqcd5",
+        "version": "dpt-2-20250919"
+    }
+}

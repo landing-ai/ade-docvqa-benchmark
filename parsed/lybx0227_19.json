@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='b9940579-ebe6-45f8-9bf7-6f76ba9d6d66'></a>\n\n\u25b3-HEATING IN OPEN AIR\n\u25a1-HEATING IN SEALED TUBE\n\u25cb-HEATING IN NITROGEN\n\u2717-AUTOCLAVING IN SEALED TUBE (120\u00b0C)\n\n<a id='b4130090-a35f-4f25-8375-d0d738d87ae3'></a>\n\n<::Line graph showing the loss of thiamine over time. The y-axis is labeled \"LOSS OF THIAMINE (%)\" and ranges from 0 to 50. The x-axis is labeled \"TIME IN MIN\" and ranges from 0 to 30. There are four data series plotted:\n- One series, marked with 'x' symbols, shows a rapid increase in thiamine loss, starting from 0% at 0 min, reaching approximately 25% at 5 min, 40% at 15 min, and nearly 50% at 30 min.\n- Three other series, marked with 'o', 'triangle', and 'square' symbols, show a much slower and similar rate of thiamine loss. These series start at 0% at 0 min and gradually increase to approximately 12-15% at 30 min. The 'o' series reaches about 15% at 30 min, the 'triangle' series reaches about 13% at 30 min, and the 'square' series reaches about 12% at 30 min.\n: chart::>",
+    "chunks": [
+        {
+            "markdown": "<a id='b9940579-ebe6-45f8-9bf7-6f76ba9d6d66'></a>\n\n\u25b3-HEATING IN OPEN AIR\n\u25a1-HEATING IN SEALED TUBE\n\u25cb-HEATING IN NITROGEN\n\u2717-AUTOCLAVING IN SEALED TUBE (120\u00b0C)",
+            "type": "text",
+            "id": "b9940579-ebe6-45f8-9bf7-6f76ba9d6d66",
+            "grounding": {
+                "box": {
+                    "left": 0.25818610191345215,
+                    "top": 0.016111157834529877,
+                    "right": 0.9101883172988892,
+                    "bottom": 0.15528863668441772
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b4130090-a35f-4f25-8375-d0d738d87ae3'></a>\n\n<::Line graph showing the loss of thiamine over time. The y-axis is labeled \"LOSS OF THIAMINE (%)\" and ranges from 0 to 50. The x-axis is labeled \"TIME IN MIN\" and ranges from 0 to 30. There are four data series plotted:\n- One series, marked with 'x' symbols, shows a rapid increase in thiamine loss, starting from 0% at 0 min, reaching approximately 25% at 5 min, 40% at 15 min, and nearly 50% at 30 min.\n- Three other series, marked with 'o', 'triangle', and 'square' symbols, show a much slower and similar rate of thiamine loss. These series start at 0% at 0 min and gradually increase to approximately 12-15% at 30 min. The 'o' series reaches about 15% at 30 min, the 'triangle' series reaches about 13% at 30 min, and the 'square' series reaches about 12% at 30 min.\n: chart::>",
+            "type": "figure",
+            "id": "b4130090-a35f-4f25-8375-d0d738d87ae3",
+            "grounding": {
+                "box": {
+                    "left": 0.12525120377540588,
+                    "top": 0.133966863155365,
+                    "right": 0.8019490242004395,
+                    "bottom": 0.8670281767845154
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='b9940579-ebe6-45f8-9bf7-6f76ba9d6d66'></a>\n\n\u25b3-HEATING IN OPEN AIR\n\u25a1-HEATING IN SEALED TUBE\n\u25cb-HEATING IN NITROGEN\n\u2717-AUTOCLAVING IN SEALED TUBE (120\u00b0C)\n\n<a id='b4130090-a35f-4f25-8375-d0d738d87ae3'></a>\n\n<::Line graph showing the loss of thiamine over time. The y-axis is labeled \"LOSS OF THIAMINE (%)\" and ranges from 0 to 50. The x-axis is labeled \"TIME IN MIN\" and ranges from 0 to 30. There are four data series plotted:\n- One series, marked with 'x' symbols, shows a rapid increase in thiamine loss, starting from 0% at 0 min, reaching approximately 25% at 5 min, 40% at 15 min, and nearly 50% at 30 min.\n- Three other series, marked with 'o', 'triangle', and 'square' symbols, show a much slower and similar rate of thiamine loss. These series start at 0% at 0 min and gradually increase to approximately 12-15% at 30 min. The 'o' series reaches about 15% at 30 min, the 'triangle' series reaches about 13% at 30 min, and the 'square' series reaches about 12% at 30 min.\n: chart::>",
+            "chunks": [
+                "b9940579-ebe6-45f8-9bf7-6f76ba9d6d66",
+                "b4130090-a35f-4f25-8375-d0d738d87ae3"
+            ]
+        }
+    ],
+    "grounding": {
+        "b9940579-ebe6-45f8-9bf7-6f76ba9d6d66": {
+            "box": {
+                "left": 0.25818610191345215,
+                "top": 0.016111157834529877,
+                "right": 0.9101883172988892,
+                "bottom": 0.15528863668441772
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b4130090-a35f-4f25-8375-d0d738d87ae3": {
+            "box": {
+                "left": 0.12525120377540588,
+                "top": 0.133966863155365,
+                "right": 0.8019490242004395,
+                "bottom": 0.8670281767845154
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "lybx0227_19.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11075,
+        "credit_usage": 3.0,
+        "job_id": "wuqio798h2uednywxys8564gr",
+        "version": "dpt-2-20250919"
+    }
+}

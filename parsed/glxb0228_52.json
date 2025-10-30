@@ -1,0 +1,53 @@
+{
+    "markdown": "<a id='0539d952-1ce2-4256-a062-40e2401e8419'></a>\n\n<::A graphic in an octagonal shape, divided into four quadrants with a grid pattern. The word \"PROTECT\" is prominently displayed in the center. The top-left quadrant shows a house, the top-right shows a deer and two trees, the bottom-left shows a water drop creating ripples, and the bottom-right shows a farm building with crops.\n: figure::>\n\n*Use Pesticides Safely*\n\n**FOLLOW THE LABEL**\n\nU.S. DEPARTMENT OF AGRICULTURE",
+    "chunks": [
+        {
+            "markdown": "<a id='0539d952-1ce2-4256-a062-40e2401e8419'></a>\n\n<::A graphic in an octagonal shape, divided into four quadrants with a grid pattern. The word \"PROTECT\" is prominently displayed in the center. The top-left quadrant shows a house, the top-right shows a deer and two trees, the bottom-left shows a water drop creating ripples, and the bottom-right shows a farm building with crops.\n: figure::>\n\n*Use Pesticides Safely*\n\n**FOLLOW THE LABEL**\n\nU.S. DEPARTMENT OF AGRICULTURE",
+            "type": "figure",
+            "id": "0539d952-1ce2-4256-a062-40e2401e8419",
+            "grounding": {
+                "box": {
+                    "left": 0.3639117479324341,
+                    "top": 0.3136520981788635,
+                    "right": 0.637653112411499,
+                    "bottom": 0.5855039358139038
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='0539d952-1ce2-4256-a062-40e2401e8419'></a>\n\n<::A graphic in an octagonal shape, divided into four quadrants with a grid pattern. The word \"PROTECT\" is prominently displayed in the center. The top-left quadrant shows a house, the top-right shows a deer and two trees, the bottom-left shows a water drop creating ripples, and the bottom-right shows a farm building with crops.\n: figure::>\n\n*Use Pesticides Safely*\n\n**FOLLOW THE LABEL**\n\nU.S. DEPARTMENT OF AGRICULTURE",
+            "chunks": [
+                "0539d952-1ce2-4256-a062-40e2401e8419"
+            ]
+        }
+    ],
+    "grounding": {
+        "0539d952-1ce2-4256-a062-40e2401e8419": {
+            "box": {
+                "left": 0.3639117479324341,
+                "top": 0.3136520981788635,
+                "right": 0.637653112411499,
+                "bottom": 0.5855039358139038
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "glxb0228_52.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7522,
+        "credit_usage": 3.0,
+        "job_id": "pc7yvnjhyjutdbz88gf1g4v7s",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "markdown": "<a id='6fb36179-618d-4a42-850c-8f64f4f5a7e3'></a>\n\n52566 4641\n\n<a id='2ccf5a7c-2e66-4167-abc1-14e584ca5003'></a>\n\nCAMEL Turkish Royal\n\n<a id='7f054f57-336c-4fb0-9df1-26118039bb7c'></a>\n\nSmoothness\n<table id=\"0-1\">\n<tr><td id=\"0-2\">\u2022 Turkish Gold</td><td id=\"0-3\">\u2022 Turkish Royal</td></tr>\n<tr><td id=\"0-4\" rowspan=\"2\" colspan=\"2\">Less Tobacco Flavor</td></tr>\n</table>\n\n<a id='b8ff8e68-3468-42f0-82fc-327b8a3e7961'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ptvp0225",
+    "chunks": [
+        {
+            "markdown": "<a id='6fb36179-618d-4a42-850c-8f64f4f5a7e3'></a>\n\n52566 4641",
+            "type": "marginalia",
+            "id": "6fb36179-618d-4a42-850c-8f64f4f5a7e3",
+            "grounding": {
+                "box": {
+                    "left": 0.8222998976707458,
+                    "top": 0.04410909116268158,
+                    "right": 0.9189409613609314,
+                    "bottom": 0.07700217515230179
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2ccf5a7c-2e66-4167-abc1-14e584ca5003'></a>\n\nCAMEL Turkish Royal",
+            "type": "text",
+            "id": "2ccf5a7c-2e66-4167-abc1-14e584ca5003",
+            "grounding": {
+                "box": {
+                    "left": 0.3262229561805725,
+                    "top": 0.11603255569934845,
+                    "right": 0.6600350737571716,
+                    "bottom": 0.18454869091510773
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7f054f57-336c-4fb0-9df1-26118039bb7c'></a>\n\nSmoothness\n<table id=\"0-1\">\n<tr><td id=\"0-2\">\u2022 Turkish Gold</td><td id=\"0-3\">\u2022 Turkish Royal</td></tr>\n<tr><td id=\"0-4\" rowspan=\"2\" colspan=\"2\">Less Tobacco Flavor</td></tr>\n</table>",
+            "type": "table",
+            "id": "7f054f57-336c-4fb0-9df1-26118039bb7c",
+            "grounding": {
+                "box": {
+                    "left": 0.1910424530506134,
+                    "top": 0.28886672854423523,
+                    "right": 0.8017559051513672,
+                    "bottom": 0.9042234420776367
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b8ff8e68-3468-42f0-82fc-327b8a3e7961'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ptvp0225",
+            "type": "marginalia",
+            "id": "b8ff8e68-3468-42f0-82fc-327b8a3e7961",
+            "grounding": {
+                "box": {
+                    "left": 0.27992942929267883,
+                    "top": 0.9692031741142273,
+                    "right": 0.7209204435348511,
+                    "bottom": 1.000078558921814
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6fb36179-618d-4a42-850c-8f64f4f5a7e3'></a>\n\n52566 4641\n\n<a id='2ccf5a7c-2e66-4167-abc1-14e584ca5003'></a>\n\nCAMEL Turkish Royal\n\n<a id='7f054f57-336c-4fb0-9df1-26118039bb7c'></a>\n\nSmoothness\n<table id=\"0-1\">\n<tr><td id=\"0-2\">\u2022 Turkish Gold</td><td id=\"0-3\">\u2022 Turkish Royal</td></tr>\n<tr><td id=\"0-4\" rowspan=\"2\" colspan=\"2\">Less Tobacco Flavor</td></tr>\n</table>\n\n<a id='b8ff8e68-3468-42f0-82fc-327b8a3e7961'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ptvp0225",
+            "chunks": [
+                "6fb36179-618d-4a42-850c-8f64f4f5a7e3",
+                "2ccf5a7c-2e66-4167-abc1-14e584ca5003",
+                "7f054f57-336c-4fb0-9df1-26118039bb7c",
+                "b8ff8e68-3468-42f0-82fc-327b8a3e7961"
+            ]
+        }
+    ],
+    "grounding": {
+        "6fb36179-618d-4a42-850c-8f64f4f5a7e3": {
+            "box": {
+                "left": 0.8222998976707458,
+                "top": 0.04410909116268158,
+                "right": 0.9189409613609314,
+                "bottom": 0.07700217515230179
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "2ccf5a7c-2e66-4167-abc1-14e584ca5003": {
+            "box": {
+                "left": 0.3262229561805725,
+                "top": 0.11603255569934845,
+                "right": 0.6600350737571716,
+                "bottom": 0.18454869091510773
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7f054f57-336c-4fb0-9df1-26118039bb7c": {
+            "box": {
+                "left": 0.1910424530506134,
+                "top": 0.28886672854423523,
+                "right": 0.8017559051513672,
+                "bottom": 0.9042234420776367
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.19667706367717358,
+                "top": 0.3463138817958338,
+                "right": 0.8013478823253752,
+                "bottom": 0.9041324069879657
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.19667706367717358,
+                "top": 0.3463138817958338,
+                "right": 0.49077926438533037,
+                "bottom": 0.4781554183185204
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.49077926438533037,
+                "top": 0.3463138817958338,
+                "right": 0.8009636295864002,
+                "bottom": 0.4781554183185204
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.19667706367717358,
+                "top": 0.4781554183185204,
+                "right": 0.8009636295864002,
+                "bottom": 0.9041324069879657
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "b8ff8e68-3468-42f0-82fc-327b8a3e7961": {
+            "box": {
+                "left": 0.27992942929267883,
+                "top": 0.9692031741142273,
+                "right": 0.7209204435348511,
+                "bottom": 1.000078558921814
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "ptvp0225_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4903,
+        "credit_usage": 3.0,
+        "job_id": "cirb47mpn3xqk3ujv4z1bhicu",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='54643a5b-2523-4d0e-bc7e-5f3c7e058770'></a>\n\nVI. PREVIOUS PERFORMANCE\n\n- Pomona Oct. '91 vs. Jan. '92\n\n  CAMEL GROWTH - Index 109\n  ALL OTHER RJR BRANDS HELD STEADY\n\n- MARLBORO SHOWED A SLIGHT DECLINE - Index 98\n\n- TREMENDOUS SAVINGS DIFFERENCE - Index 300\n\n<a id='3b330405-7e7a-4e14-9432-1c0be20be79b'></a>\n\n51338 6009",
+    "chunks": [
+        {
+            "markdown": "<a id='54643a5b-2523-4d0e-bc7e-5f3c7e058770'></a>\n\nVI. PREVIOUS PERFORMANCE\n\n- Pomona Oct. '91 vs. Jan. '92\n\n  CAMEL GROWTH - Index 109\n  ALL OTHER RJR BRANDS HELD STEADY\n\n- MARLBORO SHOWED A SLIGHT DECLINE - Index 98\n\n- TREMENDOUS SAVINGS DIFFERENCE - Index 300",
+            "type": "text",
+            "id": "54643a5b-2523-4d0e-bc7e-5f3c7e058770",
+            "grounding": {
+                "box": {
+                    "left": 0.07918483018875122,
+                    "top": 0.0959702879190445,
+                    "right": 0.8711332678794861,
+                    "bottom": 0.310635507106781
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3b330405-7e7a-4e14-9432-1c0be20be79b'></a>\n\n51338 6009",
+            "type": "marginalia",
+            "id": "3b330405-7e7a-4e14-9432-1c0be20be79b",
+            "grounding": {
+                "box": {
+                    "left": 0.9359323382377625,
+                    "top": 0.8424378037452698,
+                    "right": 0.9638484120368958,
+                    "bottom": 0.9416912198066711
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='54643a5b-2523-4d0e-bc7e-5f3c7e058770'></a>\n\nVI. PREVIOUS PERFORMANCE\n\n- Pomona Oct. '91 vs. Jan. '92\n\n  CAMEL GROWTH - Index 109\n  ALL OTHER RJR BRANDS HELD STEADY\n\n- MARLBORO SHOWED A SLIGHT DECLINE - Index 98\n\n- TREMENDOUS SAVINGS DIFFERENCE - Index 300\n\n<a id='3b330405-7e7a-4e14-9432-1c0be20be79b'></a>\n\n51338 6009",
+            "chunks": [
+                "54643a5b-2523-4d0e-bc7e-5f3c7e058770",
+                "3b330405-7e7a-4e14-9432-1c0be20be79b"
+            ]
+        }
+    ],
+    "grounding": {
+        "54643a5b-2523-4d0e-bc7e-5f3c7e058770": {
+            "box": {
+                "left": 0.07918483018875122,
+                "top": 0.0959702879190445,
+                "right": 0.8711332678794861,
+                "bottom": 0.310635507106781
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3b330405-7e7a-4e14-9432-1c0be20be79b": {
+            "box": {
+                "left": 0.9359323382377625,
+                "top": 0.8424378037452698,
+                "right": 0.9638484120368958,
+                "bottom": 0.9416912198066711
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "gpnn0081_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3198,
+        "credit_usage": 3.0,
+        "job_id": "gw37twf47airdrt9r04lwy518",
+        "version": "dpt-2-20250919"
+    }
+}

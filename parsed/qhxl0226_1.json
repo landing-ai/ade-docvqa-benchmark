@@ -1,0 +1,168 @@
+{
+    "markdown": "<a id='e219d7ca-3db3-41da-b6e1-24ea28d18eef'></a>\n\n=THE MEETING OF THE EXECUTIVE COMMITTEE OF THE U.S. CANE SUGAR\n<table id=\"0-1\">\n<tr><td id=\"0-2\">REFINERS' ASSOCIATION WILL BE</td><td id=\"0-3\">HELD AT 2:00 P.M. WEDNESDAY,</td></tr>\n<tr><td id=\"0-4\">OCTOBER 18 INSTEAD OF 2:30 P.M.</td><td id=\"0-5\"></td></tr>\n</table>\n=US CANE SUGAR REFINERS ASSOCIATION.U.S.\n2:00 P.M. 18 2:30 P.M.\n\n<a id='471d4e23-a66e-4b4d-abf7-54335369e3f9'></a>\n\n<table id=\"0-6\">\n<tr><td id=\"0-7\" colspan=\"2\">WUA50 26=CD NEWYORK NY OCT 16 1122A LOUIS V PLACE JR,</td></tr>\n<tr><td id=\"0-8\">(gray rectangle)</td><td id=\"0-9\">MCCAHN SUGAR REFINERY</td></tr>\n</table>",
+    "chunks": [
+        {
+            "markdown": "<a id='e219d7ca-3db3-41da-b6e1-24ea28d18eef'></a>\n\n=THE MEETING OF THE EXECUTIVE COMMITTEE OF THE U.S. CANE SUGAR\n<table id=\"0-1\">\n<tr><td id=\"0-2\">REFINERS' ASSOCIATION WILL BE</td><td id=\"0-3\">HELD AT 2:00 P.M. WEDNESDAY,</td></tr>\n<tr><td id=\"0-4\">OCTOBER 18 INSTEAD OF 2:30 P.M.</td><td id=\"0-5\"></td></tr>\n</table>\n=US CANE SUGAR REFINERS ASSOCIATION.U.S.\n2:00 P.M. 18 2:30 P.M.",
+            "type": "table",
+            "id": "e219d7ca-3db3-41da-b6e1-24ea28d18eef",
+            "grounding": {
+                "box": {
+                    "left": 0.003233283758163452,
+                    "top": 0.45141831040382385,
+                    "right": 1.0007573366165161,
+                    "bottom": 0.9602622985839844
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='471d4e23-a66e-4b4d-abf7-54335369e3f9'></a>\n\n<table id=\"0-6\">\n<tr><td id=\"0-7\" colspan=\"2\">WUA50 26=CD NEWYORK NY OCT 16 1122A LOUIS V PLACE JR,</td></tr>\n<tr><td id=\"0-8\">(gray rectangle)</td><td id=\"0-9\">MCCAHN SUGAR REFINERY</td></tr>\n</table>",
+            "type": "table",
+            "id": "471d4e23-a66e-4b4d-abf7-54335369e3f9",
+            "grounding": {
+                "box": {
+                    "left": 0.00757107138633728,
+                    "top": 0.28425565361976624,
+                    "right": 0.8790903091430664,
+                    "bottom": 0.44456252455711365
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e219d7ca-3db3-41da-b6e1-24ea28d18eef'></a>\n\n=THE MEETING OF THE EXECUTIVE COMMITTEE OF THE U.S. CANE SUGAR\n<table id=\"0-1\">\n<tr><td id=\"0-2\">REFINERS' ASSOCIATION WILL BE</td><td id=\"0-3\">HELD AT 2:00 P.M. WEDNESDAY,</td></tr>\n<tr><td id=\"0-4\">OCTOBER 18 INSTEAD OF 2:30 P.M.</td><td id=\"0-5\"></td></tr>\n</table>\n=US CANE SUGAR REFINERS ASSOCIATION.U.S.\n2:00 P.M. 18 2:30 P.M.\n\n<a id='471d4e23-a66e-4b4d-abf7-54335369e3f9'></a>\n\n<table id=\"0-6\">\n<tr><td id=\"0-7\" colspan=\"2\">WUA50 26=CD NEWYORK NY OCT 16 1122A LOUIS V PLACE JR,</td></tr>\n<tr><td id=\"0-8\">(gray rectangle)</td><td id=\"0-9\">MCCAHN SUGAR REFINERY</td></tr>\n</table>",
+            "chunks": [
+                "e219d7ca-3db3-41da-b6e1-24ea28d18eef",
+                "471d4e23-a66e-4b4d-abf7-54335369e3f9"
+            ]
+        }
+    ],
+    "grounding": {
+        "e219d7ca-3db3-41da-b6e1-24ea28d18eef": {
+            "box": {
+                "left": 0.003233283758163452,
+                "top": 0.45141831040382385,
+                "right": 1.0007573366165161,
+                "bottom": 0.9602622985839844
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.012769871192127608,
+                "top": 0.5867390728089514,
+                "right": 0.9474666811055954,
+                "bottom": 0.7182241587434905
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.012769871192127608,
+                "top": 0.5867390728089514,
+                "right": 0.5000158357900508,
+                "bottom": 0.651219788707639
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.5000158357900508,
+                "top": 0.5867390728089514,
+                "right": 0.9464749372309456,
+                "bottom": 0.651219788707639
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.012769871192127608,
+                "top": 0.651219788707639,
+                "right": 0.5000158357900508,
+                "bottom": 0.7182241587434905
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5000158357900508,
+                "top": 0.651219788707639,
+                "right": 0.9464749372309456,
+                "bottom": 0.7182241587434905
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "471d4e23-a66e-4b4d-abf7-54335369e3f9": {
+            "box": {
+                "left": 0.00757107138633728,
+                "top": 0.28425565361976624,
+                "right": 0.8790903091430664,
+                "bottom": 0.44456252455711365
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.011490111193796906,
+                "top": 0.3047121861654434,
+                "right": 0.8666688394467599,
+                "bottom": 0.42522080411590935
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.011490111193796906,
+                "top": 0.3047121861654434,
+                "right": 0.8639998234171671,
+                "bottom": 0.42522080411590935
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.011490111193796906,
+                "top": 0.36525763344648254,
+                "right": 0.5328147252361504,
+                "bottom": 0.42522080411590935
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5328147252361504,
+                "top": 0.36525763344648254,
+                "right": 0.8639998234171671,
+                "bottom": 0.42522080411590935
+            },
+            "page": 0,
+            "type": "tableCell"
+        }
+    },
+    "metadata": {
+        "filename": "qhxl0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8934,
+        "credit_usage": 3.0,
+        "job_id": "mhm3nhwf85cr9eqsbxeth85sh",
+        "version": "dpt-2-20250919"
+    }
+}

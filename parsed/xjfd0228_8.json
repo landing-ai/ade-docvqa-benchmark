@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='3d191731-d2bb-40a1-bf64-819c1c3dce68'></a>\n\nNOW!\n\n<a id='2f6f4857-3995-4691-b90f-a287a7e23831'></a>\n\nThe fabulous new HILTON\u2014\n\n<a id='01ef640a-0ddd-4dfe-b5c1-6bc6a12e803d'></a>\n\nJoins St. Petersburg, City of Sun and Fun, in offering conven-\ntioneer, business traveler and vacation family every imaginable\nfacility and convenience. Coupled with scores of world famous\nattractions, we welcome you to:\n\n<a id='a3ae653d-b9b5-48be-ba23-addfbeaa21c5'></a>\n\noption miles of waterfront, sparkling white sand beaches set on the blue waters of the Gulf of Mexico: [ ]\noption exotic floral beauty of the acclaimed Sunken Gardens: [ ]\noption MGM's exciting Bounty Exhibit: [ ]\noption the Aquatarium... world's largest marine show: [ ]\noption Horse Racing at Oldsmar: [ ]\noption the South Seas recreated at Tiki Gardens: [ ]\noption Derby Lane Greyhound Dog Racing: [ ]\noption winter home of baseball's Mets and Cardinals: [ ]\noption an exciting night of Jai Alai: [ ]\noption conveniently accessible to the fabulous new DISNEYWORLD: [ ]\n\n<a id='ccfe8075-5e27-4479-a972-78f5fdea0f24'></a>\n\nLocated Across From Bayfront Convention Center\nand Al Lange Field\n30 Minutes From Tampa International Airport\n\n<a id='29636b22-7100-46b3-b982-f6862d90b66c'></a>\n\n<::A map showing various locations and routes. Key features include:\n- Roads: U.S. 19, Interstate 4.\n- Landmarks: Tampa Airport (with an airplane icon), Greyhound Racing, Jai Alai, Sunken Gardens, Recreation Pier, ST. PETERSBURG, BAYFRONT CENTER.\n- A Hilton hotel is prominently marked with its logo and building outline.\n- A sailboat icon is visible in the water area.\n: map::>\n\n<a id='597508cb-c0d6-4450-be3f-a7a8fa550f2e'></a>\n\nFor further information, write: HILTON/P.O. Box 1027/St. Petersburg,\nFlorida 33731... or consult Yellow Pages for nearest\nHilton Reservation Service Office.",
+    "chunks": [
+        {
+            "markdown": "<a id='3d191731-d2bb-40a1-bf64-819c1c3dce68'></a>\n\nNOW!",
+            "type": "text",
+            "id": "3d191731-d2bb-40a1-bf64-819c1c3dce68",
+            "grounding": {
+                "box": {
+                    "left": 0.0737813338637352,
+                    "top": 0.022053511813282967,
+                    "right": 0.2877962589263916,
+                    "bottom": 0.05454431474208832
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2f6f4857-3995-4691-b90f-a287a7e23831'></a>\n\nThe fabulous new HILTON\u2014",
+            "type": "text",
+            "id": "2f6f4857-3995-4691-b90f-a287a7e23831",
+            "grounding": {
+                "box": {
+                    "left": 0.07270878553390503,
+                    "top": 0.0588383749127388,
+                    "right": 0.9112417101860046,
+                    "bottom": 0.09285227209329605
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='01ef640a-0ddd-4dfe-b5c1-6bc6a12e803d'></a>\n\nJoins St. Petersburg, City of Sun and Fun, in offering conven-\ntioneer, business traveler and vacation family every imaginable\nfacility and convenience. Coupled with scores of world famous\nattractions, we welcome you to:",
+            "type": "text",
+            "id": "01ef640a-0ddd-4dfe-b5c1-6bc6a12e803d",
+            "grounding": {
+                "box": {
+                    "left": 0.0705111026763916,
+                    "top": 0.10268273204565048,
+                    "right": 0.9346109628677368,
+                    "bottom": 0.17456215620040894
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a3ae653d-b9b5-48be-ba23-addfbeaa21c5'></a>\n\noption miles of waterfront, sparkling white sand beaches set on the blue waters of the Gulf of Mexico: [ ]\noption exotic floral beauty of the acclaimed Sunken Gardens: [ ]\noption MGM's exciting Bounty Exhibit: [ ]\noption the Aquatarium... world's largest marine show: [ ]\noption Horse Racing at Oldsmar: [ ]\noption the South Seas recreated at Tiki Gardens: [ ]\noption Derby Lane Greyhound Dog Racing: [ ]\noption winter home of baseball's Mets and Cardinals: [ ]\noption an exciting night of Jai Alai: [ ]\noption conveniently accessible to the fabulous new DISNEYWORLD: [ ]",
+            "type": "text",
+            "id": "a3ae653d-b9b5-48be-ba23-addfbeaa21c5",
+            "grounding": {
+                "box": {
+                    "left": 0.06770387291908264,
+                    "top": 0.1833091378211975,
+                    "right": 0.9365284442901611,
+                    "bottom": 0.4017680287361145
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ccfe8075-5e27-4479-a972-78f5fdea0f24'></a>\n\nLocated Across From Bayfront Convention Center\nand Al Lange Field\n30 Minutes From Tampa International Airport",
+            "type": "text",
+            "id": "ccfe8075-5e27-4479-a972-78f5fdea0f24",
+            "grounding": {
+                "box": {
+                    "left": 0.0684998631477356,
+                    "top": 0.40808993577957153,
+                    "right": 0.7491264343261719,
+                    "bottom": 0.46677982807159424
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='29636b22-7100-46b3-b982-f6862d90b66c'></a>\n\n<::A map showing various locations and routes. Key features include:\n- Roads: U.S. 19, Interstate 4.\n- Landmarks: Tampa Airport (with an airplane icon), Greyhound Racing, Jai Alai, Sunken Gardens, Recreation Pier, ST. PETERSBURG, BAYFRONT CENTER.\n- A Hilton hotel is prominently marked with its logo and building outline.\n- A sailboat icon is visible in the water area.\n: map::>",
+            "type": "figure",
+            "id": "29636b22-7100-46b3-b982-f6862d90b66c",
+            "grounding": {
+                "box": {
+                    "left": 0.016487151384353638,
+                    "top": 0.46901634335517883,
+                    "right": 0.9795331954956055,
+                    "bottom": 0.8055628538131714
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='597508cb-c0d6-4450-be3f-a7a8fa550f2e'></a>\n\nFor further information, write: HILTON/P.O. Box 1027/St. Petersburg,\nFlorida 33731... or consult Yellow Pages for nearest\nHilton Reservation Service Office.",
+            "type": "text",
+            "id": "597508cb-c0d6-4450-be3f-a7a8fa550f2e",
+            "grounding": {
+                "box": {
+                    "left": 0.060586005449295044,
+                    "top": 0.8029782176017761,
+                    "right": 0.9343748092651367,
+                    "bottom": 0.853261411190033
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3d191731-d2bb-40a1-bf64-819c1c3dce68'></a>\n\nNOW!\n\n<a id='2f6f4857-3995-4691-b90f-a287a7e23831'></a>\n\nThe fabulous new HILTON\u2014\n\n<a id='01ef640a-0ddd-4dfe-b5c1-6bc6a12e803d'></a>\n\nJoins St. Petersburg, City of Sun and Fun, in offering conven-\ntioneer, business traveler and vacation family every imaginable\nfacility and convenience. Coupled with scores of world famous\nattractions, we welcome you to:\n\n<a id='a3ae653d-b9b5-48be-ba23-addfbeaa21c5'></a>\n\noption miles of waterfront, sparkling white sand beaches set on the blue waters of the Gulf of Mexico: [ ]\noption exotic floral beauty of the acclaimed Sunken Gardens: [ ]\noption MGM's exciting Bounty Exhibit: [ ]\noption the Aquatarium... world's largest marine show: [ ]\noption Horse Racing at Oldsmar: [ ]\noption the South Seas recreated at Tiki Gardens: [ ]\noption Derby Lane Greyhound Dog Racing: [ ]\noption winter home of baseball's Mets and Cardinals: [ ]\noption an exciting night of Jai Alai: [ ]\noption conveniently accessible to the fabulous new DISNEYWORLD: [ ]\n\n<a id='ccfe8075-5e27-4479-a972-78f5fdea0f24'></a>\n\nLocated Across From Bayfront Convention Center\nand Al Lange Field\n30 Minutes From Tampa International Airport\n\n<a id='29636b22-7100-46b3-b982-f6862d90b66c'></a>\n\n<::A map showing various locations and routes. Key features include:\n- Roads: U.S. 19, Interstate 4.\n- Landmarks: Tampa Airport (with an airplane icon), Greyhound Racing, Jai Alai, Sunken Gardens, Recreation Pier, ST. PETERSBURG, BAYFRONT CENTER.\n- A Hilton hotel is prominently marked with its logo and building outline.\n- A sailboat icon is visible in the water area.\n: map::>\n\n<a id='597508cb-c0d6-4450-be3f-a7a8fa550f2e'></a>\n\nFor further information, write: HILTON/P.O. Box 1027/St. Petersburg,\nFlorida 33731... or consult Yellow Pages for nearest\nHilton Reservation Service Office.",
+            "chunks": [
+                "3d191731-d2bb-40a1-bf64-819c1c3dce68",
+                "2f6f4857-3995-4691-b90f-a287a7e23831",
+                "01ef640a-0ddd-4dfe-b5c1-6bc6a12e803d",
+                "a3ae653d-b9b5-48be-ba23-addfbeaa21c5",
+                "ccfe8075-5e27-4479-a972-78f5fdea0f24",
+                "29636b22-7100-46b3-b982-f6862d90b66c",
+                "597508cb-c0d6-4450-be3f-a7a8fa550f2e"
+            ]
+        }
+    ],
+    "grounding": {
+        "3d191731-d2bb-40a1-bf64-819c1c3dce68": {
+            "box": {
+                "left": 0.0737813338637352,
+                "top": 0.022053511813282967,
+                "right": 0.2877962589263916,
+                "bottom": 0.05454431474208832
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2f6f4857-3995-4691-b90f-a287a7e23831": {
+            "box": {
+                "left": 0.07270878553390503,
+                "top": 0.0588383749127388,
+                "right": 0.9112417101860046,
+                "bottom": 0.09285227209329605
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "01ef640a-0ddd-4dfe-b5c1-6bc6a12e803d": {
+            "box": {
+                "left": 0.0705111026763916,
+                "top": 0.10268273204565048,
+                "right": 0.9346109628677368,
+                "bottom": 0.17456215620040894
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a3ae653d-b9b5-48be-ba23-addfbeaa21c5": {
+            "box": {
+                "left": 0.06770387291908264,
+                "top": 0.1833091378211975,
+                "right": 0.9365284442901611,
+                "bottom": 0.4017680287361145
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ccfe8075-5e27-4479-a972-78f5fdea0f24": {
+            "box": {
+                "left": 0.0684998631477356,
+                "top": 0.40808993577957153,
+                "right": 0.7491264343261719,
+                "bottom": 0.46677982807159424
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "29636b22-7100-46b3-b982-f6862d90b66c": {
+            "box": {
+                "left": 0.016487151384353638,
+                "top": 0.46901634335517883,
+                "right": 0.9795331954956055,
+                "bottom": 0.8055628538131714
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "597508cb-c0d6-4450-be3f-a7a8fa550f2e": {
+            "box": {
+                "left": 0.060586005449295044,
+                "top": 0.8029782176017761,
+                "right": 0.9343748092651367,
+                "bottom": 0.853261411190033
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "xjfd0228_8.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9286,
+        "credit_usage": 3.0,
+        "job_id": "v9w68c2itkxssc89vatx6ln7u",
+        "version": "dpt-2-20250919"
+    }
+}

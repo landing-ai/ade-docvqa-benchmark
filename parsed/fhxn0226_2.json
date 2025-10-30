@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='0600b1e3-00a3-403e-a9ae-bffe3d016f8f'></a>\n\n2011 Review of Pinnacle Ultamet Experience for\nDrs. Griffin and Mason\n\n<a id='abaaafe6-773e-4907-aca4-a40b4d4052c0'></a>\n\n<table><thead><tr><th>Dates<br>Implanted</th><th>Total<br>Implanted</th><th>No Reported<br>Revisions</th><th>No Reported<br>Metal Reaction<br>Revisions</th></tr></thead><tbody><tr><td>2001~2008</td><td>1100</td><td>1087<br>(98.8%)</td><td>1094<br>(99.5%)</td></tr></tbody></table>\n\n<a id='05b628ad-aebd-44b9-ad33-3d4a56e152f7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fhxn0226\n\n<a id='0cfbb866-3b14-4922-9d60-3fbe8329bfee'></a>\n\nP-00594-00002",
+    "chunks": [
+        {
+            "markdown": "<a id='0600b1e3-00a3-403e-a9ae-bffe3d016f8f'></a>\n\n2011 Review of Pinnacle Ultamet Experience for\nDrs. Griffin and Mason",
+            "type": "text",
+            "id": "0600b1e3-00a3-403e-a9ae-bffe3d016f8f",
+            "grounding": {
+                "box": {
+                    "left": 0.027594715356826782,
+                    "top": 0.14489012956619263,
+                    "right": 0.8668031692504883,
+                    "bottom": 0.2801373600959778
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='abaaafe6-773e-4907-aca4-a40b4d4052c0'></a>\n\n<table><thead><tr><th>Dates<br>Implanted</th><th>Total<br>Implanted</th><th>No Reported<br>Revisions</th><th>No Reported<br>Metal Reaction<br>Revisions</th></tr></thead><tbody><tr><td>2001~2008</td><td>1100</td><td>1087<br>(98.8%)</td><td>1094<br>(99.5%)</td></tr></tbody></table>",
+            "type": "table",
+            "id": "abaaafe6-773e-4907-aca4-a40b4d4052c0",
+            "grounding": {
+                "box": {
+                    "left": 0.01733049750328064,
+                    "top": 0.3281666338443756,
+                    "right": 0.8614799976348877,
+                    "bottom": 0.5979483127593994
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='05b628ad-aebd-44b9-ad33-3d4a56e152f7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fhxn0226",
+            "type": "marginalia",
+            "id": "05b628ad-aebd-44b9-ad33-3d4a56e152f7",
+            "grounding": {
+                "box": {
+                    "left": 0.27922385931015015,
+                    "top": 0.9694854021072388,
+                    "right": 0.7202650904655457,
+                    "bottom": 1.0000572204589844
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0cfbb866-3b14-4922-9d60-3fbe8329bfee'></a>\n\nP-00594-00002",
+            "type": "marginalia",
+            "id": "0cfbb866-3b14-4922-9d60-3fbe8329bfee",
+            "grounding": {
+                "box": {
+                    "left": 0.8861891031265259,
+                    "top": 0.952597439289093,
+                    "right": 0.9826173782348633,
+                    "bottom": 0.9788450598716736
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='0600b1e3-00a3-403e-a9ae-bffe3d016f8f'></a>\n\n2011 Review of Pinnacle Ultamet Experience for\nDrs. Griffin and Mason\n\n<a id='abaaafe6-773e-4907-aca4-a40b4d4052c0'></a>\n\n<table><thead><tr><th>Dates<br>Implanted</th><th>Total<br>Implanted</th><th>No Reported<br>Revisions</th><th>No Reported<br>Metal Reaction<br>Revisions</th></tr></thead><tbody><tr><td>2001~2008</td><td>1100</td><td>1087<br>(98.8%)</td><td>1094<br>(99.5%)</td></tr></tbody></table>\n\n<a id='05b628ad-aebd-44b9-ad33-3d4a56e152f7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fhxn0226\n\n<a id='0cfbb866-3b14-4922-9d60-3fbe8329bfee'></a>\n\nP-00594-00002",
+            "chunks": [
+                "0600b1e3-00a3-403e-a9ae-bffe3d016f8f",
+                "abaaafe6-773e-4907-aca4-a40b4d4052c0",
+                "05b628ad-aebd-44b9-ad33-3d4a56e152f7",
+                "0cfbb866-3b14-4922-9d60-3fbe8329bfee"
+            ]
+        }
+    ],
+    "grounding": {
+        "0600b1e3-00a3-403e-a9ae-bffe3d016f8f": {
+            "box": {
+                "left": 0.027594715356826782,
+                "top": 0.14489012956619263,
+                "right": 0.8668031692504883,
+                "bottom": 0.2801373600959778
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "abaaafe6-773e-4907-aca4-a40b4d4052c0": {
+            "box": {
+                "left": 0.01733049750328064,
+                "top": 0.3281666338443756,
+                "right": 0.8614799976348877,
+                "bottom": 0.5979483127593994
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "05b628ad-aebd-44b9-ad33-3d4a56e152f7": {
+            "box": {
+                "left": 0.27922385931015015,
+                "top": 0.9694854021072388,
+                "right": 0.7202650904655457,
+                "bottom": 1.0000572204589844
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "0cfbb866-3b14-4922-9d60-3fbe8329bfee": {
+            "box": {
+                "left": 0.8861891031265259,
+                "top": 0.952597439289093,
+                "right": 0.9826173782348633,
+                "bottom": 0.9788450598716736
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fhxn0226_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4409,
+        "credit_usage": 3.0,
+        "job_id": "hcg9kzqf256ipb39c6y4jfpmb",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,1023 @@
+{
+    "markdown": "<a id='06b52b20-97e8-42af-a9e6-5c00350fcc7c'></a>\n\n201 BAN210IN\nPROD BANLIB\n\n<a id='ace5b96d-5c5c-411e-b9f5-fdebc45eb968'></a>\n\nCPN/VPR/BUYDOWN TRACKING/ANALYSIS\nGEOGRAPHIC OVERVIEW\n\n<a id='05b7f0c6-8d4b-40b7-89d4-f7c80ebbaefa'></a>\n\n06/24/98 14:43\n\n<a id='c3b6f08e-59be-44f3-a20c-d4b8d237ee19'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">==</td><td id=\"0-3\">== SELECTION</td><td id=\"0-4\">CRITERIA ===</td><td id=\"0-5\">==========</td></tr>\n<tr><td id=\"0-6\">TIME PERIOD:</td><td id=\"0-7\">98</td><td id=\"0-8\">01/03/98 thru</td><td id=\"0-9\">06/12/98</td></tr>\n<tr><td id=\"0-a\">BRAND:</td><td id=\"0-b\">SS</td><td id=\"0-c\">TOTAL SAVINGS</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">GEOGRAPHY:</td><td id=\"0-f\">XXXX</td><td id=\"0-g\">NATIONAL</td><td id=\"0-h\"></td></tr>\n</table>\n<table id=\"0-i\">\n<tr><td id=\"0-j\">--GEOGRAPHY--</td><td id=\"0-k\">% PV</td><td id=\"0-l\">AFV/CTN</td><td id=\"0-m\">---TOT FV---</td><td id=\"0-n\">-SALES COST-</td><td id=\"0-o\">-TOT</td><td id=\"0-p\">ALLOC-</td><td id=\"0-q\">-REM ALLOC-</td></tr>\n<tr><td id=\"0-r\">NATIONAL</td><td id=\"0-s\">76.1</td><td id=\"0-t\">2.93</td><td id=\"0-u\">169,811,466</td><td id=\"0-v\">170,182,698</td><td id=\"0-w\"></td><td id=\"0-x\"></td><td id=\"0-y\"></td></tr>\n<tr><td id=\"0-z\">1 NORTH EAST</td><td id=\"0-A\">72.1</td><td id=\"0-B\">2.88</td><td id=\"0-C\">32,284,513</td><td id=\"0-D\">32,374,260</td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\"></td></tr>\n<tr><td id=\"0-H\">2 SOUTHERN SA</td><td id=\"0-I\">73.5</td><td id=\"0-J\">3.03</td><td id=\"0-K\">70,062,053</td><td id=\"0-L\">70,149,354</td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td></tr>\n<tr><td id=\"0-P\">3 US MILITARY</td><td id=\"0-Q\"></td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\"></td><td id=\"0-V\"></td><td id=\"0-W\"></td></tr>\n<tr><td id=\"0-X\">5 WESTERN SAL</td><td id=\"0-Y\">71.2</td><td id=\"0-Z\">2.74</td><td id=\"0-10\">21,179,843</td><td id=\"0-11\">21,250,776</td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\"></td></tr>\n<tr><td id=\"0-15\">6 MID-WEST SA</td><td id=\"0-16\">86.9</td><td id=\"0-17\">2.90</td><td id=\"0-18\">46,285,076</td><td id=\"0-19\">46,408,325</td><td id=\"0-1a\"></td><td id=\"0-1b\"></td><td id=\"0-1c\"></td></tr>\n<tr><td id=\"0-1d\">7XXX NATIONAL</td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\"></td><td id=\"0-1k\"></td></tr>\n</table>\n\n<a id='ccd6f00e-f8b4-4518-a4f0-34cb9d1c69a4'></a>\n\nEnter-PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10---PF11---PF12---\n      HELP  CRITE                     LVLDN NAV                               FILE  EXIT\n\n<a id='a76684a8-7b6b-43f5-b7ed-67c591e7fd9d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fxbn0020\n\n<a id='79ffd96a-b48b-417f-a21a-c5d4ead6e8a0'></a>\n\n52441 7467",
+    "chunks": [
+        {
+            "markdown": "<a id='06b52b20-97e8-42af-a9e6-5c00350fcc7c'></a>\n\n201 BAN210IN\nPROD BANLIB",
+            "type": "text",
+            "id": "06b52b20-97e8-42af-a9e6-5c00350fcc7c",
+            "grounding": {
+                "box": {
+                    "left": 0.03147578984498978,
+                    "top": 0.05694471299648285,
+                    "right": 0.19058138132095337,
+                    "bottom": 0.09815502166748047
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ace5b96d-5c5c-411e-b9f5-fdebc45eb968'></a>\n\nCPN/VPR/BUYDOWN TRACKING/ANALYSIS\nGEOGRAPHIC OVERVIEW",
+            "type": "text",
+            "id": "ace5b96d-5c5c-411e-b9f5-fdebc45eb968",
+            "grounding": {
+                "box": {
+                    "left": 0.2827356457710266,
+                    "top": 0.056657835841178894,
+                    "right": 0.664850652217865,
+                    "bottom": 0.0981866717338562
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='05b7f0c6-8d4b-40b7-89d4-f7c80ebbaefa'></a>\n\n06/24/98 14:43",
+            "type": "marginalia",
+            "id": "05b7f0c6-8d4b-40b7-89d4-f7c80ebbaefa",
+            "grounding": {
+                "box": {
+                    "left": 0.7575299739837646,
+                    "top": 0.058055996894836426,
+                    "right": 0.9246402978897095,
+                    "bottom": 0.07852941751480103
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c3b6f08e-59be-44f3-a20c-d4b8d237ee19'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">==</td><td id=\"0-3\">== SELECTION</td><td id=\"0-4\">CRITERIA ===</td><td id=\"0-5\">==========</td></tr>\n<tr><td id=\"0-6\">TIME PERIOD:</td><td id=\"0-7\">98</td><td id=\"0-8\">01/03/98 thru</td><td id=\"0-9\">06/12/98</td></tr>\n<tr><td id=\"0-a\">BRAND:</td><td id=\"0-b\">SS</td><td id=\"0-c\">TOTAL SAVINGS</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">GEOGRAPHY:</td><td id=\"0-f\">XXXX</td><td id=\"0-g\">NATIONAL</td><td id=\"0-h\"></td></tr>\n</table>\n<table id=\"0-i\">\n<tr><td id=\"0-j\">--GEOGRAPHY--</td><td id=\"0-k\">% PV</td><td id=\"0-l\">AFV/CTN</td><td id=\"0-m\">---TOT FV---</td><td id=\"0-n\">-SALES COST-</td><td id=\"0-o\">-TOT</td><td id=\"0-p\">ALLOC-</td><td id=\"0-q\">-REM ALLOC-</td></tr>\n<tr><td id=\"0-r\">NATIONAL</td><td id=\"0-s\">76.1</td><td id=\"0-t\">2.93</td><td id=\"0-u\">169,811,466</td><td id=\"0-v\">170,182,698</td><td id=\"0-w\"></td><td id=\"0-x\"></td><td id=\"0-y\"></td></tr>\n<tr><td id=\"0-z\">1 NORTH EAST</td><td id=\"0-A\">72.1</td><td id=\"0-B\">2.88</td><td id=\"0-C\">32,284,513</td><td id=\"0-D\">32,374,260</td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\"></td></tr>\n<tr><td id=\"0-H\">2 SOUTHERN SA</td><td id=\"0-I\">73.5</td><td id=\"0-J\">3.03</td><td id=\"0-K\">70,062,053</td><td id=\"0-L\">70,149,354</td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td></tr>\n<tr><td id=\"0-P\">3 US MILITARY</td><td id=\"0-Q\"></td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\"></td><td id=\"0-V\"></td><td id=\"0-W\"></td></tr>\n<tr><td id=\"0-X\">5 WESTERN SAL</td><td id=\"0-Y\">71.2</td><td id=\"0-Z\">2.74</td><td id=\"0-10\">21,179,843</td><td id=\"0-11\">21,250,776</td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\"></td></tr>\n<tr><td id=\"0-15\">6 MID-WEST SA</td><td id=\"0-16\">86.9</td><td id=\"0-17\">2.90</td><td id=\"0-18\">46,285,076</td><td id=\"0-19\">46,408,325</td><td id=\"0-1a\"></td><td id=\"0-1b\"></td><td id=\"0-1c\"></td></tr>\n<tr><td id=\"0-1d\">7XXX NATIONAL</td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\"></td><td id=\"0-1k\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "c3b6f08e-59be-44f3-a20c-d4b8d237ee19",
+            "grounding": {
+                "box": {
+                    "left": 0.03105148673057556,
+                    "top": 0.11268231272697449,
+                    "right": 0.9255751371383667,
+                    "bottom": 0.3687581419944763
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ccd6f00e-f8b4-4518-a4f0-34cb9d1c69a4'></a>\n\nEnter-PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10---PF11---PF12---\n      HELP  CRITE                     LVLDN NAV                               FILE  EXIT",
+            "type": "text",
+            "id": "ccd6f00e-f8b4-4518-a4f0-34cb9d1c69a4",
+            "grounding": {
+                "box": {
+                    "left": 0.023499220609664917,
+                    "top": 0.4428042769432068,
+                    "right": 0.9286043643951416,
+                    "bottom": 0.488228976726532
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a76684a8-7b6b-43f5-b7ed-67c591e7fd9d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fxbn0020",
+            "type": "marginalia",
+            "id": "a76684a8-7b6b-43f5-b7ed-67c591e7fd9d",
+            "grounding": {
+                "box": {
+                    "left": 0.21625405550003052,
+                    "top": 0.978524386882782,
+                    "right": 0.7837218642234802,
+                    "bottom": 0.9989079833030701
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='79ffd96a-b48b-417f-a21a-c5d4ead6e8a0'></a>\n\n52441 7467",
+            "type": "marginalia",
+            "id": "79ffd96a-b48b-417f-a21a-c5d4ead6e8a0",
+            "grounding": {
+                "box": {
+                    "left": 0.9202479720115662,
+                    "top": 0.8411899209022522,
+                    "right": 0.9479369521141052,
+                    "bottom": 0.9389476180076599
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='06b52b20-97e8-42af-a9e6-5c00350fcc7c'></a>\n\n201 BAN210IN\nPROD BANLIB\n\n<a id='ace5b96d-5c5c-411e-b9f5-fdebc45eb968'></a>\n\nCPN/VPR/BUYDOWN TRACKING/ANALYSIS\nGEOGRAPHIC OVERVIEW\n\n<a id='05b7f0c6-8d4b-40b7-89d4-f7c80ebbaefa'></a>\n\n06/24/98 14:43\n\n<a id='c3b6f08e-59be-44f3-a20c-d4b8d237ee19'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">==</td><td id=\"0-3\">== SELECTION</td><td id=\"0-4\">CRITERIA ===</td><td id=\"0-5\">==========</td></tr>\n<tr><td id=\"0-6\">TIME PERIOD:</td><td id=\"0-7\">98</td><td id=\"0-8\">01/03/98 thru</td><td id=\"0-9\">06/12/98</td></tr>\n<tr><td id=\"0-a\">BRAND:</td><td id=\"0-b\">SS</td><td id=\"0-c\">TOTAL SAVINGS</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">GEOGRAPHY:</td><td id=\"0-f\">XXXX</td><td id=\"0-g\">NATIONAL</td><td id=\"0-h\"></td></tr>\n</table>\n<table id=\"0-i\">\n<tr><td id=\"0-j\">--GEOGRAPHY--</td><td id=\"0-k\">% PV</td><td id=\"0-l\">AFV/CTN</td><td id=\"0-m\">---TOT FV---</td><td id=\"0-n\">-SALES COST-</td><td id=\"0-o\">-TOT</td><td id=\"0-p\">ALLOC-</td><td id=\"0-q\">-REM ALLOC-</td></tr>\n<tr><td id=\"0-r\">NATIONAL</td><td id=\"0-s\">76.1</td><td id=\"0-t\">2.93</td><td id=\"0-u\">169,811,466</td><td id=\"0-v\">170,182,698</td><td id=\"0-w\"></td><td id=\"0-x\"></td><td id=\"0-y\"></td></tr>\n<tr><td id=\"0-z\">1 NORTH EAST</td><td id=\"0-A\">72.1</td><td id=\"0-B\">2.88</td><td id=\"0-C\">32,284,513</td><td id=\"0-D\">32,374,260</td><td id=\"0-E\"></td><td id=\"0-F\"></td><td id=\"0-G\"></td></tr>\n<tr><td id=\"0-H\">2 SOUTHERN SA</td><td id=\"0-I\">73.5</td><td id=\"0-J\">3.03</td><td id=\"0-K\">70,062,053</td><td id=\"0-L\">70,149,354</td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\"></td></tr>\n<tr><td id=\"0-P\">3 US MILITARY</td><td id=\"0-Q\"></td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\"></td><td id=\"0-U\"></td><td id=\"0-V\"></td><td id=\"0-W\"></td></tr>\n<tr><td id=\"0-X\">5 WESTERN SAL</td><td id=\"0-Y\">71.2</td><td id=\"0-Z\">2.74</td><td id=\"0-10\">21,179,843</td><td id=\"0-11\">21,250,776</td><td id=\"0-12\"></td><td id=\"0-13\"></td><td id=\"0-14\"></td></tr>\n<tr><td id=\"0-15\">6 MID-WEST SA</td><td id=\"0-16\">86.9</td><td id=\"0-17\">2.90</td><td id=\"0-18\">46,285,076</td><td id=\"0-19\">46,408,325</td><td id=\"0-1a\"></td><td id=\"0-1b\"></td><td id=\"0-1c\"></td></tr>\n<tr><td id=\"0-1d\">7XXX NATIONAL</td><td id=\"0-1e\"></td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\"></td><td id=\"0-1k\"></td></tr>\n</table>\n\n<a id='ccd6f00e-f8b4-4518-a4f0-34cb9d1c69a4'></a>\n\nEnter-PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10---PF11---PF12---\n      HELP  CRITE                     LVLDN NAV                               FILE  EXIT\n\n<a id='a76684a8-7b6b-43f5-b7ed-67c591e7fd9d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fxbn0020\n\n<a id='79ffd96a-b48b-417f-a21a-c5d4ead6e8a0'></a>\n\n52441 7467",
+            "chunks": [
+                "06b52b20-97e8-42af-a9e6-5c00350fcc7c",
+                "ace5b96d-5c5c-411e-b9f5-fdebc45eb968",
+                "05b7f0c6-8d4b-40b7-89d4-f7c80ebbaefa",
+                "c3b6f08e-59be-44f3-a20c-d4b8d237ee19",
+                "ccd6f00e-f8b4-4518-a4f0-34cb9d1c69a4",
+                "a76684a8-7b6b-43f5-b7ed-67c591e7fd9d",
+                "79ffd96a-b48b-417f-a21a-c5d4ead6e8a0"
+            ]
+        }
+    ],
+    "grounding": {
+        "06b52b20-97e8-42af-a9e6-5c00350fcc7c": {
+            "box": {
+                "left": 0.03147578984498978,
+                "top": 0.05694471299648285,
+                "right": 0.19058138132095337,
+                "bottom": 0.09815502166748047
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ace5b96d-5c5c-411e-b9f5-fdebc45eb968": {
+            "box": {
+                "left": 0.2827356457710266,
+                "top": 0.056657835841178894,
+                "right": 0.664850652217865,
+                "bottom": 0.0981866717338562
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "05b7f0c6-8d4b-40b7-89d4-f7c80ebbaefa": {
+            "box": {
+                "left": 0.7575299739837646,
+                "top": 0.058055996894836426,
+                "right": 0.9246402978897095,
+                "bottom": 0.07852941751480103
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "c3b6f08e-59be-44f3-a20c-d4b8d237ee19": {
+            "box": {
+                "left": 0.03105148673057556,
+                "top": 0.11268231272697449,
+                "right": 0.9255751371383667,
+                "bottom": 0.3687581419944763
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.03256842721802833,
+                "top": 0.11292864392947916,
+                "right": 0.6211984691459644,
+                "bottom": 0.19657218260703768
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.03256842721802833,
+                "top": 0.11292864392947916,
+                "right": 0.17618292135732538,
+                "bottom": 0.13430030177815233
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.17618292135732538,
+                "top": 0.11292864392947916,
+                "right": 0.3122717964318804,
+                "bottom": 0.13430030177815233
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.3122717964318804,
+                "top": 0.11292864392947916,
+                "right": 0.46347401837502744,
+                "bottom": 0.13430030177815233
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.46347401837502744,
+                "top": 0.11292864392947916,
+                "right": 0.6275392309625314,
+                "bottom": 0.13430030177815233
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.03256842721802833,
+                "top": 0.13430030177815233,
+                "right": 0.17618292135732538,
+                "bottom": 0.1552394971428126
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.17618292135732538,
+                "top": 0.13430030177815233,
+                "right": 0.3122717964318804,
+                "bottom": 0.1552394971428126
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.3122717964318804,
+                "top": 0.13430030177815233,
+                "right": 0.46347401837502744,
+                "bottom": 0.1552394971428126
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.46347401837502744,
+                "top": 0.13430030177815233,
+                "right": 0.6275392309625314,
+                "bottom": 0.1552394971428126
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.03256842721802833,
+                "top": 0.1552394971428126,
+                "right": 0.17618292135732538,
+                "bottom": 0.17462276225190143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.17618292135732538,
+                "top": 0.1552394971428126,
+                "right": 0.3122717964318804,
+                "bottom": 0.17462276225190143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.3122717964318804,
+                "top": 0.1552394971428126,
+                "right": 0.46347401837502744,
+                "bottom": 0.17462276225190143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.46347401837502744,
+                "top": 0.1552394971428126,
+                "right": 0.6275392309625314,
+                "bottom": 0.17462276225190143
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.03256842721802833,
+                "top": 0.17462276225190143,
+                "right": 0.17618292135732538,
+                "bottom": 0.19657218260703768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.17618292135732538,
+                "top": 0.17462276225190143,
+                "right": 0.3122717964318804,
+                "bottom": 0.19657218260703768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.3122717964318804,
+                "top": 0.17462276225190143,
+                "right": 0.46347401837502744,
+                "bottom": 0.19657218260703768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.46347401837502744,
+                "top": 0.17462276225190143,
+                "right": 0.6275392309625314,
+                "bottom": 0.19657218260703768
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.03394374718399312,
+                "top": 0.21181013145845462,
+                "right": 0.9160665003484443,
+                "bottom": 0.3687559440780035
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.03394374718399312,
+                "top": 0.21181013145845462,
+                "right": 0.19456607343541377,
+                "bottom": 0.23260348209133053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.19456607343541377,
+                "top": 0.21181013145845462,
+                "right": 0.25912686153952436,
+                "bottom": 0.23260348209133053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.25912686153952436,
+                "top": 0.21181013145845462,
+                "right": 0.34990771332584103,
+                "bottom": 0.23260348209133053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.34990771332584103,
+                "top": 0.21181013145845462,
+                "right": 0.4981181422126486,
+                "bottom": 0.23260348209133053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.4981181422126486,
+                "top": 0.21181013145845462,
+                "right": 0.64320068444942,
+                "bottom": 0.23260348209133053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.64320068444942,
+                "top": 0.21181013145845462,
+                "right": 0.698658943845798,
+                "bottom": 0.23260348209133053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.698658943845798,
+                "top": 0.21181013145845462,
+                "right": 0.7809087933707026,
+                "bottom": 0.23260348209133053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.7809087933707026,
+                "top": 0.21181013145845462,
+                "right": 0.9164621181604833,
+                "bottom": 0.23260348209133053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.03394374718399312,
+                "top": 0.23260348209133053,
+                "right": 0.19456607343541377,
+                "bottom": 0.25216335894699604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.19456607343541377,
+                "top": 0.23260348209133053,
+                "right": 0.25912686153952436,
+                "bottom": 0.25216335894699604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.25912686153952436,
+                "top": 0.23260348209133053,
+                "right": 0.34990771332584103,
+                "bottom": 0.25216335894699604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.34990771332584103,
+                "top": 0.23260348209133053,
+                "right": 0.4981181422126486,
+                "bottom": 0.25216335894699604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.4981181422126486,
+                "top": 0.23260348209133053,
+                "right": 0.64320068444942,
+                "bottom": 0.25216335894699604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.64320068444942,
+                "top": 0.23260348209133053,
+                "right": 0.698658943845798,
+                "bottom": 0.25216335894699604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.698658943845798,
+                "top": 0.23260348209133053,
+                "right": 0.7809087933707026,
+                "bottom": 0.25216335894699604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.7809087933707026,
+                "top": 0.23260348209133053,
+                "right": 0.9164621181604833,
+                "bottom": 0.25216335894699604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.03394374718399312,
+                "top": 0.25216335894699604,
+                "right": 0.19456607343541377,
+                "bottom": 0.2720478482233961
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.19456607343541377,
+                "top": 0.25216335894699604,
+                "right": 0.25912686153952436,
+                "bottom": 0.2720478482233961
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.25912686153952436,
+                "top": 0.25216335894699604,
+                "right": 0.34990771332584103,
+                "bottom": 0.2720478482233961
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.34990771332584103,
+                "top": 0.25216335894699604,
+                "right": 0.4981181422126486,
+                "bottom": 0.2720478482233961
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.4981181422126486,
+                "top": 0.25216335894699604,
+                "right": 0.64320068444942,
+                "bottom": 0.2720478482233961
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.64320068444942,
+                "top": 0.25216335894699604,
+                "right": 0.698658943845798,
+                "bottom": 0.2720478482233961
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.698658943845798,
+                "top": 0.25216335894699604,
+                "right": 0.7809087933707026,
+                "bottom": 0.2720478482233961
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.7809087933707026,
+                "top": 0.25216335894699604,
+                "right": 0.9164621181604833,
+                "bottom": 0.2720478482233961
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.03394374718399312,
+                "top": 0.2720478482233961,
+                "right": 0.19456607343541377,
+                "bottom": 0.2912244252358409
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.19456607343541377,
+                "top": 0.2720478482233961,
+                "right": 0.25912686153952436,
+                "bottom": 0.2912244252358409
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.25912686153952436,
+                "top": 0.2720478482233961,
+                "right": 0.34990771332584103,
+                "bottom": 0.2912244252358409
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.34990771332584103,
+                "top": 0.2720478482233961,
+                "right": 0.4981181422126486,
+                "bottom": 0.2912244252358409
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.4981181422126486,
+                "top": 0.2720478482233961,
+                "right": 0.64320068444942,
+                "bottom": 0.2912244252358409
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.64320068444942,
+                "top": 0.2720478482233961,
+                "right": 0.698658943845798,
+                "bottom": 0.2912244252358409
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.698658943845798,
+                "top": 0.2720478482233961,
+                "right": 0.7809087933707026,
+                "bottom": 0.2912244252358409
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.7809087933707026,
+                "top": 0.2720478482233961,
+                "right": 0.9164621181604833,
+                "bottom": 0.2912244252358409
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.03394374718399312,
+                "top": 0.2912244252358409,
+                "right": 0.19456607343541377,
+                "bottom": 0.30998884711970476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.19456607343541377,
+                "top": 0.2912244252358409,
+                "right": 0.25912686153952436,
+                "bottom": 0.30998884711970476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.25912686153952436,
+                "top": 0.2912244252358409,
+                "right": 0.34990771332584103,
+                "bottom": 0.30998884711970476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.34990771332584103,
+                "top": 0.2912244252358409,
+                "right": 0.4981181422126486,
+                "bottom": 0.30998884711970476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.4981181422126486,
+                "top": 0.2912244252358409,
+                "right": 0.64320068444942,
+                "bottom": 0.30998884711970476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.64320068444942,
+                "top": 0.2912244252358409,
+                "right": 0.698658943845798,
+                "bottom": 0.30998884711970476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.698658943845798,
+                "top": 0.2912244252358409,
+                "right": 0.7809087933707026,
+                "bottom": 0.30998884711970476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.7809087933707026,
+                "top": 0.2912244252358409,
+                "right": 0.9164621181604833,
+                "bottom": 0.30998884711970476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.03394374718399312,
+                "top": 0.30998884711970476,
+                "right": 0.19456607343541377,
+                "bottom": 0.32991988948806394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.19456607343541377,
+                "top": 0.30998884711970476,
+                "right": 0.25912686153952436,
+                "bottom": 0.32991988948806394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.25912686153952436,
+                "top": 0.30998884711970476,
+                "right": 0.34990771332584103,
+                "bottom": 0.32991988948806394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.34990771332584103,
+                "top": 0.30998884711970476,
+                "right": 0.4981181422126486,
+                "bottom": 0.32991988948806394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.4981181422126486,
+                "top": 0.30998884711970476,
+                "right": 0.64320068444942,
+                "bottom": 0.32991988948806394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.64320068444942,
+                "top": 0.30998884711970476,
+                "right": 0.698658943845798,
+                "bottom": 0.32991988948806394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.698658943845798,
+                "top": 0.30998884711970476,
+                "right": 0.7809087933707026,
+                "bottom": 0.32991988948806394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.7809087933707026,
+                "top": 0.30998884711970476,
+                "right": 0.9164621181604833,
+                "bottom": 0.32991988948806394
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.03394374718399312,
+                "top": 0.32991988948806394,
+                "right": 0.19456607343541377,
+                "bottom": 0.34962761438479895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-16": {
+            "box": {
+                "left": 0.19456607343541377,
+                "top": 0.32991988948806394,
+                "right": 0.25912686153952436,
+                "bottom": 0.34962761438479895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-17": {
+            "box": {
+                "left": 0.25912686153952436,
+                "top": 0.32991988948806394,
+                "right": 0.34990771332584103,
+                "bottom": 0.34962761438479895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-18": {
+            "box": {
+                "left": 0.34990771332584103,
+                "top": 0.32991988948806394,
+                "right": 0.4981181422126486,
+                "bottom": 0.34962761438479895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-19": {
+            "box": {
+                "left": 0.4981181422126486,
+                "top": 0.32991988948806394,
+                "right": 0.64320068444942,
+                "bottom": 0.34962761438479895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1a": {
+            "box": {
+                "left": 0.64320068444942,
+                "top": 0.32991988948806394,
+                "right": 0.698658943845798,
+                "bottom": 0.34962761438479895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1b": {
+            "box": {
+                "left": 0.698658943845798,
+                "top": 0.32991988948806394,
+                "right": 0.7809087933707026,
+                "bottom": 0.34962761438479895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1c": {
+            "box": {
+                "left": 0.7809087933707026,
+                "top": 0.32991988948806394,
+                "right": 0.9164621181604833,
+                "bottom": 0.34962761438479895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1d": {
+            "box": {
+                "left": 0.03394374718399312,
+                "top": 0.34962761438479895,
+                "right": 0.19456607343541377,
+                "bottom": 0.3687559440780035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1e": {
+            "box": {
+                "left": 0.19456607343541377,
+                "top": 0.34962761438479895,
+                "right": 0.25912686153952436,
+                "bottom": 0.3687559440780035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1f": {
+            "box": {
+                "left": 0.25912686153952436,
+                "top": 0.34962761438479895,
+                "right": 0.34990771332584103,
+                "bottom": 0.3687559440780035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1g": {
+            "box": {
+                "left": 0.34990771332584103,
+                "top": 0.34962761438479895,
+                "right": 0.4981181422126486,
+                "bottom": 0.3687559440780035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1h": {
+            "box": {
+                "left": 0.4981181422126486,
+                "top": 0.34962761438479895,
+                "right": 0.64320068444942,
+                "bottom": 0.3687559440780035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1i": {
+            "box": {
+                "left": 0.64320068444942,
+                "top": 0.34962761438479895,
+                "right": 0.698658943845798,
+                "bottom": 0.3687559440780035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1j": {
+            "box": {
+                "left": 0.698658943845798,
+                "top": 0.34962761438479895,
+                "right": 0.7809087933707026,
+                "bottom": 0.3687559440780035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1k": {
+            "box": {
+                "left": 0.7809087933707026,
+                "top": 0.34962761438479895,
+                "right": 0.9164621181604833,
+                "bottom": 0.3687559440780035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "ccd6f00e-f8b4-4518-a4f0-34cb9d1c69a4": {
+            "box": {
+                "left": 0.023499220609664917,
+                "top": 0.4428042769432068,
+                "right": 0.9286043643951416,
+                "bottom": 0.488228976726532
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a76684a8-7b6b-43f5-b7ed-67c591e7fd9d": {
+            "box": {
+                "left": 0.21625405550003052,
+                "top": 0.978524386882782,
+                "right": 0.7837218642234802,
+                "bottom": 0.9989079833030701
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "79ffd96a-b48b-417f-a21a-c5d4ead6e8a0": {
+            "box": {
+                "left": 0.9202479720115662,
+                "top": 0.8411899209022522,
+                "right": 0.9479369521141052,
+                "bottom": 0.9389476180076599
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fxbn0020_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11774,
+        "credit_usage": 3.0,
+        "job_id": "s0flkxnzx1xw0lpdvrv3s8x4q",
+        "version": "dpt-2-20250919"
+    }
+}

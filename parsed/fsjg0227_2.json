@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='da58966a-bb7a-4c0a-bc7b-fc92d44773cb'></a>\n\nIs a master's degree required\nfor such positions ? Can a\ndegree be obtained while working\non a project?\n\n<a id='599f1a72-2164-4558-9edb-57173090fde0'></a>\n\nI shall appreciate any\ninformation.\n\n<a id='99025ad6-b6ad-4437-a0fa-1b9726581d8d'></a>\n\n<::attestation: Signature block\nSignature: legible\nReadable Text: Yours truly,\n(Miss) Janet L. Rawson\nHandwritten signature block at the bottom of a document.::>\n\n<a id='3b05c724-8f58-4ed6-aa37-8530bfde2db7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fsjg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='da58966a-bb7a-4c0a-bc7b-fc92d44773cb'></a>\n\nIs a master's degree required\nfor such positions ? Can a\ndegree be obtained while working\non a project?",
+            "type": "text",
+            "id": "da58966a-bb7a-4c0a-bc7b-fc92d44773cb",
+            "grounding": {
+                "box": {
+                    "left": 0.09109610319137573,
+                    "top": 0.08382327854633331,
+                    "right": 0.8650486469268799,
+                    "bottom": 0.2652852535247803
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='599f1a72-2164-4558-9edb-57173090fde0'></a>\n\nI shall appreciate any\ninformation.",
+            "type": "text",
+            "id": "599f1a72-2164-4558-9edb-57173090fde0",
+            "grounding": {
+                "box": {
+                    "left": 0.09652367234230042,
+                    "top": 0.2720624804496765,
+                    "right": 0.7743631601333618,
+                    "bottom": 0.36190634965896606
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='99025ad6-b6ad-4437-a0fa-1b9726581d8d'></a>\n\n<::attestation: Signature block\nSignature: legible\nReadable Text: Yours truly,\n(Miss) Janet L. Rawson\nHandwritten signature block at the bottom of a document.::>",
+            "type": "attestation",
+            "id": "99025ad6-b6ad-4437-a0fa-1b9726581d8d",
+            "grounding": {
+                "box": {
+                    "left": 0.35764479637145996,
+                    "top": 0.3825579285621643,
+                    "right": 0.9006478786468506,
+                    "bottom": 0.47258269786834717
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3b05c724-8f58-4ed6-aa37-8530bfde2db7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fsjg0227",
+            "type": "text",
+            "id": "3b05c724-8f58-4ed6-aa37-8530bfde2db7",
+            "grounding": {
+                "box": {
+                    "left": 0.05936595797538757,
+                    "top": 0.9716503620147705,
+                    "right": 0.9419806003570557,
+                    "bottom": 0.9988589286804199
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='da58966a-bb7a-4c0a-bc7b-fc92d44773cb'></a>\n\nIs a master's degree required\nfor such positions ? Can a\ndegree be obtained while working\non a project?\n\n<a id='599f1a72-2164-4558-9edb-57173090fde0'></a>\n\nI shall appreciate any\ninformation.\n\n<a id='99025ad6-b6ad-4437-a0fa-1b9726581d8d'></a>\n\n<::attestation: Signature block\nSignature: legible\nReadable Text: Yours truly,\n(Miss) Janet L. Rawson\nHandwritten signature block at the bottom of a document.::>\n\n<a id='3b05c724-8f58-4ed6-aa37-8530bfde2db7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fsjg0227",
+            "chunks": [
+                "da58966a-bb7a-4c0a-bc7b-fc92d44773cb",
+                "599f1a72-2164-4558-9edb-57173090fde0",
+                "99025ad6-b6ad-4437-a0fa-1b9726581d8d",
+                "3b05c724-8f58-4ed6-aa37-8530bfde2db7"
+            ]
+        }
+    ],
+    "grounding": {
+        "da58966a-bb7a-4c0a-bc7b-fc92d44773cb": {
+            "box": {
+                "left": 0.09109610319137573,
+                "top": 0.08382327854633331,
+                "right": 0.8650486469268799,
+                "bottom": 0.2652852535247803
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "599f1a72-2164-4558-9edb-57173090fde0": {
+            "box": {
+                "left": 0.09652367234230042,
+                "top": 0.2720624804496765,
+                "right": 0.7743631601333618,
+                "bottom": 0.36190634965896606
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "99025ad6-b6ad-4437-a0fa-1b9726581d8d": {
+            "box": {
+                "left": 0.35764479637145996,
+                "top": 0.3825579285621643,
+                "right": 0.9006478786468506,
+                "bottom": 0.47258269786834717
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "3b05c724-8f58-4ed6-aa37-8530bfde2db7": {
+            "box": {
+                "left": 0.05936595797538757,
+                "top": 0.9716503620147705,
+                "right": 0.9419806003570557,
+                "bottom": 0.9988589286804199
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "fsjg0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5100,
+        "credit_usage": 3.0,
+        "job_id": "spx7o0n9bmkmq4bnlb86k8uw4",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='ae1e6484-f1a3-46db-b566-91d37c0814b0'></a>\n\nBULLETIN NO 10\n<::A black and white drawing of a large, leafy tree with a thick trunk and branches extending upwards and outwards. The leaves are depicted with a stippled or textured effect. In the bottom right, there is a smaller, bush-like plant. The text \"BULLETIN NO 10\" is overlaid on the top left of the drawing.: drawing::>\n\n<a id='f0285341-e8a3-4bd9-acb3-cfe2531cbc8c'></a>\n\nJANUARY 1948\n\n<a id='751b4516-a1f7-462f-beb6-72ea9754c828'></a>\n\nNUTRITION EDUCATION\nfor\nGirls & Boys\n\n<a id='1a049aa5-0b70-456f-8e28-95b0021fb27b'></a>\n\n<::An illustration depicting a group of children or teenagers looking through a chain-link fence. In the background, another person is riding a bicycle.: illustration::>\nStrong Hea\n\n<a id='31d75213-fb7e-427f-8608-79e148647733'></a>\n\n<::An illustration depicts a baseball game. In the foreground, a batter in uniform is poised to swing a bat, facing right. A catcher in full gear is crouched behind the batter, looking towards the left. In the background, behind a chain-link fence, two spectators, possibly young women or girls, are watching the game. The ground is textured, suggesting dirt or grass. The overall style is a black and white drawing with cross-hatching for shading.\nHealthy Bodies\n: illustration::>\n\n<a id='2fb6acb7-0261-40c8-8b94-5822b81502e3'></a>\n\nStrong Healthy Bodies\nNeed the Right Foods\n\n<a id='08a4a22e-076b-49ae-b9ab-a313ed725bff'></a>\n\nGUIDES FOR BETTER SCHOOL HEALTH\nWISCONSIN COOPERATIVE SCHOOL HEALTH PROGRAM\n\n<a id='a17bdb88-a10f-4f95-8c83-a0d9c4216e62'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rswg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='ae1e6484-f1a3-46db-b566-91d37c0814b0'></a>\n\nBULLETIN NO 10\n<::A black and white drawing of a large, leafy tree with a thick trunk and branches extending upwards and outwards. The leaves are depicted with a stippled or textured effect. In the bottom right, there is a smaller, bush-like plant. The text \"BULLETIN NO 10\" is overlaid on the top left of the drawing.: drawing::>",
+            "type": "figure",
+            "id": "ae1e6484-f1a3-46db-b566-91d37c0814b0",
+            "grounding": {
+                "box": {
+                    "left": 0.027169153094291687,
+                    "top": 0.01653929054737091,
+                    "right": 0.2806273102760315,
+                    "bottom": 0.2971547245979309
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f0285341-e8a3-4bd9-acb3-cfe2531cbc8c'></a>\n\nJANUARY 1948",
+            "type": "text",
+            "id": "f0285341-e8a3-4bd9-acb3-cfe2531cbc8c",
+            "grounding": {
+                "box": {
+                    "left": 0.7381567358970642,
+                    "top": 0.03207559883594513,
+                    "right": 0.9319704174995422,
+                    "bottom": 0.060957834124565125
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='751b4516-a1f7-462f-beb6-72ea9754c828'></a>\n\nNUTRITION EDUCATION\nfor\nGirls & Boys",
+            "type": "text",
+            "id": "751b4516-a1f7-462f-beb6-72ea9754c828",
+            "grounding": {
+                "box": {
+                    "left": 0.31178200244903564,
+                    "top": 0.1049872413277626,
+                    "right": 0.9187757968902588,
+                    "bottom": 0.3061969578266144
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1a049aa5-0b70-456f-8e28-95b0021fb27b'></a>\n\n<::An illustration depicting a group of children or teenagers looking through a chain-link fence. In the background, another person is riding a bicycle.: illustration::>\nStrong Hea",
+            "type": "figure",
+            "id": "1a049aa5-0b70-456f-8e28-95b0021fb27b",
+            "grounding": {
+                "box": {
+                    "left": 0.024142473936080933,
+                    "top": 0.2729475796222687,
+                    "right": 0.36183586716651917,
+                    "bottom": 0.8535391092300415
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='31d75213-fb7e-427f-8608-79e148647733'></a>\n\n<::An illustration depicts a baseball game. In the foreground, a batter in uniform is poised to swing a bat, facing right. A catcher in full gear is crouched behind the batter, looking towards the left. In the background, behind a chain-link fence, two spectators, possibly young women or girls, are watching the game. The ground is textured, suggesting dirt or grass. The overall style is a black and white drawing with cross-hatching for shading.\nHealthy Bodies\n: illustration::>",
+            "type": "figure",
+            "id": "31d75213-fb7e-427f-8608-79e148647733",
+            "grounding": {
+                "box": {
+                    "left": 0.2762218415737152,
+                    "top": 0.29979702830314636,
+                    "right": 0.9734988212585449,
+                    "bottom": 0.8212888240814209
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2fb6acb7-0261-40c8-8b94-5822b81502e3'></a>\n\nStrong Healthy Bodies\nNeed the Right Foods",
+            "type": "text",
+            "id": "2fb6acb7-0261-40c8-8b94-5822b81502e3",
+            "grounding": {
+                "box": {
+                    "left": 0.086029052734375,
+                    "top": 0.7723891735076904,
+                    "right": 0.9629601240158081,
+                    "bottom": 0.9064635038375854
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='08a4a22e-076b-49ae-b9ab-a313ed725bff'></a>\n\nGUIDES FOR BETTER SCHOOL HEALTH\nWISCONSIN COOPERATIVE SCHOOL HEALTH PROGRAM",
+            "type": "text",
+            "id": "08a4a22e-076b-49ae-b9ab-a313ed725bff",
+            "grounding": {
+                "box": {
+                    "left": 0.12214580178260803,
+                    "top": 0.9120656251907349,
+                    "right": 0.8764889240264893,
+                    "bottom": 0.9690672159194946
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a17bdb88-a10f-4f95-8c83-a0d9c4216e62'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rswg0227",
+            "type": "text",
+            "id": "a17bdb88-a10f-4f95-8c83-a0d9c4216e62",
+            "grounding": {
+                "box": {
+                    "left": 0.11631831526756287,
+                    "top": 0.973361074924469,
+                    "right": 0.8896476030349731,
+                    "bottom": 1.0002309083938599
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ae1e6484-f1a3-46db-b566-91d37c0814b0'></a>\n\nBULLETIN NO 10\n<::A black and white drawing of a large, leafy tree with a thick trunk and branches extending upwards and outwards. The leaves are depicted with a stippled or textured effect. In the bottom right, there is a smaller, bush-like plant. The text \"BULLETIN NO 10\" is overlaid on the top left of the drawing.: drawing::>\n\n<a id='f0285341-e8a3-4bd9-acb3-cfe2531cbc8c'></a>\n\nJANUARY 1948\n\n<a id='751b4516-a1f7-462f-beb6-72ea9754c828'></a>\n\nNUTRITION EDUCATION\nfor\nGirls & Boys\n\n<a id='1a049aa5-0b70-456f-8e28-95b0021fb27b'></a>\n\n<::An illustration depicting a group of children or teenagers looking through a chain-link fence. In the background, another person is riding a bicycle.: illustration::>\nStrong Hea\n\n<a id='31d75213-fb7e-427f-8608-79e148647733'></a>\n\n<::An illustration depicts a baseball game. In the foreground, a batter in uniform is poised to swing a bat, facing right. A catcher in full gear is crouched behind the batter, looking towards the left. In the background, behind a chain-link fence, two spectators, possibly young women or girls, are watching the game. The ground is textured, suggesting dirt or grass. The overall style is a black and white drawing with cross-hatching for shading.\nHealthy Bodies\n: illustration::>\n\n<a id='2fb6acb7-0261-40c8-8b94-5822b81502e3'></a>\n\nStrong Healthy Bodies\nNeed the Right Foods\n\n<a id='08a4a22e-076b-49ae-b9ab-a313ed725bff'></a>\n\nGUIDES FOR BETTER SCHOOL HEALTH\nWISCONSIN COOPERATIVE SCHOOL HEALTH PROGRAM\n\n<a id='a17bdb88-a10f-4f95-8c83-a0d9c4216e62'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rswg0227",
+            "chunks": [
+                "ae1e6484-f1a3-46db-b566-91d37c0814b0",
+                "f0285341-e8a3-4bd9-acb3-cfe2531cbc8c",
+                "751b4516-a1f7-462f-beb6-72ea9754c828",
+                "1a049aa5-0b70-456f-8e28-95b0021fb27b",
+                "31d75213-fb7e-427f-8608-79e148647733",
+                "2fb6acb7-0261-40c8-8b94-5822b81502e3",
+                "08a4a22e-076b-49ae-b9ab-a313ed725bff",
+                "a17bdb88-a10f-4f95-8c83-a0d9c4216e62"
+            ]
+        }
+    ],
+    "grounding": {
+        "ae1e6484-f1a3-46db-b566-91d37c0814b0": {
+            "box": {
+                "left": 0.027169153094291687,
+                "top": 0.01653929054737091,
+                "right": 0.2806273102760315,
+                "bottom": 0.2971547245979309
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "f0285341-e8a3-4bd9-acb3-cfe2531cbc8c": {
+            "box": {
+                "left": 0.7381567358970642,
+                "top": 0.03207559883594513,
+                "right": 0.9319704174995422,
+                "bottom": 0.060957834124565125
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "751b4516-a1f7-462f-beb6-72ea9754c828": {
+            "box": {
+                "left": 0.31178200244903564,
+                "top": 0.1049872413277626,
+                "right": 0.9187757968902588,
+                "bottom": 0.3061969578266144
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1a049aa5-0b70-456f-8e28-95b0021fb27b": {
+            "box": {
+                "left": 0.024142473936080933,
+                "top": 0.2729475796222687,
+                "right": 0.36183586716651917,
+                "bottom": 0.8535391092300415
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "31d75213-fb7e-427f-8608-79e148647733": {
+            "box": {
+                "left": 0.2762218415737152,
+                "top": 0.29979702830314636,
+                "right": 0.9734988212585449,
+                "bottom": 0.8212888240814209
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "2fb6acb7-0261-40c8-8b94-5822b81502e3": {
+            "box": {
+                "left": 0.086029052734375,
+                "top": 0.7723891735076904,
+                "right": 0.9629601240158081,
+                "bottom": 0.9064635038375854
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "08a4a22e-076b-49ae-b9ab-a313ed725bff": {
+            "box": {
+                "left": 0.12214580178260803,
+                "top": 0.9120656251907349,
+                "right": 0.8764889240264893,
+                "bottom": 0.9690672159194946
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a17bdb88-a10f-4f95-8c83-a0d9c4216e62": {
+            "box": {
+                "left": 0.11631831526756287,
+                "top": 0.973361074924469,
+                "right": 0.8896476030349731,
+                "bottom": 1.0002309083938599
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rswg0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7601,
+        "credit_usage": 3.0,
+        "job_id": "n2oakrw609iqrzrb8xtwbt8c7",
+        "version": "dpt-2-20250919"
+    }
+}

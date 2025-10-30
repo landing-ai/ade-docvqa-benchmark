@@ -1,0 +1,548 @@
+{
+    "markdown": "<a id='50e4f831-0fca-48a9-bfe2-7646f1862789'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Henderson\nA handwritten signature with an underline, centrally located.::>\n\n<a id='677886c8-193f-45c1-9f49-c0ace5baefd8'></a>\n\n<::attestation: Handwritten date/mark\nReadable Text: 1978\nShort description of visual elements and positioning: Handwritten numbers \"1978\" with a diagonal line beneath them, centrally located.::>\n\n<a id='7d1c50d7-7fbf-48ac-8c73-b81222c3f753'></a>\n\nBIOGRAPHICAL SKETCH\n---\n\n<a id='19a1a2df-024e-4220-84b8-2e72bce62ce7'></a>\n\nName: LaVell M. Henderson\n\n<a id='5e39ed55-7db1-4e4a-ae91-c927aaac2332'></a>\n\nSocial Security No.: 529-14-2778\n\n<a id='835d6f3e-4b97-423c-9da7-88c2b2ca4d1c'></a>\n\nTitle: Professor\n\nBirthdate: September 9, 1917\n\n<a id='a44308ab-b5ca-491a-b643-1ea608501216'></a>\n\nSex:\noption M: [x]\noption F: [ ]\n\n<a id='124d495c-6475-47c9-923f-231701144f69'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"5\">EDUCATION: (Begin with baccalaureate and Include postdoctoral)</td></tr>\n<tr><td id=\"0-3\">Institution:</td><td id=\"0-4\">Location:</td><td id=\"0-5\">Degree:</td><td id=\"0-6\">Year:</td><td id=\"0-7\">Discipline:</td></tr>\n<tr><td id=\"0-8\">Utah State University</td><td id=\"0-9\">Logan, Utah</td><td id=\"0-a\">B.S.</td><td id=\"0-b\">1939</td><td id=\"0-c\">Chemistry</td></tr>\n<tr><td id=\"0-d\">University of Wisconsin</td><td id=\"0-e\">Madison, Wisconsin</td><td id=\"0-f\">M. S.</td><td id=\"0-g\">1941</td><td id=\"0-h\">Biochemistry</td></tr>\n<tr><td id=\"0-i\">University of Wisconsin</td><td id=\"0-j\">Madison, Wisconsin</td><td id=\"0-k\">Ph.D.</td><td id=\"0-l\">1947</td><td id=\"0-m\">Biochemistry</td></tr>\n</table>\n\n<a id='60b14cc5-43d3-4a4b-835c-8fc227f52c07'></a>\n\nPROFESSIONAL EXPERIENCE: (Begin with present position)\n\n<a id='598fe7dc-5847-44f0-a321-058220baa9f5'></a>\n\n<table><thead><tr><th>Title:</th><th>Institution:</th><th>Dates:</th></tr></thead><tbody><tr><td>Professor</td><td>Dept. of Biochemistry, University of<br>Minnesota, St. Paul</td><td>1974-Date</td></tr><tr><td>Head and Professor</td><td>Dept. of Biochemistry, University of<br>Minnesota, St. Paul, MN</td><td>1963-74</td></tr><tr><td>Head and Professor</td><td>Oklahoma State University, Dept. of<br>Biochemistry, Stillwater, OK</td><td>1957-63</td></tr><tr><td>Assistant Professor</td><td>University of Illinois, Dept. of Chemistry<br>& Chemical Eng., Urbana, IL</td><td>1948-57</td></tr><tr><td>Research Assistant<br>and Instructor</td><td>University of Wisconsin, Dept. of Biochem.,<br>Madison, Wisconsin</td><td>1946-48</td></tr></tbody></table>\n\n<a id='3f989b6a-3d2d-4072-86a8-7d0433747b83'></a>\n\nAwards, Fellowships, Honors:\nLalor Foundation Summer Award, 1955\nBorden Award in Nutrition, 1970\nHonorary Doctor of Science, Utah State University, 1974\nParticipant in USSR-USA Pyridoxal Phosphate Catalysis Symp., Leningrad, 1974.\n\n<a id='0aa4d9fe-0cba-4d03-8e24-0e4e295922e0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kmcj0227",
+    "chunks": [
+        {
+            "markdown": "<a id='50e4f831-0fca-48a9-bfe2-7646f1862789'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Henderson\nA handwritten signature with an underline, centrally located.::>",
+            "type": "attestation",
+            "id": "50e4f831-0fca-48a9-bfe2-7646f1862789",
+            "grounding": {
+                "box": {
+                    "left": 0.7723286151885986,
+                    "top": 0.011068901047110558,
+                    "right": 0.9440808296203613,
+                    "bottom": 0.05232596397399902
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='677886c8-193f-45c1-9f49-c0ace5baefd8'></a>\n\n<::attestation: Handwritten date/mark\nReadable Text: 1978\nShort description of visual elements and positioning: Handwritten numbers \"1978\" with a diagonal line beneath them, centrally located.::>",
+            "type": "attestation",
+            "id": "677886c8-193f-45c1-9f49-c0ace5baefd8",
+            "grounding": {
+                "box": {
+                    "left": 0.12226682901382446,
+                    "top": 0.046059150248765945,
+                    "right": 0.21202072501182556,
+                    "bottom": 0.0985729992389679
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7d1c50d7-7fbf-48ac-8c73-b81222c3f753'></a>\n\nBIOGRAPHICAL SKETCH\n---",
+            "type": "text",
+            "id": "7d1c50d7-7fbf-48ac-8c73-b81222c3f753",
+            "grounding": {
+                "box": {
+                    "left": 0.398878812789917,
+                    "top": 0.062209516763687134,
+                    "right": 0.5988593101501465,
+                    "bottom": 0.08796128630638123
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='19a1a2df-024e-4220-84b8-2e72bce62ce7'></a>\n\nName: LaVell M. Henderson",
+            "type": "text",
+            "id": "19a1a2df-024e-4220-84b8-2e72bce62ce7",
+            "grounding": {
+                "box": {
+                    "left": 0.09158407151699066,
+                    "top": 0.09573337435722351,
+                    "right": 0.3629499673843384,
+                    "bottom": 0.1184338927268982
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5e39ed55-7db1-4e4a-ae91-c927aaac2332'></a>\n\nSocial Security No.: 529-14-2778",
+            "type": "text",
+            "id": "5e39ed55-7db1-4e4a-ae91-c927aaac2332",
+            "grounding": {
+                "box": {
+                    "left": 0.573570966720581,
+                    "top": 0.09547343105077744,
+                    "right": 0.9044854640960693,
+                    "bottom": 0.11808546632528305
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='835d6f3e-4b97-423c-9da7-88c2b2ca4d1c'></a>\n\nTitle: Professor\n\nBirthdate: September 9, 1917",
+            "type": "text",
+            "id": "835d6f3e-4b97-423c-9da7-88c2b2ca4d1c",
+            "grounding": {
+                "box": {
+                    "left": 0.09333479404449463,
+                    "top": 0.12717193365097046,
+                    "right": 0.38065046072006226,
+                    "bottom": 0.17890861630439758
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a44308ab-b5ca-491a-b643-1ea608501216'></a>\n\nSex:\noption M: [x]\noption F: [ ]",
+            "type": "text",
+            "id": "a44308ab-b5ca-491a-b643-1ea608501216",
+            "grounding": {
+                "box": {
+                    "left": 0.5157666802406311,
+                    "top": 0.15022744238376617,
+                    "right": 0.7815082669258118,
+                    "bottom": 0.17600379884243011
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='124d495c-6475-47c9-923f-231701144f69'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"5\">EDUCATION: (Begin with baccalaureate and Include postdoctoral)</td></tr>\n<tr><td id=\"0-3\">Institution:</td><td id=\"0-4\">Location:</td><td id=\"0-5\">Degree:</td><td id=\"0-6\">Year:</td><td id=\"0-7\">Discipline:</td></tr>\n<tr><td id=\"0-8\">Utah State University</td><td id=\"0-9\">Logan, Utah</td><td id=\"0-a\">B.S.</td><td id=\"0-b\">1939</td><td id=\"0-c\">Chemistry</td></tr>\n<tr><td id=\"0-d\">University of Wisconsin</td><td id=\"0-e\">Madison, Wisconsin</td><td id=\"0-f\">M. S.</td><td id=\"0-g\">1941</td><td id=\"0-h\">Biochemistry</td></tr>\n<tr><td id=\"0-i\">University of Wisconsin</td><td id=\"0-j\">Madison, Wisconsin</td><td id=\"0-k\">Ph.D.</td><td id=\"0-l\">1947</td><td id=\"0-m\">Biochemistry</td></tr>\n</table>",
+            "type": "table",
+            "id": "124d495c-6475-47c9-923f-231701144f69",
+            "grounding": {
+                "box": {
+                    "left": 0.0862918496131897,
+                    "top": 0.1857479214668274,
+                    "right": 0.8937294483184814,
+                    "bottom": 0.3344733715057373
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='60b14cc5-43d3-4a4b-835c-8fc227f52c07'></a>\n\nPROFESSIONAL EXPERIENCE: (Begin with present position)",
+            "type": "text",
+            "id": "60b14cc5-43d3-4a4b-835c-8fc227f52c07",
+            "grounding": {
+                "box": {
+                    "left": 0.23849603533744812,
+                    "top": 0.4269750416278839,
+                    "right": 0.7747092247009277,
+                    "bottom": 0.4502754509449005
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='598fe7dc-5847-44f0-a321-058220baa9f5'></a>\n\n<table><thead><tr><th>Title:</th><th>Institution:</th><th>Dates:</th></tr></thead><tbody><tr><td>Professor</td><td>Dept. of Biochemistry, University of<br>Minnesota, St. Paul</td><td>1974-Date</td></tr><tr><td>Head and Professor</td><td>Dept. of Biochemistry, University of<br>Minnesota, St. Paul, MN</td><td>1963-74</td></tr><tr><td>Head and Professor</td><td>Oklahoma State University, Dept. of<br>Biochemistry, Stillwater, OK</td><td>1957-63</td></tr><tr><td>Assistant Professor</td><td>University of Illinois, Dept. of Chemistry<br>& Chemical Eng., Urbana, IL</td><td>1948-57</td></tr><tr><td>Research Assistant<br>and Instructor</td><td>University of Wisconsin, Dept. of Biochem.,<br>Madison, Wisconsin</td><td>1946-48</td></tr></tbody></table>",
+            "type": "table",
+            "id": "598fe7dc-5847-44f0-a321-058220baa9f5",
+            "grounding": {
+                "box": {
+                    "left": 0.08396810293197632,
+                    "top": 0.4566766619682312,
+                    "right": 0.8659793734550476,
+                    "bottom": 0.6509729027748108
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3f989b6a-3d2d-4072-86a8-7d0433747b83'></a>\n\nAwards, Fellowships, Honors:\nLalor Foundation Summer Award, 1955\nBorden Award in Nutrition, 1970\nHonorary Doctor of Science, Utah State University, 1974\nParticipant in USSR-USA Pyridoxal Phosphate Catalysis Symp., Leningrad, 1974.",
+            "type": "text",
+            "id": "3f989b6a-3d2d-4072-86a8-7d0433747b83",
+            "grounding": {
+                "box": {
+                    "left": 0.08340886235237122,
+                    "top": 0.7591611742973328,
+                    "right": 0.842342734336853,
+                    "bottom": 0.8559021353721619
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0aa4d9fe-0cba-4d03-8e24-0e4e295922e0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kmcj0227",
+            "type": "text",
+            "id": "0aa4d9fe-0cba-4d03-8e24-0e4e295922e0",
+            "grounding": {
+                "box": {
+                    "left": 0.22878900170326233,
+                    "top": 0.9777649641036987,
+                    "right": 0.7719653844833374,
+                    "bottom": 0.999268651008606
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='50e4f831-0fca-48a9-bfe2-7646f1862789'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Henderson\nA handwritten signature with an underline, centrally located.::>\n\n<a id='677886c8-193f-45c1-9f49-c0ace5baefd8'></a>\n\n<::attestation: Handwritten date/mark\nReadable Text: 1978\nShort description of visual elements and positioning: Handwritten numbers \"1978\" with a diagonal line beneath them, centrally located.::>\n\n<a id='7d1c50d7-7fbf-48ac-8c73-b81222c3f753'></a>\n\nBIOGRAPHICAL SKETCH\n---\n\n<a id='19a1a2df-024e-4220-84b8-2e72bce62ce7'></a>\n\nName: LaVell M. Henderson\n\n<a id='5e39ed55-7db1-4e4a-ae91-c927aaac2332'></a>\n\nSocial Security No.: 529-14-2778\n\n<a id='835d6f3e-4b97-423c-9da7-88c2b2ca4d1c'></a>\n\nTitle: Professor\n\nBirthdate: September 9, 1917\n\n<a id='a44308ab-b5ca-491a-b643-1ea608501216'></a>\n\nSex:\noption M: [x]\noption F: [ ]\n\n<a id='124d495c-6475-47c9-923f-231701144f69'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"5\">EDUCATION: (Begin with baccalaureate and Include postdoctoral)</td></tr>\n<tr><td id=\"0-3\">Institution:</td><td id=\"0-4\">Location:</td><td id=\"0-5\">Degree:</td><td id=\"0-6\">Year:</td><td id=\"0-7\">Discipline:</td></tr>\n<tr><td id=\"0-8\">Utah State University</td><td id=\"0-9\">Logan, Utah</td><td id=\"0-a\">B.S.</td><td id=\"0-b\">1939</td><td id=\"0-c\">Chemistry</td></tr>\n<tr><td id=\"0-d\">University of Wisconsin</td><td id=\"0-e\">Madison, Wisconsin</td><td id=\"0-f\">M. S.</td><td id=\"0-g\">1941</td><td id=\"0-h\">Biochemistry</td></tr>\n<tr><td id=\"0-i\">University of Wisconsin</td><td id=\"0-j\">Madison, Wisconsin</td><td id=\"0-k\">Ph.D.</td><td id=\"0-l\">1947</td><td id=\"0-m\">Biochemistry</td></tr>\n</table>\n\n<a id='60b14cc5-43d3-4a4b-835c-8fc227f52c07'></a>\n\nPROFESSIONAL EXPERIENCE: (Begin with present position)\n\n<a id='598fe7dc-5847-44f0-a321-058220baa9f5'></a>\n\n<table><thead><tr><th>Title:</th><th>Institution:</th><th>Dates:</th></tr></thead><tbody><tr><td>Professor</td><td>Dept. of Biochemistry, University of<br>Minnesota, St. Paul</td><td>1974-Date</td></tr><tr><td>Head and Professor</td><td>Dept. of Biochemistry, University of<br>Minnesota, St. Paul, MN</td><td>1963-74</td></tr><tr><td>Head and Professor</td><td>Oklahoma State University, Dept. of<br>Biochemistry, Stillwater, OK</td><td>1957-63</td></tr><tr><td>Assistant Professor</td><td>University of Illinois, Dept. of Chemistry<br>& Chemical Eng., Urbana, IL</td><td>1948-57</td></tr><tr><td>Research Assistant<br>and Instructor</td><td>University of Wisconsin, Dept. of Biochem.,<br>Madison, Wisconsin</td><td>1946-48</td></tr></tbody></table>\n\n<a id='3f989b6a-3d2d-4072-86a8-7d0433747b83'></a>\n\nAwards, Fellowships, Honors:\nLalor Foundation Summer Award, 1955\nBorden Award in Nutrition, 1970\nHonorary Doctor of Science, Utah State University, 1974\nParticipant in USSR-USA Pyridoxal Phosphate Catalysis Symp., Leningrad, 1974.\n\n<a id='0aa4d9fe-0cba-4d03-8e24-0e4e295922e0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kmcj0227",
+            "chunks": [
+                "50e4f831-0fca-48a9-bfe2-7646f1862789",
+                "677886c8-193f-45c1-9f49-c0ace5baefd8",
+                "7d1c50d7-7fbf-48ac-8c73-b81222c3f753",
+                "19a1a2df-024e-4220-84b8-2e72bce62ce7",
+                "5e39ed55-7db1-4e4a-ae91-c927aaac2332",
+                "835d6f3e-4b97-423c-9da7-88c2b2ca4d1c",
+                "a44308ab-b5ca-491a-b643-1ea608501216",
+                "124d495c-6475-47c9-923f-231701144f69",
+                "60b14cc5-43d3-4a4b-835c-8fc227f52c07",
+                "598fe7dc-5847-44f0-a321-058220baa9f5",
+                "3f989b6a-3d2d-4072-86a8-7d0433747b83",
+                "0aa4d9fe-0cba-4d03-8e24-0e4e295922e0"
+            ]
+        }
+    ],
+    "grounding": {
+        "50e4f831-0fca-48a9-bfe2-7646f1862789": {
+            "box": {
+                "left": 0.7723286151885986,
+                "top": 0.011068901047110558,
+                "right": 0.9440808296203613,
+                "bottom": 0.05232596397399902
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "677886c8-193f-45c1-9f49-c0ace5baefd8": {
+            "box": {
+                "left": 0.12226682901382446,
+                "top": 0.046059150248765945,
+                "right": 0.21202072501182556,
+                "bottom": 0.0985729992389679
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "7d1c50d7-7fbf-48ac-8c73-b81222c3f753": {
+            "box": {
+                "left": 0.398878812789917,
+                "top": 0.062209516763687134,
+                "right": 0.5988593101501465,
+                "bottom": 0.08796128630638123
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "19a1a2df-024e-4220-84b8-2e72bce62ce7": {
+            "box": {
+                "left": 0.09158407151699066,
+                "top": 0.09573337435722351,
+                "right": 0.3629499673843384,
+                "bottom": 0.1184338927268982
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5e39ed55-7db1-4e4a-ae91-c927aaac2332": {
+            "box": {
+                "left": 0.573570966720581,
+                "top": 0.09547343105077744,
+                "right": 0.9044854640960693,
+                "bottom": 0.11808546632528305
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "835d6f3e-4b97-423c-9da7-88c2b2ca4d1c": {
+            "box": {
+                "left": 0.09333479404449463,
+                "top": 0.12717193365097046,
+                "right": 0.38065046072006226,
+                "bottom": 0.17890861630439758
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a44308ab-b5ca-491a-b643-1ea608501216": {
+            "box": {
+                "left": 0.5157666802406311,
+                "top": 0.15022744238376617,
+                "right": 0.7815082669258118,
+                "bottom": 0.17600379884243011
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "124d495c-6475-47c9-923f-231701144f69": {
+            "box": {
+                "left": 0.0862918496131897,
+                "top": 0.1857479214668274,
+                "right": 0.8937294483184814,
+                "bottom": 0.3344733715057373
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.09437288198977589,
+                "top": 0.18691845445241073,
+                "right": 0.8890502495782542,
+                "bottom": 0.3344720329318669
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.09437288198977589,
+                "top": 0.18691845445241073,
+                "right": 0.8887682733021656,
+                "bottom": 0.23607877325728488
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.09437288198977589,
+                "top": 0.2051937829950603,
+                "right": 0.32546834773219224,
+                "bottom": 0.23607877325728488
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.32546834773219224,
+                "top": 0.2051937829950603,
+                "right": 0.5547728366932496,
+                "bottom": 0.23607877325728488
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5547728366932496,
+                "top": 0.2051937829950603,
+                "right": 0.6788706006125516,
+                "bottom": 0.23607877325728488
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6788706006125516,
+                "top": 0.2051937829950603,
+                "right": 0.7426211100160778,
+                "bottom": 0.23607877325728488
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.7426211100160778,
+                "top": 0.2051937829950603,
+                "right": 0.8887682733021656,
+                "bottom": 0.23607877325728488
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.09437288198977589,
+                "top": 0.23607877325728488,
+                "right": 0.32546834773219224,
+                "bottom": 0.2701002016629843
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.32546834773219224,
+                "top": 0.23607877325728488,
+                "right": 0.5547728366932496,
+                "bottom": 0.2701002016629843
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5547728366932496,
+                "top": 0.23607877325728488,
+                "right": 0.6788706006125516,
+                "bottom": 0.2701002016629843
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6788706006125516,
+                "top": 0.23607877325728488,
+                "right": 0.7426211100160778,
+                "bottom": 0.2701002016629843
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7426211100160778,
+                "top": 0.23607877325728488,
+                "right": 0.8887682733021656,
+                "bottom": 0.2701002016629843
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.09437288198977589,
+                "top": 0.2701002016629843,
+                "right": 0.32546834773219224,
+                "bottom": 0.30118125753831393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.32546834773219224,
+                "top": 0.2701002016629843,
+                "right": 0.5547728366932496,
+                "bottom": 0.30118125753831393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5547728366932496,
+                "top": 0.2701002016629843,
+                "right": 0.6788706006125516,
+                "bottom": 0.30118125753831393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6788706006125516,
+                "top": 0.2701002016629843,
+                "right": 0.7426211100160778,
+                "bottom": 0.30118125753831393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.7426211100160778,
+                "top": 0.2701002016629843,
+                "right": 0.8887682733021656,
+                "bottom": 0.30118125753831393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.09437288198977589,
+                "top": 0.30118125753831393,
+                "right": 0.32546834773219224,
+                "bottom": 0.3344720329318669
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.32546834773219224,
+                "top": 0.30118125753831393,
+                "right": 0.5547728366932496,
+                "bottom": 0.3344720329318669
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5547728366932496,
+                "top": 0.30118125753831393,
+                "right": 0.6788706006125516,
+                "bottom": 0.3344720329318669
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6788706006125516,
+                "top": 0.30118125753831393,
+                "right": 0.7426211100160778,
+                "bottom": 0.3344720329318669
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.7426211100160778,
+                "top": 0.30118125753831393,
+                "right": 0.8887682733021656,
+                "bottom": 0.3344720329318669
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "60b14cc5-43d3-4a4b-835c-8fc227f52c07": {
+            "box": {
+                "left": 0.23849603533744812,
+                "top": 0.4269750416278839,
+                "right": 0.7747092247009277,
+                "bottom": 0.4502754509449005
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "598fe7dc-5847-44f0-a321-058220baa9f5": {
+            "box": {
+                "left": 0.08396810293197632,
+                "top": 0.4566766619682312,
+                "right": 0.8659793734550476,
+                "bottom": 0.6509729027748108
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "3f989b6a-3d2d-4072-86a8-7d0433747b83": {
+            "box": {
+                "left": 0.08340886235237122,
+                "top": 0.7591611742973328,
+                "right": 0.842342734336853,
+                "bottom": 0.8559021353721619
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0aa4d9fe-0cba-4d03-8e24-0e4e295922e0": {
+            "box": {
+                "left": 0.22878900170326233,
+                "top": 0.9777649641036987,
+                "right": 0.7719653844833374,
+                "bottom": 0.999268651008606
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kmcj0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7810,
+        "credit_usage": 3.0,
+        "job_id": "jjn8nwxji2ltdo3itmcqakxdg",
+        "version": "dpt-2-20250919"
+    }
+}

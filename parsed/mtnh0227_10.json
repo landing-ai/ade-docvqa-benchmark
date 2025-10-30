@@ -1,0 +1,458 @@
+{
+    "markdown": "<a id='d2ac16ff-4186-4111-89b7-025c630605e0'></a>\n\nGREAT WESTERN UNITED CORPORATION\nCHECK REQUEST\n\n<a id='972df4e0-949d-4f12-8e88-8e7618c6ef15'></a>\n\nRequested By___ Mr. Tom Dudley___\n\n<a id='24d441a6-1fe0-4975-abb8-701aebdb7db6'></a>\n\nAug. 14, 1970 19\n\n<a id='09ce39d7-63e4-48bd-961f-69f8485f23cf'></a>\n\nAmt. $ 270.00 ___\n\n<a id='0ac26045-3b77-4b7c-96c5-f3d0287c6641'></a>\n\nName: Laman for Letters, Inc.\n\nStreet Address: 2420 S. Delaware\n\nCity & State: Denver, Colorado\nZip Code: 80223\n\nIn Payment of: Postage for Great Western '70 Magazine\n\n\n\n\n\nSpecial Instructions: Return to Barb MacDonald\n\n<a id='183ed127-dc54-43c5-9b82-706e44d689cb'></a>\n\nFOR ACCOUNTING USE ONLY\n<table id=\"0-1\">\n<tr><td id=\"0-2\">RECEIVED</td></tr>\n<tr><td id=\"0-3\">P-E-R-Pp-Ds VERIFIED</td></tr>\n<tr><td id=\"0-4\">APPROVED FOR PAYMENT (signature)</td></tr>\n<tr><td id=\"0-5\">CHECK NO. DATE (signature)</td></tr>\n<tr><td id=\"0-6\">AMOUNT (dotted line)</td></tr>\n<tr><td id=\"0-7\">ACCOUNT DISTRIBUTION A/C NUMBER AMOUNT</td></tr>\n</table>\n<table id=\"0-8\">\n<tr><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\">$</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\">$</td></tr>\n<tr><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">$</td></tr>\n</table>\n\n<a id='60ab66c7-b90d-4835-bcfd-366b9620ac64'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mtnh0227\n\n<a id='556483da-63e2-4e33-9275-839ee6431f75'></a>\n\n**Check to be issued in favor of:**",
+    "chunks": [
+        {
+            "markdown": "<a id='d2ac16ff-4186-4111-89b7-025c630605e0'></a>\n\nGREAT WESTERN UNITED CORPORATION\nCHECK REQUEST",
+            "type": "text",
+            "id": "d2ac16ff-4186-4111-89b7-025c630605e0",
+            "grounding": {
+                "box": {
+                    "left": 0.18317586183547974,
+                    "top": 0.03615184128284454,
+                    "right": 0.8141453266143799,
+                    "bottom": 0.16262702643871307
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='972df4e0-949d-4f12-8e88-8e7618c6ef15'></a>\n\nRequested By___ Mr. Tom Dudley___",
+            "type": "text",
+            "id": "972df4e0-949d-4f12-8e88-8e7618c6ef15",
+            "grounding": {
+                "box": {
+                    "left": 0.013340741395950317,
+                    "top": 0.19498620927333832,
+                    "right": 0.5624616146087646,
+                    "bottom": 0.2498922199010849
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='24d441a6-1fe0-4975-abb8-701aebdb7db6'></a>\n\nAug. 14, 1970 19",
+            "type": "text",
+            "id": "24d441a6-1fe0-4975-abb8-701aebdb7db6",
+            "grounding": {
+                "box": {
+                    "left": 0.6022937297821045,
+                    "top": 0.19648537039756775,
+                    "right": 0.9810034036636353,
+                    "bottom": 0.24973028898239136
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='09ce39d7-63e4-48bd-961f-69f8485f23cf'></a>\n\nAmt. $ 270.00 ___",
+            "type": "text",
+            "id": "09ce39d7-63e4-48bd-961f-69f8485f23cf",
+            "grounding": {
+                "box": {
+                    "left": 0.6562117338180542,
+                    "top": 0.25890210270881653,
+                    "right": 0.9812874794006348,
+                    "bottom": 0.30966314673423767
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0ac26045-3b77-4b7c-96c5-f3d0287c6641'></a>\n\nName: Laman for Letters, Inc.\n\nStreet Address: 2420 S. Delaware\n\nCity & State: Denver, Colorado\nZip Code: 80223\n\nIn Payment of: Postage for Great Western '70 Magazine\n\n\n\n\n\nSpecial Instructions: Return to Barb MacDonald",
+            "type": "text",
+            "id": "0ac26045-3b77-4b7c-96c5-f3d0287c6641",
+            "grounding": {
+                "box": {
+                    "left": 0.010297328233718872,
+                    "top": 0.30225667357444763,
+                    "right": 0.6729713678359985,
+                    "bottom": 0.9187740087509155
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='183ed127-dc54-43c5-9b82-706e44d689cb'></a>\n\nFOR ACCOUNTING USE ONLY\n<table id=\"0-1\">\n<tr><td id=\"0-2\">RECEIVED</td></tr>\n<tr><td id=\"0-3\">P-E-R-Pp-Ds VERIFIED</td></tr>\n<tr><td id=\"0-4\">APPROVED FOR PAYMENT (signature)</td></tr>\n<tr><td id=\"0-5\">CHECK NO. DATE (signature)</td></tr>\n<tr><td id=\"0-6\">AMOUNT (dotted line)</td></tr>\n<tr><td id=\"0-7\">ACCOUNT DISTRIBUTION A/C NUMBER AMOUNT</td></tr>\n</table>\n<table id=\"0-8\">\n<tr><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\">$</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\">$</td></tr>\n<tr><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">$</td></tr>\n</table>",
+            "type": "table",
+            "id": "183ed127-dc54-43c5-9b82-706e44d689cb",
+            "grounding": {
+                "box": {
+                    "left": 0.6792608499526978,
+                    "top": 0.34259912371635437,
+                    "right": 0.9798083305358887,
+                    "bottom": 0.8896281719207764
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='60ab66c7-b90d-4835-bcfd-366b9620ac64'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mtnh0227",
+            "type": "marginalia",
+            "id": "60ab66c7-b90d-4835-bcfd-366b9620ac64",
+            "grounding": {
+                "box": {
+                    "left": 0.25810015201568604,
+                    "top": 0.9581413865089417,
+                    "right": 0.7411370277404785,
+                    "bottom": 0.9982094168663025
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='556483da-63e2-4e33-9275-839ee6431f75'></a>\n\n**Check to be issued in favor of:**",
+            "type": "text",
+            "id": "556483da-63e2-4e33-9275-839ee6431f75",
+            "grounding": {
+                "box": {
+                    "left": 0.013714149594306946,
+                    "top": 0.26122501492500305,
+                    "right": 0.3032563328742981,
+                    "bottom": 0.30342593789100647
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d2ac16ff-4186-4111-89b7-025c630605e0'></a>\n\nGREAT WESTERN UNITED CORPORATION\nCHECK REQUEST\n\n<a id='972df4e0-949d-4f12-8e88-8e7618c6ef15'></a>\n\nRequested By___ Mr. Tom Dudley___\n\n<a id='24d441a6-1fe0-4975-abb8-701aebdb7db6'></a>\n\nAug. 14, 1970 19\n\n<a id='09ce39d7-63e4-48bd-961f-69f8485f23cf'></a>\n\nAmt. $ 270.00 ___\n\n<a id='0ac26045-3b77-4b7c-96c5-f3d0287c6641'></a>\n\nName: Laman for Letters, Inc.\n\nStreet Address: 2420 S. Delaware\n\nCity & State: Denver, Colorado\nZip Code: 80223\n\nIn Payment of: Postage for Great Western '70 Magazine\n\n\n\n\n\nSpecial Instructions: Return to Barb MacDonald\n\n<a id='183ed127-dc54-43c5-9b82-706e44d689cb'></a>\n\nFOR ACCOUNTING USE ONLY\n<table id=\"0-1\">\n<tr><td id=\"0-2\">RECEIVED</td></tr>\n<tr><td id=\"0-3\">P-E-R-Pp-Ds VERIFIED</td></tr>\n<tr><td id=\"0-4\">APPROVED FOR PAYMENT (signature)</td></tr>\n<tr><td id=\"0-5\">CHECK NO. DATE (signature)</td></tr>\n<tr><td id=\"0-6\">AMOUNT (dotted line)</td></tr>\n<tr><td id=\"0-7\">ACCOUNT DISTRIBUTION A/C NUMBER AMOUNT</td></tr>\n</table>\n<table id=\"0-8\">\n<tr><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\">$</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\">$</td></tr>\n<tr><td id=\"0-j\"></td><td id=\"0-k\"></td><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">$</td></tr>\n</table>\n\n<a id='60ab66c7-b90d-4835-bcfd-366b9620ac64'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mtnh0227\n\n<a id='556483da-63e2-4e33-9275-839ee6431f75'></a>\n\n**Check to be issued in favor of:**",
+            "chunks": [
+                "d2ac16ff-4186-4111-89b7-025c630605e0",
+                "972df4e0-949d-4f12-8e88-8e7618c6ef15",
+                "24d441a6-1fe0-4975-abb8-701aebdb7db6",
+                "09ce39d7-63e4-48bd-961f-69f8485f23cf",
+                "0ac26045-3b77-4b7c-96c5-f3d0287c6641",
+                "183ed127-dc54-43c5-9b82-706e44d689cb",
+                "60ab66c7-b90d-4835-bcfd-366b9620ac64",
+                "556483da-63e2-4e33-9275-839ee6431f75"
+            ]
+        }
+    ],
+    "grounding": {
+        "d2ac16ff-4186-4111-89b7-025c630605e0": {
+            "box": {
+                "left": 0.18317586183547974,
+                "top": 0.03615184128284454,
+                "right": 0.8141453266143799,
+                "bottom": 0.16262702643871307
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "972df4e0-949d-4f12-8e88-8e7618c6ef15": {
+            "box": {
+                "left": 0.013340741395950317,
+                "top": 0.19498620927333832,
+                "right": 0.5624616146087646,
+                "bottom": 0.2498922199010849
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "24d441a6-1fe0-4975-abb8-701aebdb7db6": {
+            "box": {
+                "left": 0.6022937297821045,
+                "top": 0.19648537039756775,
+                "right": 0.9810034036636353,
+                "bottom": 0.24973028898239136
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "09ce39d7-63e4-48bd-961f-69f8485f23cf": {
+            "box": {
+                "left": 0.6562117338180542,
+                "top": 0.25890210270881653,
+                "right": 0.9812874794006348,
+                "bottom": 0.30966314673423767
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0ac26045-3b77-4b7c-96c5-f3d0287c6641": {
+            "box": {
+                "left": 0.010297328233718872,
+                "top": 0.30225667357444763,
+                "right": 0.6729713678359985,
+                "bottom": 0.9187740087509155
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "183ed127-dc54-43c5-9b82-706e44d689cb": {
+            "box": {
+                "left": 0.6792608499526978,
+                "top": 0.34259912371635437,
+                "right": 0.9798083305358887,
+                "bottom": 0.8896281719207764
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.6920369181979993,
+                "top": 0.4000038981002396,
+                "right": 0.9681048287584062,
+                "bottom": 0.7769695164823975
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.6920369181979993,
+                "top": 0.4000038981002396,
+                "right": 0.9679884771607163,
+                "bottom": 0.44810287511393954
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.6920369181979993,
+                "top": 0.44810287511393954,
+                "right": 0.9679884771607163,
+                "bottom": 0.513090969063593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6920369181979993,
+                "top": 0.513090969063593,
+                "right": 0.9679884771607163,
+                "bottom": 0.6029846958172893
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.6920369181979993,
+                "top": 0.6029846958172893,
+                "right": 0.9679884771607163,
+                "bottom": 0.659656332085321
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6920369181979993,
+                "top": 0.659656332085321,
+                "right": 0.9679884771607163,
+                "bottom": 0.7022478821254463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6920369181979993,
+                "top": 0.7022478821254463,
+                "right": 0.9679884771607163,
+                "bottom": 0.7769695164823975
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.6917733166669628,
+                "top": 0.775355121742308,
+                "right": 0.9683498568035489,
+                "bottom": 0.8809422045752129
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6917733166669628,
+                "top": 0.775355121742308,
+                "right": 0.7234607438880793,
+                "bottom": 0.8091513456834463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.7234607438880793,
+                "top": 0.775355121742308,
+                "right": 0.7818150649572999,
+                "bottom": 0.8091513456834463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7818150649572999,
+                "top": 0.775355121742308,
+                "right": 0.8296662762480835,
+                "bottom": 0.8091513456834463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.8296662762480835,
+                "top": 0.775355121742308,
+                "right": 0.8583505905828872,
+                "bottom": 0.8091513456834463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.8583505905828872,
+                "top": 0.775355121742308,
+                "right": 0.9680629636800688,
+                "bottom": 0.8091513456834463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.6917733166669628,
+                "top": 0.8091513456834463,
+                "right": 0.7234607438880793,
+                "bottom": 0.8437938772584133
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7234607438880793,
+                "top": 0.8091513456834463,
+                "right": 0.7818150649572999,
+                "bottom": 0.8437938772584133
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7818150649572999,
+                "top": 0.8091513456834463,
+                "right": 0.8296662762480835,
+                "bottom": 0.8437938772584133
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.8296662762480835,
+                "top": 0.8091513456834463,
+                "right": 0.8583505905828872,
+                "bottom": 0.8437938772584133
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.8583505905828872,
+                "top": 0.8091513456834463,
+                "right": 0.9680629636800688,
+                "bottom": 0.8437938772584133
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6917733166669628,
+                "top": 0.8437938772584133,
+                "right": 0.7234607438880793,
+                "bottom": 0.8809422045752129
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.7234607438880793,
+                "top": 0.8437938772584133,
+                "right": 0.7818150649572999,
+                "bottom": 0.8809422045752129
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7818150649572999,
+                "top": 0.8437938772584133,
+                "right": 0.8296662762480835,
+                "bottom": 0.8809422045752129
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.8296662762480835,
+                "top": 0.8437938772584133,
+                "right": 0.8583505905828872,
+                "bottom": 0.8809422045752129
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.8583505905828872,
+                "top": 0.8437938772584133,
+                "right": 0.9680629636800688,
+                "bottom": 0.8809422045752129
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "60ab66c7-b90d-4835-bcfd-366b9620ac64": {
+            "box": {
+                "left": 0.25810015201568604,
+                "top": 0.9581413865089417,
+                "right": 0.7411370277404785,
+                "bottom": 0.9982094168663025
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "556483da-63e2-4e33-9275-839ee6431f75": {
+            "box": {
+                "left": 0.013714149594306946,
+                "top": 0.26122501492500305,
+                "right": 0.3032563328742981,
+                "bottom": 0.30342593789100647
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "mtnh0227_10.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6719,
+        "credit_usage": 3.0,
+        "job_id": "oxrqz88wl6ze1508yormaph99",
+        "version": "dpt-2-20250919"
+    }
+}

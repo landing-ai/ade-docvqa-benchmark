@@ -1,0 +1,703 @@
+{
+    "markdown": "<a id='b7739da4-b1d7-48a1-993b-d550c183cbed'></a>\n\nQuestion 20a: Does sugar have any value in your daily diet\nbesides adding sweetness?\n\n<a id='e4da6764-2c84-4c9a-9efa-622c854549f0'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Respondents who use</td><td id=\"0-3\">sugar</td><td id=\"0-4\">Total (317=100%)</td><td id=\"0-5\">Men (133=100%)</td><td id=\"0-6\">Women (184=100%)</td></tr>\n<tr><td id=\"0-7\">Yes</td><td id=\"0-8\"></td><td id=\"0-9\">54%</td><td id=\"0-a\">47%</td><td id=\"0-b\">60%</td></tr>\n<tr><td id=\"0-c\">No</td><td id=\"0-d\"></td><td id=\"0-e\">44</td><td id=\"0-f\">51</td><td id=\"0-g\">39</td></tr>\n<tr><td id=\"0-h\">Don't Know -</td><td id=\"0-i\"></td><td id=\"0-j\">2</td><td id=\"0-k\">2</td><td id=\"0-l\">1</td></tr>\n<tr><td id=\"0-m\">No Answer</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td></tr>\n</table>\n\n<a id='617b1080-0c45-49ee-b546-38c87adb1b70'></a>\n\nQuestion 20b: If yes - What other value does it have?\n<table id=\"0-r\">\n<tr><td id=\"0-s\">Respondents who think sugar has another value</td><td id=\"0-t\">Total* (172=100%)</td><td id=\"0-u\">Men* (62=100%)</td><td id=\"0-v\">Women* (110=100%)</td></tr>\n<tr><td id=\"0-w\">Reasons</td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td></tr>\n<tr><td id=\"0-A\">Gives energy, needed to add fuel to body, need carbohydrates, quick energy potential, gives body heat,</td><td id=\"0-B\">88%</td><td id=\"0-C\">89%</td><td id=\"0-D\">88%</td></tr>\n<tr><td id=\"0-E\">Body needs certain amount of sugar to function properly, nutritious, body builder, food value.</td><td id=\"0-F\">15</td><td id=\"0-G\">18</td><td id=\"0-H\">13</td></tr>\n<tr><td id=\"0-I\">Makes things tastier, improves taste.</td><td id=\"0-J\">3</td><td id=\"0-K\">3</td><td id=\"0-L\">3</td></tr>\n<tr><td id=\"0-M\">All Other</td><td id=\"0-N\">4</td><td id=\"0-O\">\u2013</td><td id=\"0-P\">6</td></tr>\n<tr><td id=\"0-Q\">Don't Know</td><td id=\"0-R\">1</td><td id=\"0-S\">2</td><td id=\"0-T\">\u2013</td></tr>\n</table>\n\n<a id='fa7252e6-9e83-4156-856c-3def44c7da29'></a>\n\n* Adds to more than 100% because some respondents\ngave more than one answer.\n\n<a id='d219c531-e194-460c-a340-48c30d07e056'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ipdi0226",
+    "chunks": [
+        {
+            "markdown": "<a id='b7739da4-b1d7-48a1-993b-d550c183cbed'></a>\n\nQuestion 20a: Does sugar have any value in your daily diet\nbesides adding sweetness?",
+            "type": "text",
+            "id": "b7739da4-b1d7-48a1-993b-d550c183cbed",
+            "grounding": {
+                "box": {
+                    "left": 0.18030458688735962,
+                    "top": 0.1358720362186432,
+                    "right": 0.7603705525398254,
+                    "bottom": 0.17275533080101013
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e4da6764-2c84-4c9a-9efa-622c854549f0'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Respondents who use</td><td id=\"0-3\">sugar</td><td id=\"0-4\">Total (317=100%)</td><td id=\"0-5\">Men (133=100%)</td><td id=\"0-6\">Women (184=100%)</td></tr>\n<tr><td id=\"0-7\">Yes</td><td id=\"0-8\"></td><td id=\"0-9\">54%</td><td id=\"0-a\">47%</td><td id=\"0-b\">60%</td></tr>\n<tr><td id=\"0-c\">No</td><td id=\"0-d\"></td><td id=\"0-e\">44</td><td id=\"0-f\">51</td><td id=\"0-g\">39</td></tr>\n<tr><td id=\"0-h\">Don't Know -</td><td id=\"0-i\"></td><td id=\"0-j\">2</td><td id=\"0-k\">2</td><td id=\"0-l\">1</td></tr>\n<tr><td id=\"0-m\">No Answer</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "e4da6764-2c84-4c9a-9efa-622c854549f0",
+            "grounding": {
+                "box": {
+                    "left": 0.18193554878234863,
+                    "top": 0.1800888031721115,
+                    "right": 0.8219919204711914,
+                    "bottom": 0.3183673620223999
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='617b1080-0c45-49ee-b546-38c87adb1b70'></a>\n\nQuestion 20b: If yes - What other value does it have?\n<table id=\"0-r\">\n<tr><td id=\"0-s\">Respondents who think sugar has another value</td><td id=\"0-t\">Total* (172=100%)</td><td id=\"0-u\">Men* (62=100%)</td><td id=\"0-v\">Women* (110=100%)</td></tr>\n<tr><td id=\"0-w\">Reasons</td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td></tr>\n<tr><td id=\"0-A\">Gives energy, needed to add fuel to body, need carbohydrates, quick energy potential, gives body heat,</td><td id=\"0-B\">88%</td><td id=\"0-C\">89%</td><td id=\"0-D\">88%</td></tr>\n<tr><td id=\"0-E\">Body needs certain amount of sugar to function properly, nutritious, body builder, food value.</td><td id=\"0-F\">15</td><td id=\"0-G\">18</td><td id=\"0-H\">13</td></tr>\n<tr><td id=\"0-I\">Makes things tastier, improves taste.</td><td id=\"0-J\">3</td><td id=\"0-K\">3</td><td id=\"0-L\">3</td></tr>\n<tr><td id=\"0-M\">All Other</td><td id=\"0-N\">4</td><td id=\"0-O\">\u2013</td><td id=\"0-P\">6</td></tr>\n<tr><td id=\"0-Q\">Don't Know</td><td id=\"0-R\">1</td><td id=\"0-S\">2</td><td id=\"0-T\">\u2013</td></tr>\n</table>",
+            "type": "table",
+            "id": "617b1080-0c45-49ee-b546-38c87adb1b70",
+            "grounding": {
+                "box": {
+                    "left": 0.17717662453651428,
+                    "top": 0.33984726667404175,
+                    "right": 0.8250163793563843,
+                    "bottom": 0.7083714604377747
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fa7252e6-9e83-4156-856c-3def44c7da29'></a>\n\n* Adds to more than 100% because some respondents\ngave more than one answer.",
+            "type": "text",
+            "id": "fa7252e6-9e83-4156-856c-3def44c7da29",
+            "grounding": {
+                "box": {
+                    "left": 0.24857686460018158,
+                    "top": 0.7449060678482056,
+                    "right": 0.7233471274375916,
+                    "bottom": 0.7843974828720093
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d219c531-e194-460c-a340-48c30d07e056'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ipdi0226",
+            "type": "marginalia",
+            "id": "d219c531-e194-460c-a340-48c30d07e056",
+            "grounding": {
+                "box": {
+                    "left": 0.2367859184741974,
+                    "top": 0.9813241362571716,
+                    "right": 0.7654643058776855,
+                    "bottom": 0.9995673298835754
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='b7739da4-b1d7-48a1-993b-d550c183cbed'></a>\n\nQuestion 20a: Does sugar have any value in your daily diet\nbesides adding sweetness?\n\n<a id='e4da6764-2c84-4c9a-9efa-622c854549f0'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Respondents who use</td><td id=\"0-3\">sugar</td><td id=\"0-4\">Total (317=100%)</td><td id=\"0-5\">Men (133=100%)</td><td id=\"0-6\">Women (184=100%)</td></tr>\n<tr><td id=\"0-7\">Yes</td><td id=\"0-8\"></td><td id=\"0-9\">54%</td><td id=\"0-a\">47%</td><td id=\"0-b\">60%</td></tr>\n<tr><td id=\"0-c\">No</td><td id=\"0-d\"></td><td id=\"0-e\">44</td><td id=\"0-f\">51</td><td id=\"0-g\">39</td></tr>\n<tr><td id=\"0-h\">Don't Know -</td><td id=\"0-i\"></td><td id=\"0-j\">2</td><td id=\"0-k\">2</td><td id=\"0-l\">1</td></tr>\n<tr><td id=\"0-m\">No Answer</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td></tr>\n</table>\n\n<a id='617b1080-0c45-49ee-b546-38c87adb1b70'></a>\n\nQuestion 20b: If yes - What other value does it have?\n<table id=\"0-r\">\n<tr><td id=\"0-s\">Respondents who think sugar has another value</td><td id=\"0-t\">Total* (172=100%)</td><td id=\"0-u\">Men* (62=100%)</td><td id=\"0-v\">Women* (110=100%)</td></tr>\n<tr><td id=\"0-w\">Reasons</td><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\"></td></tr>\n<tr><td id=\"0-A\">Gives energy, needed to add fuel to body, need carbohydrates, quick energy potential, gives body heat,</td><td id=\"0-B\">88%</td><td id=\"0-C\">89%</td><td id=\"0-D\">88%</td></tr>\n<tr><td id=\"0-E\">Body needs certain amount of sugar to function properly, nutritious, body builder, food value.</td><td id=\"0-F\">15</td><td id=\"0-G\">18</td><td id=\"0-H\">13</td></tr>\n<tr><td id=\"0-I\">Makes things tastier, improves taste.</td><td id=\"0-J\">3</td><td id=\"0-K\">3</td><td id=\"0-L\">3</td></tr>\n<tr><td id=\"0-M\">All Other</td><td id=\"0-N\">4</td><td id=\"0-O\">\u2013</td><td id=\"0-P\">6</td></tr>\n<tr><td id=\"0-Q\">Don't Know</td><td id=\"0-R\">1</td><td id=\"0-S\">2</td><td id=\"0-T\">\u2013</td></tr>\n</table>\n\n<a id='fa7252e6-9e83-4156-856c-3def44c7da29'></a>\n\n* Adds to more than 100% because some respondents\ngave more than one answer.\n\n<a id='d219c531-e194-460c-a340-48c30d07e056'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ipdi0226",
+            "chunks": [
+                "b7739da4-b1d7-48a1-993b-d550c183cbed",
+                "e4da6764-2c84-4c9a-9efa-622c854549f0",
+                "617b1080-0c45-49ee-b546-38c87adb1b70",
+                "fa7252e6-9e83-4156-856c-3def44c7da29",
+                "d219c531-e194-460c-a340-48c30d07e056"
+            ]
+        }
+    ],
+    "grounding": {
+        "b7739da4-b1d7-48a1-993b-d550c183cbed": {
+            "box": {
+                "left": 0.18030458688735962,
+                "top": 0.1358720362186432,
+                "right": 0.7603705525398254,
+                "bottom": 0.17275533080101013
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e4da6764-2c84-4c9a-9efa-622c854549f0": {
+            "box": {
+                "left": 0.18193554878234863,
+                "top": 0.1800888031721115,
+                "right": 0.8219919204711914,
+                "bottom": 0.3183673620223999
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.18296946199123149,
+                "top": 0.18089540537215937,
+                "right": 0.8207902231423958,
+                "bottom": 0.3183665295759175
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.18296946199123149,
+                "top": 0.18089540537215937,
+                "right": 0.3683464291344336,
+                "bottom": 0.21558833505780495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3683464291344336,
+                "top": 0.18089540537215937,
+                "right": 0.4297268999468784,
+                "bottom": 0.21558833505780495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.4297268999468784,
+                "top": 0.18089540537215937,
+                "right": 0.5868688641491389,
+                "bottom": 0.21558833505780495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5868688641491389,
+                "top": 0.18089540537215937,
+                "right": 0.7076071895868239,
+                "bottom": 0.21558833505780495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.7076071895868239,
+                "top": 0.18089540537215937,
+                "right": 0.8206354472427506,
+                "bottom": 0.21558833505780495
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.18296946199123149,
+                "top": 0.21558833505780495,
+                "right": 0.3683464291344336,
+                "bottom": 0.24545355595284235
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.3683464291344336,
+                "top": 0.21558833505780495,
+                "right": 0.4297268999468784,
+                "bottom": 0.24545355595284235
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.4297268999468784,
+                "top": 0.21558833505780495,
+                "right": 0.5868688641491389,
+                "bottom": 0.24545355595284235
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5868688641491389,
+                "top": 0.21558833505780495,
+                "right": 0.7076071895868239,
+                "bottom": 0.24545355595284235
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7076071895868239,
+                "top": 0.21558833505780495,
+                "right": 0.8206354472427506,
+                "bottom": 0.24545355595284235
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.18296946199123149,
+                "top": 0.24545355595284235,
+                "right": 0.3683464291344336,
+                "bottom": 0.27515008692554765
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.3683464291344336,
+                "top": 0.24545355595284235,
+                "right": 0.4297268999468784,
+                "bottom": 0.27515008692554765
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.4297268999468784,
+                "top": 0.24545355595284235,
+                "right": 0.5868688641491389,
+                "bottom": 0.27515008692554765
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5868688641491389,
+                "top": 0.24545355595284235,
+                "right": 0.7076071895868239,
+                "bottom": 0.27515008692554765
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7076071895868239,
+                "top": 0.24545355595284235,
+                "right": 0.8206354472427506,
+                "bottom": 0.27515008692554765
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.18296946199123149,
+                "top": 0.27515008692554765,
+                "right": 0.3683464291344336,
+                "bottom": 0.3017407353462378
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.3683464291344336,
+                "top": 0.27515008692554765,
+                "right": 0.4297268999468784,
+                "bottom": 0.3017407353462378
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.4297268999468784,
+                "top": 0.27515008692554765,
+                "right": 0.5868688641491389,
+                "bottom": 0.3017407353462378
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5868688641491389,
+                "top": 0.27515008692554765,
+                "right": 0.7076071895868239,
+                "bottom": 0.3017407353462378
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7076071895868239,
+                "top": 0.27515008692554765,
+                "right": 0.8206354472427506,
+                "bottom": 0.3017407353462378
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.18296946199123149,
+                "top": 0.3017407353462378,
+                "right": 0.3683464291344336,
+                "bottom": 0.3183665295759175
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.3683464291344336,
+                "top": 0.3017407353462378,
+                "right": 0.4297268999468784,
+                "bottom": 0.3183665295759175
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.4297268999468784,
+                "top": 0.3017407353462378,
+                "right": 0.5868688641491389,
+                "bottom": 0.3183665295759175
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5868688641491389,
+                "top": 0.3017407353462378,
+                "right": 0.7076071895868239,
+                "bottom": 0.3183665295759175
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.7076071895868239,
+                "top": 0.3017407353462378,
+                "right": 0.8206354472427506,
+                "bottom": 0.3183665295759175
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "617b1080-0c45-49ee-b546-38c87adb1b70": {
+            "box": {
+                "left": 0.17717662453651428,
+                "top": 0.33984726667404175,
+                "right": 0.8250163793563843,
+                "bottom": 0.7083714604377747
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.1813479804875907,
+                "top": 0.37021677172432454,
+                "right": 0.8208708684111716,
+                "bottom": 0.7065979015557247
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.1813479804875907,
+                "top": 0.37021677172432454,
+                "right": 0.4747100662577104,
+                "bottom": 0.42266158463141323
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.4747100662577104,
+                "top": 0.37021677172432454,
+                "right": 0.5858188493858503,
+                "bottom": 0.42266158463141323
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.5858188493858503,
+                "top": 0.37021677172432454,
+                "right": 0.6945401515278267,
+                "bottom": 0.42266158463141323
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6945401515278267,
+                "top": 0.37021677172432454,
+                "right": 0.8206638573715814,
+                "bottom": 0.42266158463141323
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.1813479804875907,
+                "top": 0.42266158463141323,
+                "right": 0.4747100662577104,
+                "bottom": 0.45193536650041466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.4747100662577104,
+                "top": 0.42266158463141323,
+                "right": 0.5858188493858503,
+                "bottom": 0.45193536650041466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.5858188493858503,
+                "top": 0.42266158463141323,
+                "right": 0.6945401515278267,
+                "bottom": 0.45193536650041466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.6945401515278267,
+                "top": 0.42266158463141323,
+                "right": 0.8206638573715814,
+                "bottom": 0.45193536650041466
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.1813479804875907,
+                "top": 0.45193536650041466,
+                "right": 0.4747100662577104,
+                "bottom": 0.5270598035875764
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.4747100662577104,
+                "top": 0.45193536650041466,
+                "right": 0.5858188493858503,
+                "bottom": 0.5270598035875764
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.5858188493858503,
+                "top": 0.45193536650041466,
+                "right": 0.6945401515278267,
+                "bottom": 0.5270598035875764
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.6945401515278267,
+                "top": 0.45193536650041466,
+                "right": 0.8206638573715814,
+                "bottom": 0.5270598035875764
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.1813479804875907,
+                "top": 0.5270598035875764,
+                "right": 0.4747100662577104,
+                "bottom": 0.6012796470074946
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.4747100662577104,
+                "top": 0.5270598035875764,
+                "right": 0.5858188493858503,
+                "bottom": 0.6012796470074946
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.5858188493858503,
+                "top": 0.5270598035875764,
+                "right": 0.6945401515278267,
+                "bottom": 0.6012796470074946
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.6945401515278267,
+                "top": 0.5270598035875764,
+                "right": 0.8206638573715814,
+                "bottom": 0.6012796470074946
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.1813479804875907,
+                "top": 0.6012796470074946,
+                "right": 0.4747100662577104,
+                "bottom": 0.6449379662500689
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.4747100662577104,
+                "top": 0.6012796470074946,
+                "right": 0.5858188493858503,
+                "bottom": 0.6449379662500689
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.5858188493858503,
+                "top": 0.6012796470074946,
+                "right": 0.6945401515278267,
+                "bottom": 0.6449379662500689
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.6945401515278267,
+                "top": 0.6012796470074946,
+                "right": 0.8206638573715814,
+                "bottom": 0.6449379662500689
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.1813479804875907,
+                "top": 0.6449379662500689,
+                "right": 0.4747100662577104,
+                "bottom": 0.6770900965472251
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.4747100662577104,
+                "top": 0.6449379662500689,
+                "right": 0.5858188493858503,
+                "bottom": 0.6770900965472251
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.5858188493858503,
+                "top": 0.6449379662500689,
+                "right": 0.6945401515278267,
+                "bottom": 0.6770900965472251
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.6945401515278267,
+                "top": 0.6449379662500689,
+                "right": 0.8206638573715814,
+                "bottom": 0.6770900965472251
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.1813479804875907,
+                "top": 0.6770900965472251,
+                "right": 0.4747100662577104,
+                "bottom": 0.7065979015557247
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.4747100662577104,
+                "top": 0.6770900965472251,
+                "right": 0.5858188493858503,
+                "bottom": 0.7065979015557247
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.5858188493858503,
+                "top": 0.6770900965472251,
+                "right": 0.6945401515278267,
+                "bottom": 0.7065979015557247
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.6945401515278267,
+                "top": 0.6770900965472251,
+                "right": 0.8206638573715814,
+                "bottom": 0.7065979015557247
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "fa7252e6-9e83-4156-856c-3def44c7da29": {
+            "box": {
+                "left": 0.24857686460018158,
+                "top": 0.7449060678482056,
+                "right": 0.7233471274375916,
+                "bottom": 0.7843974828720093
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d219c531-e194-460c-a340-48c30d07e056": {
+            "box": {
+                "left": 0.2367859184741974,
+                "top": 0.9813241362571716,
+                "right": 0.7654643058776855,
+                "bottom": 0.9995673298835754
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lpdl0226_35.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9096,
+        "credit_usage": 3.0,
+        "job_id": "hk8kwog5bfj8ej205y5ldaixc",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='4bc5b014-4ce1-44cd-b901-6f96af367709'></a>\n\n450 ml\nNDC-0081-0855-45\nSEPTRA\u00ae\nSuspension\ncontains:\nFor indications, dosage, precautions,\netc., see enclosed circular.\nSTORE AT 59\u00b0-86\u00b0F\nSHAKE WELL\nBURROUGHS WELLCOME CO.\nResearch Triangle Park, N.C. 27709\n595241\nMade in U.S.A.\n\n<a id='f9ca69aa-a9fd-4cfd-81c0-6ae58f8f788c'></a>\n\nNow a liquid dosage form. Cherry-flavored. Available in bottles of 450 ml.\nFrom Burroughs Wellcome Co.\n\n<a id='794fecdd-b09e-4be8-b1ea-8869b6fad38f'></a>\n\nNEW\n\n<a id='6101e76c-fb22-4e77-9978-b472c69cef37'></a>\n\nEach teaspoonful (5 ml) contains:\n40 mg trimethoprim and 200 mg sulfamethoxazole",
+    "chunks": [
+        {
+            "markdown": "<a id='4bc5b014-4ce1-44cd-b901-6f96af367709'></a>\n\n450 ml\nNDC-0081-0855-45\nSEPTRA\u00ae\nSuspension\ncontains:\nFor indications, dosage, precautions,\netc., see enclosed circular.\nSTORE AT 59\u00b0-86\u00b0F\nSHAKE WELL\nBURROUGHS WELLCOME CO.\nResearch Triangle Park, N.C. 27709\n595241\nMade in U.S.A.",
+            "type": "text",
+            "id": "4bc5b014-4ce1-44cd-b901-6f96af367709",
+            "grounding": {
+                "box": {
+                    "left": 0.26573342084884644,
+                    "top": 0.0407429039478302,
+                    "right": 0.9006513953208923,
+                    "bottom": 0.6692569255828857
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f9ca69aa-a9fd-4cfd-81c0-6ae58f8f788c'></a>\n\nNow a liquid dosage form. Cherry-flavored. Available in bottles of 450 ml.\nFrom Burroughs Wellcome Co.",
+            "type": "text",
+            "id": "f9ca69aa-a9fd-4cfd-81c0-6ae58f8f788c",
+            "grounding": {
+                "box": {
+                    "left": 0.07759320735931396,
+                    "top": 0.761834442615509,
+                    "right": 0.9337971210479736,
+                    "bottom": 0.8365320563316345
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='794fecdd-b09e-4be8-b1ea-8869b6fad38f'></a>\n\nNEW",
+            "type": "text",
+            "id": "794fecdd-b09e-4be8-b1ea-8869b6fad38f",
+            "grounding": {
+                "box": {
+                    "left": 0.07708166539669037,
+                    "top": 0.8256262540817261,
+                    "right": 0.24473504722118378,
+                    "bottom": 0.8894640207290649
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6101e76c-fb22-4e77-9978-b472c69cef37'></a>\n\nEach teaspoonful (5 ml) contains:\n40 mg trimethoprim and 200 mg sulfamethoxazole",
+            "type": "text",
+            "id": "6101e76c-fb22-4e77-9978-b472c69cef37",
+            "grounding": {
+                "box": {
+                    "left": 0.24347618222236633,
+                    "top": 0.8782285451889038,
+                    "right": 0.9279917478561401,
+                    "bottom": 0.9424229860305786
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4bc5b014-4ce1-44cd-b901-6f96af367709'></a>\n\n450 ml\nNDC-0081-0855-45\nSEPTRA\u00ae\nSuspension\ncontains:\nFor indications, dosage, precautions,\netc., see enclosed circular.\nSTORE AT 59\u00b0-86\u00b0F\nSHAKE WELL\nBURROUGHS WELLCOME CO.\nResearch Triangle Park, N.C. 27709\n595241\nMade in U.S.A.\n\n<a id='f9ca69aa-a9fd-4cfd-81c0-6ae58f8f788c'></a>\n\nNow a liquid dosage form. Cherry-flavored. Available in bottles of 450 ml.\nFrom Burroughs Wellcome Co.\n\n<a id='794fecdd-b09e-4be8-b1ea-8869b6fad38f'></a>\n\nNEW\n\n<a id='6101e76c-fb22-4e77-9978-b472c69cef37'></a>\n\nEach teaspoonful (5 ml) contains:\n40 mg trimethoprim and 200 mg sulfamethoxazole",
+            "chunks": [
+                "4bc5b014-4ce1-44cd-b901-6f96af367709",
+                "f9ca69aa-a9fd-4cfd-81c0-6ae58f8f788c",
+                "794fecdd-b09e-4be8-b1ea-8869b6fad38f",
+                "6101e76c-fb22-4e77-9978-b472c69cef37"
+            ]
+        }
+    ],
+    "grounding": {
+        "4bc5b014-4ce1-44cd-b901-6f96af367709": {
+            "box": {
+                "left": 0.26573342084884644,
+                "top": 0.0407429039478302,
+                "right": 0.9006513953208923,
+                "bottom": 0.6692569255828857
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f9ca69aa-a9fd-4cfd-81c0-6ae58f8f788c": {
+            "box": {
+                "left": 0.07759320735931396,
+                "top": 0.761834442615509,
+                "right": 0.9337971210479736,
+                "bottom": 0.8365320563316345
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "794fecdd-b09e-4be8-b1ea-8869b6fad38f": {
+            "box": {
+                "left": 0.07708166539669037,
+                "top": 0.8256262540817261,
+                "right": 0.24473504722118378,
+                "bottom": 0.8894640207290649
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6101e76c-fb22-4e77-9978-b472c69cef37": {
+            "box": {
+                "left": 0.24347618222236633,
+                "top": 0.8782285451889038,
+                "right": 0.9279917478561401,
+                "bottom": 0.9424229860305786
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kjnw0228_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11024,
+        "credit_usage": 3.0,
+        "job_id": "c0qc9j8v63rk10jfd20lt2wbn",
+        "version": "dpt-2-20250919"
+    }
+}

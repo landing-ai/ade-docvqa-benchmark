@@ -1,0 +1,403 @@
+{
+    "markdown": "<a id='a98c79f9-a66a-41f4-9630-50f9cb00012c'></a>\n\nDr. Ernest E. Muirhead\n2211 Oak Lawn\nDallas, Texas\n\n<a id='e0b6dd87-7cb5-4a17-98e4-ee610cba4a6f'></a>\n\nDr. Sol Sherry\nThe May Institute for\nMedical Research\n421 Ridgeway Avenue\nCincinnati 29, Ohio\n\n<a id='95258b42-189c-4e62-9f27-8dcd6b2856ab'></a>\n\nDr. Oscar D. Ratnoff\nUniversity Hospitals\nCleveland 6, Ohio\n\n<a id='a9088b38-6d74-4268-aa7c-cddca14efdd6'></a>\n\nDr. Lillian Recant\nDept. of Preventive Medicine\nWashington Univ. School of Medicine\nEuclid Ave. and Kingshighway\nSt. Louis 10, Missouri\n\n<a id='6c454f9d-d1b2-48b9-93a3-9993761acdaf'></a>\n\nDr. Edward C. Reifenstein, Jr.\n1126 Hemstead Place\nOklahoma City 6, Oklahoma\n\n<a id='16b93b69-4c4b-49c0-8285-cc85d0aad074'></a>\n\nDr. James M. Shaffer\nDepartment of Epidemiology\nSchool of Public Health\nUniversity of Michigan\n\n<a id='d3c97c52-9870-4a7a-82dd-42d5da0cadf3'></a>\n\nDr. William E. Wellman\nMayo Clinic\nRochester, Minnesota\n\n<a id='9b2cf54c-ed4b-49d6-875c-e3aa5ae960b9'></a>\n\nDr. Sloan J. Wilson\nUniv. of Kansas Medical Center\n39th and Rainbow Boulevard\nKansas City 12, Kansas\n\n<a id='9aa18a3d-ff93-4b5d-a99f-bbd8e78d1afb'></a>\n\nDr. Robert F. Ziegler\n411 Beach Road\nBirmingham, Michigan\n\n<a id='ab53c774-c8f8-4290-abe3-5c3f4da2a1a7'></a>\n\nDECEASED MEMBERS - 1952\n\n<a id='9204069d-a0bc-470f-baaa-c98476cb13b5'></a>\n\nRESIGNED\nDr. Seymour Gray, Boston\nDr. William R. Lovelace,\nAlbuquerque\nDr. Ralph V. Platou, New Orleans\nDr. Jonas E. Salk, Pittsburgh\n\n<a id='d0a82209-b385-4a3e-8ce0-bf441c6968ac'></a>\n\nDr. John W. Moore, Louisville Ky.\nDr. Robert M. Moore, Indpls., Ind.\nDr. W. H. Nadler, Chicago, Ill.\nDr. Frank Wilson, Ann Arbor, Mich.\nDr. Paul Wosika, Chicago, Ill.\n\n<a id='87c2aaf4-3cc3-4e8f-bf93-f9369ac8c863'></a>\n\n*Adjunct members\n\n<a id='a674bc5b-7565-4b9f-939f-6c133cd4f95f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fybg0227\n\n<a id='878b4a87-6a13-4dbe-938e-d1b347351f30'></a>\n\nDr. Jeremiah Stamler\n5414 Ingleside Avenue\nChicago 15, Illinois",
+    "chunks": [
+        {
+            "markdown": "<a id='a98c79f9-a66a-41f4-9630-50f9cb00012c'></a>\n\nDr. Ernest E. Muirhead\n2211 Oak Lawn\nDallas, Texas",
+            "type": "text",
+            "id": "a98c79f9-a66a-41f4-9630-50f9cb00012c",
+            "grounding": {
+                "box": {
+                    "left": 0.11970090866088867,
+                    "top": 0.1076294332742691,
+                    "right": 0.3802858591079712,
+                    "bottom": 0.16031135618686676
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e0b6dd87-7cb5-4a17-98e4-ee610cba4a6f'></a>\n\nDr. Sol Sherry\nThe May Institute for\nMedical Research\n421 Ridgeway Avenue\nCincinnati 29, Ohio",
+            "type": "text",
+            "id": "e0b6dd87-7cb5-4a17-98e4-ee610cba4a6f",
+            "grounding": {
+                "box": {
+                    "left": 0.5517154335975647,
+                    "top": 0.10733824968338013,
+                    "right": 0.8019936680793762,
+                    "bottom": 0.1907007396221161
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='95258b42-189c-4e62-9f27-8dcd6b2856ab'></a>\n\nDr. Oscar D. Ratnoff\nUniversity Hospitals\nCleveland 6, Ohio",
+            "type": "text",
+            "id": "95258b42-189c-4e62-9f27-8dcd6b2856ab",
+            "grounding": {
+                "box": {
+                    "left": 0.11987165361642838,
+                    "top": 0.1681472212076187,
+                    "right": 0.3641557991504669,
+                    "bottom": 0.2215290516614914
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a9088b38-6d74-4268-aa7c-cddca14efdd6'></a>\n\nDr. Lillian Recant\nDept. of Preventive Medicine\nWashington Univ. School of Medicine\nEuclid Ave. and Kingshighway\nSt. Louis 10, Missouri",
+            "type": "text",
+            "id": "a9088b38-6d74-4268-aa7c-cddca14efdd6",
+            "grounding": {
+                "box": {
+                    "left": 0.12059390544891357,
+                    "top": 0.2287708967924118,
+                    "right": 0.523648202419281,
+                    "bottom": 0.3113546669483185
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6c454f9d-d1b2-48b9-93a3-9993761acdaf'></a>\n\nDr. Edward C. Reifenstein, Jr.\n1126 Hemstead Place\nOklahoma City 6, Oklahoma",
+            "type": "text",
+            "id": "6c454f9d-d1b2-48b9-93a3-9993761acdaf",
+            "grounding": {
+                "box": {
+                    "left": 0.12264512479305267,
+                    "top": 0.3184322714805603,
+                    "right": 0.4690680503845215,
+                    "bottom": 0.37353014945983887
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='16b93b69-4c4b-49c0-8285-cc85d0aad074'></a>\n\nDr. James M. Shaffer\nDepartment of Epidemiology\nSchool of Public Health\nUniversity of Michigan",
+            "type": "text",
+            "id": "16b93b69-4c4b-49c0-8285-cc85d0aad074",
+            "grounding": {
+                "box": {
+                    "left": 0.12185370922088623,
+                    "top": 0.377726674079895,
+                    "right": 0.4263879060745239,
+                    "bottom": 0.44808024168014526
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d3c97c52-9870-4a7a-82dd-42d5da0cadf3'></a>\n\nDr. William E. Wellman\nMayo Clinic\nRochester, Minnesota",
+            "type": "text",
+            "id": "d3c97c52-9870-4a7a-82dd-42d5da0cadf3",
+            "grounding": {
+                "box": {
+                    "left": 0.554456889629364,
+                    "top": 0.25846192240715027,
+                    "right": 0.8119909167289734,
+                    "bottom": 0.30984827876091003
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9b2cf54c-ed4b-49d6-875c-e3aa5ae960b9'></a>\n\nDr. Sloan J. Wilson\nUniv. of Kansas Medical Center\n39th and Rainbow Boulevard\nKansas City 12, Kansas",
+            "type": "text",
+            "id": "9b2cf54c-ed4b-49d6-875c-e3aa5ae960b9",
+            "grounding": {
+                "box": {
+                    "left": 0.5552186965942383,
+                    "top": 0.31878921389579773,
+                    "right": 0.9008148908615112,
+                    "bottom": 0.3857114613056183
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9aa18a3d-ff93-4b5d-a99f-bbd8e78d1afb'></a>\n\nDr. Robert F. Ziegler\n411 Beach Road\nBirmingham, Michigan",
+            "type": "text",
+            "id": "9aa18a3d-ff93-4b5d-a99f-bbd8e78d1afb",
+            "grounding": {
+                "box": {
+                    "left": 0.5551584959030151,
+                    "top": 0.39222633838653564,
+                    "right": 0.8046706914901733,
+                    "bottom": 0.4476839303970337
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ab53c774-c8f8-4290-abe3-5c3f4da2a1a7'></a>\n\nDECEASED MEMBERS - 1952",
+            "type": "text",
+            "id": "ab53c774-c8f8-4290-abe3-5c3f4da2a1a7",
+            "grounding": {
+                "box": {
+                    "left": 0.1230078786611557,
+                    "top": 0.4681970179080963,
+                    "right": 0.3959604501724243,
+                    "bottom": 0.489671915769577
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9204069d-a0bc-470f-baaa-c98476cb13b5'></a>\n\nRESIGNED\nDr. Seymour Gray, Boston\nDr. William R. Lovelace,\nAlbuquerque\nDr. Ralph V. Platou, New Orleans\nDr. Jonas E. Salk, Pittsburgh",
+            "type": "text",
+            "id": "9204069d-a0bc-470f-baaa-c98476cb13b5",
+            "grounding": {
+                "box": {
+                    "left": 0.5563372373580933,
+                    "top": 0.4680393934249878,
+                    "right": 0.9188179969787598,
+                    "bottom": 0.5816510915756226
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d0a82209-b385-4a3e-8ce0-bf441c6968ac'></a>\n\nDr. John W. Moore, Louisville Ky.\nDr. Robert M. Moore, Indpls., Ind.\nDr. W. H. Nadler, Chicago, Ill.\nDr. Frank Wilson, Ann Arbor, Mich.\nDr. Paul Wosika, Chicago, Ill.",
+            "type": "text",
+            "id": "d0a82209-b385-4a3e-8ce0-bf441c6968ac",
+            "grounding": {
+                "box": {
+                    "left": 0.12185178697109222,
+                    "top": 0.4968886077404022,
+                    "right": 0.512191891670227,
+                    "bottom": 0.5833449959754944
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='87c2aaf4-3cc3-4e8f-bf93-f9369ac8c863'></a>\n\n*Adjunct members",
+            "type": "marginalia",
+            "id": "87c2aaf4-3cc3-4e8f-bf93-f9369ac8c863",
+            "grounding": {
+                "box": {
+                    "left": 0.10908536612987518,
+                    "top": 0.6197595596313477,
+                    "right": 0.30149173736572266,
+                    "bottom": 0.6448876857757568
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a674bc5b-7565-4b9f-939f-6c133cd4f95f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fybg0227",
+            "type": "marginalia",
+            "id": "a674bc5b-7565-4b9f-939f-6c133cd4f95f",
+            "grounding": {
+                "box": {
+                    "left": 0.07391002774238586,
+                    "top": 0.9726501107215881,
+                    "right": 0.9300429821014404,
+                    "bottom": 0.9976651072502136
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='878b4a87-6a13-4dbe-938e-d1b347351f30'></a>\n\nDr. Jeremiah Stamler\n5414 Ingleside Avenue\nChicago 15, Illinois",
+            "type": "text",
+            "id": "878b4a87-6a13-4dbe-938e-d1b347351f30",
+            "grounding": {
+                "box": {
+                    "left": 0.5528677701950073,
+                    "top": 0.19780945777893066,
+                    "right": 0.8037886619567871,
+                    "bottom": 0.2524920701980591
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a98c79f9-a66a-41f4-9630-50f9cb00012c'></a>\n\nDr. Ernest E. Muirhead\n2211 Oak Lawn\nDallas, Texas\n\n<a id='e0b6dd87-7cb5-4a17-98e4-ee610cba4a6f'></a>\n\nDr. Sol Sherry\nThe May Institute for\nMedical Research\n421 Ridgeway Avenue\nCincinnati 29, Ohio\n\n<a id='95258b42-189c-4e62-9f27-8dcd6b2856ab'></a>\n\nDr. Oscar D. Ratnoff\nUniversity Hospitals\nCleveland 6, Ohio\n\n<a id='a9088b38-6d74-4268-aa7c-cddca14efdd6'></a>\n\nDr. Lillian Recant\nDept. of Preventive Medicine\nWashington Univ. School of Medicine\nEuclid Ave. and Kingshighway\nSt. Louis 10, Missouri\n\n<a id='6c454f9d-d1b2-48b9-93a3-9993761acdaf'></a>\n\nDr. Edward C. Reifenstein, Jr.\n1126 Hemstead Place\nOklahoma City 6, Oklahoma\n\n<a id='16b93b69-4c4b-49c0-8285-cc85d0aad074'></a>\n\nDr. James M. Shaffer\nDepartment of Epidemiology\nSchool of Public Health\nUniversity of Michigan\n\n<a id='d3c97c52-9870-4a7a-82dd-42d5da0cadf3'></a>\n\nDr. William E. Wellman\nMayo Clinic\nRochester, Minnesota\n\n<a id='9b2cf54c-ed4b-49d6-875c-e3aa5ae960b9'></a>\n\nDr. Sloan J. Wilson\nUniv. of Kansas Medical Center\n39th and Rainbow Boulevard\nKansas City 12, Kansas\n\n<a id='9aa18a3d-ff93-4b5d-a99f-bbd8e78d1afb'></a>\n\nDr. Robert F. Ziegler\n411 Beach Road\nBirmingham, Michigan\n\n<a id='ab53c774-c8f8-4290-abe3-5c3f4da2a1a7'></a>\n\nDECEASED MEMBERS - 1952\n\n<a id='9204069d-a0bc-470f-baaa-c98476cb13b5'></a>\n\nRESIGNED\nDr. Seymour Gray, Boston\nDr. William R. Lovelace,\nAlbuquerque\nDr. Ralph V. Platou, New Orleans\nDr. Jonas E. Salk, Pittsburgh\n\n<a id='d0a82209-b385-4a3e-8ce0-bf441c6968ac'></a>\n\nDr. John W. Moore, Louisville Ky.\nDr. Robert M. Moore, Indpls., Ind.\nDr. W. H. Nadler, Chicago, Ill.\nDr. Frank Wilson, Ann Arbor, Mich.\nDr. Paul Wosika, Chicago, Ill.\n\n<a id='87c2aaf4-3cc3-4e8f-bf93-f9369ac8c863'></a>\n\n*Adjunct members\n\n<a id='a674bc5b-7565-4b9f-939f-6c133cd4f95f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fybg0227\n\n<a id='878b4a87-6a13-4dbe-938e-d1b347351f30'></a>\n\nDr. Jeremiah Stamler\n5414 Ingleside Avenue\nChicago 15, Illinois",
+            "chunks": [
+                "a98c79f9-a66a-41f4-9630-50f9cb00012c",
+                "e0b6dd87-7cb5-4a17-98e4-ee610cba4a6f",
+                "95258b42-189c-4e62-9f27-8dcd6b2856ab",
+                "a9088b38-6d74-4268-aa7c-cddca14efdd6",
+                "6c454f9d-d1b2-48b9-93a3-9993761acdaf",
+                "16b93b69-4c4b-49c0-8285-cc85d0aad074",
+                "d3c97c52-9870-4a7a-82dd-42d5da0cadf3",
+                "9b2cf54c-ed4b-49d6-875c-e3aa5ae960b9",
+                "9aa18a3d-ff93-4b5d-a99f-bbd8e78d1afb",
+                "ab53c774-c8f8-4290-abe3-5c3f4da2a1a7",
+                "9204069d-a0bc-470f-baaa-c98476cb13b5",
+                "d0a82209-b385-4a3e-8ce0-bf441c6968ac",
+                "87c2aaf4-3cc3-4e8f-bf93-f9369ac8c863",
+                "a674bc5b-7565-4b9f-939f-6c133cd4f95f",
+                "878b4a87-6a13-4dbe-938e-d1b347351f30"
+            ]
+        }
+    ],
+    "grounding": {
+        "a98c79f9-a66a-41f4-9630-50f9cb00012c": {
+            "box": {
+                "left": 0.11970090866088867,
+                "top": 0.1076294332742691,
+                "right": 0.3802858591079712,
+                "bottom": 0.16031135618686676
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e0b6dd87-7cb5-4a17-98e4-ee610cba4a6f": {
+            "box": {
+                "left": 0.5517154335975647,
+                "top": 0.10733824968338013,
+                "right": 0.8019936680793762,
+                "bottom": 0.1907007396221161
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "95258b42-189c-4e62-9f27-8dcd6b2856ab": {
+            "box": {
+                "left": 0.11987165361642838,
+                "top": 0.1681472212076187,
+                "right": 0.3641557991504669,
+                "bottom": 0.2215290516614914
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a9088b38-6d74-4268-aa7c-cddca14efdd6": {
+            "box": {
+                "left": 0.12059390544891357,
+                "top": 0.2287708967924118,
+                "right": 0.523648202419281,
+                "bottom": 0.3113546669483185
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6c454f9d-d1b2-48b9-93a3-9993761acdaf": {
+            "box": {
+                "left": 0.12264512479305267,
+                "top": 0.3184322714805603,
+                "right": 0.4690680503845215,
+                "bottom": 0.37353014945983887
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "16b93b69-4c4b-49c0-8285-cc85d0aad074": {
+            "box": {
+                "left": 0.12185370922088623,
+                "top": 0.377726674079895,
+                "right": 0.4263879060745239,
+                "bottom": 0.44808024168014526
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d3c97c52-9870-4a7a-82dd-42d5da0cadf3": {
+            "box": {
+                "left": 0.554456889629364,
+                "top": 0.25846192240715027,
+                "right": 0.8119909167289734,
+                "bottom": 0.30984827876091003
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9b2cf54c-ed4b-49d6-875c-e3aa5ae960b9": {
+            "box": {
+                "left": 0.5552186965942383,
+                "top": 0.31878921389579773,
+                "right": 0.9008148908615112,
+                "bottom": 0.3857114613056183
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9aa18a3d-ff93-4b5d-a99f-bbd8e78d1afb": {
+            "box": {
+                "left": 0.5551584959030151,
+                "top": 0.39222633838653564,
+                "right": 0.8046706914901733,
+                "bottom": 0.4476839303970337
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ab53c774-c8f8-4290-abe3-5c3f4da2a1a7": {
+            "box": {
+                "left": 0.1230078786611557,
+                "top": 0.4681970179080963,
+                "right": 0.3959604501724243,
+                "bottom": 0.489671915769577
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9204069d-a0bc-470f-baaa-c98476cb13b5": {
+            "box": {
+                "left": 0.5563372373580933,
+                "top": 0.4680393934249878,
+                "right": 0.9188179969787598,
+                "bottom": 0.5816510915756226
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d0a82209-b385-4a3e-8ce0-bf441c6968ac": {
+            "box": {
+                "left": 0.12185178697109222,
+                "top": 0.4968886077404022,
+                "right": 0.512191891670227,
+                "bottom": 0.5833449959754944
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "87c2aaf4-3cc3-4e8f-bf93-f9369ac8c863": {
+            "box": {
+                "left": 0.10908536612987518,
+                "top": 0.6197595596313477,
+                "right": 0.30149173736572266,
+                "bottom": 0.6448876857757568
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "a674bc5b-7565-4b9f-939f-6c133cd4f95f": {
+            "box": {
+                "left": 0.07391002774238586,
+                "top": 0.9726501107215881,
+                "right": 0.9300429821014404,
+                "bottom": 0.9976651072502136
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "878b4a87-6a13-4dbe-938e-d1b347351f30": {
+            "box": {
+                "left": 0.5528677701950073,
+                "top": 0.19780945777893066,
+                "right": 0.8037886619567871,
+                "bottom": 0.2524920701980591
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "fybg0227_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4312,
+        "credit_usage": 3.0,
+        "job_id": "xtbhhfdfstjvypvf43byw9snm",
+        "version": "dpt-2-20250919"
+    }
+}

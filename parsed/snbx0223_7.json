@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='90de4443-7630-49c1-aa59-efcd27d57bdd'></a>\n\n<::A grey background with faint, decorative floral-like patterns, including a stylized bud and swirling tendrils.\n: illustration::>\n\n<a id='0daa1efd-e77d-4716-b23a-7521b7b32e7d'></a>\n\nITC Limited REPORT AND ACCOUNTS 2013\n\n<a id='576ec3ba-e82c-4e4a-a08a-399fdaf15c4f'></a>\n\n<::logo: Sunfeast\nSunfeast\nThe logo features the word \"Sunfeast\" in a stylized font, partially encircled by a crescent shape, with a wheat stalk graphic on the right side.::>\n\n<a id='9b1dc7d5-05ca-46dc-9476-eec39805a7a1'></a>\n\nSunfeast straddles all segments in the biscuit\ncategory and offers high quality products in\nexciting and innovative formats, which reinforces\nITC's commitment to delivering a world-class\nproduct experience to the discerning consumer.\n\n<a id='6d0f5b51-3446-49a7-bdda-2cd35c46ddcf'></a>\n\n<::A close-up, grayscale image of two crescent-shaped pastries, possibly croissants or similar baked goods. One pastry is intact, while the other is broken open, revealing a dark, molten filling, likely chocolate, oozing out and pooling beneath it. Both pastries appear to be dusted with a light powder, resembling powdered sugar.\n: figure::>\n\n<a id='cd0515a8-debe-4fcc-ab1c-107b9c200a5b'></a>\n\n<::A collection of various packaged biscuits and cookies from different brands. The brands visible include \"Snacky\", \"Sunfeast\" (with \"Cashew Cookies\" and other varieties), \"NICE\", \"Delishus\" (Gourmet Cookies), \"MARIE LIGHT\", \"sweet'n salt\", \"Dark Fantasy\" (Choco Fills, Choco Melts), and \"Dream Cream\". Many packages are shown both sealed and open, with some biscuits/cookies displayed outside their packaging. The items are arranged in a somewhat scattered but organized manner across the image.: figure::>\n\n<a id='d8d433fd-936e-4503-9e26-0f320a0465ba'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snbx0223",
+    "chunks": [
+        {
+            "markdown": "<a id='90de4443-7630-49c1-aa59-efcd27d57bdd'></a>\n\n<::A grey background with faint, decorative floral-like patterns, including a stylized bud and swirling tendrils.\n: illustration::>",
+            "type": "figure",
+            "id": "90de4443-7630-49c1-aa59-efcd27d57bdd",
+            "grounding": {
+                "box": {
+                    "left": 0.1371527910232544,
+                    "top": 0.004816927015781403,
+                    "right": 0.5493322014808655,
+                    "bottom": 0.232045978307724
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0daa1efd-e77d-4716-b23a-7521b7b32e7d'></a>\n\nITC Limited REPORT AND ACCOUNTS 2013",
+            "type": "text",
+            "id": "0daa1efd-e77d-4716-b23a-7521b7b32e7d",
+            "grounding": {
+                "box": {
+                    "left": 0.578772246837616,
+                    "top": 0.04112999886274338,
+                    "right": 0.9352807402610779,
+                    "bottom": 0.07778625935316086
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='576ec3ba-e82c-4e4a-a08a-399fdaf15c4f'></a>\n\n<::logo: Sunfeast\nSunfeast\nThe logo features the word \"Sunfeast\" in a stylized font, partially encircled by a crescent shape, with a wheat stalk graphic on the right side.::>",
+            "type": "logo",
+            "id": "576ec3ba-e82c-4e4a-a08a-399fdaf15c4f",
+            "grounding": {
+                "box": {
+                    "left": 0.0674055889248848,
+                    "top": 0.2347443401813507,
+                    "right": 0.25538110733032227,
+                    "bottom": 0.32071414589881897
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9b1dc7d5-05ca-46dc-9476-eec39805a7a1'></a>\n\nSunfeast straddles all segments in the biscuit\ncategory and offers high quality products in\nexciting and innovative formats, which reinforces\nITC's commitment to delivering a world-class\nproduct experience to the discerning consumer.",
+            "type": "text",
+            "id": "9b1dc7d5-05ca-46dc-9476-eec39805a7a1",
+            "grounding": {
+                "box": {
+                    "left": 0.26003581285476685,
+                    "top": 0.23319979012012482,
+                    "right": 0.6371403336524963,
+                    "bottom": 0.31974995136260986
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6d0f5b51-3446-49a7-bdda-2cd35c46ddcf'></a>\n\n<::A close-up, grayscale image of two crescent-shaped pastries, possibly croissants or similar baked goods. One pastry is intact, while the other is broken open, revealing a dark, molten filling, likely chocolate, oozing out and pooling beneath it. Both pastries appear to be dusted with a light powder, resembling powdered sugar.\n: figure::>",
+            "type": "figure",
+            "id": "6d0f5b51-3446-49a7-bdda-2cd35c46ddcf",
+            "grounding": {
+                "box": {
+                    "left": 0.6616464853286743,
+                    "top": 0.18400463461875916,
+                    "right": 0.9307498931884766,
+                    "bottom": 0.34276822209358215
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cd0515a8-debe-4fcc-ab1c-107b9c200a5b'></a>\n\n<::A collection of various packaged biscuits and cookies from different brands. The brands visible include \"Snacky\", \"Sunfeast\" (with \"Cashew Cookies\" and other varieties), \"NICE\", \"Delishus\" (Gourmet Cookies), \"MARIE LIGHT\", \"sweet'n salt\", \"Dark Fantasy\" (Choco Fills, Choco Melts), and \"Dream Cream\". Many packages are shown both sealed and open, with some biscuits/cookies displayed outside their packaging. The items are arranged in a somewhat scattered but organized manner across the image.: figure::>",
+            "type": "figure",
+            "id": "cd0515a8-debe-4fcc-ab1c-107b9c200a5b",
+            "grounding": {
+                "box": {
+                    "left": 0.060942769050598145,
+                    "top": 0.39985859394073486,
+                    "right": 0.9423680305480957,
+                    "bottom": 0.7320870161056519
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d8d433fd-936e-4503-9e26-0f320a0465ba'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snbx0223",
+            "type": "text",
+            "id": "d8d433fd-936e-4503-9e26-0f320a0465ba",
+            "grounding": {
+                "box": {
+                    "left": 0.20954066514968872,
+                    "top": 0.74193274974823,
+                    "right": 0.8400354981422424,
+                    "bottom": 0.9989117383956909
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='90de4443-7630-49c1-aa59-efcd27d57bdd'></a>\n\n<::A grey background with faint, decorative floral-like patterns, including a stylized bud and swirling tendrils.\n: illustration::>\n\n<a id='0daa1efd-e77d-4716-b23a-7521b7b32e7d'></a>\n\nITC Limited REPORT AND ACCOUNTS 2013\n\n<a id='576ec3ba-e82c-4e4a-a08a-399fdaf15c4f'></a>\n\n<::logo: Sunfeast\nSunfeast\nThe logo features the word \"Sunfeast\" in a stylized font, partially encircled by a crescent shape, with a wheat stalk graphic on the right side.::>\n\n<a id='9b1dc7d5-05ca-46dc-9476-eec39805a7a1'></a>\n\nSunfeast straddles all segments in the biscuit\ncategory and offers high quality products in\nexciting and innovative formats, which reinforces\nITC's commitment to delivering a world-class\nproduct experience to the discerning consumer.\n\n<a id='6d0f5b51-3446-49a7-bdda-2cd35c46ddcf'></a>\n\n<::A close-up, grayscale image of two crescent-shaped pastries, possibly croissants or similar baked goods. One pastry is intact, while the other is broken open, revealing a dark, molten filling, likely chocolate, oozing out and pooling beneath it. Both pastries appear to be dusted with a light powder, resembling powdered sugar.\n: figure::>\n\n<a id='cd0515a8-debe-4fcc-ab1c-107b9c200a5b'></a>\n\n<::A collection of various packaged biscuits and cookies from different brands. The brands visible include \"Snacky\", \"Sunfeast\" (with \"Cashew Cookies\" and other varieties), \"NICE\", \"Delishus\" (Gourmet Cookies), \"MARIE LIGHT\", \"sweet'n salt\", \"Dark Fantasy\" (Choco Fills, Choco Melts), and \"Dream Cream\". Many packages are shown both sealed and open, with some biscuits/cookies displayed outside their packaging. The items are arranged in a somewhat scattered but organized manner across the image.: figure::>\n\n<a id='d8d433fd-936e-4503-9e26-0f320a0465ba'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snbx0223",
+            "chunks": [
+                "90de4443-7630-49c1-aa59-efcd27d57bdd",
+                "0daa1efd-e77d-4716-b23a-7521b7b32e7d",
+                "576ec3ba-e82c-4e4a-a08a-399fdaf15c4f",
+                "9b1dc7d5-05ca-46dc-9476-eec39805a7a1",
+                "6d0f5b51-3446-49a7-bdda-2cd35c46ddcf",
+                "cd0515a8-debe-4fcc-ab1c-107b9c200a5b",
+                "d8d433fd-936e-4503-9e26-0f320a0465ba"
+            ]
+        }
+    ],
+    "grounding": {
+        "90de4443-7630-49c1-aa59-efcd27d57bdd": {
+            "box": {
+                "left": 0.1371527910232544,
+                "top": 0.004816927015781403,
+                "right": 0.5493322014808655,
+                "bottom": 0.232045978307724
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "0daa1efd-e77d-4716-b23a-7521b7b32e7d": {
+            "box": {
+                "left": 0.578772246837616,
+                "top": 0.04112999886274338,
+                "right": 0.9352807402610779,
+                "bottom": 0.07778625935316086
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "576ec3ba-e82c-4e4a-a08a-399fdaf15c4f": {
+            "box": {
+                "left": 0.0674055889248848,
+                "top": 0.2347443401813507,
+                "right": 0.25538110733032227,
+                "bottom": 0.32071414589881897
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "9b1dc7d5-05ca-46dc-9476-eec39805a7a1": {
+            "box": {
+                "left": 0.26003581285476685,
+                "top": 0.23319979012012482,
+                "right": 0.6371403336524963,
+                "bottom": 0.31974995136260986
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6d0f5b51-3446-49a7-bdda-2cd35c46ddcf": {
+            "box": {
+                "left": 0.6616464853286743,
+                "top": 0.18400463461875916,
+                "right": 0.9307498931884766,
+                "bottom": 0.34276822209358215
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "cd0515a8-debe-4fcc-ab1c-107b9c200a5b": {
+            "box": {
+                "left": 0.060942769050598145,
+                "top": 0.39985859394073486,
+                "right": 0.9423680305480957,
+                "bottom": 0.7320870161056519
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "d8d433fd-936e-4503-9e26-0f320a0465ba": {
+            "box": {
+                "left": 0.20954066514968872,
+                "top": 0.74193274974823,
+                "right": 0.8400354981422424,
+                "bottom": 0.9989117383956909
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "snbx0223_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7640,
+        "credit_usage": 3.0,
+        "job_id": "i3rthiqwkpy33wevtaypjpge7",
+        "version": "dpt-2-20250919"
+    }
+}

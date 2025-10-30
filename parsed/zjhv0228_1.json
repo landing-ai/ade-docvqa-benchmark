@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='56235a58-110e-4641-872f-8a43b07c0421'></a>\n\nEvaluating the Safety\nof Food Chemicals\n\n<a id='2899edfd-81b0-4b76-a91a-4f7c22fcc990'></a>\n\nNATIONAL ACADEMY OF SCIENCES\n\n<a id='98a4d93f-99b0-4c79-b834-aa714966c1fe'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zjhv0228",
+    "chunks": [
+        {
+            "markdown": "<a id='56235a58-110e-4641-872f-8a43b07c0421'></a>\n\nEvaluating the Safety\nof Food Chemicals",
+            "type": "text",
+            "id": "56235a58-110e-4641-872f-8a43b07c0421",
+            "grounding": {
+                "box": {
+                    "left": 0.11909964680671692,
+                    "top": 0.32750019431114197,
+                    "right": 0.8973424434661865,
+                    "bottom": 0.46572765707969666
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2899edfd-81b0-4b76-a91a-4f7c22fcc990'></a>\n\nNATIONAL ACADEMY OF SCIENCES",
+            "type": "text",
+            "id": "2899edfd-81b0-4b76-a91a-4f7c22fcc990",
+            "grounding": {
+                "box": {
+                    "left": 0.12343809008598328,
+                    "top": 0.5091758370399475,
+                    "right": 0.9027301073074341,
+                    "bottom": 0.5559223294258118
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='98a4d93f-99b0-4c79-b834-aa714966c1fe'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zjhv0228",
+            "type": "text",
+            "id": "98a4d93f-99b0-4c79-b834-aa714966c1fe",
+            "grounding": {
+                "box": {
+                    "left": 0.11136096715927124,
+                    "top": 0.9730982780456543,
+                    "right": 0.8893067240715027,
+                    "bottom": 0.9987242221832275
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='56235a58-110e-4641-872f-8a43b07c0421'></a>\n\nEvaluating the Safety\nof Food Chemicals\n\n<a id='2899edfd-81b0-4b76-a91a-4f7c22fcc990'></a>\n\nNATIONAL ACADEMY OF SCIENCES\n\n<a id='98a4d93f-99b0-4c79-b834-aa714966c1fe'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zjhv0228",
+            "chunks": [
+                "56235a58-110e-4641-872f-8a43b07c0421",
+                "2899edfd-81b0-4b76-a91a-4f7c22fcc990",
+                "98a4d93f-99b0-4c79-b834-aa714966c1fe"
+            ]
+        }
+    ],
+    "grounding": {
+        "56235a58-110e-4641-872f-8a43b07c0421": {
+            "box": {
+                "left": 0.11909964680671692,
+                "top": 0.32750019431114197,
+                "right": 0.8973424434661865,
+                "bottom": 0.46572765707969666
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2899edfd-81b0-4b76-a91a-4f7c22fcc990": {
+            "box": {
+                "left": 0.12343809008598328,
+                "top": 0.5091758370399475,
+                "right": 0.9027301073074341,
+                "bottom": 0.5559223294258118
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "98a4d93f-99b0-4c79-b834-aa714966c1fe": {
+            "box": {
+                "left": 0.11136096715927124,
+                "top": 0.9730982780456543,
+                "right": 0.8893067240715027,
+                "bottom": 0.9987242221832275
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "zjhv0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 2595,
+        "credit_usage": 3.0,
+        "job_id": "bh99x3epd4krka6yua59giupp",
+        "version": "dpt-2-20250919"
+    }
+}

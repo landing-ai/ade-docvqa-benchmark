@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='4411ee33-4e55-420b-95fa-b9b5be58e887'></a>\n\nROBERT E. SHANK M.D.\n\n<a id='149a0681-cebd-45cc-8afd-d04921a8dcd0'></a>\n\nJerry -\nThis is the latest of\nthe reports of the AMA\nCommittee for the Health\nCare of the Poor, I thought\nyou might like to see some\nof the recommendations -\nPlease return it when\nyou have\nfinished\n\nROCHE\n<::figure: logo with two stylized figures::>\n- Bob\nMENRIUM\u00ae 10-4\n\n<a id='ab73370f-cc42-4576-ba0a-9523cb53aaa9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mhmw0227",
+    "chunks": [
+        {
+            "markdown": "<a id='4411ee33-4e55-420b-95fa-b9b5be58e887'></a>\n\nROBERT E. SHANK M.D.",
+            "type": "text",
+            "id": "4411ee33-4e55-420b-95fa-b9b5be58e887",
+            "grounding": {
+                "box": {
+                    "left": 0.2724410891532898,
+                    "top": 0.15353348851203918,
+                    "right": 0.6953328251838684,
+                    "bottom": 0.19858762621879578
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='149a0681-cebd-45cc-8afd-d04921a8dcd0'></a>\n\nJerry -\nThis is the latest of\nthe reports of the AMA\nCommittee for the Health\nCare of the Poor, I thought\nyou might like to see some\nof the recommendations -\nPlease return it when\nyou have\nfinished\n\nROCHE\n<::figure: logo with two stylized figures::>\n- Bob\nMENRIUM\u00ae 10-4",
+            "type": "text",
+            "id": "149a0681-cebd-45cc-8afd-d04921a8dcd0",
+            "grounding": {
+                "box": {
+                    "left": 0.10031652450561523,
+                    "top": 0.34663334488868713,
+                    "right": 0.9251766204833984,
+                    "bottom": 0.9373180866241455
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ab73370f-cc42-4576-ba0a-9523cb53aaa9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mhmw0227",
+            "type": "text",
+            "id": "ab73370f-cc42-4576-ba0a-9523cb53aaa9",
+            "grounding": {
+                "box": {
+                    "left": 0.03853914141654968,
+                    "top": 0.9504110217094421,
+                    "right": 0.9613950252532959,
+                    "bottom": 0.9966540932655334
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4411ee33-4e55-420b-95fa-b9b5be58e887'></a>\n\nROBERT E. SHANK M.D.\n\n<a id='149a0681-cebd-45cc-8afd-d04921a8dcd0'></a>\n\nJerry -\nThis is the latest of\nthe reports of the AMA\nCommittee for the Health\nCare of the Poor, I thought\nyou might like to see some\nof the recommendations -\nPlease return it when\nyou have\nfinished\n\nROCHE\n<::figure: logo with two stylized figures::>\n- Bob\nMENRIUM\u00ae 10-4\n\n<a id='ab73370f-cc42-4576-ba0a-9523cb53aaa9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mhmw0227",
+            "chunks": [
+                "4411ee33-4e55-420b-95fa-b9b5be58e887",
+                "149a0681-cebd-45cc-8afd-d04921a8dcd0",
+                "ab73370f-cc42-4576-ba0a-9523cb53aaa9"
+            ]
+        }
+    ],
+    "grounding": {
+        "4411ee33-4e55-420b-95fa-b9b5be58e887": {
+            "box": {
+                "left": 0.2724410891532898,
+                "top": 0.15353348851203918,
+                "right": 0.6953328251838684,
+                "bottom": 0.19858762621879578
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "149a0681-cebd-45cc-8afd-d04921a8dcd0": {
+            "box": {
+                "left": 0.10031652450561523,
+                "top": 0.34663334488868713,
+                "right": 0.9251766204833984,
+                "bottom": 0.9373180866241455
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ab73370f-cc42-4576-ba0a-9523cb53aaa9": {
+            "box": {
+                "left": 0.03853914141654968,
+                "top": 0.9504110217094421,
+                "right": 0.9613950252532959,
+                "bottom": 0.9966540932655334
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "mhmw0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10775,
+        "credit_usage": 3.0,
+        "job_id": "iu5q128h460o3zr199w3dreug",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='2cb1f60b-ddec-4657-a8e1-2741ecd0258c'></a>\n\nFrom the desk of\u2014\n\n<a id='2066fed7-36f6-4bcd-aa3d-644d5fec634a'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Virginia K. Chandler\nA legible signature centered on a white background.::>\n\n<a id='37a5682c-fc9d-4b60-acc0-c507fd239ac8'></a>\n\nFebruary 7, 1977\n\nContinental # 925 (DC 10) FIrst Class\nDenver 1:00 p.m. L.A. 2:06 p.m.\n\nContinental Flight # 601\nL.A. 3:15 p.m. Hilo 7:12 p.m.\n\n<a id='f405e204-e9f3-4bad-80ea-818e9ca54fa4'></a>\n\nCancelled\nreservations\n10-18-76\nx\n\n<a id='7d525052-948d-4ff1-afae-3818ac1a6138'></a>\n\nFebruary 11, 1977\n\nAloha Airlines Flight # 383\n\nKona 2:30 p.m. Honolulu 3:03 p.m.\n\n<a id='c53cd6eb-9a9f-4a15-b453-7524c2a49c88'></a>\n\nFebruary 13, 1977\n\nContinental Flight # 600 (DC 10) First Class\n\nHonolulu 9:00 a.m. L.A. to Denver 9:08 p.m.\n\n(You do not change planes in L.A.)\n\n<a id='aff29879-478b-4803-983f-06fbcc66b4e6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tkmk0226",
+    "chunks": [
+        {
+            "markdown": "<a id='2cb1f60b-ddec-4657-a8e1-2741ecd0258c'></a>\n\nFrom the desk of\u2014",
+            "type": "text",
+            "id": "2cb1f60b-ddec-4657-a8e1-2741ecd0258c",
+            "grounding": {
+                "box": {
+                    "left": 0.04556647688150406,
+                    "top": 0.030387794598937035,
+                    "right": 0.2062968909740448,
+                    "bottom": 0.05413028597831726
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2066fed7-36f6-4bcd-aa3d-644d5fec634a'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Virginia K. Chandler\nA legible signature centered on a white background.::>",
+            "type": "attestation",
+            "id": "2066fed7-36f6-4bcd-aa3d-644d5fec634a",
+            "grounding": {
+                "box": {
+                    "left": 0.10382324457168579,
+                    "top": 0.05926816910505295,
+                    "right": 0.3938518762588501,
+                    "bottom": 0.10252287238836288
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='37a5682c-fc9d-4b60-acc0-c507fd239ac8'></a>\n\nFebruary 7, 1977\n\nContinental # 925 (DC 10) FIrst Class\nDenver 1:00 p.m. L.A. 2:06 p.m.\n\nContinental Flight # 601\nL.A. 3:15 p.m. Hilo 7:12 p.m.",
+            "type": "text",
+            "id": "37a5682c-fc9d-4b60-acc0-c507fd239ac8",
+            "grounding": {
+                "box": {
+                    "left": 0.039047762751579285,
+                    "top": 0.11851783096790314,
+                    "right": 0.4293026924133301,
+                    "bottom": 0.26722878217697144
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f405e204-e9f3-4bad-80ea-818e9ca54fa4'></a>\n\nCancelled\nreservations\n10-18-76\nx",
+            "type": "text",
+            "id": "f405e204-e9f3-4bad-80ea-818e9ca54fa4",
+            "grounding": {
+                "box": {
+                    "left": 0.4562751054763794,
+                    "top": 0.18830759823322296,
+                    "right": 0.6324635744094849,
+                    "bottom": 0.36762332916259766
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7d525052-948d-4ff1-afae-3818ac1a6138'></a>\n\nFebruary 11, 1977\n\nAloha Airlines Flight # 383\n\nKona 2:30 p.m. Honolulu 3:03 p.m.",
+            "type": "text",
+            "id": "7d525052-948d-4ff1-afae-3818ac1a6138",
+            "grounding": {
+                "box": {
+                    "left": 0.03742349147796631,
+                    "top": 0.30115944147109985,
+                    "right": 0.4499523639678955,
+                    "bottom": 0.3877180814743042
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c53cd6eb-9a9f-4a15-b453-7524c2a49c88'></a>\n\nFebruary 13, 1977\n\nContinental Flight # 600 (DC 10) First Class\n\nHonolulu 9:00 a.m. L.A. to Denver 9:08 p.m.\n\n(You do not change planes in L.A.)",
+            "type": "text",
+            "id": "c53cd6eb-9a9f-4a15-b453-7524c2a49c88",
+            "grounding": {
+                "box": {
+                    "left": 0.03668855130672455,
+                    "top": 0.4053388237953186,
+                    "right": 0.517121434211731,
+                    "bottom": 0.5254926085472107
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='aff29879-478b-4803-983f-06fbcc66b4e6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tkmk0226",
+            "type": "marginalia",
+            "id": "aff29879-478b-4803-983f-06fbcc66b4e6",
+            "grounding": {
+                "box": {
+                    "left": 0.2186647653579712,
+                    "top": 0.9783704280853271,
+                    "right": 0.7821639776229858,
+                    "bottom": 0.9996160268783569
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2cb1f60b-ddec-4657-a8e1-2741ecd0258c'></a>\n\nFrom the desk of\u2014\n\n<a id='2066fed7-36f6-4bcd-aa3d-644d5fec634a'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Virginia K. Chandler\nA legible signature centered on a white background.::>\n\n<a id='37a5682c-fc9d-4b60-acc0-c507fd239ac8'></a>\n\nFebruary 7, 1977\n\nContinental # 925 (DC 10) FIrst Class\nDenver 1:00 p.m. L.A. 2:06 p.m.\n\nContinental Flight # 601\nL.A. 3:15 p.m. Hilo 7:12 p.m.\n\n<a id='f405e204-e9f3-4bad-80ea-818e9ca54fa4'></a>\n\nCancelled\nreservations\n10-18-76\nx\n\n<a id='7d525052-948d-4ff1-afae-3818ac1a6138'></a>\n\nFebruary 11, 1977\n\nAloha Airlines Flight # 383\n\nKona 2:30 p.m. Honolulu 3:03 p.m.\n\n<a id='c53cd6eb-9a9f-4a15-b453-7524c2a49c88'></a>\n\nFebruary 13, 1977\n\nContinental Flight # 600 (DC 10) First Class\n\nHonolulu 9:00 a.m. L.A. to Denver 9:08 p.m.\n\n(You do not change planes in L.A.)\n\n<a id='aff29879-478b-4803-983f-06fbcc66b4e6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tkmk0226",
+            "chunks": [
+                "2cb1f60b-ddec-4657-a8e1-2741ecd0258c",
+                "2066fed7-36f6-4bcd-aa3d-644d5fec634a",
+                "37a5682c-fc9d-4b60-acc0-c507fd239ac8",
+                "f405e204-e9f3-4bad-80ea-818e9ca54fa4",
+                "7d525052-948d-4ff1-afae-3818ac1a6138",
+                "c53cd6eb-9a9f-4a15-b453-7524c2a49c88",
+                "aff29879-478b-4803-983f-06fbcc66b4e6"
+            ]
+        }
+    ],
+    "grounding": {
+        "2cb1f60b-ddec-4657-a8e1-2741ecd0258c": {
+            "box": {
+                "left": 0.04556647688150406,
+                "top": 0.030387794598937035,
+                "right": 0.2062968909740448,
+                "bottom": 0.05413028597831726
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2066fed7-36f6-4bcd-aa3d-644d5fec634a": {
+            "box": {
+                "left": 0.10382324457168579,
+                "top": 0.05926816910505295,
+                "right": 0.3938518762588501,
+                "bottom": 0.10252287238836288
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "37a5682c-fc9d-4b60-acc0-c507fd239ac8": {
+            "box": {
+                "left": 0.039047762751579285,
+                "top": 0.11851783096790314,
+                "right": 0.4293026924133301,
+                "bottom": 0.26722878217697144
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f405e204-e9f3-4bad-80ea-818e9ca54fa4": {
+            "box": {
+                "left": 0.4562751054763794,
+                "top": 0.18830759823322296,
+                "right": 0.6324635744094849,
+                "bottom": 0.36762332916259766
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7d525052-948d-4ff1-afae-3818ac1a6138": {
+            "box": {
+                "left": 0.03742349147796631,
+                "top": 0.30115944147109985,
+                "right": 0.4499523639678955,
+                "bottom": 0.3877180814743042
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c53cd6eb-9a9f-4a15-b453-7524c2a49c88": {
+            "box": {
+                "left": 0.03668855130672455,
+                "top": 0.4053388237953186,
+                "right": 0.517121434211731,
+                "bottom": 0.5254926085472107
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "aff29879-478b-4803-983f-06fbcc66b4e6": {
+            "box": {
+                "left": 0.2186647653579712,
+                "top": 0.9783704280853271,
+                "right": 0.7821639776229858,
+                "bottom": 0.9996160268783569
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "tkmk0226_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7474,
+        "credit_usage": 3.0,
+        "job_id": "db8ddwqk5y4mjjvvi16fhqg1a",
+        "version": "dpt-2-20250919"
+    }
+}

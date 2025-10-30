@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='8ebcd619-d8cf-45e7-af1a-b5081aba5b72'></a>\n\n<::logo: DIET AND CORONARY HEART DISEASE\nDIET AND CORONARY HEART DISEASE\nThe text is rendered in a bold, double-lined, rounded sans-serif font.::>\n\n<a id='6e8db257-f9c5-4375-94ff-f768acff18a4'></a>\n\nThis statement for physicians and other health professionals\nwas developed by the Committee on Nutrition and authorized for\nrelease by the Central Committee for Medical and Community\nProgram of the American Heart Association.\n\n<a id='238a64c3-a5ec-481e-840b-b6ddc19cb240'></a>\n\nAMERICAN HEART ASSOCIATION\n\n<a id='32b6511f-b67a-4633-846f-28a3daff3698'></a>\n\n<::logo: American Heart Association\n(R)\nA stylized heart shape contains a flaming torch, all rendered in grayscale.::>\n\n<a id='cdf4f5f8-2c5d-4a4c-a564-7ab0b3ceb4fe'></a>\n\n\u00a9 1973 American Heart Association\n\n<a id='3e767358-17d8-465c-a020-f69203d52d42'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hfmf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='8ebcd619-d8cf-45e7-af1a-b5081aba5b72'></a>\n\n<::logo: DIET AND CORONARY HEART DISEASE\nDIET AND CORONARY HEART DISEASE\nThe text is rendered in a bold, double-lined, rounded sans-serif font.::>",
+            "type": "logo",
+            "id": "8ebcd619-d8cf-45e7-af1a-b5081aba5b72",
+            "grounding": {
+                "box": {
+                    "left": 0.13477565348148346,
+                    "top": 0.17079250514507294,
+                    "right": 0.592542290687561,
+                    "bottom": 0.427937388420105
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6e8db257-f9c5-4375-94ff-f768acff18a4'></a>\n\nThis statement for physicians and other health professionals\nwas developed by the Committee on Nutrition and authorized for\nrelease by the Central Committee for Medical and Community\nProgram of the American Heart Association.",
+            "type": "text",
+            "id": "6e8db257-f9c5-4375-94ff-f768acff18a4",
+            "grounding": {
+                "box": {
+                    "left": 0.24619993567466736,
+                    "top": 0.4750765860080719,
+                    "right": 0.7260395288467407,
+                    "bottom": 0.5490931272506714
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='238a64c3-a5ec-481e-840b-b6ddc19cb240'></a>\n\nAMERICAN HEART ASSOCIATION",
+            "type": "text",
+            "id": "238a64c3-a5ec-481e-840b-b6ddc19cb240",
+            "grounding": {
+                "box": {
+                    "left": 0.42469581961631775,
+                    "top": 0.8154228925704956,
+                    "right": 0.7409729957580566,
+                    "bottom": 0.8437185287475586
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='32b6511f-b67a-4633-846f-28a3daff3698'></a>\n\n<::logo: American Heart Association\n(R)\nA stylized heart shape contains a flaming torch, all rendered in grayscale.::>",
+            "type": "logo",
+            "id": "32b6511f-b67a-4633-846f-28a3daff3698",
+            "grounding": {
+                "box": {
+                    "left": 0.7554004192352295,
+                    "top": 0.7964133024215698,
+                    "right": 0.8338135480880737,
+                    "bottom": 0.8631913661956787
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cdf4f5f8-2c5d-4a4c-a564-7ab0b3ceb4fe'></a>\n\n\u00a9 1973 American Heart Association",
+            "type": "marginalia",
+            "id": "cdf4f5f8-2c5d-4a4c-a564-7ab0b3ceb4fe",
+            "grounding": {
+                "box": {
+                    "left": 0.08136516809463501,
+                    "top": 0.9121386408805847,
+                    "right": 0.27085715532302856,
+                    "bottom": 0.9286432862281799
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3e767358-17d8-465c-a020-f69203d52d42'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hfmf0227",
+            "type": "text",
+            "id": "3e767358-17d8-465c-a020-f69203d52d42",
+            "grounding": {
+                "box": {
+                    "left": 0.22919771075248718,
+                    "top": 0.9781159162521362,
+                    "right": 0.7718392610549927,
+                    "bottom": 1.0000799894332886
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='8ebcd619-d8cf-45e7-af1a-b5081aba5b72'></a>\n\n<::logo: DIET AND CORONARY HEART DISEASE\nDIET AND CORONARY HEART DISEASE\nThe text is rendered in a bold, double-lined, rounded sans-serif font.::>\n\n<a id='6e8db257-f9c5-4375-94ff-f768acff18a4'></a>\n\nThis statement for physicians and other health professionals\nwas developed by the Committee on Nutrition and authorized for\nrelease by the Central Committee for Medical and Community\nProgram of the American Heart Association.\n\n<a id='238a64c3-a5ec-481e-840b-b6ddc19cb240'></a>\n\nAMERICAN HEART ASSOCIATION\n\n<a id='32b6511f-b67a-4633-846f-28a3daff3698'></a>\n\n<::logo: American Heart Association\n(R)\nA stylized heart shape contains a flaming torch, all rendered in grayscale.::>\n\n<a id='cdf4f5f8-2c5d-4a4c-a564-7ab0b3ceb4fe'></a>\n\n\u00a9 1973 American Heart Association\n\n<a id='3e767358-17d8-465c-a020-f69203d52d42'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hfmf0227",
+            "chunks": [
+                "8ebcd619-d8cf-45e7-af1a-b5081aba5b72",
+                "6e8db257-f9c5-4375-94ff-f768acff18a4",
+                "238a64c3-a5ec-481e-840b-b6ddc19cb240",
+                "32b6511f-b67a-4633-846f-28a3daff3698",
+                "cdf4f5f8-2c5d-4a4c-a564-7ab0b3ceb4fe",
+                "3e767358-17d8-465c-a020-f69203d52d42"
+            ]
+        }
+    ],
+    "grounding": {
+        "8ebcd619-d8cf-45e7-af1a-b5081aba5b72": {
+            "box": {
+                "left": 0.13477565348148346,
+                "top": 0.17079250514507294,
+                "right": 0.592542290687561,
+                "bottom": 0.427937388420105
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "6e8db257-f9c5-4375-94ff-f768acff18a4": {
+            "box": {
+                "left": 0.24619993567466736,
+                "top": 0.4750765860080719,
+                "right": 0.7260395288467407,
+                "bottom": 0.5490931272506714
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "238a64c3-a5ec-481e-840b-b6ddc19cb240": {
+            "box": {
+                "left": 0.42469581961631775,
+                "top": 0.8154228925704956,
+                "right": 0.7409729957580566,
+                "bottom": 0.8437185287475586
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "32b6511f-b67a-4633-846f-28a3daff3698": {
+            "box": {
+                "left": 0.7554004192352295,
+                "top": 0.7964133024215698,
+                "right": 0.8338135480880737,
+                "bottom": 0.8631913661956787
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "cdf4f5f8-2c5d-4a4c-a564-7ab0b3ceb4fe": {
+            "box": {
+                "left": 0.08136516809463501,
+                "top": 0.9121386408805847,
+                "right": 0.27085715532302856,
+                "bottom": 0.9286432862281799
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "3e767358-17d8-465c-a020-f69203d52d42": {
+            "box": {
+                "left": 0.22919771075248718,
+                "top": 0.9781159162521362,
+                "right": 0.7718392610549927,
+                "bottom": 1.0000799894332886
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "hfmf0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4112,
+        "credit_usage": 3.0,
+        "job_id": "kuynu595cr8alknhf0nprkghu",
+        "version": "dpt-2-20250919"
+    }
+}

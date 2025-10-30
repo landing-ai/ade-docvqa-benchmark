@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='c9ec3c72-6f44-4962-a311-29aaa80e4c3d'></a>\n\n<::logo: DePuy\nDePuy\na Johnson & Johnson company\nA large black dot precedes the bold \"DePuy\" text, with \"a Johnson & Johnson company\" in a script font below.::>\n\n<a id='5c529c11-5cf5-4506-9107-622d32861f84'></a>\n\nHIP\nRADIOGRAPH ROUTING LOG\n\n<a id='a9ea622e-2a81-45a2-b2e0-42be633217ec'></a>\n\nSTUDY CODE: PIN\n\nPATIENT ID: 399\n\n<a id='ef48bfea-31b9-4f79-b2b0-0ce3cc2810f4'></a>\n\nSECTION 1: Patient Information\n\nPATIENT LAST NAME:\n\nSURGEON: Barrett\n\nSIDE:\noption Left: [ ]\noption Right: [x]\n\nDATE OF SURGERY: 7 / 16 / 02\nM D Y\n\nSECTION 2: Film Details\n\n<a id='30437377-5efa-4534-90a3-cc91a492ae2c'></a>\n\nDATE FILMS WERE RECEIVED:\n112104\nM O Y\n\nFILM TYPE:\noption ORIGINALS: [ ]\noption HARD COPIES: [ ]\noption DIGITAL COPIES: [x]\notif\n\nDATE OF FILM(S):\n7-9-03\n\n\n\n\nINTERVAL:\n12mo\n\n\n\n\nVIEW(S) RECEIVED:\noption AP: [x] option AF: [ ] option LF: [x] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \n\nSECTION 3: Scanning Details\n\n<a id='eef29d20-4e65-4d14-b829-63be073f5dc9'></a>\n\nRESOLUTION:\noption 60: [ ]\noption 75: [ ]\noption 150: [ ]\noption 300: [ ]\n\nDEPTH:\noption 8 BIT: [ ]\noption 16 BIT: [ ]\n\nDARK ENHANCE:\noption YES: [ ]\noption NO: [ ]\n\nDATE SCANNED: Imported\nM: [ ]\nD: 21\nY: 04\nInitials: VC\n\n<a id='53106d9b-94af-4aa0-ab68-d0e2eb703070'></a>\n\nSECTION 4: Log\n\nDATE RETURNED TO SITE:\n[ ] [ ] [ ] [ ] [ ] [ ]\nM D Y\n___ Initials\n\nENTERED IN COMP LOG: VC 1-22-04\nInitials Date\n\nENTERED IN DATABASE: VC 1-22-04\nInitials Date\n\n<a id='5faa015c-949e-48d0-b2fe-994a855a825b'></a>\n\nR:\\Clinical\\Prodsup\\Current Forms\\Radiograph Forms\\Radiograph Routing Form - Hip.olm\n\n<a id='0369d3f8-dcd2-41fd-a3c9-c85f1e7706b0'></a>\n\nVERSION 1.2\nPLT-00632-00035\nDEPUY090322851\n\n<a id='6c0ade0d-bedd-4f81-820f-1b160de10899'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER.\nSource: https://www.industrydocuments.ucsf.edu/docs/kggn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='c9ec3c72-6f44-4962-a311-29aaa80e4c3d'></a>\n\n<::logo: DePuy\nDePuy\na Johnson & Johnson company\nA large black dot precedes the bold \"DePuy\" text, with \"a Johnson & Johnson company\" in a script font below.::>",
+            "type": "logo",
+            "id": "c9ec3c72-6f44-4962-a311-29aaa80e4c3d",
+            "grounding": {
+                "box": {
+                    "left": 0.11532646417617798,
+                    "top": 0.04526878148317337,
+                    "right": 0.2770199477672577,
+                    "bottom": 0.10236742347478867
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5c529c11-5cf5-4506-9107-622d32861f84'></a>\n\nHIP\nRADIOGRAPH ROUTING LOG",
+            "type": "text",
+            "id": "5c529c11-5cf5-4506-9107-622d32861f84",
+            "grounding": {
+                "box": {
+                    "left": 0.3619048595428467,
+                    "top": 0.0490468367934227,
+                    "right": 0.6834089756011963,
+                    "bottom": 0.09344650059938431
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a9ea622e-2a81-45a2-b2e0-42be633217ec'></a>\n\nSTUDY CODE: PIN\n\nPATIENT ID: 399",
+            "type": "text",
+            "id": "a9ea622e-2a81-45a2-b2e0-42be633217ec",
+            "grounding": {
+                "box": {
+                    "left": 0.7465301752090454,
+                    "top": 0.047722455114126205,
+                    "right": 0.9470618963241577,
+                    "bottom": 0.12954264879226685
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ef48bfea-31b9-4f79-b2b0-0ce3cc2810f4'></a>\n\nSECTION 1: Patient Information\n\nPATIENT LAST NAME:\n\nSURGEON: Barrett\n\nSIDE:\noption Left: [ ]\noption Right: [x]\n\nDATE OF SURGERY: 7 / 16 / 02\nM D Y\n\nSECTION 2: Film Details",
+            "type": "text",
+            "id": "ef48bfea-31b9-4f79-b2b0-0ce3cc2810f4",
+            "grounding": {
+                "box": {
+                    "left": 0.09002748131752014,
+                    "top": 0.12750142812728882,
+                    "right": 0.947921872138977,
+                    "bottom": 0.2918911278247833
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='30437377-5efa-4534-90a3-cc91a492ae2c'></a>\n\nDATE FILMS WERE RECEIVED:\n112104\nM O Y\n\nFILM TYPE:\noption ORIGINALS: [ ]\noption HARD COPIES: [ ]\noption DIGITAL COPIES: [x]\notif\n\nDATE OF FILM(S):\n7-9-03\n\n\n\n\nINTERVAL:\n12mo\n\n\n\n\nVIEW(S) RECEIVED:\noption AP: [x] option AF: [ ] option LF: [x] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \n\nSECTION 3: Scanning Details",
+            "type": "text",
+            "id": "30437377-5efa-4534-90a3-cc91a492ae2c",
+            "grounding": {
+                "box": {
+                    "left": 0.08589482307434082,
+                    "top": 0.28437989950180054,
+                    "right": 0.9464281797409058,
+                    "bottom": 0.648571252822876
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='eef29d20-4e65-4d14-b829-63be073f5dc9'></a>\n\nRESOLUTION:\noption 60: [ ]\noption 75: [ ]\noption 150: [ ]\noption 300: [ ]\n\nDEPTH:\noption 8 BIT: [ ]\noption 16 BIT: [ ]\n\nDARK ENHANCE:\noption YES: [ ]\noption NO: [ ]\n\nDATE SCANNED: Imported\nM: [ ]\nD: 21\nY: 04\nInitials: VC",
+            "type": "text",
+            "id": "eef29d20-4e65-4d14-b829-63be073f5dc9",
+            "grounding": {
+                "box": {
+                    "left": 0.08186393976211548,
+                    "top": 0.6541398167610168,
+                    "right": 0.9263829588890076,
+                    "bottom": 0.782458484172821
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='53106d9b-94af-4aa0-ab68-d0e2eb703070'></a>\n\nSECTION 4: Log\n\nDATE RETURNED TO SITE:\n[ ] [ ] [ ] [ ] [ ] [ ]\nM D Y\n___ Initials\n\nENTERED IN COMP LOG: VC 1-22-04\nInitials Date\n\nENTERED IN DATABASE: VC 1-22-04\nInitials Date",
+            "type": "text",
+            "id": "53106d9b-94af-4aa0-ab68-d0e2eb703070",
+            "grounding": {
+                "box": {
+                    "left": 0.08326035737991333,
+                    "top": 0.7858504056930542,
+                    "right": 0.9346103072166443,
+                    "bottom": 0.9175573587417603
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5faa015c-949e-48d0-b2fe-994a855a825b'></a>\n\nR:\\Clinical\\Prodsup\\Current Forms\\Radiograph Forms\\Radiograph Routing Form - Hip.olm",
+            "type": "text",
+            "id": "5faa015c-949e-48d0-b2fe-994a855a825b",
+            "grounding": {
+                "box": {
+                    "left": 0.08199861645698547,
+                    "top": 0.9266605377197266,
+                    "right": 0.4712360203266144,
+                    "bottom": 0.9469565153121948
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0369d3f8-dcd2-41fd-a3c9-c85f1e7706b0'></a>\n\nVERSION 1.2\nPLT-00632-00035\nDEPUY090322851",
+            "type": "text",
+            "id": "0369d3f8-dcd2-41fd-a3c9-c85f1e7706b0",
+            "grounding": {
+                "box": {
+                    "left": 0.8264147639274597,
+                    "top": 0.9307903051376343,
+                    "right": 0.9697815775871277,
+                    "bottom": 0.9846857786178589
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6c0ade0d-bedd-4f81-820f-1b160de10899'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER.\nSource: https://www.industrydocuments.ucsf.edu/docs/kggn0226",
+            "type": "text",
+            "id": "6c0ade0d-bedd-4f81-820f-1b160de10899",
+            "grounding": {
+                "box": {
+                    "left": 0.05585995316505432,
+                    "top": 0.9749548435211182,
+                    "right": 0.7814950942993164,
+                    "bottom": 0.9999681711196899
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c9ec3c72-6f44-4962-a311-29aaa80e4c3d'></a>\n\n<::logo: DePuy\nDePuy\na Johnson & Johnson company\nA large black dot precedes the bold \"DePuy\" text, with \"a Johnson & Johnson company\" in a script font below.::>\n\n<a id='5c529c11-5cf5-4506-9107-622d32861f84'></a>\n\nHIP\nRADIOGRAPH ROUTING LOG\n\n<a id='a9ea622e-2a81-45a2-b2e0-42be633217ec'></a>\n\nSTUDY CODE: PIN\n\nPATIENT ID: 399\n\n<a id='ef48bfea-31b9-4f79-b2b0-0ce3cc2810f4'></a>\n\nSECTION 1: Patient Information\n\nPATIENT LAST NAME:\n\nSURGEON: Barrett\n\nSIDE:\noption Left: [ ]\noption Right: [x]\n\nDATE OF SURGERY: 7 / 16 / 02\nM D Y\n\nSECTION 2: Film Details\n\n<a id='30437377-5efa-4534-90a3-cc91a492ae2c'></a>\n\nDATE FILMS WERE RECEIVED:\n112104\nM O Y\n\nFILM TYPE:\noption ORIGINALS: [ ]\noption HARD COPIES: [ ]\noption DIGITAL COPIES: [x]\notif\n\nDATE OF FILM(S):\n7-9-03\n\n\n\n\nINTERVAL:\n12mo\n\n\n\n\nVIEW(S) RECEIVED:\noption AP: [x] option AF: [ ] option LF: [x] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \noption AP: [ ] option AF: [ ] option LF: [ ] option OTHER: \n\nSECTION 3: Scanning Details\n\n<a id='eef29d20-4e65-4d14-b829-63be073f5dc9'></a>\n\nRESOLUTION:\noption 60: [ ]\noption 75: [ ]\noption 150: [ ]\noption 300: [ ]\n\nDEPTH:\noption 8 BIT: [ ]\noption 16 BIT: [ ]\n\nDARK ENHANCE:\noption YES: [ ]\noption NO: [ ]\n\nDATE SCANNED: Imported\nM: [ ]\nD: 21\nY: 04\nInitials: VC\n\n<a id='53106d9b-94af-4aa0-ab68-d0e2eb703070'></a>\n\nSECTION 4: Log\n\nDATE RETURNED TO SITE:\n[ ] [ ] [ ] [ ] [ ] [ ]\nM D Y\n___ Initials\n\nENTERED IN COMP LOG: VC 1-22-04\nInitials Date\n\nENTERED IN DATABASE: VC 1-22-04\nInitials Date\n\n<a id='5faa015c-949e-48d0-b2fe-994a855a825b'></a>\n\nR:\\Clinical\\Prodsup\\Current Forms\\Radiograph Forms\\Radiograph Routing Form - Hip.olm\n\n<a id='0369d3f8-dcd2-41fd-a3c9-c85f1e7706b0'></a>\n\nVERSION 1.2\nPLT-00632-00035\nDEPUY090322851\n\n<a id='6c0ade0d-bedd-4f81-820f-1b160de10899'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER.\nSource: https://www.industrydocuments.ucsf.edu/docs/kggn0226",
+            "chunks": [
+                "c9ec3c72-6f44-4962-a311-29aaa80e4c3d",
+                "5c529c11-5cf5-4506-9107-622d32861f84",
+                "a9ea622e-2a81-45a2-b2e0-42be633217ec",
+                "ef48bfea-31b9-4f79-b2b0-0ce3cc2810f4",
+                "30437377-5efa-4534-90a3-cc91a492ae2c",
+                "eef29d20-4e65-4d14-b829-63be073f5dc9",
+                "53106d9b-94af-4aa0-ab68-d0e2eb703070",
+                "5faa015c-949e-48d0-b2fe-994a855a825b",
+                "0369d3f8-dcd2-41fd-a3c9-c85f1e7706b0",
+                "6c0ade0d-bedd-4f81-820f-1b160de10899"
+            ]
+        }
+    ],
+    "grounding": {
+        "c9ec3c72-6f44-4962-a311-29aaa80e4c3d": {
+            "box": {
+                "left": 0.11532646417617798,
+                "top": 0.04526878148317337,
+                "right": 0.2770199477672577,
+                "bottom": 0.10236742347478867
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "5c529c11-5cf5-4506-9107-622d32861f84": {
+            "box": {
+                "left": 0.3619048595428467,
+                "top": 0.0490468367934227,
+                "right": 0.6834089756011963,
+                "bottom": 0.09344650059938431
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a9ea622e-2a81-45a2-b2e0-42be633217ec": {
+            "box": {
+                "left": 0.7465301752090454,
+                "top": 0.047722455114126205,
+                "right": 0.9470618963241577,
+                "bottom": 0.12954264879226685
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ef48bfea-31b9-4f79-b2b0-0ce3cc2810f4": {
+            "box": {
+                "left": 0.09002748131752014,
+                "top": 0.12750142812728882,
+                "right": 0.947921872138977,
+                "bottom": 0.2918911278247833
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "30437377-5efa-4534-90a3-cc91a492ae2c": {
+            "box": {
+                "left": 0.08589482307434082,
+                "top": 0.28437989950180054,
+                "right": 0.9464281797409058,
+                "bottom": 0.648571252822876
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "eef29d20-4e65-4d14-b829-63be073f5dc9": {
+            "box": {
+                "left": 0.08186393976211548,
+                "top": 0.6541398167610168,
+                "right": 0.9263829588890076,
+                "bottom": 0.782458484172821
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "53106d9b-94af-4aa0-ab68-d0e2eb703070": {
+            "box": {
+                "left": 0.08326035737991333,
+                "top": 0.7858504056930542,
+                "right": 0.9346103072166443,
+                "bottom": 0.9175573587417603
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5faa015c-949e-48d0-b2fe-994a855a825b": {
+            "box": {
+                "left": 0.08199861645698547,
+                "top": 0.9266605377197266,
+                "right": 0.4712360203266144,
+                "bottom": 0.9469565153121948
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0369d3f8-dcd2-41fd-a3c9-c85f1e7706b0": {
+            "box": {
+                "left": 0.8264147639274597,
+                "top": 0.9307903051376343,
+                "right": 0.9697815775871277,
+                "bottom": 0.9846857786178589
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6c0ade0d-bedd-4f81-820f-1b160de10899": {
+            "box": {
+                "left": 0.05585995316505432,
+                "top": 0.9749548435211182,
+                "right": 0.7814950942993164,
+                "bottom": 0.9999681711196899
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kggn0226_35.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6972,
+        "credit_usage": 3.0,
+        "job_id": "tt0544addt46y3assq9p8pcbr",
+        "version": "dpt-2-20250919"
+    }
+}

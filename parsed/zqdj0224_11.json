@@ -1,0 +1,493 @@
+{
+    "markdown": "<a id='22e61854-6e0f-4484-b692-e6245df0497b'></a>\n\nEclipse\n\n<a id='071a81d0-b47e-4aa3-9565-710903296510'></a>\n\n2004 Top 10 Selling States\n\n<a id='c05fe9d3-193e-4a71-abee-9a0016adfd59'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Stores Selling Eclipse</td><td id=\"0-4\">Estimated Eclipse Cartons Sold</td></tr>\n<tr><td id=\"0-5\">Texas</td><td id=\"0-6\">4,720</td><td id=\"0-7\">70,304</td></tr>\n<tr><td id=\"0-8\">California</td><td id=\"0-9\">2,455</td><td id=\"0-a\">25,151</td></tr>\n<tr><td id=\"0-b\">North Carolina</td><td id=\"0-c\">790</td><td id=\"0-d\">14,908</td></tr>\n<tr><td id=\"0-e\">Florida</td><td id=\"0-f\">1,065</td><td id=\"0-g\">13,930</td></tr>\n<tr><td id=\"0-h\">Ohio</td><td id=\"0-i\">877</td><td id=\"0-j\">7,120</td></tr>\n<tr><td id=\"0-k\">Tennessee</td><td id=\"0-l\">326</td><td id=\"0-m\">6,833</td></tr>\n<tr><td id=\"0-n\">Virginia</td><td id=\"0-o\">680</td><td id=\"0-p\">6,749</td></tr>\n<tr><td id=\"0-q\">Georgia</td><td id=\"0-r\">401</td><td id=\"0-s\">5,542</td></tr>\n<tr><td id=\"0-t\">Colorado</td><td id=\"0-u\">199</td><td id=\"0-v\">4,317</td></tr>\n<tr><td id=\"0-w\">Michigan</td><td id=\"0-x\">678</td><td id=\"0-y\">4,049</td></tr>\n</table>\n\n<a id='97657cea-0499-44fc-99cd-04c6f281c9b5'></a>\n\n53294 3661\n\n<a id='26303781-40c5-4981-ab9c-a1a203e1de30'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zqdjj0224",
+    "chunks": [
+        {
+            "markdown": "<a id='22e61854-6e0f-4484-b692-e6245df0497b'></a>\n\nEclipse",
+            "type": "text",
+            "id": "22e61854-6e0f-4484-b692-e6245df0497b",
+            "grounding": {
+                "box": {
+                    "left": 0.4673980474472046,
+                    "top": 0.15866611897945404,
+                    "right": 0.5851541757583618,
+                    "bottom": 0.21353761851787567
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='071a81d0-b47e-4aa3-9565-710903296510'></a>\n\n2004 Top 10 Selling States",
+            "type": "text",
+            "id": "071a81d0-b47e-4aa3-9565-710903296510",
+            "grounding": {
+                "box": {
+                    "left": 0.1477406769990921,
+                    "top": 0.25856688618659973,
+                    "right": 0.43128204345703125,
+                    "bottom": 0.3078996241092682
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c05fe9d3-193e-4a71-abee-9a0016adfd59'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Stores Selling Eclipse</td><td id=\"0-4\">Estimated Eclipse Cartons Sold</td></tr>\n<tr><td id=\"0-5\">Texas</td><td id=\"0-6\">4,720</td><td id=\"0-7\">70,304</td></tr>\n<tr><td id=\"0-8\">California</td><td id=\"0-9\">2,455</td><td id=\"0-a\">25,151</td></tr>\n<tr><td id=\"0-b\">North Carolina</td><td id=\"0-c\">790</td><td id=\"0-d\">14,908</td></tr>\n<tr><td id=\"0-e\">Florida</td><td id=\"0-f\">1,065</td><td id=\"0-g\">13,930</td></tr>\n<tr><td id=\"0-h\">Ohio</td><td id=\"0-i\">877</td><td id=\"0-j\">7,120</td></tr>\n<tr><td id=\"0-k\">Tennessee</td><td id=\"0-l\">326</td><td id=\"0-m\">6,833</td></tr>\n<tr><td id=\"0-n\">Virginia</td><td id=\"0-o\">680</td><td id=\"0-p\">6,749</td></tr>\n<tr><td id=\"0-q\">Georgia</td><td id=\"0-r\">401</td><td id=\"0-s\">5,542</td></tr>\n<tr><td id=\"0-t\">Colorado</td><td id=\"0-u\">199</td><td id=\"0-v\">4,317</td></tr>\n<tr><td id=\"0-w\">Michigan</td><td id=\"0-x\">678</td><td id=\"0-y\">4,049</td></tr>\n</table>",
+            "type": "table",
+            "id": "c05fe9d3-193e-4a71-abee-9a0016adfd59",
+            "grounding": {
+                "box": {
+                    "left": 0.23115116357803345,
+                    "top": 0.3646632432937622,
+                    "right": 0.8173269629478455,
+                    "bottom": 0.8409571647644043
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='97657cea-0499-44fc-99cd-04c6f281c9b5'></a>\n\n53294 3661",
+            "type": "marginalia",
+            "id": "97657cea-0499-44fc-99cd-04c6f281c9b5",
+            "grounding": {
+                "box": {
+                    "left": 0.1305721253156662,
+                    "top": 0.9269585609436035,
+                    "right": 0.2291121929883957,
+                    "bottom": 0.9623905420303345
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='26303781-40c5-4981-ab9c-a1a203e1de30'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zqdjj0224",
+            "type": "marginalia",
+            "id": "26303781-40c5-4981-ab9c-a1a203e1de30",
+            "grounding": {
+                "box": {
+                    "left": 0.2787255644798279,
+                    "top": 0.9688625335693359,
+                    "right": 0.7222148776054382,
+                    "bottom": 1.0000227689743042
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='22e61854-6e0f-4484-b692-e6245df0497b'></a>\n\nEclipse\n\n<a id='071a81d0-b47e-4aa3-9565-710903296510'></a>\n\n2004 Top 10 Selling States\n\n<a id='c05fe9d3-193e-4a71-abee-9a0016adfd59'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Stores Selling Eclipse</td><td id=\"0-4\">Estimated Eclipse Cartons Sold</td></tr>\n<tr><td id=\"0-5\">Texas</td><td id=\"0-6\">4,720</td><td id=\"0-7\">70,304</td></tr>\n<tr><td id=\"0-8\">California</td><td id=\"0-9\">2,455</td><td id=\"0-a\">25,151</td></tr>\n<tr><td id=\"0-b\">North Carolina</td><td id=\"0-c\">790</td><td id=\"0-d\">14,908</td></tr>\n<tr><td id=\"0-e\">Florida</td><td id=\"0-f\">1,065</td><td id=\"0-g\">13,930</td></tr>\n<tr><td id=\"0-h\">Ohio</td><td id=\"0-i\">877</td><td id=\"0-j\">7,120</td></tr>\n<tr><td id=\"0-k\">Tennessee</td><td id=\"0-l\">326</td><td id=\"0-m\">6,833</td></tr>\n<tr><td id=\"0-n\">Virginia</td><td id=\"0-o\">680</td><td id=\"0-p\">6,749</td></tr>\n<tr><td id=\"0-q\">Georgia</td><td id=\"0-r\">401</td><td id=\"0-s\">5,542</td></tr>\n<tr><td id=\"0-t\">Colorado</td><td id=\"0-u\">199</td><td id=\"0-v\">4,317</td></tr>\n<tr><td id=\"0-w\">Michigan</td><td id=\"0-x\">678</td><td id=\"0-y\">4,049</td></tr>\n</table>\n\n<a id='97657cea-0499-44fc-99cd-04c6f281c9b5'></a>\n\n53294 3661\n\n<a id='26303781-40c5-4981-ab9c-a1a203e1de30'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/zqdjj0224",
+            "chunks": [
+                "22e61854-6e0f-4484-b692-e6245df0497b",
+                "071a81d0-b47e-4aa3-9565-710903296510",
+                "c05fe9d3-193e-4a71-abee-9a0016adfd59",
+                "97657cea-0499-44fc-99cd-04c6f281c9b5",
+                "26303781-40c5-4981-ab9c-a1a203e1de30"
+            ]
+        }
+    ],
+    "grounding": {
+        "22e61854-6e0f-4484-b692-e6245df0497b": {
+            "box": {
+                "left": 0.4673980474472046,
+                "top": 0.15866611897945404,
+                "right": 0.5851541757583618,
+                "bottom": 0.21353761851787567
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "071a81d0-b47e-4aa3-9565-710903296510": {
+            "box": {
+                "left": 0.1477406769990921,
+                "top": 0.25856688618659973,
+                "right": 0.43128204345703125,
+                "bottom": 0.3078996241092682
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c05fe9d3-193e-4a71-abee-9a0016adfd59": {
+            "box": {
+                "left": 0.23115116357803345,
+                "top": 0.3646632432937622,
+                "right": 0.8173269629478455,
+                "bottom": 0.8409571647644043
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.37152855645292215,
+                "right": 0.810457540604979,
+                "bottom": 0.8326258332579002
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.37152855645292215,
+                "right": 0.3600340564827711,
+                "bottom": 0.4307198628102533
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.37152855645292215,
+                "right": 0.5972491019983366,
+                "bottom": 0.4307198628102533
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.37152855645292215,
+                "right": 0.8106054365466377,
+                "bottom": 0.4307198628102533
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.4307198628102533,
+                "right": 0.3600340564827711,
+                "bottom": 0.4748556611688386
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.4307198628102533,
+                "right": 0.5972491019983366,
+                "bottom": 0.4748556611688386
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.4307198628102533,
+                "right": 0.8106054365466377,
+                "bottom": 0.4748556611688386
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.4748556611688386,
+                "right": 0.3600340564827711,
+                "bottom": 0.5150196077300677
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.4748556611688386,
+                "right": 0.5972491019983366,
+                "bottom": 0.5150196077300677
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.4748556611688386,
+                "right": 0.8106054365466377,
+                "bottom": 0.5150196077300677
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.5150196077300677,
+                "right": 0.3600340564827711,
+                "bottom": 0.5546118357691334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.5150196077300677,
+                "right": 0.5972491019983366,
+                "bottom": 0.5546118357691334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.5150196077300677,
+                "right": 0.8106054365466377,
+                "bottom": 0.5546118357691334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.5546118357691334,
+                "right": 0.3600340564827711,
+                "bottom": 0.5932176623427559
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.5546118357691334,
+                "right": 0.5972491019983366,
+                "bottom": 0.5932176623427559
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.5546118357691334,
+                "right": 0.8106054365466377,
+                "bottom": 0.5932176623427559
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.5932176623427559,
+                "right": 0.3600340564827711,
+                "bottom": 0.6313647883169367
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.5932176623427559,
+                "right": 0.5972491019983366,
+                "bottom": 0.6313647883169367
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.5932176623427559,
+                "right": 0.8106054365466377,
+                "bottom": 0.6313647883169367
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.6313647883169367,
+                "right": 0.3600340564827711,
+                "bottom": 0.6712047274548993
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.6313647883169367,
+                "right": 0.5972491019983366,
+                "bottom": 0.6712047274548993
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.6313647883169367,
+                "right": 0.8106054365466377,
+                "bottom": 0.6712047274548993
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.6712047274548993,
+                "right": 0.3600340564827711,
+                "bottom": 0.7130930703095331
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.6712047274548993,
+                "right": 0.5972491019983366,
+                "bottom": 0.7130930703095331
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.6712047274548993,
+                "right": 0.8106054365466377,
+                "bottom": 0.7130930703095331
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.7130930703095331,
+                "right": 0.3600340564827711,
+                "bottom": 0.752777606255087
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.7130930703095331,
+                "right": 0.5972491019983366,
+                "bottom": 0.752777606255087
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.7130930703095331,
+                "right": 0.8106054365466377,
+                "bottom": 0.752777606255087
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.752777606255087,
+                "right": 0.3600340564827711,
+                "bottom": 0.7912057724015824
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.752777606255087,
+                "right": 0.5972491019983366,
+                "bottom": 0.7912057724015824
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.752777606255087,
+                "right": 0.8106054365466377,
+                "bottom": 0.7912057724015824
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.2393417628071821,
+                "top": 0.7912057724015824,
+                "right": 0.3600340564827711,
+                "bottom": 0.8326258332579002
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.3600340564827711,
+                "top": 0.7912057724015824,
+                "right": 0.5972491019983366,
+                "bottom": 0.8326258332579002
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.5972491019983366,
+                "top": 0.7912057724015824,
+                "right": 0.8106054365466377,
+                "bottom": 0.8326258332579002
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "97657cea-0499-44fc-99cd-04c6f281c9b5": {
+            "box": {
+                "left": 0.1305721253156662,
+                "top": 0.9269585609436035,
+                "right": 0.2291121929883957,
+                "bottom": 0.9623905420303345
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "26303781-40c5-4981-ab9c-a1a203e1de30": {
+            "box": {
+                "left": 0.2787255644798279,
+                "top": 0.9688625335693359,
+                "right": 0.7222148776054382,
+                "bottom": 1.0000227689743042
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "zqdj0224_11.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5320,
+        "credit_usage": 3.0,
+        "job_id": "godfayxb7jjzzbqsmhub4f1i8",
+        "version": "dpt-2-20250919"
+    }
+}

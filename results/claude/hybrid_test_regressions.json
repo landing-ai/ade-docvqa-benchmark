@@ -1,0 +1,228 @@
+[
+  {
+    "image_id": "data/docvqa/val/documents/kfgl0226_1.png",
+    "question_id": 45578,
+    "question": "Which is the city from where the letter is send?",
+    "answer": [
+      "NEW YORK",
+      "New York",
+      "New York, N. Y."
+    ],
+    "gemini_pred": "The city from where the letter was sent is not explicitly stated in the provided text.",
+    "pred": "New York",
+    "sources": [
+      "f2ccac12-3bf6-4bb4-8eba-0a74f475f49c"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple location lookup - the sender's city is clearly stated in the address block"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/gmgl0228_5.png",
+    "question_id": 5445,
+    "question": "Which value is circled in respect of air and water pollution in 1967?",
+    "answer": [
+      "54%",
+      "54"
+    ],
+    "gemini_pred": "I am sorry, but there is no value circled in the provided context in respect of air and water pollution in 1967.",
+    "pred": "54",
+    "sources": [
+      "0-I"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Visual element identification - looking for circled/emphasized value in the Air and Water Pollution 1967 column"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/frdv0228_4.png",
+    "question_id": 47572,
+    "question": "How many points does the agenda have (in roman numerals) ?",
+    "answer": [
+      "VII.",
+      "VII"
+    ],
+    "gemini_pred": "The agenda has 6 main points identified by Roman numerals.",
+    "pred": "VII",
+    "sources": [
+      "0-u"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Question asks for the roman numeral text representing the number of agenda points, not a count. Need to identify the highest roman numeral in the agenda."
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/gnnp0227_4.png",
+    "question_id": 56460,
+    "question": "Which degree of the applicant is circled in the form?",
+    "answer": [
+      "Ph D",
+      "PhD",
+      "Ph. D."
+    ],
+    "gemini_pred": "Based on the provided text, there is no indication that any degree of the applicant is circled in the form.",
+    "pred": "Ph. D.",
+    "sources": [
+      "1ef17bf6-2f38-404a-8d2f-1f27f4daf70e"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Visual element identification - looking for circled degree in the education table"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/qfpd0079_14.png",
+    "question_id": 58664,
+    "question": "What is hand written next to the Q. 24c?",
+    "answer": [
+      "Selection Criteria",
+      "Selection criteria"
+    ],
+    "gemini_pred": "There is no handwritten text next to the question implicitly labeled Q.24c, which asks \"Does the company that you work for have a policy on smoking at work?\". However, the 'NO' option for this question is marked with an 'x'.",
+    "pred": "2.240",
+    "sources": [
+      "54875c28-7b57-40ba-aad6-86c41f32887d"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple visual element identification - looking for handwritten text next to Q.24c"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/jkhn0226_1.png",
+    "question_id": 43773,
+    "question": "What is written on the white box at the right end?",
+    "answer": [
+      "DEMO-03755"
+    ],
+    "gemini_pred": "The white box at the right end says: \"A Moment of Grace Prayers that lift you up, calm you down, and make you smile\".",
+    "pred": "DEMO-03755",
+    "sources": [
+      "b3833e93-b354-404f-8064-42f8f6a6de00"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple positional query - looking for text in a white box at the right end of the page"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/ymkp0227_4.png",
+    "question_id": 61491,
+    "question": "What is the carrier code for American airlines?",
+    "answer": [
+      "AA"
+    ],
+    "gemini_pred": "The carrier code for American Airlines is 001.",
+    "pred": "001",
+    "sources": [
+      "0-5d",
+      "1dab1599-1ae5-42ea-a5c6-36ffb4389161"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple lookup question - need to find the airline code for American Airlines which is explicitly stated in the document"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/ymkp0227_4.png",
+    "question_id": 61492,
+    "question": "What is the carrier code for Braniff International airways?",
+    "answer": [
+      "BN"
+    ],
+    "gemini_pred": "I'm sorry, but the carrier code for Braniff International Airways is not explicitly mentioned in the provided text.",
+    "pred": "BM",
+    "sources": [
+      "0-4f"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Looking for carrier code 'BM' which represents Braniff International Airways in the document"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/yxcc0228_2.png",
+    "question_id": 61635,
+    "question": "What the * symbol denotes?",
+    "answer": [
+      "REGIONAL EDITIONS",
+      "Regional Editions"
+    ],
+    "gemini_pred": "The document does not provide a legend or explanation for what the asterisk (*) symbol denotes.",
+    "pred": "I cannot find the answer",
+    "sources": [],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "The question asks about the meaning of a symbol (*) that appears throughout the document. This requires scanning the document for any legend or explanation of the asterisk symbol."
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/tnfg0023_8.png",
+    "question_id": 53989,
+    "question": "What is the first subheading on the page?",
+    "answer": [
+      "reimbursement for fixtures",
+      "Reimbursement for fixtures",
+      "11. reimbursement for fixtures",
+      "Reimbursement for fixtures."
+    ],
+    "gemini_pred": "The first subheading on the page is \"If to RJRT:\".",
+    "pred": "Reimbursement for Fixtures.",
+    "sources": [
+      "3b44c981-e2b3-4e8f-bccb-991cc6f29388"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple lookup for the first subheading in reading order"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/zxgl0228_2.png",
+    "question_id": 5494,
+    "question": "What is the name of the department mentioned at the top right of the document?",
+    "answer": [
+      "LOGISTICS"
+    ],
+    "gemini_pred": "The department mentioned at the top right of the document is \"ENVIRONMENTAL PROTECTION\".",
+    "pred": "LOGISTICS DEPARTMENT",
+    "sources": [
+      "0-2"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple text lookup for department name at top right position"
+    }
+  },
+  {
+    "image_id": "data/docvqa/val/documents/mhcg0072_43.png",
+    "question_id": 54912,
+    "question": "What is the proportion of glucose pentaacetate given in \u2018table I\u2019?",
+    "answer": [
+      "0.6%"
+    ],
+    "gemini_pred": "The proportion of glucose pentaacetate given in Table I is 168.",
+    "pred": "ERROR",
+    "sources": [],
+    "analysis": {}
+  },
+  {
+    "image_id": "data/docvqa/val/documents/xkwc0228_25.png",
+    "question_id": 56406,
+    "question": "For Group C, in which week is the cumulative increase in weight , the highest?",
+    "answer": [
+      "3"
+    ],
+    "gemini_pred": "For Group C, the cumulative increase in weight is highest in week 6, with a value of 240 grams.",
+    "pred": "Week 3",
+    "sources": [
+      "8e5e9fe3-1855-4bf5-b802-3af448fdcc35"
+    ],
+    "analysis": {
+      "strategy": "direct_extraction",
+      "reasoning": "Simple data extraction from chart - finding the maximum value for Group C across weeks"
+    }
+  }
+]

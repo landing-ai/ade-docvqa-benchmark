@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='f5fca22a-8c80-4fb3-9351-f9d1830a9064'></a>\n\n<::A black and white advertisement poster with a distressed aesthetic. The left side features the large, stylized word \"SMOOTH\" diagonally, followed by \"Foolproof dating advice\" and \"SMOOTH MOVE #325\". The right side features the text \"Smooth character\" with an illustration of a cigarette in a holder, followed by \"How to impress someone at the beach\" and \"SMOOTH MOVE #45325\". Below the main poster, there is a small illustration of a crowd of people. The background is black with white text and abstract white lines and shapes: poster and illustration::>\n\nNever date a woman named Dave.\nNever date a woman who has\n\n1. Run into the water, grab someone and drag her back\nto the shore, as if you've saved her from drowning.\nTh\n\n<a id='3aa3566f-ecb0-425d-a220-55c6ebae0dc9'></a>\n\nNever date a woman named Dave.\nNever date a woman who has\n12 older brothers.\nNever date a woman whose\nfather is called \"Captain.\"\nAlways break the ice\nby offering her a Camel.\n\nREYNOLDS TOBACCO CO\n\nSURGEON GENERAL'S WARNING: Cigarette\nSmoke Contains Carbon Monoxide.\n\nL69E 69EIS\n\n<::A black and white image showing a group of people, predominantly men, with one woman smiling in the center of the group. In the foreground, a man with dark hair and sunglasses is partially visible, smoking a cigarette. The style is high contrast, typical of an advertisement.: figure::>\n\n<a id='e14e3617-8141-4e6e-8ed0-d9f7863e7277'></a>\n\n1. Run into the water, grab someone and drag her back\nto the shore, as if you've saved her from drowning.\nThe more she kicks and screams, the better.\n2. If you're overweight, lie on\na towel with vertical stripes.\n3. If you're underweight, lie on\na towel with horizontal stripes.\n4. Always have plenty of Camels\nready when the beach\nparty begins.\n\nLOOK FOR MORE\nSMOOTH MOVES\nCOMING YOUR\nWAY SOON.\n\n<a id='03f196c9-700c-47a2-8870-e1bc7d799207'></a>\n\n<::logo: Unidentifiable\nNo readable text\nThe logo consists of a small, dark, trapezoidal shape with white speckles inside, set against a white background.::>",
+    "chunks": [
+        {
+            "markdown": "<a id='f5fca22a-8c80-4fb3-9351-f9d1830a9064'></a>\n\n<::A black and white advertisement poster with a distressed aesthetic. The left side features the large, stylized word \"SMOOTH\" diagonally, followed by \"Foolproof dating advice\" and \"SMOOTH MOVE #325\". The right side features the text \"Smooth character\" with an illustration of a cigarette in a holder, followed by \"How to impress someone at the beach\" and \"SMOOTH MOVE #45325\". Below the main poster, there is a small illustration of a crowd of people. The background is black with white text and abstract white lines and shapes: poster and illustration::>\n\nNever date a woman named Dave.\nNever date a woman who has\n\n1. Run into the water, grab someone and drag her back\nto the shore, as if you've saved her from drowning.\nTh",
+            "type": "figure",
+            "id": "f5fca22a-8c80-4fb3-9351-f9d1830a9064",
+            "grounding": {
+                "box": {
+                    "left": 0.06538313627243042,
+                    "top": 0.0023450255393981934,
+                    "right": 0.9296807050704956,
+                    "bottom": 0.5743691921234131
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3aa3566f-ecb0-425d-a220-55c6ebae0dc9'></a>\n\nNever date a woman named Dave.\nNever date a woman who has\n12 older brothers.\nNever date a woman whose\nfather is called \"Captain.\"\nAlways break the ice\nby offering her a Camel.\n\nREYNOLDS TOBACCO CO\n\nSURGEON GENERAL'S WARNING: Cigarette\nSmoke Contains Carbon Monoxide.\n\nL69E 69EIS\n\n<::A black and white image showing a group of people, predominantly men, with one woman smiling in the center of the group. In the foreground, a man with dark hair and sunglasses is partially visible, smoking a cigarette. The style is high contrast, typical of an advertisement.: figure::>",
+            "type": "figure",
+            "id": "3aa3566f-ecb0-425d-a220-55c6ebae0dc9",
+            "grounding": {
+                "box": {
+                    "left": 0.06843174993991852,
+                    "top": 0.5135267972946167,
+                    "right": 0.5077267289161682,
+                    "bottom": 0.9712144136428833
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e14e3617-8141-4e6e-8ed0-d9f7863e7277'></a>\n\n1. Run into the water, grab someone and drag her back\nto the shore, as if you've saved her from drowning.\nThe more she kicks and screams, the better.\n2. If you're overweight, lie on\na towel with vertical stripes.\n3. If you're underweight, lie on\na towel with horizontal stripes.\n4. Always have plenty of Camels\nready when the beach\nparty begins.\n\nLOOK FOR MORE\nSMOOTH MOVES\nCOMING YOUR\nWAY SOON.",
+            "type": "text",
+            "id": "e14e3617-8141-4e6e-8ed0-d9f7863e7277",
+            "grounding": {
+                "box": {
+                    "left": 0.5230221748352051,
+                    "top": 0.5208250880241394,
+                    "right": 0.9320658445358276,
+                    "bottom": 0.9998417496681213
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='03f196c9-700c-47a2-8870-e1bc7d799207'></a>\n\n<::logo: Unidentifiable\nNo readable text\nThe logo consists of a small, dark, trapezoidal shape with white speckles inside, set against a white background.::>",
+            "type": "logo",
+            "id": "03f196c9-700c-47a2-8870-e1bc7d799207",
+            "grounding": {
+                "box": {
+                    "left": 0.42812275886535645,
+                    "top": 0.9682888984680176,
+                    "right": 0.4750998616218567,
+                    "bottom": 0.9962434768676758
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='f5fca22a-8c80-4fb3-9351-f9d1830a9064'></a>\n\n<::A black and white advertisement poster with a distressed aesthetic. The left side features the large, stylized word \"SMOOTH\" diagonally, followed by \"Foolproof dating advice\" and \"SMOOTH MOVE #325\". The right side features the text \"Smooth character\" with an illustration of a cigarette in a holder, followed by \"How to impress someone at the beach\" and \"SMOOTH MOVE #45325\". Below the main poster, there is a small illustration of a crowd of people. The background is black with white text and abstract white lines and shapes: poster and illustration::>\n\nNever date a woman named Dave.\nNever date a woman who has\n\n1. Run into the water, grab someone and drag her back\nto the shore, as if you've saved her from drowning.\nTh\n\n<a id='3aa3566f-ecb0-425d-a220-55c6ebae0dc9'></a>\n\nNever date a woman named Dave.\nNever date a woman who has\n12 older brothers.\nNever date a woman whose\nfather is called \"Captain.\"\nAlways break the ice\nby offering her a Camel.\n\nREYNOLDS TOBACCO CO\n\nSURGEON GENERAL'S WARNING: Cigarette\nSmoke Contains Carbon Monoxide.\n\nL69E 69EIS\n\n<::A black and white image showing a group of people, predominantly men, with one woman smiling in the center of the group. In the foreground, a man with dark hair and sunglasses is partially visible, smoking a cigarette. The style is high contrast, typical of an advertisement.: figure::>\n\n<a id='e14e3617-8141-4e6e-8ed0-d9f7863e7277'></a>\n\n1. Run into the water, grab someone and drag her back\nto the shore, as if you've saved her from drowning.\nThe more she kicks and screams, the better.\n2. If you're overweight, lie on\na towel with vertical stripes.\n3. If you're underweight, lie on\na towel with horizontal stripes.\n4. Always have plenty of Camels\nready when the beach\nparty begins.\n\nLOOK FOR MORE\nSMOOTH MOVES\nCOMING YOUR\nWAY SOON.\n\n<a id='03f196c9-700c-47a2-8870-e1bc7d799207'></a>\n\n<::logo: Unidentifiable\nNo readable text\nThe logo consists of a small, dark, trapezoidal shape with white speckles inside, set against a white background.::>",
+            "chunks": [
+                "f5fca22a-8c80-4fb3-9351-f9d1830a9064",
+                "3aa3566f-ecb0-425d-a220-55c6ebae0dc9",
+                "e14e3617-8141-4e6e-8ed0-d9f7863e7277",
+                "03f196c9-700c-47a2-8870-e1bc7d799207"
+            ]
+        }
+    ],
+    "grounding": {
+        "f5fca22a-8c80-4fb3-9351-f9d1830a9064": {
+            "box": {
+                "left": 0.06538313627243042,
+                "top": 0.0023450255393981934,
+                "right": 0.9296807050704956,
+                "bottom": 0.5743691921234131
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "3aa3566f-ecb0-425d-a220-55c6ebae0dc9": {
+            "box": {
+                "left": 0.06843174993991852,
+                "top": 0.5135267972946167,
+                "right": 0.5077267289161682,
+                "bottom": 0.9712144136428833
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "e14e3617-8141-4e6e-8ed0-d9f7863e7277": {
+            "box": {
+                "left": 0.5230221748352051,
+                "top": 0.5208250880241394,
+                "right": 0.9320658445358276,
+                "bottom": 0.9998417496681213
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "03f196c9-700c-47a2-8870-e1bc7d799207": {
+            "box": {
+                "left": 0.42812275886535645,
+                "top": 0.9682888984680176,
+                "right": 0.4750998616218567,
+                "bottom": 0.9962434768676758
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        }
+    },
+    "metadata": {
+        "filename": "qhym0081_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 26756,
+        "credit_usage": 3.0,
+        "job_id": "zugf0ek8rajwrlex50iokb3rk",
+        "version": "dpt-2-20250919"
+    }
+}

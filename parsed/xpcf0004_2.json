@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='a30f5fab-6501-460b-877b-164680210c14'></a>\n\nRESPONSE CODE REQUEST\nPage 2\n\n<a id='12de42ea-d313-4729-978f-fb752584b0ae'></a>\n\nCompleted By: Joyce Bagby\n---\n\n<a id='95e7f350-5bc3-4891-b290-2ad17757d15d'></a>\n\nDate: June 23, 1997\n\n<a id='ebc984c4-0612-4c0e-aaaf-5f633bc4fcd6'></a>\n\nBRC: Z86\n\nSystem: Corporate\n\nConversion Program: NA\n\nProgram Group: 0\n\nSource: 28\n\nType: A\n\nClub Affiliation: NA\n\nClub Status: NA\n\nMFID: NA\n\nSpec. Processes: ---\n\nPriority Code: ---\n\nDuplicate PIDS: ---\n\n<a id='52e9dfea-780a-45e9-8b4e-4e00b213e9f3'></a>\n\nUSE THIS SIDE FOR CONVERSION\nOR CONSUMER MISSION\n\nCPBRC Special Process ___\n\nEVENT HISTORY\n\nDefault Conv. SRC ___\nDefault Event ___\n\nCPBRC DETAIL\n\nBounceback Routine ___\nBB Spec. Process ___\nPromoting Brand ___\nCall Routine ___\nProgram Routine ___\nTargeting Routine ___\nStatus ___\nFlow ___\n\n<a id='9463228b-df3e-473c-a72d-510127cbcdd0'></a>\n\nCOMMENTS\n\n<a id='6e15b81e-0d3f-48a6-9493-b80ca77bdbdf'></a>\n\nHelpful Hints:\nSystem = Brand Sub-system(s) if this code is for evaluation and/or entry into conversion pgm.\nSystem = Conversion Sub-system if this code is for response to mailings from conversion pgm.\nSpecial Processes: 800 = Personal Selling source / 830 = Flow 2 (Ret/Med/Cont) source.\nDefault Event = \"BRC\" for Flow 2 (Ret/Med/Cont) sources.\n\n<a id='f370fb4f-ce35-4da9-ae56-8beeb761d601'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xpcf0004\n\n<a id='5f9dfb53-d744-4ebd-9f51-535e6b29e737'></a>\n\n52266 1972",
+    "chunks": [
+        {
+            "markdown": "<a id='a30f5fab-6501-460b-877b-164680210c14'></a>\n\nRESPONSE CODE REQUEST\nPage 2",
+            "type": "text",
+            "id": "a30f5fab-6501-460b-877b-164680210c14",
+            "grounding": {
+                "box": {
+                    "left": 0.3240705728530884,
+                    "top": 0.035305365920066833,
+                    "right": 0.5935879349708557,
+                    "bottom": 0.07499387860298157
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='12de42ea-d313-4729-978f-fb752584b0ae'></a>\n\nCompleted By: Joyce Bagby\n---",
+            "type": "text",
+            "id": "12de42ea-d313-4729-978f-fb752584b0ae",
+            "grounding": {
+                "box": {
+                    "left": 0.03463605046272278,
+                    "top": 0.09585787355899811,
+                    "right": 0.5493742227554321,
+                    "bottom": 0.11889205873012543
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='95e7f350-5bc3-4891-b290-2ad17757d15d'></a>\n\nDate: June 23, 1997",
+            "type": "text",
+            "id": "95e7f350-5bc3-4891-b290-2ad17757d15d",
+            "grounding": {
+                "box": {
+                    "left": 0.5696114301681519,
+                    "top": 0.09471258521080017,
+                    "right": 0.8871645927429199,
+                    "bottom": 0.11702220141887665
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ebc984c4-0612-4c0e-aaaf-5f633bc4fcd6'></a>\n\nBRC: Z86\n\nSystem: Corporate\n\nConversion Program: NA\n\nProgram Group: 0\n\nSource: 28\n\nType: A\n\nClub Affiliation: NA\n\nClub Status: NA\n\nMFID: NA\n\nSpec. Processes: ---\n\nPriority Code: ---\n\nDuplicate PIDS: ---",
+            "type": "text",
+            "id": "ebc984c4-0612-4c0e-aaaf-5f633bc4fcd6",
+            "grounding": {
+                "box": {
+                    "left": 0.035176828503608704,
+                    "top": 0.12386578321456909,
+                    "right": 0.4667150378227234,
+                    "bottom": 0.5551311373710632
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='52e9dfea-780a-45e9-8b4e-4e00b213e9f3'></a>\n\nUSE THIS SIDE FOR CONVERSION\nOR CONSUMER MISSION\n\nCPBRC Special Process ___\n\nEVENT HISTORY\n\nDefault Conv. SRC ___\nDefault Event ___\n\nCPBRC DETAIL\n\nBounceback Routine ___\nBB Spec. Process ___\nPromoting Brand ___\nCall Routine ___\nProgram Routine ___\nTargeting Routine ___\nStatus ___\nFlow ___",
+            "type": "text",
+            "id": "52e9dfea-780a-45e9-8b4e-4e00b213e9f3",
+            "grounding": {
+                "box": {
+                    "left": 0.4589189291000366,
+                    "top": 0.12252023816108704,
+                    "right": 0.8907978534698486,
+                    "bottom": 0.5532243251800537
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9463228b-df3e-473c-a72d-510127cbcdd0'></a>\n\nCOMMENTS",
+            "type": "text",
+            "id": "9463228b-df3e-473c-a72d-510127cbcdd0",
+            "grounding": {
+                "box": {
+                    "left": 0.040517717599868774,
+                    "top": 0.5482122898101807,
+                    "right": 0.890744686126709,
+                    "bottom": 0.8292120695114136
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6e15b81e-0d3f-48a6-9493-b80ca77bdbdf'></a>\n\nHelpful Hints:\nSystem = Brand Sub-system(s) if this code is for evaluation and/or entry into conversion pgm.\nSystem = Conversion Sub-system if this code is for response to mailings from conversion pgm.\nSpecial Processes: 800 = Personal Selling source / 830 = Flow 2 (Ret/Med/Cont) source.\nDefault Event = \"BRC\" for Flow 2 (Ret/Med/Cont) sources.",
+            "type": "text",
+            "id": "6e15b81e-0d3f-48a6-9493-b80ca77bdbdf",
+            "grounding": {
+                "box": {
+                    "left": 0.04546663165092468,
+                    "top": 0.8392431735992432,
+                    "right": 0.8195830583572388,
+                    "bottom": 0.9076939821243286
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f370fb4f-ce35-4da9-ae56-8beeb761d601'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xpcf0004",
+            "type": "marginalia",
+            "id": "f370fb4f-ce35-4da9-ae56-8beeb761d601",
+            "grounding": {
+                "box": {
+                    "left": 0.21565741300582886,
+                    "top": 0.9763755798339844,
+                    "right": 0.7859055399894714,
+                    "bottom": 0.9998496770858765
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5f9dfb53-d744-4ebd-9f51-535e6b29e737'></a>\n\n52266 1972",
+            "type": "marginalia",
+            "id": "5f9dfb53-d744-4ebd-9f51-535e6b29e737",
+            "grounding": {
+                "box": {
+                    "left": 0.9129524827003479,
+                    "top": 0.8080630898475647,
+                    "right": 0.9383878111839294,
+                    "bottom": 0.9071175456047058
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a30f5fab-6501-460b-877b-164680210c14'></a>\n\nRESPONSE CODE REQUEST\nPage 2\n\n<a id='12de42ea-d313-4729-978f-fb752584b0ae'></a>\n\nCompleted By: Joyce Bagby\n---\n\n<a id='95e7f350-5bc3-4891-b290-2ad17757d15d'></a>\n\nDate: June 23, 1997\n\n<a id='ebc984c4-0612-4c0e-aaaf-5f633bc4fcd6'></a>\n\nBRC: Z86\n\nSystem: Corporate\n\nConversion Program: NA\n\nProgram Group: 0\n\nSource: 28\n\nType: A\n\nClub Affiliation: NA\n\nClub Status: NA\n\nMFID: NA\n\nSpec. Processes: ---\n\nPriority Code: ---\n\nDuplicate PIDS: ---\n\n<a id='52e9dfea-780a-45e9-8b4e-4e00b213e9f3'></a>\n\nUSE THIS SIDE FOR CONVERSION\nOR CONSUMER MISSION\n\nCPBRC Special Process ___\n\nEVENT HISTORY\n\nDefault Conv. SRC ___\nDefault Event ___\n\nCPBRC DETAIL\n\nBounceback Routine ___\nBB Spec. Process ___\nPromoting Brand ___\nCall Routine ___\nProgram Routine ___\nTargeting Routine ___\nStatus ___\nFlow ___\n\n<a id='9463228b-df3e-473c-a72d-510127cbcdd0'></a>\n\nCOMMENTS\n\n<a id='6e15b81e-0d3f-48a6-9493-b80ca77bdbdf'></a>\n\nHelpful Hints:\nSystem = Brand Sub-system(s) if this code is for evaluation and/or entry into conversion pgm.\nSystem = Conversion Sub-system if this code is for response to mailings from conversion pgm.\nSpecial Processes: 800 = Personal Selling source / 830 = Flow 2 (Ret/Med/Cont) source.\nDefault Event = \"BRC\" for Flow 2 (Ret/Med/Cont) sources.\n\n<a id='f370fb4f-ce35-4da9-ae56-8beeb761d601'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xpcf0004\n\n<a id='5f9dfb53-d744-4ebd-9f51-535e6b29e737'></a>\n\n52266 1972",
+            "chunks": [
+                "a30f5fab-6501-460b-877b-164680210c14",
+                "12de42ea-d313-4729-978f-fb752584b0ae",
+                "95e7f350-5bc3-4891-b290-2ad17757d15d",
+                "ebc984c4-0612-4c0e-aaaf-5f633bc4fcd6",
+                "52e9dfea-780a-45e9-8b4e-4e00b213e9f3",
+                "9463228b-df3e-473c-a72d-510127cbcdd0",
+                "6e15b81e-0d3f-48a6-9493-b80ca77bdbdf",
+                "f370fb4f-ce35-4da9-ae56-8beeb761d601",
+                "5f9dfb53-d744-4ebd-9f51-535e6b29e737"
+            ]
+        }
+    ],
+    "grounding": {
+        "a30f5fab-6501-460b-877b-164680210c14": {
+            "box": {
+                "left": 0.3240705728530884,
+                "top": 0.035305365920066833,
+                "right": 0.5935879349708557,
+                "bottom": 0.07499387860298157
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "12de42ea-d313-4729-978f-fb752584b0ae": {
+            "box": {
+                "left": 0.03463605046272278,
+                "top": 0.09585787355899811,
+                "right": 0.5493742227554321,
+                "bottom": 0.11889205873012543
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "95e7f350-5bc3-4891-b290-2ad17757d15d": {
+            "box": {
+                "left": 0.5696114301681519,
+                "top": 0.09471258521080017,
+                "right": 0.8871645927429199,
+                "bottom": 0.11702220141887665
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ebc984c4-0612-4c0e-aaaf-5f633bc4fcd6": {
+            "box": {
+                "left": 0.035176828503608704,
+                "top": 0.12386578321456909,
+                "right": 0.4667150378227234,
+                "bottom": 0.5551311373710632
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "52e9dfea-780a-45e9-8b4e-4e00b213e9f3": {
+            "box": {
+                "left": 0.4589189291000366,
+                "top": 0.12252023816108704,
+                "right": 0.8907978534698486,
+                "bottom": 0.5532243251800537
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9463228b-df3e-473c-a72d-510127cbcdd0": {
+            "box": {
+                "left": 0.040517717599868774,
+                "top": 0.5482122898101807,
+                "right": 0.890744686126709,
+                "bottom": 0.8292120695114136
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6e15b81e-0d3f-48a6-9493-b80ca77bdbdf": {
+            "box": {
+                "left": 0.04546663165092468,
+                "top": 0.8392431735992432,
+                "right": 0.8195830583572388,
+                "bottom": 0.9076939821243286
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f370fb4f-ce35-4da9-ae56-8beeb761d601": {
+            "box": {
+                "left": 0.21565741300582886,
+                "top": 0.9763755798339844,
+                "right": 0.7859055399894714,
+                "bottom": 0.9998496770858765
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "5f9dfb53-d744-4ebd-9f51-535e6b29e737": {
+            "box": {
+                "left": 0.9129524827003479,
+                "top": 0.8080630898475647,
+                "right": 0.9383878111839294,
+                "bottom": 0.9071175456047058
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xpcf0004_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4983,
+        "credit_usage": 3.0,
+        "job_id": "mu8accengl8aeqsbg1m6jo7h8",
+        "version": "dpt-2-20250919"
+    }
+}

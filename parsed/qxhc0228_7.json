@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='56894ad3-e7e8-4e54-950c-79b5d6151141'></a>\n\nHoward\n212\n593-4503\n\n<a id='e4e824a3-3e7b-4ab7-84be-e3af36b05f4d'></a>\n\n4 90 M Sw.\nW705\nfood 6th St SW-",
+    "chunks": [
+        {
+            "markdown": "<a id='56894ad3-e7e8-4e54-950c-79b5d6151141'></a>\n\nHoward\n212\n593-4503",
+            "type": "text",
+            "id": "56894ad3-e7e8-4e54-950c-79b5d6151141",
+            "grounding": {
+                "box": {
+                    "left": 0.03501151502132416,
+                    "top": 0.00990365445613861,
+                    "right": 0.3706175684928894,
+                    "bottom": 0.15616343915462494
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e4e824a3-3e7b-4ab7-84be-e3af36b05f4d'></a>\n\n4 90 M Sw.\nW705\nfood 6th St SW-",
+            "type": "text",
+            "id": "e4e824a3-3e7b-4ab7-84be-e3af36b05f4d",
+            "grounding": {
+                "box": {
+                    "left": 0.052397772669792175,
+                    "top": 0.1955423355102539,
+                    "right": 0.33515918254852295,
+                    "bottom": 0.34720903635025024
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='56894ad3-e7e8-4e54-950c-79b5d6151141'></a>\n\nHoward\n212\n593-4503\n\n<a id='e4e824a3-3e7b-4ab7-84be-e3af36b05f4d'></a>\n\n4 90 M Sw.\nW705\nfood 6th St SW-",
+            "chunks": [
+                "56894ad3-e7e8-4e54-950c-79b5d6151141",
+                "e4e824a3-3e7b-4ab7-84be-e3af36b05f4d"
+            ]
+        }
+    ],
+    "grounding": {
+        "56894ad3-e7e8-4e54-950c-79b5d6151141": {
+            "box": {
+                "left": 0.03501151502132416,
+                "top": 0.00990365445613861,
+                "right": 0.3706175684928894,
+                "bottom": 0.15616343915462494
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e4e824a3-3e7b-4ab7-84be-e3af36b05f4d": {
+            "box": {
+                "left": 0.052397772669792175,
+                "top": 0.1955423355102539,
+                "right": 0.33515918254852295,
+                "bottom": 0.34720903635025024
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qxhc0228_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3264,
+        "credit_usage": 3.0,
+        "job_id": "b3klkq4y738zfdj0d027wm9hh",
+        "version": "dpt-2-20250919"
+    }
+}

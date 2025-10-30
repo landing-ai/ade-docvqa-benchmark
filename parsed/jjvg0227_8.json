@@ -1,0 +1,953 @@
+{
+    "markdown": "<a id='d2d93424-2569-47c4-9306-982c2fc6da21'></a>\n\nMissouri Food Donation Program\nBy MASW Divisions and Counties\n\n<a id='a2599592-a990-4dfc-9053-89c1a182006b'></a>\n\nPage 8\nJanuary, 1970\n\n<a id='ad06972b-1a25-4ee1-89e2-0c5749011086'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">COUNTY</td><td id=\"0-3\">Population (1)</td><td id=\"0-4\">Families In Poverty (2)</td><td id=\"0-5\">Estimated Population In Poverty (3)</td><td id=\"0-6\" colspan=\"2\">Participants In Food Donation Program (4)</td><td id=\"0-7\">Public Assistance Recipients (5)</td><td id=\"0-8\">Public Assistance Participants In Food Donation Program (6)</td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\">No.</td><td id=\"0-b\">%</td><td id=\"0-c\">No.</td><td id=\"0-d\">No.</td><td id=\"0-e\">% Col.(3)</td><td id=\"0-f\">No.</td><td id=\"0-g\">No. % Col.(5)</td></tr>\n<tr><td id=\"0-h\">Henry</td><td id=\"0-i\">19,000</td><td id=\"0-j\">21.0</td><td id=\"0-k\">3,990</td><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">1,018</td><td id=\"0-o\"></td></tr>\n<tr><td id=\"0-p\">Johnson</td><td id=\"0-q\">34,500</td><td id=\"0-r\">21.2</td><td id=\"0-s\">7,314</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">690</td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">Lafayette</td><td id=\"0-y\">26,800</td><td id=\"0-z\">19.3</td><td id=\"0-A\">5,172</td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\">887</td><td id=\"0-E\"></td></tr>\n<tr><td id=\"0-F\">Miller</td><td id=\"0-G\">14,700</td><td id=\"0-H\">24.4</td><td id=\"0-I\">3,586</td><td id=\"0-J\"></td><td id=\"0-K\"></td><td id=\"0-L\">965</td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">Moniteau</td><td id=\"0-O\">10,500</td><td id=\"0-P\">22.5</td><td id=\"0-Q\">2,362</td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\">618</td><td id=\"0-U\"></td></tr>\n<tr><td id=\"0-V\">Morgan</td><td id=\"0-W\">9,800</td><td id=\"0-X\">25.9</td><td id=\"0-Y\">2,538</td><td id=\"0-Z\"></td><td id=\"0-10\"></td><td id=\"0-11\">696</td><td id=\"0-12\"></td></tr>\n<tr><td id=\"0-13\">Pettis</td><td id=\"0-14\">32,500</td><td id=\"0-15\">18.4</td><td id=\"0-16\">5,980</td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\">1,784</td><td id=\"0-1a\"></td></tr>\n<tr><td id=\"0-1b\">Saline</td><td id=\"0-1c\">26,000</td><td id=\"0-1d\">17.5</td><td id=\"0-1e\">4,550</td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\">1,280</td><td id=\"0-1i\"></td></tr>\n</table>\n\n<a id='7bdf8b41-f16c-4517-b73f-dff1777a71bb'></a>\n\nFootnotes:\n\n(1) Estimates by the Bureau of the Census, 1966.\n(2) OEO Community Profile Data, 1966.\n(3) MASW Estimate of Persons in Poverty, 1970.\n(4) Missouri Division of Welfare, Monthly Report, November, 1969.\n(5) Missouri Division of Welfare, Monthly Administrative Analysis, October, 1969.\n(6) Missouri Division of Welfare, Monthly Report, November, 1969.\n\n<a id='97ca008a-3110-4a01-9517-7579ec033062'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jjvg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='d2d93424-2569-47c4-9306-982c2fc6da21'></a>\n\nMissouri Food Donation Program\nBy MASW Divisions and Counties",
+            "type": "text",
+            "id": "d2d93424-2569-47c4-9306-982c2fc6da21",
+            "grounding": {
+                "box": {
+                    "left": 0.047648362815380096,
+                    "top": 0.08971334993839264,
+                    "right": 0.28068751096725464,
+                    "bottom": 0.1343352496623993
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a2599592-a990-4dfc-9053-89c1a182006b'></a>\n\nPage 8\nJanuary, 1970",
+            "type": "text",
+            "id": "a2599592-a990-4dfc-9053-89c1a182006b",
+            "grounding": {
+                "box": {
+                    "left": 0.810882031917572,
+                    "top": 0.08918017148971558,
+                    "right": 0.9165924191474915,
+                    "bottom": 0.1347869485616684
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ad06972b-1a25-4ee1-89e2-0c5749011086'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">COUNTY</td><td id=\"0-3\">Population (1)</td><td id=\"0-4\">Families In Poverty (2)</td><td id=\"0-5\">Estimated Population In Poverty (3)</td><td id=\"0-6\" colspan=\"2\">Participants In Food Donation Program (4)</td><td id=\"0-7\">Public Assistance Recipients (5)</td><td id=\"0-8\">Public Assistance Participants In Food Donation Program (6)</td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\">No.</td><td id=\"0-b\">%</td><td id=\"0-c\">No.</td><td id=\"0-d\">No.</td><td id=\"0-e\">% Col.(3)</td><td id=\"0-f\">No.</td><td id=\"0-g\">No. % Col.(5)</td></tr>\n<tr><td id=\"0-h\">Henry</td><td id=\"0-i\">19,000</td><td id=\"0-j\">21.0</td><td id=\"0-k\">3,990</td><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">1,018</td><td id=\"0-o\"></td></tr>\n<tr><td id=\"0-p\">Johnson</td><td id=\"0-q\">34,500</td><td id=\"0-r\">21.2</td><td id=\"0-s\">7,314</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">690</td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">Lafayette</td><td id=\"0-y\">26,800</td><td id=\"0-z\">19.3</td><td id=\"0-A\">5,172</td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\">887</td><td id=\"0-E\"></td></tr>\n<tr><td id=\"0-F\">Miller</td><td id=\"0-G\">14,700</td><td id=\"0-H\">24.4</td><td id=\"0-I\">3,586</td><td id=\"0-J\"></td><td id=\"0-K\"></td><td id=\"0-L\">965</td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">Moniteau</td><td id=\"0-O\">10,500</td><td id=\"0-P\">22.5</td><td id=\"0-Q\">2,362</td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\">618</td><td id=\"0-U\"></td></tr>\n<tr><td id=\"0-V\">Morgan</td><td id=\"0-W\">9,800</td><td id=\"0-X\">25.9</td><td id=\"0-Y\">2,538</td><td id=\"0-Z\"></td><td id=\"0-10\"></td><td id=\"0-11\">696</td><td id=\"0-12\"></td></tr>\n<tr><td id=\"0-13\">Pettis</td><td id=\"0-14\">32,500</td><td id=\"0-15\">18.4</td><td id=\"0-16\">5,980</td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\">1,784</td><td id=\"0-1a\"></td></tr>\n<tr><td id=\"0-1b\">Saline</td><td id=\"0-1c\">26,000</td><td id=\"0-1d\">17.5</td><td id=\"0-1e\">4,550</td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\">1,280</td><td id=\"0-1i\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "ad06972b-1a25-4ee1-89e2-0c5749011086",
+            "grounding": {
+                "box": {
+                    "left": 0.043849557638168335,
+                    "top": 0.15992052853107452,
+                    "right": 0.9820345640182495,
+                    "bottom": 0.5924506783485413
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7bdf8b41-f16c-4517-b73f-dff1777a71bb'></a>\n\nFootnotes:\n\n(1) Estimates by the Bureau of the Census, 1966.\n(2) OEO Community Profile Data, 1966.\n(3) MASW Estimate of Persons in Poverty, 1970.\n(4) Missouri Division of Welfare, Monthly Report, November, 1969.\n(5) Missouri Division of Welfare, Monthly Administrative Analysis, October, 1969.\n(6) Missouri Division of Welfare, Monthly Report, November, 1969.",
+            "type": "text",
+            "id": "7bdf8b41-f16c-4517-b73f-dff1777a71bb",
+            "grounding": {
+                "box": {
+                    "left": 0.05458629131317139,
+                    "top": 0.6338040828704834,
+                    "right": 0.6847341060638428,
+                    "bottom": 0.8891376256942749
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='97ca008a-3110-4a01-9517-7579ec033062'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jjvg0227",
+            "type": "marginalia",
+            "id": "97ca008a-3110-4a01-9517-7579ec033062",
+            "grounding": {
+                "box": {
+                    "left": 0.2898767590522766,
+                    "top": 0.9740900993347168,
+                    "right": 0.7123580574989319,
+                    "bottom": 0.9994093179702759
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d2d93424-2569-47c4-9306-982c2fc6da21'></a>\n\nMissouri Food Donation Program\nBy MASW Divisions and Counties\n\n<a id='a2599592-a990-4dfc-9053-89c1a182006b'></a>\n\nPage 8\nJanuary, 1970\n\n<a id='ad06972b-1a25-4ee1-89e2-0c5749011086'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">COUNTY</td><td id=\"0-3\">Population (1)</td><td id=\"0-4\">Families In Poverty (2)</td><td id=\"0-5\">Estimated Population In Poverty (3)</td><td id=\"0-6\" colspan=\"2\">Participants In Food Donation Program (4)</td><td id=\"0-7\">Public Assistance Recipients (5)</td><td id=\"0-8\">Public Assistance Participants In Food Donation Program (6)</td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\">No.</td><td id=\"0-b\">%</td><td id=\"0-c\">No.</td><td id=\"0-d\">No.</td><td id=\"0-e\">% Col.(3)</td><td id=\"0-f\">No.</td><td id=\"0-g\">No. % Col.(5)</td></tr>\n<tr><td id=\"0-h\">Henry</td><td id=\"0-i\">19,000</td><td id=\"0-j\">21.0</td><td id=\"0-k\">3,990</td><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">1,018</td><td id=\"0-o\"></td></tr>\n<tr><td id=\"0-p\">Johnson</td><td id=\"0-q\">34,500</td><td id=\"0-r\">21.2</td><td id=\"0-s\">7,314</td><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">690</td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">Lafayette</td><td id=\"0-y\">26,800</td><td id=\"0-z\">19.3</td><td id=\"0-A\">5,172</td><td id=\"0-B\"></td><td id=\"0-C\"></td><td id=\"0-D\">887</td><td id=\"0-E\"></td></tr>\n<tr><td id=\"0-F\">Miller</td><td id=\"0-G\">14,700</td><td id=\"0-H\">24.4</td><td id=\"0-I\">3,586</td><td id=\"0-J\"></td><td id=\"0-K\"></td><td id=\"0-L\">965</td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">Moniteau</td><td id=\"0-O\">10,500</td><td id=\"0-P\">22.5</td><td id=\"0-Q\">2,362</td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\">618</td><td id=\"0-U\"></td></tr>\n<tr><td id=\"0-V\">Morgan</td><td id=\"0-W\">9,800</td><td id=\"0-X\">25.9</td><td id=\"0-Y\">2,538</td><td id=\"0-Z\"></td><td id=\"0-10\"></td><td id=\"0-11\">696</td><td id=\"0-12\"></td></tr>\n<tr><td id=\"0-13\">Pettis</td><td id=\"0-14\">32,500</td><td id=\"0-15\">18.4</td><td id=\"0-16\">5,980</td><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\">1,784</td><td id=\"0-1a\"></td></tr>\n<tr><td id=\"0-1b\">Saline</td><td id=\"0-1c\">26,000</td><td id=\"0-1d\">17.5</td><td id=\"0-1e\">4,550</td><td id=\"0-1f\"></td><td id=\"0-1g\"></td><td id=\"0-1h\">1,280</td><td id=\"0-1i\"></td></tr>\n</table>\n\n<a id='7bdf8b41-f16c-4517-b73f-dff1777a71bb'></a>\n\nFootnotes:\n\n(1) Estimates by the Bureau of the Census, 1966.\n(2) OEO Community Profile Data, 1966.\n(3) MASW Estimate of Persons in Poverty, 1970.\n(4) Missouri Division of Welfare, Monthly Report, November, 1969.\n(5) Missouri Division of Welfare, Monthly Administrative Analysis, October, 1969.\n(6) Missouri Division of Welfare, Monthly Report, November, 1969.\n\n<a id='97ca008a-3110-4a01-9517-7579ec033062'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jjvg0227",
+            "chunks": [
+                "d2d93424-2569-47c4-9306-982c2fc6da21",
+                "a2599592-a990-4dfc-9053-89c1a182006b",
+                "ad06972b-1a25-4ee1-89e2-0c5749011086",
+                "7bdf8b41-f16c-4517-b73f-dff1777a71bb",
+                "97ca008a-3110-4a01-9517-7579ec033062"
+            ]
+        }
+    ],
+    "grounding": {
+        "d2d93424-2569-47c4-9306-982c2fc6da21": {
+            "box": {
+                "left": 0.047648362815380096,
+                "top": 0.08971334993839264,
+                "right": 0.28068751096725464,
+                "bottom": 0.1343352496623993
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a2599592-a990-4dfc-9053-89c1a182006b": {
+            "box": {
+                "left": 0.810882031917572,
+                "top": 0.08918017148971558,
+                "right": 0.9165924191474915,
+                "bottom": 0.1347869485616684
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ad06972b-1a25-4ee1-89e2-0c5749011086": {
+            "box": {
+                "left": 0.043849557638168335,
+                "top": 0.15992052853107452,
+                "right": 0.9820345640182495,
+                "bottom": 0.5924506783485413
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.16116698346817881,
+                "right": 0.9819728281350706,
+                "bottom": 0.592446450296368
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.16116698346817881,
+                "right": 0.13338832721915628,
+                "bottom": 0.25236418875999855
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.13338832721915628,
+                "top": 0.16116698346817881,
+                "right": 0.2756632274999906,
+                "bottom": 0.25236418875999855
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.2756632274999906,
+                "top": 0.16116698346817881,
+                "right": 0.3708419390825881,
+                "bottom": 0.25236418875999855
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.3708419390825881,
+                "top": 0.16116698346817881,
+                "right": 0.4870521619819792,
+                "bottom": 0.25236418875999855
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.4870521619819792,
+                "top": 0.16116698346817881,
+                "right": 0.7790352368872924,
+                "bottom": 0.2818479240768972
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6684096788875884,
+                "top": 0.16116698346817881,
+                "right": 0.7790352368872924,
+                "bottom": 0.25236418875999855
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7790352368872924,
+                "top": 0.16116698346817881,
+                "right": 0.9818834676809765,
+                "bottom": 0.25236418875999855
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.25236418875999855,
+                "right": 0.13338832721915628,
+                "bottom": 0.2818479240768972
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.13338832721915628,
+                "top": 0.25236418875999855,
+                "right": 0.2756632274999906,
+                "bottom": 0.2818479240768972
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.2756632274999906,
+                "top": 0.25236418875999855,
+                "right": 0.3708419390825881,
+                "bottom": 0.2818479240768972
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.3708419390825881,
+                "top": 0.25236418875999855,
+                "right": 0.4870521619819792,
+                "bottom": 0.2818479240768972
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.4870521619819792,
+                "top": 0.25236418875999855,
+                "right": 0.560864148704562,
+                "bottom": 0.2818479240768972
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.560864148704562,
+                "top": 0.25236418875999855,
+                "right": 0.6684096788875884,
+                "bottom": 0.2818479240768972
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.6684096788875884,
+                "top": 0.25236418875999855,
+                "right": 0.7790352368872924,
+                "bottom": 0.2818479240768972
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7790352368872924,
+                "top": 0.25236418875999855,
+                "right": 0.9818834676809765,
+                "bottom": 0.2818479240768972
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.2818479240768972,
+                "right": 0.13338832721915628,
+                "bottom": 0.323923475511922
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.13338832721915628,
+                "top": 0.2818479240768972,
+                "right": 0.2756632274999906,
+                "bottom": 0.323923475511922
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.2756632274999906,
+                "top": 0.2818479240768972,
+                "right": 0.3708419390825881,
+                "bottom": 0.323923475511922
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.3708419390825881,
+                "top": 0.2818479240768972,
+                "right": 0.4870521619819792,
+                "bottom": 0.323923475511922
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.4870521619819792,
+                "top": 0.2818479240768972,
+                "right": 0.560864148704562,
+                "bottom": 0.323923475511922
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.560864148704562,
+                "top": 0.2818479240768972,
+                "right": 0.6684096788875884,
+                "bottom": 0.323923475511922
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.6684096788875884,
+                "top": 0.2818479240768972,
+                "right": 0.7790352368872924,
+                "bottom": 0.323923475511922
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7790352368872924,
+                "top": 0.2818479240768972,
+                "right": 0.9818834676809765,
+                "bottom": 0.323923475511922
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.323923475511922,
+                "right": 0.13338832721915628,
+                "bottom": 0.3618997241185231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.13338832721915628,
+                "top": 0.323923475511922,
+                "right": 0.2756632274999906,
+                "bottom": 0.3618997241185231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.2756632274999906,
+                "top": 0.323923475511922,
+                "right": 0.3708419390825881,
+                "bottom": 0.3618997241185231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.3708419390825881,
+                "top": 0.323923475511922,
+                "right": 0.4870521619819792,
+                "bottom": 0.3618997241185231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.4870521619819792,
+                "top": 0.323923475511922,
+                "right": 0.560864148704562,
+                "bottom": 0.3618997241185231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.560864148704562,
+                "top": 0.323923475511922,
+                "right": 0.6684096788875884,
+                "bottom": 0.3618997241185231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6684096788875884,
+                "top": 0.323923475511922,
+                "right": 0.7790352368872924,
+                "bottom": 0.3618997241185231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.7790352368872924,
+                "top": 0.323923475511922,
+                "right": 0.9818834676809765,
+                "bottom": 0.3618997241185231
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.3618997241185231,
+                "right": 0.13338832721915628,
+                "bottom": 0.3990738802908895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.13338832721915628,
+                "top": 0.3618997241185231,
+                "right": 0.2756632274999906,
+                "bottom": 0.3990738802908895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.2756632274999906,
+                "top": 0.3618997241185231,
+                "right": 0.3708419390825881,
+                "bottom": 0.3990738802908895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.3708419390825881,
+                "top": 0.3618997241185231,
+                "right": 0.4870521619819792,
+                "bottom": 0.3990738802908895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.4870521619819792,
+                "top": 0.3618997241185231,
+                "right": 0.560864148704562,
+                "bottom": 0.3990738802908895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.560864148704562,
+                "top": 0.3618997241185231,
+                "right": 0.6684096788875884,
+                "bottom": 0.3990738802908895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.6684096788875884,
+                "top": 0.3618997241185231,
+                "right": 0.7790352368872924,
+                "bottom": 0.3990738802908895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.7790352368872924,
+                "top": 0.3618997241185231,
+                "right": 0.9818834676809765,
+                "bottom": 0.3990738802908895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.3990738802908895,
+                "right": 0.13338832721915628,
+                "bottom": 0.4368731307743472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.13338832721915628,
+                "top": 0.3990738802908895,
+                "right": 0.2756632274999906,
+                "bottom": 0.4368731307743472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.2756632274999906,
+                "top": 0.3990738802908895,
+                "right": 0.3708419390825881,
+                "bottom": 0.4368731307743472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.3708419390825881,
+                "top": 0.3990738802908895,
+                "right": 0.4870521619819792,
+                "bottom": 0.4368731307743472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.4870521619819792,
+                "top": 0.3990738802908895,
+                "right": 0.560864148704562,
+                "bottom": 0.4368731307743472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.560864148704562,
+                "top": 0.3990738802908895,
+                "right": 0.6684096788875884,
+                "bottom": 0.4368731307743472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.6684096788875884,
+                "top": 0.3990738802908895,
+                "right": 0.7790352368872924,
+                "bottom": 0.4368731307743472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.7790352368872924,
+                "top": 0.3990738802908895,
+                "right": 0.9818834676809765,
+                "bottom": 0.4368731307743472
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.4368731307743472,
+                "right": 0.13338832721915628,
+                "bottom": 0.4737910644069334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.13338832721915628,
+                "top": 0.4368731307743472,
+                "right": 0.2756632274999906,
+                "bottom": 0.4737910644069334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.2756632274999906,
+                "top": 0.4368731307743472,
+                "right": 0.3708419390825881,
+                "bottom": 0.4737910644069334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.3708419390825881,
+                "top": 0.4368731307743472,
+                "right": 0.4870521619819792,
+                "bottom": 0.4737910644069334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.4870521619819792,
+                "top": 0.4368731307743472,
+                "right": 0.560864148704562,
+                "bottom": 0.4737910644069334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.560864148704562,
+                "top": 0.4368731307743472,
+                "right": 0.6684096788875884,
+                "bottom": 0.4737910644069334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.6684096788875884,
+                "top": 0.4368731307743472,
+                "right": 0.7790352368872924,
+                "bottom": 0.4737910644069334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.7790352368872924,
+                "top": 0.4368731307743472,
+                "right": 0.9818834676809765,
+                "bottom": 0.4737910644069334
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.4737910644069334,
+                "right": 0.13338832721915628,
+                "bottom": 0.5119090687749654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.13338832721915628,
+                "top": 0.4737910644069334,
+                "right": 0.2756632274999906,
+                "bottom": 0.5119090687749654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.2756632274999906,
+                "top": 0.4737910644069334,
+                "right": 0.3708419390825881,
+                "bottom": 0.5119090687749654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.3708419390825881,
+                "top": 0.4737910644069334,
+                "right": 0.4870521619819792,
+                "bottom": 0.5119090687749654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.4870521619819792,
+                "top": 0.4737910644069334,
+                "right": 0.560864148704562,
+                "bottom": 0.5119090687749654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.560864148704562,
+                "top": 0.4737910644069334,
+                "right": 0.6684096788875884,
+                "bottom": 0.5119090687749654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.6684096788875884,
+                "top": 0.4737910644069334,
+                "right": 0.7790352368872924,
+                "bottom": 0.5119090687749654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.7790352368872924,
+                "top": 0.4737910644069334,
+                "right": 0.9818834676809765,
+                "bottom": 0.5119090687749654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.5119090687749654,
+                "right": 0.13338832721915628,
+                "bottom": 0.5501343986381029
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.13338832721915628,
+                "top": 0.5119090687749654,
+                "right": 0.2756632274999906,
+                "bottom": 0.5501343986381029
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.2756632274999906,
+                "top": 0.5119090687749654,
+                "right": 0.3708419390825881,
+                "bottom": 0.5501343986381029
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-16": {
+            "box": {
+                "left": 0.3708419390825881,
+                "top": 0.5119090687749654,
+                "right": 0.4870521619819792,
+                "bottom": 0.5501343986381029
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-17": {
+            "box": {
+                "left": 0.4870521619819792,
+                "top": 0.5119090687749654,
+                "right": 0.560864148704562,
+                "bottom": 0.5501343986381029
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-18": {
+            "box": {
+                "left": 0.560864148704562,
+                "top": 0.5119090687749654,
+                "right": 0.6684096788875884,
+                "bottom": 0.5501343986381029
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-19": {
+            "box": {
+                "left": 0.6684096788875884,
+                "top": 0.5119090687749654,
+                "right": 0.7790352368872924,
+                "bottom": 0.5501343986381029
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1a": {
+            "box": {
+                "left": 0.7790352368872924,
+                "top": 0.5119090687749654,
+                "right": 0.9818834676809765,
+                "bottom": 0.5501343986381029
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1b": {
+            "box": {
+                "left": 0.045958704025203675,
+                "top": 0.5501343986381029,
+                "right": 0.13338832721915628,
+                "bottom": 0.592446450296368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1c": {
+            "box": {
+                "left": 0.13338832721915628,
+                "top": 0.5501343986381029,
+                "right": 0.2756632274999906,
+                "bottom": 0.592446450296368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1d": {
+            "box": {
+                "left": 0.2756632274999906,
+                "top": 0.5501343986381029,
+                "right": 0.3708419390825881,
+                "bottom": 0.592446450296368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1e": {
+            "box": {
+                "left": 0.3708419390825881,
+                "top": 0.5501343986381029,
+                "right": 0.4870521619819792,
+                "bottom": 0.592446450296368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1f": {
+            "box": {
+                "left": 0.4870521619819792,
+                "top": 0.5501343986381029,
+                "right": 0.560864148704562,
+                "bottom": 0.592446450296368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1g": {
+            "box": {
+                "left": 0.560864148704562,
+                "top": 0.5501343986381029,
+                "right": 0.6684096788875884,
+                "bottom": 0.592446450296368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1h": {
+            "box": {
+                "left": 0.6684096788875884,
+                "top": 0.5501343986381029,
+                "right": 0.7790352368872924,
+                "bottom": 0.592446450296368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1i": {
+            "box": {
+                "left": 0.7790352368872924,
+                "top": 0.5501343986381029,
+                "right": 0.9818834676809765,
+                "bottom": 0.592446450296368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "7bdf8b41-f16c-4517-b73f-dff1777a71bb": {
+            "box": {
+                "left": 0.05458629131317139,
+                "top": 0.6338040828704834,
+                "right": 0.6847341060638428,
+                "bottom": 0.8891376256942749
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "97ca008a-3110-4a01-9517-7579ec033062": {
+            "box": {
+                "left": 0.2898767590522766,
+                "top": 0.9740900993347168,
+                "right": 0.7123580574989319,
+                "bottom": 0.9994093179702759
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "jjvg0227_8.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10857,
+        "credit_usage": 3.0,
+        "job_id": "t95agbj8xz9nxpl5bcf8hkid2",
+        "version": "dpt-2-20250919"
+    }
+}

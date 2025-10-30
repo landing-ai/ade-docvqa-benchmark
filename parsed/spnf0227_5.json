@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='59edd95d-3580-4a49-abc8-117fb95eaece'></a>\n\nHeart Attacks\n\n<a id='93fc70e0-5ecd-469c-af9a-c3eadfb8ec1e'></a>\n\n<::Bar chart titled \"ABNORMALITIES\" showing Morbidity Ratio versus Number of Abnormalities.\n\nLegend for Abnormalities:\n- CHOLESTEROL 250 mg % OR OVER\n- SYSTOLIC BLOOD PRESSURE 160 mm Hg OR OVER\n- SMOKING OVER PACK/DAY\n\nY-axis: MORBIDITY RATIO\n\nX-axis: NUMBER OF ABNORMALITIES\n\nBars and their values:\n- NONE:\n  - Bar height: 68\n  - Additional data: 68 / 98.3\n- ANY ONE ABNORMAL:\n  - Bar height: 102\n  - Additional data: OBS. 77, EXP. 75.7\n- ANY TWO ABNORMAL:\n  - Bar height: 203\n  - Additional data: 41, 20.2\n- ALL THREE ABNORMAL:\n  - Bar height: 535\n  - Additional data: 11, 2.1\n\nAdditional text on the right: All Framingham Men\n: chart::>\n\n<a id='1ecc7edf-4005-4751-80d7-063540da81f7'></a>\n\n## Combination of Abnormalities\n\nIn subjects predisposed by high blood pressure or ele-vated cholesterol level cigarette smoking appeared to be an extremely dangerous habit.\n\n<a id='5a394354-9fd4-4d53-ae44-a6165f1eb2fe'></a>\n\n## LIVING HABITS UNRELATED TO\n## RISK OF CORONARY HEART DISEASE\n\nAmong the factors found not to influence the individual's risk of developing clinical coronary heart disease were the use of \u201cstimulating\u201d beverages, hours of sleep, marital status, and family size. The last three may also provide some index of the amount of \u201cemotional stress\u201d habitually experienced by the individual. Although such data must be interpreted with caution, they suggest that at least some types of stress play a minor role in coronary heart disease.\n\n<a id='6fa69bdc-1001-4bd7-ba7c-ddf04435178e'></a>\n\n<::Coronary Heart Disease\n: bar chart\n\nY-axis: MORBIDITY RATIO\nX-axis: OUNCES OF ALCOHOL CONSUMED PER MONTH\n\nReference line at 100: ALL Framingham Men\n\nBars:\n- NONE: Morbidity Ratio 104, OBS. 50, EXP. 47.9\n- UNDER 10: Morbidity Ratio 95, OBS. 68, EXP. 71.5\n- 10-19: Morbidity Ratio 117, OBS. 31, EXP. 26.4\n- 20-29: Morbidity Ratio 105, OBS. 19, EXP. 18.1\n- 30 or OVER: Morbidity Ratio 85, OBS. 56, EXP. 66.2\n: chart::>\n\n<a id='d70b02a7-a6b1-43f8-b432-ae1471d5e00f'></a>\n\n## Alcohol\n\nConsumed in moderation, alcohol apparently had no harmful effects on the circulation. However, neither did it protect the blood vessels against the consequences of atherosclerosis.\n\n<a id='fa4339e9-6048-4c48-8826-d173fdb3c20a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/spnf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='59edd95d-3580-4a49-abc8-117fb95eaece'></a>\n\nHeart Attacks",
+            "type": "text",
+            "id": "59edd95d-3580-4a49-abc8-117fb95eaece",
+            "grounding": {
+                "box": {
+                    "left": 0.1353023499250412,
+                    "top": 0.11924885958433151,
+                    "right": 0.18769972026348114,
+                    "bottom": 0.15133342146873474
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='93fc70e0-5ecd-469c-af9a-c3eadfb8ec1e'></a>\n\n<::Bar chart titled \"ABNORMALITIES\" showing Morbidity Ratio versus Number of Abnormalities.\n\nLegend for Abnormalities:\n- CHOLESTEROL 250 mg % OR OVER\n- SYSTOLIC BLOOD PRESSURE 160 mm Hg OR OVER\n- SMOKING OVER PACK/DAY\n\nY-axis: MORBIDITY RATIO\n\nX-axis: NUMBER OF ABNORMALITIES\n\nBars and their values:\n- NONE:\n  - Bar height: 68\n  - Additional data: 68 / 98.3\n- ANY ONE ABNORMAL:\n  - Bar height: 102\n  - Additional data: OBS. 77, EXP. 75.7\n- ANY TWO ABNORMAL:\n  - Bar height: 203\n  - Additional data: 41, 20.2\n- ALL THREE ABNORMAL:\n  - Bar height: 535\n  - Additional data: 11, 2.1\n\nAdditional text on the right: All Framingham Men\n: chart::>",
+            "type": "figure",
+            "id": "93fc70e0-5ecd-469c-af9a-c3eadfb8ec1e",
+            "grounding": {
+                "box": {
+                    "left": 0.08018258959054947,
+                    "top": 0.16409683227539062,
+                    "right": 0.264724999666214,
+                    "bottom": 0.5019786357879639
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1ecc7edf-4005-4751-80d7-063540da81f7'></a>\n\n## Combination of Abnormalities\n\nIn subjects predisposed by high blood pressure or ele-vated cholesterol level cigarette smoking appeared to be an extremely dangerous habit.",
+            "type": "text",
+            "id": "1ecc7edf-4005-4751-80d7-063540da81f7",
+            "grounding": {
+                "box": {
+                    "left": 0.09100314229726791,
+                    "top": 0.5789507627487183,
+                    "right": 0.25825953483581543,
+                    "bottom": 0.704323410987854
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5a394354-9fd4-4d53-ae44-a6165f1eb2fe'></a>\n\n## LIVING HABITS UNRELATED TO\n## RISK OF CORONARY HEART DISEASE\n\nAmong the factors found not to influence the individual's risk of developing clinical coronary heart disease were the use of \u201cstimulating\u201d beverages, hours of sleep, marital status, and family size. The last three may also provide some index of the amount of \u201cemotional stress\u201d habitually experienced by the individual. Although such data must be interpreted with caution, they suggest that at least some types of stress play a minor role in coronary heart disease.",
+            "type": "text",
+            "id": "5a394354-9fd4-4d53-ae44-a6165f1eb2fe",
+            "grounding": {
+                "box": {
+                    "left": 0.5297858119010925,
+                    "top": 0.5159007906913757,
+                    "right": 0.6998364329338074,
+                    "bottom": 0.8688227534294128
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6fa69bdc-1001-4bd7-ba7c-ddf04435178e'></a>\n\n<::Coronary Heart Disease\n: bar chart\n\nY-axis: MORBIDITY RATIO\nX-axis: OUNCES OF ALCOHOL CONSUMED PER MONTH\n\nReference line at 100: ALL Framingham Men\n\nBars:\n- NONE: Morbidity Ratio 104, OBS. 50, EXP. 47.9\n- UNDER 10: Morbidity Ratio 95, OBS. 68, EXP. 71.5\n- 10-19: Morbidity Ratio 117, OBS. 31, EXP. 26.4\n- 20-29: Morbidity Ratio 105, OBS. 19, EXP. 18.1\n- 30 or OVER: Morbidity Ratio 85, OBS. 56, EXP. 66.2\n: chart::>",
+            "type": "figure",
+            "id": "6fa69bdc-1001-4bd7-ba7c-ddf04435178e",
+            "grounding": {
+                "box": {
+                    "left": 0.7251709699630737,
+                    "top": 0.06473124027252197,
+                    "right": 0.925301194190979,
+                    "bottom": 0.5746521949768066
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d70b02a7-a6b1-43f8-b432-ae1471d5e00f'></a>\n\n## Alcohol\n\nConsumed in moderation, alcohol apparently had no harmful effects on the circulation. However, neither did it protect the blood vessels against the consequences of atherosclerosis.",
+            "type": "text",
+            "id": "d70b02a7-a6b1-43f8-b432-ae1471d5e00f",
+            "grounding": {
+                "box": {
+                    "left": 0.7452384233474731,
+                    "top": 0.5971962809562683,
+                    "right": 0.9125584363937378,
+                    "bottom": 0.7451428771018982
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fa4339e9-6048-4c48-8826-d173fdb3c20a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/spnf0227",
+            "type": "marginalia",
+            "id": "fa4339e9-6048-4c48-8826-d173fdb3c20a",
+            "grounding": {
+                "box": {
+                    "left": 0.3807680308818817,
+                    "top": 0.9711569547653198,
+                    "right": 0.617850124835968,
+                    "bottom": 1.0000420808792114
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='59edd95d-3580-4a49-abc8-117fb95eaece'></a>\n\nHeart Attacks\n\n<a id='93fc70e0-5ecd-469c-af9a-c3eadfb8ec1e'></a>\n\n<::Bar chart titled \"ABNORMALITIES\" showing Morbidity Ratio versus Number of Abnormalities.\n\nLegend for Abnormalities:\n- CHOLESTEROL 250 mg % OR OVER\n- SYSTOLIC BLOOD PRESSURE 160 mm Hg OR OVER\n- SMOKING OVER PACK/DAY\n\nY-axis: MORBIDITY RATIO\n\nX-axis: NUMBER OF ABNORMALITIES\n\nBars and their values:\n- NONE:\n  - Bar height: 68\n  - Additional data: 68 / 98.3\n- ANY ONE ABNORMAL:\n  - Bar height: 102\n  - Additional data: OBS. 77, EXP. 75.7\n- ANY TWO ABNORMAL:\n  - Bar height: 203\n  - Additional data: 41, 20.2\n- ALL THREE ABNORMAL:\n  - Bar height: 535\n  - Additional data: 11, 2.1\n\nAdditional text on the right: All Framingham Men\n: chart::>\n\n<a id='1ecc7edf-4005-4751-80d7-063540da81f7'></a>\n\n## Combination of Abnormalities\n\nIn subjects predisposed by high blood pressure or ele-vated cholesterol level cigarette smoking appeared to be an extremely dangerous habit.\n\n<a id='5a394354-9fd4-4d53-ae44-a6165f1eb2fe'></a>\n\n## LIVING HABITS UNRELATED TO\n## RISK OF CORONARY HEART DISEASE\n\nAmong the factors found not to influence the individual's risk of developing clinical coronary heart disease were the use of \u201cstimulating\u201d beverages, hours of sleep, marital status, and family size. The last three may also provide some index of the amount of \u201cemotional stress\u201d habitually experienced by the individual. Although such data must be interpreted with caution, they suggest that at least some types of stress play a minor role in coronary heart disease.\n\n<a id='6fa69bdc-1001-4bd7-ba7c-ddf04435178e'></a>\n\n<::Coronary Heart Disease\n: bar chart\n\nY-axis: MORBIDITY RATIO\nX-axis: OUNCES OF ALCOHOL CONSUMED PER MONTH\n\nReference line at 100: ALL Framingham Men\n\nBars:\n- NONE: Morbidity Ratio 104, OBS. 50, EXP. 47.9\n- UNDER 10: Morbidity Ratio 95, OBS. 68, EXP. 71.5\n- 10-19: Morbidity Ratio 117, OBS. 31, EXP. 26.4\n- 20-29: Morbidity Ratio 105, OBS. 19, EXP. 18.1\n- 30 or OVER: Morbidity Ratio 85, OBS. 56, EXP. 66.2\n: chart::>\n\n<a id='d70b02a7-a6b1-43f8-b432-ae1471d5e00f'></a>\n\n## Alcohol\n\nConsumed in moderation, alcohol apparently had no harmful effects on the circulation. However, neither did it protect the blood vessels against the consequences of atherosclerosis.\n\n<a id='fa4339e9-6048-4c48-8826-d173fdb3c20a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/spnf0227",
+            "chunks": [
+                "59edd95d-3580-4a49-abc8-117fb95eaece",
+                "93fc70e0-5ecd-469c-af9a-c3eadfb8ec1e",
+                "1ecc7edf-4005-4751-80d7-063540da81f7",
+                "5a394354-9fd4-4d53-ae44-a6165f1eb2fe",
+                "6fa69bdc-1001-4bd7-ba7c-ddf04435178e",
+                "d70b02a7-a6b1-43f8-b432-ae1471d5e00f",
+                "fa4339e9-6048-4c48-8826-d173fdb3c20a"
+            ]
+        }
+    ],
+    "grounding": {
+        "59edd95d-3580-4a49-abc8-117fb95eaece": {
+            "box": {
+                "left": 0.1353023499250412,
+                "top": 0.11924885958433151,
+                "right": 0.18769972026348114,
+                "bottom": 0.15133342146873474
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "93fc70e0-5ecd-469c-af9a-c3eadfb8ec1e": {
+            "box": {
+                "left": 0.08018258959054947,
+                "top": 0.16409683227539062,
+                "right": 0.264724999666214,
+                "bottom": 0.5019786357879639
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "1ecc7edf-4005-4751-80d7-063540da81f7": {
+            "box": {
+                "left": 0.09100314229726791,
+                "top": 0.5789507627487183,
+                "right": 0.25825953483581543,
+                "bottom": 0.704323410987854
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5a394354-9fd4-4d53-ae44-a6165f1eb2fe": {
+            "box": {
+                "left": 0.5297858119010925,
+                "top": 0.5159007906913757,
+                "right": 0.6998364329338074,
+                "bottom": 0.8688227534294128
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6fa69bdc-1001-4bd7-ba7c-ddf04435178e": {
+            "box": {
+                "left": 0.7251709699630737,
+                "top": 0.06473124027252197,
+                "right": 0.925301194190979,
+                "bottom": 0.5746521949768066
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "d70b02a7-a6b1-43f8-b432-ae1471d5e00f": {
+            "box": {
+                "left": 0.7452384233474731,
+                "top": 0.5971962809562683,
+                "right": 0.9125584363937378,
+                "bottom": 0.7451428771018982
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fa4339e9-6048-4c48-8826-d173fdb3c20a": {
+            "box": {
+                "left": 0.3807680308818817,
+                "top": 0.9711569547653198,
+                "right": 0.617850124835968,
+                "bottom": 1.0000420808792114
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "spnf0227_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10983,
+        "credit_usage": 3.0,
+        "job_id": "lxhu3zmk6riig1c0i4vzjjn7r",
+        "version": "dpt-2-20250919"
+    }
+}

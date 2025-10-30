@@ -1,0 +1,383 @@
+{
+    "markdown": "<a id='43fddfe8-b238-45e8-b1e5-d476b773d991'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">6.</td><td id=\"0-3\">We</td><td id=\"0-4\" colspan=\"2\">sometimes hear</td><td id=\"0-5\">about</td><td id=\"0-6\">YES................................82%</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\" colspan=\"2\">\"passive</td><td id=\"0-9\">smoking\"</td><td id=\"0-a\">or</td><td id=\"0-b\">NO................................11</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\" colspan=\"2\">\"involuntary</td><td id=\"0-e\">smoking.\"</td><td id=\"0-f\">Have</td><td id=\"0-g\">DON'T KNOW/REFUSED................7</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\" colspan=\"3\">personally heard or</td><td id=\"0-j\">read</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\" colspan=\"4\">anything about this subject?</td><td id=\"0-n\"></td></tr>\n</table>\n\n<a id='c32a7d3e-0747-4bf5-903d-484f3ebfbad4'></a>\n\n7. What specifically have you heard about \"passive smoking\" or \"involuntary smoking\"? (PROBE FULLY. WRITE IN ALL MENTIONS)\n\nNOTE: These are summary of the major first responses of those who have heard of PS.\n\nPS Harmful to Non-smoker (45%)\nPS is Inhaling unwanted Cigarette Smoke (20%)\nPS Risk/Disease (6%)\n\n8. And where do you get your information about \"passive smoking\" or \"involuntary smoking?\" (IF NEWSPAPER OR TV, PROBE FOR SPECIFIC SOURCE, E.G., NAME OF NEWSPAPER, TV PROGRAMME AND/OR CHANNEL)\n\nNOTE: This is a summary of the first and second responses asked only of those who had heard of PS.\n\nNewspapers (18% of sample) Television (20% of sample)\nRadio (2% of sample) Magazines and Brochures (6% of sample)\nPersonal Contacts, Health Care Practitioners, Classes (18% of sample)\n\n<a id='2e5435c8-8142-4277-bc7d-73ea34012ee5'></a>\n\n9. What is referred to as \"passive\" or \"involuntary\" smoking is being exposed to other people's tobacco smoke. Do you think that for the non-smoker, \"passive smoking\" is harmless, can cause discomfort (is an annoyance), or is a risk to a non-smoker's health? (IF \"RISK\" ASK:) Would that be an extremely serious risk, a very serious risk or just somewhat of a risk?\n\nHARMLESS... 7%\nDISCOMFORT (ANNOYANCE)... 34\nSOMEWHAT OF A RISK... 31\nVERY SERIOUS RISK... 17\nEXTREMELY SERIOUS RISK... 9\nDON'T KNOW/REFUSED... 2\n\n<a id='2a7713ef-ce58-49f9-a50a-ddc61ea0e3ca'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/npyl0052\n\n<a id='562f3e35-f7cd-47bb-8d3d-db67ffee145e'></a>\n\n52542 9864",
+    "chunks": [
+        {
+            "markdown": "<a id='43fddfe8-b238-45e8-b1e5-d476b773d991'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">6.</td><td id=\"0-3\">We</td><td id=\"0-4\" colspan=\"2\">sometimes hear</td><td id=\"0-5\">about</td><td id=\"0-6\">YES................................82%</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\" colspan=\"2\">\"passive</td><td id=\"0-9\">smoking\"</td><td id=\"0-a\">or</td><td id=\"0-b\">NO................................11</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\" colspan=\"2\">\"involuntary</td><td id=\"0-e\">smoking.\"</td><td id=\"0-f\">Have</td><td id=\"0-g\">DON'T KNOW/REFUSED................7</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\" colspan=\"3\">personally heard or</td><td id=\"0-j\">read</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\" colspan=\"4\">anything about this subject?</td><td id=\"0-n\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "43fddfe8-b238-45e8-b1e5-d476b773d991",
+            "grounding": {
+                "box": {
+                    "left": 0.03102514147758484,
+                    "top": 0.10832814872264862,
+                    "right": 0.9134054183959961,
+                    "bottom": 0.21685095131397247
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c32a7d3e-0747-4bf5-903d-484f3ebfbad4'></a>\n\n7. What specifically have you heard about \"passive smoking\" or \"involuntary smoking\"? (PROBE FULLY. WRITE IN ALL MENTIONS)\n\nNOTE: These are summary of the major first responses of those who have heard of PS.\n\nPS Harmful to Non-smoker (45%)\nPS is Inhaling unwanted Cigarette Smoke (20%)\nPS Risk/Disease (6%)\n\n8. And where do you get your information about \"passive smoking\" or \"involuntary smoking?\" (IF NEWSPAPER OR TV, PROBE FOR SPECIFIC SOURCE, E.G., NAME OF NEWSPAPER, TV PROGRAMME AND/OR CHANNEL)\n\nNOTE: This is a summary of the first and second responses asked only of those who had heard of PS.\n\nNewspapers (18% of sample) Television (20% of sample)\nRadio (2% of sample) Magazines and Brochures (6% of sample)\nPersonal Contacts, Health Care Practitioners, Classes (18% of sample)",
+            "type": "text",
+            "id": "c32a7d3e-0747-4bf5-903d-484f3ebfbad4",
+            "grounding": {
+                "box": {
+                    "left": 0.02859574556350708,
+                    "top": 0.24637886881828308,
+                    "right": 0.9109697341918945,
+                    "bottom": 0.6276577711105347
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2e5435c8-8142-4277-bc7d-73ea34012ee5'></a>\n\n9. What is referred to as \"passive\" or \"involuntary\" smoking is being exposed to other people's tobacco smoke. Do you think that for the non-smoker, \"passive smoking\" is harmless, can cause discomfort (is an annoyance), or is a risk to a non-smoker's health? (IF \"RISK\" ASK:) Would that be an extremely serious risk, a very serious risk or just somewhat of a risk?\n\nHARMLESS... 7%\nDISCOMFORT (ANNOYANCE)... 34\nSOMEWHAT OF A RISK... 31\nVERY SERIOUS RISK... 17\nEXTREMELY SERIOUS RISK... 9\nDON'T KNOW/REFUSED... 2",
+            "type": "text",
+            "id": "2e5435c8-8142-4277-bc7d-73ea34012ee5",
+            "grounding": {
+                "box": {
+                    "left": 0.024380415678024292,
+                    "top": 0.6486643552780151,
+                    "right": 0.9000507593154907,
+                    "bottom": 0.9002147912979126
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2a7713ef-ce58-49f9-a50a-ddc61ea0e3ca'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/npyl0052",
+            "type": "marginalia",
+            "id": "2a7713ef-ce58-49f9-a50a-ddc61ea0e3ca",
+            "grounding": {
+                "box": {
+                    "left": 0.2152329981327057,
+                    "top": 0.9756951928138733,
+                    "right": 0.7856571674346924,
+                    "bottom": 0.9998447299003601
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='562f3e35-f7cd-47bb-8d3d-db67ffee145e'></a>\n\n52542 9864",
+            "type": "marginalia",
+            "id": "562f3e35-f7cd-47bb-8d3d-db67ffee145e",
+            "grounding": {
+                "box": {
+                    "left": 0.9054771065711975,
+                    "top": 0.8740398287773132,
+                    "right": 0.9345764517784119,
+                    "bottom": 0.9719802737236023
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='43fddfe8-b238-45e8-b1e5-d476b773d991'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">6.</td><td id=\"0-3\">We</td><td id=\"0-4\" colspan=\"2\">sometimes hear</td><td id=\"0-5\">about</td><td id=\"0-6\">YES................................82%</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\" colspan=\"2\">\"passive</td><td id=\"0-9\">smoking\"</td><td id=\"0-a\">or</td><td id=\"0-b\">NO................................11</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\" colspan=\"2\">\"involuntary</td><td id=\"0-e\">smoking.\"</td><td id=\"0-f\">Have</td><td id=\"0-g\">DON'T KNOW/REFUSED................7</td></tr>\n<tr><td id=\"0-h\"></td><td id=\"0-i\" colspan=\"3\">personally heard or</td><td id=\"0-j\">read</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\" colspan=\"4\">anything about this subject?</td><td id=\"0-n\"></td></tr>\n</table>\n\n<a id='c32a7d3e-0747-4bf5-903d-484f3ebfbad4'></a>\n\n7. What specifically have you heard about \"passive smoking\" or \"involuntary smoking\"? (PROBE FULLY. WRITE IN ALL MENTIONS)\n\nNOTE: These are summary of the major first responses of those who have heard of PS.\n\nPS Harmful to Non-smoker (45%)\nPS is Inhaling unwanted Cigarette Smoke (20%)\nPS Risk/Disease (6%)\n\n8. And where do you get your information about \"passive smoking\" or \"involuntary smoking?\" (IF NEWSPAPER OR TV, PROBE FOR SPECIFIC SOURCE, E.G., NAME OF NEWSPAPER, TV PROGRAMME AND/OR CHANNEL)\n\nNOTE: This is a summary of the first and second responses asked only of those who had heard of PS.\n\nNewspapers (18% of sample) Television (20% of sample)\nRadio (2% of sample) Magazines and Brochures (6% of sample)\nPersonal Contacts, Health Care Practitioners, Classes (18% of sample)\n\n<a id='2e5435c8-8142-4277-bc7d-73ea34012ee5'></a>\n\n9. What is referred to as \"passive\" or \"involuntary\" smoking is being exposed to other people's tobacco smoke. Do you think that for the non-smoker, \"passive smoking\" is harmless, can cause discomfort (is an annoyance), or is a risk to a non-smoker's health? (IF \"RISK\" ASK:) Would that be an extremely serious risk, a very serious risk or just somewhat of a risk?\n\nHARMLESS... 7%\nDISCOMFORT (ANNOYANCE)... 34\nSOMEWHAT OF A RISK... 31\nVERY SERIOUS RISK... 17\nEXTREMELY SERIOUS RISK... 9\nDON'T KNOW/REFUSED... 2\n\n<a id='2a7713ef-ce58-49f9-a50a-ddc61ea0e3ca'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/npyl0052\n\n<a id='562f3e35-f7cd-47bb-8d3d-db67ffee145e'></a>\n\n52542 9864",
+            "chunks": [
+                "43fddfe8-b238-45e8-b1e5-d476b773d991",
+                "c32a7d3e-0747-4bf5-903d-484f3ebfbad4",
+                "2e5435c8-8142-4277-bc7d-73ea34012ee5",
+                "2a7713ef-ce58-49f9-a50a-ddc61ea0e3ca",
+                "562f3e35-f7cd-47bb-8d3d-db67ffee145e"
+            ]
+        }
+    ],
+    "grounding": {
+        "43fddfe8-b238-45e8-b1e5-d476b773d991": {
+            "box": {
+                "left": 0.03102514147758484,
+                "top": 0.10832814872264862,
+                "right": 0.9134054183959961,
+                "bottom": 0.21685095131397247
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.03534147049327291,
+                "top": 0.1157944894949694,
+                "right": 0.9101540596056523,
+                "bottom": 0.2168431762213281
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.03534147049327291,
+                "top": 0.1157944894949694,
+                "right": 0.07534660986710884,
+                "bottom": 0.13307028528134346
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.07534660986710884,
+                "top": 0.1157944894949694,
+                "right": 0.1360190022535639,
+                "bottom": 0.13307028528134346
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.1360190022535639,
+                "top": 0.1157944894949694,
+                "right": 0.4471237257896439,
+                "bottom": 0.15179128530712838
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.36659763503733966,
+                "top": 0.1157944894949694,
+                "right": 0.4471237257896439,
+                "bottom": 0.13307028528134346
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.4471237257896439,
+                "top": 0.1157944894949694,
+                "right": 0.9098841473877286,
+                "bottom": 0.13307028528134346
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.03534147049327291,
+                "top": 0.13307028528134346,
+                "right": 0.07534660986710884,
+                "bottom": 0.15179128530712838
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.07534660986710884,
+                "top": 0.13307028528134346,
+                "right": 0.36659763503733966,
+                "bottom": 0.17045856474688037
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.25318690597289706,
+                "top": 0.13307028528134346,
+                "right": 0.36659763503733966,
+                "bottom": 0.15179128530712838
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.36659763503733966,
+                "top": 0.13307028528134346,
+                "right": 0.4471237257896439,
+                "bottom": 0.15179128530712838
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.4471237257896439,
+                "top": 0.13307028528134346,
+                "right": 0.9098841473877286,
+                "bottom": 0.15179128530712838
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.03534147049327291,
+                "top": 0.15179128530712838,
+                "right": 0.07534660986710884,
+                "bottom": 0.17045856474688037
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.07534660986710884,
+                "top": 0.15179128530712838,
+                "right": 0.36659763503733966,
+                "bottom": 0.18923065916268023
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.25318690597289706,
+                "top": 0.15179128530712838,
+                "right": 0.36659763503733966,
+                "bottom": 0.17045856474688037
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.36659763503733966,
+                "top": 0.15179128530712838,
+                "right": 0.4471237257896439,
+                "bottom": 0.17045856474688037
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.4471237257896439,
+                "top": 0.15179128530712838,
+                "right": 0.9098841473877286,
+                "bottom": 0.17045856474688037
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.03534147049327291,
+                "top": 0.17045856474688037,
+                "right": 0.07534660986710884,
+                "bottom": 0.18923065916268023
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.07534660986710884,
+                "top": 0.17045856474688037,
+                "right": 0.4471237257896439,
+                "bottom": 0.2168431762213281
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.36659763503733966,
+                "top": 0.17045856474688037,
+                "right": 0.4471237257896439,
+                "bottom": 0.18923065916268023
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.4471237257896439,
+                "top": 0.17045856474688037,
+                "right": 0.9098841473877286,
+                "bottom": 0.18923065916268023
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.03534147049327291,
+                "top": 0.18923065916268023,
+                "right": 0.07534660986710884,
+                "bottom": 0.2168431762213281
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.07534660986710884,
+                "top": 0.18923065916268023,
+                "right": 0.9098841473877286,
+                "bottom": 0.2168431762213281
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.4471237257896439,
+                "top": 0.18923065916268023,
+                "right": 0.9098841473877286,
+                "bottom": 0.2168431762213281
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "c32a7d3e-0747-4bf5-903d-484f3ebfbad4": {
+            "box": {
+                "left": 0.02859574556350708,
+                "top": 0.24637886881828308,
+                "right": 0.9109697341918945,
+                "bottom": 0.6276577711105347
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2e5435c8-8142-4277-bc7d-73ea34012ee5": {
+            "box": {
+                "left": 0.024380415678024292,
+                "top": 0.6486643552780151,
+                "right": 0.9000507593154907,
+                "bottom": 0.9002147912979126
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2a7713ef-ce58-49f9-a50a-ddc61ea0e3ca": {
+            "box": {
+                "left": 0.2152329981327057,
+                "top": 0.9756951928138733,
+                "right": 0.7856571674346924,
+                "bottom": 0.9998447299003601
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "562f3e35-f7cd-47bb-8d3d-db67ffee145e": {
+            "box": {
+                "left": 0.9054771065711975,
+                "top": 0.8740398287773132,
+                "right": 0.9345764517784119,
+                "bottom": 0.9719802737236023
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "npyl0052_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7806,
+        "credit_usage": 3.0,
+        "job_id": "noc5yjxwfdfdf3s7tgqyptr9f",
+        "version": "dpt-2-20250919"
+    }
+}

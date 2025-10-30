@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='a8a0eff2-0182-483a-b4ca-1c0038bd78f2'></a>\n\nMcDONALD'S\n\n<a id='6ba7dcd5-334d-40d5-8052-5d4ffb26e3f8'></a>\n\n1. FACTORS LEADING TO PRICE REDUCTION:\n* Threatened by low prices of competition\n  Taco Bell price cuts have made \"value\" a me-too must\n* Growing appeal of sit-down restaurants\n* Eating out less frequently\n* Birth Dearth of the '80's; fewer teenagers\n\n<a id='30ee2792-fa7f-474c-99b1-279a7580b9a2'></a>\n\nSources: Restaurant Business 1992, BRANDWEEK 1992, Black Enterprise 1992\n\n<a id='fde178a2-8936-4401-b7f7-b105ab4d35a0'></a>\n\n51336 9542\n\n<a id='c78bb974-c159-433a-bc85-82cbf8380dab'></a>\n\n32",
+    "chunks": [
+        {
+            "markdown": "<a id='a8a0eff2-0182-483a-b4ca-1c0038bd78f2'></a>\n\nMcDONALD'S",
+            "type": "text",
+            "id": "a8a0eff2-0182-483a-b4ca-1c0038bd78f2",
+            "grounding": {
+                "box": {
+                    "left": 0.09628669917583466,
+                    "top": 0.10812460631132126,
+                    "right": 0.21549730002880096,
+                    "bottom": 0.14201343059539795
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6ba7dcd5-334d-40d5-8052-5d4ffb26e3f8'></a>\n\n1. FACTORS LEADING TO PRICE REDUCTION:\n* Threatened by low prices of competition\n  Taco Bell price cuts have made \"value\" a me-too must\n* Growing appeal of sit-down restaurants\n* Eating out less frequently\n* Birth Dearth of the '80's; fewer teenagers",
+            "type": "text",
+            "id": "6ba7dcd5-334d-40d5-8052-5d4ffb26e3f8",
+            "grounding": {
+                "box": {
+                    "left": 0.18719977140426636,
+                    "top": 0.1769474297761917,
+                    "right": 0.7501730918884277,
+                    "bottom": 0.5336705446243286
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='30ee2792-fa7f-474c-99b1-279a7580b9a2'></a>\n\nSources: Restaurant Business 1992, BRANDWEEK 1992, Black Enterprise 1992",
+            "type": "text",
+            "id": "30ee2792-fa7f-474c-99b1-279a7580b9a2",
+            "grounding": {
+                "box": {
+                    "left": 0.09800024330615997,
+                    "top": 0.7901998162269592,
+                    "right": 0.5364925265312195,
+                    "bottom": 0.8203532099723816
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fde178a2-8936-4401-b7f7-b105ab4d35a0'></a>\n\n51336 9542",
+            "type": "marginalia",
+            "id": "fde178a2-8936-4401-b7f7-b105ab4d35a0",
+            "grounding": {
+                "box": {
+                    "left": 0.024421483278274536,
+                    "top": 0.9420537948608398,
+                    "right": 0.1223747581243515,
+                    "bottom": 0.9705178737640381
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c78bb974-c159-433a-bc85-82cbf8380dab'></a>\n\n32",
+            "type": "marginalia",
+            "id": "c78bb974-c159-433a-bc85-82cbf8380dab",
+            "grounding": {
+                "box": {
+                    "left": 0.9458906054496765,
+                    "top": 0.9329099059104919,
+                    "right": 0.9672092795372009,
+                    "bottom": 0.9623087048530579
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a8a0eff2-0182-483a-b4ca-1c0038bd78f2'></a>\n\nMcDONALD'S\n\n<a id='6ba7dcd5-334d-40d5-8052-5d4ffb26e3f8'></a>\n\n1. FACTORS LEADING TO PRICE REDUCTION:\n* Threatened by low prices of competition\n  Taco Bell price cuts have made \"value\" a me-too must\n* Growing appeal of sit-down restaurants\n* Eating out less frequently\n* Birth Dearth of the '80's; fewer teenagers\n\n<a id='30ee2792-fa7f-474c-99b1-279a7580b9a2'></a>\n\nSources: Restaurant Business 1992, BRANDWEEK 1992, Black Enterprise 1992\n\n<a id='fde178a2-8936-4401-b7f7-b105ab4d35a0'></a>\n\n51336 9542\n\n<a id='c78bb974-c159-433a-bc85-82cbf8380dab'></a>\n\n32",
+            "chunks": [
+                "a8a0eff2-0182-483a-b4ca-1c0038bd78f2",
+                "6ba7dcd5-334d-40d5-8052-5d4ffb26e3f8",
+                "30ee2792-fa7f-474c-99b1-279a7580b9a2",
+                "fde178a2-8936-4401-b7f7-b105ab4d35a0",
+                "c78bb974-c159-433a-bc85-82cbf8380dab"
+            ]
+        }
+    ],
+    "grounding": {
+        "a8a0eff2-0182-483a-b4ca-1c0038bd78f2": {
+            "box": {
+                "left": 0.09628669917583466,
+                "top": 0.10812460631132126,
+                "right": 0.21549730002880096,
+                "bottom": 0.14201343059539795
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6ba7dcd5-334d-40d5-8052-5d4ffb26e3f8": {
+            "box": {
+                "left": 0.18719977140426636,
+                "top": 0.1769474297761917,
+                "right": 0.7501730918884277,
+                "bottom": 0.5336705446243286
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "30ee2792-fa7f-474c-99b1-279a7580b9a2": {
+            "box": {
+                "left": 0.09800024330615997,
+                "top": 0.7901998162269592,
+                "right": 0.5364925265312195,
+                "bottom": 0.8203532099723816
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fde178a2-8936-4401-b7f7-b105ab4d35a0": {
+            "box": {
+                "left": 0.024421483278274536,
+                "top": 0.9420537948608398,
+                "right": 0.1223747581243515,
+                "bottom": 0.9705178737640381
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "c78bb974-c159-433a-bc85-82cbf8380dab": {
+            "box": {
+                "left": 0.9458906054496765,
+                "top": 0.9329099059104919,
+                "right": 0.9672092795372009,
+                "bottom": 0.9623087048530579
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hsyn0081_32.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6654,
+        "credit_usage": 3.0,
+        "job_id": "ty5sf79i8jeefpgerywzxblio",
+        "version": "dpt-2-20250919"
+    }
+}

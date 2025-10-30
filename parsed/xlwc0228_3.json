@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='44dba41c-6ed3-49c8-a29e-2ac39f3286a3'></a>\n\n<::attestation: Signature/Name\n[Signature: legible]\nDr. Zouhair Kallal\nHandwritten name \"Dr. Zouhair Kallal\" on a light background, with a faint dotted line above the middle part of the name.::>\n\n<a id='d1eaf256-1e43-4ade-a3c2-c448e1a2d1b1'></a>\n\nJaques mays\n30\nD.C. 1-2 Aug\nK.A. 4-5-L\n-769\nN.Y.-\n\nDivision\nInstitut National de Nutrition\net de Technologie Alimentaire\n120, Avenue de la Liberte\nTunis, Tunisie\n\n<a id='1f12c986-9b9c-41f4-9d69-a71a9041ecf5'></a>\n\n<::attestation: Signature\nSignature: illegible\nA dark, handwritten signature, oriented vertically, on a light, textured paper background.::>",
+    "chunks": [
+        {
+            "markdown": "<a id='44dba41c-6ed3-49c8-a29e-2ac39f3286a3'></a>\n\n<::attestation: Signature/Name\n[Signature: legible]\nDr. Zouhair Kallal\nHandwritten name \"Dr. Zouhair Kallal\" on a light background, with a faint dotted line above the middle part of the name.::>",
+            "type": "attestation",
+            "id": "44dba41c-6ed3-49c8-a29e-2ac39f3286a3",
+            "grounding": {
+                "box": {
+                    "left": 0.29406657814979553,
+                    "top": 0.023990726098418236,
+                    "right": 0.6573055982589722,
+                    "bottom": 0.07442156225442886
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d1eaf256-1e43-4ade-a3c2-c448e1a2d1b1'></a>\n\nJaques mays\n30\nD.C. 1-2 Aug\nK.A. 4-5-L\n-769\nN.Y.-\n\nDivision\nInstitut National de Nutrition\net de Technologie Alimentaire\n120, Avenue de la Liberte\nTunis, Tunisie",
+            "type": "text",
+            "id": "d1eaf256-1e43-4ade-a3c2-c448e1a2d1b1",
+            "grounding": {
+                "box": {
+                    "left": 0.02542412281036377,
+                    "top": 0.07324287295341492,
+                    "right": 0.8873756527900696,
+                    "bottom": 0.30820056796073914
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1f12c986-9b9c-41f4-9d69-a71a9041ecf5'></a>\n\n<::attestation: Signature\nSignature: illegible\nA dark, handwritten signature, oriented vertically, on a light, textured paper background.::>",
+            "type": "attestation",
+            "id": "1f12c986-9b9c-41f4-9d69-a71a9041ecf5",
+            "grounding": {
+                "box": {
+                    "left": 0.023732654750347137,
+                    "top": 0.4838959872722626,
+                    "right": 0.10460435599088669,
+                    "bottom": 0.6100495457649231
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='44dba41c-6ed3-49c8-a29e-2ac39f3286a3'></a>\n\n<::attestation: Signature/Name\n[Signature: legible]\nDr. Zouhair Kallal\nHandwritten name \"Dr. Zouhair Kallal\" on a light background, with a faint dotted line above the middle part of the name.::>\n\n<a id='d1eaf256-1e43-4ade-a3c2-c448e1a2d1b1'></a>\n\nJaques mays\n30\nD.C. 1-2 Aug\nK.A. 4-5-L\n-769\nN.Y.-\n\nDivision\nInstitut National de Nutrition\net de Technologie Alimentaire\n120, Avenue de la Liberte\nTunis, Tunisie\n\n<a id='1f12c986-9b9c-41f4-9d69-a71a9041ecf5'></a>\n\n<::attestation: Signature\nSignature: illegible\nA dark, handwritten signature, oriented vertically, on a light, textured paper background.::>",
+            "chunks": [
+                "44dba41c-6ed3-49c8-a29e-2ac39f3286a3",
+                "d1eaf256-1e43-4ade-a3c2-c448e1a2d1b1",
+                "1f12c986-9b9c-41f4-9d69-a71a9041ecf5"
+            ]
+        }
+    ],
+    "grounding": {
+        "44dba41c-6ed3-49c8-a29e-2ac39f3286a3": {
+            "box": {
+                "left": 0.29406657814979553,
+                "top": 0.023990726098418236,
+                "right": 0.6573055982589722,
+                "bottom": 0.07442156225442886
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "d1eaf256-1e43-4ade-a3c2-c448e1a2d1b1": {
+            "box": {
+                "left": 0.02542412281036377,
+                "top": 0.07324287295341492,
+                "right": 0.8873756527900696,
+                "bottom": 0.30820056796073914
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1f12c986-9b9c-41f4-9d69-a71a9041ecf5": {
+            "box": {
+                "left": 0.023732654750347137,
+                "top": 0.4838959872722626,
+                "right": 0.10460435599088669,
+                "bottom": 0.6100495457649231
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        }
+    },
+    "metadata": {
+        "filename": "xlwc0228_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6877,
+        "credit_usage": 3.0,
+        "job_id": "w3x848t81unmaxpqbzykhudgs",
+        "version": "dpt-2-20250919"
+    }
+}

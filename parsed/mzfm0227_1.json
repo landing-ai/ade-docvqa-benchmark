@@ -1,0 +1,378 @@
+{
+    "markdown": "<a id='56adf849-ab36-4149-a7fe-600f1f1319b2'></a>\n\nOFFICIAL RECORD \u2013 IMMEDIATE RESPONSE REQUESTED\n\n<a id='d417fc20-d0d7-4ee9-bea4-c582d8f15f73'></a>\n\nRECORD OF PHYSICIANS'\nPROFESSIONAL ACTIVITIES\n\n<a id='ac89efad-77d6-4243-9765-ba2ff483d917'></a>\n\nDIRECTORY OF PHYSICIANS\n\n<a id='22bf14f2-21fc-48f0-aa59-f31112665cca'></a>\n\n<::logo: AMERICAN MEDICAL ASSOCIATION\nAMA\nAMERICAN MEDICAL ASSOCIATION\n535 N. Dearborn Street\nChicago, Illinois 60610\nA circular logo features the letters \"AMA\" at the top, a caduceus symbol in the center, and the words \"AMERICAN MEDICAL ASSOCIATION\" encircling it.::>\n\n<a id='2eb60eab-0af4-46ea-8eb2-015c014583d8'></a>\n\nDear Doctor:\n\nRecent information indicates there may have been a change in your professional mailing address and/or professional status. Therefore, will you please take a moment to assist us in correcting our records.\n\nThank You\n\n<a id='075a8da5-41c6-457e-9a6a-2f4dfd2872c1'></a>\n\n## Instructions\n\n1. Please answer every question on the basis of your <u>current activities</u>.\n2. Indicate any <u>changes</u>. Information which you provided previously has been printed in this form. Please <u>complete</u> unanswered sections and make <u>discrete changes</u> where applicable.\n3. Upon completion, return the questionnaire at your <u>earliest possible convenience</u>, using the preaddressed envelope.\n\n<a id='a31bfca2-a61a-47e3-bb26-a3a4387b97ec'></a>\n\n# Contents\nThe questionnaire is divided into three sections:\nI. *Professional Activities*\u2014the types of activities in which each physician spends the most time during an *average week*.\nII. *Specialization*\u2014the time physicians spend in their major fields of specialization.\nIII. *Present Employment Status*\u2014the number of hours *per average week* spent under various practice arrangements, by type of practice organization or employer.\n\n<a id='9559deb2-cc17-45d5-b1c4-60bcc2044e79'></a>\n\nPlease cross-out any prior information which is not applicable.\n\n<a id='f9370c9f-234b-421a-bbbd-d5631c10919b'></a>\n\n00401370137\n\n<a id='94221b45-791b-491a-94e1-588b3a63bcf4'></a>\n\nGROUP NAME\n\nADDRESS\n\nCITY-STATE-ZIP\n\n<a id='6a2602be-fa2c-4274-906c-ceb5ca74709a'></a>\n\n00401370137 00401370137\nWM JEFFERSON DARBY MD\nVANDERBILT UNIV SCH MED\nNASHVILLE TENN 37232\n\n<a id='640e5474-a747-4095-8847-71e043d91c20'></a>\n\nADDRESS\n\n<a id='73f21a68-e967-4463-90b9-ffb9b4df4a28'></a>\n\n->\n---\nCITY-STATE-ZIP\n\n<a id='77786b7a-2a26-4fe2-8c46-106c4231baaf'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mzfm0227",
+    "chunks": [
+        {
+            "markdown": "<a id='56adf849-ab36-4149-a7fe-600f1f1319b2'></a>\n\nOFFICIAL RECORD \u2013 IMMEDIATE RESPONSE REQUESTED",
+            "type": "text",
+            "id": "56adf849-ab36-4149-a7fe-600f1f1319b2",
+            "grounding": {
+                "box": {
+                    "left": 0.0798119455575943,
+                    "top": 0.0339021161198616,
+                    "right": 0.5427225828170776,
+                    "bottom": 0.05782647430896759
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d417fc20-d0d7-4ee9-bea4-c582d8f15f73'></a>\n\nRECORD OF PHYSICIANS'\nPROFESSIONAL ACTIVITIES",
+            "type": "text",
+            "id": "d417fc20-d0d7-4ee9-bea4-c582d8f15f73",
+            "grounding": {
+                "box": {
+                    "left": 0.11073596775531769,
+                    "top": 0.07182873785495758,
+                    "right": 0.5051080584526062,
+                    "bottom": 0.14570878446102142
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ac89efad-77d6-4243-9765-ba2ff483d917'></a>\n\nDIRECTORY OF PHYSICIANS",
+            "type": "text",
+            "id": "ac89efad-77d6-4243-9765-ba2ff483d917",
+            "grounding": {
+                "box": {
+                    "left": 0.14633096754550934,
+                    "top": 0.17655906081199646,
+                    "right": 0.48956018686294556,
+                    "bottom": 0.20548385381698608
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='22bf14f2-21fc-48f0-aa59-f31112665cca'></a>\n\n<::logo: AMERICAN MEDICAL ASSOCIATION\nAMA\nAMERICAN MEDICAL ASSOCIATION\n535 N. Dearborn Street\nChicago, Illinois 60610\nA circular logo features the letters \"AMA\" at the top, a caduceus symbol in the center, and the words \"AMERICAN MEDICAL ASSOCIATION\" encircling it.::>",
+            "type": "logo",
+            "id": "22bf14f2-21fc-48f0-aa59-f31112665cca",
+            "grounding": {
+                "box": {
+                    "left": 0.19537042081356049,
+                    "top": 0.2137981653213501,
+                    "right": 0.4331068992614746,
+                    "bottom": 0.33343011140823364
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2eb60eab-0af4-46ea-8eb2-015c014583d8'></a>\n\nDear Doctor:\n\nRecent information indicates there may have been a change in your professional mailing address and/or professional status. Therefore, will you please take a moment to assist us in correcting our records.\n\nThank You",
+            "type": "text",
+            "id": "2eb60eab-0af4-46ea-8eb2-015c014583d8",
+            "grounding": {
+                "box": {
+                    "left": 0.06574198603630066,
+                    "top": 0.40543878078460693,
+                    "right": 0.5453763008117676,
+                    "bottom": 0.5265216827392578
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='075a8da5-41c6-457e-9a6a-2f4dfd2872c1'></a>\n\n## Instructions\n\n1. Please answer every question on the basis of your <u>current activities</u>.\n2. Indicate any <u>changes</u>. Information which you provided previously has been printed in this form. Please <u>complete</u> unanswered sections and make <u>discrete changes</u> where applicable.\n3. Upon completion, return the questionnaire at your <u>earliest possible convenience</u>, using the preaddressed envelope.",
+            "type": "text",
+            "id": "075a8da5-41c6-457e-9a6a-2f4dfd2872c1",
+            "grounding": {
+                "box": {
+                    "left": 0.06463755667209625,
+                    "top": 0.5656081438064575,
+                    "right": 0.5349007844924927,
+                    "bottom": 0.7125226259231567
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a31bfca2-a61a-47e3-bb26-a3a4387b97ec'></a>\n\n# Contents\nThe questionnaire is divided into three sections:\nI. *Professional Activities*\u2014the types of activities in which each physician spends the most time during an *average week*.\nII. *Specialization*\u2014the time physicians spend in their major fields of specialization.\nIII. *Present Employment Status*\u2014the number of hours *per average week* spent under various practice arrangements, by type of practice organization or employer.",
+            "type": "text",
+            "id": "a31bfca2-a61a-47e3-bb26-a3a4387b97ec",
+            "grounding": {
+                "box": {
+                    "left": 0.06638936698436737,
+                    "top": 0.7375636100769043,
+                    "right": 0.5330613255500793,
+                    "bottom": 0.911547064781189
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9559deb2-cc17-45d5-b1c4-60bcc2044e79'></a>\n\nPlease cross-out any prior information which is not applicable.",
+            "type": "text",
+            "id": "9559deb2-cc17-45d5-b1c4-60bcc2044e79",
+            "grounding": {
+                "box": {
+                    "left": 0.6627490520477295,
+                    "top": 0.1931382268667221,
+                    "right": 0.8960356712341309,
+                    "bottom": 0.2731272578239441
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f9370c9f-234b-421a-bbbd-d5631c10919b'></a>\n\n00401370137",
+            "type": "text",
+            "id": "f9370c9f-234b-421a-bbbd-d5631c10919b",
+            "grounding": {
+                "box": {
+                    "left": 0.765655517578125,
+                    "top": 0.4703797698020935,
+                    "right": 0.8908923864364624,
+                    "bottom": 0.49254822731018066
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='94221b45-791b-491a-94e1-588b3a63bcf4'></a>\n\nGROUP NAME\n\nADDRESS\n\nCITY-STATE-ZIP",
+            "type": "text",
+            "id": "94221b45-791b-491a-94e1-588b3a63bcf4",
+            "grounding": {
+                "box": {
+                    "left": 0.6096606850624084,
+                    "top": 0.512040376663208,
+                    "right": 0.9750319123268127,
+                    "bottom": 0.6145269870758057
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6a2602be-fa2c-4274-906c-ceb5ca74709a'></a>\n\n00401370137 00401370137\nWM JEFFERSON DARBY MD\nVANDERBILT UNIV SCH MED\nNASHVILLE TENN 37232",
+            "type": "text",
+            "id": "6a2602be-fa2c-4274-906c-ceb5ca74709a",
+            "grounding": {
+                "box": {
+                    "left": 0.6079412698745728,
+                    "top": 0.7849025726318359,
+                    "right": 0.9313511848449707,
+                    "bottom": 0.9021795988082886
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='640e5474-a747-4095-8847-71e043d91c20'></a>\n\nADDRESS",
+            "type": "text",
+            "id": "640e5474-a747-4095-8847-71e043d91c20",
+            "grounding": {
+                "box": {
+                    "left": 0.6476390361785889,
+                    "top": 0.9261584877967834,
+                    "right": 0.7055988311767578,
+                    "bottom": 0.9424594044685364
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='73f21a68-e967-4463-90b9-ffb9b4df4a28'></a>\n\n->\n---\nCITY-STATE-ZIP",
+            "type": "text",
+            "id": "73f21a68-e967-4463-90b9-ffb9b4df4a28",
+            "grounding": {
+                "box": {
+                    "left": 0.6163886189460754,
+                    "top": 0.9572417736053467,
+                    "right": 0.7298261523246765,
+                    "bottom": 0.9733309745788574
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='77786b7a-2a26-4fe2-8c46-106c4231baaf'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mzfm0227",
+            "type": "marginalia",
+            "id": "77786b7a-2a26-4fe2-8c46-106c4231baaf",
+            "grounding": {
+                "box": {
+                    "left": 0.2449696958065033,
+                    "top": 0.9786028265953064,
+                    "right": 0.7542222738265991,
+                    "bottom": 0.9981903433799744
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='56adf849-ab36-4149-a7fe-600f1f1319b2'></a>\n\nOFFICIAL RECORD \u2013 IMMEDIATE RESPONSE REQUESTED\n\n<a id='d417fc20-d0d7-4ee9-bea4-c582d8f15f73'></a>\n\nRECORD OF PHYSICIANS'\nPROFESSIONAL ACTIVITIES\n\n<a id='ac89efad-77d6-4243-9765-ba2ff483d917'></a>\n\nDIRECTORY OF PHYSICIANS\n\n<a id='22bf14f2-21fc-48f0-aa59-f31112665cca'></a>\n\n<::logo: AMERICAN MEDICAL ASSOCIATION\nAMA\nAMERICAN MEDICAL ASSOCIATION\n535 N. Dearborn Street\nChicago, Illinois 60610\nA circular logo features the letters \"AMA\" at the top, a caduceus symbol in the center, and the words \"AMERICAN MEDICAL ASSOCIATION\" encircling it.::>\n\n<a id='2eb60eab-0af4-46ea-8eb2-015c014583d8'></a>\n\nDear Doctor:\n\nRecent information indicates there may have been a change in your professional mailing address and/or professional status. Therefore, will you please take a moment to assist us in correcting our records.\n\nThank You\n\n<a id='075a8da5-41c6-457e-9a6a-2f4dfd2872c1'></a>\n\n## Instructions\n\n1. Please answer every question on the basis of your <u>current activities</u>.\n2. Indicate any <u>changes</u>. Information which you provided previously has been printed in this form. Please <u>complete</u> unanswered sections and make <u>discrete changes</u> where applicable.\n3. Upon completion, return the questionnaire at your <u>earliest possible convenience</u>, using the preaddressed envelope.\n\n<a id='a31bfca2-a61a-47e3-bb26-a3a4387b97ec'></a>\n\n# Contents\nThe questionnaire is divided into three sections:\nI. *Professional Activities*\u2014the types of activities in which each physician spends the most time during an *average week*.\nII. *Specialization*\u2014the time physicians spend in their major fields of specialization.\nIII. *Present Employment Status*\u2014the number of hours *per average week* spent under various practice arrangements, by type of practice organization or employer.\n\n<a id='9559deb2-cc17-45d5-b1c4-60bcc2044e79'></a>\n\nPlease cross-out any prior information which is not applicable.\n\n<a id='f9370c9f-234b-421a-bbbd-d5631c10919b'></a>\n\n00401370137\n\n<a id='94221b45-791b-491a-94e1-588b3a63bcf4'></a>\n\nGROUP NAME\n\nADDRESS\n\nCITY-STATE-ZIP\n\n<a id='6a2602be-fa2c-4274-906c-ceb5ca74709a'></a>\n\n00401370137 00401370137\nWM JEFFERSON DARBY MD\nVANDERBILT UNIV SCH MED\nNASHVILLE TENN 37232\n\n<a id='640e5474-a747-4095-8847-71e043d91c20'></a>\n\nADDRESS\n\n<a id='73f21a68-e967-4463-90b9-ffb9b4df4a28'></a>\n\n->\n---\nCITY-STATE-ZIP\n\n<a id='77786b7a-2a26-4fe2-8c46-106c4231baaf'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mzfm0227",
+            "chunks": [
+                "56adf849-ab36-4149-a7fe-600f1f1319b2",
+                "d417fc20-d0d7-4ee9-bea4-c582d8f15f73",
+                "ac89efad-77d6-4243-9765-ba2ff483d917",
+                "22bf14f2-21fc-48f0-aa59-f31112665cca",
+                "2eb60eab-0af4-46ea-8eb2-015c014583d8",
+                "075a8da5-41c6-457e-9a6a-2f4dfd2872c1",
+                "a31bfca2-a61a-47e3-bb26-a3a4387b97ec",
+                "9559deb2-cc17-45d5-b1c4-60bcc2044e79",
+                "f9370c9f-234b-421a-bbbd-d5631c10919b",
+                "94221b45-791b-491a-94e1-588b3a63bcf4",
+                "6a2602be-fa2c-4274-906c-ceb5ca74709a",
+                "640e5474-a747-4095-8847-71e043d91c20",
+                "73f21a68-e967-4463-90b9-ffb9b4df4a28",
+                "77786b7a-2a26-4fe2-8c46-106c4231baaf"
+            ]
+        }
+    ],
+    "grounding": {
+        "56adf849-ab36-4149-a7fe-600f1f1319b2": {
+            "box": {
+                "left": 0.0798119455575943,
+                "top": 0.0339021161198616,
+                "right": 0.5427225828170776,
+                "bottom": 0.05782647430896759
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d417fc20-d0d7-4ee9-bea4-c582d8f15f73": {
+            "box": {
+                "left": 0.11073596775531769,
+                "top": 0.07182873785495758,
+                "right": 0.5051080584526062,
+                "bottom": 0.14570878446102142
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ac89efad-77d6-4243-9765-ba2ff483d917": {
+            "box": {
+                "left": 0.14633096754550934,
+                "top": 0.17655906081199646,
+                "right": 0.48956018686294556,
+                "bottom": 0.20548385381698608
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "22bf14f2-21fc-48f0-aa59-f31112665cca": {
+            "box": {
+                "left": 0.19537042081356049,
+                "top": 0.2137981653213501,
+                "right": 0.4331068992614746,
+                "bottom": 0.33343011140823364
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "2eb60eab-0af4-46ea-8eb2-015c014583d8": {
+            "box": {
+                "left": 0.06574198603630066,
+                "top": 0.40543878078460693,
+                "right": 0.5453763008117676,
+                "bottom": 0.5265216827392578
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "075a8da5-41c6-457e-9a6a-2f4dfd2872c1": {
+            "box": {
+                "left": 0.06463755667209625,
+                "top": 0.5656081438064575,
+                "right": 0.5349007844924927,
+                "bottom": 0.7125226259231567
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a31bfca2-a61a-47e3-bb26-a3a4387b97ec": {
+            "box": {
+                "left": 0.06638936698436737,
+                "top": 0.7375636100769043,
+                "right": 0.5330613255500793,
+                "bottom": 0.911547064781189
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9559deb2-cc17-45d5-b1c4-60bcc2044e79": {
+            "box": {
+                "left": 0.6627490520477295,
+                "top": 0.1931382268667221,
+                "right": 0.8960356712341309,
+                "bottom": 0.2731272578239441
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f9370c9f-234b-421a-bbbd-d5631c10919b": {
+            "box": {
+                "left": 0.765655517578125,
+                "top": 0.4703797698020935,
+                "right": 0.8908923864364624,
+                "bottom": 0.49254822731018066
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "94221b45-791b-491a-94e1-588b3a63bcf4": {
+            "box": {
+                "left": 0.6096606850624084,
+                "top": 0.512040376663208,
+                "right": 0.9750319123268127,
+                "bottom": 0.6145269870758057
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6a2602be-fa2c-4274-906c-ceb5ca74709a": {
+            "box": {
+                "left": 0.6079412698745728,
+                "top": 0.7849025726318359,
+                "right": 0.9313511848449707,
+                "bottom": 0.9021795988082886
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "640e5474-a747-4095-8847-71e043d91c20": {
+            "box": {
+                "left": 0.6476390361785889,
+                "top": 0.9261584877967834,
+                "right": 0.7055988311767578,
+                "bottom": 0.9424594044685364
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "73f21a68-e967-4463-90b9-ffb9b4df4a28": {
+            "box": {
+                "left": 0.6163886189460754,
+                "top": 0.9572417736053467,
+                "right": 0.7298261523246765,
+                "bottom": 0.9733309745788574
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "77786b7a-2a26-4fe2-8c46-106c4231baaf": {
+            "box": {
+                "left": 0.2449696958065033,
+                "top": 0.9786028265953064,
+                "right": 0.7542222738265991,
+                "bottom": 0.9981903433799744
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "mzfm0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 14411,
+        "credit_usage": 3.0,
+        "job_id": "k0d2945k7hscc3x3qqh532qw8",
+        "version": "dpt-2-20250919"
+    }
+}

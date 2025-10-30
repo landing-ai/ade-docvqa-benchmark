@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='6d9962a5-8f1a-4b48-94d1-bc6d27aa997b'></a>\n\nHealth Department\nFunctions\n\n<a id='e3c52d6b-a6ed-4dd2-9be1-cc8d91447781'></a>\n\nItem 6. page 4 (Selected Materials on Health Department Problems)\n\n<a id='d5308596-f334-4fc8-828e-6977a3c60e08'></a>\n\nAccessibility of Health Services\n\n<a id='c8b40307-7a5c-4bf9-87f2-1904d853f09d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/phvd0227",
+    "chunks": [
+        {
+            "markdown": "<a id='6d9962a5-8f1a-4b48-94d1-bc6d27aa997b'></a>\n\nHealth Department\nFunctions",
+            "type": "text",
+            "id": "6d9962a5-8f1a-4b48-94d1-bc6d27aa997b",
+            "grounding": {
+                "box": {
+                    "left": 0.6730417013168335,
+                    "top": 0.028660107403993607,
+                    "right": 0.8814059495925903,
+                    "bottom": 0.06606799364089966
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e3c52d6b-a6ed-4dd2-9be1-cc8d91447781'></a>\n\nItem 6. page 4 (Selected Materials on Health Department Problems)",
+            "type": "text",
+            "id": "e3c52d6b-a6ed-4dd2-9be1-cc8d91447781",
+            "grounding": {
+                "box": {
+                    "left": 0.16574415564537048,
+                    "top": 0.08405196666717529,
+                    "right": 0.9238512516021729,
+                    "bottom": 0.11835169792175293
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d5308596-f334-4fc8-828e-6977a3c60e08'></a>\n\nAccessibility of Health Services",
+            "type": "text",
+            "id": "d5308596-f334-4fc8-828e-6977a3c60e08",
+            "grounding": {
+                "box": {
+                    "left": 0.16376695036888123,
+                    "top": 0.12949177622795105,
+                    "right": 0.5446557998657227,
+                    "bottom": 0.15979376435279846
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c8b40307-7a5c-4bf9-87f2-1904d853f09d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/phvd0227",
+            "type": "text",
+            "id": "c8b40307-7a5c-4bf9-87f2-1904d853f09d",
+            "grounding": {
+                "box": {
+                    "left": 0.22498130798339844,
+                    "top": 0.9798168540000916,
+                    "right": 0.7774081230163574,
+                    "bottom": 0.9995399117469788
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6d9962a5-8f1a-4b48-94d1-bc6d27aa997b'></a>\n\nHealth Department\nFunctions\n\n<a id='e3c52d6b-a6ed-4dd2-9be1-cc8d91447781'></a>\n\nItem 6. page 4 (Selected Materials on Health Department Problems)\n\n<a id='d5308596-f334-4fc8-828e-6977a3c60e08'></a>\n\nAccessibility of Health Services\n\n<a id='c8b40307-7a5c-4bf9-87f2-1904d853f09d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/phvd0227",
+            "chunks": [
+                "6d9962a5-8f1a-4b48-94d1-bc6d27aa997b",
+                "e3c52d6b-a6ed-4dd2-9be1-cc8d91447781",
+                "d5308596-f334-4fc8-828e-6977a3c60e08",
+                "c8b40307-7a5c-4bf9-87f2-1904d853f09d"
+            ]
+        }
+    ],
+    "grounding": {
+        "6d9962a5-8f1a-4b48-94d1-bc6d27aa997b": {
+            "box": {
+                "left": 0.6730417013168335,
+                "top": 0.028660107403993607,
+                "right": 0.8814059495925903,
+                "bottom": 0.06606799364089966
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e3c52d6b-a6ed-4dd2-9be1-cc8d91447781": {
+            "box": {
+                "left": 0.16574415564537048,
+                "top": 0.08405196666717529,
+                "right": 0.9238512516021729,
+                "bottom": 0.11835169792175293
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d5308596-f334-4fc8-828e-6977a3c60e08": {
+            "box": {
+                "left": 0.16376695036888123,
+                "top": 0.12949177622795105,
+                "right": 0.5446557998657227,
+                "bottom": 0.15979376435279846
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c8b40307-7a5c-4bf9-87f2-1904d853f09d": {
+            "box": {
+                "left": 0.22498130798339844,
+                "top": 0.9798168540000916,
+                "right": 0.7774081230163574,
+                "bottom": 0.9995399117469788
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "phvd0227_23.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3785,
+        "credit_usage": 3.0,
+        "job_id": "gwygvr688rl3sx5kma99ed6zr",
+        "version": "dpt-2-20250919"
+    }
+}

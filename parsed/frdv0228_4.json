@@ -1,0 +1,558 @@
+{
+    "markdown": "<a id='7da3068b-a0e2-4133-ac12-ac538214a14c'></a>\n\nILSI\n\n<a id='97fd85eb-5b5c-4ed6-a83b-de5d0b7cf01f'></a>\n\nINTERNATIONAL LIFE SCIENCES INSTITUTE\n900 Seventeenth Street, N.W. \u2022 Suite 600 \u2022 Washington, D.C. 20006\n\n<a id='0d001e0e-9c8f-4aa4-9efb-21278d5b00b7'></a>\n\n2/3/82\nTelephone\n(202) 659-0074\n\n<a id='8be4df93-3dd8-4045-8548-dd4c62a442bd'></a>\n\nSemi-Annual Meeting of the\nBoard of Members\n\n<a id='4579916d-590d-4caf-98c6-49d41946fc63'></a>\n\n555 South Broadway\nTarrytown, New York\n\n<a id='3fa9fb9d-b531-4892-b7d2-0032e07a591e'></a>\n\nMarch 22, 1982\n10:00 a.m. - 4:00 p.m.\n\n<a id='0221dd8b-0e2b-495b-ac16-5bafa66fea9a'></a>\n\nAgenda\n\n<a id='24548b0e-67a1-4e3e-b233-638227adf847'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">I.</td><td id=\"0-3\">Call Meeting to Order</td></tr>\n<tr><td id=\"0-4\">II.</td><td id=\"0-5\">Approve Minutes of Previous Meeting</td></tr>\n<tr><td id=\"0-6\">III.</td><td id=\"0-7\">Welcome and General Overview of ILSI</td></tr>\n<tr><td id=\"0-8\">IV.</td><td id=\"0-9\">Review of Expert Committee Activities</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\">A. Pathology/Toxicology Committee -- Dr. H.C. Grice</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">B. Nutrition Committee -- Dr. R.J.L. Allen</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">C. Monographs on Pathology of Laboratory Animals -- Dr. T.C. Jones</td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\">D. Slide Seminar -- Dr. U. Mohr</td></tr>\n<tr><td id=\"0-i\">V.</td><td id=\"0-j\">Review of Technical Committee Activities</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">A. Caffeine Committee -- Mr. J.J. Barone</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">B. Color Committee -- Dr. J.C. Kirschman</td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\">C. Oral Health Committee -- Ms. S. Coleman</td></tr>\n<tr><td id=\"0-q\"></td><td id=\"0-r\">D. Interim Committee on Diet and Hypertension -- Dr. Pucak</td></tr>\n<tr><td id=\"0-s\"></td><td id=\"0-t\">E. Nutrition/Food Safety Committee -- Ms. S. Coleman</td></tr>\n<tr><td id=\"0-u\">VII.</td><td id=\"0-v\">Future Plans</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">A. ILSI Foundation -- Dr. U. Mohr</td></tr>\n</table>\nG.",
+    "chunks": [
+        {
+            "markdown": "<a id='7da3068b-a0e2-4133-ac12-ac538214a14c'></a>\n\nILSI",
+            "type": "text",
+            "id": "7da3068b-a0e2-4133-ac12-ac538214a14c",
+            "grounding": {
+                "box": {
+                    "left": 0.06086348742246628,
+                    "top": 0.05515361577272415,
+                    "right": 0.25046306848526,
+                    "bottom": 0.12110216170549393
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='97fd85eb-5b5c-4ed6-a83b-de5d0b7cf01f'></a>\n\nINTERNATIONAL LIFE SCIENCES INSTITUTE\n900 Seventeenth Street, N.W. \u2022 Suite 600 \u2022 Washington, D.C. 20006",
+            "type": "text",
+            "id": "97fd85eb-5b5c-4ed6-a83b-de5d0b7cf01f",
+            "grounding": {
+                "box": {
+                    "left": 0.2906295657157898,
+                    "top": 0.08004539459943771,
+                    "right": 0.743776261806488,
+                    "bottom": 0.11941278725862503
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0d001e0e-9c8f-4aa4-9efb-21278d5b00b7'></a>\n\n2/3/82\nTelephone\n(202) 659-0074",
+            "type": "text",
+            "id": "0d001e0e-9c8f-4aa4-9efb-21278d5b00b7",
+            "grounding": {
+                "box": {
+                    "left": 0.7879639863967896,
+                    "top": 0.07223937660455704,
+                    "right": 0.8934223651885986,
+                    "bottom": 0.11810142546892166
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8be4df93-3dd8-4045-8548-dd4c62a442bd'></a>\n\nSemi-Annual Meeting of the\nBoard of Members",
+            "type": "text",
+            "id": "8be4df93-3dd8-4045-8548-dd4c62a442bd",
+            "grounding": {
+                "box": {
+                    "left": 0.3455989360809326,
+                    "top": 0.17994306981563568,
+                    "right": 0.657249927520752,
+                    "bottom": 0.21608828008174896
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4579916d-590d-4caf-98c6-49d41946fc63'></a>\n\n555 South Broadway\nTarrytown, New York",
+            "type": "text",
+            "id": "4579916d-590d-4caf-98c6-49d41946fc63",
+            "grounding": {
+                "box": {
+                    "left": 0.3880477547645569,
+                    "top": 0.22597935795783997,
+                    "right": 0.6241119503974915,
+                    "bottom": 0.26289576292037964
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3fa9fb9d-b531-4892-b7d2-0032e07a591e'></a>\n\nMarch 22, 1982\n10:00 a.m. - 4:00 p.m.",
+            "type": "text",
+            "id": "3fa9fb9d-b531-4892-b7d2-0032e07a591e",
+            "grounding": {
+                "box": {
+                    "left": 0.36914849281311035,
+                    "top": 0.2717287838459015,
+                    "right": 0.6303324103355408,
+                    "bottom": 0.3087444007396698
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0221dd8b-0e2b-495b-ac16-5bafa66fea9a'></a>\n\nAgenda",
+            "type": "text",
+            "id": "0221dd8b-0e2b-495b-ac16-5bafa66fea9a",
+            "grounding": {
+                "box": {
+                    "left": 0.45770561695098877,
+                    "top": 0.332222044467926,
+                    "right": 0.5423071384429932,
+                    "bottom": 0.3526937961578369
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='24548b0e-67a1-4e3e-b233-638227adf847'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">I.</td><td id=\"0-3\">Call Meeting to Order</td></tr>\n<tr><td id=\"0-4\">II.</td><td id=\"0-5\">Approve Minutes of Previous Meeting</td></tr>\n<tr><td id=\"0-6\">III.</td><td id=\"0-7\">Welcome and General Overview of ILSI</td></tr>\n<tr><td id=\"0-8\">IV.</td><td id=\"0-9\">Review of Expert Committee Activities</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\">A. Pathology/Toxicology Committee -- Dr. H.C. Grice</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">B. Nutrition Committee -- Dr. R.J.L. Allen</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">C. Monographs on Pathology of Laboratory Animals -- Dr. T.C. Jones</td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\">D. Slide Seminar -- Dr. U. Mohr</td></tr>\n<tr><td id=\"0-i\">V.</td><td id=\"0-j\">Review of Technical Committee Activities</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">A. Caffeine Committee -- Mr. J.J. Barone</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">B. Color Committee -- Dr. J.C. Kirschman</td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\">C. Oral Health Committee -- Ms. S. Coleman</td></tr>\n<tr><td id=\"0-q\"></td><td id=\"0-r\">D. Interim Committee on Diet and Hypertension -- Dr. Pucak</td></tr>\n<tr><td id=\"0-s\"></td><td id=\"0-t\">E. Nutrition/Food Safety Committee -- Ms. S. Coleman</td></tr>\n<tr><td id=\"0-u\">VII.</td><td id=\"0-v\">Future Plans</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">A. ILSI Foundation -- Dr. U. Mohr</td></tr>\n</table>\nG.",
+            "type": "table",
+            "id": "24548b0e-67a1-4e3e-b233-638227adf847",
+            "grounding": {
+                "box": {
+                    "left": 0.11089116334915161,
+                    "top": 0.36959904432296753,
+                    "right": 0.8492678999900818,
+                    "bottom": 0.8755549788475037
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='7da3068b-a0e2-4133-ac12-ac538214a14c'></a>\n\nILSI\n\n<a id='97fd85eb-5b5c-4ed6-a83b-de5d0b7cf01f'></a>\n\nINTERNATIONAL LIFE SCIENCES INSTITUTE\n900 Seventeenth Street, N.W. \u2022 Suite 600 \u2022 Washington, D.C. 20006\n\n<a id='0d001e0e-9c8f-4aa4-9efb-21278d5b00b7'></a>\n\n2/3/82\nTelephone\n(202) 659-0074\n\n<a id='8be4df93-3dd8-4045-8548-dd4c62a442bd'></a>\n\nSemi-Annual Meeting of the\nBoard of Members\n\n<a id='4579916d-590d-4caf-98c6-49d41946fc63'></a>\n\n555 South Broadway\nTarrytown, New York\n\n<a id='3fa9fb9d-b531-4892-b7d2-0032e07a591e'></a>\n\nMarch 22, 1982\n10:00 a.m. - 4:00 p.m.\n\n<a id='0221dd8b-0e2b-495b-ac16-5bafa66fea9a'></a>\n\nAgenda\n\n<a id='24548b0e-67a1-4e3e-b233-638227adf847'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">I.</td><td id=\"0-3\">Call Meeting to Order</td></tr>\n<tr><td id=\"0-4\">II.</td><td id=\"0-5\">Approve Minutes of Previous Meeting</td></tr>\n<tr><td id=\"0-6\">III.</td><td id=\"0-7\">Welcome and General Overview of ILSI</td></tr>\n<tr><td id=\"0-8\">IV.</td><td id=\"0-9\">Review of Expert Committee Activities</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\">A. Pathology/Toxicology Committee -- Dr. H.C. Grice</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">B. Nutrition Committee -- Dr. R.J.L. Allen</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\">C. Monographs on Pathology of Laboratory Animals -- Dr. T.C. Jones</td></tr>\n<tr><td id=\"0-g\"></td><td id=\"0-h\">D. Slide Seminar -- Dr. U. Mohr</td></tr>\n<tr><td id=\"0-i\">V.</td><td id=\"0-j\">Review of Technical Committee Activities</td></tr>\n<tr><td id=\"0-k\"></td><td id=\"0-l\">A. Caffeine Committee -- Mr. J.J. Barone</td></tr>\n<tr><td id=\"0-m\"></td><td id=\"0-n\">B. Color Committee -- Dr. J.C. Kirschman</td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\">C. Oral Health Committee -- Ms. S. Coleman</td></tr>\n<tr><td id=\"0-q\"></td><td id=\"0-r\">D. Interim Committee on Diet and Hypertension -- Dr. Pucak</td></tr>\n<tr><td id=\"0-s\"></td><td id=\"0-t\">E. Nutrition/Food Safety Committee -- Ms. S. Coleman</td></tr>\n<tr><td id=\"0-u\">VII.</td><td id=\"0-v\">Future Plans</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">A. ILSI Foundation -- Dr. U. Mohr</td></tr>\n</table>\nG.",
+            "chunks": [
+                "7da3068b-a0e2-4133-ac12-ac538214a14c",
+                "97fd85eb-5b5c-4ed6-a83b-de5d0b7cf01f",
+                "0d001e0e-9c8f-4aa4-9efb-21278d5b00b7",
+                "8be4df93-3dd8-4045-8548-dd4c62a442bd",
+                "4579916d-590d-4caf-98c6-49d41946fc63",
+                "3fa9fb9d-b531-4892-b7d2-0032e07a591e",
+                "0221dd8b-0e2b-495b-ac16-5bafa66fea9a",
+                "24548b0e-67a1-4e3e-b233-638227adf847"
+            ]
+        }
+    ],
+    "grounding": {
+        "7da3068b-a0e2-4133-ac12-ac538214a14c": {
+            "box": {
+                "left": 0.06086348742246628,
+                "top": 0.05515361577272415,
+                "right": 0.25046306848526,
+                "bottom": 0.12110216170549393
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "97fd85eb-5b5c-4ed6-a83b-de5d0b7cf01f": {
+            "box": {
+                "left": 0.2906295657157898,
+                "top": 0.08004539459943771,
+                "right": 0.743776261806488,
+                "bottom": 0.11941278725862503
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0d001e0e-9c8f-4aa4-9efb-21278d5b00b7": {
+            "box": {
+                "left": 0.7879639863967896,
+                "top": 0.07223937660455704,
+                "right": 0.8934223651885986,
+                "bottom": 0.11810142546892166
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8be4df93-3dd8-4045-8548-dd4c62a442bd": {
+            "box": {
+                "left": 0.3455989360809326,
+                "top": 0.17994306981563568,
+                "right": 0.657249927520752,
+                "bottom": 0.21608828008174896
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4579916d-590d-4caf-98c6-49d41946fc63": {
+            "box": {
+                "left": 0.3880477547645569,
+                "top": 0.22597935795783997,
+                "right": 0.6241119503974915,
+                "bottom": 0.26289576292037964
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3fa9fb9d-b531-4892-b7d2-0032e07a591e": {
+            "box": {
+                "left": 0.36914849281311035,
+                "top": 0.2717287838459015,
+                "right": 0.6303324103355408,
+                "bottom": 0.3087444007396698
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0221dd8b-0e2b-495b-ac16-5bafa66fea9a": {
+            "box": {
+                "left": 0.45770561695098877,
+                "top": 0.332222044467926,
+                "right": 0.5423071384429932,
+                "bottom": 0.3526937961578369
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "24548b0e-67a1-4e3e-b233-638227adf847": {
+            "box": {
+                "left": 0.11089116334915161,
+                "top": 0.36959904432296753,
+                "right": 0.8492678999900818,
+                "bottom": 0.8755549788475037
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.37308837320016297,
+                "right": 0.8192956125547042,
+                "bottom": 0.8755502743049988
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.37308837320016297,
+                "right": 0.1754444874418999,
+                "bottom": 0.3955334361428511
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.37308837320016297,
+                "right": 0.8123147700337654,
+                "bottom": 0.3955334361428511
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.3955334361428511,
+                "right": 0.1754444874418999,
+                "bottom": 0.4262820828114311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.3955334361428511,
+                "right": 0.8123147700337654,
+                "bottom": 0.4262820828114311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.4262820828114311,
+                "right": 0.1754444874418999,
+                "bottom": 0.4557096784890078
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.4262820828114311,
+                "right": 0.8123147700337654,
+                "bottom": 0.4557096784890078
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.4557096784890078,
+                "right": 0.1754444874418999,
+                "bottom": 0.4859966561124729
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.4557096784890078,
+                "right": 0.8123147700337654,
+                "bottom": 0.4859966561124729
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.4859966561124729,
+                "right": 0.1754444874418999,
+                "bottom": 0.5161432513938848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.4859966561124729,
+                "right": 0.8123147700337654,
+                "bottom": 0.5161432513938848
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.5161432513938848,
+                "right": 0.1754444874418999,
+                "bottom": 0.5457611963293019
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.5161432513938848,
+                "right": 0.8123147700337654,
+                "bottom": 0.5457611963293019
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.5457611963293019,
+                "right": 0.1754444874418999,
+                "bottom": 0.5876697887160844
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.5457611963293019,
+                "right": 0.8123147700337654,
+                "bottom": 0.5876697887160844
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.5876697887160844,
+                "right": 0.1754444874418999,
+                "bottom": 0.6201441147277436
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.5876697887160844,
+                "right": 0.8123147700337654,
+                "bottom": 0.6201441147277436
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.6201441147277436,
+                "right": 0.1754444874418999,
+                "bottom": 0.6486076071527123
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.6201441147277436,
+                "right": 0.8123147700337654,
+                "bottom": 0.6486076071527123
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.6486076071527123,
+                "right": 0.1754444874418999,
+                "bottom": 0.6797955574411816
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.6486076071527123,
+                "right": 0.8123147700337654,
+                "bottom": 0.6797955574411816
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.6797955574411816,
+                "right": 0.1754444874418999,
+                "bottom": 0.7093461761513282
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.6797955574411816,
+                "right": 0.8123147700337654,
+                "bottom": 0.7093461761513282
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.7093461761513282,
+                "right": 0.1754444874418999,
+                "bottom": 0.7390336186393256
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.7093461761513282,
+                "right": 0.8123147700337654,
+                "bottom": 0.7390336186393256
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.7390336186393256,
+                "right": 0.1754444874418999,
+                "bottom": 0.7837944454703347
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.7390336186393256,
+                "right": 0.8123147700337654,
+                "bottom": 0.7837944454703347
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.7837944454703347,
+                "right": 0.1754444874418999,
+                "bottom": 0.8155414220691455
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.7837944454703347,
+                "right": 0.8123147700337654,
+                "bottom": 0.8155414220691455
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.8155414220691455,
+                "right": 0.1754444874418999,
+                "bottom": 0.8449887217881269
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.8155414220691455,
+                "right": 0.8123147700337654,
+                "bottom": 0.8449887217881269
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.11839595167703698,
+                "top": 0.8449887217881269,
+                "right": 0.1754444874418999,
+                "bottom": 0.8755502743049988
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.1754444874418999,
+                "top": 0.8449887217881269,
+                "right": 0.8123147700337654,
+                "bottom": 0.8755502743049988
+            },
+            "page": 0,
+            "type": "tableCell"
+        }
+    },
+    "metadata": {
+        "filename": "frdv0228_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 13881,
+        "credit_usage": 3.0,
+        "job_id": "cvlr7eemqwguge0zwgrtp3idj",
+        "version": "dpt-2-20250919"
+    }
+}

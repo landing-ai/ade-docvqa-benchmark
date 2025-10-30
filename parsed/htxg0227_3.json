@@ -1,0 +1,283 @@
+{
+    "markdown": "<a id='c34e70a9-4cbf-4284-b9f7-9b71f5e8c24b'></a>\n\nNumber of Patients in the Subdivisions of each Group\n\n<a id='83e459c3-ef93-4f13-9c23-e96a297a1cfc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Subdivisions Starting with Ba 18189</td><td id=\"0-3\">Starting with Placebo</td></tr>\n<tr><td id=\"0-4\">0.) Patients with laboratory data limited to the initial visit (i.e. relatively useless lab.data for this study)</td><td id=\"0-5\">8</td><td id=\"0-6\">11</td></tr>\n<tr><td id=\"0-7\">2-4.) Patients with lab. data obtained initially, after 2 months and in some instances after 4 months.</td><td id=\"0-8\">4</td><td id=\"0-9\">4</td></tr>\n<tr><td id=\"0-a\">(i.e. Patients receiving Placebo or Ba 18189, not both)</td><td id=\"0-b\"></td><td id=\"0-c\"></td></tr>\n<tr><td id=\"0-d\">6-8.) Patients with lab. data obtained initially, after 2 mo., 4 mo., 6 mo. and in some instances after 8 mos.</td><td id=\"0-e\">7</td><td id=\"0-f\">4</td></tr>\n<tr><td id=\"0-g\">(i.e. Patients receiving both Pacebo & Ba 18189</td><td id=\"0-h\"></td><td id=\"0-i\"></td></tr>\n</table>\n\n<a id='9658f1ba-19bc-4927-a265-44b0c76d3eb9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/htxg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='c34e70a9-4cbf-4284-b9f7-9b71f5e8c24b'></a>\n\nNumber of Patients in the Subdivisions of each Group",
+            "type": "text",
+            "id": "c34e70a9-4cbf-4284-b9f7-9b71f5e8c24b",
+            "grounding": {
+                "box": {
+                    "left": 0.25936269760131836,
+                    "top": 0.11655344069004059,
+                    "right": 0.7610849142074585,
+                    "bottom": 0.14033661782741547
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='83e459c3-ef93-4f13-9c23-e96a297a1cfc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Subdivisions Starting with Ba 18189</td><td id=\"0-3\">Starting with Placebo</td></tr>\n<tr><td id=\"0-4\">0.) Patients with laboratory data limited to the initial visit (i.e. relatively useless lab.data for this study)</td><td id=\"0-5\">8</td><td id=\"0-6\">11</td></tr>\n<tr><td id=\"0-7\">2-4.) Patients with lab. data obtained initially, after 2 months and in some instances after 4 months.</td><td id=\"0-8\">4</td><td id=\"0-9\">4</td></tr>\n<tr><td id=\"0-a\">(i.e. Patients receiving Placebo or Ba 18189, not both)</td><td id=\"0-b\"></td><td id=\"0-c\"></td></tr>\n<tr><td id=\"0-d\">6-8.) Patients with lab. data obtained initially, after 2 mo., 4 mo., 6 mo. and in some instances after 8 mos.</td><td id=\"0-e\">7</td><td id=\"0-f\">4</td></tr>\n<tr><td id=\"0-g\">(i.e. Patients receiving both Pacebo & Ba 18189</td><td id=\"0-h\"></td><td id=\"0-i\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "83e459c3-ef93-4f13-9c23-e96a297a1cfc",
+            "grounding": {
+                "box": {
+                    "left": 0.04185241460800171,
+                    "top": 0.19015376269817352,
+                    "right": 0.949521541595459,
+                    "bottom": 0.4691614508628845
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9658f1ba-19bc-4927-a265-44b0c76d3eb9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/htxg0227",
+            "type": "marginalia",
+            "id": "9658f1ba-19bc-4927-a265-44b0c76d3eb9",
+            "grounding": {
+                "box": {
+                    "left": 0.228998601436615,
+                    "top": 0.9798142910003662,
+                    "right": 0.7750634551048279,
+                    "bottom": 0.9996218681335449
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c34e70a9-4cbf-4284-b9f7-9b71f5e8c24b'></a>\n\nNumber of Patients in the Subdivisions of each Group\n\n<a id='83e459c3-ef93-4f13-9c23-e96a297a1cfc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Subdivisions Starting with Ba 18189</td><td id=\"0-3\">Starting with Placebo</td></tr>\n<tr><td id=\"0-4\">0.) Patients with laboratory data limited to the initial visit (i.e. relatively useless lab.data for this study)</td><td id=\"0-5\">8</td><td id=\"0-6\">11</td></tr>\n<tr><td id=\"0-7\">2-4.) Patients with lab. data obtained initially, after 2 months and in some instances after 4 months.</td><td id=\"0-8\">4</td><td id=\"0-9\">4</td></tr>\n<tr><td id=\"0-a\">(i.e. Patients receiving Placebo or Ba 18189, not both)</td><td id=\"0-b\"></td><td id=\"0-c\"></td></tr>\n<tr><td id=\"0-d\">6-8.) Patients with lab. data obtained initially, after 2 mo., 4 mo., 6 mo. and in some instances after 8 mos.</td><td id=\"0-e\">7</td><td id=\"0-f\">4</td></tr>\n<tr><td id=\"0-g\">(i.e. Patients receiving both Pacebo & Ba 18189</td><td id=\"0-h\"></td><td id=\"0-i\"></td></tr>\n</table>\n\n<a id='9658f1ba-19bc-4927-a265-44b0c76d3eb9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/htxg0227",
+            "chunks": [
+                "c34e70a9-4cbf-4284-b9f7-9b71f5e8c24b",
+                "83e459c3-ef93-4f13-9c23-e96a297a1cfc",
+                "9658f1ba-19bc-4927-a265-44b0c76d3eb9"
+            ]
+        }
+    ],
+    "grounding": {
+        "c34e70a9-4cbf-4284-b9f7-9b71f5e8c24b": {
+            "box": {
+                "left": 0.25936269760131836,
+                "top": 0.11655344069004059,
+                "right": 0.7610849142074585,
+                "bottom": 0.14033661782741547
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "83e459c3-ef93-4f13-9c23-e96a297a1cfc": {
+            "box": {
+                "left": 0.04185241460800171,
+                "top": 0.19015376269817352,
+                "right": 0.949521541595459,
+                "bottom": 0.4691614508628845
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.05779057860589831,
+                "top": 0.1902837261916109,
+                "right": 0.9433930549998948,
+                "bottom": 0.46915892307945484
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.05779057860589831,
+                "top": 0.1902837261916109,
+                "right": 0.9421071753992365,
+                "bottom": 0.3001220705296186
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.6766882195222443,
+                "top": 0.1902837261916109,
+                "right": 0.9421071753992365,
+                "bottom": 0.22501669815053016
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.05779057860589831,
+                "top": 0.22501669815053016,
+                "right": 0.4931316386437157,
+                "bottom": 0.3001220705296186
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.4931316386437157,
+                "top": 0.22501669815053016,
+                "right": 0.6766882195222443,
+                "bottom": 0.3001220705296186
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6766882195222443,
+                "top": 0.22501669815053016,
+                "right": 0.9421071753992365,
+                "bottom": 0.3001220705296186
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.05779057860589831,
+                "top": 0.3001220705296186,
+                "right": 0.4931316386437157,
+                "bottom": 0.35776669155985275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.4931316386437157,
+                "top": 0.3001220705296186,
+                "right": 0.6766882195222443,
+                "bottom": 0.35776669155985275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6766882195222443,
+                "top": 0.3001220705296186,
+                "right": 0.9421071753992365,
+                "bottom": 0.35776669155985275
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.05779057860589831,
+                "top": 0.35776669155985275,
+                "right": 0.4931316386437157,
+                "bottom": 0.38742080080980035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.4931316386437157,
+                "top": 0.35776669155985275,
+                "right": 0.6766882195222443,
+                "bottom": 0.38742080080980035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.6766882195222443,
+                "top": 0.35776669155985275,
+                "right": 0.9421071753992365,
+                "bottom": 0.38742080080980035
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.05779057860589831,
+                "top": 0.38742080080980035,
+                "right": 0.4931316386437157,
+                "bottom": 0.4462410074363792
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.4931316386437157,
+                "top": 0.38742080080980035,
+                "right": 0.6766882195222443,
+                "bottom": 0.4462410074363792
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.6766882195222443,
+                "top": 0.38742080080980035,
+                "right": 0.9421071753992365,
+                "bottom": 0.4462410074363792
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.05779057860589831,
+                "top": 0.4462410074363792,
+                "right": 0.4931316386437157,
+                "bottom": 0.46915892307945484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.4931316386437157,
+                "top": 0.4462410074363792,
+                "right": 0.6766882195222443,
+                "bottom": 0.46915892307945484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.6766882195222443,
+                "top": 0.4462410074363792,
+                "right": 0.9421071753992365,
+                "bottom": 0.46915892307945484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "9658f1ba-19bc-4927-a265-44b0c76d3eb9": {
+            "box": {
+                "left": 0.228998601436615,
+                "top": 0.9798142910003662,
+                "right": 0.7750634551048279,
+                "bottom": 0.9996218681335449
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "htxg0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5505,
+        "credit_usage": 3.0,
+        "job_id": "qmrtpnp9gudsdp3tn2ka2zjyv",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='c710375c-1b84-4110-ab3e-c72fc89e5c1f'></a>\n\nSender's name and address (Please show your postcode)\n\nS.2. Hollingsworth\n2, The Close, Petts Wood,\nOrpington,\nKent, BR5, 1JA,\nUK\n\n<a id='caf8a9d7-25d8-4561-abb9-69a2e8421d8b'></a>\n\nAn air letter should not contain any enclosure\n\n<a id='e03f79dd-2bed-4d4f-9c77-ab3dea76e484'></a>\n\nBy air mail Air letter\nPar avion Aerogramme\n\n<a id='ac9d4cbc-2e94-4827-888b-4ed23d461fd1'></a>\n\n<::Four postage stamps in a row, each featuring a profile of Queen Elizabeth II wearing a crown and a pearl necklace. The first two stamps are labeled \"1P\" (1 Penny), and the last two stamps are labeled \"2P\" (2 Pence). Faint circular postmarks with \"LONDON\" visible are partially overlaid on the stamps.\n: figure::>\n\n<a id='38b2302a-86d2-40ce-bce4-e32444525523'></a>\n\n<::A postage stamp featuring a profile of Queen Elizabeth II wearing a crown and necklace, facing left. The value \"2P\" is visible in the bottom left corner of the stamp.\n: figure::>\n\n<a id='ebfef9bd-aea7-4e6b-ab87-9dd8b4dc284a'></a>\n\n<::A black and white image showing a postage stamp featuring a profile of Queen Elizabeth II facing left, with \"1P\" visible in the bottom left corner. A circular postmark partially covers the stamp, with text \"LONDON\" and what appears to be a date or time. To the right, a faint, ghosted image of another profile of Queen Elizabeth II is visible, also facing left.: figure::>\n\n<a id='e98dfdf0-bf4f-463f-aab1-a758f0817935'></a>\n\nAn. W. J. Darby.\nPresident,\nThe Nutrition Foundation Inc.,\n489 Fifth Avenue,\nNew York, NY 10017,\nUSA\n\n<a id='bfc35d89-0688-4c20-a7a3-76320b4cb45d'></a>\n\n\n\n<a id='74f368a8-58a0-463f-b3c4-f59b5492793e'></a>\n\nTo open slit here",
+    "chunks": [
+        {
+            "markdown": "<a id='c710375c-1b84-4110-ab3e-c72fc89e5c1f'></a>\n\nSender's name and address (Please show your postcode)\n\nS.2. Hollingsworth\n2, The Close, Petts Wood,\nOrpington,\nKent, BR5, 1JA,\nUK",
+            "type": "text",
+            "id": "c710375c-1b84-4110-ab3e-c72fc89e5c1f",
+            "grounding": {
+                "box": {
+                    "left": 0.3139176666736603,
+                    "top": 0.40778422355651855,
+                    "right": 0.8058478832244873,
+                    "bottom": 0.5814152956008911
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='caf8a9d7-25d8-4561-abb9-69a2e8421d8b'></a>\n\nAn air letter should not contain any enclosure",
+            "type": "text",
+            "id": "caf8a9d7-25d8-4561-abb9-69a2e8421d8b",
+            "grounding": {
+                "box": {
+                    "left": 0.3144053816795349,
+                    "top": 0.6085978150367737,
+                    "right": 0.6795192956924438,
+                    "bottom": 0.631156861782074
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e03f79dd-2bed-4d4f-9c77-ab3dea76e484'></a>\n\nBy air mail Air letter\nPar avion Aerogramme",
+            "type": "text",
+            "id": "e03f79dd-2bed-4d4f-9c77-ab3dea76e484",
+            "grounding": {
+                "box": {
+                    "left": 0.06294545531272888,
+                    "top": 0.6726692914962769,
+                    "right": 0.2657961845397949,
+                    "bottom": 0.7206317186355591
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ac9d4cbc-2e94-4827-888b-4ed23d461fd1'></a>\n\n<::Four postage stamps in a row, each featuring a profile of Queen Elizabeth II wearing a crown and a pearl necklace. The first two stamps are labeled \"1P\" (1 Penny), and the last two stamps are labeled \"2P\" (2 Pence). Faint circular postmarks with \"LONDON\" visible are partially overlaid on the stamps.\n: figure::>",
+            "type": "figure",
+            "id": "ac9d4cbc-2e94-4827-888b-4ed23d461fd1",
+            "grounding": {
+                "box": {
+                    "left": 0.2583082318305969,
+                    "top": 0.6610273718833923,
+                    "right": 0.6156187057495117,
+                    "bottom": 0.7684821486473083
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='38b2302a-86d2-40ce-bce4-e32444525523'></a>\n\n<::A postage stamp featuring a profile of Queen Elizabeth II wearing a crown and necklace, facing left. The value \"2P\" is visible in the bottom left corner of the stamp.\n: figure::>",
+            "type": "figure",
+            "id": "38b2302a-86d2-40ce-bce4-e32444525523",
+            "grounding": {
+                "box": {
+                    "left": 0.6187382340431213,
+                    "top": 0.6618504524230957,
+                    "right": 0.7368372082710266,
+                    "bottom": 0.7491021156311035
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ebfef9bd-aea7-4e6b-ab87-9dd8b4dc284a'></a>\n\n<::A black and white image showing a postage stamp featuring a profile of Queen Elizabeth II facing left, with \"1P\" visible in the bottom left corner. A circular postmark partially covers the stamp, with text \"LONDON\" and what appears to be a date or time. To the right, a faint, ghosted image of another profile of Queen Elizabeth II is visible, also facing left.: figure::>",
+            "type": "figure",
+            "id": "ebfef9bd-aea7-4e6b-ab87-9dd8b4dc284a",
+            "grounding": {
+                "box": {
+                    "left": 0.7383766770362854,
+                    "top": 0.6473341584205627,
+                    "right": 0.9540027976036072,
+                    "bottom": 0.7605778574943542
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e98dfdf0-bf4f-463f-aab1-a758f0817935'></a>\n\nAn. W. J. Darby.\nPresident,\nThe Nutrition Foundation Inc.,\n489 Fifth Avenue,\nNew York, NY 10017,\nUSA",
+            "type": "text",
+            "id": "e98dfdf0-bf4f-463f-aab1-a758f0817935",
+            "grounding": {
+                "box": {
+                    "left": 0.3149721324443817,
+                    "top": 0.7638626098632812,
+                    "right": 0.8140144348144531,
+                    "bottom": 0.9285204410552979
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bfc35d89-0688-4c20-a7a3-76320b4cb45d'></a>\n\n",
+            "type": "marginalia",
+            "id": "bfc35d89-0688-4c20-a7a3-76320b4cb45d",
+            "grounding": {
+                "box": {
+                    "left": 0.08754201233386993,
+                    "top": 0.9490902423858643,
+                    "right": 0.16933919489383698,
+                    "bottom": 0.9687799215316772
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='74f368a8-58a0-463f-b3c4-f59b5492793e'></a>\n\nTo open slit here",
+            "type": "marginalia",
+            "id": "74f368a8-58a0-463f-b3c4-f59b5492793e",
+            "grounding": {
+                "box": {
+                    "left": 0.0883253961801529,
+                    "top": 0.975679874420166,
+                    "right": 0.19326151907444,
+                    "bottom": 0.9940042495727539
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c710375c-1b84-4110-ab3e-c72fc89e5c1f'></a>\n\nSender's name and address (Please show your postcode)\n\nS.2. Hollingsworth\n2, The Close, Petts Wood,\nOrpington,\nKent, BR5, 1JA,\nUK\n\n<a id='caf8a9d7-25d8-4561-abb9-69a2e8421d8b'></a>\n\nAn air letter should not contain any enclosure\n\n<a id='e03f79dd-2bed-4d4f-9c77-ab3dea76e484'></a>\n\nBy air mail Air letter\nPar avion Aerogramme\n\n<a id='ac9d4cbc-2e94-4827-888b-4ed23d461fd1'></a>\n\n<::Four postage stamps in a row, each featuring a profile of Queen Elizabeth II wearing a crown and a pearl necklace. The first two stamps are labeled \"1P\" (1 Penny), and the last two stamps are labeled \"2P\" (2 Pence). Faint circular postmarks with \"LONDON\" visible are partially overlaid on the stamps.\n: figure::>\n\n<a id='38b2302a-86d2-40ce-bce4-e32444525523'></a>\n\n<::A postage stamp featuring a profile of Queen Elizabeth II wearing a crown and necklace, facing left. The value \"2P\" is visible in the bottom left corner of the stamp.\n: figure::>\n\n<a id='ebfef9bd-aea7-4e6b-ab87-9dd8b4dc284a'></a>\n\n<::A black and white image showing a postage stamp featuring a profile of Queen Elizabeth II facing left, with \"1P\" visible in the bottom left corner. A circular postmark partially covers the stamp, with text \"LONDON\" and what appears to be a date or time. To the right, a faint, ghosted image of another profile of Queen Elizabeth II is visible, also facing left.: figure::>\n\n<a id='e98dfdf0-bf4f-463f-aab1-a758f0817935'></a>\n\nAn. W. J. Darby.\nPresident,\nThe Nutrition Foundation Inc.,\n489 Fifth Avenue,\nNew York, NY 10017,\nUSA\n\n<a id='bfc35d89-0688-4c20-a7a3-76320b4cb45d'></a>\n\n\n\n<a id='74f368a8-58a0-463f-b3c4-f59b5492793e'></a>\n\nTo open slit here",
+            "chunks": [
+                "c710375c-1b84-4110-ab3e-c72fc89e5c1f",
+                "caf8a9d7-25d8-4561-abb9-69a2e8421d8b",
+                "e03f79dd-2bed-4d4f-9c77-ab3dea76e484",
+                "ac9d4cbc-2e94-4827-888b-4ed23d461fd1",
+                "38b2302a-86d2-40ce-bce4-e32444525523",
+                "ebfef9bd-aea7-4e6b-ab87-9dd8b4dc284a",
+                "e98dfdf0-bf4f-463f-aab1-a758f0817935",
+                "bfc35d89-0688-4c20-a7a3-76320b4cb45d",
+                "74f368a8-58a0-463f-b3c4-f59b5492793e"
+            ]
+        }
+    ],
+    "grounding": {
+        "c710375c-1b84-4110-ab3e-c72fc89e5c1f": {
+            "box": {
+                "left": 0.3139176666736603,
+                "top": 0.40778422355651855,
+                "right": 0.8058478832244873,
+                "bottom": 0.5814152956008911
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "caf8a9d7-25d8-4561-abb9-69a2e8421d8b": {
+            "box": {
+                "left": 0.3144053816795349,
+                "top": 0.6085978150367737,
+                "right": 0.6795192956924438,
+                "bottom": 0.631156861782074
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e03f79dd-2bed-4d4f-9c77-ab3dea76e484": {
+            "box": {
+                "left": 0.06294545531272888,
+                "top": 0.6726692914962769,
+                "right": 0.2657961845397949,
+                "bottom": 0.7206317186355591
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ac9d4cbc-2e94-4827-888b-4ed23d461fd1": {
+            "box": {
+                "left": 0.2583082318305969,
+                "top": 0.6610273718833923,
+                "right": 0.6156187057495117,
+                "bottom": 0.7684821486473083
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "38b2302a-86d2-40ce-bce4-e32444525523": {
+            "box": {
+                "left": 0.6187382340431213,
+                "top": 0.6618504524230957,
+                "right": 0.7368372082710266,
+                "bottom": 0.7491021156311035
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "ebfef9bd-aea7-4e6b-ab87-9dd8b4dc284a": {
+            "box": {
+                "left": 0.7383766770362854,
+                "top": 0.6473341584205627,
+                "right": 0.9540027976036072,
+                "bottom": 0.7605778574943542
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "e98dfdf0-bf4f-463f-aab1-a758f0817935": {
+            "box": {
+                "left": 0.3149721324443817,
+                "top": 0.7638626098632812,
+                "right": 0.8140144348144531,
+                "bottom": 0.9285204410552979
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bfc35d89-0688-4c20-a7a3-76320b4cb45d": {
+            "box": {
+                "left": 0.08754201233386993,
+                "top": 0.9490902423858643,
+                "right": 0.16933919489383698,
+                "bottom": 0.9687799215316772
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "74f368a8-58a0-463f-b3c4-f59b5492793e": {
+            "box": {
+                "left": 0.0883253961801529,
+                "top": 0.975679874420166,
+                "right": 0.19326151907444,
+                "bottom": 0.9940042495727539
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hpnm0227_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5726,
+        "credit_usage": 3.0,
+        "job_id": "p4krh1iymmsg7ncn27yf52f7i",
+        "version": "dpt-2-20250919"
+    }
+}

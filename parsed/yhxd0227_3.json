@@ -1,0 +1,743 @@
+{
+    "markdown": "<a id='7ecd7e65-65c6-4090-a9e1-72cfd2283d5b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Car</td><td id=\"0-3\">member Acct. No.</td><td id=\"0-4\"></td><td id=\"0-5\"></td><td id=\"0-6\">Card No.</td><td id=\"0-7\"></td><td id=\"0-8\"></td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\">09.4</td><td id=\"0-b\">801</td><td id=\"0-c\">018</td><td id=\"0-d\">b 100A</td><td id=\"0-e\"></td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">Card</td><td id=\"0-h\">VALID</td><td id=\"0-i\">04 75</td><td id=\"0-j\"></td><td id=\"0-k\">THRU 03 76</td><td id=\"0-l\">AMERICAN EXPRESS (logo)</td><td id=\"0-m\">Approval Code 1974</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">ROBER</td><td id=\"0-p\" colspan=\"2\">T E SHANK M</td><td id=\"0-q\">D</td><td id=\"0-r\">CARDS (logo)</td><td id=\"0-s\">Check or Bill No. 212</td></tr>\n</table>\n\n<a id='6e34cb0e-4f19-4a78-9cda-8dc0d224fada'></a>\n\n<table id=\"0-t\">\n<tr><td id=\"0-u\">Service Establishment</td><td id=\"0-v\"></td><td id=\"0-w\" rowspan=\"2\">gray rectangle</td></tr>\n<tr><td id=\"0-x\">WATON WHEEL</td><td id=\"0-y\"></td></tr>\n<tr><td id=\"0-z\" rowspan=\"2\">ROCKTON ILL 3120510664</td><td id=\"0-A\" rowspan=\"2\">10 15 75</td><td id=\"0-B\" rowspan=\"2\">Merchandise/Services</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\">Taxes</td></tr>\n<tr><td id=\"0-F\" colspan=\"2\">Establishment agrees to transmit to American Express for payment. Merchandise and/or service purchased on this card shall not be resold or returned for cash refund.</td><td id=\"0-G\">Tips/Misc.</td></tr>\n<tr><td id=\"0-H\">Cardmember Signature</td><td id=\"0-I\"></td><td id=\"0-J\">Total</td></tr>\n<tr><td id=\"0-K\">Invoice Number</td><td id=\"0-L\">American Express</td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">879506</td><td id=\"0-O\"></td><td id=\"0-P\"></td></tr>\n</table>\n<table id=\"0-Q\">\n<tr><td id=\"0-R\">Any delayed charges are entered below:</td></tr>\n<tr><td id=\"0-S\">Type of Delayed Chg.</td></tr>\n<tr><td id=\"0-T\">Amt. of Delayed Chg.</td></tr>\n<tr><td id=\"0-U\">Revised Total</td></tr>\n<tr><td id=\"0-V\">Amer. Expr. Use Only Equivalent Amt.</td></tr>\n<tr><td id=\"0-W\">Record of Charges</td></tr>\n<tr><td id=\"0-X\">Cardmember Copy</td></tr>\n</table>\n\n<a id='d0e41e14-1b4c-43a6-b6ad-9e32755bf31a'></a>\n\nAmer. Expr. Use Only\nEquivalent Amt.\n---\nRecord of\nCharges\n\nCardmember\nCopy\n\nROC FORM\n\n<a id='29a931fb-4c0c-451d-b29e-16878f3cdafc'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yhxd0227\n\n<a id='423fd8c6-2ca9-4343-a085-55d8f2319b5e'></a>\n\nROC FORM 20249-REV.10-72 PRINTED IN USA 10-72",
+    "chunks": [
+        {
+            "markdown": "<a id='7ecd7e65-65c6-4090-a9e1-72cfd2283d5b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Car</td><td id=\"0-3\">member Acct. No.</td><td id=\"0-4\"></td><td id=\"0-5\"></td><td id=\"0-6\">Card No.</td><td id=\"0-7\"></td><td id=\"0-8\"></td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\">09.4</td><td id=\"0-b\">801</td><td id=\"0-c\">018</td><td id=\"0-d\">b 100A</td><td id=\"0-e\"></td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">Card</td><td id=\"0-h\">VALID</td><td id=\"0-i\">04 75</td><td id=\"0-j\"></td><td id=\"0-k\">THRU 03 76</td><td id=\"0-l\">AMERICAN EXPRESS (logo)</td><td id=\"0-m\">Approval Code 1974</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">ROBER</td><td id=\"0-p\" colspan=\"2\">T E SHANK M</td><td id=\"0-q\">D</td><td id=\"0-r\">CARDS (logo)</td><td id=\"0-s\">Check or Bill No. 212</td></tr>\n</table>",
+            "type": "table",
+            "id": "7ecd7e65-65c6-4090-a9e1-72cfd2283d5b",
+            "grounding": {
+                "box": {
+                    "left": 0.03309914469718933,
+                    "top": 0.05159613490104675,
+                    "right": 0.9291906356811523,
+                    "bottom": 0.3243987262248993
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6e34cb0e-4f19-4a78-9cda-8dc0d224fada'></a>\n\n<table id=\"0-t\">\n<tr><td id=\"0-u\">Service Establishment</td><td id=\"0-v\"></td><td id=\"0-w\" rowspan=\"2\">gray rectangle</td></tr>\n<tr><td id=\"0-x\">WATON WHEEL</td><td id=\"0-y\"></td></tr>\n<tr><td id=\"0-z\" rowspan=\"2\">ROCKTON ILL 3120510664</td><td id=\"0-A\" rowspan=\"2\">10 15 75</td><td id=\"0-B\" rowspan=\"2\">Merchandise/Services</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\">Taxes</td></tr>\n<tr><td id=\"0-F\" colspan=\"2\">Establishment agrees to transmit to American Express for payment. Merchandise and/or service purchased on this card shall not be resold or returned for cash refund.</td><td id=\"0-G\">Tips/Misc.</td></tr>\n<tr><td id=\"0-H\">Cardmember Signature</td><td id=\"0-I\"></td><td id=\"0-J\">Total</td></tr>\n<tr><td id=\"0-K\">Invoice Number</td><td id=\"0-L\">American Express</td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">879506</td><td id=\"0-O\"></td><td id=\"0-P\"></td></tr>\n</table>\n<table id=\"0-Q\">\n<tr><td id=\"0-R\">Any delayed charges are entered below:</td></tr>\n<tr><td id=\"0-S\">Type of Delayed Chg.</td></tr>\n<tr><td id=\"0-T\">Amt. of Delayed Chg.</td></tr>\n<tr><td id=\"0-U\">Revised Total</td></tr>\n<tr><td id=\"0-V\">Amer. Expr. Use Only Equivalent Amt.</td></tr>\n<tr><td id=\"0-W\">Record of Charges</td></tr>\n<tr><td id=\"0-X\">Cardmember Copy</td></tr>\n</table>",
+            "type": "table",
+            "id": "6e34cb0e-4f19-4a78-9cda-8dc0d224fada",
+            "grounding": {
+                "box": {
+                    "left": 0.03800991177558899,
+                    "top": 0.3104797303676605,
+                    "right": 0.9412602186203003,
+                    "bottom": 0.9124486446380615
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d0e41e14-1b4c-43a6-b6ad-9e32755bf31a'></a>\n\nAmer. Expr. Use Only\nEquivalent Amt.\n---\nRecord of\nCharges\n\nCardmember\nCopy\n\nROC FORM",
+            "type": "text",
+            "id": "d0e41e14-1b4c-43a6-b6ad-9e32755bf31a",
+            "grounding": {
+                "box": {
+                    "left": 0.7621652483940125,
+                    "top": 0.6451330184936523,
+                    "right": 0.9559449553489685,
+                    "bottom": 0.8906263113021851
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='29a931fb-4c0c-451d-b29e-16878f3cdafc'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yhxd0227",
+            "type": "text",
+            "id": "29a931fb-4c0c-451d-b29e-16878f3cdafc",
+            "grounding": {
+                "box": {
+                    "left": 0.038493335247039795,
+                    "top": 0.9270654916763306,
+                    "right": 0.9641690850257874,
+                    "bottom": 0.9982850551605225
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='423fd8c6-2ca9-4343-a085-55d8f2319b5e'></a>\n\nROC FORM 20249-REV.10-72 PRINTED IN USA 10-72",
+            "type": "text",
+            "id": "423fd8c6-2ca9-4343-a085-55d8f2319b5e",
+            "grounding": {
+                "box": {
+                    "left": 0.9384490251541138,
+                    "top": 0.30476534366607666,
+                    "right": 0.9608017206192017,
+                    "bottom": 0.745415210723877
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='7ecd7e65-65c6-4090-a9e1-72cfd2283d5b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Car</td><td id=\"0-3\">member Acct. No.</td><td id=\"0-4\"></td><td id=\"0-5\"></td><td id=\"0-6\">Card No.</td><td id=\"0-7\"></td><td id=\"0-8\"></td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\">09.4</td><td id=\"0-b\">801</td><td id=\"0-c\">018</td><td id=\"0-d\">b 100A</td><td id=\"0-e\"></td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">Card</td><td id=\"0-h\">VALID</td><td id=\"0-i\">04 75</td><td id=\"0-j\"></td><td id=\"0-k\">THRU 03 76</td><td id=\"0-l\">AMERICAN EXPRESS (logo)</td><td id=\"0-m\">Approval Code 1974</td></tr>\n<tr><td id=\"0-n\"></td><td id=\"0-o\">ROBER</td><td id=\"0-p\" colspan=\"2\">T E SHANK M</td><td id=\"0-q\">D</td><td id=\"0-r\">CARDS (logo)</td><td id=\"0-s\">Check or Bill No. 212</td></tr>\n</table>\n\n<a id='6e34cb0e-4f19-4a78-9cda-8dc0d224fada'></a>\n\n<table id=\"0-t\">\n<tr><td id=\"0-u\">Service Establishment</td><td id=\"0-v\"></td><td id=\"0-w\" rowspan=\"2\">gray rectangle</td></tr>\n<tr><td id=\"0-x\">WATON WHEEL</td><td id=\"0-y\"></td></tr>\n<tr><td id=\"0-z\" rowspan=\"2\">ROCKTON ILL 3120510664</td><td id=\"0-A\" rowspan=\"2\">10 15 75</td><td id=\"0-B\" rowspan=\"2\">Merchandise/Services</td></tr>\n<tr><td id=\"0-C\"></td><td id=\"0-D\"></td><td id=\"0-E\">Taxes</td></tr>\n<tr><td id=\"0-F\" colspan=\"2\">Establishment agrees to transmit to American Express for payment. Merchandise and/or service purchased on this card shall not be resold or returned for cash refund.</td><td id=\"0-G\">Tips/Misc.</td></tr>\n<tr><td id=\"0-H\">Cardmember Signature</td><td id=\"0-I\"></td><td id=\"0-J\">Total</td></tr>\n<tr><td id=\"0-K\">Invoice Number</td><td id=\"0-L\">American Express</td><td id=\"0-M\"></td></tr>\n<tr><td id=\"0-N\">879506</td><td id=\"0-O\"></td><td id=\"0-P\"></td></tr>\n</table>\n<table id=\"0-Q\">\n<tr><td id=\"0-R\">Any delayed charges are entered below:</td></tr>\n<tr><td id=\"0-S\">Type of Delayed Chg.</td></tr>\n<tr><td id=\"0-T\">Amt. of Delayed Chg.</td></tr>\n<tr><td id=\"0-U\">Revised Total</td></tr>\n<tr><td id=\"0-V\">Amer. Expr. Use Only Equivalent Amt.</td></tr>\n<tr><td id=\"0-W\">Record of Charges</td></tr>\n<tr><td id=\"0-X\">Cardmember Copy</td></tr>\n</table>\n\n<a id='d0e41e14-1b4c-43a6-b6ad-9e32755bf31a'></a>\n\nAmer. Expr. Use Only\nEquivalent Amt.\n---\nRecord of\nCharges\n\nCardmember\nCopy\n\nROC FORM\n\n<a id='29a931fb-4c0c-451d-b29e-16878f3cdafc'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yhxd0227\n\n<a id='423fd8c6-2ca9-4343-a085-55d8f2319b5e'></a>\n\nROC FORM 20249-REV.10-72 PRINTED IN USA 10-72",
+            "chunks": [
+                "7ecd7e65-65c6-4090-a9e1-72cfd2283d5b",
+                "6e34cb0e-4f19-4a78-9cda-8dc0d224fada",
+                "d0e41e14-1b4c-43a6-b6ad-9e32755bf31a",
+                "29a931fb-4c0c-451d-b29e-16878f3cdafc",
+                "423fd8c6-2ca9-4343-a085-55d8f2319b5e"
+            ]
+        }
+    ],
+    "grounding": {
+        "7ecd7e65-65c6-4090-a9e1-72cfd2283d5b": {
+            "box": {
+                "left": 0.03309914469718933,
+                "top": 0.05159613490104675,
+                "right": 0.9291906356811523,
+                "bottom": 0.3243987262248993
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.04299714248301861,
+                "top": 0.05666459030566662,
+                "right": 0.9291805409615161,
+                "bottom": 0.3201157953173208
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.04299714248301861,
+                "top": 0.05666459030566662,
+                "right": 0.07667591625626546,
+                "bottom": 0.09242838219602945
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.07667591625626546,
+                "top": 0.05666459030566662,
+                "right": 0.21097033460526005,
+                "bottom": 0.09242838219602945
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.21097033460526005,
+                "top": 0.05666459030566662,
+                "right": 0.3273519967653087,
+                "bottom": 0.09242838219602945
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.3273519967653087,
+                "top": 0.05666459030566662,
+                "right": 0.4207056405730336,
+                "bottom": 0.09242838219602945
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.4207056405730336,
+                "top": 0.05666459030566662,
+                "right": 0.631951722815673,
+                "bottom": 0.09242838219602945
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.631951722815673,
+                "top": 0.05666459030566662,
+                "right": 0.7617921966362928,
+                "bottom": 0.09242838219602945
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7617921966362928,
+                "top": 0.05666459030566662,
+                "right": 0.9290974331109663,
+                "bottom": 0.09242838219602945
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.04299714248301861,
+                "top": 0.09242838219602945,
+                "right": 0.07667591625626546,
+                "bottom": 0.17487477371138738
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.07667591625626546,
+                "top": 0.09242838219602945,
+                "right": 0.21097033460526005,
+                "bottom": 0.17487477371138738
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.21097033460526005,
+                "top": 0.09242838219602945,
+                "right": 0.3273519967653087,
+                "bottom": 0.17487477371138738
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.3273519967653087,
+                "top": 0.09242838219602945,
+                "right": 0.4207056405730336,
+                "bottom": 0.17487477371138738
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.4207056405730336,
+                "top": 0.09242838219602945,
+                "right": 0.631951722815673,
+                "bottom": 0.17487477371138738
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.631951722815673,
+                "top": 0.09242838219602945,
+                "right": 0.7617921966362928,
+                "bottom": 0.17487477371138738
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7617921966362928,
+                "top": 0.09242838219602945,
+                "right": 0.9290974331109663,
+                "bottom": 0.17487477371138738
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.04299714248301861,
+                "top": 0.17487477371138738,
+                "right": 0.07667591625626546,
+                "bottom": 0.2430844053589567
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.07667591625626546,
+                "top": 0.17487477371138738,
+                "right": 0.21097033460526005,
+                "bottom": 0.2430844053589567
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.21097033460526005,
+                "top": 0.17487477371138738,
+                "right": 0.3273519967653087,
+                "bottom": 0.2430844053589567
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.3273519967653087,
+                "top": 0.17487477371138738,
+                "right": 0.4207056405730336,
+                "bottom": 0.2430844053589567
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.4207056405730336,
+                "top": 0.17487477371138738,
+                "right": 0.631951722815673,
+                "bottom": 0.2430844053589567
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.631951722815673,
+                "top": 0.17487477371138738,
+                "right": 0.7617921966362928,
+                "bottom": 0.2430844053589567
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.7617921966362928,
+                "top": 0.17487477371138738,
+                "right": 0.9290974331109663,
+                "bottom": 0.2430844053589567
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.04299714248301861,
+                "top": 0.2430844053589567,
+                "right": 0.07667591625626546,
+                "bottom": 0.3201157953173208
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.07667591625626546,
+                "top": 0.2430844053589567,
+                "right": 0.21097033460526005,
+                "bottom": 0.3201157953173208
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.21097033460526005,
+                "top": 0.2430844053589567,
+                "right": 0.631951722815673,
+                "bottom": 0.3201157953173208
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.4207056405730336,
+                "top": 0.2430844053589567,
+                "right": 0.631951722815673,
+                "bottom": 0.3201157953173208
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.631951722815673,
+                "top": 0.2430844053589567,
+                "right": 0.7617921966362928,
+                "bottom": 0.3201157953173208
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.7617921966362928,
+                "top": 0.2430844053589567,
+                "right": 0.9290974331109663,
+                "bottom": 0.3201157953173208
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "6e34cb0e-4f19-4a78-9cda-8dc0d224fada": {
+            "box": {
+                "left": 0.03800991177558899,
+                "top": 0.3104797303676605,
+                "right": 0.9412602186203003,
+                "bottom": 0.9124486446380615
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.0419819649506656,
+                "top": 0.32939165382207547,
+                "right": 0.7651267382736133,
+                "bottom": 0.9124436572981427
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.0419819649506656,
+                "top": 0.32939165382207547,
+                "right": 0.40969881907314143,
+                "bottom": 0.36129792997434973
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.40969881907314143,
+                "top": 0.32939165382207547,
+                "right": 0.583469326469336,
+                "bottom": 0.36129792997434973
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.583469326469336,
+                "top": 0.32939165382207547,
+                "right": 0.7675032514593969,
+                "bottom": 0.44905128364553804
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.0419819649506656,
+                "top": 0.36129792997434973,
+                "right": 0.40969881907314143,
+                "bottom": 0.40108943497176597
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.40969881907314143,
+                "top": 0.36129792997434973,
+                "right": 0.583469326469336,
+                "bottom": 0.40108943497176597
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.0419819649506656,
+                "top": 0.40108943497176597,
+                "right": 0.583469326469336,
+                "bottom": 0.5701467493460539
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.40969881907314143,
+                "top": 0.40108943497176597,
+                "right": 0.7675032514593969,
+                "bottom": 0.5701467493460539
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.583469326469336,
+                "top": 0.40108943497176597,
+                "right": 0.7675032514593969,
+                "bottom": 0.5701467493460539
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.0419819649506656,
+                "top": 0.4928209322561745,
+                "right": 0.40969881907314143,
+                "bottom": 0.5701467493460539
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.40969881907314143,
+                "top": 0.4928209322561745,
+                "right": 0.583469326469336,
+                "bottom": 0.5701467493460539
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.583469326469336,
+                "top": 0.4928209322561745,
+                "right": 0.7675032514593969,
+                "bottom": 0.5701467493460539
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.0419819649506656,
+                "top": 0.5701467493460539,
+                "right": 0.7675032514593969,
+                "bottom": 0.7368224833286003
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.583469326469336,
+                "top": 0.5701467493460539,
+                "right": 0.7675032514593969,
+                "bottom": 0.6475081954182311
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.0419819649506656,
+                "top": 0.6475081954182311,
+                "right": 0.40969881907314143,
+                "bottom": 0.7368224833286003
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.40969881907314143,
+                "top": 0.6475081954182311,
+                "right": 0.583469326469336,
+                "bottom": 0.7368224833286003
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.583469326469336,
+                "top": 0.6475081954182311,
+                "right": 0.7675032514593969,
+                "bottom": 0.7368224833286003
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.0419819649506656,
+                "top": 0.7368224833286003,
+                "right": 0.40969881907314143,
+                "bottom": 0.8234952033288696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.40969881907314143,
+                "top": 0.7368224833286003,
+                "right": 0.583469326469336,
+                "bottom": 0.8234952033288696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.583469326469336,
+                "top": 0.7368224833286003,
+                "right": 0.7675032514593969,
+                "bottom": 0.8234952033288696
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.0419819649506656,
+                "top": 0.8234952033288696,
+                "right": 0.40969881907314143,
+                "bottom": 0.9124436572981427
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.40969881907314143,
+                "top": 0.8234952033288696,
+                "right": 0.583469326469336,
+                "bottom": 0.9124436572981427
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.583469326469336,
+                "top": 0.8234952033288696,
+                "right": 0.7675032514593969,
+                "bottom": 0.9124436572981427
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.7690053292511454,
+                "top": 0.32792929467034143,
+                "right": 0.9392587403412307,
+                "bottom": 0.8840431245498799
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.7690053292511454,
+                "top": 0.32792929467034143,
+                "right": 0.937624167443909,
+                "bottom": 0.40709005704751844
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.7690053292511454,
+                "top": 0.40709005704751844,
+                "right": 0.937624167443909,
+                "bottom": 0.48786853959692245
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.7690053292511454,
+                "top": 0.48786853959692245,
+                "right": 0.937624167443909,
+                "bottom": 0.5687260033117676
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.7690053292511454,
+                "top": 0.5687260033117676,
+                "right": 0.937624167443909,
+                "bottom": 0.6487090320542261
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.7690053292511454,
+                "top": 0.6487090320542261,
+                "right": 0.937624167443909,
+                "bottom": 0.7332816155068063
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.7690053292511454,
+                "top": 0.7332816155068063,
+                "right": 0.937624167443909,
+                "bottom": 0.810984802003853
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.7690053292511454,
+                "top": 0.810984802003853,
+                "right": 0.937624167443909,
+                "bottom": 0.8840431245498799
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "d0e41e14-1b4c-43a6-b6ad-9e32755bf31a": {
+            "box": {
+                "left": 0.7621652483940125,
+                "top": 0.6451330184936523,
+                "right": 0.9559449553489685,
+                "bottom": 0.8906263113021851
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "29a931fb-4c0c-451d-b29e-16878f3cdafc": {
+            "box": {
+                "left": 0.038493335247039795,
+                "top": 0.9270654916763306,
+                "right": 0.9641690850257874,
+                "bottom": 0.9982850551605225
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "423fd8c6-2ca9-4343-a085-55d8f2319b5e": {
+            "box": {
+                "left": 0.9384490251541138,
+                "top": 0.30476534366607666,
+                "right": 0.9608017206192017,
+                "bottom": 0.745415210723877
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "yhxd0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7299,
+        "credit_usage": 3.0,
+        "job_id": "n2dhxe3mkbe4rj60qy93qam2u",
+        "version": "dpt-2-20250919"
+    }
+}

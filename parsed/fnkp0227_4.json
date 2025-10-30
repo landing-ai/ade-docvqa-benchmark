@@ -1,0 +1,488 @@
+{
+    "markdown": "<a id='ade04979-bb6f-4ceb-b255-af3ebf6e2bf7'></a>\n\n<::logo: Unknown\nNF\nA stylized \"NF\" symbol is enclosed within a white circle, which is placed on a dark, textured square background.::>\n\n<a id='ab49f9d0-cedb-4d20-93f3-54becb813dea'></a>\n\nOctober 13-31, 1979\nAustralia\n\n<a id='8e63accd-ab79-430b-80d9-fa472eff6b46'></a>\n\nTHE NUTRITION FOUNDATION, INC.\n\n489 FIFTH AVENUE\nNEW YORK NY 10017\n212 687-4830\n\nTelex: 62258 INFORNUTRITION\n\n<a id='a1e07876-ffb6-4a88-9f7b-6e2fe791dc00'></a>\n\nStatement of Expenses\nUSBA Meetings, Australia\n\nOctober 13-31, 1979\n\n<a id='43c47b14-1a99-4087-b423-aab3c579e1da'></a>\n\nsent to USBA\n12/19/79\n\n<a id='a09b5bce-ce35-492b-97ef-bb6eaacba2bf'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Taxi, October 13: To LaGuardia Airport, New York. . . . . . . . . .$ 11.00</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Taxi, October 31: From Newark Airport to office.</td><td id=\"0-5\">30.00</td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\">Lunch, October 17.</td><td id=\"0-8\">28.39</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Rental Car, San Francisco, October 17.</td><td id=\"0-b\">90.82</td><td id=\"0-c\">NTD to reimburse of (handwritten text)</td></tr>\n<tr><td id=\"0-d\">Hotel: San Francisco Hilton, October 30.</td><td id=\"0-e\">64.96</td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">Transportation to hotel.</td><td id=\"0-h\">5.00</td><td id=\"0-i\"></td></tr>\n<tr><td id=\"0-j\">Gratuities (baggage, hotels)</td><td id=\"0-k\">22.00</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Visa expenses.</td><td id=\"0-n\">20.50</td><td id=\"0-o\">#WID to numbers of</td></tr>\n<tr><td id=\"0-p\" colspan=\"2\">$ 272.67</td><td id=\"0-q\"></td></tr>\n</table>\n\n<a id='18178db6-16fb-4581-b8aa-67b98967655c'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nWilliam J. Darby\nDecember 19, 1979\nA handwritten signature is centrally located, with the typed name \"William J. Darby\" and date \"December 19, 1979\" positioned below it::>\n\n<a id='9afe5164-019d-4f25-a15c-395181986107'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fnkp0227",
+    "chunks": [
+        {
+            "markdown": "<a id='ade04979-bb6f-4ceb-b255-af3ebf6e2bf7'></a>\n\n<::logo: Unknown\nNF\nA stylized \"NF\" symbol is enclosed within a white circle, which is placed on a dark, textured square background.::>",
+            "type": "logo",
+            "id": "ade04979-bb6f-4ceb-b255-af3ebf6e2bf7",
+            "grounding": {
+                "box": {
+                    "left": 0.06633269786834717,
+                    "top": 0.025744393467903137,
+                    "right": 0.19360992312431335,
+                    "bottom": 0.12671366333961487
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ab49f9d0-cedb-4d20-93f3-54becb813dea'></a>\n\nOctober 13-31, 1979\nAustralia",
+            "type": "text",
+            "id": "ab49f9d0-cedb-4d20-93f3-54becb813dea",
+            "grounding": {
+                "box": {
+                    "left": 0.7703121900558472,
+                    "top": 0.013059377670288086,
+                    "right": 0.9908561706542969,
+                    "bottom": 0.06108783185482025
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8e63accd-ab79-430b-80d9-fa472eff6b46'></a>\n\nTHE NUTRITION FOUNDATION, INC.\n\n489 FIFTH AVENUE\nNEW YORK NY 10017\n212 687-4830\n\nTelex: 62258 INFORNUTRITION",
+            "type": "text",
+            "id": "8e63accd-ab79-430b-80d9-fa472eff6b46",
+            "grounding": {
+                "box": {
+                    "left": 0.26187166571617126,
+                    "top": 0.06677552312612534,
+                    "right": 0.910548210144043,
+                    "bottom": 0.11852221935987473
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a1e07876-ffb6-4a88-9f7b-6e2fe791dc00'></a>\n\nStatement of Expenses\nUSBA Meetings, Australia\n\nOctober 13-31, 1979",
+            "type": "text",
+            "id": "a1e07876-ffb6-4a88-9f7b-6e2fe791dc00",
+            "grounding": {
+                "box": {
+                    "left": 0.1095213070511818,
+                    "top": 0.16846761107444763,
+                    "right": 0.3592294156551361,
+                    "bottom": 0.23469215631484985
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='43c47b14-1a99-4087-b423-aab3c579e1da'></a>\n\nsent to USBA\n12/19/79",
+            "type": "text",
+            "id": "43c47b14-1a99-4087-b423-aab3c579e1da",
+            "grounding": {
+                "box": {
+                    "left": 0.6646553874015808,
+                    "top": 0.136086568236351,
+                    "right": 0.9063165783882141,
+                    "bottom": 0.1970856934785843
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a09b5bce-ce35-492b-97ef-bb6eaacba2bf'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Taxi, October 13: To LaGuardia Airport, New York. . . . . . . . . .$ 11.00</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Taxi, October 31: From Newark Airport to office.</td><td id=\"0-5\">30.00</td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\">Lunch, October 17.</td><td id=\"0-8\">28.39</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Rental Car, San Francisco, October 17.</td><td id=\"0-b\">90.82</td><td id=\"0-c\">NTD to reimburse of (handwritten text)</td></tr>\n<tr><td id=\"0-d\">Hotel: San Francisco Hilton, October 30.</td><td id=\"0-e\">64.96</td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">Transportation to hotel.</td><td id=\"0-h\">5.00</td><td id=\"0-i\"></td></tr>\n<tr><td id=\"0-j\">Gratuities (baggage, hotels)</td><td id=\"0-k\">22.00</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Visa expenses.</td><td id=\"0-n\">20.50</td><td id=\"0-o\">#WID to numbers of</td></tr>\n<tr><td id=\"0-p\" colspan=\"2\">$ 272.67</td><td id=\"0-q\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "a09b5bce-ce35-492b-97ef-bb6eaacba2bf",
+            "grounding": {
+                "box": {
+                    "left": 0.10292509198188782,
+                    "top": 0.2866160273551941,
+                    "right": 0.9922146797180176,
+                    "bottom": 0.5545569658279419
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='18178db6-16fb-4581-b8aa-67b98967655c'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nWilliam J. Darby\nDecember 19, 1979\nA handwritten signature is centrally located, with the typed name \"William J. Darby\" and date \"December 19, 1979\" positioned below it::>",
+            "type": "attestation",
+            "id": "18178db6-16fb-4581-b8aa-67b98967655c",
+            "grounding": {
+                "box": {
+                    "left": 0.089581698179245,
+                    "top": 0.6031758189201355,
+                    "right": 0.5361543893814087,
+                    "bottom": 0.7111104130744934
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9afe5164-019d-4f25-a15c-395181986107'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fnkp0227",
+            "type": "marginalia",
+            "id": "9afe5164-019d-4f25-a15c-395181986107",
+            "grounding": {
+                "box": {
+                    "left": 0.22355446219444275,
+                    "top": 0.9775518774986267,
+                    "right": 0.7796473503112793,
+                    "bottom": 0.9982507824897766
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ade04979-bb6f-4ceb-b255-af3ebf6e2bf7'></a>\n\n<::logo: Unknown\nNF\nA stylized \"NF\" symbol is enclosed within a white circle, which is placed on a dark, textured square background.::>\n\n<a id='ab49f9d0-cedb-4d20-93f3-54becb813dea'></a>\n\nOctober 13-31, 1979\nAustralia\n\n<a id='8e63accd-ab79-430b-80d9-fa472eff6b46'></a>\n\nTHE NUTRITION FOUNDATION, INC.\n\n489 FIFTH AVENUE\nNEW YORK NY 10017\n212 687-4830\n\nTelex: 62258 INFORNUTRITION\n\n<a id='a1e07876-ffb6-4a88-9f7b-6e2fe791dc00'></a>\n\nStatement of Expenses\nUSBA Meetings, Australia\n\nOctober 13-31, 1979\n\n<a id='43c47b14-1a99-4087-b423-aab3c579e1da'></a>\n\nsent to USBA\n12/19/79\n\n<a id='a09b5bce-ce35-492b-97ef-bb6eaacba2bf'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">Taxi, October 13: To LaGuardia Airport, New York. . . . . . . . . .$ 11.00</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Taxi, October 31: From Newark Airport to office.</td><td id=\"0-5\">30.00</td><td id=\"0-6\"></td></tr>\n<tr><td id=\"0-7\">Lunch, October 17.</td><td id=\"0-8\">28.39</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Rental Car, San Francisco, October 17.</td><td id=\"0-b\">90.82</td><td id=\"0-c\">NTD to reimburse of (handwritten text)</td></tr>\n<tr><td id=\"0-d\">Hotel: San Francisco Hilton, October 30.</td><td id=\"0-e\">64.96</td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">Transportation to hotel.</td><td id=\"0-h\">5.00</td><td id=\"0-i\"></td></tr>\n<tr><td id=\"0-j\">Gratuities (baggage, hotels)</td><td id=\"0-k\">22.00</td><td id=\"0-l\"></td></tr>\n<tr><td id=\"0-m\">Visa expenses.</td><td id=\"0-n\">20.50</td><td id=\"0-o\">#WID to numbers of</td></tr>\n<tr><td id=\"0-p\" colspan=\"2\">$ 272.67</td><td id=\"0-q\"></td></tr>\n</table>\n\n<a id='18178db6-16fb-4581-b8aa-67b98967655c'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nWilliam J. Darby\nDecember 19, 1979\nA handwritten signature is centrally located, with the typed name \"William J. Darby\" and date \"December 19, 1979\" positioned below it::>\n\n<a id='9afe5164-019d-4f25-a15c-395181986107'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fnkp0227",
+            "chunks": [
+                "ade04979-bb6f-4ceb-b255-af3ebf6e2bf7",
+                "ab49f9d0-cedb-4d20-93f3-54becb813dea",
+                "8e63accd-ab79-430b-80d9-fa472eff6b46",
+                "a1e07876-ffb6-4a88-9f7b-6e2fe791dc00",
+                "43c47b14-1a99-4087-b423-aab3c579e1da",
+                "a09b5bce-ce35-492b-97ef-bb6eaacba2bf",
+                "18178db6-16fb-4581-b8aa-67b98967655c",
+                "9afe5164-019d-4f25-a15c-395181986107"
+            ]
+        }
+    ],
+    "grounding": {
+        "ade04979-bb6f-4ceb-b255-af3ebf6e2bf7": {
+            "box": {
+                "left": 0.06633269786834717,
+                "top": 0.025744393467903137,
+                "right": 0.19360992312431335,
+                "bottom": 0.12671366333961487
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "ab49f9d0-cedb-4d20-93f3-54becb813dea": {
+            "box": {
+                "left": 0.7703121900558472,
+                "top": 0.013059377670288086,
+                "right": 0.9908561706542969,
+                "bottom": 0.06108783185482025
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8e63accd-ab79-430b-80d9-fa472eff6b46": {
+            "box": {
+                "left": 0.26187166571617126,
+                "top": 0.06677552312612534,
+                "right": 0.910548210144043,
+                "bottom": 0.11852221935987473
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a1e07876-ffb6-4a88-9f7b-6e2fe791dc00": {
+            "box": {
+                "left": 0.1095213070511818,
+                "top": 0.16846761107444763,
+                "right": 0.3592294156551361,
+                "bottom": 0.23469215631484985
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "43c47b14-1a99-4087-b423-aab3c579e1da": {
+            "box": {
+                "left": 0.6646553874015808,
+                "top": 0.136086568236351,
+                "right": 0.9063165783882141,
+                "bottom": 0.1970856934785843
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a09b5bce-ce35-492b-97ef-bb6eaacba2bf": {
+            "box": {
+                "left": 0.10292509198188782,
+                "top": 0.2866160273551941,
+                "right": 0.9922146797180176,
+                "bottom": 0.5545569658279419
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11056619795502953,
+                "top": 0.28778427733304635,
+                "right": 0.9913250835447922,
+                "bottom": 0.5545543147208818
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11056619795502953,
+                "top": 0.28778427733304635,
+                "right": 0.9912392141650255,
+                "bottom": 0.3425492478071268
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.8233260415117449,
+                "top": 0.28778427733304635,
+                "right": 0.9912392141650255,
+                "bottom": 0.3129576906180329
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.11056619795502953,
+                "top": 0.3129576906180329,
+                "right": 0.7447107691326504,
+                "bottom": 0.3425492478071268
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.7447107691326504,
+                "top": 0.3129576906180329,
+                "right": 0.8233260415117449,
+                "bottom": 0.3425492478071268
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.8233260415117449,
+                "top": 0.3129576906180329,
+                "right": 0.9912392141650255,
+                "bottom": 0.3425492478071268
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.11056619795502953,
+                "top": 0.3425492478071268,
+                "right": 0.7447107691326504,
+                "bottom": 0.37124647958233403
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7447107691326504,
+                "top": 0.3425492478071268,
+                "right": 0.8233260415117449,
+                "bottom": 0.37124647958233403
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.8233260415117449,
+                "top": 0.3425492478071268,
+                "right": 0.9912392141650255,
+                "bottom": 0.37124647958233403
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.11056619795502953,
+                "top": 0.37124647958233403,
+                "right": 0.7447107691326504,
+                "bottom": 0.4058122522529377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7447107691326504,
+                "top": 0.37124647958233403,
+                "right": 0.8233260415117449,
+                "bottom": 0.4058122522529377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.8233260415117449,
+                "top": 0.37124647958233403,
+                "right": 0.9912392141650255,
+                "bottom": 0.4058122522529377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.11056619795502953,
+                "top": 0.4058122522529377,
+                "right": 0.7447107691326504,
+                "bottom": 0.4317845971376748
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.7447107691326504,
+                "top": 0.4058122522529377,
+                "right": 0.8233260415117449,
+                "bottom": 0.4317845971376748
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.8233260415117449,
+                "top": 0.4058122522529377,
+                "right": 0.9912392141650255,
+                "bottom": 0.4317845971376748
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.11056619795502953,
+                "top": 0.4317845971376748,
+                "right": 0.7447107691326504,
+                "bottom": 0.46334668147970604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.7447107691326504,
+                "top": 0.4317845971376748,
+                "right": 0.8233260415117449,
+                "bottom": 0.46334668147970604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.8233260415117449,
+                "top": 0.4317845971376748,
+                "right": 0.9912392141650255,
+                "bottom": 0.46334668147970604
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.11056619795502953,
+                "top": 0.46334668147970604,
+                "right": 0.7447107691326504,
+                "bottom": 0.4924359217556393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.7447107691326504,
+                "top": 0.46334668147970604,
+                "right": 0.8233260415117449,
+                "bottom": 0.4924359217556393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.8233260415117449,
+                "top": 0.46334668147970604,
+                "right": 0.9912392141650255,
+                "bottom": 0.4924359217556393
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.11056619795502953,
+                "top": 0.4924359217556393,
+                "right": 0.7447107691326504,
+                "bottom": 0.5279254455314444
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.7447107691326504,
+                "top": 0.4924359217556393,
+                "right": 0.8233260415117449,
+                "bottom": 0.5279254455314444
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.8233260415117449,
+                "top": 0.4924359217556393,
+                "right": 0.9912392141650255,
+                "bottom": 0.5279254455314444
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.11056619795502953,
+                "top": 0.5279254455314444,
+                "right": 0.9912392141650255,
+                "bottom": 0.5545543147208818
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.8233260415117449,
+                "top": 0.5279254455314444,
+                "right": 0.9912392141650255,
+                "bottom": 0.5545543147208818
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "18178db6-16fb-4581-b8aa-67b98967655c": {
+            "box": {
+                "left": 0.089581698179245,
+                "top": 0.6031758189201355,
+                "right": 0.5361543893814087,
+                "bottom": 0.7111104130744934
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "9afe5164-019d-4f25-a15c-395181986107": {
+            "box": {
+                "left": 0.22355446219444275,
+                "top": 0.9775518774986267,
+                "right": 0.7796473503112793,
+                "bottom": 0.9982507824897766
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fnkp0227_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10125,
+        "credit_usage": 3.0,
+        "job_id": "cn9ysac0sm1e5lsuob8wkul8n",
+        "version": "dpt-2-20250919"
+    }
+}

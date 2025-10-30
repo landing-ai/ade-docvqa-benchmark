@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='47a747f1-7211-4b40-8e3c-5a79ecc7e089'></a>\n\nJanuary 10, 1969\n\n<a id='7288a941-48b1-4eac-acb2-dd4e68f231b6'></a>\n\nAllen's Press Clipping Bureau\n657 Mission Street\nSan Francisco, California 94105\n\n<a id='5c929e16-1300-4368-8e4d-3b6c9d93f2b3'></a>\n\nDear Sir:\n\nPayment of our account (# S.F. 7476) in the amount shown on the enclosed statement will be made under separate cover.\n\n<a id='afea92c5-f6ee-4a25-b460-c74f45d99c31'></a>\n\nWe would like to at this time close our\naccount with you. Please discontinue service as of\nJanuary, 1969.\n\n<a id='180f8816-5963-428e-be24-dd534d1e91c8'></a>\n\nThank you for your cooperation.\n\n<a id='76cf2fa9-09fd-4bc2-a721-98eda17a8e58'></a>\n\nSincerely,\n\n<a id='aec3d04e-2eeb-4997-843c-36b7b1e361f8'></a>\n\nJames Lyon\nDirector\nInformation Services\n\n<a id='ab8acd3c-3ca9-41ea-ad86-4d62e626e21b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pnph0227",
+    "chunks": [
+        {
+            "markdown": "<a id='47a747f1-7211-4b40-8e3c-5a79ecc7e089'></a>\n\nJanuary 10, 1969",
+            "type": "text",
+            "id": "47a747f1-7211-4b40-8e3c-5a79ecc7e089",
+            "grounding": {
+                "box": {
+                    "left": 0.5407062768936157,
+                    "top": 0.2794642448425293,
+                    "right": 0.710935115814209,
+                    "bottom": 0.3048606514930725
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7288a941-48b1-4eac-acb2-dd4e68f231b6'></a>\n\nAllen's Press Clipping Bureau\n657 Mission Street\nSan Francisco, California 94105",
+            "type": "text",
+            "id": "7288a941-48b1-4eac-acb2-dd4e68f231b6",
+            "grounding": {
+                "box": {
+                    "left": 0.19540801644325256,
+                    "top": 0.3542793095111847,
+                    "right": 0.5247805118560791,
+                    "bottom": 0.4105338752269745
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5c929e16-1300-4368-8e4d-3b6c9d93f2b3'></a>\n\nDear Sir:\n\nPayment of our account (# S.F. 7476) in the amount shown on the enclosed statement will be made under separate cover.",
+            "type": "text",
+            "id": "5c929e16-1300-4368-8e4d-3b6c9d93f2b3",
+            "grounding": {
+                "box": {
+                    "left": 0.19684627652168274,
+                    "top": 0.418700635433197,
+                    "right": 0.7278387546539307,
+                    "bottom": 0.499758243560791
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='afea92c5-f6ee-4a25-b460-c74f45d99c31'></a>\n\nWe would like to at this time close our\naccount with you. Please discontinue service as of\nJanuary, 1969.",
+            "type": "text",
+            "id": "afea92c5-f6ee-4a25-b460-c74f45d99c31",
+            "grounding": {
+                "box": {
+                    "left": 0.1979139745235443,
+                    "top": 0.5081648230552673,
+                    "right": 0.7095896005630493,
+                    "bottom": 0.5611440539360046
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='180f8816-5963-428e-be24-dd534d1e91c8'></a>\n\nThank you for your cooperation.",
+            "type": "text",
+            "id": "180f8816-5963-428e-be24-dd534d1e91c8",
+            "grounding": {
+                "box": {
+                    "left": 0.2957642674446106,
+                    "top": 0.5684449076652527,
+                    "right": 0.6084892749786377,
+                    "bottom": 0.5912724137306213
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='76cf2fa9-09fd-4bc2-a721-98eda17a8e58'></a>\n\nSincerely,",
+            "type": "text",
+            "id": "76cf2fa9-09fd-4bc2-a721-98eda17a8e58",
+            "grounding": {
+                "box": {
+                    "left": 0.5413327813148499,
+                    "top": 0.599983811378479,
+                    "right": 0.6494379639625549,
+                    "bottom": 0.6215251684188843
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='aec3d04e-2eeb-4997-843c-36b7b1e361f8'></a>\n\nJames Lyon\nDirector\nInformation Services",
+            "type": "text",
+            "id": "aec3d04e-2eeb-4997-843c-36b7b1e361f8",
+            "grounding": {
+                "box": {
+                    "left": 0.5390581488609314,
+                    "top": 0.6605111360549927,
+                    "right": 0.7491136193275452,
+                    "bottom": 0.7125734090805054
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ab8acd3c-3ca9-41ea-ad86-4d62e626e21b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pnph0227",
+            "type": "text",
+            "id": "ab8acd3c-3ca9-41ea-ad86-4d62e626e21b",
+            "grounding": {
+                "box": {
+                    "left": 0.21172216534614563,
+                    "top": 0.9765376448631287,
+                    "right": 0.7893600463867188,
+                    "bottom": 0.9998639225959778
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='47a747f1-7211-4b40-8e3c-5a79ecc7e089'></a>\n\nJanuary 10, 1969\n\n<a id='7288a941-48b1-4eac-acb2-dd4e68f231b6'></a>\n\nAllen's Press Clipping Bureau\n657 Mission Street\nSan Francisco, California 94105\n\n<a id='5c929e16-1300-4368-8e4d-3b6c9d93f2b3'></a>\n\nDear Sir:\n\nPayment of our account (# S.F. 7476) in the amount shown on the enclosed statement will be made under separate cover.\n\n<a id='afea92c5-f6ee-4a25-b460-c74f45d99c31'></a>\n\nWe would like to at this time close our\naccount with you. Please discontinue service as of\nJanuary, 1969.\n\n<a id='180f8816-5963-428e-be24-dd534d1e91c8'></a>\n\nThank you for your cooperation.\n\n<a id='76cf2fa9-09fd-4bc2-a721-98eda17a8e58'></a>\n\nSincerely,\n\n<a id='aec3d04e-2eeb-4997-843c-36b7b1e361f8'></a>\n\nJames Lyon\nDirector\nInformation Services\n\n<a id='ab8acd3c-3ca9-41ea-ad86-4d62e626e21b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pnph0227",
+            "chunks": [
+                "47a747f1-7211-4b40-8e3c-5a79ecc7e089",
+                "7288a941-48b1-4eac-acb2-dd4e68f231b6",
+                "5c929e16-1300-4368-8e4d-3b6c9d93f2b3",
+                "afea92c5-f6ee-4a25-b460-c74f45d99c31",
+                "180f8816-5963-428e-be24-dd534d1e91c8",
+                "76cf2fa9-09fd-4bc2-a721-98eda17a8e58",
+                "aec3d04e-2eeb-4997-843c-36b7b1e361f8",
+                "ab8acd3c-3ca9-41ea-ad86-4d62e626e21b"
+            ]
+        }
+    ],
+    "grounding": {
+        "47a747f1-7211-4b40-8e3c-5a79ecc7e089": {
+            "box": {
+                "left": 0.5407062768936157,
+                "top": 0.2794642448425293,
+                "right": 0.710935115814209,
+                "bottom": 0.3048606514930725
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7288a941-48b1-4eac-acb2-dd4e68f231b6": {
+            "box": {
+                "left": 0.19540801644325256,
+                "top": 0.3542793095111847,
+                "right": 0.5247805118560791,
+                "bottom": 0.4105338752269745
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5c929e16-1300-4368-8e4d-3b6c9d93f2b3": {
+            "box": {
+                "left": 0.19684627652168274,
+                "top": 0.418700635433197,
+                "right": 0.7278387546539307,
+                "bottom": 0.499758243560791
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "afea92c5-f6ee-4a25-b460-c74f45d99c31": {
+            "box": {
+                "left": 0.1979139745235443,
+                "top": 0.5081648230552673,
+                "right": 0.7095896005630493,
+                "bottom": 0.5611440539360046
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "180f8816-5963-428e-be24-dd534d1e91c8": {
+            "box": {
+                "left": 0.2957642674446106,
+                "top": 0.5684449076652527,
+                "right": 0.6084892749786377,
+                "bottom": 0.5912724137306213
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "76cf2fa9-09fd-4bc2-a721-98eda17a8e58": {
+            "box": {
+                "left": 0.5413327813148499,
+                "top": 0.599983811378479,
+                "right": 0.6494379639625549,
+                "bottom": 0.6215251684188843
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "aec3d04e-2eeb-4997-843c-36b7b1e361f8": {
+            "box": {
+                "left": 0.5390581488609314,
+                "top": 0.6605111360549927,
+                "right": 0.7491136193275452,
+                "bottom": 0.7125734090805054
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ab8acd3c-3ca9-41ea-ad86-4d62e626e21b": {
+            "box": {
+                "left": 0.21172216534614563,
+                "top": 0.9765376448631287,
+                "right": 0.7893600463867188,
+                "bottom": 0.9998639225959778
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "pnph0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8053,
+        "credit_usage": 3.0,
+        "job_id": "wjelef7d6hcfpwyxqgapp3vu3",
+        "version": "dpt-2-20250919"
+    }
+}

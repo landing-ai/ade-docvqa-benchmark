@@ -1,0 +1,353 @@
+{
+    "markdown": "<a id='a2584449-caf8-40be-9ed8-9a622227669a'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nPete\nTHE Great Western Sugar COMPANY\nA handwritten signature \"Pete\" is on the left, with a staple connecting it to the right side where the text \"THE Great Western Sugar COMPANY\" is printed. The signature is in the upper left quadrant, and the company name is in the upper right quadrant.::>\n\n<a id='dad6ad3a-101d-4fc0-983b-978498df6439'></a>\n\n<::logo: Unknown\nA stylized plant with a central bulb and five radiating leaf-like elements, all enclosed within a dark circular background.::>\n\n<a id='f0e88c3f-ae93-4f84-adbb-81d9a64cb0ed'></a>\n\nJack B. Powell\nPRESIDENT\n\n<a id='c279e50f-165a-4fe3-b546-071dcc02b4f0'></a>\n\nDecember 29, 1976\n\n<a id='80ed459c-5a6e-490a-8990-edfad5188bb1'></a>\n\nMr. J. W. Tatum\nThe Sugar Association\n1151 K Street, N. W.\nWashington, D. C. 20005\n\n<a id='b0e3007b-9527-41bf-8a1f-9c26d4d67fd5'></a>\n\nDear Bill:\n\nI am enclosing a letter written by our public relations department\nin response to a widely-syndicated article written by Ms. Ellen\nGoodman of the Washington Post Writers Group which appeared\nrecently in the Rocky Mountain News, Denver, Colorado.\n\n<a id='006760ba-6f22-4124-bc5f-a0d048c84b66'></a>\n\nIf you feel it would be appropriate, would you please respond\nto Ms. Goodman through the Sugar Association. I feel that a\nresponse from you to Ms. Goodman would have more effect\nthan a response from a single company such as Great Western.\n\n<a id='3857d816-db9d-4879-906d-bba2492752d3'></a>\n\nBest Wishes for the New Year!!\n\n<a id='8b5a4d83-5b20-4bef-87f8-3f41c1850aad'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nSincerely,\nJack B. Powell\nA handwritten signature \"Jack\" is placed below \"Sincerely,\" and above the typed name \"Jack B. Powell\", centered on the page.::>\n\n<a id='b05f3fe4-38b8-4d6f-91dc-7fe75887008d'></a>\n\nEnclosure\n\n<a id='7a722fde-c250-421c-9e34-59c036db763f'></a>\n\n<::attestation: Handwritten annotation/mark\nbcc: C. Fleet-GWU,DEN\nA handwritten line with an arrow pointing right is drawn underneath the typed text \"bcc: C. Fleet-GWU,DEN\", located in the upper left portion of the image.::>\n\n<a id='7b70e457-4ccb-47e9-a54c-df692d9d77f0'></a>\n\nPOST OFFICE BOX 5308.T A. DENVER, COLORADO 80217 (303) 893-4600 A SUBSIDIARY OF GREAT WESTERN UNITED CORPORATION\n\n<a id='8f618d52-50f2-476c-b03e-b23fdbd7276c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lzlK0226",
+    "chunks": [
+        {
+            "markdown": "<a id='a2584449-caf8-40be-9ed8-9a622227669a'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nPete\nTHE Great Western Sugar COMPANY\nA handwritten signature \"Pete\" is on the left, with a staple connecting it to the right side where the text \"THE Great Western Sugar COMPANY\" is printed. The signature is in the upper left quadrant, and the company name is in the upper right quadrant.::>",
+            "type": "attestation",
+            "id": "a2584449-caf8-40be-9ed8-9a622227669a",
+            "grounding": {
+                "box": {
+                    "left": 0.4539821445941925,
+                    "top": 0.00017984211444854736,
+                    "right": 0.6785737872123718,
+                    "bottom": 0.08979558944702148
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dad6ad3a-101d-4fc0-983b-978498df6439'></a>\n\n<::logo: Unknown\nA stylized plant with a central bulb and five radiating leaf-like elements, all enclosed within a dark circular background.::>",
+            "type": "logo",
+            "id": "dad6ad3a-101d-4fc0-983b-978498df6439",
+            "grounding": {
+                "box": {
+                    "left": 0.6901309490203857,
+                    "top": 0.0004396513104438782,
+                    "right": 0.8242820501327515,
+                    "bottom": 0.09535769373178482
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f0e88c3f-ae93-4f84-adbb-81d9a64cb0ed'></a>\n\nJack B. Powell\nPRESIDENT",
+            "type": "text",
+            "id": "f0e88c3f-ae93-4f84-adbb-81d9a64cb0ed",
+            "grounding": {
+                "box": {
+                    "left": 0.05999789014458656,
+                    "top": 0.04518662393093109,
+                    "right": 0.15730834007263184,
+                    "bottom": 0.07086630165576935
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c279e50f-165a-4fe3-b546-071dcc02b4f0'></a>\n\nDecember 29, 1976",
+            "type": "text",
+            "id": "c279e50f-165a-4fe3-b546-071dcc02b4f0",
+            "grounding": {
+                "box": {
+                    "left": 0.12881669402122498,
+                    "top": 0.14503785967826843,
+                    "right": 0.32891884446144104,
+                    "bottom": 0.16785824298858643
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='80ed459c-5a6e-490a-8990-edfad5188bb1'></a>\n\nMr. J. W. Tatum\nThe Sugar Association\n1151 K Street, N. W.\nWashington, D. C. 20005",
+            "type": "text",
+            "id": "80ed459c-5a6e-490a-8990-edfad5188bb1",
+            "grounding": {
+                "box": {
+                    "left": 0.12868386507034302,
+                    "top": 0.25182750821113586,
+                    "right": 0.4026569724082947,
+                    "bottom": 0.3254900872707367
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b0e3007b-9527-41bf-8a1f-9c26d4d67fd5'></a>\n\nDear Bill:\n\nI am enclosing a letter written by our public relations department\nin response to a widely-syndicated article written by Ms. Ellen\nGoodman of the Washington Post Writers Group which appeared\nrecently in the Rocky Mountain News, Denver, Colorado.",
+            "type": "text",
+            "id": "b0e3007b-9527-41bf-8a1f-9c26d4d67fd5",
+            "grounding": {
+                "box": {
+                    "left": 0.12873077392578125,
+                    "top": 0.3396695554256439,
+                    "right": 0.7754543423652649,
+                    "bottom": 0.4486677348613739
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='006760ba-6f22-4124-bc5f-a0d048c84b66'></a>\n\nIf you feel it would be appropriate, would you please respond\nto Ms. Goodman through the Sugar Association. I feel that a\nresponse from you to Ms. Goodman would have more effect\nthan a response from a single company such as Great Western.",
+            "type": "text",
+            "id": "006760ba-6f22-4124-bc5f-a0d048c84b66",
+            "grounding": {
+                "box": {
+                    "left": 0.1295834481716156,
+                    "top": 0.4624619483947754,
+                    "right": 0.753585934638977,
+                    "bottom": 0.5360615849494934
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3857d816-db9d-4879-906d-bba2492752d3'></a>\n\nBest Wishes for the New Year!!",
+            "type": "text",
+            "id": "3857d816-db9d-4879-906d-bba2492752d3",
+            "grounding": {
+                "box": {
+                    "left": 0.13040785491466522,
+                    "top": 0.5503280162811279,
+                    "right": 0.44672614336013794,
+                    "bottom": 0.5714112520217896
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8b5a4d83-5b20-4bef-87f8-3f41c1850aad'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nSincerely,\nJack B. Powell\nA handwritten signature \"Jack\" is placed below \"Sincerely,\" and above the typed name \"Jack B. Powell\", centered on the page.::>",
+            "type": "attestation",
+            "id": "8b5a4d83-5b20-4bef-87f8-3f41c1850aad",
+            "grounding": {
+                "box": {
+                    "left": 0.08212914317846298,
+                    "top": 0.5845504999160767,
+                    "right": 0.28405216336250305,
+                    "bottom": 0.6905472278594971
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b05f3fe4-38b8-4d6f-91dc-7fe75887008d'></a>\n\nEnclosure",
+            "type": "text",
+            "id": "b05f3fe4-38b8-4d6f-91dc-7fe75887008d",
+            "grounding": {
+                "box": {
+                    "left": 0.13065989315509796,
+                    "top": 0.7260366678237915,
+                    "right": 0.2353537529706955,
+                    "bottom": 0.745876669883728
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7a722fde-c250-421c-9e34-59c036db763f'></a>\n\n<::attestation: Handwritten annotation/mark\nbcc: C. Fleet-GWU,DEN\nA handwritten line with an arrow pointing right is drawn underneath the typed text \"bcc: C. Fleet-GWU,DEN\", located in the upper left portion of the image.::>",
+            "type": "attestation",
+            "id": "7a722fde-c250-421c-9e34-59c036db763f",
+            "grounding": {
+                "box": {
+                    "left": 0.09191472828388214,
+                    "top": 0.7759771347045898,
+                    "right": 0.3585805892944336,
+                    "bottom": 0.8586651086807251
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7b70e457-4ccb-47e9-a54c-df692d9d77f0'></a>\n\nPOST OFFICE BOX 5308.T A. DENVER, COLORADO 80217 (303) 893-4600 A SUBSIDIARY OF GREAT WESTERN UNITED CORPORATION",
+            "type": "text",
+            "id": "7b70e457-4ccb-47e9-a54c-df692d9d77f0",
+            "grounding": {
+                "box": {
+                    "left": 0.06859886646270752,
+                    "top": 0.9019480347633362,
+                    "right": 0.7705161571502686,
+                    "bottom": 0.9180601239204407
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8f618d52-50f2-476c-b03e-b23fdbd7276c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lzlK0226",
+            "type": "text",
+            "id": "8f618d52-50f2-476c-b03e-b23fdbd7276c",
+            "grounding": {
+                "box": {
+                    "left": 0.22075992822647095,
+                    "top": 0.9776700735092163,
+                    "right": 0.7792940735816956,
+                    "bottom": 0.999210000038147
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a2584449-caf8-40be-9ed8-9a622227669a'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nPete\nTHE Great Western Sugar COMPANY\nA handwritten signature \"Pete\" is on the left, with a staple connecting it to the right side where the text \"THE Great Western Sugar COMPANY\" is printed. The signature is in the upper left quadrant, and the company name is in the upper right quadrant.::>\n\n<a id='dad6ad3a-101d-4fc0-983b-978498df6439'></a>\n\n<::logo: Unknown\nA stylized plant with a central bulb and five radiating leaf-like elements, all enclosed within a dark circular background.::>\n\n<a id='f0e88c3f-ae93-4f84-adbb-81d9a64cb0ed'></a>\n\nJack B. Powell\nPRESIDENT\n\n<a id='c279e50f-165a-4fe3-b546-071dcc02b4f0'></a>\n\nDecember 29, 1976\n\n<a id='80ed459c-5a6e-490a-8990-edfad5188bb1'></a>\n\nMr. J. W. Tatum\nThe Sugar Association\n1151 K Street, N. W.\nWashington, D. C. 20005\n\n<a id='b0e3007b-9527-41bf-8a1f-9c26d4d67fd5'></a>\n\nDear Bill:\n\nI am enclosing a letter written by our public relations department\nin response to a widely-syndicated article written by Ms. Ellen\nGoodman of the Washington Post Writers Group which appeared\nrecently in the Rocky Mountain News, Denver, Colorado.\n\n<a id='006760ba-6f22-4124-bc5f-a0d048c84b66'></a>\n\nIf you feel it would be appropriate, would you please respond\nto Ms. Goodman through the Sugar Association. I feel that a\nresponse from you to Ms. Goodman would have more effect\nthan a response from a single company such as Great Western.\n\n<a id='3857d816-db9d-4879-906d-bba2492752d3'></a>\n\nBest Wishes for the New Year!!\n\n<a id='8b5a4d83-5b20-4bef-87f8-3f41c1850aad'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nSincerely,\nJack B. Powell\nA handwritten signature \"Jack\" is placed below \"Sincerely,\" and above the typed name \"Jack B. Powell\", centered on the page.::>\n\n<a id='b05f3fe4-38b8-4d6f-91dc-7fe75887008d'></a>\n\nEnclosure\n\n<a id='7a722fde-c250-421c-9e34-59c036db763f'></a>\n\n<::attestation: Handwritten annotation/mark\nbcc: C. Fleet-GWU,DEN\nA handwritten line with an arrow pointing right is drawn underneath the typed text \"bcc: C. Fleet-GWU,DEN\", located in the upper left portion of the image.::>\n\n<a id='7b70e457-4ccb-47e9-a54c-df692d9d77f0'></a>\n\nPOST OFFICE BOX 5308.T A. DENVER, COLORADO 80217 (303) 893-4600 A SUBSIDIARY OF GREAT WESTERN UNITED CORPORATION\n\n<a id='8f618d52-50f2-476c-b03e-b23fdbd7276c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lzlK0226",
+            "chunks": [
+                "a2584449-caf8-40be-9ed8-9a622227669a",
+                "dad6ad3a-101d-4fc0-983b-978498df6439",
+                "f0e88c3f-ae93-4f84-adbb-81d9a64cb0ed",
+                "c279e50f-165a-4fe3-b546-071dcc02b4f0",
+                "80ed459c-5a6e-490a-8990-edfad5188bb1",
+                "b0e3007b-9527-41bf-8a1f-9c26d4d67fd5",
+                "006760ba-6f22-4124-bc5f-a0d048c84b66",
+                "3857d816-db9d-4879-906d-bba2492752d3",
+                "8b5a4d83-5b20-4bef-87f8-3f41c1850aad",
+                "b05f3fe4-38b8-4d6f-91dc-7fe75887008d",
+                "7a722fde-c250-421c-9e34-59c036db763f",
+                "7b70e457-4ccb-47e9-a54c-df692d9d77f0",
+                "8f618d52-50f2-476c-b03e-b23fdbd7276c"
+            ]
+        }
+    ],
+    "grounding": {
+        "a2584449-caf8-40be-9ed8-9a622227669a": {
+            "box": {
+                "left": 0.4539821445941925,
+                "top": 0.00017984211444854736,
+                "right": 0.6785737872123718,
+                "bottom": 0.08979558944702148
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "dad6ad3a-101d-4fc0-983b-978498df6439": {
+            "box": {
+                "left": 0.6901309490203857,
+                "top": 0.0004396513104438782,
+                "right": 0.8242820501327515,
+                "bottom": 0.09535769373178482
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "f0e88c3f-ae93-4f84-adbb-81d9a64cb0ed": {
+            "box": {
+                "left": 0.05999789014458656,
+                "top": 0.04518662393093109,
+                "right": 0.15730834007263184,
+                "bottom": 0.07086630165576935
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c279e50f-165a-4fe3-b546-071dcc02b4f0": {
+            "box": {
+                "left": 0.12881669402122498,
+                "top": 0.14503785967826843,
+                "right": 0.32891884446144104,
+                "bottom": 0.16785824298858643
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "80ed459c-5a6e-490a-8990-edfad5188bb1": {
+            "box": {
+                "left": 0.12868386507034302,
+                "top": 0.25182750821113586,
+                "right": 0.4026569724082947,
+                "bottom": 0.3254900872707367
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b0e3007b-9527-41bf-8a1f-9c26d4d67fd5": {
+            "box": {
+                "left": 0.12873077392578125,
+                "top": 0.3396695554256439,
+                "right": 0.7754543423652649,
+                "bottom": 0.4486677348613739
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "006760ba-6f22-4124-bc5f-a0d048c84b66": {
+            "box": {
+                "left": 0.1295834481716156,
+                "top": 0.4624619483947754,
+                "right": 0.753585934638977,
+                "bottom": 0.5360615849494934
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3857d816-db9d-4879-906d-bba2492752d3": {
+            "box": {
+                "left": 0.13040785491466522,
+                "top": 0.5503280162811279,
+                "right": 0.44672614336013794,
+                "bottom": 0.5714112520217896
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8b5a4d83-5b20-4bef-87f8-3f41c1850aad": {
+            "box": {
+                "left": 0.08212914317846298,
+                "top": 0.5845504999160767,
+                "right": 0.28405216336250305,
+                "bottom": 0.6905472278594971
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "b05f3fe4-38b8-4d6f-91dc-7fe75887008d": {
+            "box": {
+                "left": 0.13065989315509796,
+                "top": 0.7260366678237915,
+                "right": 0.2353537529706955,
+                "bottom": 0.745876669883728
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7a722fde-c250-421c-9e34-59c036db763f": {
+            "box": {
+                "left": 0.09191472828388214,
+                "top": 0.7759771347045898,
+                "right": 0.3585805892944336,
+                "bottom": 0.8586651086807251
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "7b70e457-4ccb-47e9-a54c-df692d9d77f0": {
+            "box": {
+                "left": 0.06859886646270752,
+                "top": 0.9019480347633362,
+                "right": 0.7705161571502686,
+                "bottom": 0.9180601239204407
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8f618d52-50f2-476c-b03e-b23fdbd7276c": {
+            "box": {
+                "left": 0.22075992822647095,
+                "top": 0.9776700735092163,
+                "right": 0.7792940735816956,
+                "bottom": 0.999210000038147
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lzlk0226_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5779,
+        "credit_usage": 3.0,
+        "job_id": "n1b9ea7p1mkhfcjwws6ordmu8",
+        "version": "dpt-2-20250919"
+    }
+}

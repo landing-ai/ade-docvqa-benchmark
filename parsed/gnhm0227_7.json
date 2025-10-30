@@ -1,0 +1,533 @@
+{
+    "markdown": "<a id='5b6dcad9-e34f-4861-ab14-bccf9d7ab95c'></a>\n\n-4-\n\n<a id='8628c80f-69fc-484c-b116-e82679cf54c7'></a>\n\nTABLE 1: CANCER MORTALITY, ENGLAND AND WALES\n(Males)\n\n<a id='dadd2b4b-4cd7-4199-964b-4676caa6992a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Year</td><td id=\"0-3\">Crude Rate*</td><td id=\"0-4\">Age-Adjusted Rate **</td><td id=\"0-5\">Crude Lifetime Risk\u2020</td><td id=\"0-6\">Median Life Span</td></tr>\n<tr><td id=\"0-7\">1861</td><td id=\"0-8\">0.00022</td><td id=\"0-9\">0.00036</td><td id=\"0-a\">0.01398</td><td id=\"0-b\">45.2</td></tr>\n<tr><td id=\"0-c\">1901</td><td id=\"0-d\">0.00070</td><td id=\"0-e\">0.00170</td><td id=\"0-f\">0.05233</td><td id=\"0-g\">54.9</td></tr>\n<tr><td id=\"0-h\">1964</td><td id=\"0-i\">0.00247</td><td id=\"0-j\">0.00225</td><td id=\"0-k\">0.20110</td><td id=\"0-l\">71.6</td></tr>\n<tr><td id=\"0-m\">1964 1861</td><td id=\"0-n\">11.23</td><td id=\"0-o\">6.25</td><td id=\"0-p\">14.38</td><td id=\"0-q\"></td></tr>\n</table>\n<table id=\"0-r\">\n<tr><td id=\"0-s\">SOURCE:</td><td id=\"0-t\">S. H. Preston, N. Keyfitz, and R. Schoen (1972). Causes of</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">Death: Life Tables for National Populations, Seminar Press,</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">New York, New York, and London.</td></tr>\n</table>\n\n<a id='6551a9fe-6f08-41e5-808b-6178691f06b2'></a>\n\n*Deaths per year per midyear population.\n\n<a id='dfe17930-f53c-4128-8ec7-5f647291726a'></a>\n\n**Standardized to \"Western\" female stable population. This corrects all data to the same age distribution so that differences in crude rate owed to differences in fractions of the population at a given age are eliminated.\n\n<a id='d5a5f0cc-78ea-4459-8076-463e359d1af3'></a>\n\n\u2020The crude lifetime risks from all causes of death add to one.\nThere is no correction in this value for competing risks of death.\n\n<a id='b57b26d4-d44f-4c32-b1bc-c904b5cfb26b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gnhm0227",
+    "chunks": [
+        {
+            "markdown": "<a id='5b6dcad9-e34f-4861-ab14-bccf9d7ab95c'></a>\n\n-4-",
+            "type": "marginalia",
+            "id": "5b6dcad9-e34f-4861-ab14-bccf9d7ab95c",
+            "grounding": {
+                "box": {
+                    "left": 0.4626401364803314,
+                    "top": 0.07212116569280624,
+                    "right": 0.502652108669281,
+                    "bottom": 0.09160955995321274
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8628c80f-69fc-484c-b116-e82679cf54c7'></a>\n\nTABLE 1: CANCER MORTALITY, ENGLAND AND WALES\n(Males)",
+            "type": "text",
+            "id": "8628c80f-69fc-484c-b116-e82679cf54c7",
+            "grounding": {
+                "box": {
+                    "left": 0.2640852630138397,
+                    "top": 0.1272900402545929,
+                    "right": 0.720565676689148,
+                    "bottom": 0.17629951238632202
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dadd2b4b-4cd7-4199-964b-4676caa6992a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Year</td><td id=\"0-3\">Crude Rate*</td><td id=\"0-4\">Age-Adjusted Rate **</td><td id=\"0-5\">Crude Lifetime Risk\u2020</td><td id=\"0-6\">Median Life Span</td></tr>\n<tr><td id=\"0-7\">1861</td><td id=\"0-8\">0.00022</td><td id=\"0-9\">0.00036</td><td id=\"0-a\">0.01398</td><td id=\"0-b\">45.2</td></tr>\n<tr><td id=\"0-c\">1901</td><td id=\"0-d\">0.00070</td><td id=\"0-e\">0.00170</td><td id=\"0-f\">0.05233</td><td id=\"0-g\">54.9</td></tr>\n<tr><td id=\"0-h\">1964</td><td id=\"0-i\">0.00247</td><td id=\"0-j\">0.00225</td><td id=\"0-k\">0.20110</td><td id=\"0-l\">71.6</td></tr>\n<tr><td id=\"0-m\">1964 1861</td><td id=\"0-n\">11.23</td><td id=\"0-o\">6.25</td><td id=\"0-p\">14.38</td><td id=\"0-q\"></td></tr>\n</table>\n<table id=\"0-r\">\n<tr><td id=\"0-s\">SOURCE:</td><td id=\"0-t\">S. H. Preston, N. Keyfitz, and R. Schoen (1972). Causes of</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">Death: Life Tables for National Populations, Seminar Press,</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">New York, New York, and London.</td></tr>\n</table>",
+            "type": "table",
+            "id": "dadd2b4b-4cd7-4199-964b-4676caa6992a",
+            "grounding": {
+                "box": {
+                    "left": 0.13609635829925537,
+                    "top": 0.21047084033489227,
+                    "right": 0.8190968632698059,
+                    "bottom": 0.513134241104126
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6551a9fe-6f08-41e5-808b-6178691f06b2'></a>\n\n*Deaths per year per midyear population.",
+            "type": "text",
+            "id": "6551a9fe-6f08-41e5-808b-6178691f06b2",
+            "grounding": {
+                "box": {
+                    "left": 0.14781495928764343,
+                    "top": 0.5222476124763489,
+                    "right": 0.5487418174743652,
+                    "bottom": 0.545265257358551
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dfe17930-f53c-4128-8ec7-5f647291726a'></a>\n\n**Standardized to \"Western\" female stable population. This corrects all data to the same age distribution so that differences in crude rate owed to differences in fractions of the population at a given age are eliminated.",
+            "type": "text",
+            "id": "dfe17930-f53c-4128-8ec7-5f647291726a",
+            "grounding": {
+                "box": {
+                    "left": 0.1418570578098297,
+                    "top": 0.5532395243644714,
+                    "right": 0.8140963315963745,
+                    "bottom": 0.6205150485038757
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d5a5f0cc-78ea-4459-8076-463e359d1af3'></a>\n\n\u2020The crude lifetime risks from all causes of death add to one.\nThere is no correction in this value for competing risks of death.",
+            "type": "text",
+            "id": "d5a5f0cc-78ea-4459-8076-463e359d1af3",
+            "grounding": {
+                "box": {
+                    "left": 0.14453348517417908,
+                    "top": 0.627088725566864,
+                    "right": 0.810020923614502,
+                    "bottom": 0.6676368117332458
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b57b26d4-d44f-4c32-b1bc-c904b5cfb26b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gnhm0227",
+            "type": "marginalia",
+            "id": "b57b26d4-d44f-4c32-b1bc-c904b5cfb26b",
+            "grounding": {
+                "box": {
+                    "left": 0.2177256941795349,
+                    "top": 0.9755910038948059,
+                    "right": 0.7840906977653503,
+                    "bottom": 0.9989859461784363
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='5b6dcad9-e34f-4861-ab14-bccf9d7ab95c'></a>\n\n-4-\n\n<a id='8628c80f-69fc-484c-b116-e82679cf54c7'></a>\n\nTABLE 1: CANCER MORTALITY, ENGLAND AND WALES\n(Males)\n\n<a id='dadd2b4b-4cd7-4199-964b-4676caa6992a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Year</td><td id=\"0-3\">Crude Rate*</td><td id=\"0-4\">Age-Adjusted Rate **</td><td id=\"0-5\">Crude Lifetime Risk\u2020</td><td id=\"0-6\">Median Life Span</td></tr>\n<tr><td id=\"0-7\">1861</td><td id=\"0-8\">0.00022</td><td id=\"0-9\">0.00036</td><td id=\"0-a\">0.01398</td><td id=\"0-b\">45.2</td></tr>\n<tr><td id=\"0-c\">1901</td><td id=\"0-d\">0.00070</td><td id=\"0-e\">0.00170</td><td id=\"0-f\">0.05233</td><td id=\"0-g\">54.9</td></tr>\n<tr><td id=\"0-h\">1964</td><td id=\"0-i\">0.00247</td><td id=\"0-j\">0.00225</td><td id=\"0-k\">0.20110</td><td id=\"0-l\">71.6</td></tr>\n<tr><td id=\"0-m\">1964 1861</td><td id=\"0-n\">11.23</td><td id=\"0-o\">6.25</td><td id=\"0-p\">14.38</td><td id=\"0-q\"></td></tr>\n</table>\n<table id=\"0-r\">\n<tr><td id=\"0-s\">SOURCE:</td><td id=\"0-t\">S. H. Preston, N. Keyfitz, and R. Schoen (1972). Causes of</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">Death: Life Tables for National Populations, Seminar Press,</td></tr>\n<tr><td id=\"0-w\"></td><td id=\"0-x\">New York, New York, and London.</td></tr>\n</table>\n\n<a id='6551a9fe-6f08-41e5-808b-6178691f06b2'></a>\n\n*Deaths per year per midyear population.\n\n<a id='dfe17930-f53c-4128-8ec7-5f647291726a'></a>\n\n**Standardized to \"Western\" female stable population. This corrects all data to the same age distribution so that differences in crude rate owed to differences in fractions of the population at a given age are eliminated.\n\n<a id='d5a5f0cc-78ea-4459-8076-463e359d1af3'></a>\n\n\u2020The crude lifetime risks from all causes of death add to one.\nThere is no correction in this value for competing risks of death.\n\n<a id='b57b26d4-d44f-4c32-b1bc-c904b5cfb26b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gnhm0227",
+            "chunks": [
+                "5b6dcad9-e34f-4861-ab14-bccf9d7ab95c",
+                "8628c80f-69fc-484c-b116-e82679cf54c7",
+                "dadd2b4b-4cd7-4199-964b-4676caa6992a",
+                "6551a9fe-6f08-41e5-808b-6178691f06b2",
+                "dfe17930-f53c-4128-8ec7-5f647291726a",
+                "d5a5f0cc-78ea-4459-8076-463e359d1af3",
+                "b57b26d4-d44f-4c32-b1bc-c904b5cfb26b"
+            ]
+        }
+    ],
+    "grounding": {
+        "5b6dcad9-e34f-4861-ab14-bccf9d7ab95c": {
+            "box": {
+                "left": 0.4626401364803314,
+                "top": 0.07212116569280624,
+                "right": 0.502652108669281,
+                "bottom": 0.09160955995321274
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "8628c80f-69fc-484c-b116-e82679cf54c7": {
+            "box": {
+                "left": 0.2640852630138397,
+                "top": 0.1272900402545929,
+                "right": 0.720565676689148,
+                "bottom": 0.17629951238632202
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dadd2b4b-4cd7-4199-964b-4676caa6992a": {
+            "box": {
+                "left": 0.13609635829925537,
+                "top": 0.21047084033489227,
+                "right": 0.8190968632698059,
+                "bottom": 0.513134241104126
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.142120686803464,
+                "top": 0.21313142480375025,
+                "right": 0.8085060747045816,
+                "bottom": 0.401414061701014
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.142120686803464,
+                "top": 0.21313142480375025,
+                "right": 0.19758922923434552,
+                "bottom": 0.2469400252184093
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.19758922923434552,
+                "top": 0.21313142480375025,
+                "right": 0.33628356165529283,
+                "bottom": 0.2469400252184093
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.33628356165529283,
+                "top": 0.21313142480375025,
+                "right": 0.5088356754477132,
+                "bottom": 0.2469400252184093
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5088356754477132,
+                "top": 0.21313142480375025,
+                "right": 0.6664425366796216,
+                "bottom": 0.2469400252184093
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6664425366796216,
+                "top": 0.21313142480375025,
+                "right": 0.8072528986982341,
+                "bottom": 0.2469400252184093
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.142120686803464,
+                "top": 0.2469400252184093,
+                "right": 0.19758922923434552,
+                "bottom": 0.2777067294489113
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.19758922923434552,
+                "top": 0.2469400252184093,
+                "right": 0.33628356165529283,
+                "bottom": 0.2777067294489113
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.33628356165529283,
+                "top": 0.2469400252184093,
+                "right": 0.5088356754477132,
+                "bottom": 0.2777067294489113
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5088356754477132,
+                "top": 0.2469400252184093,
+                "right": 0.6664425366796216,
+                "bottom": 0.2777067294489113
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6664425366796216,
+                "top": 0.2469400252184093,
+                "right": 0.8072528986982341,
+                "bottom": 0.2777067294489113
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.142120686803464,
+                "top": 0.2777067294489113,
+                "right": 0.19758922923434552,
+                "bottom": 0.30075232850858047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.19758922923434552,
+                "top": 0.2777067294489113,
+                "right": 0.33628356165529283,
+                "bottom": 0.30075232850858047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.33628356165529283,
+                "top": 0.2777067294489113,
+                "right": 0.5088356754477132,
+                "bottom": 0.30075232850858047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.5088356754477132,
+                "top": 0.2777067294489113,
+                "right": 0.6664425366796216,
+                "bottom": 0.30075232850858047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6664425366796216,
+                "top": 0.2777067294489113,
+                "right": 0.8072528986982341,
+                "bottom": 0.30075232850858047
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.142120686803464,
+                "top": 0.30075232850858047,
+                "right": 0.19758922923434552,
+                "bottom": 0.32404790985043874
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.19758922923434552,
+                "top": 0.30075232850858047,
+                "right": 0.33628356165529283,
+                "bottom": 0.32404790985043874
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.33628356165529283,
+                "top": 0.30075232850858047,
+                "right": 0.5088356754477132,
+                "bottom": 0.32404790985043874
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5088356754477132,
+                "top": 0.30075232850858047,
+                "right": 0.6664425366796216,
+                "bottom": 0.32404790985043874
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6664425366796216,
+                "top": 0.30075232850858047,
+                "right": 0.8072528986982341,
+                "bottom": 0.32404790985043874
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.142120686803464,
+                "top": 0.32404790985043874,
+                "right": 0.19758922923434552,
+                "bottom": 0.401414061701014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.19758922923434552,
+                "top": 0.32404790985043874,
+                "right": 0.33628356165529283,
+                "bottom": 0.401414061701014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.33628356165529283,
+                "top": 0.32404790985043874,
+                "right": 0.5088356754477132,
+                "bottom": 0.401414061701014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5088356754477132,
+                "top": 0.32404790985043874,
+                "right": 0.6664425366796216,
+                "bottom": 0.401414061701014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.6664425366796216,
+                "top": 0.32404790985043874,
+                "right": 0.8072528986982341,
+                "bottom": 0.401414061701014
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.14382844151109958,
+                "top": 0.4575369151271298,
+                "right": 0.8190398285563312,
+                "bottom": 0.5131314809620191
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.14382844151109958,
+                "top": 0.4575369151271298,
+                "right": 0.21833033940420954,
+                "bottom": 0.4793307807212601
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.21833033940420954,
+                "top": 0.4575369151271298,
+                "right": 0.8189758324324323,
+                "bottom": 0.4793307807212601
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.14382844151109958,
+                "top": 0.4793307807212601,
+                "right": 0.21833033940420954,
+                "bottom": 0.4946944172136023
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.21833033940420954,
+                "top": 0.4793307807212601,
+                "right": 0.8189758324324323,
+                "bottom": 0.4946944172136023
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.14382844151109958,
+                "top": 0.4946944172136023,
+                "right": 0.21833033940420954,
+                "bottom": 0.5131314809620191
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.21833033940420954,
+                "top": 0.4946944172136023,
+                "right": 0.8189758324324323,
+                "bottom": 0.5131314809620191
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "6551a9fe-6f08-41e5-808b-6178691f06b2": {
+            "box": {
+                "left": 0.14781495928764343,
+                "top": 0.5222476124763489,
+                "right": 0.5487418174743652,
+                "bottom": 0.545265257358551
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "dfe17930-f53c-4128-8ec7-5f647291726a": {
+            "box": {
+                "left": 0.1418570578098297,
+                "top": 0.5532395243644714,
+                "right": 0.8140963315963745,
+                "bottom": 0.6205150485038757
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d5a5f0cc-78ea-4459-8076-463e359d1af3": {
+            "box": {
+                "left": 0.14453348517417908,
+                "top": 0.627088725566864,
+                "right": 0.810020923614502,
+                "bottom": 0.6676368117332458
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b57b26d4-d44f-4c32-b1bc-c904b5cfb26b": {
+            "box": {
+                "left": 0.2177256941795349,
+                "top": 0.9755910038948059,
+                "right": 0.7840906977653503,
+                "bottom": 0.9989859461784363
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "gnhm0227_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8385,
+        "credit_usage": 3.0,
+        "job_id": "l9f4kvmky4i9liiuuieqa17f2",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='cc3aaef2-e920-4ebf-8c77-a6a706d3dd0e'></a>\n\nBirth Defects Special Treatment Center\n\n<a id='9a905a87-1e10-4e9b-87ee-cd52e93f8d03'></a>\n\nLittle Rock, ARKANSAS\n\n<a id='c7549d24-c51b-409b-a681-55a3c64d7f2f'></a>\n\nNational Foundation State Representative - Larry J. Morgan\n501 Woodlane\nLittle Rock, Arkansas\nTel: Code #501; Franklin 5-5513 &\n5-5514\n\n<a id='adaff8c5-77ed-43fb-9f1b-e85b6ae5d377'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ngxho227",
+    "chunks": [
+        {
+            "markdown": "<a id='cc3aaef2-e920-4ebf-8c77-a6a706d3dd0e'></a>\n\nBirth Defects Special Treatment Center",
+            "type": "text",
+            "id": "cc3aaef2-e920-4ebf-8c77-a6a706d3dd0e",
+            "grounding": {
+                "box": {
+                    "left": 0.14950531721115112,
+                    "top": 0.1070963516831398,
+                    "right": 0.5277995467185974,
+                    "bottom": 0.1332181990146637
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9a905a87-1e10-4e9b-87ee-cd52e93f8d03'></a>\n\nLittle Rock, ARKANSAS",
+            "type": "text",
+            "id": "9a905a87-1e10-4e9b-87ee-cd52e93f8d03",
+            "grounding": {
+                "box": {
+                    "left": 0.6609600186347961,
+                    "top": 0.10926823318004608,
+                    "right": 0.8751326203346252,
+                    "bottom": 0.1301518678665161
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c7549d24-c51b-409b-a681-55a3c64d7f2f'></a>\n\nNational Foundation State Representative - Larry J. Morgan\n501 Woodlane\nLittle Rock, Arkansas\nTel: Code #501; Franklin 5-5513 &\n5-5514",
+            "type": "text",
+            "id": "c7549d24-c51b-409b-a681-55a3c64d7f2f",
+            "grounding": {
+                "box": {
+                    "left": 0.14956435561180115,
+                    "top": 0.1516624093055725,
+                    "right": 0.8954073190689087,
+                    "bottom": 0.23429685831069946
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='adaff8c5-77ed-43fb-9f1b-e85b6ae5d377'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ngxho227",
+            "type": "marginalia",
+            "id": "adaff8c5-77ed-43fb-9f1b-e85b6ae5d377",
+            "grounding": {
+                "box": {
+                    "left": 0.22352275252342224,
+                    "top": 0.9802021980285645,
+                    "right": 0.7746762037277222,
+                    "bottom": 0.9995322227478027
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='cc3aaef2-e920-4ebf-8c77-a6a706d3dd0e'></a>\n\nBirth Defects Special Treatment Center\n\n<a id='9a905a87-1e10-4e9b-87ee-cd52e93f8d03'></a>\n\nLittle Rock, ARKANSAS\n\n<a id='c7549d24-c51b-409b-a681-55a3c64d7f2f'></a>\n\nNational Foundation State Representative - Larry J. Morgan\n501 Woodlane\nLittle Rock, Arkansas\nTel: Code #501; Franklin 5-5513 &\n5-5514\n\n<a id='adaff8c5-77ed-43fb-9f1b-e85b6ae5d377'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ngxho227",
+            "chunks": [
+                "cc3aaef2-e920-4ebf-8c77-a6a706d3dd0e",
+                "9a905a87-1e10-4e9b-87ee-cd52e93f8d03",
+                "c7549d24-c51b-409b-a681-55a3c64d7f2f",
+                "adaff8c5-77ed-43fb-9f1b-e85b6ae5d377"
+            ]
+        }
+    ],
+    "grounding": {
+        "cc3aaef2-e920-4ebf-8c77-a6a706d3dd0e": {
+            "box": {
+                "left": 0.14950531721115112,
+                "top": 0.1070963516831398,
+                "right": 0.5277995467185974,
+                "bottom": 0.1332181990146637
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9a905a87-1e10-4e9b-87ee-cd52e93f8d03": {
+            "box": {
+                "left": 0.6609600186347961,
+                "top": 0.10926823318004608,
+                "right": 0.8751326203346252,
+                "bottom": 0.1301518678665161
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c7549d24-c51b-409b-a681-55a3c64d7f2f": {
+            "box": {
+                "left": 0.14956435561180115,
+                "top": 0.1516624093055725,
+                "right": 0.8954073190689087,
+                "bottom": 0.23429685831069946
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "adaff8c5-77ed-43fb-9f1b-e85b6ae5d377": {
+            "box": {
+                "left": 0.22352275252342224,
+                "top": 0.9802021980285645,
+                "right": 0.7746762037277222,
+                "bottom": 0.9995322227478027
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "ngxh0227_8.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4451,
+        "credit_usage": 3.0,
+        "job_id": "nlhj0lb4uhq7ke8nx52j6myzr",
+        "version": "dpt-2-20250919"
+    }
+}

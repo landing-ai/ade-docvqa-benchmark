@@ -1,0 +1,553 @@
+{
+    "markdown": "<a id='047c16a1-36af-4f37-a561-28daae7706f4'></a>\n\nTable 1. Baseline and Post Intervention Lipid and Lipoprotein Levels in Postmenopausal Women*\n\n<a id='90248fef-a6db-4854-bd96-45a1540daee7'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Total Cholesterol (mmol /l)</td><td id=\"0-4\">LDL Cholesterol (mmol /l)</td><td id=\"0-5\">HDL Cholesterol (mmol /l)</td><td id=\"0-6\">Triglycerides (mmol /l)</td></tr>\n<tr><td id=\"0-7\" colspan=\"5\">Placebo</td></tr>\n<tr><td id=\"0-8\">Baseline (n=17)</td><td id=\"0-9\">6.335 \u00b1 0.918</td><td id=\"0-a\">4.030 \u00b1 1.543</td><td id=\"0-b\">1.333 \u00b1 0.348</td><td id=\"0-c\">1.352 \u00b1 0.735</td></tr>\n<tr><td id=\"0-d\">12 weeks (n=17)</td><td id=\"0-e\">5.761 \u00b1 0.944</td><td id=\"0-f\">3.121 \u00b1 1.085</td><td id=\"0-g\">1.384 \u00b1 0.573</td><td id=\"0-h\">1.391 \u00b1 0.845</td></tr>\n<tr><td id=\"0-i\" colspan=\"5\">Estrogen</td></tr>\n<tr><td id=\"0-j\">Baseline (n=18)</td><td id=\"0-k\">5.916 \u0013 1.082</td><td id=\"0-l\">3.673 \u0013 1.625</td><td id=\"0-m\">1.306 \u0013 0.364</td><td id=\"0-n\">1.483 \u0013 0.691</td></tr>\n<tr><td id=\"0-o\">12 weeks (n=18)</td><td id=\"0-p\">5.153 \u0013 0.907</td><td id=\"0-q\">2.750 \u0013 0.931</td><td id=\"0-r\">1.416 \u0013 0.361</td><td id=\"0-s\">1.510 \u0013 0.667</td></tr>\n<tr><td id=\"0-t\">Estrogen and Progestin</td><td id=\"0-u\" colspan=\"4\"></td></tr>\n<tr><td id=\"0-v\">Baseline (n=14)</td><td id=\"0-w\">6.285 \u0013 1.491</td><td id=\"0-x\">4.285 \u0013 1.818</td><td id=\"0-y\">1.375 \u0013 0.298</td><td id=\"0-z\">1.363 \u0013 0.658</td></tr>\n<tr><td id=\"0-A\">12 weeks (n=13)</td><td id=\"0-B\">5.212 \u0013 0.812</td><td id=\"0-C\">3.237 \u0013 1.180</td><td id=\"0-D\">1.360 \u0013 0.247</td><td id=\"0-E\">1.074 \u0013 0.221</td></tr>\n</table>\n\n<a id='2add8670-2da1-4d21-b1a4-6a1783e6f3d3'></a>\n\n* There were no significant between group differences at baseline or follow-up. All 3 groups experienced significant (p < .05) decreases in total cholesterol and LDL-cholesterol.\n\n<a id='ffe67029-d0df-4307-8314-23ec029c3ccb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rkcw0217\n\n<a id='3cd0bbc0-b6cd-4c70-a089-b02253c2409e'></a>\n\nDWRITE 06076",
+    "chunks": [
+        {
+            "markdown": "<a id='047c16a1-36af-4f37-a561-28daae7706f4'></a>\n\nTable 1. Baseline and Post Intervention Lipid and Lipoprotein Levels in Postmenopausal Women*",
+            "type": "text",
+            "id": "047c16a1-36af-4f37-a561-28daae7706f4",
+            "grounding": {
+                "box": {
+                    "left": 0.06951954960823059,
+                    "top": 0.1663396656513214,
+                    "right": 0.6658865213394165,
+                    "bottom": 0.2005443274974823
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='90248fef-a6db-4854-bd96-45a1540daee7'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Total Cholesterol (mmol /l)</td><td id=\"0-4\">LDL Cholesterol (mmol /l)</td><td id=\"0-5\">HDL Cholesterol (mmol /l)</td><td id=\"0-6\">Triglycerides (mmol /l)</td></tr>\n<tr><td id=\"0-7\" colspan=\"5\">Placebo</td></tr>\n<tr><td id=\"0-8\">Baseline (n=17)</td><td id=\"0-9\">6.335 \u00b1 0.918</td><td id=\"0-a\">4.030 \u00b1 1.543</td><td id=\"0-b\">1.333 \u00b1 0.348</td><td id=\"0-c\">1.352 \u00b1 0.735</td></tr>\n<tr><td id=\"0-d\">12 weeks (n=17)</td><td id=\"0-e\">5.761 \u00b1 0.944</td><td id=\"0-f\">3.121 \u00b1 1.085</td><td id=\"0-g\">1.384 \u00b1 0.573</td><td id=\"0-h\">1.391 \u00b1 0.845</td></tr>\n<tr><td id=\"0-i\" colspan=\"5\">Estrogen</td></tr>\n<tr><td id=\"0-j\">Baseline (n=18)</td><td id=\"0-k\">5.916 \u0013 1.082</td><td id=\"0-l\">3.673 \u0013 1.625</td><td id=\"0-m\">1.306 \u0013 0.364</td><td id=\"0-n\">1.483 \u0013 0.691</td></tr>\n<tr><td id=\"0-o\">12 weeks (n=18)</td><td id=\"0-p\">5.153 \u0013 0.907</td><td id=\"0-q\">2.750 \u0013 0.931</td><td id=\"0-r\">1.416 \u0013 0.361</td><td id=\"0-s\">1.510 \u0013 0.667</td></tr>\n<tr><td id=\"0-t\">Estrogen and Progestin</td><td id=\"0-u\" colspan=\"4\"></td></tr>\n<tr><td id=\"0-v\">Baseline (n=14)</td><td id=\"0-w\">6.285 \u0013 1.491</td><td id=\"0-x\">4.285 \u0013 1.818</td><td id=\"0-y\">1.375 \u0013 0.298</td><td id=\"0-z\">1.363 \u0013 0.658</td></tr>\n<tr><td id=\"0-A\">12 weeks (n=13)</td><td id=\"0-B\">5.212 \u0013 0.812</td><td id=\"0-C\">3.237 \u0013 1.180</td><td id=\"0-D\">1.360 \u0013 0.247</td><td id=\"0-E\">1.074 \u0013 0.221</td></tr>\n</table>",
+            "type": "table",
+            "id": "90248fef-a6db-4854-bd96-45a1540daee7",
+            "grounding": {
+                "box": {
+                    "left": 0.06865593791007996,
+                    "top": 0.25404906272888184,
+                    "right": 0.792890191078186,
+                    "bottom": 0.6195502281188965
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2add8670-2da1-4d21-b1a4-6a1783e6f3d3'></a>\n\n* There were no significant between group differences at baseline or follow-up. All 3 groups experienced significant (p < .05) decreases in total cholesterol and LDL-cholesterol.",
+            "type": "text",
+            "id": "2add8670-2da1-4d21-b1a4-6a1783e6f3d3",
+            "grounding": {
+                "box": {
+                    "left": 0.0696447491645813,
+                    "top": 0.648547887802124,
+                    "right": 0.8270723223686218,
+                    "bottom": 0.7027524709701538
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ffe67029-d0df-4307-8314-23ec029c3ccb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rkcw0217",
+            "type": "text",
+            "id": "ffe67029-d0df-4307-8314-23ec029c3ccb",
+            "grounding": {
+                "box": {
+                    "left": 0.279321551322937,
+                    "top": 0.9706283211708069,
+                    "right": 0.7210997343063354,
+                    "bottom": 0.9992981553077698
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3cd0bbc0-b6cd-4c70-a089-b02253c2409e'></a>\n\nDWRITE 06076",
+            "type": "marginalia",
+            "id": "3cd0bbc0-b6cd-4c70-a089-b02253c2409e",
+            "grounding": {
+                "box": {
+                    "left": 0.009099509567022324,
+                    "top": 0.8399683833122253,
+                    "right": 0.028820522129535675,
+                    "bottom": 0.9751831889152527
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='047c16a1-36af-4f37-a561-28daae7706f4'></a>\n\nTable 1. Baseline and Post Intervention Lipid and Lipoprotein Levels in Postmenopausal Women*\n\n<a id='90248fef-a6db-4854-bd96-45a1540daee7'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">Total Cholesterol (mmol /l)</td><td id=\"0-4\">LDL Cholesterol (mmol /l)</td><td id=\"0-5\">HDL Cholesterol (mmol /l)</td><td id=\"0-6\">Triglycerides (mmol /l)</td></tr>\n<tr><td id=\"0-7\" colspan=\"5\">Placebo</td></tr>\n<tr><td id=\"0-8\">Baseline (n=17)</td><td id=\"0-9\">6.335 \u00b1 0.918</td><td id=\"0-a\">4.030 \u00b1 1.543</td><td id=\"0-b\">1.333 \u00b1 0.348</td><td id=\"0-c\">1.352 \u00b1 0.735</td></tr>\n<tr><td id=\"0-d\">12 weeks (n=17)</td><td id=\"0-e\">5.761 \u00b1 0.944</td><td id=\"0-f\">3.121 \u00b1 1.085</td><td id=\"0-g\">1.384 \u00b1 0.573</td><td id=\"0-h\">1.391 \u00b1 0.845</td></tr>\n<tr><td id=\"0-i\" colspan=\"5\">Estrogen</td></tr>\n<tr><td id=\"0-j\">Baseline (n=18)</td><td id=\"0-k\">5.916 \u0013 1.082</td><td id=\"0-l\">3.673 \u0013 1.625</td><td id=\"0-m\">1.306 \u0013 0.364</td><td id=\"0-n\">1.483 \u0013 0.691</td></tr>\n<tr><td id=\"0-o\">12 weeks (n=18)</td><td id=\"0-p\">5.153 \u0013 0.907</td><td id=\"0-q\">2.750 \u0013 0.931</td><td id=\"0-r\">1.416 \u0013 0.361</td><td id=\"0-s\">1.510 \u0013 0.667</td></tr>\n<tr><td id=\"0-t\">Estrogen and Progestin</td><td id=\"0-u\" colspan=\"4\"></td></tr>\n<tr><td id=\"0-v\">Baseline (n=14)</td><td id=\"0-w\">6.285 \u0013 1.491</td><td id=\"0-x\">4.285 \u0013 1.818</td><td id=\"0-y\">1.375 \u0013 0.298</td><td id=\"0-z\">1.363 \u0013 0.658</td></tr>\n<tr><td id=\"0-A\">12 weeks (n=13)</td><td id=\"0-B\">5.212 \u0013 0.812</td><td id=\"0-C\">3.237 \u0013 1.180</td><td id=\"0-D\">1.360 \u0013 0.247</td><td id=\"0-E\">1.074 \u0013 0.221</td></tr>\n</table>\n\n<a id='2add8670-2da1-4d21-b1a4-6a1783e6f3d3'></a>\n\n* There were no significant between group differences at baseline or follow-up. All 3 groups experienced significant (p < .05) decreases in total cholesterol and LDL-cholesterol.\n\n<a id='ffe67029-d0df-4307-8314-23ec029c3ccb'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rkcw0217\n\n<a id='3cd0bbc0-b6cd-4c70-a089-b02253c2409e'></a>\n\nDWRITE 06076",
+            "chunks": [
+                "047c16a1-36af-4f37-a561-28daae7706f4",
+                "90248fef-a6db-4854-bd96-45a1540daee7",
+                "2add8670-2da1-4d21-b1a4-6a1783e6f3d3",
+                "ffe67029-d0df-4307-8314-23ec029c3ccb",
+                "3cd0bbc0-b6cd-4c70-a089-b02253c2409e"
+            ]
+        }
+    ],
+    "grounding": {
+        "047c16a1-36af-4f37-a561-28daae7706f4": {
+            "box": {
+                "left": 0.06951954960823059,
+                "top": 0.1663396656513214,
+                "right": 0.6658865213394165,
+                "bottom": 0.2005443274974823
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "90248fef-a6db-4854-bd96-45a1540daee7": {
+            "box": {
+                "left": 0.06865593791007996,
+                "top": 0.25404906272888184,
+                "right": 0.792890191078186,
+                "bottom": 0.6195502281188965
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.2589638236990679,
+                "right": 0.7884696001591873,
+                "bottom": 0.6139318828555389
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.2589638236990679,
+                "right": 0.21744943237205128,
+                "bottom": 0.3409353998449056
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.21744943237205128,
+                "top": 0.2589638236990679,
+                "right": 0.3449074080610881,
+                "bottom": 0.3409353998449056
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.3449074080610881,
+                "top": 0.2589638236990679,
+                "right": 0.47741859768477646,
+                "bottom": 0.3409353998449056
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.47741859768477646,
+                "top": 0.2589638236990679,
+                "right": 0.6123133796015594,
+                "bottom": 0.3409353998449056
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6123133796015594,
+                "top": 0.2589638236990679,
+                "right": 0.7882386096606027,
+                "bottom": 0.3409353998449056
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.3409353998449056,
+                "right": 0.7882386096606027,
+                "bottom": 0.40043715926033485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.37566495427076774,
+                "right": 0.21744943237205128,
+                "bottom": 0.40043715926033485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.21744943237205128,
+                "top": 0.37566495427076774,
+                "right": 0.3449074080610881,
+                "bottom": 0.40043715926033485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.3449074080610881,
+                "top": 0.37566495427076774,
+                "right": 0.47741859768477646,
+                "bottom": 0.40043715926033485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.47741859768477646,
+                "top": 0.37566495427076774,
+                "right": 0.6123133796015594,
+                "bottom": 0.40043715926033485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.6123133796015594,
+                "top": 0.37566495427076774,
+                "right": 0.7882386096606027,
+                "bottom": 0.40043715926033485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.40043715926033485,
+                "right": 0.21744943237205128,
+                "bottom": 0.4249120566153053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.21744943237205128,
+                "top": 0.40043715926033485,
+                "right": 0.3449074080610881,
+                "bottom": 0.4249120566153053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3449074080610881,
+                "top": 0.40043715926033485,
+                "right": 0.47741859768477646,
+                "bottom": 0.4249120566153053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.47741859768477646,
+                "top": 0.40043715926033485,
+                "right": 0.6123133796015594,
+                "bottom": 0.4249120566153053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6123133796015594,
+                "top": 0.40043715926033485,
+                "right": 0.7882386096606027,
+                "bottom": 0.4249120566153053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.4249120566153053,
+                "right": 0.7882386096606027,
+                "bottom": 0.4930710681775281
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.4697597488556511,
+                "right": 0.21744943237205128,
+                "bottom": 0.4930710681775281
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.21744943237205128,
+                "top": 0.4697597488556511,
+                "right": 0.3449074080610881,
+                "bottom": 0.4930710681775281
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.3449074080610881,
+                "top": 0.4697597488556511,
+                "right": 0.47741859768477646,
+                "bottom": 0.4930710681775281
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.47741859768477646,
+                "top": 0.4697597488556511,
+                "right": 0.6123133796015594,
+                "bottom": 0.4930710681775281
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.6123133796015594,
+                "top": 0.4697597488556511,
+                "right": 0.7882386096606027,
+                "bottom": 0.4930710681775281
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.4930710681775281,
+                "right": 0.21744943237205128,
+                "bottom": 0.5174553484660294
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.21744943237205128,
+                "top": 0.4930710681775281,
+                "right": 0.3449074080610881,
+                "bottom": 0.5174553484660294
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.3449074080610881,
+                "top": 0.4930710681775281,
+                "right": 0.47741859768477646,
+                "bottom": 0.5174553484660294
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.47741859768477646,
+                "top": 0.4930710681775281,
+                "right": 0.6123133796015594,
+                "bottom": 0.5174553484660294
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.6123133796015594,
+                "top": 0.4930710681775281,
+                "right": 0.7882386096606027,
+                "bottom": 0.5174553484660294
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.5174553484660294,
+                "right": 0.21744943237205128,
+                "bottom": 0.5629923469430906
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.21744943237205128,
+                "top": 0.5174553484660294,
+                "right": 0.7882386096606027,
+                "bottom": 0.5861498601610435
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.5629923469430906,
+                "right": 0.21744943237205128,
+                "bottom": 0.5861498601610435
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.21744943237205128,
+                "top": 0.5629923469430906,
+                "right": 0.3449074080610881,
+                "bottom": 0.5861498601610435
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.3449074080610881,
+                "top": 0.5629923469430906,
+                "right": 0.47741859768477646,
+                "bottom": 0.5861498601610435
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.47741859768477646,
+                "top": 0.5629923469430906,
+                "right": 0.6123133796015594,
+                "bottom": 0.5861498601610435
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.6123133796015594,
+                "top": 0.5629923469430906,
+                "right": 0.7882386096606027,
+                "bottom": 0.5861498601610435
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.07169013696067618,
+                "top": 0.5861498601610435,
+                "right": 0.21744943237205128,
+                "bottom": 0.6139318828555389
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.21744943237205128,
+                "top": 0.5861498601610435,
+                "right": 0.3449074080610881,
+                "bottom": 0.6139318828555389
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.3449074080610881,
+                "top": 0.5861498601610435,
+                "right": 0.47741859768477646,
+                "bottom": 0.6139318828555389
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.47741859768477646,
+                "top": 0.5861498601610435,
+                "right": 0.6123133796015594,
+                "bottom": 0.6139318828555389
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.6123133796015594,
+                "top": 0.5861498601610435,
+                "right": 0.7882386096606027,
+                "bottom": 0.6139318828555389
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "2add8670-2da1-4d21-b1a4-6a1783e6f3d3": {
+            "box": {
+                "left": 0.0696447491645813,
+                "top": 0.648547887802124,
+                "right": 0.8270723223686218,
+                "bottom": 0.7027524709701538
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ffe67029-d0df-4307-8314-23ec029c3ccb": {
+            "box": {
+                "left": 0.279321551322937,
+                "top": 0.9706283211708069,
+                "right": 0.7210997343063354,
+                "bottom": 0.9992981553077698
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3cd0bbc0-b6cd-4c70-a089-b02253c2409e": {
+            "box": {
+                "left": 0.009099509567022324,
+                "top": 0.8399683833122253,
+                "right": 0.028820522129535675,
+                "bottom": 0.9751831889152527
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "rkcw0217_10.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6912,
+        "credit_usage": 3.0,
+        "job_id": "n923lf16l7sq5efp8tq4qw9zl",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='248d370d-4abc-45a5-8cc0-eae320c0dc43'></a>\n\nIF THE FOOD BUSINESS WERE RUN ENTIRELY\nBY THE GOVERNMENT WOULD YOU GET\nBETTER FOOD FOR YOUR DOLLAR ?\n\n<a id='82edcef6-6b4e-4da7-b840-347ac085cb79'></a>\n\n<table><thead><tr><th></th><th>Total<br>%</th><th>B<br>%</th><th>C<br>%</th></tr></thead><tbody><tr><td>Better</td><td>29.6</td><td>26</td><td>34</td></tr><tr><td>Not so good</td><td>28.8</td><td>35</td><td>22</td></tr><tr><td>No difference</td><td>27.6</td><td>27</td><td>28</td></tr><tr><td>Don't Know</td><td>14.0</td><td>12</td><td>16</td></tr><tr><td>Total %</td><td>100.0</td><td>100</td><td>100</td></tr><tr><td>Total Interviews</td><td>1000</td><td>500</td><td>500</td></tr></tbody></table>\n\n<a id='0f32ee98-66a9-4875-ae84-640d69948d1a'></a>\n\nSource - Link, 1943\n\n<a id='46d2b953-12db-4f42-bd7b-beee2276c88f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xjhl0226\n\n<a id='71ab9b1b-05ed-4c2e-aeb4-24c4a295100c'></a>\n\n8\n6",
+    "chunks": [
+        {
+            "markdown": "<a id='248d370d-4abc-45a5-8cc0-eae320c0dc43'></a>\n\nIF THE FOOD BUSINESS WERE RUN ENTIRELY\nBY THE GOVERNMENT WOULD YOU GET\nBETTER FOOD FOR YOUR DOLLAR ?",
+            "type": "text",
+            "id": "248d370d-4abc-45a5-8cc0-eae320c0dc43",
+            "grounding": {
+                "box": {
+                    "left": 0.046701669692993164,
+                    "top": 0.06918030977249146,
+                    "right": 0.947700560092926,
+                    "bottom": 0.30081531405448914
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='82edcef6-6b4e-4da7-b840-347ac085cb79'></a>\n\n<table><thead><tr><th></th><th>Total<br>%</th><th>B<br>%</th><th>C<br>%</th></tr></thead><tbody><tr><td>Better</td><td>29.6</td><td>26</td><td>34</td></tr><tr><td>Not so good</td><td>28.8</td><td>35</td><td>22</td></tr><tr><td>No difference</td><td>27.6</td><td>27</td><td>28</td></tr><tr><td>Don't Know</td><td>14.0</td><td>12</td><td>16</td></tr><tr><td>Total %</td><td>100.0</td><td>100</td><td>100</td></tr><tr><td>Total Interviews</td><td>1000</td><td>500</td><td>500</td></tr></tbody></table>",
+            "type": "table",
+            "id": "82edcef6-6b4e-4da7-b840-347ac085cb79",
+            "grounding": {
+                "box": {
+                    "left": 0.08355849981307983,
+                    "top": 0.3250894546508789,
+                    "right": 0.9469453692436218,
+                    "bottom": 0.903905987739563
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0f32ee98-66a9-4875-ae84-640d69948d1a'></a>\n\nSource - Link, 1943",
+            "type": "marginalia",
+            "id": "0f32ee98-66a9-4875-ae84-640d69948d1a",
+            "grounding": {
+                "box": {
+                    "left": 0.06744200736284256,
+                    "top": 0.9266402721405029,
+                    "right": 0.19570288062095642,
+                    "bottom": 0.9568626880645752
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='46d2b953-12db-4f42-bd7b-beee2276c88f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xjhl0226",
+            "type": "text",
+            "id": "46d2b953-12db-4f42-bd7b-beee2276c88f",
+            "grounding": {
+                "box": {
+                    "left": 0.17781296372413635,
+                    "top": 0.9521065950393677,
+                    "right": 0.8246673345565796,
+                    "bottom": 0.9941312074661255
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='71ab9b1b-05ed-4c2e-aeb4-24c4a295100c'></a>\n\n8\n6",
+            "type": "marginalia",
+            "id": "71ab9b1b-05ed-4c2e-aeb4-24c4a295100c",
+            "grounding": {
+                "box": {
+                    "left": 0.972456693649292,
+                    "top": 0.939123272895813,
+                    "right": 0.9992902278900146,
+                    "bottom": 0.9825800657272339
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='248d370d-4abc-45a5-8cc0-eae320c0dc43'></a>\n\nIF THE FOOD BUSINESS WERE RUN ENTIRELY\nBY THE GOVERNMENT WOULD YOU GET\nBETTER FOOD FOR YOUR DOLLAR ?\n\n<a id='82edcef6-6b4e-4da7-b840-347ac085cb79'></a>\n\n<table><thead><tr><th></th><th>Total<br>%</th><th>B<br>%</th><th>C<br>%</th></tr></thead><tbody><tr><td>Better</td><td>29.6</td><td>26</td><td>34</td></tr><tr><td>Not so good</td><td>28.8</td><td>35</td><td>22</td></tr><tr><td>No difference</td><td>27.6</td><td>27</td><td>28</td></tr><tr><td>Don't Know</td><td>14.0</td><td>12</td><td>16</td></tr><tr><td>Total %</td><td>100.0</td><td>100</td><td>100</td></tr><tr><td>Total Interviews</td><td>1000</td><td>500</td><td>500</td></tr></tbody></table>\n\n<a id='0f32ee98-66a9-4875-ae84-640d69948d1a'></a>\n\nSource - Link, 1943\n\n<a id='46d2b953-12db-4f42-bd7b-beee2276c88f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/xjhl0226\n\n<a id='71ab9b1b-05ed-4c2e-aeb4-24c4a295100c'></a>\n\n8\n6",
+            "chunks": [
+                "248d370d-4abc-45a5-8cc0-eae320c0dc43",
+                "82edcef6-6b4e-4da7-b840-347ac085cb79",
+                "0f32ee98-66a9-4875-ae84-640d69948d1a",
+                "46d2b953-12db-4f42-bd7b-beee2276c88f",
+                "71ab9b1b-05ed-4c2e-aeb4-24c4a295100c"
+            ]
+        }
+    ],
+    "grounding": {
+        "248d370d-4abc-45a5-8cc0-eae320c0dc43": {
+            "box": {
+                "left": 0.046701669692993164,
+                "top": 0.06918030977249146,
+                "right": 0.947700560092926,
+                "bottom": 0.30081531405448914
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "82edcef6-6b4e-4da7-b840-347ac085cb79": {
+            "box": {
+                "left": 0.08355849981307983,
+                "top": 0.3250894546508789,
+                "right": 0.9469453692436218,
+                "bottom": 0.903905987739563
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0f32ee98-66a9-4875-ae84-640d69948d1a": {
+            "box": {
+                "left": 0.06744200736284256,
+                "top": 0.9266402721405029,
+                "right": 0.19570288062095642,
+                "bottom": 0.9568626880645752
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "46d2b953-12db-4f42-bd7b-beee2276c88f": {
+            "box": {
+                "left": 0.17781296372413635,
+                "top": 0.9521065950393677,
+                "right": 0.8246673345565796,
+                "bottom": 0.9941312074661255
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "71ab9b1b-05ed-4c2e-aeb4-24c4a295100c": {
+            "box": {
+                "left": 0.972456693649292,
+                "top": 0.939123272895813,
+                "right": 0.9992902278900146,
+                "bottom": 0.9825800657272339
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "xjhl0226_16.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4811,
+        "credit_usage": 3.0,
+        "job_id": "pgf4m3xoc7mqv2pwkok0r2wej",
+        "version": "dpt-2-20250919"
+    }
+}

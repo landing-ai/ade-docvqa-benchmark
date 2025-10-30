@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='1406ca82-af29-4d04-901a-c4e58123a576'></a>\n\n<::flowchart\n: The flowchart displays a network of interconnected triangular nodes, each containing a label. The nodes are arranged in a multi-level structure with lines indicating relationships.\n: \n: Top row (nodes pointing down):\n: - Emulsifiers\n: - Curing\n: - Dough conditioners\n: - Colors\n: \n: Second row (nodes pointing up):\n: - Creaming (connected from Emulsifiers)\n: - Air replacement (connected from Curing)\n: - Clarifiers (connected from Dough conditioners)\n: - Acidifiers (connected from Colors)\n: \n: Third row (nodes pointing down):\n: - Texturizers\n: - Dispersing (connected from Creaming)\n: - Solvents (connected from Air replacement)\n: - Alkalizers (connected from Clarifiers)\n: - Flavor enhancers (connected from Acidifiers)\n: \n: Fourth row (nodes pointing up):\n: - Color retainers (connected from Texturizers and Dispersing)\n: - Drying (connected from Solvents)\n: - Flavors (connected from Flavor enhancers)\n: \n: Fifth row (node pointing down):\n: - Anticaking (connected from Drying and Flavors)\n: \n: In the bottom right portion of the image, outlines of laboratory glassware (test tubes, beakers, and flasks) are depicted, with lines extending from the \"Flavor enhancers\", \"Flavors\", and \"Anticaking\" nodes towards these vessels.\n: flowchart::>\n\n\"READ THE LABEL\"\n\nThis 36-page, cartoon-illustrated booklet tells in simple terms\nwhat information is required by the law to appear on the labels\nof foods, drugs, medical devices, and cosmetics. The booklet,\ndesigned to be helpful to consumers, tells what to look for on food\nlabels to get your money's worth; what information a drug label\nmust bear so that you may use the product safely. Available\nfrom Superintendent of Documents, Government Printing Office,\nWashington 25, D.C., at 20 cents (cash) per copy. On orders\nfor 100 or more there is a 25 percent discount.\n\n<a id='1d54cde6-9802-4f6b-9ffc-d689d5556a05'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rxwd0228",
+    "chunks": [
+        {
+            "markdown": "<a id='1406ca82-af29-4d04-901a-c4e58123a576'></a>\n\n<::flowchart\n: The flowchart displays a network of interconnected triangular nodes, each containing a label. The nodes are arranged in a multi-level structure with lines indicating relationships.\n: \n: Top row (nodes pointing down):\n: - Emulsifiers\n: - Curing\n: - Dough conditioners\n: - Colors\n: \n: Second row (nodes pointing up):\n: - Creaming (connected from Emulsifiers)\n: - Air replacement (connected from Curing)\n: - Clarifiers (connected from Dough conditioners)\n: - Acidifiers (connected from Colors)\n: \n: Third row (nodes pointing down):\n: - Texturizers\n: - Dispersing (connected from Creaming)\n: - Solvents (connected from Air replacement)\n: - Alkalizers (connected from Clarifiers)\n: - Flavor enhancers (connected from Acidifiers)\n: \n: Fourth row (nodes pointing up):\n: - Color retainers (connected from Texturizers and Dispersing)\n: - Drying (connected from Solvents)\n: - Flavors (connected from Flavor enhancers)\n: \n: Fifth row (node pointing down):\n: - Anticaking (connected from Drying and Flavors)\n: \n: In the bottom right portion of the image, outlines of laboratory glassware (test tubes, beakers, and flasks) are depicted, with lines extending from the \"Flavor enhancers\", \"Flavors\", and \"Anticaking\" nodes towards these vessels.\n: flowchart::>\n\n\"READ THE LABEL\"\n\nThis 36-page, cartoon-illustrated booklet tells in simple terms\nwhat information is required by the law to appear on the labels\nof foods, drugs, medical devices, and cosmetics. The booklet,\ndesigned to be helpful to consumers, tells what to look for on food\nlabels to get your money's worth; what information a drug label\nmust bear so that you may use the product safely. Available\nfrom Superintendent of Documents, Government Printing Office,\nWashington 25, D.C., at 20 cents (cash) per copy. On orders\nfor 100 or more there is a 25 percent discount.",
+            "type": "figure",
+            "id": "1406ca82-af29-4d04-901a-c4e58123a576",
+            "grounding": {
+                "box": {
+                    "left": 0.05504143238067627,
+                    "top": 0.09228116273880005,
+                    "right": 0.9499303102493286,
+                    "bottom": 0.8298208117485046
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1d54cde6-9802-4f6b-9ffc-d689d5556a05'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rxwd0228",
+            "type": "text",
+            "id": "1d54cde6-9802-4f6b-9ffc-d689d5556a05",
+            "grounding": {
+                "box": {
+                    "left": 0.22778907418251038,
+                    "top": 0.9611902236938477,
+                    "right": 0.7706024646759033,
+                    "bottom": 0.9950428009033203
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='1406ca82-af29-4d04-901a-c4e58123a576'></a>\n\n<::flowchart\n: The flowchart displays a network of interconnected triangular nodes, each containing a label. The nodes are arranged in a multi-level structure with lines indicating relationships.\n: \n: Top row (nodes pointing down):\n: - Emulsifiers\n: - Curing\n: - Dough conditioners\n: - Colors\n: \n: Second row (nodes pointing up):\n: - Creaming (connected from Emulsifiers)\n: - Air replacement (connected from Curing)\n: - Clarifiers (connected from Dough conditioners)\n: - Acidifiers (connected from Colors)\n: \n: Third row (nodes pointing down):\n: - Texturizers\n: - Dispersing (connected from Creaming)\n: - Solvents (connected from Air replacement)\n: - Alkalizers (connected from Clarifiers)\n: - Flavor enhancers (connected from Acidifiers)\n: \n: Fourth row (nodes pointing up):\n: - Color retainers (connected from Texturizers and Dispersing)\n: - Drying (connected from Solvents)\n: - Flavors (connected from Flavor enhancers)\n: \n: Fifth row (node pointing down):\n: - Anticaking (connected from Drying and Flavors)\n: \n: In the bottom right portion of the image, outlines of laboratory glassware (test tubes, beakers, and flasks) are depicted, with lines extending from the \"Flavor enhancers\", \"Flavors\", and \"Anticaking\" nodes towards these vessels.\n: flowchart::>\n\n\"READ THE LABEL\"\n\nThis 36-page, cartoon-illustrated booklet tells in simple terms\nwhat information is required by the law to appear on the labels\nof foods, drugs, medical devices, and cosmetics. The booklet,\ndesigned to be helpful to consumers, tells what to look for on food\nlabels to get your money's worth; what information a drug label\nmust bear so that you may use the product safely. Available\nfrom Superintendent of Documents, Government Printing Office,\nWashington 25, D.C., at 20 cents (cash) per copy. On orders\nfor 100 or more there is a 25 percent discount.\n\n<a id='1d54cde6-9802-4f6b-9ffc-d689d5556a05'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rxwd0228",
+            "chunks": [
+                "1406ca82-af29-4d04-901a-c4e58123a576",
+                "1d54cde6-9802-4f6b-9ffc-d689d5556a05"
+            ]
+        }
+    ],
+    "grounding": {
+        "1406ca82-af29-4d04-901a-c4e58123a576": {
+            "box": {
+                "left": 0.05504143238067627,
+                "top": 0.09228116273880005,
+                "right": 0.9499303102493286,
+                "bottom": 0.8298208117485046
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "1d54cde6-9802-4f6b-9ffc-d689d5556a05": {
+            "box": {
+                "left": 0.22778907418251038,
+                "top": 0.9611902236938477,
+                "right": 0.7706024646759033,
+                "bottom": 0.9950428009033203
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rxwd0228_19.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 16060,
+        "credit_usage": 3.0,
+        "job_id": "g1nq077goiiaoumpnits9zu3h",
+        "version": "dpt-2-20250919"
+    }
+}

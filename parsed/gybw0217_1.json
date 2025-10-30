@@ -1,0 +1,633 @@
+{
+    "markdown": "<a id='0e4fca74-9224-4b8b-8486-6b8d4f154b08'></a>\n\nTMG Manuscripts\nTotelle (continued)\n\n<a id='df8f8b0d-73bc-4ec8-9fd3-d49ee465a5a0'></a>\n\nSummary table:\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Parthenon Paper Number</td><td id=\"0-3\">Subject</td><td id=\"0-4\">Priority</td><td id=\"0-5\">Recommendation</td><td id=\"0-6\">Cost range</td></tr>\n<tr><td id=\"0-7\">PC(4)</td><td id=\"0-8\">Osteoporosis</td><td id=\"0-9\">A</td><td id=\"0-a\">Separate paper</td><td id=\"0-b\">$25,000</td></tr>\n<tr><td id=\"0-c\">P3(2)</td><td id=\"0-d\">Osteoporosis</td><td id=\"0-e\">A</td><td id=\"0-f\">Separate paper</td><td id=\"0-g\">$10,000-$15,000</td></tr>\n<tr><td id=\"0-h\">P3(7)</td><td id=\"0-i\">Bleeding</td><td id=\"0-j\">B</td><td id=\"0-k\">Separate paper</td><td id=\"0-l\">$10,000-$20,000</td></tr>\n<tr><td id=\"0-m\">P2(3)</td><td id=\"0-n\">Preclinical PK</td><td id=\"0-o\">B</td><td id=\"0-p\" rowspan=\"3\">Combine papers together</td><td id=\"0-q\" rowspan=\"3\">$25,000</td></tr>\n<tr><td id=\"0-r\">P2(4)</td><td id=\"0-s\">Human PK</td><td id=\"0-t\">B</td></tr>\n<tr><td id=\"0-u\">P2(7)</td><td id=\"0-v\">Metabolism</td><td id=\"0-w\">B</td></tr>\n<tr><td id=\"0-x\">PC(3)</td><td id=\"0-y\">Metabolic</td><td id=\"0-z\">C</td><td id=\"0-A\" rowspan=\"2\">Combine papers together</td><td id=\"0-B\" rowspan=\"2\">$25,000</td></tr>\n<tr><td id=\"0-C\">PS(3)</td><td id=\"0-D\">Metabolic</td><td id=\"0-E\">C</td></tr>\n<tr><td id=\"0-F\">P3(1.1)</td><td id=\"0-G\">Lipids</td><td id=\"0-H\">C</td><td id=\"0-I\" rowspan=\"2\">Combine papers together, authors willing</td><td id=\"0-J\" rowspan=\"2\">$25,000</td></tr>\n<tr><td id=\"0-K\">P3(5)</td><td id=\"0-L\">Glucose/Insulin</td><td id=\"0-M\">C</td></tr>\n</table>\n\n<a id='6d959cc8-040c-4b24-811e-a6d1492d258b'></a>\n\nEstimated cost range to complete manuscripts for just Totelle if recommendations are followed is $135,000.\n\n<a id='6a83d89c-f312-4bb9-9bcf-856ceaa93708'></a>\n\nDESIGN052750\n\n<a id='3e29d288-4d47-4514-a221-97225789d0de'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gybw0217",
+    "chunks": [
+        {
+            "markdown": "<a id='0e4fca74-9224-4b8b-8486-6b8d4f154b08'></a>\n\nTMG Manuscripts\nTotelle (continued)",
+            "type": "text",
+            "id": "0e4fca74-9224-4b8b-8486-6b8d4f154b08",
+            "grounding": {
+                "box": {
+                    "left": 0.11201178282499313,
+                    "top": 0.10004150867462158,
+                    "right": 0.3437437415122986,
+                    "bottom": 0.14865297079086304
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='df8f8b0d-73bc-4ec8-9fd3-d49ee465a5a0'></a>\n\nSummary table:\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Parthenon Paper Number</td><td id=\"0-3\">Subject</td><td id=\"0-4\">Priority</td><td id=\"0-5\">Recommendation</td><td id=\"0-6\">Cost range</td></tr>\n<tr><td id=\"0-7\">PC(4)</td><td id=\"0-8\">Osteoporosis</td><td id=\"0-9\">A</td><td id=\"0-a\">Separate paper</td><td id=\"0-b\">$25,000</td></tr>\n<tr><td id=\"0-c\">P3(2)</td><td id=\"0-d\">Osteoporosis</td><td id=\"0-e\">A</td><td id=\"0-f\">Separate paper</td><td id=\"0-g\">$10,000-$15,000</td></tr>\n<tr><td id=\"0-h\">P3(7)</td><td id=\"0-i\">Bleeding</td><td id=\"0-j\">B</td><td id=\"0-k\">Separate paper</td><td id=\"0-l\">$10,000-$20,000</td></tr>\n<tr><td id=\"0-m\">P2(3)</td><td id=\"0-n\">Preclinical PK</td><td id=\"0-o\">B</td><td id=\"0-p\" rowspan=\"3\">Combine papers together</td><td id=\"0-q\" rowspan=\"3\">$25,000</td></tr>\n<tr><td id=\"0-r\">P2(4)</td><td id=\"0-s\">Human PK</td><td id=\"0-t\">B</td></tr>\n<tr><td id=\"0-u\">P2(7)</td><td id=\"0-v\">Metabolism</td><td id=\"0-w\">B</td></tr>\n<tr><td id=\"0-x\">PC(3)</td><td id=\"0-y\">Metabolic</td><td id=\"0-z\">C</td><td id=\"0-A\" rowspan=\"2\">Combine papers together</td><td id=\"0-B\" rowspan=\"2\">$25,000</td></tr>\n<tr><td id=\"0-C\">PS(3)</td><td id=\"0-D\">Metabolic</td><td id=\"0-E\">C</td></tr>\n<tr><td id=\"0-F\">P3(1.1)</td><td id=\"0-G\">Lipids</td><td id=\"0-H\">C</td><td id=\"0-I\" rowspan=\"2\">Combine papers together, authors willing</td><td id=\"0-J\" rowspan=\"2\">$25,000</td></tr>\n<tr><td id=\"0-K\">P3(5)</td><td id=\"0-L\">Glucose/Insulin</td><td id=\"0-M\">C</td></tr>\n</table>",
+            "type": "table",
+            "id": "df8f8b0d-73bc-4ec8-9fd3-d49ee465a5a0",
+            "grounding": {
+                "box": {
+                    "left": 0.10265541076660156,
+                    "top": 0.15973617136478424,
+                    "right": 0.9007607698440552,
+                    "bottom": 0.4092704653739929
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6d959cc8-040c-4b24-811e-a6d1492d258b'></a>\n\nEstimated cost range to complete manuscripts for just Totelle if recommendations are followed is $135,000.",
+            "type": "text",
+            "id": "6d959cc8-040c-4b24-811e-a6d1492d258b",
+            "grounding": {
+                "box": {
+                    "left": 0.11060839891433716,
+                    "top": 0.43302497267723083,
+                    "right": 0.8927745223045349,
+                    "bottom": 0.4718795716762543
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6a83d89c-f312-4bb9-9bcf-856ceaa93708'></a>\n\nDESIGN052750",
+            "type": "marginalia",
+            "id": "6a83d89c-f312-4bb9-9bcf-856ceaa93708",
+            "grounding": {
+                "box": {
+                    "left": 0.8593356609344482,
+                    "top": 0.9594786167144775,
+                    "right": 0.9924389123916626,
+                    "bottom": 0.9774391651153564
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3e29d288-4d47-4514-a221-97225789d0de'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gybw0217",
+            "type": "marginalia",
+            "id": "3e29d288-4d47-4514-a221-97225789d0de",
+            "grounding": {
+                "box": {
+                    "left": 0.21117135882377625,
+                    "top": 0.9770760536193848,
+                    "right": 0.789551854133606,
+                    "bottom": 0.9997243881225586
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='0e4fca74-9224-4b8b-8486-6b8d4f154b08'></a>\n\nTMG Manuscripts\nTotelle (continued)\n\n<a id='df8f8b0d-73bc-4ec8-9fd3-d49ee465a5a0'></a>\n\nSummary table:\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Parthenon Paper Number</td><td id=\"0-3\">Subject</td><td id=\"0-4\">Priority</td><td id=\"0-5\">Recommendation</td><td id=\"0-6\">Cost range</td></tr>\n<tr><td id=\"0-7\">PC(4)</td><td id=\"0-8\">Osteoporosis</td><td id=\"0-9\">A</td><td id=\"0-a\">Separate paper</td><td id=\"0-b\">$25,000</td></tr>\n<tr><td id=\"0-c\">P3(2)</td><td id=\"0-d\">Osteoporosis</td><td id=\"0-e\">A</td><td id=\"0-f\">Separate paper</td><td id=\"0-g\">$10,000-$15,000</td></tr>\n<tr><td id=\"0-h\">P3(7)</td><td id=\"0-i\">Bleeding</td><td id=\"0-j\">B</td><td id=\"0-k\">Separate paper</td><td id=\"0-l\">$10,000-$20,000</td></tr>\n<tr><td id=\"0-m\">P2(3)</td><td id=\"0-n\">Preclinical PK</td><td id=\"0-o\">B</td><td id=\"0-p\" rowspan=\"3\">Combine papers together</td><td id=\"0-q\" rowspan=\"3\">$25,000</td></tr>\n<tr><td id=\"0-r\">P2(4)</td><td id=\"0-s\">Human PK</td><td id=\"0-t\">B</td></tr>\n<tr><td id=\"0-u\">P2(7)</td><td id=\"0-v\">Metabolism</td><td id=\"0-w\">B</td></tr>\n<tr><td id=\"0-x\">PC(3)</td><td id=\"0-y\">Metabolic</td><td id=\"0-z\">C</td><td id=\"0-A\" rowspan=\"2\">Combine papers together</td><td id=\"0-B\" rowspan=\"2\">$25,000</td></tr>\n<tr><td id=\"0-C\">PS(3)</td><td id=\"0-D\">Metabolic</td><td id=\"0-E\">C</td></tr>\n<tr><td id=\"0-F\">P3(1.1)</td><td id=\"0-G\">Lipids</td><td id=\"0-H\">C</td><td id=\"0-I\" rowspan=\"2\">Combine papers together, authors willing</td><td id=\"0-J\" rowspan=\"2\">$25,000</td></tr>\n<tr><td id=\"0-K\">P3(5)</td><td id=\"0-L\">Glucose/Insulin</td><td id=\"0-M\">C</td></tr>\n</table>\n\n<a id='6d959cc8-040c-4b24-811e-a6d1492d258b'></a>\n\nEstimated cost range to complete manuscripts for just Totelle if recommendations are followed is $135,000.\n\n<a id='6a83d89c-f312-4bb9-9bcf-856ceaa93708'></a>\n\nDESIGN052750\n\n<a id='3e29d288-4d47-4514-a221-97225789d0de'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gybw0217",
+            "chunks": [
+                "0e4fca74-9224-4b8b-8486-6b8d4f154b08",
+                "df8f8b0d-73bc-4ec8-9fd3-d49ee465a5a0",
+                "6d959cc8-040c-4b24-811e-a6d1492d258b",
+                "6a83d89c-f312-4bb9-9bcf-856ceaa93708",
+                "3e29d288-4d47-4514-a221-97225789d0de"
+            ]
+        }
+    ],
+    "grounding": {
+        "0e4fca74-9224-4b8b-8486-6b8d4f154b08": {
+            "box": {
+                "left": 0.11201178282499313,
+                "top": 0.10004150867462158,
+                "right": 0.3437437415122986,
+                "bottom": 0.14865297079086304
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "df8f8b0d-73bc-4ec8-9fd3-d49ee465a5a0": {
+            "box": {
+                "left": 0.10265541076660156,
+                "top": 0.15973617136478424,
+                "right": 0.9007607698440552,
+                "bottom": 0.4092704653739929
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.17899833811751698,
+                "right": 0.8935357188024113,
+                "bottom": 0.4022410422902256
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.17899833811751698,
+                "right": 0.26418890193094136,
+                "bottom": 0.21328230348356625
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.17899833811751698,
+                "right": 0.420526545304611,
+                "bottom": 0.21328230348356625
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.17899833811751698,
+                "right": 0.573801284131072,
+                "bottom": 0.21328230348356625
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.573801284131072,
+                "top": 0.17899833811751698,
+                "right": 0.7392730774543423,
+                "bottom": 0.21328230348356625
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.7392730774543423,
+                "top": 0.17899833811751698,
+                "right": 0.8935049405035969,
+                "bottom": 0.21328230348356625
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.21328230348356625,
+                "right": 0.26418890193094136,
+                "bottom": 0.23034489287121174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.21328230348356625,
+                "right": 0.420526545304611,
+                "bottom": 0.23034489287121174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.21328230348356625,
+                "right": 0.573801284131072,
+                "bottom": 0.23034489287121174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.573801284131072,
+                "top": 0.21328230348356625,
+                "right": 0.7392730774543423,
+                "bottom": 0.23034489287121174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7392730774543423,
+                "top": 0.21328230348356625,
+                "right": 0.8935049405035969,
+                "bottom": 0.23034489287121174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.23034489287121174,
+                "right": 0.26418890193094136,
+                "bottom": 0.24771052040733732
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.23034489287121174,
+                "right": 0.420526545304611,
+                "bottom": 0.24771052040733732
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.23034489287121174,
+                "right": 0.573801284131072,
+                "bottom": 0.24771052040733732
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.573801284131072,
+                "top": 0.23034489287121174,
+                "right": 0.7392730774543423,
+                "bottom": 0.24771052040733732
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7392730774543423,
+                "top": 0.23034489287121174,
+                "right": 0.8935049405035969,
+                "bottom": 0.24771052040733732
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.24771052040733732,
+                "right": 0.26418890193094136,
+                "bottom": 0.26484652491196226
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.24771052040733732,
+                "right": 0.420526545304611,
+                "bottom": 0.26484652491196226
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.24771052040733732,
+                "right": 0.573801284131072,
+                "bottom": 0.26484652491196226
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.573801284131072,
+                "top": 0.24771052040733732,
+                "right": 0.7392730774543423,
+                "bottom": 0.26484652491196226
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7392730774543423,
+                "top": 0.24771052040733732,
+                "right": 0.8935049405035969,
+                "bottom": 0.26484652491196226
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.26484652491196226,
+                "right": 0.26418890193094136,
+                "bottom": 0.28222422221458476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.26484652491196226,
+                "right": 0.420526545304611,
+                "bottom": 0.28222422221458476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.26484652491196226,
+                "right": 0.573801284131072,
+                "bottom": 0.28222422221458476
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.573801284131072,
+                "top": 0.26484652491196226,
+                "right": 0.8935049405035969,
+                "bottom": 0.33438996124193565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.7392730774543423,
+                "top": 0.26484652491196226,
+                "right": 0.8935049405035969,
+                "bottom": 0.33438996124193565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.28222422221458476,
+                "right": 0.26418890193094136,
+                "bottom": 0.29989773662855335
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.28222422221458476,
+                "right": 0.420526545304611,
+                "bottom": 0.29989773662855335
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.28222422221458476,
+                "right": 0.573801284131072,
+                "bottom": 0.29989773662855335
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.29989773662855335,
+                "right": 0.26418890193094136,
+                "bottom": 0.3169981044597012
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.29989773662855335,
+                "right": 0.420526545304611,
+                "bottom": 0.3169981044597012
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.29989773662855335,
+                "right": 0.573801284131072,
+                "bottom": 0.3169981044597012
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.3169981044597012,
+                "right": 0.26418890193094136,
+                "bottom": 0.33438996124193565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.3169981044597012,
+                "right": 0.420526545304611,
+                "bottom": 0.33438996124193565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.3169981044597012,
+                "right": 0.573801284131072,
+                "bottom": 0.33438996124193565
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.573801284131072,
+                "top": 0.3169981044597012,
+                "right": 0.8935049405035969,
+                "bottom": 0.36890897285403756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.7392730774543423,
+                "top": 0.3169981044597012,
+                "right": 0.8935049405035969,
+                "bottom": 0.36890897285403756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.33438996124193565,
+                "right": 0.26418890193094136,
+                "bottom": 0.3514790252868387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.33438996124193565,
+                "right": 0.420526545304611,
+                "bottom": 0.3514790252868387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.33438996124193565,
+                "right": 0.573801284131072,
+                "bottom": 0.3514790252868387
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.3514790252868387,
+                "right": 0.26418890193094136,
+                "bottom": 0.36890897285403756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.3514790252868387,
+                "right": 0.420526545304611,
+                "bottom": 0.36890897285403756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.3514790252868387,
+                "right": 0.573801284131072,
+                "bottom": 0.36890897285403756
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.573801284131072,
+                "top": 0.3514790252868387,
+                "right": 0.8935049405035969,
+                "bottom": 0.4022410422902256
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.7392730774543423,
+                "top": 0.3514790252868387,
+                "right": 0.8935049405035969,
+                "bottom": 0.4022410422902256
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.10965554341357853,
+                "top": 0.36890897285403756,
+                "right": 0.26418890193094136,
+                "bottom": 0.4022410422902256
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.26418890193094136,
+                "top": 0.36890897285403756,
+                "right": 0.420526545304611,
+                "bottom": 0.4022410422902256
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.420526545304611,
+                "top": 0.36890897285403756,
+                "right": 0.573801284131072,
+                "bottom": 0.4022410422902256
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "6d959cc8-040c-4b24-811e-a6d1492d258b": {
+            "box": {
+                "left": 0.11060839891433716,
+                "top": 0.43302497267723083,
+                "right": 0.8927745223045349,
+                "bottom": 0.4718795716762543
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6a83d89c-f312-4bb9-9bcf-856ceaa93708": {
+            "box": {
+                "left": 0.8593356609344482,
+                "top": 0.9594786167144775,
+                "right": 0.9924389123916626,
+                "bottom": 0.9774391651153564
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "3e29d288-4d47-4514-a221-97225789d0de": {
+            "box": {
+                "left": 0.21117135882377625,
+                "top": 0.9770760536193848,
+                "right": 0.789551854133606,
+                "bottom": 0.9997243881225586
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "gybw0217_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9466,
+        "credit_usage": 3.0,
+        "job_id": "r6qgrz9k6igcc164rg0k9f8jv",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='6051076c-45dc-4376-8fff-e07c4f18417b'></a>\n\n# INDEX\n\n1. WATER FROM GOVERNMENT DRAIN DITCH\n2. WATER FROM MAIN WATER TANK\n3. WATER FOR WASHING VACUUM FILTERS\n4. WATER FOR WASHING WHITE SUGAR\n5. WATER IN BOILER FEED TANK\n6. WATER IN BOILERS\n7. DRINKING WATER FROM DEEP WELL\n\n<a id='7a4f613e-c864-4902-a4b4-dca4c045c37b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tgph0227",
+    "chunks": [
+        {
+            "markdown": "<a id='6051076c-45dc-4376-8fff-e07c4f18417b'></a>\n\n# INDEX\n\n1. WATER FROM GOVERNMENT DRAIN DITCH\n2. WATER FROM MAIN WATER TANK\n3. WATER FOR WASHING VACUUM FILTERS\n4. WATER FOR WASHING WHITE SUGAR\n5. WATER IN BOILER FEED TANK\n6. WATER IN BOILERS\n7. DRINKING WATER FROM DEEP WELL",
+            "type": "text",
+            "id": "6051076c-45dc-4376-8fff-e07c4f18417b",
+            "grounding": {
+                "box": {
+                    "left": 0.3074248731136322,
+                    "top": 0.24117158353328705,
+                    "right": 0.7044998407363892,
+                    "bottom": 0.5050761103630066
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7a4f613e-c864-4902-a4b4-dca4c045c37b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tgph0227",
+            "type": "text",
+            "id": "7a4f613e-c864-4902-a4b4-dca4c045c37b",
+            "grounding": {
+                "box": {
+                    "left": 0.20634040236473083,
+                    "top": 0.9770334959030151,
+                    "right": 0.793869137763977,
+                    "bottom": 0.9999109506607056
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='6051076c-45dc-4376-8fff-e07c4f18417b'></a>\n\n# INDEX\n\n1. WATER FROM GOVERNMENT DRAIN DITCH\n2. WATER FROM MAIN WATER TANK\n3. WATER FOR WASHING VACUUM FILTERS\n4. WATER FOR WASHING WHITE SUGAR\n5. WATER IN BOILER FEED TANK\n6. WATER IN BOILERS\n7. DRINKING WATER FROM DEEP WELL\n\n<a id='7a4f613e-c864-4902-a4b4-dca4c045c37b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tgph0227",
+            "chunks": [
+                "6051076c-45dc-4376-8fff-e07c4f18417b",
+                "7a4f613e-c864-4902-a4b4-dca4c045c37b"
+            ]
+        }
+    ],
+    "grounding": {
+        "6051076c-45dc-4376-8fff-e07c4f18417b": {
+            "box": {
+                "left": 0.3074248731136322,
+                "top": 0.24117158353328705,
+                "right": 0.7044998407363892,
+                "bottom": 0.5050761103630066
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7a4f613e-c864-4902-a4b4-dca4c045c37b": {
+            "box": {
+                "left": 0.20634040236473083,
+                "top": 0.9770334959030151,
+                "right": 0.793869137763977,
+                "bottom": 0.9999109506607056
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "tgph0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4189,
+        "credit_usage": 3.0,
+        "job_id": "xlejv4lt8ad4y5hd80j3d1y7u",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='3d5b1e4c-5114-4ebd-b6f1-12a4d70c8e81'></a>\n\n<::chart\n: A scatter plot with two linear regression lines.\n: The Y-axis is labeled \"OPTICAL DENSITY\" with tick marks at 0, 0.2, 0.4, 0.6, and 0.8.\n: The X-axis is labeled \"MICROGRAMS/ml-E-DNP-LYSINE-HCL\" with tick marks at 0, 5, 10, 15, 20, 25, and 30.\n: There are two lines plotted:\n: 1. A steeper line, labeled \"360 m \u03bc\", with associated text \"E\u00b9 cm = 47.0\" and \"0.1%\".\n: 2. A less steep line, labeled \"435 m \u03bc\", with associated text \"E\u00b9 cm = 14.7\" and \"0.1%\".\n: Both lines originate from the origin (0,0) and show a positive linear relationship.\n: The data points for each line are marked with small circles.\n: chart::>\n\n<a id='e076f11c-e355-4d8a-ab05-3f97775aa865'></a>\n\nFigure 2",
+    "chunks": [
+        {
+            "markdown": "<a id='3d5b1e4c-5114-4ebd-b6f1-12a4d70c8e81'></a>\n\n<::chart\n: A scatter plot with two linear regression lines.\n: The Y-axis is labeled \"OPTICAL DENSITY\" with tick marks at 0, 0.2, 0.4, 0.6, and 0.8.\n: The X-axis is labeled \"MICROGRAMS/ml-E-DNP-LYSINE-HCL\" with tick marks at 0, 5, 10, 15, 20, 25, and 30.\n: There are two lines plotted:\n: 1. A steeper line, labeled \"360 m \u03bc\", with associated text \"E\u00b9 cm = 47.0\" and \"0.1%\".\n: 2. A less steep line, labeled \"435 m \u03bc\", with associated text \"E\u00b9 cm = 14.7\" and \"0.1%\".\n: Both lines originate from the origin (0,0) and show a positive linear relationship.\n: The data points for each line are marked with small circles.\n: chart::>",
+            "type": "figure",
+            "id": "3d5b1e4c-5114-4ebd-b6f1-12a4d70c8e81",
+            "grounding": {
+                "box": {
+                    "left": 0.09979787468910217,
+                    "top": 0.09857138991355896,
+                    "right": 0.8766480684280396,
+                    "bottom": 0.8510162830352783
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e076f11c-e355-4d8a-ab05-3f97775aa865'></a>\n\nFigure 2",
+            "type": "text",
+            "id": "e076f11c-e355-4d8a-ab05-3f97775aa865",
+            "grounding": {
+                "box": {
+                    "left": 0.45297494530677795,
+                    "top": 0.8977419137954712,
+                    "right": 0.5439487099647522,
+                    "bottom": 0.921619176864624
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3d5b1e4c-5114-4ebd-b6f1-12a4d70c8e81'></a>\n\n<::chart\n: A scatter plot with two linear regression lines.\n: The Y-axis is labeled \"OPTICAL DENSITY\" with tick marks at 0, 0.2, 0.4, 0.6, and 0.8.\n: The X-axis is labeled \"MICROGRAMS/ml-E-DNP-LYSINE-HCL\" with tick marks at 0, 5, 10, 15, 20, 25, and 30.\n: There are two lines plotted:\n: 1. A steeper line, labeled \"360 m \u03bc\", with associated text \"E\u00b9 cm = 47.0\" and \"0.1%\".\n: 2. A less steep line, labeled \"435 m \u03bc\", with associated text \"E\u00b9 cm = 14.7\" and \"0.1%\".\n: Both lines originate from the origin (0,0) and show a positive linear relationship.\n: The data points for each line are marked with small circles.\n: chart::>\n\n<a id='e076f11c-e355-4d8a-ab05-3f97775aa865'></a>\n\nFigure 2",
+            "chunks": [
+                "3d5b1e4c-5114-4ebd-b6f1-12a4d70c8e81",
+                "e076f11c-e355-4d8a-ab05-3f97775aa865"
+            ]
+        }
+    ],
+    "grounding": {
+        "3d5b1e4c-5114-4ebd-b6f1-12a4d70c8e81": {
+            "box": {
+                "left": 0.09979787468910217,
+                "top": 0.09857138991355896,
+                "right": 0.8766480684280396,
+                "bottom": 0.8510162830352783
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "e076f11c-e355-4d8a-ab05-3f97775aa865": {
+            "box": {
+                "left": 0.45297494530677795,
+                "top": 0.8977419137954712,
+                "right": 0.5439487099647522,
+                "bottom": 0.921619176864624
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kmvd0228_22.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10169,
+        "credit_usage": 3.0,
+        "job_id": "eonuniaj8l11nyarizzexyhid",
+        "version": "dpt-2-20250919"
+    }
+}

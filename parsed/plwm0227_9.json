@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='254399c4-1c29-4c2c-a0c2-4c53ac08f8df'></a>\n\nPROGRAM\n\n<a id='33d8f1eb-6b01-42cb-a2a0-f2fe8e162c0c'></a>\n\nSeventeenth Annual Meeting\n\n<a id='02416a24-1e4f-4c7f-b481-f772ad1bd5b7'></a>\n\nTHE FOOD PROTECTION COMMITTEE\n\nAND THE\n\nLIAISON PANEL\n\n<a id='8074e9e3-3ffe-4ea4-9663-810b50907459'></a>\n\nNovember 28-29, 1967\n\n<a id='4b56a967-23c2-4421-b7e6-8d2e6238a0c9'></a>\n\nNATIONAL ACADEMY OF SCIENCES\nNATIONAL RESEARCH COUNCIL\nWashington, D. C.",
+    "chunks": [
+        {
+            "markdown": "<a id='254399c4-1c29-4c2c-a0c2-4c53ac08f8df'></a>\n\nPROGRAM",
+            "type": "text",
+            "id": "254399c4-1c29-4c2c-a0c2-4c53ac08f8df",
+            "grounding": {
+                "box": {
+                    "left": 0.2864473760128021,
+                    "top": 0.11030220985412598,
+                    "right": 0.6774749755859375,
+                    "bottom": 0.1530400812625885
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='33d8f1eb-6b01-42cb-a2a0-f2fe8e162c0c'></a>\n\nSeventeenth Annual Meeting",
+            "type": "text",
+            "id": "33d8f1eb-6b01-42cb-a2a0-f2fe8e162c0c",
+            "grounding": {
+                "box": {
+                    "left": 0.1721382439136505,
+                    "top": 0.19939753413200378,
+                    "right": 0.8009645938873291,
+                    "bottom": 0.2402118742465973
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='02416a24-1e4f-4c7f-b481-f772ad1bd5b7'></a>\n\nTHE FOOD PROTECTION COMMITTEE\n\nAND THE\n\nLIAISON PANEL",
+            "type": "text",
+            "id": "02416a24-1e4f-4c7f-b481-f772ad1bd5b7",
+            "grounding": {
+                "box": {
+                    "left": 0.13520991802215576,
+                    "top": 0.3104170262813568,
+                    "right": 0.8405320644378662,
+                    "bottom": 0.42440733313560486
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8074e9e3-3ffe-4ea4-9663-810b50907459'></a>\n\nNovember 28-29, 1967",
+            "type": "text",
+            "id": "8074e9e3-3ffe-4ea4-9663-810b50907459",
+            "grounding": {
+                "box": {
+                    "left": 0.3133135437965393,
+                    "top": 0.5521671772003174,
+                    "right": 0.6641885042190552,
+                    "bottom": 0.5860495567321777
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4b56a967-23c2-4421-b7e6-8d2e6238a0c9'></a>\n\nNATIONAL ACADEMY OF SCIENCES\nNATIONAL RESEARCH COUNCIL\nWashington, D. C.",
+            "type": "text",
+            "id": "4b56a967-23c2-4421-b7e6-8d2e6238a0c9",
+            "grounding": {
+                "box": {
+                    "left": 0.20869731903076172,
+                    "top": 0.8237157464027405,
+                    "right": 0.7820844054222107,
+                    "bottom": 0.9021995663642883
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='254399c4-1c29-4c2c-a0c2-4c53ac08f8df'></a>\n\nPROGRAM\n\n<a id='33d8f1eb-6b01-42cb-a2a0-f2fe8e162c0c'></a>\n\nSeventeenth Annual Meeting\n\n<a id='02416a24-1e4f-4c7f-b481-f772ad1bd5b7'></a>\n\nTHE FOOD PROTECTION COMMITTEE\n\nAND THE\n\nLIAISON PANEL\n\n<a id='8074e9e3-3ffe-4ea4-9663-810b50907459'></a>\n\nNovember 28-29, 1967\n\n<a id='4b56a967-23c2-4421-b7e6-8d2e6238a0c9'></a>\n\nNATIONAL ACADEMY OF SCIENCES\nNATIONAL RESEARCH COUNCIL\nWashington, D. C.",
+            "chunks": [
+                "254399c4-1c29-4c2c-a0c2-4c53ac08f8df",
+                "33d8f1eb-6b01-42cb-a2a0-f2fe8e162c0c",
+                "02416a24-1e4f-4c7f-b481-f772ad1bd5b7",
+                "8074e9e3-3ffe-4ea4-9663-810b50907459",
+                "4b56a967-23c2-4421-b7e6-8d2e6238a0c9"
+            ]
+        }
+    ],
+    "grounding": {
+        "254399c4-1c29-4c2c-a0c2-4c53ac08f8df": {
+            "box": {
+                "left": 0.2864473760128021,
+                "top": 0.11030220985412598,
+                "right": 0.6774749755859375,
+                "bottom": 0.1530400812625885
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "33d8f1eb-6b01-42cb-a2a0-f2fe8e162c0c": {
+            "box": {
+                "left": 0.1721382439136505,
+                "top": 0.19939753413200378,
+                "right": 0.8009645938873291,
+                "bottom": 0.2402118742465973
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "02416a24-1e4f-4c7f-b481-f772ad1bd5b7": {
+            "box": {
+                "left": 0.13520991802215576,
+                "top": 0.3104170262813568,
+                "right": 0.8405320644378662,
+                "bottom": 0.42440733313560486
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8074e9e3-3ffe-4ea4-9663-810b50907459": {
+            "box": {
+                "left": 0.3133135437965393,
+                "top": 0.5521671772003174,
+                "right": 0.6641885042190552,
+                "bottom": 0.5860495567321777
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4b56a967-23c2-4421-b7e6-8d2e6238a0c9": {
+            "box": {
+                "left": 0.20869731903076172,
+                "top": 0.8237157464027405,
+                "right": 0.7820844054222107,
+                "bottom": 0.9021995663642883
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "plwm0227_9.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 2793,
+        "credit_usage": 3.0,
+        "job_id": "pi35omgk1n33fxr2vbenx6rid",
+        "version": "dpt-2-20250919"
+    }
+}

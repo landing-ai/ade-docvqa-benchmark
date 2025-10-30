@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.out
+
+# Temp files
+/tmp/
+*.tmp
+*.temp
+
+# API keys (safety)
+.env
+*.key
+credentials.json
+
+# Large files (if needed)
+# Uncomment if repo size is too large:
+# /images/
+# /parsed/
+
+# DocVQA OCR results (not needed for replication)
+data/val/ocr_results/
+
+# Claude settings
+.claude/
+
+# OS files in images
+images/.DS_Store

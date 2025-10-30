@@ -1,0 +1,1033 @@
+{
+    "markdown": "<a id='d3b3a740-b749-4606-ab43-918378fdc339'></a>\n\n1. Filer's Positions Held Outside United States Government\n<table id=\"0-1\">\n<tr><td id=\"0-2\">#</td><td id=\"0-3\">ORGANIZATION NAME</td><td id=\"0-4\">CITY, STATE</td><td id=\"0-5\">ORGANIZATION TYPE</td><td id=\"0-6\">POSITION HELD</td><td id=\"0-7\">FROM</td><td id=\"0-8\">TO</td></tr>\n<tr><td id=\"0-9\">1</td><td id=\"0-a\">University of Cincinnati</td><td id=\"0-b\">Cincinnati, Ohio</td><td id=\"0-c\">University/College</td><td id=\"0-d\">Professor</td><td id=\"0-e\">8/2015</td><td id=\"0-f\">Present</td></tr>\n<tr><td id=\"0-g\">2</td><td id=\"0-h\">Toxicology Excellence for Risk Assessment</td><td id=\"0-i\">Cincinnati, Ohio</td><td id=\"0-j\">Non-Profit</td><td id=\"0-k\">President</td><td id=\"0-l\">2/1995</td><td id=\"0-m\">7/2015</td></tr>\n<tr><td id=\"0-n\">3</td><td id=\"0-o\">North American Flame Retardant Alliance</td><td id=\"0-p\">Washington DC, District of Columbia</td><td id=\"0-q\">Non-Profit</td><td id=\"0-r\">Member, Science Advisory Council</td><td id=\"0-s\">4/2012</td><td id=\"0-t\">6/2017</td></tr>\n<tr><td id=\"0-u\">4</td><td id=\"0-v\">Toxicology Education Foundation</td><td id=\"0-w\">District of Columbia, District of Columbia</td><td id=\"0-x\">Non-Profit</td><td id=\"0-y\">President</td><td id=\"0-z\">5/2016</td><td id=\"0-A\">Present</td></tr>\n<tr><td id=\"0-B\">5</td><td id=\"0-C\">Dourson, Dourson and Fowler, a General Partnership owning undeveloped land</td><td id=\"0-D\">Stanton, Kentucky</td><td id=\"0-E\">Partnership</td><td id=\"0-F\">General Partner</td><td id=\"0-G\">1/1994</td><td id=\"0-H\">Present</td></tr>\n<tr><td id=\"0-I\">6</td><td id=\"0-J\">Toxicology Forum</td><td id=\"0-K\">Reston, Virginia</td><td id=\"0-L\">Non-Profit</td><td id=\"0-M\">Secretary</td><td id=\"0-N\">9/2016</td><td id=\"0-O\">6/2017</td></tr>\n</table>\n\n<a id='777ce1fa-44f1-459c-bcb2-5ab064e763f5'></a>\n\n2. Filer's Employment Assets & Income and Retirement Accounts\n<table id=\"0-P\">\n<tr><td id=\"0-Q\">#</td><td id=\"0-R\">DESCRIPTION</td><td id=\"0-S\">EIF</td><td id=\"0-T\">VALUE</td><td id=\"0-U\">INCOME TYPE</td><td id=\"0-V\">INCOME AMOUNT</td></tr>\n<tr><td id=\"0-W\">1</td><td id=\"0-X\">State Teachers Retirement System (OHIO): Guaranteed Retirement 2020 Fund</td><td id=\"0-Y\">Yes</td><td id=\"0-Z\">$1,001 - $15,000</td><td id=\"0-10\"></td><td id=\"0-11\">None (or less than $201)</td></tr>\n<tr><td id=\"0-12\">2</td><td id=\"0-13\">TIAA-CREF Equity Index R1</td><td id=\"0-14\">Yes</td><td id=\"0-15\">$15,001 - $50,000</td><td id=\"0-16\"></td><td id=\"0-17\">None (or less than $201)</td></tr>\n<tr><td id=\"0-18\">3</td><td id=\"0-19\">University of Cincinnati</td><td id=\"0-1a\">N/A</td><td id=\"0-1b\"></td><td id=\"0-1c\">Salary</td><td id=\"0-1d\">$240,055</td></tr>\n<tr><td id=\"0-1e\">4</td><td id=\"0-1f\">State Teachers Retirement System (OHIO): Target Choice 2020</td><td id=\"0-1g\">Yes</td><td id=\"0-1h\">$1,001 - $15,000</td><td id=\"0-1i\"></td><td id=\"0-1j\">None (or less than $201)</td></tr>\n<tr><td id=\"0-1k\">5</td><td id=\"0-1l\">TIAA-CREF Growth R1</td><td id=\"0-1m\">Yes</td><td id=\"0-1n\">$15,001 -\n$50,000</td><td id=\"0-1o\"></td><td id=\"0-1p\">None (or less than $201)</td></tr>\n<tr><td id=\"0-1q\">6</td><td id=\"0-1r\">TIAA Real Estate</td><td id=\"0-1s\">Yes</td><td id=\"0-1t\">$15,001 -\n$50,000</td><td id=\"0-1u\"></td><td id=\"0-1v\">None (or less than $201)</td></tr>\n</table>\n\n<a id='b63ba588-de37-4277-9759-153799b8465f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jsbn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='d3b3a740-b749-4606-ab43-918378fdc339'></a>\n\n1. Filer's Positions Held Outside United States Government\n<table id=\"0-1\">\n<tr><td id=\"0-2\">#</td><td id=\"0-3\">ORGANIZATION NAME</td><td id=\"0-4\">CITY, STATE</td><td id=\"0-5\">ORGANIZATION TYPE</td><td id=\"0-6\">POSITION HELD</td><td id=\"0-7\">FROM</td><td id=\"0-8\">TO</td></tr>\n<tr><td id=\"0-9\">1</td><td id=\"0-a\">University of Cincinnati</td><td id=\"0-b\">Cincinnati, Ohio</td><td id=\"0-c\">University/College</td><td id=\"0-d\">Professor</td><td id=\"0-e\">8/2015</td><td id=\"0-f\">Present</td></tr>\n<tr><td id=\"0-g\">2</td><td id=\"0-h\">Toxicology Excellence for Risk Assessment</td><td id=\"0-i\">Cincinnati, Ohio</td><td id=\"0-j\">Non-Profit</td><td id=\"0-k\">President</td><td id=\"0-l\">2/1995</td><td id=\"0-m\">7/2015</td></tr>\n<tr><td id=\"0-n\">3</td><td id=\"0-o\">North American Flame Retardant Alliance</td><td id=\"0-p\">Washington DC, District of Columbia</td><td id=\"0-q\">Non-Profit</td><td id=\"0-r\">Member, Science Advisory Council</td><td id=\"0-s\">4/2012</td><td id=\"0-t\">6/2017</td></tr>\n<tr><td id=\"0-u\">4</td><td id=\"0-v\">Toxicology Education Foundation</td><td id=\"0-w\">District of Columbia, District of Columbia</td><td id=\"0-x\">Non-Profit</td><td id=\"0-y\">President</td><td id=\"0-z\">5/2016</td><td id=\"0-A\">Present</td></tr>\n<tr><td id=\"0-B\">5</td><td id=\"0-C\">Dourson, Dourson and Fowler, a General Partnership owning undeveloped land</td><td id=\"0-D\">Stanton, Kentucky</td><td id=\"0-E\">Partnership</td><td id=\"0-F\">General Partner</td><td id=\"0-G\">1/1994</td><td id=\"0-H\">Present</td></tr>\n<tr><td id=\"0-I\">6</td><td id=\"0-J\">Toxicology Forum</td><td id=\"0-K\">Reston, Virginia</td><td id=\"0-L\">Non-Profit</td><td id=\"0-M\">Secretary</td><td id=\"0-N\">9/2016</td><td id=\"0-O\">6/2017</td></tr>\n</table>",
+            "type": "table",
+            "id": "d3b3a740-b749-4606-ab43-918378fdc339",
+            "grounding": {
+                "box": {
+                    "left": 0.03009435534477234,
+                    "top": 0.08780921995639801,
+                    "right": 0.9714432954788208,
+                    "bottom": 0.5208451151847839
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='777ce1fa-44f1-459c-bcb2-5ab064e763f5'></a>\n\n2. Filer's Employment Assets & Income and Retirement Accounts\n<table id=\"0-P\">\n<tr><td id=\"0-Q\">#</td><td id=\"0-R\">DESCRIPTION</td><td id=\"0-S\">EIF</td><td id=\"0-T\">VALUE</td><td id=\"0-U\">INCOME TYPE</td><td id=\"0-V\">INCOME AMOUNT</td></tr>\n<tr><td id=\"0-W\">1</td><td id=\"0-X\">State Teachers Retirement System (OHIO): Guaranteed Retirement 2020 Fund</td><td id=\"0-Y\">Yes</td><td id=\"0-Z\">$1,001 - $15,000</td><td id=\"0-10\"></td><td id=\"0-11\">None (or less than $201)</td></tr>\n<tr><td id=\"0-12\">2</td><td id=\"0-13\">TIAA-CREF Equity Index R1</td><td id=\"0-14\">Yes</td><td id=\"0-15\">$15,001 - $50,000</td><td id=\"0-16\"></td><td id=\"0-17\">None (or less than $201)</td></tr>\n<tr><td id=\"0-18\">3</td><td id=\"0-19\">University of Cincinnati</td><td id=\"0-1a\">N/A</td><td id=\"0-1b\"></td><td id=\"0-1c\">Salary</td><td id=\"0-1d\">$240,055</td></tr>\n<tr><td id=\"0-1e\">4</td><td id=\"0-1f\">State Teachers Retirement System (OHIO): Target Choice 2020</td><td id=\"0-1g\">Yes</td><td id=\"0-1h\">$1,001 - $15,000</td><td id=\"0-1i\"></td><td id=\"0-1j\">None (or less than $201)</td></tr>\n<tr><td id=\"0-1k\">5</td><td id=\"0-1l\">TIAA-CREF Growth R1</td><td id=\"0-1m\">Yes</td><td id=\"0-1n\">$15,001 -\n$50,000</td><td id=\"0-1o\"></td><td id=\"0-1p\">None (or less than $201)</td></tr>\n<tr><td id=\"0-1q\">6</td><td id=\"0-1r\">TIAA Real Estate</td><td id=\"0-1s\">Yes</td><td id=\"0-1t\">$15,001 -\n$50,000</td><td id=\"0-1u\"></td><td id=\"0-1v\">None (or less than $201)</td></tr>\n</table>",
+            "type": "table",
+            "id": "777ce1fa-44f1-459c-bcb2-5ab064e763f5",
+            "grounding": {
+                "box": {
+                    "left": 0.026926934719085693,
+                    "top": 0.551571249961853,
+                    "right": 0.8696949481964111,
+                    "bottom": 0.9484361410140991
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b63ba588-de37-4277-9759-153799b8465f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jsbn0226",
+            "type": "marginalia",
+            "id": "b63ba588-de37-4277-9759-153799b8465f",
+            "grounding": {
+                "box": {
+                    "left": 0.29166877269744873,
+                    "top": 0.9687021374702454,
+                    "right": 0.7089306116104126,
+                    "bottom": 1.000165343284607
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d3b3a740-b749-4606-ab43-918378fdc339'></a>\n\n1. Filer's Positions Held Outside United States Government\n<table id=\"0-1\">\n<tr><td id=\"0-2\">#</td><td id=\"0-3\">ORGANIZATION NAME</td><td id=\"0-4\">CITY, STATE</td><td id=\"0-5\">ORGANIZATION TYPE</td><td id=\"0-6\">POSITION HELD</td><td id=\"0-7\">FROM</td><td id=\"0-8\">TO</td></tr>\n<tr><td id=\"0-9\">1</td><td id=\"0-a\">University of Cincinnati</td><td id=\"0-b\">Cincinnati, Ohio</td><td id=\"0-c\">University/College</td><td id=\"0-d\">Professor</td><td id=\"0-e\">8/2015</td><td id=\"0-f\">Present</td></tr>\n<tr><td id=\"0-g\">2</td><td id=\"0-h\">Toxicology Excellence for Risk Assessment</td><td id=\"0-i\">Cincinnati, Ohio</td><td id=\"0-j\">Non-Profit</td><td id=\"0-k\">President</td><td id=\"0-l\">2/1995</td><td id=\"0-m\">7/2015</td></tr>\n<tr><td id=\"0-n\">3</td><td id=\"0-o\">North American Flame Retardant Alliance</td><td id=\"0-p\">Washington DC, District of Columbia</td><td id=\"0-q\">Non-Profit</td><td id=\"0-r\">Member, Science Advisory Council</td><td id=\"0-s\">4/2012</td><td id=\"0-t\">6/2017</td></tr>\n<tr><td id=\"0-u\">4</td><td id=\"0-v\">Toxicology Education Foundation</td><td id=\"0-w\">District of Columbia, District of Columbia</td><td id=\"0-x\">Non-Profit</td><td id=\"0-y\">President</td><td id=\"0-z\">5/2016</td><td id=\"0-A\">Present</td></tr>\n<tr><td id=\"0-B\">5</td><td id=\"0-C\">Dourson, Dourson and Fowler, a General Partnership owning undeveloped land</td><td id=\"0-D\">Stanton, Kentucky</td><td id=\"0-E\">Partnership</td><td id=\"0-F\">General Partner</td><td id=\"0-G\">1/1994</td><td id=\"0-H\">Present</td></tr>\n<tr><td id=\"0-I\">6</td><td id=\"0-J\">Toxicology Forum</td><td id=\"0-K\">Reston, Virginia</td><td id=\"0-L\">Non-Profit</td><td id=\"0-M\">Secretary</td><td id=\"0-N\">9/2016</td><td id=\"0-O\">6/2017</td></tr>\n</table>\n\n<a id='777ce1fa-44f1-459c-bcb2-5ab064e763f5'></a>\n\n2. Filer's Employment Assets & Income and Retirement Accounts\n<table id=\"0-P\">\n<tr><td id=\"0-Q\">#</td><td id=\"0-R\">DESCRIPTION</td><td id=\"0-S\">EIF</td><td id=\"0-T\">VALUE</td><td id=\"0-U\">INCOME TYPE</td><td id=\"0-V\">INCOME AMOUNT</td></tr>\n<tr><td id=\"0-W\">1</td><td id=\"0-X\">State Teachers Retirement System (OHIO): Guaranteed Retirement 2020 Fund</td><td id=\"0-Y\">Yes</td><td id=\"0-Z\">$1,001 - $15,000</td><td id=\"0-10\"></td><td id=\"0-11\">None (or less than $201)</td></tr>\n<tr><td id=\"0-12\">2</td><td id=\"0-13\">TIAA-CREF Equity Index R1</td><td id=\"0-14\">Yes</td><td id=\"0-15\">$15,001 - $50,000</td><td id=\"0-16\"></td><td id=\"0-17\">None (or less than $201)</td></tr>\n<tr><td id=\"0-18\">3</td><td id=\"0-19\">University of Cincinnati</td><td id=\"0-1a\">N/A</td><td id=\"0-1b\"></td><td id=\"0-1c\">Salary</td><td id=\"0-1d\">$240,055</td></tr>\n<tr><td id=\"0-1e\">4</td><td id=\"0-1f\">State Teachers Retirement System (OHIO): Target Choice 2020</td><td id=\"0-1g\">Yes</td><td id=\"0-1h\">$1,001 - $15,000</td><td id=\"0-1i\"></td><td id=\"0-1j\">None (or less than $201)</td></tr>\n<tr><td id=\"0-1k\">5</td><td id=\"0-1l\">TIAA-CREF Growth R1</td><td id=\"0-1m\">Yes</td><td id=\"0-1n\">$15,001 -\n$50,000</td><td id=\"0-1o\"></td><td id=\"0-1p\">None (or less than $201)</td></tr>\n<tr><td id=\"0-1q\">6</td><td id=\"0-1r\">TIAA Real Estate</td><td id=\"0-1s\">Yes</td><td id=\"0-1t\">$15,001 -\n$50,000</td><td id=\"0-1u\"></td><td id=\"0-1v\">None (or less than $201)</td></tr>\n</table>\n\n<a id='b63ba588-de37-4277-9759-153799b8465f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jsbn0226",
+            "chunks": [
+                "d3b3a740-b749-4606-ab43-918378fdc339",
+                "777ce1fa-44f1-459c-bcb2-5ab064e763f5",
+                "b63ba588-de37-4277-9759-153799b8465f"
+            ]
+        }
+    ],
+    "grounding": {
+        "d3b3a740-b749-4606-ab43-918378fdc339": {
+            "box": {
+                "left": 0.03009435534477234,
+                "top": 0.08780921995639801,
+                "right": 0.9714432954788208,
+                "bottom": 0.5208451151847839
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.035489465991504154,
+                "top": 0.14350696731961543,
+                "right": 0.9677180098574603,
+                "bottom": 0.512260651088118
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.035489465991504154,
+                "top": 0.14350696731961543,
+                "right": 0.06324330746934559,
+                "bottom": 0.19221636751438997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.06324330746934559,
+                "top": 0.14350696731961543,
+                "right": 0.33475231949936646,
+                "bottom": 0.19221636751438997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.33475231949936646,
+                "top": 0.14350696731961543,
+                "right": 0.5473359617454179,
+                "bottom": 0.19221636751438997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5473359617454179,
+                "top": 0.14350696731961543,
+                "right": 0.6507875709994213,
+                "bottom": 0.19221636751438997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6507875709994213,
+                "top": 0.14350696731961543,
+                "right": 0.7560536817401431,
+                "bottom": 0.19221636751438997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.7560536817401431,
+                "top": 0.14350696731961543,
+                "right": 0.8098525090078894,
+                "bottom": 0.19221636751438997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.8098525090078894,
+                "top": 0.14350696731961543,
+                "right": 0.9675074336467038,
+                "bottom": 0.19221636751438997
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.035489465991504154,
+                "top": 0.19221636751438997,
+                "right": 0.06324330746934559,
+                "bottom": 0.24262079865324626
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.06324330746934559,
+                "top": 0.19221636751438997,
+                "right": 0.33475231949936646,
+                "bottom": 0.24262079865324626
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.33475231949936646,
+                "top": 0.19221636751438997,
+                "right": 0.5473359617454179,
+                "bottom": 0.24262079865324626
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5473359617454179,
+                "top": 0.19221636751438997,
+                "right": 0.6507875709994213,
+                "bottom": 0.24262079865324626
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6507875709994213,
+                "top": 0.19221636751438997,
+                "right": 0.7560536817401431,
+                "bottom": 0.24262079865324626
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.7560536817401431,
+                "top": 0.19221636751438997,
+                "right": 0.8098525090078894,
+                "bottom": 0.24262079865324626
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.8098525090078894,
+                "top": 0.19221636751438997,
+                "right": 0.9675074336467038,
+                "bottom": 0.24262079865324626
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.035489465991504154,
+                "top": 0.24262079865324626,
+                "right": 0.06324330746934559,
+                "bottom": 0.2760744363959593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.06324330746934559,
+                "top": 0.24262079865324626,
+                "right": 0.33475231949936646,
+                "bottom": 0.2760744363959593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.33475231949936646,
+                "top": 0.24262079865324626,
+                "right": 0.5473359617454179,
+                "bottom": 0.2760744363959593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5473359617454179,
+                "top": 0.24262079865324626,
+                "right": 0.6507875709994213,
+                "bottom": 0.2760744363959593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6507875709994213,
+                "top": 0.24262079865324626,
+                "right": 0.7560536817401431,
+                "bottom": 0.2760744363959593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7560536817401431,
+                "top": 0.24262079865324626,
+                "right": 0.8098525090078894,
+                "bottom": 0.2760744363959593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.8098525090078894,
+                "top": 0.24262079865324626,
+                "right": 0.9675074336467038,
+                "bottom": 0.2760744363959593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.035489465991504154,
+                "top": 0.2760744363959593,
+                "right": 0.06324330746934559,
+                "bottom": 0.34335655141307253
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.06324330746934559,
+                "top": 0.2760744363959593,
+                "right": 0.33475231949936646,
+                "bottom": 0.34335655141307253
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.33475231949936646,
+                "top": 0.2760744363959593,
+                "right": 0.5473359617454179,
+                "bottom": 0.34335655141307253
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.5473359617454179,
+                "top": 0.2760744363959593,
+                "right": 0.6507875709994213,
+                "bottom": 0.34335655141307253
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.6507875709994213,
+                "top": 0.2760744363959593,
+                "right": 0.7560536817401431,
+                "bottom": 0.34335655141307253
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.7560536817401431,
+                "top": 0.2760744363959593,
+                "right": 0.8098525090078894,
+                "bottom": 0.34335655141307253
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.8098525090078894,
+                "top": 0.2760744363959593,
+                "right": 0.9675074336467038,
+                "bottom": 0.34335655141307253
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.035489465991504154,
+                "top": 0.34335655141307253,
+                "right": 0.06324330746934559,
+                "bottom": 0.4276004230276431
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.06324330746934559,
+                "top": 0.34335655141307253,
+                "right": 0.33475231949936646,
+                "bottom": 0.4276004230276431
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.33475231949936646,
+                "top": 0.34335655141307253,
+                "right": 0.5473359617454179,
+                "bottom": 0.4276004230276431
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.5473359617454179,
+                "top": 0.34335655141307253,
+                "right": 0.6507875709994213,
+                "bottom": 0.4276004230276431
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.6507875709994213,
+                "top": 0.34335655141307253,
+                "right": 0.7560536817401431,
+                "bottom": 0.4276004230276431
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.7560536817401431,
+                "top": 0.34335655141307253,
+                "right": 0.8098525090078894,
+                "bottom": 0.4276004230276431
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.8098525090078894,
+                "top": 0.34335655141307253,
+                "right": 0.9675074336467038,
+                "bottom": 0.4276004230276431
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.035489465991504154,
+                "top": 0.4276004230276431,
+                "right": 0.06324330746934559,
+                "bottom": 0.47810729137713004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.06324330746934559,
+                "top": 0.4276004230276431,
+                "right": 0.33475231949936646,
+                "bottom": 0.47810729137713004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.33475231949936646,
+                "top": 0.4276004230276431,
+                "right": 0.5473359617454179,
+                "bottom": 0.47810729137713004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.5473359617454179,
+                "top": 0.4276004230276431,
+                "right": 0.6507875709994213,
+                "bottom": 0.47810729137713004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.6507875709994213,
+                "top": 0.4276004230276431,
+                "right": 0.7560536817401431,
+                "bottom": 0.47810729137713004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.7560536817401431,
+                "top": 0.4276004230276431,
+                "right": 0.8098525090078894,
+                "bottom": 0.47810729137713004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.8098525090078894,
+                "top": 0.4276004230276431,
+                "right": 0.9675074336467038,
+                "bottom": 0.47810729137713004
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.035489465991504154,
+                "top": 0.47810729137713004,
+                "right": 0.06324330746934559,
+                "bottom": 0.512260651088118
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.06324330746934559,
+                "top": 0.47810729137713004,
+                "right": 0.33475231949936646,
+                "bottom": 0.512260651088118
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.33475231949936646,
+                "top": 0.47810729137713004,
+                "right": 0.5473359617454179,
+                "bottom": 0.512260651088118
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.5473359617454179,
+                "top": 0.47810729137713004,
+                "right": 0.6507875709994213,
+                "bottom": 0.512260651088118
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.6507875709994213,
+                "top": 0.47810729137713004,
+                "right": 0.7560536817401431,
+                "bottom": 0.512260651088118
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.7560536817401431,
+                "top": 0.47810729137713004,
+                "right": 0.8098525090078894,
+                "bottom": 0.512260651088118
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.8098525090078894,
+                "top": 0.47810729137713004,
+                "right": 0.9675074336467038,
+                "bottom": 0.512260651088118
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "777ce1fa-44f1-459c-bcb2-5ab064e763f5": {
+            "box": {
+                "left": 0.026926934719085693,
+                "top": 0.551571249961853,
+                "right": 0.8696949481964111,
+                "bottom": 0.9484361410140991
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.03499871622327766,
+                "top": 0.6052922782583323,
+                "right": 0.8638012239047725,
+                "bottom": 0.9389438189738257
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.03499871622327766,
+                "top": 0.6052922782583323,
+                "right": 0.061754331606512114,
+                "bottom": 0.6531553846194811
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.061754331606512114,
+                "top": 0.6052922782583323,
+                "right": 0.3364943661112765,
+                "bottom": 0.6531553846194811
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.3364943661112765,
+                "top": 0.6052922782583323,
+                "right": 0.48335666931406607,
+                "bottom": 0.6531553846194811
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.48335666931406607,
+                "top": 0.6052922782583323,
+                "right": 0.6533592798522605,
+                "bottom": 0.6531553846194811
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-U": {
+            "box": {
+                "left": 0.6533592798522605,
+                "top": 0.6052922782583323,
+                "right": 0.7446731261172914,
+                "bottom": 0.6531553846194811
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-V": {
+            "box": {
+                "left": 0.7446731261172914,
+                "top": 0.6052922782583323,
+                "right": 0.8639258517000776,
+                "bottom": 0.6531553846194811
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-W": {
+            "box": {
+                "left": 0.03499871622327766,
+                "top": 0.6531553846194811,
+                "right": 0.061754331606512114,
+                "bottom": 0.7032488136208883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-X": {
+            "box": {
+                "left": 0.061754331606512114,
+                "top": 0.6531553846194811,
+                "right": 0.3364943661112765,
+                "bottom": 0.7032488136208883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Y": {
+            "box": {
+                "left": 0.3364943661112765,
+                "top": 0.6531553846194811,
+                "right": 0.48335666931406607,
+                "bottom": 0.7032488136208883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Z": {
+            "box": {
+                "left": 0.48335666931406607,
+                "top": 0.6531553846194811,
+                "right": 0.6533592798522605,
+                "bottom": 0.7032488136208883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-10": {
+            "box": {
+                "left": 0.6533592798522605,
+                "top": 0.6531553846194811,
+                "right": 0.7446731261172914,
+                "bottom": 0.7032488136208883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-11": {
+            "box": {
+                "left": 0.7446731261172914,
+                "top": 0.6531553846194811,
+                "right": 0.8639258517000776,
+                "bottom": 0.7032488136208883
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-12": {
+            "box": {
+                "left": 0.03499871622327766,
+                "top": 0.7032488136208883,
+                "right": 0.061754331606512114,
+                "bottom": 0.753859293412404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-13": {
+            "box": {
+                "left": 0.061754331606512114,
+                "top": 0.7032488136208883,
+                "right": 0.3364943661112765,
+                "bottom": 0.753859293412404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-14": {
+            "box": {
+                "left": 0.3364943661112765,
+                "top": 0.7032488136208883,
+                "right": 0.48335666931406607,
+                "bottom": 0.753859293412404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-15": {
+            "box": {
+                "left": 0.48335666931406607,
+                "top": 0.7032488136208883,
+                "right": 0.6533592798522605,
+                "bottom": 0.753859293412404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-16": {
+            "box": {
+                "left": 0.6533592798522605,
+                "top": 0.7032488136208883,
+                "right": 0.7446731261172914,
+                "bottom": 0.753859293412404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-17": {
+            "box": {
+                "left": 0.7446731261172914,
+                "top": 0.7032488136208883,
+                "right": 0.8639258517000776,
+                "bottom": 0.753859293412404
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-18": {
+            "box": {
+                "left": 0.03499871622327766,
+                "top": 0.753859293412404,
+                "right": 0.061754331606512114,
+                "bottom": 0.787569831639928
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-19": {
+            "box": {
+                "left": 0.061754331606512114,
+                "top": 0.753859293412404,
+                "right": 0.3364943661112765,
+                "bottom": 0.787569831639928
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1a": {
+            "box": {
+                "left": 0.3364943661112765,
+                "top": 0.753859293412404,
+                "right": 0.48335666931406607,
+                "bottom": 0.787569831639928
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1b": {
+            "box": {
+                "left": 0.48335666931406607,
+                "top": 0.753859293412404,
+                "right": 0.6533592798522605,
+                "bottom": 0.787569831639928
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1c": {
+            "box": {
+                "left": 0.6533592798522605,
+                "top": 0.753859293412404,
+                "right": 0.7446731261172914,
+                "bottom": 0.787569831639928
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1d": {
+            "box": {
+                "left": 0.7446731261172914,
+                "top": 0.753859293412404,
+                "right": 0.8639258517000776,
+                "bottom": 0.787569831639928
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1e": {
+            "box": {
+                "left": 0.03499871622327766,
+                "top": 0.787569831639928,
+                "right": 0.061754331606512114,
+                "bottom": 0.8382000278663213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1f": {
+            "box": {
+                "left": 0.061754331606512114,
+                "top": 0.787569831639928,
+                "right": 0.3364943661112765,
+                "bottom": 0.8382000278663213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1g": {
+            "box": {
+                "left": 0.3364943661112765,
+                "top": 0.787569831639928,
+                "right": 0.48335666931406607,
+                "bottom": 0.8382000278663213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1h": {
+            "box": {
+                "left": 0.48335666931406607,
+                "top": 0.787569831639928,
+                "right": 0.6533592798522605,
+                "bottom": 0.8382000278663213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1i": {
+            "box": {
+                "left": 0.6533592798522605,
+                "top": 0.787569831639928,
+                "right": 0.7446731261172914,
+                "bottom": 0.8382000278663213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1j": {
+            "box": {
+                "left": 0.7446731261172914,
+                "top": 0.787569831639928,
+                "right": 0.8639258517000776,
+                "bottom": 0.8382000278663213
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1k": {
+            "box": {
+                "left": 0.03499871622327766,
+                "top": 0.8382000278663213,
+                "right": 0.061754331606512114,
+                "bottom": 0.8882563303595816
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1l": {
+            "box": {
+                "left": 0.061754331606512114,
+                "top": 0.8382000278663213,
+                "right": 0.3364943661112765,
+                "bottom": 0.8882563303595816
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1m": {
+            "box": {
+                "left": 0.3364943661112765,
+                "top": 0.8382000278663213,
+                "right": 0.48335666931406607,
+                "bottom": 0.8882563303595816
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1n": {
+            "box": {
+                "left": 0.48335666931406607,
+                "top": 0.8382000278663213,
+                "right": 0.6533592798522605,
+                "bottom": 0.8882563303595816
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1o": {
+            "box": {
+                "left": 0.6533592798522605,
+                "top": 0.8382000278663213,
+                "right": 0.7446731261172914,
+                "bottom": 0.8882563303595816
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1p": {
+            "box": {
+                "left": 0.7446731261172914,
+                "top": 0.8382000278663213,
+                "right": 0.8639258517000776,
+                "bottom": 0.8882563303595816
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1q": {
+            "box": {
+                "left": 0.03499871622327766,
+                "top": 0.8882563303595816,
+                "right": 0.061754331606512114,
+                "bottom": 0.9389438189738257
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1r": {
+            "box": {
+                "left": 0.061754331606512114,
+                "top": 0.8882563303595816,
+                "right": 0.3364943661112765,
+                "bottom": 0.9389438189738257
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1s": {
+            "box": {
+                "left": 0.3364943661112765,
+                "top": 0.8882563303595816,
+                "right": 0.48335666931406607,
+                "bottom": 0.9389438189738257
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1t": {
+            "box": {
+                "left": 0.48335666931406607,
+                "top": 0.8882563303595816,
+                "right": 0.6533592798522605,
+                "bottom": 0.9389438189738257
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1u": {
+            "box": {
+                "left": 0.6533592798522605,
+                "top": 0.8882563303595816,
+                "right": 0.7446731261172914,
+                "bottom": 0.9389438189738257
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-1v": {
+            "box": {
+                "left": 0.7446731261172914,
+                "top": 0.8882563303595816,
+                "right": 0.8639258517000776,
+                "bottom": 0.9389438189738257
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "b63ba588-de37-4277-9759-153799b8465f": {
+            "box": {
+                "left": 0.29166877269744873,
+                "top": 0.9687021374702454,
+                "right": 0.7089306116104126,
+                "bottom": 1.000165343284607
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "jsbn0226_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8235,
+        "credit_usage": 3.0,
+        "job_id": "ipd8nf3vliqxbsd7a92sf07v7",
+        "version": "dpt-2-20250919"
+    }
+}

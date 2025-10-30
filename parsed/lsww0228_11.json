@@ -1,0 +1,288 @@
+{
+    "markdown": "<a id='2c52461d-385a-4ca6-9696-3bc5bf214836'></a>\n\nTo: D. Dailey\n\nDate:\nTime: 12:50\n\nWHILE YOU WERE OUT\n\nM: Liz Sode\n\nof:\n\nPhone: 312-431-3680\nArea Code Number Extension\n\n<a id='74004d41-9984-4320-bbae-da4035bee91a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">TELEPHONED</td><td id=\"0-3\">(image of a square with a black border)</td><td id=\"0-4\" colspan=\"2\">PLEASE CALL</td><td id=\"0-5\">(black to white gradient)</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">CALLED TO SEE YOU</td><td id=\"0-7\">(image of a square with a black border)</td><td id=\"0-8\" colspan=\"2\">WILL CALL AGAIN</td><td id=\"0-9\">(black to white gradient)</td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">WANTS TO SEE YOU</td><td id=\"0-b\">(image of a square with a black border)</td><td id=\"0-c\" colspan=\"2\">URGENT</td><td id=\"0-d\">(black to white gradient)</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-g\" colspan=\"2\"></td></tr>\n</table>\n\n<a id='0dafe546-aca8-47da-a3c8-11465879b3b0'></a>\n\nMessage\n---\n---\n---\n---\n---\n\nOperator\n---\n\n<a id='1326c132-3235-4e15-a38e-45f0fe075ac2'></a>\n\nMC 0343",
+    "chunks": [
+        {
+            "markdown": "<a id='2c52461d-385a-4ca6-9696-3bc5bf214836'></a>\n\nTo: D. Dailey\n\nDate:\nTime: 12:50\n\nWHILE YOU WERE OUT\n\nM: Liz Sode\n\nof:\n\nPhone: 312-431-3680\nArea Code Number Extension",
+            "type": "text",
+            "id": "2c52461d-385a-4ca6-9696-3bc5bf214836",
+            "grounding": {
+                "box": {
+                    "left": 0.18218129873275757,
+                    "top": 0.0496697872877121,
+                    "right": 0.9063586592674255,
+                    "bottom": 0.39117223024368286
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='74004d41-9984-4320-bbae-da4035bee91a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">TELEPHONED</td><td id=\"0-3\">(image of a square with a black border)</td><td id=\"0-4\" colspan=\"2\">PLEASE CALL</td><td id=\"0-5\">(black to white gradient)</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">CALLED TO SEE YOU</td><td id=\"0-7\">(image of a square with a black border)</td><td id=\"0-8\" colspan=\"2\">WILL CALL AGAIN</td><td id=\"0-9\">(black to white gradient)</td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">WANTS TO SEE YOU</td><td id=\"0-b\">(image of a square with a black border)</td><td id=\"0-c\" colspan=\"2\">URGENT</td><td id=\"0-d\">(black to white gradient)</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-g\" colspan=\"2\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "74004d41-9984-4320-bbae-da4035bee91a",
+            "grounding": {
+                "box": {
+                    "left": 0.18299683928489685,
+                    "top": 0.3909032940864563,
+                    "right": 0.9049208164215088,
+                    "bottom": 0.6027358770370483
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0dafe546-aca8-47da-a3c8-11465879b3b0'></a>\n\nMessage\n---\n---\n---\n---\n---\n\nOperator\n---",
+            "type": "text",
+            "id": "0dafe546-aca8-47da-a3c8-11465879b3b0",
+            "grounding": {
+                "box": {
+                    "left": 0.17860060930252075,
+                    "top": 0.6195968985557556,
+                    "right": 0.9046981930732727,
+                    "bottom": 0.87693852186203
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1326c132-3235-4e15-a38e-45f0fe075ac2'></a>\n\nMC 0343",
+            "type": "text",
+            "id": "1326c132-3235-4e15-a38e-45f0fe075ac2",
+            "grounding": {
+                "box": {
+                    "left": 0.18529143929481506,
+                    "top": 0.8899125456809998,
+                    "right": 0.32543298602104187,
+                    "bottom": 0.9263808131217957
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2c52461d-385a-4ca6-9696-3bc5bf214836'></a>\n\nTo: D. Dailey\n\nDate:\nTime: 12:50\n\nWHILE YOU WERE OUT\n\nM: Liz Sode\n\nof:\n\nPhone: 312-431-3680\nArea Code Number Extension\n\n<a id='74004d41-9984-4320-bbae-da4035bee91a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"2\">TELEPHONED</td><td id=\"0-3\">(image of a square with a black border)</td><td id=\"0-4\" colspan=\"2\">PLEASE CALL</td><td id=\"0-5\">(black to white gradient)</td></tr>\n<tr><td id=\"0-6\" colspan=\"2\">CALLED TO SEE YOU</td><td id=\"0-7\">(image of a square with a black border)</td><td id=\"0-8\" colspan=\"2\">WILL CALL AGAIN</td><td id=\"0-9\">(black to white gradient)</td></tr>\n<tr><td id=\"0-a\" colspan=\"2\">WANTS TO SEE YOU</td><td id=\"0-b\">(image of a square with a black border)</td><td id=\"0-c\" colspan=\"2\">URGENT</td><td id=\"0-d\">(black to white gradient)</td></tr>\n<tr><td id=\"0-e\"></td><td id=\"0-f\" colspan=\"3\">RETURNED YOUR CALL</td><td id=\"0-g\" colspan=\"2\"></td></tr>\n</table>\n\n<a id='0dafe546-aca8-47da-a3c8-11465879b3b0'></a>\n\nMessage\n---\n---\n---\n---\n---\n\nOperator\n---\n\n<a id='1326c132-3235-4e15-a38e-45f0fe075ac2'></a>\n\nMC 0343",
+            "chunks": [
+                "2c52461d-385a-4ca6-9696-3bc5bf214836",
+                "74004d41-9984-4320-bbae-da4035bee91a",
+                "0dafe546-aca8-47da-a3c8-11465879b3b0",
+                "1326c132-3235-4e15-a38e-45f0fe075ac2"
+            ]
+        }
+    ],
+    "grounding": {
+        "2c52461d-385a-4ca6-9696-3bc5bf214836": {
+            "box": {
+                "left": 0.18218129873275757,
+                "top": 0.0496697872877121,
+                "right": 0.9063586592674255,
+                "bottom": 0.39117223024368286
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "74004d41-9984-4320-bbae-da4035bee91a": {
+            "box": {
+                "left": 0.18299683928489685,
+                "top": 0.3909032940864563,
+                "right": 0.9049208164215088,
+                "bottom": 0.6027358770370483
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.19230907060514488,
+                "top": 0.40027588294461003,
+                "right": 0.8945991189334563,
+                "bottom": 0.5925182588342217
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.19230907060514488,
+                "top": 0.40027588294461003,
+                "right": 0.5366562242986044,
+                "bottom": 0.49439848533594954
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.47584976840035775,
+                "top": 0.40027588294461003,
+                "right": 0.5366562242986044,
+                "bottom": 0.44778685778141814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5366562242986044,
+                "top": 0.40027588294461003,
+                "right": 0.8944396066411162,
+                "bottom": 0.49439848533594954
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.8327810272130041,
+                "top": 0.40027588294461003,
+                "right": 0.8944396066411162,
+                "bottom": 0.44778685778141814
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.19230907060514488,
+                "top": 0.44778685778141814,
+                "right": 0.5366562242986044,
+                "bottom": 0.5409729097749185
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.47584976840035775,
+                "top": 0.44778685778141814,
+                "right": 0.5366562242986044,
+                "bottom": 0.49439848533594954
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5366562242986044,
+                "top": 0.44778685778141814,
+                "right": 0.8944396066411162,
+                "bottom": 0.5409729097749185
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.8327810272130041,
+                "top": 0.44778685778141814,
+                "right": 0.8944396066411162,
+                "bottom": 0.49439848533594954
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.19230907060514488,
+                "top": 0.49439848533594954,
+                "right": 0.5366562242986044,
+                "bottom": 0.5925182588342217
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.47584976840035775,
+                "top": 0.49439848533594954,
+                "right": 0.5366562242986044,
+                "bottom": 0.5409729097749185
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5366562242986044,
+                "top": 0.49439848533594954,
+                "right": 0.8944396066411162,
+                "bottom": 0.5925182588342217
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.8327810272130041,
+                "top": 0.49439848533594954,
+                "right": 0.8944396066411162,
+                "bottom": 0.5409729097749185
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.19230907060514488,
+                "top": 0.5409729097749185,
+                "right": 0.34490391372370643,
+                "bottom": 0.5925182588342217
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.34490391372370643,
+                "top": 0.5409729097749185,
+                "right": 0.8327810272130041,
+                "bottom": 0.5925182588342217
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.7438553554296394,
+                "top": 0.5409729097749185,
+                "right": 0.8944396066411162,
+                "bottom": 0.5925182588342217
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0dafe546-aca8-47da-a3c8-11465879b3b0": {
+            "box": {
+                "left": 0.17860060930252075,
+                "top": 0.6195968985557556,
+                "right": 0.9046981930732727,
+                "bottom": 0.87693852186203
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1326c132-3235-4e15-a38e-45f0fe075ac2": {
+            "box": {
+                "left": 0.18529143929481506,
+                "top": 0.8899125456809998,
+                "right": 0.32543298602104187,
+                "bottom": 0.9263808131217957
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lsww0228_11.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5274,
+        "credit_usage": 3.0,
+        "job_id": "m1u2ocey7v837lvfah7r73eod",
+        "version": "dpt-2-20250919"
+    }
+}

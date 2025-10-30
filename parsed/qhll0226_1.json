@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='056a146a-4bf1-48e5-8810-6e3ad1877215'></a>\n\n<::attestation: Stamp/Watermark\nStatus: COPY\nReadable Text: COPY\nDescription: The word \"COPY\" is centrally located on the page, appearing as a stamp or watermark.::>\n\n<a id='08971337-6d57-4f12-be6b-1d7030c9755a'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Mr. Place\nA handwritten signature or name centered on a white background.::>\n\n<a id='fe341982-1f4c-4796-b098-b06959c7d3d5'></a>\n\nSUGAR RESEARCH FOUNDATION, INC.\n\n<a id='77a694d7-8bfe-46db-85b9-d85dc8536b84'></a>\n\n99 WALL STREET\n\n<a id='83962a9c-3e8c-4463-a020-df07325c2f02'></a>\n\nNEW YORK 5, N. Y.\n\n<a id='70656961-170c-44a1-9ba8-1b7d344356fe'></a>\n\nAugust 1st, 1945\n\n<a id='ace127f2-6998-4e81-8b67-64bd19ff0f9e'></a>\n\nTO: John C. Geran\n\nFROM: Ody H. Lamborn\n\nPlease let me know when the 50,000 copies of \"Sugar is the Foundation of All Life\" will be ready for distribution.\n\nTowards the bottom of the cover I would like a \"box\", say an inch square, that says inside of it \"Extra copies of this address will be supplied upon request\".\n\nThe title on the cover should read:\n\nSUGAR IS THE FOUNDATION OF ALL LIFE\n\n<a id='090b5a12-e8a8-4efd-9517-65a478085b26'></a>\n\n(By Dr. Wm. J. Robbins, Director\nN.Y. Botanical Garden, Bronx Park\nNew York)\n\n<a id='d35aa4e8-4c31-4578-b668-270157c2246f'></a>\n\nOHL: be\n\n<a id='a18859d2-dfdb-4637-9999-cc6c5bb0685e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qhlI0226",
+    "chunks": [
+        {
+            "markdown": "<a id='056a146a-4bf1-48e5-8810-6e3ad1877215'></a>\n\n<::attestation: Stamp/Watermark\nStatus: COPY\nReadable Text: COPY\nDescription: The word \"COPY\" is centrally located on the page, appearing as a stamp or watermark.::>",
+            "type": "attestation",
+            "id": "056a146a-4bf1-48e5-8810-6e3ad1877215",
+            "grounding": {
+                "box": {
+                    "left": 0.47259780764579773,
+                    "top": 0.021093014627695084,
+                    "right": 0.5293323397636414,
+                    "bottom": 0.04466645047068596
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='08971337-6d57-4f12-be6b-1d7030c9755a'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Mr. Place\nA handwritten signature or name centered on a white background.::>",
+            "type": "attestation",
+            "id": "08971337-6d57-4f12-be6b-1d7030c9755a",
+            "grounding": {
+                "box": {
+                    "left": 0.7017278671264648,
+                    "top": 0.023391282185912132,
+                    "right": 0.9318896532058716,
+                    "bottom": 0.06352809816598892
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fe341982-1f4c-4796-b098-b06959c7d3d5'></a>\n\nSUGAR RESEARCH FOUNDATION, INC.",
+            "type": "marginalia",
+            "id": "fe341982-1f4c-4796-b098-b06959c7d3d5",
+            "grounding": {
+                "box": {
+                    "left": 0.05399705469608307,
+                    "top": 0.06628546118736267,
+                    "right": 0.3698984980583191,
+                    "bottom": 0.08664846420288086
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='77a694d7-8bfe-46db-85b9-d85dc8536b84'></a>\n\n99 WALL STREET",
+            "type": "text",
+            "id": "77a694d7-8bfe-46db-85b9-d85dc8536b84",
+            "grounding": {
+                "box": {
+                    "left": 0.42786914110183716,
+                    "top": 0.06687501072883606,
+                    "right": 0.5766426920890808,
+                    "bottom": 0.08546733856201172
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='83962a9c-3e8c-4463-a020-df07325c2f02'></a>\n\nNEW YORK 5, N. Y.",
+            "type": "marginalia",
+            "id": "83962a9c-3e8c-4463-a020-df07325c2f02",
+            "grounding": {
+                "box": {
+                    "left": 0.7945335507392883,
+                    "top": 0.06699099391698837,
+                    "right": 0.9575210213661194,
+                    "bottom": 0.08572263270616531
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='70656961-170c-44a1-9ba8-1b7d344356fe'></a>\n\nAugust 1st, 1945",
+            "type": "text",
+            "id": "70656961-170c-44a1-9ba8-1b7d344356fe",
+            "grounding": {
+                "box": {
+                    "left": 0.6090113520622253,
+                    "top": 0.1299964338541031,
+                    "right": 0.7866834998130798,
+                    "bottom": 0.15598900616168976
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ace127f2-6998-4e81-8b67-64bd19ff0f9e'></a>\n\nTO: John C. Geran\n\nFROM: Ody H. Lamborn\n\nPlease let me know when the 50,000 copies of \"Sugar is the Foundation of All Life\" will be ready for distribution.\n\nTowards the bottom of the cover I would like a \"box\", say an inch square, that says inside of it \"Extra copies of this address will be supplied upon request\".\n\nThe title on the cover should read:\n\nSUGAR IS THE FOUNDATION OF ALL LIFE",
+            "type": "text",
+            "id": "ace127f2-6998-4e81-8b67-64bd19ff0f9e",
+            "grounding": {
+                "box": {
+                    "left": 0.18033117055892944,
+                    "top": 0.21628808975219727,
+                    "right": 0.8885528445243835,
+                    "bottom": 0.45804011821746826
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='090b5a12-e8a8-4efd-9517-65a478085b26'></a>\n\n(By Dr. Wm. J. Robbins, Director\nN.Y. Botanical Garden, Bronx Park\nNew York)",
+            "type": "text",
+            "id": "090b5a12-e8a8-4efd-9517-65a478085b26",
+            "grounding": {
+                "box": {
+                    "left": 0.3986266851425171,
+                    "top": 0.4665508270263672,
+                    "right": 0.7603907585144043,
+                    "bottom": 0.5271921753883362
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d35aa4e8-4c31-4578-b668-270157c2246f'></a>\n\nOHL: be",
+            "type": "text",
+            "id": "d35aa4e8-4c31-4578-b668-270157c2246f",
+            "grounding": {
+                "box": {
+                    "left": 0.18293730914592743,
+                    "top": 0.5599291324615479,
+                    "right": 0.25986117124557495,
+                    "bottom": 0.5869876146316528
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a18859d2-dfdb-4637-9999-cc6c5bb0685e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qhlI0226",
+            "type": "text",
+            "id": "a18859d2-dfdb-4637-9999-cc6c5bb0685e",
+            "grounding": {
+                "box": {
+                    "left": 0.029432475566864014,
+                    "top": 0.961495578289032,
+                    "right": 0.9761890769004822,
+                    "bottom": 0.9949799180030823
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='056a146a-4bf1-48e5-8810-6e3ad1877215'></a>\n\n<::attestation: Stamp/Watermark\nStatus: COPY\nReadable Text: COPY\nDescription: The word \"COPY\" is centrally located on the page, appearing as a stamp or watermark.::>\n\n<a id='08971337-6d57-4f12-be6b-1d7030c9755a'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Mr. Place\nA handwritten signature or name centered on a white background.::>\n\n<a id='fe341982-1f4c-4796-b098-b06959c7d3d5'></a>\n\nSUGAR RESEARCH FOUNDATION, INC.\n\n<a id='77a694d7-8bfe-46db-85b9-d85dc8536b84'></a>\n\n99 WALL STREET\n\n<a id='83962a9c-3e8c-4463-a020-df07325c2f02'></a>\n\nNEW YORK 5, N. Y.\n\n<a id='70656961-170c-44a1-9ba8-1b7d344356fe'></a>\n\nAugust 1st, 1945\n\n<a id='ace127f2-6998-4e81-8b67-64bd19ff0f9e'></a>\n\nTO: John C. Geran\n\nFROM: Ody H. Lamborn\n\nPlease let me know when the 50,000 copies of \"Sugar is the Foundation of All Life\" will be ready for distribution.\n\nTowards the bottom of the cover I would like a \"box\", say an inch square, that says inside of it \"Extra copies of this address will be supplied upon request\".\n\nThe title on the cover should read:\n\nSUGAR IS THE FOUNDATION OF ALL LIFE\n\n<a id='090b5a12-e8a8-4efd-9517-65a478085b26'></a>\n\n(By Dr. Wm. J. Robbins, Director\nN.Y. Botanical Garden, Bronx Park\nNew York)\n\n<a id='d35aa4e8-4c31-4578-b668-270157c2246f'></a>\n\nOHL: be\n\n<a id='a18859d2-dfdb-4637-9999-cc6c5bb0685e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qhlI0226",
+            "chunks": [
+                "056a146a-4bf1-48e5-8810-6e3ad1877215",
+                "08971337-6d57-4f12-be6b-1d7030c9755a",
+                "fe341982-1f4c-4796-b098-b06959c7d3d5",
+                "77a694d7-8bfe-46db-85b9-d85dc8536b84",
+                "83962a9c-3e8c-4463-a020-df07325c2f02",
+                "70656961-170c-44a1-9ba8-1b7d344356fe",
+                "ace127f2-6998-4e81-8b67-64bd19ff0f9e",
+                "090b5a12-e8a8-4efd-9517-65a478085b26",
+                "d35aa4e8-4c31-4578-b668-270157c2246f",
+                "a18859d2-dfdb-4637-9999-cc6c5bb0685e"
+            ]
+        }
+    ],
+    "grounding": {
+        "056a146a-4bf1-48e5-8810-6e3ad1877215": {
+            "box": {
+                "left": 0.47259780764579773,
+                "top": 0.021093014627695084,
+                "right": 0.5293323397636414,
+                "bottom": 0.04466645047068596
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "08971337-6d57-4f12-be6b-1d7030c9755a": {
+            "box": {
+                "left": 0.7017278671264648,
+                "top": 0.023391282185912132,
+                "right": 0.9318896532058716,
+                "bottom": 0.06352809816598892
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "fe341982-1f4c-4796-b098-b06959c7d3d5": {
+            "box": {
+                "left": 0.05399705469608307,
+                "top": 0.06628546118736267,
+                "right": 0.3698984980583191,
+                "bottom": 0.08664846420288086
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "77a694d7-8bfe-46db-85b9-d85dc8536b84": {
+            "box": {
+                "left": 0.42786914110183716,
+                "top": 0.06687501072883606,
+                "right": 0.5766426920890808,
+                "bottom": 0.08546733856201172
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "83962a9c-3e8c-4463-a020-df07325c2f02": {
+            "box": {
+                "left": 0.7945335507392883,
+                "top": 0.06699099391698837,
+                "right": 0.9575210213661194,
+                "bottom": 0.08572263270616531
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "70656961-170c-44a1-9ba8-1b7d344356fe": {
+            "box": {
+                "left": 0.6090113520622253,
+                "top": 0.1299964338541031,
+                "right": 0.7866834998130798,
+                "bottom": 0.15598900616168976
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ace127f2-6998-4e81-8b67-64bd19ff0f9e": {
+            "box": {
+                "left": 0.18033117055892944,
+                "top": 0.21628808975219727,
+                "right": 0.8885528445243835,
+                "bottom": 0.45804011821746826
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "090b5a12-e8a8-4efd-9517-65a478085b26": {
+            "box": {
+                "left": 0.3986266851425171,
+                "top": 0.4665508270263672,
+                "right": 0.7603907585144043,
+                "bottom": 0.5271921753883362
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d35aa4e8-4c31-4578-b668-270157c2246f": {
+            "box": {
+                "left": 0.18293730914592743,
+                "top": 0.5599291324615479,
+                "right": 0.25986117124557495,
+                "bottom": 0.5869876146316528
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a18859d2-dfdb-4637-9999-cc6c5bb0685e": {
+            "box": {
+                "left": 0.029432475566864014,
+                "top": 0.961495578289032,
+                "right": 0.9761890769004822,
+                "bottom": 0.9949799180030823
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qhll0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5367,
+        "credit_usage": 3.0,
+        "job_id": "t3qi45ds1fmco7v84uuo2even",
+        "version": "dpt-2-20250919"
+    }
+}

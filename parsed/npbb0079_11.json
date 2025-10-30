@@ -1,0 +1,453 @@
+{
+    "markdown": "<a id='0df7cd8c-3c4f-4ec3-a302-a3fa1b41a5ad'></a>\n\nRJRT\n\n<a id='ea8ec282-e3b9-4f5c-aad0-0a70258db8df'></a>\n\nREQUEST FOR CHANGE\nF-1001 7/88\n\n<a id='3ebb64ed-53f3-47c0-bae3-0590a0e0c449'></a>\n\n<::attestation: Initial/Signature for receipt\nSigned\nSignature: illegible\nRFC: 880031\nPage: 1 of 1\nDate: 8-24-88\nReceived By: H\nChange Order Number:\nA rectangular box with several fields, containing handwritten entries and an initial in the \"Received By\" field, positioned centrally.::>\n\n<a id='2321fb37-cd28-4db5-803c-347d988bee35'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ORIGINATOR Name: Carolyn R. Carpenter</td><td id=\"0-3\">Date Prepared 8-24-88</td></tr>\n<tr><td id=\"0-4\">Position</td><td id=\"0-5\">Telephone No.</td></tr>\n<tr><td id=\"0-6\">Associate R&D Technologist</td><td id=\"0-7\">741-2483</td></tr>\n<tr><td id=\"0-8\">Department Name and Location</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">R & D New Product Technology - BGTC</td><td id=\"0-b\"></td></tr>\n</table>\nBrand/Assembly/Material Affected\n\n<a id='c9d3f3ed-d87a-42c4-a746-bc3b77b140a0'></a>\n\nBrand/Assembly/Material Affected\nMenthol Product Delivery Specification\n\n<a id='c733d4aa-813f-49bc-9b83-cc083f3cbe08'></a>\n\nType of Change\n<table id=\"0-c\">\n<tr><td id=\"0-d\">Addition\nDeletion\nX Change</td><td id=\"0-e\">Design\nCompatibity\nManufacturability\nX Spec Change\nCost Reduction\nOther</td><td id=\"0-f\">Emergency\nUrgent\nX Routine</td></tr>\n</table>\n\n<a id='63cd929d-30dd-4265-b000-eb432dd998d6'></a>\n\nDescription of Problem\nInitial menthol product delivery specifications were developed based on data from one run in April 1988. Since that time several modifications to the product have been made. Specifications need to be revised to reflect acceptable delivery ranges of the current SP-6M product.\n\n<a id='df439b7b-8afd-4797-b106-a377cb577dc3'></a>\n\n51482 5049\n\nProposed Solution\nA sensory test was conducted on test products 8-033B and 8-035 to explore perceptual effects related to delivery extremes. From that test specification limits were recommended. Targets were verified on a recent menthol production run (8-049) using final production materials. The recommended specifications are attached.\n\n<a id='4817ce0d-334d-41c4-97a6-5436818de253'></a>\n\n<::attestation: Approval Box\nReadable Text: Accepted for Investigation, Signature, Title, Date\nDescription: A rectangular box with four labeled columns for acceptance of investigation.::>\n\n<a id='5bba4b39-46a6-4a98-93dc-0bef355134d9'></a>\n\nFinal Disposition\noption Approved: [ ]\noption Rejected: [ ]\n\nAction Taken or Reason for Rejection\n\nProposed Effective Date:\n\n<a id='aea619a0-2e32-4251-9b7a-4e8d6bdf173c'></a>\n\n<::attestation: Approval/Review form with signatures\n[Status indicators - signed/approved]\n[Signature: Caiolinh. Carpenter (legible), RDP KAN (legible)]\nSPEC HOLDER\nDATE\n8-24-88\nPRODUCT REVIEW COMMITTEE\nPRODUCT CHANGE COMMITTEE\nPRODUCT ACCEPTANCE COMMITTEE\nA form section with fields for a spec holder's signature and date, and sections for product review, change, and acceptance committees, with signatures/initials in the review section::>",
+    "chunks": [
+        {
+            "markdown": "<a id='0df7cd8c-3c4f-4ec3-a302-a3fa1b41a5ad'></a>\n\nRJRT",
+            "type": "marginalia",
+            "id": "0df7cd8c-3c4f-4ec3-a302-a3fa1b41a5ad",
+            "grounding": {
+                "box": {
+                    "left": 0.03464270383119583,
+                    "top": 0.028412122279405594,
+                    "right": 0.07959645241498947,
+                    "bottom": 0.041969869285821915
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ea8ec282-e3b9-4f5c-aad0-0a70258db8df'></a>\n\nREQUEST FOR CHANGE\nF-1001 7/88",
+            "type": "text",
+            "id": "ea8ec282-e3b9-4f5c-aad0-0a70258db8df",
+            "grounding": {
+                "box": {
+                    "left": 0.3081779181957245,
+                    "top": 0.025421425700187683,
+                    "right": 0.4940721094608307,
+                    "bottom": 0.05665705353021622
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3ebb64ed-53f3-47c0-bae3-0590a0e0c449'></a>\n\n<::attestation: Initial/Signature for receipt\nSigned\nSignature: illegible\nRFC: 880031\nPage: 1 of 1\nDate: 8-24-88\nReceived By: H\nChange Order Number:\nA rectangular box with several fields, containing handwritten entries and an initial in the \"Received By\" field, positioned centrally.::>",
+            "type": "attestation",
+            "id": "3ebb64ed-53f3-47c0-bae3-0590a0e0c449",
+            "grounding": {
+                "box": {
+                    "left": 0.7590464949607849,
+                    "top": 0.02087688446044922,
+                    "right": 0.9730449318885803,
+                    "bottom": 0.1656506359577179
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2321fb37-cd28-4db5-803c-347d988bee35'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ORIGINATOR Name: Carolyn R. Carpenter</td><td id=\"0-3\">Date Prepared 8-24-88</td></tr>\n<tr><td id=\"0-4\">Position</td><td id=\"0-5\">Telephone No.</td></tr>\n<tr><td id=\"0-6\">Associate R&D Technologist</td><td id=\"0-7\">741-2483</td></tr>\n<tr><td id=\"0-8\">Department Name and Location</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">R & D New Product Technology - BGTC</td><td id=\"0-b\"></td></tr>\n</table>\nBrand/Assembly/Material Affected",
+            "type": "table",
+            "id": "2321fb37-cd28-4db5-803c-347d988bee35",
+            "grounding": {
+                "box": {
+                    "left": 0.03085726499557495,
+                    "top": 0.06812068819999695,
+                    "right": 0.7647850513458252,
+                    "bottom": 0.17088690400123596
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c9d3f3ed-d87a-42c4-a746-bc3b77b140a0'></a>\n\nBrand/Assembly/Material Affected\nMenthol Product Delivery Specification",
+            "type": "text",
+            "id": "c9d3f3ed-d87a-42c4-a746-bc3b77b140a0",
+            "grounding": {
+                "box": {
+                    "left": 0.03334346413612366,
+                    "top": 0.15935979783535004,
+                    "right": 0.9702135324478149,
+                    "bottom": 0.1956329494714737
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c733d4aa-813f-49bc-9b83-cc083f3cbe08'></a>\n\nType of Change\n<table id=\"0-c\">\n<tr><td id=\"0-d\">Addition\nDeletion\nX Change</td><td id=\"0-e\">Design\nCompatibity\nManufacturability\nX Spec Change\nCost Reduction\nOther</td><td id=\"0-f\">Emergency\nUrgent\nX Routine</td></tr>\n</table>",
+            "type": "table",
+            "id": "c733d4aa-813f-49bc-9b83-cc083f3cbe08",
+            "grounding": {
+                "box": {
+                    "left": 0.030779004096984863,
+                    "top": 0.19255319237709045,
+                    "right": 0.9711434841156006,
+                    "bottom": 0.28680679202079773
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='63cd929d-30dd-4265-b000-eb432dd998d6'></a>\n\nDescription of Problem\nInitial menthol product delivery specifications were developed based on data from one run in April 1988. Since that time several modifications to the product have been made. Specifications need to be revised to reflect acceptable delivery ranges of the current SP-6M product.",
+            "type": "text",
+            "id": "63cd929d-30dd-4265-b000-eb432dd998d6",
+            "grounding": {
+                "box": {
+                    "left": 0.03150615096092224,
+                    "top": 0.282062292098999,
+                    "right": 0.9707906246185303,
+                    "bottom": 0.5419921278953552
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='df439b7b-8afd-4797-b106-a377cb577dc3'></a>\n\n51482 5049\n\nProposed Solution\nA sensory test was conducted on test products 8-033B and 8-035 to explore perceptual effects related to delivery extremes. From that test specification limits were recommended. Targets were verified on a recent menthol production run (8-049) using final production materials. The recommended specifications are attached.",
+            "type": "text",
+            "id": "df439b7b-8afd-4797-b106-a377cb577dc3",
+            "grounding": {
+                "box": {
+                    "left": 0.03133484721183777,
+                    "top": 0.5406309962272644,
+                    "right": 0.9706718921661377,
+                    "bottom": 0.7278830409049988
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4817ce0d-334d-41c4-97a6-5436818de253'></a>\n\n<::attestation: Approval Box\nReadable Text: Accepted for Investigation, Signature, Title, Date\nDescription: A rectangular box with four labeled columns for acceptance of investigation.::>",
+            "type": "attestation",
+            "id": "4817ce0d-334d-41c4-97a6-5436818de253",
+            "grounding": {
+                "box": {
+                    "left": 0.031761497259140015,
+                    "top": 0.7246658205986023,
+                    "right": 0.9704567193984985,
+                    "bottom": 0.7891308665275574
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5bba4b39-46a6-4a98-93dc-0bef355134d9'></a>\n\nFinal Disposition\noption Approved: [ ]\noption Rejected: [ ]\n\nAction Taken or Reason for Rejection\n\nProposed Effective Date:",
+            "type": "text",
+            "id": "5bba4b39-46a6-4a98-93dc-0bef355134d9",
+            "grounding": {
+                "box": {
+                    "left": 0.029608070850372314,
+                    "top": 0.7846420407295227,
+                    "right": 0.6644647121429443,
+                    "bottom": 0.9748160243034363
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='aea619a0-2e32-4251-9b7a-4e8d6bdf173c'></a>\n\n<::attestation: Approval/Review form with signatures\n[Status indicators - signed/approved]\n[Signature: Caiolinh. Carpenter (legible), RDP KAN (legible)]\nSPEC HOLDER\nDATE\n8-24-88\nPRODUCT REVIEW COMMITTEE\nPRODUCT CHANGE COMMITTEE\nPRODUCT ACCEPTANCE COMMITTEE\nA form section with fields for a spec holder's signature and date, and sections for product review, change, and acceptance committees, with signatures/initials in the review section::>",
+            "type": "attestation",
+            "id": "aea619a0-2e32-4251-9b7a-4e8d6bdf173c",
+            "grounding": {
+                "box": {
+                    "left": 0.65741366147995,
+                    "top": 0.7847865223884583,
+                    "right": 0.970757782459259,
+                    "bottom": 0.9751134514808655
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='0df7cd8c-3c4f-4ec3-a302-a3fa1b41a5ad'></a>\n\nRJRT\n\n<a id='ea8ec282-e3b9-4f5c-aad0-0a70258db8df'></a>\n\nREQUEST FOR CHANGE\nF-1001 7/88\n\n<a id='3ebb64ed-53f3-47c0-bae3-0590a0e0c449'></a>\n\n<::attestation: Initial/Signature for receipt\nSigned\nSignature: illegible\nRFC: 880031\nPage: 1 of 1\nDate: 8-24-88\nReceived By: H\nChange Order Number:\nA rectangular box with several fields, containing handwritten entries and an initial in the \"Received By\" field, positioned centrally.::>\n\n<a id='2321fb37-cd28-4db5-803c-347d988bee35'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">ORIGINATOR Name: Carolyn R. Carpenter</td><td id=\"0-3\">Date Prepared 8-24-88</td></tr>\n<tr><td id=\"0-4\">Position</td><td id=\"0-5\">Telephone No.</td></tr>\n<tr><td id=\"0-6\">Associate R&D Technologist</td><td id=\"0-7\">741-2483</td></tr>\n<tr><td id=\"0-8\">Department Name and Location</td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">R & D New Product Technology - BGTC</td><td id=\"0-b\"></td></tr>\n</table>\nBrand/Assembly/Material Affected\n\n<a id='c9d3f3ed-d87a-42c4-a746-bc3b77b140a0'></a>\n\nBrand/Assembly/Material Affected\nMenthol Product Delivery Specification\n\n<a id='c733d4aa-813f-49bc-9b83-cc083f3cbe08'></a>\n\nType of Change\n<table id=\"0-c\">\n<tr><td id=\"0-d\">Addition\nDeletion\nX Change</td><td id=\"0-e\">Design\nCompatibity\nManufacturability\nX Spec Change\nCost Reduction\nOther</td><td id=\"0-f\">Emergency\nUrgent\nX Routine</td></tr>\n</table>\n\n<a id='63cd929d-30dd-4265-b000-eb432dd998d6'></a>\n\nDescription of Problem\nInitial menthol product delivery specifications were developed based on data from one run in April 1988. Since that time several modifications to the product have been made. Specifications need to be revised to reflect acceptable delivery ranges of the current SP-6M product.\n\n<a id='df439b7b-8afd-4797-b106-a377cb577dc3'></a>\n\n51482 5049\n\nProposed Solution\nA sensory test was conducted on test products 8-033B and 8-035 to explore perceptual effects related to delivery extremes. From that test specification limits were recommended. Targets were verified on a recent menthol production run (8-049) using final production materials. The recommended specifications are attached.\n\n<a id='4817ce0d-334d-41c4-97a6-5436818de253'></a>\n\n<::attestation: Approval Box\nReadable Text: Accepted for Investigation, Signature, Title, Date\nDescription: A rectangular box with four labeled columns for acceptance of investigation.::>\n\n<a id='5bba4b39-46a6-4a98-93dc-0bef355134d9'></a>\n\nFinal Disposition\noption Approved: [ ]\noption Rejected: [ ]\n\nAction Taken or Reason for Rejection\n\nProposed Effective Date:\n\n<a id='aea619a0-2e32-4251-9b7a-4e8d6bdf173c'></a>\n\n<::attestation: Approval/Review form with signatures\n[Status indicators - signed/approved]\n[Signature: Caiolinh. Carpenter (legible), RDP KAN (legible)]\nSPEC HOLDER\nDATE\n8-24-88\nPRODUCT REVIEW COMMITTEE\nPRODUCT CHANGE COMMITTEE\nPRODUCT ACCEPTANCE COMMITTEE\nA form section with fields for a spec holder's signature and date, and sections for product review, change, and acceptance committees, with signatures/initials in the review section::>",
+            "chunks": [
+                "0df7cd8c-3c4f-4ec3-a302-a3fa1b41a5ad",
+                "ea8ec282-e3b9-4f5c-aad0-0a70258db8df",
+                "3ebb64ed-53f3-47c0-bae3-0590a0e0c449",
+                "2321fb37-cd28-4db5-803c-347d988bee35",
+                "c9d3f3ed-d87a-42c4-a746-bc3b77b140a0",
+                "c733d4aa-813f-49bc-9b83-cc083f3cbe08",
+                "63cd929d-30dd-4265-b000-eb432dd998d6",
+                "df439b7b-8afd-4797-b106-a377cb577dc3",
+                "4817ce0d-334d-41c4-97a6-5436818de253",
+                "5bba4b39-46a6-4a98-93dc-0bef355134d9",
+                "aea619a0-2e32-4251-9b7a-4e8d6bdf173c"
+            ]
+        }
+    ],
+    "grounding": {
+        "0df7cd8c-3c4f-4ec3-a302-a3fa1b41a5ad": {
+            "box": {
+                "left": 0.03464270383119583,
+                "top": 0.028412122279405594,
+                "right": 0.07959645241498947,
+                "bottom": 0.041969869285821915
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "ea8ec282-e3b9-4f5c-aad0-0a70258db8df": {
+            "box": {
+                "left": 0.3081779181957245,
+                "top": 0.025421425700187683,
+                "right": 0.4940721094608307,
+                "bottom": 0.05665705353021622
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3ebb64ed-53f3-47c0-bae3-0590a0e0c449": {
+            "box": {
+                "left": 0.7590464949607849,
+                "top": 0.02087688446044922,
+                "right": 0.9730449318885803,
+                "bottom": 0.1656506359577179
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "2321fb37-cd28-4db5-803c-347d988bee35": {
+            "box": {
+                "left": 0.03085726499557495,
+                "top": 0.06812068819999695,
+                "right": 0.7647850513458252,
+                "bottom": 0.17088690400123596
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.035772402965517286,
+                "top": 0.07177800387477529,
+                "right": 0.7604938797787284,
+                "bottom": 0.16230430504891302
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.035772402965517286,
+                "top": 0.07177800387477529,
+                "right": 0.5548503728690832,
+                "bottom": 0.10190209394696836
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.5548503728690832,
+                "top": 0.07177800387477529,
+                "right": 0.7605377565202396,
+                "bottom": 0.10190209394696836
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.035772402965517286,
+                "top": 0.10190209394696836,
+                "right": 0.5548503728690832,
+                "bottom": 0.11773247224674854
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5548503728690832,
+                "top": 0.10190209394696836,
+                "right": 0.7605377565202396,
+                "bottom": 0.11773247224674854
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.035772402965517286,
+                "top": 0.11773247224674854,
+                "right": 0.5548503728690832,
+                "bottom": 0.13202696346915843
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5548503728690832,
+                "top": 0.11773247224674854,
+                "right": 0.7605377565202396,
+                "bottom": 0.13202696346915843
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.035772402965517286,
+                "top": 0.13202696346915843,
+                "right": 0.5548503728690832,
+                "bottom": 0.14796237610153895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5548503728690832,
+                "top": 0.13202696346915843,
+                "right": 0.7605377565202396,
+                "bottom": 0.14796237610153895
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.035772402965517286,
+                "top": 0.14796237610153895,
+                "right": 0.5548503728690832,
+                "bottom": 0.16230430504891302
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5548503728690832,
+                "top": 0.14796237610153895,
+                "right": 0.7605377565202396,
+                "bottom": 0.16230430504891302
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "c9d3f3ed-d87a-42c4-a746-bc3b77b140a0": {
+            "box": {
+                "left": 0.03334346413612366,
+                "top": 0.15935979783535004,
+                "right": 0.9702135324478149,
+                "bottom": 0.1956329494714737
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c733d4aa-813f-49bc-9b83-cc083f3cbe08": {
+            "box": {
+                "left": 0.030779004096984863,
+                "top": 0.19255319237709045,
+                "right": 0.9711434841156006,
+                "bottom": 0.28680679202079773
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.03541249432504856,
+                "top": 0.20590798780362807,
+                "right": 0.9676300962745543,
+                "bottom": 0.2841770229192484
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.03541249432504856,
+                "top": 0.20590798780362807,
+                "right": 0.2893446027510045,
+                "bottom": 0.2841770229192484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.2893446027510045,
+                "top": 0.20590798780362807,
+                "right": 0.7629090453638625,
+                "bottom": 0.2841770229192484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7629090453638625,
+                "top": 0.20590798780362807,
+                "right": 0.9673826911738033,
+                "bottom": 0.2841770229192484
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "63cd929d-30dd-4265-b000-eb432dd998d6": {
+            "box": {
+                "left": 0.03150615096092224,
+                "top": 0.282062292098999,
+                "right": 0.9707906246185303,
+                "bottom": 0.5419921278953552
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "df439b7b-8afd-4797-b106-a377cb577dc3": {
+            "box": {
+                "left": 0.03133484721183777,
+                "top": 0.5406309962272644,
+                "right": 0.9706718921661377,
+                "bottom": 0.7278830409049988
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4817ce0d-334d-41c4-97a6-5436818de253": {
+            "box": {
+                "left": 0.031761497259140015,
+                "top": 0.7246658205986023,
+                "right": 0.9704567193984985,
+                "bottom": 0.7891308665275574
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "5bba4b39-46a6-4a98-93dc-0bef355134d9": {
+            "box": {
+                "left": 0.029608070850372314,
+                "top": 0.7846420407295227,
+                "right": 0.6644647121429443,
+                "bottom": 0.9748160243034363
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "aea619a0-2e32-4251-9b7a-4e8d6bdf173c": {
+            "box": {
+                "left": 0.65741366147995,
+                "top": 0.7847865223884583,
+                "right": 0.970757782459259,
+                "bottom": 0.9751134514808655
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        }
+    },
+    "metadata": {
+        "filename": "npbb0079_11.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10569,
+        "credit_usage": 3.0,
+        "job_id": "btsqk5sysrrmcgce0fcmp8cyv",
+        "version": "dpt-2-20250919"
+    }
+}

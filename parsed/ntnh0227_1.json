@@ -1,0 +1,328 @@
+{
+    "markdown": "<a id='0a75dbcc-7269-41a5-bef8-414f1adc76e4'></a>\n\n\"OUR BUSINESS HELPS YOUR BUSINESS\"\nDELIVERY RECEIPT\n\n<a id='68a0f17a-15b3-4e7a-ad79-20828940e68e'></a>\n\n<::logo: [Unknown]\n[No readable text]\nA stylized, anthropomorphic envelope with a turban is sitting on a patterned magic carpet.::>\n\n<a id='4c2c5df3-3fe8-4c71-8498-80ac172ac486'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Laman\nA handwritten signature centrally placed::>\n\n<a id='5941d86c-ecb9-4210-9612-0fcb14b9f402'></a>\n\nfor Letters, INC.\n\n<a id='4d690f88-a6b9-4906-a352-d6f6e93095bd'></a>\n\nAREA CODE 303\n744-6153\n\n<a id='63c616ed-ad9c-41e8-9151-dd292135e107'></a>\n\n2420 So. Delaware Street\nDenver, Colorado 80223\n\nDate: 11-17-70\nOur J. O. No.: A-4314\nCust. P. O. No.: ___\n\n<a id='bc12612f-1e57-4fb3-9858-9bbc9b0f483e'></a>\n\nTo: Great Western United\nEquitable Bldg. 17th Stout\nAttn: Barb MacDonald\nRoom 338\n\n<a id='e770bd85-db47-47e3-b139-c2894c198537'></a>\n\n<table><thead><tr><th>Quantity</th><th>Description</th></tr></thead><tbody><tr><td></td><td>Great Western 70 mag.<br>for Nov.</td></tr><tr><td></td><td>Returning</td></tr><tr><td>1200</td><td>magazines</td></tr><tr><td>6</td><td>mag. labeled with incomplete</td></tr><tr><td>32</td><td>labels & unable to find<br>zips</td></tr></tbody></table>\n\n<a id='399f2827-964c-4253-8674-4d425f8a52ad'></a>\n\nNo. of Packages (2)\nReceived By____________________\nDate____________________\n\n<a id='adb8ad53-f336-4bb0-9360-a06acf1ea941'></a>\n\nThank You -- your business is appreciated.\n\n<a id='13581472-4205-4947-bd14-a8544c12fd14'></a>\n\n37\n\n<a id='d53cb052-c267-426e-98ef-96740ccaef70'></a>\n\n37\nSource: https://www.industrydocuments.ucsf.edu/docs/smith0227 [illegible signature]",
+    "chunks": [
+        {
+            "markdown": "<a id='0a75dbcc-7269-41a5-bef8-414f1adc76e4'></a>\n\n\"OUR BUSINESS HELPS YOUR BUSINESS\"\nDELIVERY RECEIPT",
+            "type": "text",
+            "id": "0a75dbcc-7269-41a5-bef8-414f1adc76e4",
+            "grounding": {
+                "box": {
+                    "left": 0.23291942477226257,
+                    "top": 0.04129469394683838,
+                    "right": 0.7706000804901123,
+                    "bottom": 0.09112952649593353
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='68a0f17a-15b3-4e7a-ad79-20828940e68e'></a>\n\n<::logo: [Unknown]\n[No readable text]\nA stylized, anthropomorphic envelope with a turban is sitting on a patterned magic carpet.::>",
+            "type": "logo",
+            "id": "68a0f17a-15b3-4e7a-ad79-20828940e68e",
+            "grounding": {
+                "box": {
+                    "left": 0.03878674656152725,
+                    "top": 0.10218314826488495,
+                    "right": 0.2884162664413452,
+                    "bottom": 0.19955845177173615
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4c2c5df3-3fe8-4c71-8498-80ac172ac486'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Laman\nA handwritten signature centrally placed::>",
+            "type": "attestation",
+            "id": "4c2c5df3-3fe8-4c71-8498-80ac172ac486",
+            "grounding": {
+                "box": {
+                    "left": 0.2883746027946472,
+                    "top": 0.0945749431848526,
+                    "right": 0.5370320677757263,
+                    "bottom": 0.14523831009864807
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5941d86c-ecb9-4210-9612-0fcb14b9f402'></a>\n\nfor Letters, INC.",
+            "type": "text",
+            "id": "5941d86c-ecb9-4210-9612-0fcb14b9f402",
+            "grounding": {
+                "box": {
+                    "left": 0.5453765392303467,
+                    "top": 0.09239018708467484,
+                    "right": 0.9549567699432373,
+                    "bottom": 0.15028735995292664
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4d690f88-a6b9-4906-a352-d6f6e93095bd'></a>\n\nAREA CODE 303\n744-6153",
+            "type": "text",
+            "id": "4d690f88-a6b9-4906-a352-d6f6e93095bd",
+            "grounding": {
+                "box": {
+                    "left": 0.5472075939178467,
+                    "top": 0.15330730378627777,
+                    "right": 0.707248330116272,
+                    "bottom": 0.1925651878118515
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='63c616ed-ad9c-41e8-9151-dd292135e107'></a>\n\n2420 So. Delaware Street\nDenver, Colorado 80223\n\nDate: 11-17-70\nOur J. O. No.: A-4314\nCust. P. O. No.: ___",
+            "type": "text",
+            "id": "63c616ed-ad9c-41e8-9151-dd292135e107",
+            "grounding": {
+                "box": {
+                    "left": 0.051676809787750244,
+                    "top": 0.20000837743282318,
+                    "right": 0.9453820586204529,
+                    "bottom": 0.28991860151290894
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bc12612f-1e57-4fb3-9858-9bbc9b0f483e'></a>\n\nTo: Great Western United\nEquitable Bldg. 17th Stout\nAttn: Barb MacDonald\nRoom 338",
+            "type": "text",
+            "id": "bc12612f-1e57-4fb3-9858-9bbc9b0f483e",
+            "grounding": {
+                "box": {
+                    "left": 0.05353716015815735,
+                    "top": 0.295487642288208,
+                    "right": 0.9708985090255737,
+                    "bottom": 0.4574923515319824
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e770bd85-db47-47e3-b139-c2894c198537'></a>\n\n<table><thead><tr><th>Quantity</th><th>Description</th></tr></thead><tbody><tr><td></td><td>Great Western 70 mag.<br>for Nov.</td></tr><tr><td></td><td>Returning</td></tr><tr><td>1200</td><td>magazines</td></tr><tr><td>6</td><td>mag. labeled with incomplete</td></tr><tr><td>32</td><td>labels & unable to find<br>zips</td></tr></tbody></table>",
+            "type": "table",
+            "id": "e770bd85-db47-47e3-b139-c2894c198537",
+            "grounding": {
+                "box": {
+                    "left": 0.04921579360961914,
+                    "top": 0.4494253695011139,
+                    "right": 0.9948893785476685,
+                    "bottom": 0.8252383470535278
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='399f2827-964c-4253-8674-4d425f8a52ad'></a>\n\nNo. of Packages (2)\nReceived By____________________\nDate____________________",
+            "type": "text",
+            "id": "399f2827-964c-4253-8674-4d425f8a52ad",
+            "grounding": {
+                "box": {
+                    "left": 0.04650777578353882,
+                    "top": 0.8306772708892822,
+                    "right": 0.9278644323348999,
+                    "bottom": 0.9145916700363159
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='adb8ad53-f336-4bb0-9360-a06acf1ea941'></a>\n\nThank You -- your business is appreciated.",
+            "type": "text",
+            "id": "adb8ad53-f336-4bb0-9360-a06acf1ea941",
+            "grounding": {
+                "box": {
+                    "left": 0.0834672749042511,
+                    "top": 0.9227790236473083,
+                    "right": 0.8867164850234985,
+                    "bottom": 0.9470503926277161
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='13581472-4205-4947-bd14-a8544c12fd14'></a>\n\n37",
+            "type": "marginalia",
+            "id": "13581472-4205-4947-bd14-a8544c12fd14",
+            "grounding": {
+                "box": {
+                    "left": 0.048127010464668274,
+                    "top": 0.9505928754806519,
+                    "right": 0.09764514863491058,
+                    "bottom": 0.9719333648681641
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d53cb052-c267-426e-98ef-96740ccaef70'></a>\n\n37\nSource: https://www.industrydocuments.ucsf.edu/docs/smith0227 [illegible signature]",
+            "type": "text",
+            "id": "d53cb052-c267-426e-98ef-96740ccaef70",
+            "grounding": {
+                "box": {
+                    "left": 0.027861833572387695,
+                    "top": 0.9566614627838135,
+                    "right": 0.9752564430236816,
+                    "bottom": 0.999561071395874
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='0a75dbcc-7269-41a5-bef8-414f1adc76e4'></a>\n\n\"OUR BUSINESS HELPS YOUR BUSINESS\"\nDELIVERY RECEIPT\n\n<a id='68a0f17a-15b3-4e7a-ad79-20828940e68e'></a>\n\n<::logo: [Unknown]\n[No readable text]\nA stylized, anthropomorphic envelope with a turban is sitting on a patterned magic carpet.::>\n\n<a id='4c2c5df3-3fe8-4c71-8498-80ac172ac486'></a>\n\n<::attestation: Signature\nSignature: legible\nReadable Text: Laman\nA handwritten signature centrally placed::>\n\n<a id='5941d86c-ecb9-4210-9612-0fcb14b9f402'></a>\n\nfor Letters, INC.\n\n<a id='4d690f88-a6b9-4906-a352-d6f6e93095bd'></a>\n\nAREA CODE 303\n744-6153\n\n<a id='63c616ed-ad9c-41e8-9151-dd292135e107'></a>\n\n2420 So. Delaware Street\nDenver, Colorado 80223\n\nDate: 11-17-70\nOur J. O. No.: A-4314\nCust. P. O. No.: ___\n\n<a id='bc12612f-1e57-4fb3-9858-9bbc9b0f483e'></a>\n\nTo: Great Western United\nEquitable Bldg. 17th Stout\nAttn: Barb MacDonald\nRoom 338\n\n<a id='e770bd85-db47-47e3-b139-c2894c198537'></a>\n\n<table><thead><tr><th>Quantity</th><th>Description</th></tr></thead><tbody><tr><td></td><td>Great Western 70 mag.<br>for Nov.</td></tr><tr><td></td><td>Returning</td></tr><tr><td>1200</td><td>magazines</td></tr><tr><td>6</td><td>mag. labeled with incomplete</td></tr><tr><td>32</td><td>labels & unable to find<br>zips</td></tr></tbody></table>\n\n<a id='399f2827-964c-4253-8674-4d425f8a52ad'></a>\n\nNo. of Packages (2)\nReceived By____________________\nDate____________________\n\n<a id='adb8ad53-f336-4bb0-9360-a06acf1ea941'></a>\n\nThank You -- your business is appreciated.\n\n<a id='13581472-4205-4947-bd14-a8544c12fd14'></a>\n\n37\n\n<a id='d53cb052-c267-426e-98ef-96740ccaef70'></a>\n\n37\nSource: https://www.industrydocuments.ucsf.edu/docs/smith0227 [illegible signature]",
+            "chunks": [
+                "0a75dbcc-7269-41a5-bef8-414f1adc76e4",
+                "68a0f17a-15b3-4e7a-ad79-20828940e68e",
+                "4c2c5df3-3fe8-4c71-8498-80ac172ac486",
+                "5941d86c-ecb9-4210-9612-0fcb14b9f402",
+                "4d690f88-a6b9-4906-a352-d6f6e93095bd",
+                "63c616ed-ad9c-41e8-9151-dd292135e107",
+                "bc12612f-1e57-4fb3-9858-9bbc9b0f483e",
+                "e770bd85-db47-47e3-b139-c2894c198537",
+                "399f2827-964c-4253-8674-4d425f8a52ad",
+                "adb8ad53-f336-4bb0-9360-a06acf1ea941",
+                "13581472-4205-4947-bd14-a8544c12fd14",
+                "d53cb052-c267-426e-98ef-96740ccaef70"
+            ]
+        }
+    ],
+    "grounding": {
+        "0a75dbcc-7269-41a5-bef8-414f1adc76e4": {
+            "box": {
+                "left": 0.23291942477226257,
+                "top": 0.04129469394683838,
+                "right": 0.7706000804901123,
+                "bottom": 0.09112952649593353
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "68a0f17a-15b3-4e7a-ad79-20828940e68e": {
+            "box": {
+                "left": 0.03878674656152725,
+                "top": 0.10218314826488495,
+                "right": 0.2884162664413452,
+                "bottom": 0.19955845177173615
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "4c2c5df3-3fe8-4c71-8498-80ac172ac486": {
+            "box": {
+                "left": 0.2883746027946472,
+                "top": 0.0945749431848526,
+                "right": 0.5370320677757263,
+                "bottom": 0.14523831009864807
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "5941d86c-ecb9-4210-9612-0fcb14b9f402": {
+            "box": {
+                "left": 0.5453765392303467,
+                "top": 0.09239018708467484,
+                "right": 0.9549567699432373,
+                "bottom": 0.15028735995292664
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4d690f88-a6b9-4906-a352-d6f6e93095bd": {
+            "box": {
+                "left": 0.5472075939178467,
+                "top": 0.15330730378627777,
+                "right": 0.707248330116272,
+                "bottom": 0.1925651878118515
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "63c616ed-ad9c-41e8-9151-dd292135e107": {
+            "box": {
+                "left": 0.051676809787750244,
+                "top": 0.20000837743282318,
+                "right": 0.9453820586204529,
+                "bottom": 0.28991860151290894
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bc12612f-1e57-4fb3-9858-9bbc9b0f483e": {
+            "box": {
+                "left": 0.05353716015815735,
+                "top": 0.295487642288208,
+                "right": 0.9708985090255737,
+                "bottom": 0.4574923515319824
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e770bd85-db47-47e3-b139-c2894c198537": {
+            "box": {
+                "left": 0.04921579360961914,
+                "top": 0.4494253695011139,
+                "right": 0.9948893785476685,
+                "bottom": 0.8252383470535278
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "399f2827-964c-4253-8674-4d425f8a52ad": {
+            "box": {
+                "left": 0.04650777578353882,
+                "top": 0.8306772708892822,
+                "right": 0.9278644323348999,
+                "bottom": 0.9145916700363159
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "adb8ad53-f336-4bb0-9360-a06acf1ea941": {
+            "box": {
+                "left": 0.0834672749042511,
+                "top": 0.9227790236473083,
+                "right": 0.8867164850234985,
+                "bottom": 0.9470503926277161
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "13581472-4205-4947-bd14-a8544c12fd14": {
+            "box": {
+                "left": 0.048127010464668274,
+                "top": 0.9505928754806519,
+                "right": 0.09764514863491058,
+                "bottom": 0.9719333648681641
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "d53cb052-c267-426e-98ef-96740ccaef70": {
+            "box": {
+                "left": 0.027861833572387695,
+                "top": 0.9566614627838135,
+                "right": 0.9752564430236816,
+                "bottom": 0.999561071395874
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "ntnh0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7614,
+        "credit_usage": 3.0,
+        "job_id": "md37qcclbsd3pwy9j9s1pegar",
+        "version": "dpt-2-20250919"
+    }
+}

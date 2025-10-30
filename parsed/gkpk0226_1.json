@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='4e85576b-bd96-4a9f-9da8-e2c7f665ccb1'></a>\n\n<::attestation: Signature\nillegible\nRoul/Vella/Amster Cap\nStylized handwritten text in the center of the image::>\n\n<a id='4c38163a-bb7c-4447-80a2-625fdb87bb16'></a>\n\n<::logo: Amstar\nAmstar CORPORATION\nThe logo features the word \"Amstar\" with a star integrated into the letter 'A', and \"CORPORATION\" written below in a smaller font.::>\n\n<a id='05b2a97e-e093-40ac-8aec-32467a21b0db'></a>\n\n1251 AVENUE OF THE AMERICAS, NEW YORK, N.Y. 10020 (212) 489-9000\n\n<a id='9fac5765-5ba1-4295-b27a-5cdfb2778f6b'></a>\n\nResearch & Development Division\n266 Kent Avenue\nBrooklyn, New York 11211\n\n<a id='6f298d50-75e8-4f7b-a748-a58d4e342929'></a>\n\nJuly 23, 1976\n\n<a id='ebeec0f6-2c53-499a-aaeb-d7cc0caba934'></a>\n\nDr. Paul Saltman\nUniversity of California, San Diego\nOffice of the Vice Chancellor-\nAcademic Affairs\nLaJolla, CA 92093\n\n<a id='01217efa-fd44-4f16-9f50-a281cc22a998'></a>\n\nDear Paul:\n\nEnclosed is a check for $419.00 representing your\nexpenses in connection with our Food and Nutrition Advisory\nCouncil meeting. We were very pleased that you were able\nto attend.\n\n<a id='c24514b6-e26f-47d1-84fc-02b3766c6e77'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nSincerely yours,\nA. B. Rizzuto\nDirector of Research\nThe signature \"A. B. Rizzuto\" is centrally located below \"Sincerely yours,\" and above the typed name and title.\n::>\n\n<a id='468d5407-512f-424b-b7b6-52ad57ef3480'></a>\n\nABR/jf\nEnc.\n\n<a id='f4a4f5b7-b6a3-4823-b66c-0ebdf25320af'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gkpk0226",
+    "chunks": [
+        {
+            "markdown": "<a id='4e85576b-bd96-4a9f-9da8-e2c7f665ccb1'></a>\n\n<::attestation: Signature\nillegible\nRoul/Vella/Amster Cap\nStylized handwritten text in the center of the image::>",
+            "type": "attestation",
+            "id": "4e85576b-bd96-4a9f-9da8-e2c7f665ccb1",
+            "grounding": {
+                "box": {
+                    "left": 0.6784471869468689,
+                    "top": -2.2996217012405396e-05,
+                    "right": 0.9817997813224792,
+                    "bottom": 0.03243856132030487
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4c38163a-bb7c-4447-80a2-625fdb87bb16'></a>\n\n<::logo: Amstar\nAmstar CORPORATION\nThe logo features the word \"Amstar\" with a star integrated into the letter 'A', and \"CORPORATION\" written below in a smaller font.::>",
+            "type": "logo",
+            "id": "4c38163a-bb7c-4447-80a2-625fdb87bb16",
+            "grounding": {
+                "box": {
+                    "left": 0.16792526841163635,
+                    "top": 0.07271747291088104,
+                    "right": 0.34215232729911804,
+                    "bottom": 0.13430282473564148
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='05b2a97e-e093-40ac-8aec-32467a21b0db'></a>\n\n1251 AVENUE OF THE AMERICAS, NEW YORK, N.Y. 10020 (212) 489-9000",
+            "type": "text",
+            "id": "05b2a97e-e093-40ac-8aec-32467a21b0db",
+            "grounding": {
+                "box": {
+                    "left": 0.12362128496170044,
+                    "top": 0.14263655245304108,
+                    "right": 0.8637932538986206,
+                    "bottom": 0.16411395370960236
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9fac5765-5ba1-4295-b27a-5cdfb2778f6b'></a>\n\nResearch & Development Division\n266 Kent Avenue\nBrooklyn, New York 11211",
+            "type": "text",
+            "id": "9fac5765-5ba1-4295-b27a-5cdfb2778f6b",
+            "grounding": {
+                "box": {
+                    "left": 0.12922371923923492,
+                    "top": 0.18531687557697296,
+                    "right": 0.5049956440925598,
+                    "bottom": 0.24244274199008942
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6f298d50-75e8-4f7b-a748-a58d4e342929'></a>\n\nJuly 23, 1976",
+            "type": "text",
+            "id": "6f298d50-75e8-4f7b-a748-a58d4e342929",
+            "grounding": {
+                "box": {
+                    "left": 0.6338201761245728,
+                    "top": 0.32439619302749634,
+                    "right": 0.7984280586242676,
+                    "bottom": 0.3468812108039856
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ebeec0f6-2c53-499a-aaeb-d7cc0caba934'></a>\n\nDr. Paul Saltman\nUniversity of California, San Diego\nOffice of the Vice Chancellor-\nAcademic Affairs\nLaJolla, CA 92093",
+            "type": "text",
+            "id": "ebeec0f6-2c53-499a-aaeb-d7cc0caba934",
+            "grounding": {
+                "box": {
+                    "left": 0.12831155955791473,
+                    "top": 0.3927491307258606,
+                    "right": 0.5533464550971985,
+                    "bottom": 0.48694753646850586
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='01217efa-fd44-4f16-9f50-a281cc22a998'></a>\n\nDear Paul:\n\nEnclosed is a check for $419.00 representing your\nexpenses in connection with our Food and Nutrition Advisory\nCouncil meeting. We were very pleased that you were able\nto attend.",
+            "type": "text",
+            "id": "01217efa-fd44-4f16-9f50-a281cc22a998",
+            "grounding": {
+                "box": {
+                    "left": 0.12875980138778687,
+                    "top": 0.49929529428482056,
+                    "right": 0.8315865397453308,
+                    "bottom": 0.6076748967170715
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c24514b6-e26f-47d1-84fc-02b3766c6e77'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nSincerely yours,\nA. B. Rizzuto\nDirector of Research\nThe signature \"A. B. Rizzuto\" is centrally located below \"Sincerely yours,\" and above the typed name and title.\n::>",
+            "type": "attestation",
+            "id": "c24514b6-e26f-47d1-84fc-02b3766c6e77",
+            "grounding": {
+                "box": {
+                    "left": 0.622072696685791,
+                    "top": 0.6196262836456299,
+                    "right": 0.8920440673828125,
+                    "bottom": 0.747421145439148
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='468d5407-512f-424b-b7b6-52ad57ef3480'></a>\n\nABR/jf\nEnc.",
+            "type": "text",
+            "id": "468d5407-512f-424b-b7b6-52ad57ef3480",
+            "grounding": {
+                "box": {
+                    "left": 0.12807095050811768,
+                    "top": 0.7581204175949097,
+                    "right": 0.21092316508293152,
+                    "bottom": 0.7966747283935547
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f4a4f5b7-b6a3-4823-b66c-0ebdf25320af'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gkpk0226",
+            "type": "marginalia",
+            "id": "f4a4f5b7-b6a3-4823-b66c-0ebdf25320af",
+            "grounding": {
+                "box": {
+                    "left": 0.21229729056358337,
+                    "top": 0.9776424169540405,
+                    "right": 0.7880352735519409,
+                    "bottom": 0.9996362924575806
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4e85576b-bd96-4a9f-9da8-e2c7f665ccb1'></a>\n\n<::attestation: Signature\nillegible\nRoul/Vella/Amster Cap\nStylized handwritten text in the center of the image::>\n\n<a id='4c38163a-bb7c-4447-80a2-625fdb87bb16'></a>\n\n<::logo: Amstar\nAmstar CORPORATION\nThe logo features the word \"Amstar\" with a star integrated into the letter 'A', and \"CORPORATION\" written below in a smaller font.::>\n\n<a id='05b2a97e-e093-40ac-8aec-32467a21b0db'></a>\n\n1251 AVENUE OF THE AMERICAS, NEW YORK, N.Y. 10020 (212) 489-9000\n\n<a id='9fac5765-5ba1-4295-b27a-5cdfb2778f6b'></a>\n\nResearch & Development Division\n266 Kent Avenue\nBrooklyn, New York 11211\n\n<a id='6f298d50-75e8-4f7b-a748-a58d4e342929'></a>\n\nJuly 23, 1976\n\n<a id='ebeec0f6-2c53-499a-aaeb-d7cc0caba934'></a>\n\nDr. Paul Saltman\nUniversity of California, San Diego\nOffice of the Vice Chancellor-\nAcademic Affairs\nLaJolla, CA 92093\n\n<a id='01217efa-fd44-4f16-9f50-a281cc22a998'></a>\n\nDear Paul:\n\nEnclosed is a check for $419.00 representing your\nexpenses in connection with our Food and Nutrition Advisory\nCouncil meeting. We were very pleased that you were able\nto attend.\n\n<a id='c24514b6-e26f-47d1-84fc-02b3766c6e77'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nSincerely yours,\nA. B. Rizzuto\nDirector of Research\nThe signature \"A. B. Rizzuto\" is centrally located below \"Sincerely yours,\" and above the typed name and title.\n::>\n\n<a id='468d5407-512f-424b-b7b6-52ad57ef3480'></a>\n\nABR/jf\nEnc.\n\n<a id='f4a4f5b7-b6a3-4823-b66c-0ebdf25320af'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gkpk0226",
+            "chunks": [
+                "4e85576b-bd96-4a9f-9da8-e2c7f665ccb1",
+                "4c38163a-bb7c-4447-80a2-625fdb87bb16",
+                "05b2a97e-e093-40ac-8aec-32467a21b0db",
+                "9fac5765-5ba1-4295-b27a-5cdfb2778f6b",
+                "6f298d50-75e8-4f7b-a748-a58d4e342929",
+                "ebeec0f6-2c53-499a-aaeb-d7cc0caba934",
+                "01217efa-fd44-4f16-9f50-a281cc22a998",
+                "c24514b6-e26f-47d1-84fc-02b3766c6e77",
+                "468d5407-512f-424b-b7b6-52ad57ef3480",
+                "f4a4f5b7-b6a3-4823-b66c-0ebdf25320af"
+            ]
+        }
+    ],
+    "grounding": {
+        "4e85576b-bd96-4a9f-9da8-e2c7f665ccb1": {
+            "box": {
+                "left": 0.6784471869468689,
+                "top": -2.2996217012405396e-05,
+                "right": 0.9817997813224792,
+                "bottom": 0.03243856132030487
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "4c38163a-bb7c-4447-80a2-625fdb87bb16": {
+            "box": {
+                "left": 0.16792526841163635,
+                "top": 0.07271747291088104,
+                "right": 0.34215232729911804,
+                "bottom": 0.13430282473564148
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "05b2a97e-e093-40ac-8aec-32467a21b0db": {
+            "box": {
+                "left": 0.12362128496170044,
+                "top": 0.14263655245304108,
+                "right": 0.8637932538986206,
+                "bottom": 0.16411395370960236
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9fac5765-5ba1-4295-b27a-5cdfb2778f6b": {
+            "box": {
+                "left": 0.12922371923923492,
+                "top": 0.18531687557697296,
+                "right": 0.5049956440925598,
+                "bottom": 0.24244274199008942
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6f298d50-75e8-4f7b-a748-a58d4e342929": {
+            "box": {
+                "left": 0.6338201761245728,
+                "top": 0.32439619302749634,
+                "right": 0.7984280586242676,
+                "bottom": 0.3468812108039856
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ebeec0f6-2c53-499a-aaeb-d7cc0caba934": {
+            "box": {
+                "left": 0.12831155955791473,
+                "top": 0.3927491307258606,
+                "right": 0.5533464550971985,
+                "bottom": 0.48694753646850586
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "01217efa-fd44-4f16-9f50-a281cc22a998": {
+            "box": {
+                "left": 0.12875980138778687,
+                "top": 0.49929529428482056,
+                "right": 0.8315865397453308,
+                "bottom": 0.6076748967170715
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c24514b6-e26f-47d1-84fc-02b3766c6e77": {
+            "box": {
+                "left": 0.622072696685791,
+                "top": 0.6196262836456299,
+                "right": 0.8920440673828125,
+                "bottom": 0.747421145439148
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "468d5407-512f-424b-b7b6-52ad57ef3480": {
+            "box": {
+                "left": 0.12807095050811768,
+                "top": 0.7581204175949097,
+                "right": 0.21092316508293152,
+                "bottom": 0.7966747283935547
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f4a4f5b7-b6a3-4823-b66c-0ebdf25320af": {
+            "box": {
+                "left": 0.21229729056358337,
+                "top": 0.9776424169540405,
+                "right": 0.7880352735519409,
+                "bottom": 0.9996362924575806
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "gkpk0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3841,
+        "credit_usage": 3.0,
+        "job_id": "xlctxa0jbn17ph6bv0k49qaet",
+        "version": "dpt-2-20250919"
+    }
+}

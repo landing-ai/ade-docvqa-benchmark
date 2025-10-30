@@ -1,0 +1,348 @@
+{
+    "markdown": "<a id='fc03b242-cce0-42e2-ba50-181391c505f4'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">#</td><td id=\"0-3\">CREDITOR NAME</td><td id=\"0-4\">TYPE</td><td id=\"0-5\">AMOUNT</td><td id=\"0-6\">YEAR INCURRED</td><td id=\"0-7\">RATE</td><td id=\"0-8\">TERM</td></tr>\n<tr><td id=\"0-9\">4</td><td id=\"0-a\">Whitaker Bank, Stanton, Kentucky</td><td id=\"0-b\">Mortgage (investment/rental property)</td><td id=\"0-c\">$50,001 - $100,000</td><td id=\"0-d\">2008</td><td id=\"0-e\">variable</td><td id=\"0-f\">15 years</td></tr>\n<tr><td id=\"0-g\">5</td><td id=\"0-h\">Whitaker Bank, Stanton, Kentucky</td><td id=\"0-i\">Exercised Line of Credit</td><td id=\"0-j\">$10,001 - $15,000</td><td id=\"0-k\">2017</td><td id=\"0-l\">variable</td><td id=\"0-m\">open ended</td></tr>\n</table>\n\n<a id='48914f8c-d3f7-41fa-8128-1ff5951540e0'></a>\n\n9. Gifts and Travel Reimbursements\n(N/A) - Not required for this type of report\n\n<a id='be7b7dc8-10d6-46b8-a759-77008ea708a2'></a>\n\nEndnotes\n\n<a id='a7737d0e-eb38-4020-a1a0-0a1de10e3362'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jsbn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='fc03b242-cce0-42e2-ba50-181391c505f4'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">#</td><td id=\"0-3\">CREDITOR NAME</td><td id=\"0-4\">TYPE</td><td id=\"0-5\">AMOUNT</td><td id=\"0-6\">YEAR INCURRED</td><td id=\"0-7\">RATE</td><td id=\"0-8\">TERM</td></tr>\n<tr><td id=\"0-9\">4</td><td id=\"0-a\">Whitaker Bank, Stanton, Kentucky</td><td id=\"0-b\">Mortgage (investment/rental property)</td><td id=\"0-c\">$50,001 - $100,000</td><td id=\"0-d\">2008</td><td id=\"0-e\">variable</td><td id=\"0-f\">15 years</td></tr>\n<tr><td id=\"0-g\">5</td><td id=\"0-h\">Whitaker Bank, Stanton, Kentucky</td><td id=\"0-i\">Exercised Line of Credit</td><td id=\"0-j\">$10,001 - $15,000</td><td id=\"0-k\">2017</td><td id=\"0-l\">variable</td><td id=\"0-m\">open ended</td></tr>\n</table>",
+            "type": "table",
+            "id": "fc03b242-cce0-42e2-ba50-181391c505f4",
+            "grounding": {
+                "box": {
+                    "left": 0.03076183795928955,
+                    "top": 0.05936889350414276,
+                    "right": 0.9713026285171509,
+                    "bottom": 0.23842699825763702
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='48914f8c-d3f7-41fa-8128-1ff5951540e0'></a>\n\n9. Gifts and Travel Reimbursements\n(N/A) - Not required for this type of report",
+            "type": "text",
+            "id": "48914f8c-d3f7-41fa-8128-1ff5951540e0",
+            "grounding": {
+                "box": {
+                    "left": 0.030398130416870117,
+                    "top": 0.2695574462413788,
+                    "right": 0.31885045766830444,
+                    "bottom": 0.37451663613319397
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='be7b7dc8-10d6-46b8-a759-77008ea708a2'></a>\n\nEndnotes",
+            "type": "text",
+            "id": "be7b7dc8-10d6-46b8-a759-77008ea708a2",
+            "grounding": {
+                "box": {
+                    "left": 0.03121386468410492,
+                    "top": 0.41999876499176025,
+                    "right": 0.11457350850105286,
+                    "bottom": 0.4563612937927246
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a7737d0e-eb38-4020-a1a0-0a1de10e3362'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jsbn0226",
+            "type": "marginalia",
+            "id": "a7737d0e-eb38-4020-a1a0-0a1de10e3362",
+            "grounding": {
+                "box": {
+                    "left": 0.2929888963699341,
+                    "top": 0.9686819314956665,
+                    "right": 0.7075129747390747,
+                    "bottom": 1.000215768814087
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='fc03b242-cce0-42e2-ba50-181391c505f4'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">#</td><td id=\"0-3\">CREDITOR NAME</td><td id=\"0-4\">TYPE</td><td id=\"0-5\">AMOUNT</td><td id=\"0-6\">YEAR INCURRED</td><td id=\"0-7\">RATE</td><td id=\"0-8\">TERM</td></tr>\n<tr><td id=\"0-9\">4</td><td id=\"0-a\">Whitaker Bank, Stanton, Kentucky</td><td id=\"0-b\">Mortgage (investment/rental property)</td><td id=\"0-c\">$50,001 - $100,000</td><td id=\"0-d\">2008</td><td id=\"0-e\">variable</td><td id=\"0-f\">15 years</td></tr>\n<tr><td id=\"0-g\">5</td><td id=\"0-h\">Whitaker Bank, Stanton, Kentucky</td><td id=\"0-i\">Exercised Line of Credit</td><td id=\"0-j\">$10,001 - $15,000</td><td id=\"0-k\">2017</td><td id=\"0-l\">variable</td><td id=\"0-m\">open ended</td></tr>\n</table>\n\n<a id='48914f8c-d3f7-41fa-8128-1ff5951540e0'></a>\n\n9. Gifts and Travel Reimbursements\n(N/A) - Not required for this type of report\n\n<a id='be7b7dc8-10d6-46b8-a759-77008ea708a2'></a>\n\nEndnotes\n\n<a id='a7737d0e-eb38-4020-a1a0-0a1de10e3362'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/jsbn0226",
+            "chunks": [
+                "fc03b242-cce0-42e2-ba50-181391c505f4",
+                "48914f8c-d3f7-41fa-8128-1ff5951540e0",
+                "be7b7dc8-10d6-46b8-a759-77008ea708a2",
+                "a7737d0e-eb38-4020-a1a0-0a1de10e3362"
+            ]
+        }
+    ],
+    "grounding": {
+        "fc03b242-cce0-42e2-ba50-181391c505f4": {
+            "box": {
+                "left": 0.03076183795928955,
+                "top": 0.05936889350414276,
+                "right": 0.9713026285171509,
+                "bottom": 0.23842699825763702
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.03413928302579572,
+                "top": 0.06567494123277495,
+                "right": 0.9680091804049198,
+                "bottom": 0.22913846665431237
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.03413928302579572,
+                "top": 0.06567494123277495,
+                "right": 0.06959350875530745,
+                "bottom": 0.11132805930811518
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.06959350875530745,
+                "top": 0.06567494123277495,
+                "right": 0.2883862216907147,
+                "bottom": 0.11132805930811518
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.2883862216907147,
+                "top": 0.06567494123277495,
+                "right": 0.5474162128388684,
+                "bottom": 0.11132805930811518
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5474162128388684,
+                "top": 0.06567494123277495,
+                "right": 0.617907483651436,
+                "bottom": 0.11132805930811518
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.617907483651436,
+                "top": 0.06567494123277495,
+                "right": 0.725133471519996,
+                "bottom": 0.11132805930811518
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.725133471519996,
+                "top": 0.06567494123277495,
+                "right": 0.8151685325456413,
+                "bottom": 0.11132805930811518
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.8151685325456413,
+                "top": 0.06567494123277495,
+                "right": 0.9680294743420177,
+                "bottom": 0.11132805930811518
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.03413928302579572,
+                "top": 0.11132805930811518,
+                "right": 0.06959350875530745,
+                "bottom": 0.17877821460197119
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.06959350875530745,
+                "top": 0.11132805930811518,
+                "right": 0.2883862216907147,
+                "bottom": 0.17877821460197119
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.2883862216907147,
+                "top": 0.11132805930811518,
+                "right": 0.5474162128388684,
+                "bottom": 0.17877821460197119
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5474162128388684,
+                "top": 0.11132805930811518,
+                "right": 0.617907483651436,
+                "bottom": 0.17877821460197119
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.617907483651436,
+                "top": 0.11132805930811518,
+                "right": 0.725133471519996,
+                "bottom": 0.17877821460197119
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.725133471519996,
+                "top": 0.11132805930811518,
+                "right": 0.8151685325456413,
+                "bottom": 0.17877821460197119
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.8151685325456413,
+                "top": 0.11132805930811518,
+                "right": 0.9680294743420177,
+                "bottom": 0.17877821460197119
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.03413928302579572,
+                "top": 0.17877821460197119,
+                "right": 0.06959350875530745,
+                "bottom": 0.22913846665431237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.06959350875530745,
+                "top": 0.17877821460197119,
+                "right": 0.2883862216907147,
+                "bottom": 0.22913846665431237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.2883862216907147,
+                "top": 0.17877821460197119,
+                "right": 0.5474162128388684,
+                "bottom": 0.22913846665431237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5474162128388684,
+                "top": 0.17877821460197119,
+                "right": 0.617907483651436,
+                "bottom": 0.22913846665431237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.617907483651436,
+                "top": 0.17877821460197119,
+                "right": 0.725133471519996,
+                "bottom": 0.22913846665431237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.725133471519996,
+                "top": 0.17877821460197119,
+                "right": 0.8151685325456413,
+                "bottom": 0.22913846665431237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.8151685325456413,
+                "top": 0.17877821460197119,
+                "right": 0.9680294743420177,
+                "bottom": 0.22913846665431237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "48914f8c-d3f7-41fa-8128-1ff5951540e0": {
+            "box": {
+                "left": 0.030398130416870117,
+                "top": 0.2695574462413788,
+                "right": 0.31885045766830444,
+                "bottom": 0.37451663613319397
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "be7b7dc8-10d6-46b8-a759-77008ea708a2": {
+            "box": {
+                "left": 0.03121386468410492,
+                "top": 0.41999876499176025,
+                "right": 0.11457350850105286,
+                "bottom": 0.4563612937927246
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a7737d0e-eb38-4020-a1a0-0a1de10e3362": {
+            "box": {
+                "left": 0.2929888963699341,
+                "top": 0.9686819314956665,
+                "right": 0.7075129747390747,
+                "bottom": 1.000215768814087
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "jsbn0226_6.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5551,
+        "credit_usage": 3.0,
+        "job_id": "m0nzcj6agd2ux65qj6n7zwbnt",
+        "version": "dpt-2-20250919"
+    }
+}

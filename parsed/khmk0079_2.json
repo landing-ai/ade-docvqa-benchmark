@@ -1,0 +1,313 @@
+{
+    "markdown": "<a id='bc22f398-5d94-4565-bb5a-6315bd1b1eec'></a>\n\nCENTURY DEFENSE PLAN\nAVERAGE MONTH REACH & FREQUENCY\n\n<a id='e7f9b1fd-fde0-4a86-985d-d38fa19c373e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Print</td><td id=\"0-3\">National Plan</td><td id=\"0-4\">Defense Plan July - September</td></tr>\n<tr><td id=\"0-5\">Total Adults</td><td id=\"0-6\"></td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">GRP's</td><td id=\"0-9\">183</td><td id=\"0-a\">360</td></tr>\n<tr><td id=\"0-b\">Reach</td><td id=\"0-c\">79</td><td id=\"0-d\">91</td></tr>\n<tr><td id=\"0-e\">Frequency</td><td id=\"0-f\">2.3</td><td id=\"0-g\">4.0</td></tr>\n</table>\n\n<a id='d9616894-4ae8-4ac9-8062-88a4abfa467b'></a>\n\nTarget Audience*\n<table><thead><tr><th></th><th>Col 1</th><th>Col 2</th></tr></thead><tbody><tr><td>GRP's</td><td>168</td><td>331</td></tr><tr><td>Reach</td><td>74</td><td>86</td></tr><tr><td>Frequency</td><td>2.3</td><td>3.8</td></tr></tbody></table>\n\n<a id='9cc57965-b7e4-4f4d-8ccb-0cee70576f68'></a>\n\n*Adults 25+\n\n<a id='e4ff0ecd-587b-4d27-be1f-8f45eb23cbe9'></a>\n\nSC575 1318",
+    "chunks": [
+        {
+            "markdown": "<a id='bc22f398-5d94-4565-bb5a-6315bd1b1eec'></a>\n\nCENTURY DEFENSE PLAN\nAVERAGE MONTH REACH & FREQUENCY",
+            "type": "text",
+            "id": "bc22f398-5d94-4565-bb5a-6315bd1b1eec",
+            "grounding": {
+                "box": {
+                    "left": 0.36024296283721924,
+                    "top": 0.10799793154001236,
+                    "right": 0.6838912963867188,
+                    "bottom": 0.16869226098060608
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e7f9b1fd-fde0-4a86-985d-d38fa19c373e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Print</td><td id=\"0-3\">National Plan</td><td id=\"0-4\">Defense Plan July - September</td></tr>\n<tr><td id=\"0-5\">Total Adults</td><td id=\"0-6\"></td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">GRP's</td><td id=\"0-9\">183</td><td id=\"0-a\">360</td></tr>\n<tr><td id=\"0-b\">Reach</td><td id=\"0-c\">79</td><td id=\"0-d\">91</td></tr>\n<tr><td id=\"0-e\">Frequency</td><td id=\"0-f\">2.3</td><td id=\"0-g\">4.0</td></tr>\n</table>",
+            "type": "table",
+            "id": "e7f9b1fd-fde0-4a86-985d-d38fa19c373e",
+            "grounding": {
+                "box": {
+                    "left": 0.11474752426147461,
+                    "top": 0.21699249744415283,
+                    "right": 0.7835413813591003,
+                    "bottom": 0.38385313749313354
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d9616894-4ae8-4ac9-8062-88a4abfa467b'></a>\n\nTarget Audience*\n<table><thead><tr><th></th><th>Col 1</th><th>Col 2</th></tr></thead><tbody><tr><td>GRP's</td><td>168</td><td>331</td></tr><tr><td>Reach</td><td>74</td><td>86</td></tr><tr><td>Frequency</td><td>2.3</td><td>3.8</td></tr></tbody></table>",
+            "type": "table",
+            "id": "d9616894-4ae8-4ac9-8062-88a4abfa467b",
+            "grounding": {
+                "box": {
+                    "left": 0.11580172181129456,
+                    "top": 0.44670090079307556,
+                    "right": 0.7046786546707153,
+                    "bottom": 0.5645277500152588
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9cc57965-b7e4-4f4d-8ccb-0cee70576f68'></a>\n\n*Adults 25+",
+            "type": "marginalia",
+            "id": "9cc57965-b7e4-4f4d-8ccb-0cee70576f68",
+            "grounding": {
+                "box": {
+                    "left": 0.11418886482715607,
+                    "top": 0.6918095946311951,
+                    "right": 0.23789556324481964,
+                    "bottom": 0.7156445384025574
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e4ff0ecd-587b-4d27-be1f-8f45eb23cbe9'></a>\n\nSC575 1318",
+            "type": "marginalia",
+            "id": "e4ff0ecd-587b-4d27-be1f-8f45eb23cbe9",
+            "grounding": {
+                "box": {
+                    "left": 0.9471551775932312,
+                    "top": 0.7840508222579956,
+                    "right": 0.9799378514289856,
+                    "bottom": 0.8823314905166626
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='bc22f398-5d94-4565-bb5a-6315bd1b1eec'></a>\n\nCENTURY DEFENSE PLAN\nAVERAGE MONTH REACH & FREQUENCY\n\n<a id='e7f9b1fd-fde0-4a86-985d-d38fa19c373e'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Print</td><td id=\"0-3\">National Plan</td><td id=\"0-4\">Defense Plan July - September</td></tr>\n<tr><td id=\"0-5\">Total Adults</td><td id=\"0-6\"></td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">GRP's</td><td id=\"0-9\">183</td><td id=\"0-a\">360</td></tr>\n<tr><td id=\"0-b\">Reach</td><td id=\"0-c\">79</td><td id=\"0-d\">91</td></tr>\n<tr><td id=\"0-e\">Frequency</td><td id=\"0-f\">2.3</td><td id=\"0-g\">4.0</td></tr>\n</table>\n\n<a id='d9616894-4ae8-4ac9-8062-88a4abfa467b'></a>\n\nTarget Audience*\n<table><thead><tr><th></th><th>Col 1</th><th>Col 2</th></tr></thead><tbody><tr><td>GRP's</td><td>168</td><td>331</td></tr><tr><td>Reach</td><td>74</td><td>86</td></tr><tr><td>Frequency</td><td>2.3</td><td>3.8</td></tr></tbody></table>\n\n<a id='9cc57965-b7e4-4f4d-8ccb-0cee70576f68'></a>\n\n*Adults 25+\n\n<a id='e4ff0ecd-587b-4d27-be1f-8f45eb23cbe9'></a>\n\nSC575 1318",
+            "chunks": [
+                "bc22f398-5d94-4565-bb5a-6315bd1b1eec",
+                "e7f9b1fd-fde0-4a86-985d-d38fa19c373e",
+                "d9616894-4ae8-4ac9-8062-88a4abfa467b",
+                "9cc57965-b7e4-4f4d-8ccb-0cee70576f68",
+                "e4ff0ecd-587b-4d27-be1f-8f45eb23cbe9"
+            ]
+        }
+    ],
+    "grounding": {
+        "bc22f398-5d94-4565-bb5a-6315bd1b1eec": {
+            "box": {
+                "left": 0.36024296283721924,
+                "top": 0.10799793154001236,
+                "right": 0.6838912963867188,
+                "bottom": 0.16869226098060608
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e7f9b1fd-fde0-4a86-985d-d38fa19c373e": {
+            "box": {
+                "left": 0.11474752426147461,
+                "top": 0.21699249744415283,
+                "right": 0.7835413813591003,
+                "bottom": 0.38385313749313354
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.12092890267984074,
+                "top": 0.21926759599740353,
+                "right": 0.7758105874604873,
+                "bottom": 0.380577919230749
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.12092890267984074,
+                "top": 0.21926759599740353,
+                "right": 0.2505617549356671,
+                "bottom": 0.2524740029270065
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.2505617549356671,
+                "top": 0.21926759599740353,
+                "right": 0.5034640300619735,
+                "bottom": 0.2524740029270065
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5034640300619735,
+                "top": 0.21926759599740353,
+                "right": 0.7761329613228938,
+                "bottom": 0.2524740029270065
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.12092890267984074,
+                "top": 0.2524740029270065,
+                "right": 0.2505617549356671,
+                "bottom": 0.28478414282502307
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.2505617549356671,
+                "top": 0.2524740029270065,
+                "right": 0.5034640300619735,
+                "bottom": 0.28478414282502307
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5034640300619735,
+                "top": 0.2524740029270065,
+                "right": 0.7761329613228938,
+                "bottom": 0.28478414282502307
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.12092890267984074,
+                "top": 0.28478414282502307,
+                "right": 0.2505617549356671,
+                "bottom": 0.31494258941133424
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.2505617549356671,
+                "top": 0.28478414282502307,
+                "right": 0.5034640300619735,
+                "bottom": 0.31494258941133424
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5034640300619735,
+                "top": 0.28478414282502307,
+                "right": 0.7761329613228938,
+                "bottom": 0.31494258941133424
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.12092890267984074,
+                "top": 0.31494258941133424,
+                "right": 0.2505617549356671,
+                "bottom": 0.3461882120138995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.2505617549356671,
+                "top": 0.31494258941133424,
+                "right": 0.5034640300619735,
+                "bottom": 0.3461882120138995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5034640300619735,
+                "top": 0.31494258941133424,
+                "right": 0.7761329613228938,
+                "bottom": 0.3461882120138995
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.12092890267984074,
+                "top": 0.3461882120138995,
+                "right": 0.2505617549356671,
+                "bottom": 0.380577919230749
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.2505617549356671,
+                "top": 0.3461882120138995,
+                "right": 0.5034640300619735,
+                "bottom": 0.380577919230749
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5034640300619735,
+                "top": 0.3461882120138995,
+                "right": 0.7761329613228938,
+                "bottom": 0.380577919230749
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "d9616894-4ae8-4ac9-8062-88a4abfa467b": {
+            "box": {
+                "left": 0.11580172181129456,
+                "top": 0.44670090079307556,
+                "right": 0.7046786546707153,
+                "bottom": 0.5645277500152588
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "9cc57965-b7e4-4f4d-8ccb-0cee70576f68": {
+            "box": {
+                "left": 0.11418886482715607,
+                "top": 0.6918095946311951,
+                "right": 0.23789556324481964,
+                "bottom": 0.7156445384025574
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "e4ff0ecd-587b-4d27-be1f-8f45eb23cbe9": {
+            "box": {
+                "left": 0.9471551775932312,
+                "top": 0.7840508222579956,
+                "right": 0.9799378514289856,
+                "bottom": 0.8823314905166626
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "khmk0079_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4202,
+        "credit_usage": 3.0,
+        "job_id": "zmteyv2cynzuysyt201uz29u3",
+        "version": "dpt-2-20250919"
+    }
+}

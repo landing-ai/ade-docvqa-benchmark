@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='aa7a9d31-7a5a-4142-b6fa-c05db8355506'></a>\n\nSCHEDULE A\n\n<a id='10889c50-f48c-443f-ac3f-baf844aa8414'></a>\n\nPATENT RIGHTS\n\n<a id='a3c5bf82-1c48-4bc3-a5b0-a5975b41db3a'></a>\n\n1. United States Patent No. 3,074,927 filed\nApril 12, 1960, issued 1963.\n2. United States Patent No. 3,275,514 filed\nApril 12, 1960, issued 1966.\n\n<a id='b780c394-1c23-42bb-8b23-d7834859b3fd'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ztnk0226",
+    "chunks": [
+        {
+            "markdown": "<a id='aa7a9d31-7a5a-4142-b6fa-c05db8355506'></a>\n\nSCHEDULE A",
+            "type": "text",
+            "id": "aa7a9d31-7a5a-4142-b6fa-c05db8355506",
+            "grounding": {
+                "box": {
+                    "left": 0.42264387011528015,
+                    "top": 0.08769820630550385,
+                    "right": 0.5577222108840942,
+                    "bottom": 0.11287577450275421
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='10889c50-f48c-443f-ac3f-baf844aa8414'></a>\n\nPATENT RIGHTS",
+            "type": "text",
+            "id": "10889c50-f48c-443f-ac3f-baf844aa8414",
+            "grounding": {
+                "box": {
+                    "left": 0.4111054241657257,
+                    "top": 0.13901981711387634,
+                    "right": 0.5818301439285278,
+                    "bottom": 0.16147497296333313
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a3c5bf82-1c48-4bc3-a5b0-a5975b41db3a'></a>\n\n1. United States Patent No. 3,074,927 filed\nApril 12, 1960, issued 1963.\n2. United States Patent No. 3,275,514 filed\nApril 12, 1960, issued 1966.",
+            "type": "text",
+            "id": "a3c5bf82-1c48-4bc3-a5b0-a5975b41db3a",
+            "grounding": {
+                "box": {
+                    "left": 0.2334798276424408,
+                    "top": 0.20637109875679016,
+                    "right": 0.774153470993042,
+                    "bottom": 0.3351743519306183
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b780c394-1c23-42bb-8b23-d7834859b3fd'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ztnk0226",
+            "type": "marginalia",
+            "id": "b780c394-1c23-42bb-8b23-d7834859b3fd",
+            "grounding": {
+                "box": {
+                    "left": 0.21313944458961487,
+                    "top": 0.9776085615158081,
+                    "right": 0.7858035564422607,
+                    "bottom": 0.9996578693389893
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='aa7a9d31-7a5a-4142-b6fa-c05db8355506'></a>\n\nSCHEDULE A\n\n<a id='10889c50-f48c-443f-ac3f-baf844aa8414'></a>\n\nPATENT RIGHTS\n\n<a id='a3c5bf82-1c48-4bc3-a5b0-a5975b41db3a'></a>\n\n1. United States Patent No. 3,074,927 filed\nApril 12, 1960, issued 1963.\n2. United States Patent No. 3,275,514 filed\nApril 12, 1960, issued 1966.\n\n<a id='b780c394-1c23-42bb-8b23-d7834859b3fd'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/ztnk0226",
+            "chunks": [
+                "aa7a9d31-7a5a-4142-b6fa-c05db8355506",
+                "10889c50-f48c-443f-ac3f-baf844aa8414",
+                "a3c5bf82-1c48-4bc3-a5b0-a5975b41db3a",
+                "b780c394-1c23-42bb-8b23-d7834859b3fd"
+            ]
+        }
+    ],
+    "grounding": {
+        "aa7a9d31-7a5a-4142-b6fa-c05db8355506": {
+            "box": {
+                "left": 0.42264387011528015,
+                "top": 0.08769820630550385,
+                "right": 0.5577222108840942,
+                "bottom": 0.11287577450275421
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "10889c50-f48c-443f-ac3f-baf844aa8414": {
+            "box": {
+                "left": 0.4111054241657257,
+                "top": 0.13901981711387634,
+                "right": 0.5818301439285278,
+                "bottom": 0.16147497296333313
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a3c5bf82-1c48-4bc3-a5b0-a5975b41db3a": {
+            "box": {
+                "left": 0.2334798276424408,
+                "top": 0.20637109875679016,
+                "right": 0.774153470993042,
+                "bottom": 0.3351743519306183
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b780c394-1c23-42bb-8b23-d7834859b3fd": {
+            "box": {
+                "left": 0.21313944458961487,
+                "top": 0.9776085615158081,
+                "right": 0.7858035564422607,
+                "bottom": 0.9996578693389893
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "ztnk0226_11.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3201,
+        "credit_usage": 3.0,
+        "job_id": "qyrd8xhj27mf8g3zzdhwfawm5",
+        "version": "dpt-2-20250919"
+    }
+}

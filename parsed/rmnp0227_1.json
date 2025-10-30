@@ -1,0 +1,328 @@
+{
+    "markdown": "<a id='e21d2ad4-dc4c-4d95-8fc2-1a5412b78fdf'></a>\n\nmtg. file\n\n<a id='f4c70a9f-4755-4ac8-9164-25411021576c'></a>\n\n<::logo: Unknown\nNF\nA white circle containing stylized, interconnected white letters \"NF\" on a dark square background.::>\n\n<a id='d6e5659c-7712-4800-859d-d7e7aa5cecc0'></a>\n\nTHE NUTRITION FOUNDATION, INC.\n489 FIFTH AVENUE NEW YORK, N.Y. 10017 212 687-4830\n\n<a id='b21394cd-be5a-4f4f-9fef-ab8d23cce4b5'></a>\n\nFebruary 5, 1976\n\n<a id='690c5784-82d5-4bbf-b65a-b2f5195fa3d3'></a>\n\nMrs. Lorrie Syverson\nProgram in Epidemiology\nUniversity of Minnesota\nSchool of Public Health\n1325 Mayo Memorial Building\nMinneapolis, Minnesota 55455\n\n<a id='15d18a50-3f7d-4f6a-b3de-b3a6ffb3e065'></a>\n\nDear Mrs. Syverson:\nAs requested in your letter of 30 January, I return the nomination\nform with the information required. As far as my campus mailing\naddress is concerned, I assume it will be the School of Public Health,\n1325 Mayo Memorial Building, but perhaps you can complete that for\nme.\n\n<a id='22e0bef6-6b0c-45d4-aac5-837af8e7de37'></a>\n\nIn some of the earlier correspondence it was indicated that living accommodations might be available at the Radisson or on campus. I would prefer to be at the Radisson if you would be good enough to make my arrangements there at the appropriate time.\n\n<a id='52544a79-ae42-4c2c-bbf4-b4c021fdfefd'></a>\n\nWith kindest regards and thanks,\n\n<a id='5ae2629e-054d-4f59-a7f2-93d3d0149e6b'></a>\n\nSincerely,\n\n<a id='7e07d320-c303-4355-ab4e-5f561a781ee3'></a>\n\nWilliam J. Darby, M.D., Ph.D.\nPresident\n\n<a id='95dc1ea4-19d0-4d36-af4e-742ba061a988'></a>\n\nWJD/njd\n\n<a id='1e599321-076d-4345-9933-4a75c27a26c6'></a>\n\nEnclosure",
+    "chunks": [
+        {
+            "markdown": "<a id='e21d2ad4-dc4c-4d95-8fc2-1a5412b78fdf'></a>\n\nmtg. file",
+            "type": "text",
+            "id": "e21d2ad4-dc4c-4d95-8fc2-1a5412b78fdf",
+            "grounding": {
+                "box": {
+                    "left": 0.7608718276023865,
+                    "top": 0.013759417459368706,
+                    "right": 0.8833419680595398,
+                    "bottom": 0.059882789850234985
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f4c70a9f-4755-4ac8-9164-25411021576c'></a>\n\n<::logo: Unknown\nNF\nA white circle containing stylized, interconnected white letters \"NF\" on a dark square background.::>",
+            "type": "logo",
+            "id": "f4c70a9f-4755-4ac8-9164-25411021576c",
+            "grounding": {
+                "box": {
+                    "left": 0.09041337668895721,
+                    "top": 0.04747782647609711,
+                    "right": 0.18531645834445953,
+                    "bottom": 0.12192720174789429
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d6e5659c-7712-4800-859d-d7e7aa5cecc0'></a>\n\nTHE NUTRITION FOUNDATION, INC.\n489 FIFTH AVENUE NEW YORK, N.Y. 10017 212 687-4830",
+            "type": "text",
+            "id": "d6e5659c-7712-4800-859d-d7e7aa5cecc0",
+            "grounding": {
+                "box": {
+                    "left": 0.2529115378856659,
+                    "top": 0.07696729898452759,
+                    "right": 0.9135899543762207,
+                    "bottom": 0.12086504697799683
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b21394cd-be5a-4f4f-9fef-ab8d23cce4b5'></a>\n\nFebruary 5, 1976",
+            "type": "text",
+            "id": "b21394cd-be5a-4f4f-9fef-ab8d23cce4b5",
+            "grounding": {
+                "box": {
+                    "left": 0.5412178635597229,
+                    "top": 0.16273453831672668,
+                    "right": 0.7127041220664978,
+                    "bottom": 0.18729549646377563
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='690c5784-82d5-4bbf-b65a-b2f5195fa3d3'></a>\n\nMrs. Lorrie Syverson\nProgram in Epidemiology\nUniversity of Minnesota\nSchool of Public Health\n1325 Mayo Memorial Building\nMinneapolis, Minnesota 55455",
+            "type": "text",
+            "id": "690c5784-82d5-4bbf-b65a-b2f5195fa3d3",
+            "grounding": {
+                "box": {
+                    "left": 0.1688956767320633,
+                    "top": 0.24621489644050598,
+                    "right": 0.4836338758468628,
+                    "bottom": 0.3573515713214874
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='15d18a50-3f7d-4f6a-b3de-b3a6ffb3e065'></a>\n\nDear Mrs. Syverson:\nAs requested in your letter of 30 January, I return the nomination\nform with the information required. As far as my campus mailing\naddress is concerned, I assume it will be the School of Public Health,\n1325 Mayo Memorial Building, but perhaps you can complete that for\nme.",
+            "type": "text",
+            "id": "15d18a50-3f7d-4f6a-b3de-b3a6ffb3e065",
+            "grounding": {
+                "box": {
+                    "left": 0.16759386658668518,
+                    "top": 0.3669721484184265,
+                    "right": 0.8420010805130005,
+                    "bottom": 0.49040937423706055
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='22e0bef6-6b0c-45d4-aac5-837af8e7de37'></a>\n\nIn some of the earlier correspondence it was indicated that living accommodations might be available at the Radisson or on campus. I would prefer to be at the Radisson if you would be good enough to make my arrangements there at the appropriate time.",
+            "type": "text",
+            "id": "22e0bef6-6b0c-45d4-aac5-837af8e7de37",
+            "grounding": {
+                "box": {
+                    "left": 0.16761094331741333,
+                    "top": 0.5005295872688293,
+                    "right": 0.813285768032074,
+                    "bottom": 0.5789828896522522
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='52544a79-ae42-4c2c-bbf4-b4c021fdfefd'></a>\n\nWith kindest regards and thanks,",
+            "type": "text",
+            "id": "52544a79-ae42-4c2c-bbf4-b4c021fdfefd",
+            "grounding": {
+                "box": {
+                    "left": 0.1668485552072525,
+                    "top": 0.5860579609870911,
+                    "right": 0.4928344488143921,
+                    "bottom": 0.611314594745636
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5ae2629e-054d-4f59-a7f2-93d3d0149e6b'></a>\n\nSincerely,",
+            "type": "text",
+            "id": "5ae2629e-054d-4f59-a7f2-93d3d0149e6b",
+            "grounding": {
+                "box": {
+                    "left": 0.5381008386611938,
+                    "top": 0.6206117272377014,
+                    "right": 0.6509037017822266,
+                    "bottom": 0.647076427936554
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7e07d320-c303-4355-ab4e-5f561a781ee3'></a>\n\nWilliam J. Darby, M.D., Ph.D.\nPresident",
+            "type": "text",
+            "id": "7e07d320-c303-4355-ab4e-5f561a781ee3",
+            "grounding": {
+                "box": {
+                    "left": 0.5363373160362244,
+                    "top": 0.6869140863418579,
+                    "right": 0.8549203276634216,
+                    "bottom": 0.7294087409973145
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='95dc1ea4-19d0-4d36-af4e-742ba061a988'></a>\n\nWJD/njd",
+            "type": "text",
+            "id": "95dc1ea4-19d0-4d36-af4e-742ba061a988",
+            "grounding": {
+                "box": {
+                    "left": 0.1643913984298706,
+                    "top": 0.7203789949417114,
+                    "right": 0.2640025317668915,
+                    "bottom": 0.746434211730957
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1e599321-076d-4345-9933-4a75c27a26c6'></a>\n\nEnclosure",
+            "type": "text",
+            "id": "1e599321-076d-4345-9933-4a75c27a26c6",
+            "grounding": {
+                "box": {
+                    "left": 0.16498582065105438,
+                    "top": 0.7558355331420898,
+                    "right": 0.2689632177352905,
+                    "bottom": 0.780969500541687
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e21d2ad4-dc4c-4d95-8fc2-1a5412b78fdf'></a>\n\nmtg. file\n\n<a id='f4c70a9f-4755-4ac8-9164-25411021576c'></a>\n\n<::logo: Unknown\nNF\nA white circle containing stylized, interconnected white letters \"NF\" on a dark square background.::>\n\n<a id='d6e5659c-7712-4800-859d-d7e7aa5cecc0'></a>\n\nTHE NUTRITION FOUNDATION, INC.\n489 FIFTH AVENUE NEW YORK, N.Y. 10017 212 687-4830\n\n<a id='b21394cd-be5a-4f4f-9fef-ab8d23cce4b5'></a>\n\nFebruary 5, 1976\n\n<a id='690c5784-82d5-4bbf-b65a-b2f5195fa3d3'></a>\n\nMrs. Lorrie Syverson\nProgram in Epidemiology\nUniversity of Minnesota\nSchool of Public Health\n1325 Mayo Memorial Building\nMinneapolis, Minnesota 55455\n\n<a id='15d18a50-3f7d-4f6a-b3de-b3a6ffb3e065'></a>\n\nDear Mrs. Syverson:\nAs requested in your letter of 30 January, I return the nomination\nform with the information required. As far as my campus mailing\naddress is concerned, I assume it will be the School of Public Health,\n1325 Mayo Memorial Building, but perhaps you can complete that for\nme.\n\n<a id='22e0bef6-6b0c-45d4-aac5-837af8e7de37'></a>\n\nIn some of the earlier correspondence it was indicated that living accommodations might be available at the Radisson or on campus. I would prefer to be at the Radisson if you would be good enough to make my arrangements there at the appropriate time.\n\n<a id='52544a79-ae42-4c2c-bbf4-b4c021fdfefd'></a>\n\nWith kindest regards and thanks,\n\n<a id='5ae2629e-054d-4f59-a7f2-93d3d0149e6b'></a>\n\nSincerely,\n\n<a id='7e07d320-c303-4355-ab4e-5f561a781ee3'></a>\n\nWilliam J. Darby, M.D., Ph.D.\nPresident\n\n<a id='95dc1ea4-19d0-4d36-af4e-742ba061a988'></a>\n\nWJD/njd\n\n<a id='1e599321-076d-4345-9933-4a75c27a26c6'></a>\n\nEnclosure",
+            "chunks": [
+                "e21d2ad4-dc4c-4d95-8fc2-1a5412b78fdf",
+                "f4c70a9f-4755-4ac8-9164-25411021576c",
+                "d6e5659c-7712-4800-859d-d7e7aa5cecc0",
+                "b21394cd-be5a-4f4f-9fef-ab8d23cce4b5",
+                "690c5784-82d5-4bbf-b65a-b2f5195fa3d3",
+                "15d18a50-3f7d-4f6a-b3de-b3a6ffb3e065",
+                "22e0bef6-6b0c-45d4-aac5-837af8e7de37",
+                "52544a79-ae42-4c2c-bbf4-b4c021fdfefd",
+                "5ae2629e-054d-4f59-a7f2-93d3d0149e6b",
+                "7e07d320-c303-4355-ab4e-5f561a781ee3",
+                "95dc1ea4-19d0-4d36-af4e-742ba061a988",
+                "1e599321-076d-4345-9933-4a75c27a26c6"
+            ]
+        }
+    ],
+    "grounding": {
+        "e21d2ad4-dc4c-4d95-8fc2-1a5412b78fdf": {
+            "box": {
+                "left": 0.7608718276023865,
+                "top": 0.013759417459368706,
+                "right": 0.8833419680595398,
+                "bottom": 0.059882789850234985
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f4c70a9f-4755-4ac8-9164-25411021576c": {
+            "box": {
+                "left": 0.09041337668895721,
+                "top": 0.04747782647609711,
+                "right": 0.18531645834445953,
+                "bottom": 0.12192720174789429
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "d6e5659c-7712-4800-859d-d7e7aa5cecc0": {
+            "box": {
+                "left": 0.2529115378856659,
+                "top": 0.07696729898452759,
+                "right": 0.9135899543762207,
+                "bottom": 0.12086504697799683
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b21394cd-be5a-4f4f-9fef-ab8d23cce4b5": {
+            "box": {
+                "left": 0.5412178635597229,
+                "top": 0.16273453831672668,
+                "right": 0.7127041220664978,
+                "bottom": 0.18729549646377563
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "690c5784-82d5-4bbf-b65a-b2f5195fa3d3": {
+            "box": {
+                "left": 0.1688956767320633,
+                "top": 0.24621489644050598,
+                "right": 0.4836338758468628,
+                "bottom": 0.3573515713214874
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "15d18a50-3f7d-4f6a-b3de-b3a6ffb3e065": {
+            "box": {
+                "left": 0.16759386658668518,
+                "top": 0.3669721484184265,
+                "right": 0.8420010805130005,
+                "bottom": 0.49040937423706055
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "22e0bef6-6b0c-45d4-aac5-837af8e7de37": {
+            "box": {
+                "left": 0.16761094331741333,
+                "top": 0.5005295872688293,
+                "right": 0.813285768032074,
+                "bottom": 0.5789828896522522
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "52544a79-ae42-4c2c-bbf4-b4c021fdfefd": {
+            "box": {
+                "left": 0.1668485552072525,
+                "top": 0.5860579609870911,
+                "right": 0.4928344488143921,
+                "bottom": 0.611314594745636
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5ae2629e-054d-4f59-a7f2-93d3d0149e6b": {
+            "box": {
+                "left": 0.5381008386611938,
+                "top": 0.6206117272377014,
+                "right": 0.6509037017822266,
+                "bottom": 0.647076427936554
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7e07d320-c303-4355-ab4e-5f561a781ee3": {
+            "box": {
+                "left": 0.5363373160362244,
+                "top": 0.6869140863418579,
+                "right": 0.8549203276634216,
+                "bottom": 0.7294087409973145
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "95dc1ea4-19d0-4d36-af4e-742ba061a988": {
+            "box": {
+                "left": 0.1643913984298706,
+                "top": 0.7203789949417114,
+                "right": 0.2640025317668915,
+                "bottom": 0.746434211730957
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1e599321-076d-4345-9933-4a75c27a26c6": {
+            "box": {
+                "left": 0.16498582065105438,
+                "top": 0.7558355331420898,
+                "right": 0.2689632177352905,
+                "bottom": 0.780969500541687
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rmnp0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6193,
+        "credit_usage": 3.0,
+        "job_id": "vxlny1yh3fix7ojzrmfznqayw",
+        "version": "dpt-2-20250919"
+    }
+}

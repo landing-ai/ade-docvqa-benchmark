@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='71de5e36-dd8a-416d-a8a3-a8f538e9d30e'></a>\n\nYes!\nI want to help C.E.E.R. provide kids with an objective and unbiased environmental education!\n\noption $50: [ ] option $100: [ ] option $1,000: [ ] option Other $: [ ] ___\nSend me more information about: ___\n\noption Mastercard: [ ] option VISA: [ ]\nPlease place form in an envelope if you are enclosing a check or credit card information.\n\nExpiration date ___ Signature ___ Credit card number ___\n\n(Make check payable to \"CEI/CEER\")\n\nCENTER FOR ENVIRONMENTAL EDUCATION RESEARCH\nA Project of the Competitive Enterprise Institute\n1001 Connecticut Avenue N. W., Suite 1250\nWashington, DC 20036-5520\n\nNAME ___\n\nCOMPANY ___\n\nADDRESS ___\n\nCITY ___ STATE ___ ZIP ___\n\nPHONE # ___ EMAIL ___\n\nCEI is a non-profit, tax exempt organization under section 501(e)(3) of the\nInternal Revenue Code, and relies entirely on donations from individuals,\nfoundations, and corporations. CEI does not accept government support.\nContributions are tax deductible to the extent allowed by law.\n\n<a id='51406256-86ec-49b1-b286-5ee06466b28c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/frgk0228",
+    "chunks": [
+        {
+            "markdown": "<a id='71de5e36-dd8a-416d-a8a3-a8f538e9d30e'></a>\n\nYes!\nI want to help C.E.E.R. provide kids with an objective and unbiased environmental education!\n\noption $50: [ ] option $100: [ ] option $1,000: [ ] option Other $: [ ] ___\nSend me more information about: ___\n\noption Mastercard: [ ] option VISA: [ ]\nPlease place form in an envelope if you are enclosing a check or credit card information.\n\nExpiration date ___ Signature ___ Credit card number ___\n\n(Make check payable to \"CEI/CEER\")\n\nCENTER FOR ENVIRONMENTAL EDUCATION RESEARCH\nA Project of the Competitive Enterprise Institute\n1001 Connecticut Avenue N. W., Suite 1250\nWashington, DC 20036-5520\n\nNAME ___\n\nCOMPANY ___\n\nADDRESS ___\n\nCITY ___ STATE ___ ZIP ___\n\nPHONE # ___ EMAIL ___\n\nCEI is a non-profit, tax exempt organization under section 501(e)(3) of the\nInternal Revenue Code, and relies entirely on donations from individuals,\nfoundations, and corporations. CEI does not accept government support.\nContributions are tax deductible to the extent allowed by law.",
+            "type": "text",
+            "id": "71de5e36-dd8a-416d-a8a3-a8f538e9d30e",
+            "grounding": {
+                "box": {
+                    "left": 0.025308430194854736,
+                    "top": 0.09231197834014893,
+                    "right": 0.9572747349739075,
+                    "bottom": 0.9135704040527344
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='51406256-86ec-49b1-b286-5ee06466b28c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/frgk0228",
+            "type": "marginalia",
+            "id": "51406256-86ec-49b1-b286-5ee06466b28c",
+            "grounding": {
+                "box": {
+                    "left": 0.29900455474853516,
+                    "top": 0.9470712542533875,
+                    "right": 0.7008960247039795,
+                    "bottom": 0.9992279410362244
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='71de5e36-dd8a-416d-a8a3-a8f538e9d30e'></a>\n\nYes!\nI want to help C.E.E.R. provide kids with an objective and unbiased environmental education!\n\noption $50: [ ] option $100: [ ] option $1,000: [ ] option Other $: [ ] ___\nSend me more information about: ___\n\noption Mastercard: [ ] option VISA: [ ]\nPlease place form in an envelope if you are enclosing a check or credit card information.\n\nExpiration date ___ Signature ___ Credit card number ___\n\n(Make check payable to \"CEI/CEER\")\n\nCENTER FOR ENVIRONMENTAL EDUCATION RESEARCH\nA Project of the Competitive Enterprise Institute\n1001 Connecticut Avenue N. W., Suite 1250\nWashington, DC 20036-5520\n\nNAME ___\n\nCOMPANY ___\n\nADDRESS ___\n\nCITY ___ STATE ___ ZIP ___\n\nPHONE # ___ EMAIL ___\n\nCEI is a non-profit, tax exempt organization under section 501(e)(3) of the\nInternal Revenue Code, and relies entirely on donations from individuals,\nfoundations, and corporations. CEI does not accept government support.\nContributions are tax deductible to the extent allowed by law.\n\n<a id='51406256-86ec-49b1-b286-5ee06466b28c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/frgk0228",
+            "chunks": [
+                "71de5e36-dd8a-416d-a8a3-a8f538e9d30e",
+                "51406256-86ec-49b1-b286-5ee06466b28c"
+            ]
+        }
+    ],
+    "grounding": {
+        "71de5e36-dd8a-416d-a8a3-a8f538e9d30e": {
+            "box": {
+                "left": 0.025308430194854736,
+                "top": 0.09231197834014893,
+                "right": 0.9572747349739075,
+                "bottom": 0.9135704040527344
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "51406256-86ec-49b1-b286-5ee06466b28c": {
+            "box": {
+                "left": 0.29900455474853516,
+                "top": 0.9470712542533875,
+                "right": 0.7008960247039795,
+                "bottom": 0.9992279410362244
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "frgk0228_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5484,
+        "credit_usage": 3.0,
+        "job_id": "vr7urynob8hgsdjd78hxgkwie",
+        "version": "dpt-2-20250919"
+    }
+}

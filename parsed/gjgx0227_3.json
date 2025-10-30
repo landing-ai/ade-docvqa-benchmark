@@ -1,0 +1,333 @@
+{
+    "markdown": "<a id='f4ae24a8-ed50-4ccd-b9e9-519a28f0d2da'></a>\n\n-PROGRAM-\n\n<a id='bb0f1c18-cd3c-4c22-b660-1df9a81f7d33'></a>\n\nPresiding: Dr. Johnnie W. Prothro, Head\nDepartment of Home Economics and\nFood Administration\nTuskegee Institute\n\n<a id='512ced7c-e567-4cb9-931f-b53405f14179'></a>\n\nThe Grace ... Rev. Arthaniel E. Harris, Pastor\nButler Chapel A.M.E. Zion Church\n  Tuskegee, Alabama\n\n<a id='971aaa96-e0ad-4904-a209-0bf6571c3a4c'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Lunch</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Introduction of Speaker</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">Speaker ........</td><td id=\"0-7\">.... Miss Mildred Kaufman</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Administrator</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\">Nutrition Section</td></tr>\n<tr><td id=\"0-c\">(gray rectangle)</td><td id=\"0-d\">Florida State Board of Health Jacksonville, Florida</td></tr>\n</table>\n\n<a id='f0174774-63f4-4f07-ad5d-dea5597eb1cd'></a>\n\nPresentation of\nCertificates ... Mr. John A. Welch, Dean\nSchool of Applied Sciences\nTuskegee Institute\n\n<a id='eb967ebf-d66b-4ee2-b4ee-b9aacb3399ab'></a>\n\nRemarks\n\n<a id='c78bf012-267e-42b3-be61-021de7427cc7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gigx0227",
+    "chunks": [
+        {
+            "markdown": "<a id='f4ae24a8-ed50-4ccd-b9e9-519a28f0d2da'></a>\n\n-PROGRAM-",
+            "type": "text",
+            "id": "f4ae24a8-ed50-4ccd-b9e9-519a28f0d2da",
+            "grounding": {
+                "box": {
+                    "left": 0.4313623309135437,
+                    "top": 0.12777815759181976,
+                    "right": 0.576629102230072,
+                    "bottom": 0.15371252596378326
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bb0f1c18-cd3c-4c22-b660-1df9a81f7d33'></a>\n\nPresiding: Dr. Johnnie W. Prothro, Head\nDepartment of Home Economics and\nFood Administration\nTuskegee Institute",
+            "type": "text",
+            "id": "bb0f1c18-cd3c-4c22-b660-1df9a81f7d33",
+            "grounding": {
+                "box": {
+                    "left": 0.20023852586746216,
+                    "top": 0.20440955460071564,
+                    "right": 0.7917884588241577,
+                    "bottom": 0.28986674547195435
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='512ced7c-e567-4cb9-931f-b53405f14179'></a>\n\nThe Grace ... Rev. Arthaniel E. Harris, Pastor\nButler Chapel A.M.E. Zion Church\n  Tuskegee, Alabama",
+            "type": "text",
+            "id": "512ced7c-e567-4cb9-931f-b53405f14179",
+            "grounding": {
+                "box": {
+                    "left": 0.11434119939804077,
+                    "top": 0.32123127579689026,
+                    "right": 0.8813568949699402,
+                    "bottom": 0.3865378201007843
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='971aaa96-e0ad-4904-a209-0bf6571c3a4c'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Lunch</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Introduction of Speaker</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">Speaker ........</td><td id=\"0-7\">.... Miss Mildred Kaufman</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Administrator</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\">Nutrition Section</td></tr>\n<tr><td id=\"0-c\">(gray rectangle)</td><td id=\"0-d\">Florida State Board of Health Jacksonville, Florida</td></tr>\n</table>",
+            "type": "table",
+            "id": "971aaa96-e0ad-4904-a209-0bf6571c3a4c",
+            "grounding": {
+                "box": {
+                    "left": 0.11405712366104126,
+                    "top": 0.39920464158058167,
+                    "right": 0.8796082139015198,
+                    "bottom": 0.578289270401001
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f0174774-63f4-4f07-ad5d-dea5597eb1cd'></a>\n\nPresentation of\nCertificates ... Mr. John A. Welch, Dean\nSchool of Applied Sciences\nTuskegee Institute",
+            "type": "text",
+            "id": "f0174774-63f4-4f07-ad5d-dea5597eb1cd",
+            "grounding": {
+                "box": {
+                    "left": 0.11436715722084045,
+                    "top": 0.5924766063690186,
+                    "right": 0.8818639516830444,
+                    "bottom": 0.6770213842391968
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='eb967ebf-d66b-4ee2-b4ee-b9aacb3399ab'></a>\n\nRemarks",
+            "type": "text",
+            "id": "eb967ebf-d66b-4ee2-b4ee-b9aacb3399ab",
+            "grounding": {
+                "box": {
+                    "left": 0.11530649662017822,
+                    "top": 0.6889132857322693,
+                    "right": 0.2373553216457367,
+                    "bottom": 0.7151363492012024
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c78bf012-267e-42b3-be61-021de7427cc7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gigx0227",
+            "type": "marginalia",
+            "id": "c78bf012-267e-42b3-be61-021de7427cc7",
+            "grounding": {
+                "box": {
+                    "left": 0.09489136934280396,
+                    "top": 0.9709447622299194,
+                    "right": 0.9090000987052917,
+                    "bottom": 0.9996615648269653
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='f4ae24a8-ed50-4ccd-b9e9-519a28f0d2da'></a>\n\n-PROGRAM-\n\n<a id='bb0f1c18-cd3c-4c22-b660-1df9a81f7d33'></a>\n\nPresiding: Dr. Johnnie W. Prothro, Head\nDepartment of Home Economics and\nFood Administration\nTuskegee Institute\n\n<a id='512ced7c-e567-4cb9-931f-b53405f14179'></a>\n\nThe Grace ... Rev. Arthaniel E. Harris, Pastor\nButler Chapel A.M.E. Zion Church\n  Tuskegee, Alabama\n\n<a id='971aaa96-e0ad-4904-a209-0bf6571c3a4c'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Lunch</td><td id=\"0-3\"></td></tr>\n<tr><td id=\"0-4\">Introduction of Speaker</td><td id=\"0-5\"></td></tr>\n<tr><td id=\"0-6\">Speaker ........</td><td id=\"0-7\">.... Miss Mildred Kaufman</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Administrator</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\">Nutrition Section</td></tr>\n<tr><td id=\"0-c\">(gray rectangle)</td><td id=\"0-d\">Florida State Board of Health Jacksonville, Florida</td></tr>\n</table>\n\n<a id='f0174774-63f4-4f07-ad5d-dea5597eb1cd'></a>\n\nPresentation of\nCertificates ... Mr. John A. Welch, Dean\nSchool of Applied Sciences\nTuskegee Institute\n\n<a id='eb967ebf-d66b-4ee2-b4ee-b9aacb3399ab'></a>\n\nRemarks\n\n<a id='c78bf012-267e-42b3-be61-021de7427cc7'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gigx0227",
+            "chunks": [
+                "f4ae24a8-ed50-4ccd-b9e9-519a28f0d2da",
+                "bb0f1c18-cd3c-4c22-b660-1df9a81f7d33",
+                "512ced7c-e567-4cb9-931f-b53405f14179",
+                "971aaa96-e0ad-4904-a209-0bf6571c3a4c",
+                "f0174774-63f4-4f07-ad5d-dea5597eb1cd",
+                "eb967ebf-d66b-4ee2-b4ee-b9aacb3399ab",
+                "c78bf012-267e-42b3-be61-021de7427cc7"
+            ]
+        }
+    ],
+    "grounding": {
+        "f4ae24a8-ed50-4ccd-b9e9-519a28f0d2da": {
+            "box": {
+                "left": 0.4313623309135437,
+                "top": 0.12777815759181976,
+                "right": 0.576629102230072,
+                "bottom": 0.15371252596378326
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bb0f1c18-cd3c-4c22-b660-1df9a81f7d33": {
+            "box": {
+                "left": 0.20023852586746216,
+                "top": 0.20440955460071564,
+                "right": 0.7917884588241577,
+                "bottom": 0.28986674547195435
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "512ced7c-e567-4cb9-931f-b53405f14179": {
+            "box": {
+                "left": 0.11434119939804077,
+                "top": 0.32123127579689026,
+                "right": 0.8813568949699402,
+                "bottom": 0.3865378201007843
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "971aaa96-e0ad-4904-a209-0bf6571c3a4c": {
+            "box": {
+                "left": 0.11405712366104126,
+                "top": 0.39920464158058167,
+                "right": 0.8796082139015198,
+                "bottom": 0.578289270401001
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11764767723089875,
+                "top": 0.4031336406499167,
+                "right": 0.8768733101996986,
+                "bottom": 0.5782876265625454
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11764767723089875,
+                "top": 0.4031336406499167,
+                "right": 0.4590436013988466,
+                "bottom": 0.42401970934629096
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.4590436013988466,
+                "top": 0.4031336406499167,
+                "right": 0.8767479178583244,
+                "bottom": 0.42401970934629096
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.11764767723089875,
+                "top": 0.42401970934629096,
+                "right": 0.4590436013988466,
+                "bottom": 0.46307468251044526
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.4590436013988466,
+                "top": 0.42401970934629096,
+                "right": 0.8767479178583244,
+                "bottom": 0.46307468251044526
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.11764767723089875,
+                "top": 0.46307468251044526,
+                "right": 0.4590436013988466,
+                "bottom": 0.5013956204270986
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.4590436013988466,
+                "top": 0.46307468251044526,
+                "right": 0.8767479178583244,
+                "bottom": 0.5013956204270986
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.11764767723089875,
+                "top": 0.5013956204270986,
+                "right": 0.4590436013988466,
+                "bottom": 0.5188062713837027
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.4590436013988466,
+                "top": 0.5013956204270986,
+                "right": 0.8767479178583244,
+                "bottom": 0.5188062713837027
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.11764767723089875,
+                "top": 0.5188062713837027,
+                "right": 0.4590436013988466,
+                "bottom": 0.5373585254506033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.4590436013988466,
+                "top": 0.5188062713837027,
+                "right": 0.8767479178583244,
+                "bottom": 0.5373585254506033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.11764767723089875,
+                "top": 0.5373585254506033,
+                "right": 0.4590436013988466,
+                "bottom": 0.5782876265625454
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.4590436013988466,
+                "top": 0.5373585254506033,
+                "right": 0.8767479178583244,
+                "bottom": 0.5782876265625454
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "f0174774-63f4-4f07-ad5d-dea5597eb1cd": {
+            "box": {
+                "left": 0.11436715722084045,
+                "top": 0.5924766063690186,
+                "right": 0.8818639516830444,
+                "bottom": 0.6770213842391968
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "eb967ebf-d66b-4ee2-b4ee-b9aacb3399ab": {
+            "box": {
+                "left": 0.11530649662017822,
+                "top": 0.6889132857322693,
+                "right": 0.2373553216457367,
+                "bottom": 0.7151363492012024
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c78bf012-267e-42b3-be61-021de7427cc7": {
+            "box": {
+                "left": 0.09489136934280396,
+                "top": 0.9709447622299194,
+                "right": 0.9090000987052917,
+                "bottom": 0.9996615648269653
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "gjgx0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5138,
+        "credit_usage": 3.0,
+        "job_id": "vn00tpyvbsx0i6mz4g92nx99r",
+        "version": "dpt-2-20250919"
+    }
+}

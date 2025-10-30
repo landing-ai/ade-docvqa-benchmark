@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='80d13503-8abf-427c-9947-1e6c65ebe00b'></a>\n\n<::logo: CRC\nCRC\nBold, italicized black letters \"CRC\" are enclosed within a simple black circular outline.::>\n\n<a id='ce2db142-326a-4e1c-b213-6c49f8347377'></a>\n\nCritical Reviews\u2122\nin\nFOOD TECHNOLOGY\n\n<a id='fc895cfc-4aac-4a64-be81-2ce0fac2fbce'></a>\n\nedited by:\nThomas E. Furia\nTechnical Development Manager\nGeigy Industrial Chemicals\nDivision of Geigy Chemical Corp.\nArdsley, New York\n\n<a id='d746c8a9-0999-4d08-893c-229004a32573'></a>\n\n\u00161970 by The Chemical Rubber Co.\n\n<a id='2249e1ee-1192-462b-a17f-52fa50820992'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kpnf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='80d13503-8abf-427c-9947-1e6c65ebe00b'></a>\n\n<::logo: CRC\nCRC\nBold, italicized black letters \"CRC\" are enclosed within a simple black circular outline.::>",
+            "type": "logo",
+            "id": "80d13503-8abf-427c-9947-1e6c65ebe00b",
+            "grounding": {
+                "box": {
+                    "left": 0.4313085377216339,
+                    "top": 0.11450866609811783,
+                    "right": 0.6021033525466919,
+                    "bottom": 0.24235469102859497
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ce2db142-326a-4e1c-b213-6c49f8347377'></a>\n\nCritical Reviews\u2122\nin\nFOOD TECHNOLOGY",
+            "type": "text",
+            "id": "ce2db142-326a-4e1c-b213-6c49f8347377",
+            "grounding": {
+                "box": {
+                    "left": 0.28318849205970764,
+                    "top": 0.2863299250602722,
+                    "right": 0.760238766670227,
+                    "bottom": 0.41270196437835693
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fc895cfc-4aac-4a64-be81-2ce0fac2fbce'></a>\n\nedited by:\nThomas E. Furia\nTechnical Development Manager\nGeigy Industrial Chemicals\nDivision of Geigy Chemical Corp.\nArdsley, New York",
+            "type": "text",
+            "id": "fc895cfc-4aac-4a64-be81-2ce0fac2fbce",
+            "grounding": {
+                "box": {
+                    "left": 0.35949957370758057,
+                    "top": 0.4799792468547821,
+                    "right": 0.6907923221588135,
+                    "bottom": 0.6046963334083557
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d746c8a9-0999-4d08-893c-229004a32573'></a>\n\n\u00161970 by The Chemical Rubber Co.",
+            "type": "text",
+            "id": "d746c8a9-0999-4d08-893c-229004a32573",
+            "grounding": {
+                "box": {
+                    "left": 0.38231196999549866,
+                    "top": 0.8601531982421875,
+                    "right": 0.6617605686187744,
+                    "bottom": 0.8859602212905884
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2249e1ee-1192-462b-a17f-52fa50820992'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kpnf0227",
+            "type": "text",
+            "id": "2249e1ee-1192-462b-a17f-52fa50820992",
+            "grounding": {
+                "box": {
+                    "left": 0.1836760938167572,
+                    "top": 0.974800705909729,
+                    "right": 0.81995689868927,
+                    "bottom": 0.9999991655349731
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='80d13503-8abf-427c-9947-1e6c65ebe00b'></a>\n\n<::logo: CRC\nCRC\nBold, italicized black letters \"CRC\" are enclosed within a simple black circular outline.::>\n\n<a id='ce2db142-326a-4e1c-b213-6c49f8347377'></a>\n\nCritical Reviews\u2122\nin\nFOOD TECHNOLOGY\n\n<a id='fc895cfc-4aac-4a64-be81-2ce0fac2fbce'></a>\n\nedited by:\nThomas E. Furia\nTechnical Development Manager\nGeigy Industrial Chemicals\nDivision of Geigy Chemical Corp.\nArdsley, New York\n\n<a id='d746c8a9-0999-4d08-893c-229004a32573'></a>\n\n\u00161970 by The Chemical Rubber Co.\n\n<a id='2249e1ee-1192-462b-a17f-52fa50820992'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kpnf0227",
+            "chunks": [
+                "80d13503-8abf-427c-9947-1e6c65ebe00b",
+                "ce2db142-326a-4e1c-b213-6c49f8347377",
+                "fc895cfc-4aac-4a64-be81-2ce0fac2fbce",
+                "d746c8a9-0999-4d08-893c-229004a32573",
+                "2249e1ee-1192-462b-a17f-52fa50820992"
+            ]
+        }
+    ],
+    "grounding": {
+        "80d13503-8abf-427c-9947-1e6c65ebe00b": {
+            "box": {
+                "left": 0.4313085377216339,
+                "top": 0.11450866609811783,
+                "right": 0.6021033525466919,
+                "bottom": 0.24235469102859497
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "ce2db142-326a-4e1c-b213-6c49f8347377": {
+            "box": {
+                "left": 0.28318849205970764,
+                "top": 0.2863299250602722,
+                "right": 0.760238766670227,
+                "bottom": 0.41270196437835693
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fc895cfc-4aac-4a64-be81-2ce0fac2fbce": {
+            "box": {
+                "left": 0.35949957370758057,
+                "top": 0.4799792468547821,
+                "right": 0.6907923221588135,
+                "bottom": 0.6046963334083557
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d746c8a9-0999-4d08-893c-229004a32573": {
+            "box": {
+                "left": 0.38231196999549866,
+                "top": 0.8601531982421875,
+                "right": 0.6617605686187744,
+                "bottom": 0.8859602212905884
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2249e1ee-1192-462b-a17f-52fa50820992": {
+            "box": {
+                "left": 0.1836760938167572,
+                "top": 0.974800705909729,
+                "right": 0.81995689868927,
+                "bottom": 0.9999991655349731
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kpnf0227_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3518,
+        "credit_usage": 3.0,
+        "job_id": "hnb6hwwhzmaehw0hxlx4p1xou",
+        "version": "dpt-2-20250919"
+    }
+}

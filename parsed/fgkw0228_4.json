@@ -1,0 +1,178 @@
+{
+    "markdown": "<a id='e15bfefe-4698-42bb-9308-492203f782ae'></a>\n\nPage 2\nOctober 13, 1993\n\n<a id='72a16d41-77b4-4ddf-b5eb-cf0facc39f39'></a>\n\nIf you need any additional Information regarding the budget, please do not hesitate to contact us.\n\n<a id='1627c858-0aba-433d-888f-d0aaac1a2978'></a>\n\n<::attestation: Signature\nsigned\nSignature: illegible\nSincerely,\nAttila G. Devenyi, M D\nChief, Division of Pediatric\nGastroenterology and Nutrition\nA handwritten signature is positioned below \"Sincerely,\" and above the printed name and title, centered on the page.::>\n\n<a id='4d207105-e0e2-42c1-8399-e438d09c1937'></a>\n\n<::attestation: Signature with professional details\nSigned\nSignature: illegible\nColeen P. Greecher, M.S., R.D.\nAssistant Professor, Surgery, and Pediatrics\nA handwritten signature above the typed name and title, centered on the page.::>\n\n<a id='a6689c9b-47af-4e97-b988-424ab63df26e'></a>\n\nAGD/pr\n\ncc Margaret Petruska, Program Office\nHoward Heinz Endowment\n\n<a id='9d1b88c8-883c-4d5c-8edb-5adcfe47eee0'></a>\n\nCalley 1st Entrance",
+    "chunks": [
+        {
+            "markdown": "<a id='e15bfefe-4698-42bb-9308-492203f782ae'></a>\n\nPage 2\nOctober 13, 1993",
+            "type": "text",
+            "id": "e15bfefe-4698-42bb-9308-492203f782ae",
+            "grounding": {
+                "box": {
+                    "left": 0.1374746412038803,
+                    "top": 0.11508779227733612,
+                    "right": 0.3094964623451233,
+                    "bottom": 0.1566811352968216
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='72a16d41-77b4-4ddf-b5eb-cf0facc39f39'></a>\n\nIf you need any additional Information regarding the budget, please do not hesitate to contact us.",
+            "type": "text",
+            "id": "72a16d41-77b4-4ddf-b5eb-cf0facc39f39",
+            "grounding": {
+                "box": {
+                    "left": 0.13599881529808044,
+                    "top": 0.1980663239955902,
+                    "right": 0.8559361696243286,
+                    "bottom": 0.23877298831939697
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1627c858-0aba-433d-888f-d0aaac1a2978'></a>\n\n<::attestation: Signature\nsigned\nSignature: illegible\nSincerely,\nAttila G. Devenyi, M D\nChief, Division of Pediatric\nGastroenterology and Nutrition\nA handwritten signature is positioned below \"Sincerely,\" and above the printed name and title, centered on the page.::>",
+            "type": "attestation",
+            "id": "1627c858-0aba-433d-888f-d0aaac1a2978",
+            "grounding": {
+                "box": {
+                    "left": 0.4238874316215515,
+                    "top": 0.24973012506961823,
+                    "right": 0.7262822985649109,
+                    "bottom": 0.3885902166366577
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4d207105-e0e2-42c1-8399-e438d09c1937'></a>\n\n<::attestation: Signature with professional details\nSigned\nSignature: illegible\nColeen P. Greecher, M.S., R.D.\nAssistant Professor, Surgery, and Pediatrics\nA handwritten signature above the typed name and title, centered on the page.::>",
+            "type": "attestation",
+            "id": "4d207105-e0e2-42c1-8399-e438d09c1937",
+            "grounding": {
+                "box": {
+                    "left": 0.4236776828765869,
+                    "top": 0.42358624935150146,
+                    "right": 0.8213331699371338,
+                    "bottom": 0.4885280728340149
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a6689c9b-47af-4e97-b988-424ab63df26e'></a>\n\nAGD/pr\n\ncc Margaret Petruska, Program Office\nHoward Heinz Endowment",
+            "type": "text",
+            "id": "a6689c9b-47af-4e97-b988-424ab63df26e",
+            "grounding": {
+                "box": {
+                    "left": 0.13359028100967407,
+                    "top": 0.5789628624916077,
+                    "right": 0.5117995738983154,
+                    "bottom": 0.654203474521637
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9d1b88c8-883c-4d5c-8edb-5adcfe47eee0'></a>\n\nCalley 1st Entrance",
+            "type": "attestation",
+            "id": "9d1b88c8-883c-4d5c-8edb-5adcfe47eee0",
+            "grounding": {
+                "box": {
+                    "left": 0.2470894455909729,
+                    "top": 0.7208158373832703,
+                    "right": 0.6258764863014221,
+                    "bottom": 0.8142393231391907
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e15bfefe-4698-42bb-9308-492203f782ae'></a>\n\nPage 2\nOctober 13, 1993\n\n<a id='72a16d41-77b4-4ddf-b5eb-cf0facc39f39'></a>\n\nIf you need any additional Information regarding the budget, please do not hesitate to contact us.\n\n<a id='1627c858-0aba-433d-888f-d0aaac1a2978'></a>\n\n<::attestation: Signature\nsigned\nSignature: illegible\nSincerely,\nAttila G. Devenyi, M D\nChief, Division of Pediatric\nGastroenterology and Nutrition\nA handwritten signature is positioned below \"Sincerely,\" and above the printed name and title, centered on the page.::>\n\n<a id='4d207105-e0e2-42c1-8399-e438d09c1937'></a>\n\n<::attestation: Signature with professional details\nSigned\nSignature: illegible\nColeen P. Greecher, M.S., R.D.\nAssistant Professor, Surgery, and Pediatrics\nA handwritten signature above the typed name and title, centered on the page.::>\n\n<a id='a6689c9b-47af-4e97-b988-424ab63df26e'></a>\n\nAGD/pr\n\ncc Margaret Petruska, Program Office\nHoward Heinz Endowment\n\n<a id='9d1b88c8-883c-4d5c-8edb-5adcfe47eee0'></a>\n\nCalley 1st Entrance",
+            "chunks": [
+                "e15bfefe-4698-42bb-9308-492203f782ae",
+                "72a16d41-77b4-4ddf-b5eb-cf0facc39f39",
+                "1627c858-0aba-433d-888f-d0aaac1a2978",
+                "4d207105-e0e2-42c1-8399-e438d09c1937",
+                "a6689c9b-47af-4e97-b988-424ab63df26e",
+                "9d1b88c8-883c-4d5c-8edb-5adcfe47eee0"
+            ]
+        }
+    ],
+    "grounding": {
+        "e15bfefe-4698-42bb-9308-492203f782ae": {
+            "box": {
+                "left": 0.1374746412038803,
+                "top": 0.11508779227733612,
+                "right": 0.3094964623451233,
+                "bottom": 0.1566811352968216
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "72a16d41-77b4-4ddf-b5eb-cf0facc39f39": {
+            "box": {
+                "left": 0.13599881529808044,
+                "top": 0.1980663239955902,
+                "right": 0.8559361696243286,
+                "bottom": 0.23877298831939697
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1627c858-0aba-433d-888f-d0aaac1a2978": {
+            "box": {
+                "left": 0.4238874316215515,
+                "top": 0.24973012506961823,
+                "right": 0.7262822985649109,
+                "bottom": 0.3885902166366577
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "4d207105-e0e2-42c1-8399-e438d09c1937": {
+            "box": {
+                "left": 0.4236776828765869,
+                "top": 0.42358624935150146,
+                "right": 0.8213331699371338,
+                "bottom": 0.4885280728340149
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "a6689c9b-47af-4e97-b988-424ab63df26e": {
+            "box": {
+                "left": 0.13359028100967407,
+                "top": 0.5789628624916077,
+                "right": 0.5117995738983154,
+                "bottom": 0.654203474521637
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9d1b88c8-883c-4d5c-8edb-5adcfe47eee0": {
+            "box": {
+                "left": 0.2470894455909729,
+                "top": 0.7208158373832703,
+                "right": 0.6258764863014221,
+                "bottom": 0.8142393231391907
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        }
+    },
+    "metadata": {
+        "filename": "fgkw0228_4.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4389,
+        "credit_usage": 3.0,
+        "job_id": "lchschec3trpwx7beny5c2kpa",
+        "version": "dpt-2-20250919"
+    }
+}

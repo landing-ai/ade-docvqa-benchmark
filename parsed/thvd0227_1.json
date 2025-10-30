@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='4eef6903-aca5-4ebb-81a3-65df743ff7ef'></a>\n\nWASHINGTON <::crest with three stars above, a shield containing the text 'PER TATEM' on the first line, 'VERI' on the second line, and 'VIS' on the third line, and three crosses below::> UNIVERSITY\nSCHOOL OF MEDICINE\nSAINT LOUIS\n\n<a id='b46285ce-cfb9-4ed7-b832-8fd2a1461912'></a>\n\n660 SOUTH KINGSHIGHWAY BLVD.\nOFFICE OF THE DEAN\n\n<a id='df0b06b3-3aae-46fe-b4d2-0f07ffe737c3'></a>\n\nDecember 11, 1967\n\n<a id='98897f02-6e22-4f2c-9728-97ee016badf8'></a>\n\nMEMORANDUM\n\n<a id='6325c5ab-b961-4dd9-8ff6-6613eb6b9f47'></a>\n\nTO: DEPARTMENT HEADS\n\nFROM: DEAN'S OFFICE\n\n<a id='18ad927f-36f6-4159-b18a-991acb62cf91'></a>\n\nSUBJECT: Change of Due Dates for Monthly Payroll Recommendations for December - Academic and Nonacademic\n\n<a id='ca09e4b9-d1c4-4af5-9e58-6b8d50a569a8'></a>\n\nDue to the decreased number of working days available to\nprocess payrolls during this month, the Payroll Office on the Main\nCampus has changed the deadline for December. To accomodate their\ndeadline, it becomes necessary to request your December payroll\nrecommendations as soon as possible, but no later than December 14,\n1967.\n\n<a id='fa737481-ccf6-4ca8-baaf-67f286f3aae8'></a>\n\nThe paychecks will be issued in the usual manner at 2:00 p.m. on December 29, 1967. (No change)\n\n<a id='eb071e91-d512-40f2-813d-2274fdc2433f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/thvd0227",
+    "chunks": [
+        {
+            "markdown": "<a id='4eef6903-aca5-4ebb-81a3-65df743ff7ef'></a>\n\nWASHINGTON <::crest with three stars above, a shield containing the text 'PER TATEM' on the first line, 'VERI' on the second line, and 'VIS' on the third line, and three crosses below::> UNIVERSITY\nSCHOOL OF MEDICINE\nSAINT LOUIS",
+            "type": "figure",
+            "id": "4eef6903-aca5-4ebb-81a3-65df743ff7ef",
+            "grounding": {
+                "box": {
+                    "left": 0.2776874899864197,
+                    "top": 0.04231073334813118,
+                    "right": 0.7407938838005066,
+                    "bottom": 0.1180129200220108
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b46285ce-cfb9-4ed7-b832-8fd2a1461912'></a>\n\n660 SOUTH KINGSHIGHWAY BLVD.\nOFFICE OF THE DEAN",
+            "type": "text",
+            "id": "b46285ce-cfb9-4ed7-b832-8fd2a1461912",
+            "grounding": {
+                "box": {
+                    "left": 0.07366400212049484,
+                    "top": 0.1399303525686264,
+                    "right": 0.29814162850379944,
+                    "bottom": 0.16648291051387787
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='df0b06b3-3aae-46fe-b4d2-0f07ffe737c3'></a>\n\nDecember 11, 1967",
+            "type": "text",
+            "id": "df0b06b3-3aae-46fe-b4d2-0f07ffe737c3",
+            "grounding": {
+                "box": {
+                    "left": 0.4342734217643738,
+                    "top": 0.15987162292003632,
+                    "right": 0.6038252711296082,
+                    "bottom": 0.1784600168466568
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='98897f02-6e22-4f2c-9728-97ee016badf8'></a>\n\nMEMORANDUM",
+            "type": "text",
+            "id": "98897f02-6e22-4f2c-9728-97ee016badf8",
+            "grounding": {
+                "box": {
+                    "left": 0.16895514726638794,
+                    "top": 0.295137882232666,
+                    "right": 0.2766691744327545,
+                    "bottom": 0.31317394971847534
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6325c5ab-b961-4dd9-8ff6-6613eb6b9f47'></a>\n\nTO: DEPARTMENT HEADS\n\nFROM: DEAN'S OFFICE",
+            "type": "text",
+            "id": "6325c5ab-b961-4dd9-8ff6-6613eb6b9f47",
+            "grounding": {
+                "box": {
+                    "left": 0.1709996461868286,
+                    "top": 0.33956530690193176,
+                    "right": 0.3773646950721741,
+                    "bottom": 0.3865880072116852
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='18ad927f-36f6-4159-b18a-991acb62cf91'></a>\n\nSUBJECT: Change of Due Dates for Monthly Payroll Recommendations for December - Academic and Nonacademic",
+            "type": "text",
+            "id": "18ad927f-36f6-4159-b18a-991acb62cf91",
+            "grounding": {
+                "box": {
+                    "left": 0.17321711778640747,
+                    "top": 0.3979223370552063,
+                    "right": 0.7933499813079834,
+                    "bottom": 0.43103116750717163
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ca09e4b9-d1c4-4af5-9e58-6b8d50a569a8'></a>\n\nDue to the decreased number of working days available to\nprocess payrolls during this month, the Payroll Office on the Main\nCampus has changed the deadline for December. To accomodate their\ndeadline, it becomes necessary to request your December payroll\nrecommendations as soon as possible, but no later than December 14,\n1967.",
+            "type": "text",
+            "id": "ca09e4b9-d1c4-4af5-9e58-6b8d50a569a8",
+            "grounding": {
+                "box": {
+                    "left": 0.16416126489639282,
+                    "top": 0.48511791229248047,
+                    "right": 0.8132348656654358,
+                    "bottom": 0.6546911001205444
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fa737481-ccf6-4ca8-baaf-67f286f3aae8'></a>\n\nThe paychecks will be issued in the usual manner at 2:00 p.m. on December 29, 1967. (No change)",
+            "type": "text",
+            "id": "fa737481-ccf6-4ca8-baaf-67f286f3aae8",
+            "grounding": {
+                "box": {
+                    "left": 0.17262107133865356,
+                    "top": 0.6635535955429077,
+                    "right": 0.8040981888771057,
+                    "bottom": 0.7150247097015381
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='eb071e91-d512-40f2-813d-2274fdc2433f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/thvd0227",
+            "type": "text",
+            "id": "eb071e91-d512-40f2-813d-2274fdc2433f",
+            "grounding": {
+                "box": {
+                    "left": 0.22962650656700134,
+                    "top": 0.9818307757377625,
+                    "right": 0.7720819711685181,
+                    "bottom": 0.9991642832756042
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4eef6903-aca5-4ebb-81a3-65df743ff7ef'></a>\n\nWASHINGTON <::crest with three stars above, a shield containing the text 'PER TATEM' on the first line, 'VERI' on the second line, and 'VIS' on the third line, and three crosses below::> UNIVERSITY\nSCHOOL OF MEDICINE\nSAINT LOUIS\n\n<a id='b46285ce-cfb9-4ed7-b832-8fd2a1461912'></a>\n\n660 SOUTH KINGSHIGHWAY BLVD.\nOFFICE OF THE DEAN\n\n<a id='df0b06b3-3aae-46fe-b4d2-0f07ffe737c3'></a>\n\nDecember 11, 1967\n\n<a id='98897f02-6e22-4f2c-9728-97ee016badf8'></a>\n\nMEMORANDUM\n\n<a id='6325c5ab-b961-4dd9-8ff6-6613eb6b9f47'></a>\n\nTO: DEPARTMENT HEADS\n\nFROM: DEAN'S OFFICE\n\n<a id='18ad927f-36f6-4159-b18a-991acb62cf91'></a>\n\nSUBJECT: Change of Due Dates for Monthly Payroll Recommendations for December - Academic and Nonacademic\n\n<a id='ca09e4b9-d1c4-4af5-9e58-6b8d50a569a8'></a>\n\nDue to the decreased number of working days available to\nprocess payrolls during this month, the Payroll Office on the Main\nCampus has changed the deadline for December. To accomodate their\ndeadline, it becomes necessary to request your December payroll\nrecommendations as soon as possible, but no later than December 14,\n1967.\n\n<a id='fa737481-ccf6-4ca8-baaf-67f286f3aae8'></a>\n\nThe paychecks will be issued in the usual manner at 2:00 p.m. on December 29, 1967. (No change)\n\n<a id='eb071e91-d512-40f2-813d-2274fdc2433f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/thvd0227",
+            "chunks": [
+                "4eef6903-aca5-4ebb-81a3-65df743ff7ef",
+                "b46285ce-cfb9-4ed7-b832-8fd2a1461912",
+                "df0b06b3-3aae-46fe-b4d2-0f07ffe737c3",
+                "98897f02-6e22-4f2c-9728-97ee016badf8",
+                "6325c5ab-b961-4dd9-8ff6-6613eb6b9f47",
+                "18ad927f-36f6-4159-b18a-991acb62cf91",
+                "ca09e4b9-d1c4-4af5-9e58-6b8d50a569a8",
+                "fa737481-ccf6-4ca8-baaf-67f286f3aae8",
+                "eb071e91-d512-40f2-813d-2274fdc2433f"
+            ]
+        }
+    ],
+    "grounding": {
+        "4eef6903-aca5-4ebb-81a3-65df743ff7ef": {
+            "box": {
+                "left": 0.2776874899864197,
+                "top": 0.04231073334813118,
+                "right": 0.7407938838005066,
+                "bottom": 0.1180129200220108
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "b46285ce-cfb9-4ed7-b832-8fd2a1461912": {
+            "box": {
+                "left": 0.07366400212049484,
+                "top": 0.1399303525686264,
+                "right": 0.29814162850379944,
+                "bottom": 0.16648291051387787
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "df0b06b3-3aae-46fe-b4d2-0f07ffe737c3": {
+            "box": {
+                "left": 0.4342734217643738,
+                "top": 0.15987162292003632,
+                "right": 0.6038252711296082,
+                "bottom": 0.1784600168466568
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "98897f02-6e22-4f2c-9728-97ee016badf8": {
+            "box": {
+                "left": 0.16895514726638794,
+                "top": 0.295137882232666,
+                "right": 0.2766691744327545,
+                "bottom": 0.31317394971847534
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6325c5ab-b961-4dd9-8ff6-6613eb6b9f47": {
+            "box": {
+                "left": 0.1709996461868286,
+                "top": 0.33956530690193176,
+                "right": 0.3773646950721741,
+                "bottom": 0.3865880072116852
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "18ad927f-36f6-4159-b18a-991acb62cf91": {
+            "box": {
+                "left": 0.17321711778640747,
+                "top": 0.3979223370552063,
+                "right": 0.7933499813079834,
+                "bottom": 0.43103116750717163
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ca09e4b9-d1c4-4af5-9e58-6b8d50a569a8": {
+            "box": {
+                "left": 0.16416126489639282,
+                "top": 0.48511791229248047,
+                "right": 0.8132348656654358,
+                "bottom": 0.6546911001205444
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fa737481-ccf6-4ca8-baaf-67f286f3aae8": {
+            "box": {
+                "left": 0.17262107133865356,
+                "top": 0.6635535955429077,
+                "right": 0.8040981888771057,
+                "bottom": 0.7150247097015381
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "eb071e91-d512-40f2-813d-2274fdc2433f": {
+            "box": {
+                "left": 0.22962650656700134,
+                "top": 0.9818307757377625,
+                "right": 0.7720819711685181,
+                "bottom": 0.9991642832756042
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "thvd0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 18053,
+        "credit_usage": 3.0,
+        "job_id": "mdk96qm09jikymmbljrdch7d4",
+        "version": "dpt-2-20250919"
+    }
+}

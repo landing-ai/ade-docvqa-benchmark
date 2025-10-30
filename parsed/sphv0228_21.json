@@ -1,0 +1,53 @@
+{
+    "markdown": "<a id='558bf8b4-4d2e-4fc9-b2e6-194139d42bfb'></a>\n\n<::bar chart\n: Title: 1975 STUDY\n: Y-axis: NO. OF WORKERS\n: X-axis: (CALENDAR MONTHS OF DITHANE EMPLOYMENT)\n: Data:\n: - 0-50 months: 22 workers (14 with 7 to 25 mo., 8 with 26 to 50 mo.)\n: - 51-100 months: 9 workers\n: - 101-150 months: 7 workers\n: - 151-200 months: 10 workers\n: - 201-250 months: 7 workers\n: - (261 AND 310) months: 2 workers\n: FIGURE 7::>",
+    "chunks": [
+        {
+            "markdown": "<a id='558bf8b4-4d2e-4fc9-b2e6-194139d42bfb'></a>\n\n<::bar chart\n: Title: 1975 STUDY\n: Y-axis: NO. OF WORKERS\n: X-axis: (CALENDAR MONTHS OF DITHANE EMPLOYMENT)\n: Data:\n: - 0-50 months: 22 workers (14 with 7 to 25 mo., 8 with 26 to 50 mo.)\n: - 51-100 months: 9 workers\n: - 101-150 months: 7 workers\n: - 151-200 months: 10 workers\n: - 201-250 months: 7 workers\n: - (261 AND 310) months: 2 workers\n: FIGURE 7::>",
+            "type": "figure",
+            "id": "558bf8b4-4d2e-4fc9-b2e6-194139d42bfb",
+            "grounding": {
+                "box": {
+                    "left": 0.01057782769203186,
+                    "top": 0.15941867232322693,
+                    "right": 0.9865800142288208,
+                    "bottom": 0.9614887237548828
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='558bf8b4-4d2e-4fc9-b2e6-194139d42bfb'></a>\n\n<::bar chart\n: Title: 1975 STUDY\n: Y-axis: NO. OF WORKERS\n: X-axis: (CALENDAR MONTHS OF DITHANE EMPLOYMENT)\n: Data:\n: - 0-50 months: 22 workers (14 with 7 to 25 mo., 8 with 26 to 50 mo.)\n: - 51-100 months: 9 workers\n: - 101-150 months: 7 workers\n: - 151-200 months: 10 workers\n: - 201-250 months: 7 workers\n: - (261 AND 310) months: 2 workers\n: FIGURE 7::>",
+            "chunks": [
+                "558bf8b4-4d2e-4fc9-b2e6-194139d42bfb"
+            ]
+        }
+    ],
+    "grounding": {
+        "558bf8b4-4d2e-4fc9-b2e6-194139d42bfb": {
+            "box": {
+                "left": 0.01057782769203186,
+                "top": 0.15941867232322693,
+                "right": 0.9865800142288208,
+                "bottom": 0.9614887237548828
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "sphv0228_21.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11479,
+        "credit_usage": 3.0,
+        "job_id": "p7pwvmjwbddinz8xl8vef26yo",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,448 @@
+{
+    "markdown": "<a id='14df4134-3e3f-4fd9-ab64-dc74edca3663'></a>\n\n12.2 Gender\nNumber of knee operations carried out on patients with admission date between 1st July\n2000 and 31st December 2013, according to type of operation and gender of patients\n<::transcription of the content\n: table::>\n| Type of operation | Males | Males | Females | Females | Total |\n|---|---|---|---|---|---|\n| | N. | % | N. | % | N. |\n| Bi/tricompartmental | 16.373 | 28,0 | 42.145 | 72,0 | 58.518 |\n| Unicompartmental | 2.519 | 32,7 | 5.189 | 67,3 | 7.708 |\n| Revision | 1.159 | 26,0 | 3.295 | 74,0 | 4.454 |\n| Prosthesis removal | 368 | 37,3 | 618 | 62,7 | 986 |\n| Patella only | 141 | 24,6 | 432 | 75,4 | 573 |\n| **Total** | **20.560** | **28,5** | **51.679** | **71,5** | **72.239** |\n<::\n\n<a id='07ecb788-4a0c-424e-a298-5a613cd5c046'></a>\n\n## 12.3 Side of surgery\n\nThere is a prevalence of operations performed on the right side (55,0%) in comparison with the left side (45,0%). The percentage was calculated on patients affected by primary arthritis, on first side operated.\n\n<a id='c156e699-5558-4f61-9141-f269b2d85927'></a>\n\nPercentage\n<::table\n| Side | Males | Females |\n|---|---|---|\n| Right | 51,5 | 56,5 |\n| Left | 48,5 | 43,5 |\n: table::>\nDifference is statistically significant (Chi \u2013 squared p<0.001).\n\n<a id='f17a244d-a611-40c8-b109-cc94f82af616'></a>\n\n12.4 Bilateral arthroplasty\n\nIn the period of registry observation (14 years), 10.069 patients underwent bilateral operations.\n8.597 (85,4%) chose to undergo the second operation at the same hospital from where the first one was performed.\n469 (4,7%) chose to undergo the second operation at a different hospital from where the first one was performed to follow the surgeon.\n1.003 (10,0%) chose to undergo the second operation at a different hospital from where the first one was performed.\nIn bilateral operations, it was observed that the first knee to be treated was the right one in 54,1% of cases.\n\n<a id='56671f02-582e-43b5-8d4e-18de423b578b'></a>\n\n12.5 Diseases treated with unicompartmental knee prosthesis\nNumber of primary unicompartmental knee prosthesis operations carried out on patients\nwith admission date between 1st July 2000 and 31st December 2013, according to\n\n<a id='4a97bfb1-01b0-4703-a4b3-31c2cc5b1b6a'></a>\n\ndiagnosis\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Diagnosis in unicomp. knee prosthesis</td><td id=\"0-3\">Number</td><td id=\"0-4\">Percentage</td></tr>\n<tr><td id=\"0-5\">Primary arthritis</td><td id=\"0-6\">6.606</td><td id=\"0-7\">85,9</td></tr>\n<tr><td id=\"0-8\">Necrosis of the condyle</td><td id=\"0-9\">398</td><td id=\"0-a\">5,2</td></tr>\n<tr><td id=\"0-b\">Deformity</td><td id=\"0-c\">419</td><td id=\"0-d\">5,4</td></tr>\n<tr><td id=\"0-e\">Post-traumatic arthritis</td><td id=\"0-f\">86</td><td id=\"0-g\">1,1</td></tr>\n<tr><td id=\"0-h\">Post-traumatic necrosis</td><td id=\"0-i\">64</td><td id=\"0-j\">0,8</td></tr>\n<tr><td id=\"0-k\">Idiopathic necrosis</td><td id=\"0-l\">33</td><td id=\"0-m\">0,4</td></tr>\n</table>\n\n<a id='124d4424-c290-4068-ba86-7279e9918cde'></a>\n\n72\n\n<a id='f0270f84-b9e1-486f-ae56-7cf2c8292ea8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hjxn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='14df4134-3e3f-4fd9-ab64-dc74edca3663'></a>\n\n12.2 Gender\nNumber of knee operations carried out on patients with admission date between 1st July\n2000 and 31st December 2013, according to type of operation and gender of patients\n<::transcription of the content\n: table::>\n| Type of operation | Males | Males | Females | Females | Total |\n|---|---|---|---|---|---|\n| | N. | % | N. | % | N. |\n| Bi/tricompartmental | 16.373 | 28,0 | 42.145 | 72,0 | 58.518 |\n| Unicompartmental | 2.519 | 32,7 | 5.189 | 67,3 | 7.708 |\n| Revision | 1.159 | 26,0 | 3.295 | 74,0 | 4.454 |\n| Prosthesis removal | 368 | 37,3 | 618 | 62,7 | 986 |\n| Patella only | 141 | 24,6 | 432 | 75,4 | 573 |\n| **Total** | **20.560** | **28,5** | **51.679** | **71,5** | **72.239** |\n<::",
+            "type": "figure",
+            "id": "14df4134-3e3f-4fd9-ab64-dc74edca3663",
+            "grounding": {
+                "box": {
+                    "left": 0.12815973162651062,
+                    "top": 0.08983682096004486,
+                    "right": 0.8832970857620239,
+                    "bottom": 0.3254225254058838
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='07ecb788-4a0c-424e-a298-5a613cd5c046'></a>\n\n## 12.3 Side of surgery\n\nThere is a prevalence of operations performed on the right side (55,0%) in comparison with the left side (45,0%). The percentage was calculated on patients affected by primary arthritis, on first side operated.",
+            "type": "text",
+            "id": "07ecb788-4a0c-424e-a298-5a613cd5c046",
+            "grounding": {
+                "box": {
+                    "left": 0.13571327924728394,
+                    "top": 0.3333923816680908,
+                    "right": 0.8840169310569763,
+                    "bottom": 0.4117162823677063
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c156e699-5558-4f61-9141-f269b2d85927'></a>\n\nPercentage\n<::table\n| Side | Males | Females |\n|---|---|---|\n| Right | 51,5 | 56,5 |\n| Left | 48,5 | 43,5 |\n: table::>\nDifference is statistically significant (Chi \u2013 squared p<0.001).",
+            "type": "figure",
+            "id": "c156e699-5558-4f61-9141-f269b2d85927",
+            "grounding": {
+                "box": {
+                    "left": 0.12912949919700623,
+                    "top": 0.4207683205604553,
+                    "right": 0.6273298263549805,
+                    "bottom": 0.506809651851654
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f17a244d-a611-40c8-b109-cc94f82af616'></a>\n\n12.4 Bilateral arthroplasty\n\nIn the period of registry observation (14 years), 10.069 patients underwent bilateral operations.\n8.597 (85,4%) chose to undergo the second operation at the same hospital from where the first one was performed.\n469 (4,7%) chose to undergo the second operation at a different hospital from where the first one was performed to follow the surgeon.\n1.003 (10,0%) chose to undergo the second operation at a different hospital from where the first one was performed.\nIn bilateral operations, it was observed that the first knee to be treated was the right one in 54,1% of cases.",
+            "type": "text",
+            "id": "f17a244d-a611-40c8-b109-cc94f82af616",
+            "grounding": {
+                "box": {
+                    "left": 0.1365429162979126,
+                    "top": 0.5272923707962036,
+                    "right": 0.8851416110992432,
+                    "bottom": 0.7044970989227295
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='56671f02-582e-43b5-8d4e-18de423b578b'></a>\n\n12.5 Diseases treated with unicompartmental knee prosthesis\nNumber of primary unicompartmental knee prosthesis operations carried out on patients\nwith admission date between 1st July 2000 and 31st December 2013, according to",
+            "type": "text",
+            "id": "56671f02-582e-43b5-8d4e-18de423b578b",
+            "grounding": {
+                "box": {
+                    "left": 0.13692936301231384,
+                    "top": 0.7137129306793213,
+                    "right": 0.883628249168396,
+                    "bottom": 0.7796890735626221
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4a97bfb1-01b0-4703-a4b3-31c2cc5b1b6a'></a>\n\ndiagnosis\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Diagnosis in unicomp. knee prosthesis</td><td id=\"0-3\">Number</td><td id=\"0-4\">Percentage</td></tr>\n<tr><td id=\"0-5\">Primary arthritis</td><td id=\"0-6\">6.606</td><td id=\"0-7\">85,9</td></tr>\n<tr><td id=\"0-8\">Necrosis of the condyle</td><td id=\"0-9\">398</td><td id=\"0-a\">5,2</td></tr>\n<tr><td id=\"0-b\">Deformity</td><td id=\"0-c\">419</td><td id=\"0-d\">5,4</td></tr>\n<tr><td id=\"0-e\">Post-traumatic arthritis</td><td id=\"0-f\">86</td><td id=\"0-g\">1,1</td></tr>\n<tr><td id=\"0-h\">Post-traumatic necrosis</td><td id=\"0-i\">64</td><td id=\"0-j\">0,8</td></tr>\n<tr><td id=\"0-k\">Idiopathic necrosis</td><td id=\"0-l\">33</td><td id=\"0-m\">0,4</td></tr>\n</table>",
+            "type": "table",
+            "id": "4a97bfb1-01b0-4703-a4b3-31c2cc5b1b6a",
+            "grounding": {
+                "box": {
+                    "left": 0.12888410687446594,
+                    "top": 0.7786887884140015,
+                    "right": 0.7284213304519653,
+                    "bottom": 0.930711030960083
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='124d4424-c290-4068-ba86-7279e9918cde'></a>\n\n72",
+            "type": "marginalia",
+            "id": "124d4424-c290-4068-ba86-7279e9918cde",
+            "grounding": {
+                "box": {
+                    "left": 0.49694937467575073,
+                    "top": 0.9436299204826355,
+                    "right": 0.5241898894309998,
+                    "bottom": 0.9580121636390686
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f0270f84-b9e1-486f-ae56-7cf2c8292ea8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hjxn0226",
+            "type": "text",
+            "id": "f0270f84-b9e1-486f-ae56-7cf2c8292ea8",
+            "grounding": {
+                "box": {
+                    "left": 0.20825469493865967,
+                    "top": 0.9781551361083984,
+                    "right": 0.7929911613464355,
+                    "bottom": 0.9998091459274292
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='14df4134-3e3f-4fd9-ab64-dc74edca3663'></a>\n\n12.2 Gender\nNumber of knee operations carried out on patients with admission date between 1st July\n2000 and 31st December 2013, according to type of operation and gender of patients\n<::transcription of the content\n: table::>\n| Type of operation | Males | Males | Females | Females | Total |\n|---|---|---|---|---|---|\n| | N. | % | N. | % | N. |\n| Bi/tricompartmental | 16.373 | 28,0 | 42.145 | 72,0 | 58.518 |\n| Unicompartmental | 2.519 | 32,7 | 5.189 | 67,3 | 7.708 |\n| Revision | 1.159 | 26,0 | 3.295 | 74,0 | 4.454 |\n| Prosthesis removal | 368 | 37,3 | 618 | 62,7 | 986 |\n| Patella only | 141 | 24,6 | 432 | 75,4 | 573 |\n| **Total** | **20.560** | **28,5** | **51.679** | **71,5** | **72.239** |\n<::\n\n<a id='07ecb788-4a0c-424e-a298-5a613cd5c046'></a>\n\n## 12.3 Side of surgery\n\nThere is a prevalence of operations performed on the right side (55,0%) in comparison with the left side (45,0%). The percentage was calculated on patients affected by primary arthritis, on first side operated.\n\n<a id='c156e699-5558-4f61-9141-f269b2d85927'></a>\n\nPercentage\n<::table\n| Side | Males | Females |\n|---|---|---|\n| Right | 51,5 | 56,5 |\n| Left | 48,5 | 43,5 |\n: table::>\nDifference is statistically significant (Chi \u2013 squared p<0.001).\n\n<a id='f17a244d-a611-40c8-b109-cc94f82af616'></a>\n\n12.4 Bilateral arthroplasty\n\nIn the period of registry observation (14 years), 10.069 patients underwent bilateral operations.\n8.597 (85,4%) chose to undergo the second operation at the same hospital from where the first one was performed.\n469 (4,7%) chose to undergo the second operation at a different hospital from where the first one was performed to follow the surgeon.\n1.003 (10,0%) chose to undergo the second operation at a different hospital from where the first one was performed.\nIn bilateral operations, it was observed that the first knee to be treated was the right one in 54,1% of cases.\n\n<a id='56671f02-582e-43b5-8d4e-18de423b578b'></a>\n\n12.5 Diseases treated with unicompartmental knee prosthesis\nNumber of primary unicompartmental knee prosthesis operations carried out on patients\nwith admission date between 1st July 2000 and 31st December 2013, according to\n\n<a id='4a97bfb1-01b0-4703-a4b3-31c2cc5b1b6a'></a>\n\ndiagnosis\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Diagnosis in unicomp. knee prosthesis</td><td id=\"0-3\">Number</td><td id=\"0-4\">Percentage</td></tr>\n<tr><td id=\"0-5\">Primary arthritis</td><td id=\"0-6\">6.606</td><td id=\"0-7\">85,9</td></tr>\n<tr><td id=\"0-8\">Necrosis of the condyle</td><td id=\"0-9\">398</td><td id=\"0-a\">5,2</td></tr>\n<tr><td id=\"0-b\">Deformity</td><td id=\"0-c\">419</td><td id=\"0-d\">5,4</td></tr>\n<tr><td id=\"0-e\">Post-traumatic arthritis</td><td id=\"0-f\">86</td><td id=\"0-g\">1,1</td></tr>\n<tr><td id=\"0-h\">Post-traumatic necrosis</td><td id=\"0-i\">64</td><td id=\"0-j\">0,8</td></tr>\n<tr><td id=\"0-k\">Idiopathic necrosis</td><td id=\"0-l\">33</td><td id=\"0-m\">0,4</td></tr>\n</table>\n\n<a id='124d4424-c290-4068-ba86-7279e9918cde'></a>\n\n72\n\n<a id='f0270f84-b9e1-486f-ae56-7cf2c8292ea8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hjxn0226",
+            "chunks": [
+                "14df4134-3e3f-4fd9-ab64-dc74edca3663",
+                "07ecb788-4a0c-424e-a298-5a613cd5c046",
+                "c156e699-5558-4f61-9141-f269b2d85927",
+                "f17a244d-a611-40c8-b109-cc94f82af616",
+                "56671f02-582e-43b5-8d4e-18de423b578b",
+                "4a97bfb1-01b0-4703-a4b3-31c2cc5b1b6a",
+                "124d4424-c290-4068-ba86-7279e9918cde",
+                "f0270f84-b9e1-486f-ae56-7cf2c8292ea8"
+            ]
+        }
+    ],
+    "grounding": {
+        "14df4134-3e3f-4fd9-ab64-dc74edca3663": {
+            "box": {
+                "left": 0.12815973162651062,
+                "top": 0.08983682096004486,
+                "right": 0.8832970857620239,
+                "bottom": 0.3254225254058838
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "07ecb788-4a0c-424e-a298-5a613cd5c046": {
+            "box": {
+                "left": 0.13571327924728394,
+                "top": 0.3333923816680908,
+                "right": 0.8840169310569763,
+                "bottom": 0.4117162823677063
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c156e699-5558-4f61-9141-f269b2d85927": {
+            "box": {
+                "left": 0.12912949919700623,
+                "top": 0.4207683205604553,
+                "right": 0.6273298263549805,
+                "bottom": 0.506809651851654
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "f17a244d-a611-40c8-b109-cc94f82af616": {
+            "box": {
+                "left": 0.1365429162979126,
+                "top": 0.5272923707962036,
+                "right": 0.8851416110992432,
+                "bottom": 0.7044970989227295
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "56671f02-582e-43b5-8d4e-18de423b578b": {
+            "box": {
+                "left": 0.13692936301231384,
+                "top": 0.7137129306793213,
+                "right": 0.883628249168396,
+                "bottom": 0.7796890735626221
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4a97bfb1-01b0-4703-a4b3-31c2cc5b1b6a": {
+            "box": {
+                "left": 0.12888410687446594,
+                "top": 0.7786887884140015,
+                "right": 0.7284213304519653,
+                "bottom": 0.930711030960083
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.13252675946186315,
+                "top": 0.7955525358516002,
+                "right": 0.724316999418928,
+                "bottom": 0.925608841639125
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.13252675946186315,
+                "top": 0.7955525358516002,
+                "right": 0.4167944381577433,
+                "bottom": 0.8267961817325542
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.4167944381577433,
+                "top": 0.7955525358516002,
+                "right": 0.5404922193959631,
+                "bottom": 0.8267961817325542
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5404922193959631,
+                "top": 0.7955525358516002,
+                "right": 0.7236789473650607,
+                "bottom": 0.8267961817325542
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.13252675946186315,
+                "top": 0.8267961817325542,
+                "right": 0.4167944381577433,
+                "bottom": 0.8424840146137846
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.4167944381577433,
+                "top": 0.8267961817325542,
+                "right": 0.5404922193959631,
+                "bottom": 0.8424840146137846
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5404922193959631,
+                "top": 0.8267961817325542,
+                "right": 0.7236789473650607,
+                "bottom": 0.8424840146137846
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.13252675946186315,
+                "top": 0.8424840146137846,
+                "right": 0.4167944381577433,
+                "bottom": 0.859091417539446
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.4167944381577433,
+                "top": 0.8424840146137846,
+                "right": 0.5404922193959631,
+                "bottom": 0.859091417539446
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5404922193959631,
+                "top": 0.8424840146137846,
+                "right": 0.7236789473650607,
+                "bottom": 0.859091417539446
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.13252675946186315,
+                "top": 0.859091417539446,
+                "right": 0.4167944381577433,
+                "bottom": 0.87576740039772
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.4167944381577433,
+                "top": 0.859091417539446,
+                "right": 0.5404922193959631,
+                "bottom": 0.87576740039772
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5404922193959631,
+                "top": 0.859091417539446,
+                "right": 0.7236789473650607,
+                "bottom": 0.87576740039772
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.13252675946186315,
+                "top": 0.87576740039772,
+                "right": 0.4167944381577433,
+                "bottom": 0.8924483035048425
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.4167944381577433,
+                "top": 0.87576740039772,
+                "right": 0.5404922193959631,
+                "bottom": 0.8924483035048425
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5404922193959631,
+                "top": 0.87576740039772,
+                "right": 0.7236789473650607,
+                "bottom": 0.8924483035048425
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.13252675946186315,
+                "top": 0.8924483035048425,
+                "right": 0.4167944381577433,
+                "bottom": 0.9089829673925109
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.4167944381577433,
+                "top": 0.8924483035048425,
+                "right": 0.5404922193959631,
+                "bottom": 0.9089829673925109
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5404922193959631,
+                "top": 0.8924483035048425,
+                "right": 0.7236789473650607,
+                "bottom": 0.9089829673925109
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.13252675946186315,
+                "top": 0.9089829673925109,
+                "right": 0.4167944381577433,
+                "bottom": 0.925608841639125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.4167944381577433,
+                "top": 0.9089829673925109,
+                "right": 0.5404922193959631,
+                "bottom": 0.925608841639125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5404922193959631,
+                "top": 0.9089829673925109,
+                "right": 0.7236789473650607,
+                "bottom": 0.925608841639125
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "124d4424-c290-4068-ba86-7279e9918cde": {
+            "box": {
+                "left": 0.49694937467575073,
+                "top": 0.9436299204826355,
+                "right": 0.5241898894309998,
+                "bottom": 0.9580121636390686
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "f0270f84-b9e1-486f-ae56-7cf2c8292ea8": {
+            "box": {
+                "left": 0.20825469493865967,
+                "top": 0.9781551361083984,
+                "right": 0.7929911613464355,
+                "bottom": 0.9998091459274292
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "hjxn0226_72.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7791,
+        "credit_usage": 3.0,
+        "job_id": "z9sddki85qbmamywvp7lbbvoe",
+        "version": "dpt-2-20250919"
+    }
+}

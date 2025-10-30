@@ -1,0 +1,253 @@
+{
+    "markdown": "<a id='fce0fe40-3d46-498c-aef2-57f345329aa0'></a>\n\nGHCP18RN1610XX TEMPORARY PAYMENT DETAIL REPORT\n\n<a id='6cc9593b-49c3-4706-99fc-627a59ade929'></a>\n\n07/10/97\n\n<a id='6f769ddf-104b-43e5-b1b5-95f540963937'></a>\n\nACCOUNT NUMBER: 509977\nVOUCHER NUMBER: 15360201\nDATE WRITTEN: 07/10/97\nSTATUS: PAID\nAMOUNT PAID: 217.00\n\n<a id='0cf3d687-4017-4edf-b187-37dfad4ff2ff'></a>\n\nW.FOURTUNIS DBA A-W\n15 REV GF WIGGINS PL\nPEEKSKILL , NY 10566\n\n<a id='fd8ec632-1f2f-4937-8c02-a110cc3e748d'></a>\n\nAMOUNT PAID: 217.00\n\nSEND CHECK TO: ROU\n\n<a id='cf2c4a95-4106-42ed-9197-b28082739dac'></a>\n\n<table><thead><tr><th>DESCRIPTION</th><th>UNITS</th><th>AMOUNT</th></tr></thead><tbody><tr><td>'97 VAP PK & SHP</td><td>7.75</td><td>217.00</td></tr></tbody></table>\n\n<a id='008a8b23-eaba-4a4d-995e-034962e580d9'></a>\n\nEXPLANATION: JULY: DORAL B2GF FLASHLIGHT/#700727/SR 162309\n\n<a id='beaaed79-3f0c-4fdb-9296-27a4133e295d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/flym0000\n\n<a id='e6ab29ad-7741-49fb-b904-c126053f8ce7'></a>\n\n51862 4032",
+    "chunks": [
+        {
+            "markdown": "<a id='fce0fe40-3d46-498c-aef2-57f345329aa0'></a>\n\nGHCP18RN1610XX TEMPORARY PAYMENT DETAIL REPORT",
+            "type": "text",
+            "id": "fce0fe40-3d46-498c-aef2-57f345329aa0",
+            "grounding": {
+                "box": {
+                    "left": 0.06606657803058624,
+                    "top": 0.08331870287656784,
+                    "right": 0.5058249235153198,
+                    "bottom": 0.1003151461482048
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6cc9593b-49c3-4706-99fc-627a59ade929'></a>\n\n07/10/97",
+            "type": "marginalia",
+            "id": "6cc9593b-49c3-4706-99fc-627a59ade929",
+            "grounding": {
+                "box": {
+                    "left": 0.6982648372650146,
+                    "top": 0.08472660183906555,
+                    "right": 0.7806379795074463,
+                    "bottom": 0.10114619135856628
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6f769ddf-104b-43e5-b1b5-95f540963937'></a>\n\nACCOUNT NUMBER: 509977\nVOUCHER NUMBER: 15360201\nDATE WRITTEN: 07/10/97\nSTATUS: PAID\nAMOUNT PAID: 217.00",
+            "type": "text",
+            "id": "6f769ddf-104b-43e5-b1b5-95f540963937",
+            "grounding": {
+                "box": {
+                    "left": 0.07501775026321411,
+                    "top": 0.126893550157547,
+                    "right": 0.3072279989719391,
+                    "bottom": 0.19967451691627502
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0cf3d687-4017-4edf-b187-37dfad4ff2ff'></a>\n\nW.FOURTUNIS DBA A-W\n15 REV GF WIGGINS PL\nPEEKSKILL , NY 10566",
+            "type": "text",
+            "id": "0cf3d687-4017-4edf-b187-37dfad4ff2ff",
+            "grounding": {
+                "box": {
+                    "left": 0.4208708703517914,
+                    "top": 0.12761272490024567,
+                    "right": 0.6151392459869385,
+                    "bottom": 0.17305316030979156
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fd8ec632-1f2f-4937-8c02-a110cc3e748d'></a>\n\nAMOUNT PAID: 217.00\n\nSEND CHECK TO: ROU",
+            "type": "text",
+            "id": "fd8ec632-1f2f-4937-8c02-a110cc3e748d",
+            "grounding": {
+                "box": {
+                    "left": 0.07679161429405212,
+                    "top": 0.18491896986961365,
+                    "right": 0.5955801010131836,
+                    "bottom": 0.2018347978591919
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cf2c4a95-4106-42ed-9197-b28082739dac'></a>\n\n<table><thead><tr><th>DESCRIPTION</th><th>UNITS</th><th>AMOUNT</th></tr></thead><tbody><tr><td>'97 VAP PK & SHP</td><td>7.75</td><td>217.00</td></tr></tbody></table>",
+            "type": "table",
+            "id": "cf2c4a95-4106-42ed-9197-b28082739dac",
+            "grounding": {
+                "box": {
+                    "left": 0.0869162529706955,
+                    "top": 0.226933091878891,
+                    "right": 0.45883530378341675,
+                    "bottom": 0.27493706345558167
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='008a8b23-eaba-4a4d-995e-034962e580d9'></a>\n\nEXPLANATION: JULY: DORAL B2GF FLASHLIGHT/#700727/SR 162309",
+            "type": "text",
+            "id": "008a8b23-eaba-4a4d-995e-034962e580d9",
+            "grounding": {
+                "box": {
+                    "left": 0.07596459984779358,
+                    "top": 0.31399285793304443,
+                    "right": 0.6214847564697266,
+                    "bottom": 0.33104974031448364
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='beaaed79-3f0c-4fdb-9296-27a4133e295d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/flym0000",
+            "type": "marginalia",
+            "id": "beaaed79-3f0c-4fdb-9296-27a4133e295d",
+            "grounding": {
+                "box": {
+                    "left": 0.21662572026252747,
+                    "top": 0.9788217544555664,
+                    "right": 0.7843300104141235,
+                    "bottom": 0.999282717704773
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e6ab29ad-7741-49fb-b904-c126053f8ce7'></a>\n\n51862 4032",
+            "type": "marginalia",
+            "id": "e6ab29ad-7741-49fb-b904-c126053f8ce7",
+            "grounding": {
+                "box": {
+                    "left": 0.8841148614883423,
+                    "top": 0.823826789855957,
+                    "right": 0.9080832004547119,
+                    "bottom": 0.9174998998641968
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='fce0fe40-3d46-498c-aef2-57f345329aa0'></a>\n\nGHCP18RN1610XX TEMPORARY PAYMENT DETAIL REPORT\n\n<a id='6cc9593b-49c3-4706-99fc-627a59ade929'></a>\n\n07/10/97\n\n<a id='6f769ddf-104b-43e5-b1b5-95f540963937'></a>\n\nACCOUNT NUMBER: 509977\nVOUCHER NUMBER: 15360201\nDATE WRITTEN: 07/10/97\nSTATUS: PAID\nAMOUNT PAID: 217.00\n\n<a id='0cf3d687-4017-4edf-b187-37dfad4ff2ff'></a>\n\nW.FOURTUNIS DBA A-W\n15 REV GF WIGGINS PL\nPEEKSKILL , NY 10566\n\n<a id='fd8ec632-1f2f-4937-8c02-a110cc3e748d'></a>\n\nAMOUNT PAID: 217.00\n\nSEND CHECK TO: ROU\n\n<a id='cf2c4a95-4106-42ed-9197-b28082739dac'></a>\n\n<table><thead><tr><th>DESCRIPTION</th><th>UNITS</th><th>AMOUNT</th></tr></thead><tbody><tr><td>'97 VAP PK & SHP</td><td>7.75</td><td>217.00</td></tr></tbody></table>\n\n<a id='008a8b23-eaba-4a4d-995e-034962e580d9'></a>\n\nEXPLANATION: JULY: DORAL B2GF FLASHLIGHT/#700727/SR 162309\n\n<a id='beaaed79-3f0c-4fdb-9296-27a4133e295d'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/flym0000\n\n<a id='e6ab29ad-7741-49fb-b904-c126053f8ce7'></a>\n\n51862 4032",
+            "chunks": [
+                "fce0fe40-3d46-498c-aef2-57f345329aa0",
+                "6cc9593b-49c3-4706-99fc-627a59ade929",
+                "6f769ddf-104b-43e5-b1b5-95f540963937",
+                "0cf3d687-4017-4edf-b187-37dfad4ff2ff",
+                "fd8ec632-1f2f-4937-8c02-a110cc3e748d",
+                "cf2c4a95-4106-42ed-9197-b28082739dac",
+                "008a8b23-eaba-4a4d-995e-034962e580d9",
+                "beaaed79-3f0c-4fdb-9296-27a4133e295d",
+                "e6ab29ad-7741-49fb-b904-c126053f8ce7"
+            ]
+        }
+    ],
+    "grounding": {
+        "fce0fe40-3d46-498c-aef2-57f345329aa0": {
+            "box": {
+                "left": 0.06606657803058624,
+                "top": 0.08331870287656784,
+                "right": 0.5058249235153198,
+                "bottom": 0.1003151461482048
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6cc9593b-49c3-4706-99fc-627a59ade929": {
+            "box": {
+                "left": 0.6982648372650146,
+                "top": 0.08472660183906555,
+                "right": 0.7806379795074463,
+                "bottom": 0.10114619135856628
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "6f769ddf-104b-43e5-b1b5-95f540963937": {
+            "box": {
+                "left": 0.07501775026321411,
+                "top": 0.126893550157547,
+                "right": 0.3072279989719391,
+                "bottom": 0.19967451691627502
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0cf3d687-4017-4edf-b187-37dfad4ff2ff": {
+            "box": {
+                "left": 0.4208708703517914,
+                "top": 0.12761272490024567,
+                "right": 0.6151392459869385,
+                "bottom": 0.17305316030979156
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fd8ec632-1f2f-4937-8c02-a110cc3e748d": {
+            "box": {
+                "left": 0.07679161429405212,
+                "top": 0.18491896986961365,
+                "right": 0.5955801010131836,
+                "bottom": 0.2018347978591919
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cf2c4a95-4106-42ed-9197-b28082739dac": {
+            "box": {
+                "left": 0.0869162529706955,
+                "top": 0.226933091878891,
+                "right": 0.45883530378341675,
+                "bottom": 0.27493706345558167
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "008a8b23-eaba-4a4d-995e-034962e580d9": {
+            "box": {
+                "left": 0.07596459984779358,
+                "top": 0.31399285793304443,
+                "right": 0.6214847564697266,
+                "bottom": 0.33104974031448364
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "beaaed79-3f0c-4fdb-9296-27a4133e295d": {
+            "box": {
+                "left": 0.21662572026252747,
+                "top": 0.9788217544555664,
+                "right": 0.7843300104141235,
+                "bottom": 0.999282717704773
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "e6ab29ad-7741-49fb-b904-c126053f8ce7": {
+            "box": {
+                "left": 0.8841148614883423,
+                "top": 0.823826789855957,
+                "right": 0.9080832004547119,
+                "bottom": 0.9174998998641968
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "flym0000_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4105,
+        "credit_usage": 3.0,
+        "job_id": "lcr1i1ghpx7oqjexj0pxfrgkb",
+        "version": "dpt-2-20250919"
+    }
+}

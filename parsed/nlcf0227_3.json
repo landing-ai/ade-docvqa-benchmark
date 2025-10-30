@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='a9867f7e-bf45-4ddc-abb3-167418873390'></a>\n\n5/80\n\n<a id='3b87ad32-10ad-4723-a09b-a3fb770317f6'></a>\n\nSECTION 18\n\n<a id='5c5ba193-0516-45b0-912a-89e1b63d2945'></a>\n\nICD-9-CM DIAGNOSIS CODES\n\n<a id='aa6e8f22-ed69-49e0-80bd-f8e0b26d0112'></a>\n\nThe following codes are the most common ICD-9-CM codes. For a complete list of the ICD-9-CM codes, refer to the ICD-9-CM Volumes published by CPHA.\n\n<a id='6cb11733-ff50-40b0-aa12-9cf20592a6ce'></a>\n\n-A-\n\n<a id='62bad360-60a4-4417-8f4c-448fefd54a6f'></a>\n\nAbortion - Spontaneous                                634\nAbortion - Legally induced                            635\nIncludes: abortion or termination of pregnancy:\n  elective\n  legal\n  therapeutic\nComplicated by genital tract and pelvic infection     635.0\nComplicated by delayed or excessive hemorrhage        635.1\nComplicated by damage to pelvic organs or tissues     635.2\nComplicated by renal failure                          635.3\nComplicated by metabolic disorder                     635.4\nComplicated by shock                                  635.5\nComplicated by embolism                               635.6\nWith other specified complications                    635.7\nWith unspecified complication                         635.8\nWithout mention of complication                       635.9\nAbortion - Threatened                                 640\nAbrasion from injury                                  919\nAbscess                                               682\nAbscessed Tooth                                       522\nAcne (Vulgaris)                                       706\nAddison's Disease                                     255\nAdenitis                                              289\nAdenoids & Tonsils                                    474\nAdhesions, abdominal                                  568\nAlcohol dependence                                    303\nAllergy                                               477\nAllergy (contact dermatitis)                          692\nAnemia                                                285\n  Hypochromic                                         280\n  Iron Deficiency                                     280\n  Pernicious                                          281\n  Sickle Cell                                         282\nAneurysm                                              442\nAngina Pectoria                                       413\nAnxiety Depression                                    300\nAortic Stenosis                                       424\n  Rheumatic                                           395\nAppendicitis                                          541\n  Acute                                               540\nArteriosclerosis                                      440\nArteriosclerotic Cardiovascular Disease (ASCVD)       429\n  with Hypertension                                   402\n\n<a id='106b686d-d5dc-490a-b1f1-8cf48485bf36'></a>\n\nMO MEDICAID PROVIDER MANUAL\nPHYSICIAN - DIAGNOSIS CODES\n18-1\n\n<a id='6561f0fb-6362-4b5d-adce-c4d820d83b09'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nlcf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='a9867f7e-bf45-4ddc-abb3-167418873390'></a>\n\n5/80",
+            "type": "marginalia",
+            "id": "a9867f7e-bf45-4ddc-abb3-167418873390",
+            "grounding": {
+                "box": {
+                    "left": 0.15328766405582428,
+                    "top": 0.04391023516654968,
+                    "right": 0.19878126680850983,
+                    "bottom": 0.06291510909795761
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3b87ad32-10ad-4723-a09b-a3fb770317f6'></a>\n\nSECTION 18",
+            "type": "text",
+            "id": "3b87ad32-10ad-4723-a09b-a3fb770317f6",
+            "grounding": {
+                "box": {
+                    "left": 0.15396782755851746,
+                    "top": 0.10121535509824753,
+                    "right": 0.25455474853515625,
+                    "bottom": 0.12240565568208694
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5c5ba193-0516-45b0-912a-89e1b63d2945'></a>\n\nICD-9-CM DIAGNOSIS CODES",
+            "type": "text",
+            "id": "5c5ba193-0516-45b0-912a-89e1b63d2945",
+            "grounding": {
+                "box": {
+                    "left": 0.3942212462425232,
+                    "top": 0.10189978033304214,
+                    "right": 0.6272287964820862,
+                    "bottom": 0.12561365962028503
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='aa6e8f22-ed69-49e0-80bd-f8e0b26d0112'></a>\n\nThe following codes are the most common ICD-9-CM codes. For a complete list of the ICD-9-CM codes, refer to the ICD-9-CM Volumes published by CPHA.",
+            "type": "text",
+            "id": "aa6e8f22-ed69-49e0-80bd-f8e0b26d0112",
+            "grounding": {
+                "box": {
+                    "left": 0.1504288911819458,
+                    "top": 0.14533531665802002,
+                    "right": 0.8790051937103271,
+                    "bottom": 0.18246430158615112
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6cb11733-ff50-40b0-aa12-9cf20592a6ce'></a>\n\n-A-",
+            "type": "text",
+            "id": "6cb11733-ff50-40b0-aa12-9cf20592a6ce",
+            "grounding": {
+                "box": {
+                    "left": 0.49681153893470764,
+                    "top": 0.19168387353420258,
+                    "right": 0.5352794528007507,
+                    "bottom": 0.20963169634342194
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='62bad360-60a4-4417-8f4c-448fefd54a6f'></a>\n\nAbortion - Spontaneous                                634\nAbortion - Legally induced                            635\nIncludes: abortion or termination of pregnancy:\n  elective\n  legal\n  therapeutic\nComplicated by genital tract and pelvic infection     635.0\nComplicated by delayed or excessive hemorrhage        635.1\nComplicated by damage to pelvic organs or tissues     635.2\nComplicated by renal failure                          635.3\nComplicated by metabolic disorder                     635.4\nComplicated by shock                                  635.5\nComplicated by embolism                               635.6\nWith other specified complications                    635.7\nWith unspecified complication                         635.8\nWithout mention of complication                       635.9\nAbortion - Threatened                                 640\nAbrasion from injury                                  919\nAbscess                                               682\nAbscessed Tooth                                       522\nAcne (Vulgaris)                                       706\nAddison's Disease                                     255\nAdenitis                                              289\nAdenoids & Tonsils                                    474\nAdhesions, abdominal                                  568\nAlcohol dependence                                    303\nAllergy                                               477\nAllergy (contact dermatitis)                          692\nAnemia                                                285\n  Hypochromic                                         280\n  Iron Deficiency                                     280\n  Pernicious                                          281\n  Sickle Cell                                         282\nAneurysm                                              442\nAngina Pectoria                                       413\nAnxiety Depression                                    300\nAortic Stenosis                                       424\n  Rheumatic                                           395\nAppendicitis                                          541\n  Acute                                               540\nArteriosclerosis                                      440\nArteriosclerotic Cardiovascular Disease (ASCVD)       429\n  with Hypertension                                   402",
+            "type": "text",
+            "id": "62bad360-60a4-4417-8f4c-448fefd54a6f",
+            "grounding": {
+                "box": {
+                    "left": 0.20902583003044128,
+                    "top": 0.2180120348930359,
+                    "right": 0.8303824663162231,
+                    "bottom": 0.8565239310264587
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='106b686d-d5dc-490a-b1f1-8cf48485bf36'></a>\n\nMO MEDICAID PROVIDER MANUAL\nPHYSICIAN - DIAGNOSIS CODES\n18-1",
+            "type": "text",
+            "id": "106b686d-d5dc-490a-b1f1-8cf48485bf36",
+            "grounding": {
+                "box": {
+                    "left": 0.3806304633617401,
+                    "top": 0.8906413316726685,
+                    "right": 0.6455116271972656,
+                    "bottom": 0.9405968189239502
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6561f0fb-6362-4b5d-adce-c4d820d83b09'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nlcf0227",
+            "type": "text",
+            "id": "6561f0fb-6362-4b5d-adce-c4d820d83b09",
+            "grounding": {
+                "box": {
+                    "left": 0.23266908526420593,
+                    "top": 0.9797927737236023,
+                    "right": 0.7683205604553223,
+                    "bottom": 0.9994743466377258
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a9867f7e-bf45-4ddc-abb3-167418873390'></a>\n\n5/80\n\n<a id='3b87ad32-10ad-4723-a09b-a3fb770317f6'></a>\n\nSECTION 18\n\n<a id='5c5ba193-0516-45b0-912a-89e1b63d2945'></a>\n\nICD-9-CM DIAGNOSIS CODES\n\n<a id='aa6e8f22-ed69-49e0-80bd-f8e0b26d0112'></a>\n\nThe following codes are the most common ICD-9-CM codes. For a complete list of the ICD-9-CM codes, refer to the ICD-9-CM Volumes published by CPHA.\n\n<a id='6cb11733-ff50-40b0-aa12-9cf20592a6ce'></a>\n\n-A-\n\n<a id='62bad360-60a4-4417-8f4c-448fefd54a6f'></a>\n\nAbortion - Spontaneous                                634\nAbortion - Legally induced                            635\nIncludes: abortion or termination of pregnancy:\n  elective\n  legal\n  therapeutic\nComplicated by genital tract and pelvic infection     635.0\nComplicated by delayed or excessive hemorrhage        635.1\nComplicated by damage to pelvic organs or tissues     635.2\nComplicated by renal failure                          635.3\nComplicated by metabolic disorder                     635.4\nComplicated by shock                                  635.5\nComplicated by embolism                               635.6\nWith other specified complications                    635.7\nWith unspecified complication                         635.8\nWithout mention of complication                       635.9\nAbortion - Threatened                                 640\nAbrasion from injury                                  919\nAbscess                                               682\nAbscessed Tooth                                       522\nAcne (Vulgaris)                                       706\nAddison's Disease                                     255\nAdenitis                                              289\nAdenoids & Tonsils                                    474\nAdhesions, abdominal                                  568\nAlcohol dependence                                    303\nAllergy                                               477\nAllergy (contact dermatitis)                          692\nAnemia                                                285\n  Hypochromic                                         280\n  Iron Deficiency                                     280\n  Pernicious                                          281\n  Sickle Cell                                         282\nAneurysm                                              442\nAngina Pectoria                                       413\nAnxiety Depression                                    300\nAortic Stenosis                                       424\n  Rheumatic                                           395\nAppendicitis                                          541\n  Acute                                               540\nArteriosclerosis                                      440\nArteriosclerotic Cardiovascular Disease (ASCVD)       429\n  with Hypertension                                   402\n\n<a id='106b686d-d5dc-490a-b1f1-8cf48485bf36'></a>\n\nMO MEDICAID PROVIDER MANUAL\nPHYSICIAN - DIAGNOSIS CODES\n18-1\n\n<a id='6561f0fb-6362-4b5d-adce-c4d820d83b09'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/nlcf0227",
+            "chunks": [
+                "a9867f7e-bf45-4ddc-abb3-167418873390",
+                "3b87ad32-10ad-4723-a09b-a3fb770317f6",
+                "5c5ba193-0516-45b0-912a-89e1b63d2945",
+                "aa6e8f22-ed69-49e0-80bd-f8e0b26d0112",
+                "6cb11733-ff50-40b0-aa12-9cf20592a6ce",
+                "62bad360-60a4-4417-8f4c-448fefd54a6f",
+                "106b686d-d5dc-490a-b1f1-8cf48485bf36",
+                "6561f0fb-6362-4b5d-adce-c4d820d83b09"
+            ]
+        }
+    ],
+    "grounding": {
+        "a9867f7e-bf45-4ddc-abb3-167418873390": {
+            "box": {
+                "left": 0.15328766405582428,
+                "top": 0.04391023516654968,
+                "right": 0.19878126680850983,
+                "bottom": 0.06291510909795761
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "3b87ad32-10ad-4723-a09b-a3fb770317f6": {
+            "box": {
+                "left": 0.15396782755851746,
+                "top": 0.10121535509824753,
+                "right": 0.25455474853515625,
+                "bottom": 0.12240565568208694
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5c5ba193-0516-45b0-912a-89e1b63d2945": {
+            "box": {
+                "left": 0.3942212462425232,
+                "top": 0.10189978033304214,
+                "right": 0.6272287964820862,
+                "bottom": 0.12561365962028503
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "aa6e8f22-ed69-49e0-80bd-f8e0b26d0112": {
+            "box": {
+                "left": 0.1504288911819458,
+                "top": 0.14533531665802002,
+                "right": 0.8790051937103271,
+                "bottom": 0.18246430158615112
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6cb11733-ff50-40b0-aa12-9cf20592a6ce": {
+            "box": {
+                "left": 0.49681153893470764,
+                "top": 0.19168387353420258,
+                "right": 0.5352794528007507,
+                "bottom": 0.20963169634342194
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "62bad360-60a4-4417-8f4c-448fefd54a6f": {
+            "box": {
+                "left": 0.20902583003044128,
+                "top": 0.2180120348930359,
+                "right": 0.8303824663162231,
+                "bottom": 0.8565239310264587
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "106b686d-d5dc-490a-b1f1-8cf48485bf36": {
+            "box": {
+                "left": 0.3806304633617401,
+                "top": 0.8906413316726685,
+                "right": 0.6455116271972656,
+                "bottom": 0.9405968189239502
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6561f0fb-6362-4b5d-adce-c4d820d83b09": {
+            "box": {
+                "left": 0.23266908526420593,
+                "top": 0.9797927737236023,
+                "right": 0.7683205604553223,
+                "bottom": 0.9994743466377258
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "nlcf0227_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 12235,
+        "credit_usage": 3.0,
+        "job_id": "xg7h6w85t4bb8czmrnl9r45go",
+        "version": "dpt-2-20250919"
+    }
+}

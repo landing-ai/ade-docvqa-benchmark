@@ -1,0 +1,353 @@
+{
+    "markdown": "<a id='545d03bf-eb56-4314-b3db-6ab53054a63d'></a>\n\nFROM : DSF_GRAIN_&_SEED, INC. ---\nFROM : DSF_GRAIN_&_SEED, INC. ---\n\n<a id='735ad06f-1aac-4087-9f74-064a6d764bef'></a>\n\nFAX NO. : 615-696-4774\nFAX NU. : 615-696-4774\n\n<a id='ba503b17-730d-4c14-82c4-87eb9f329951'></a>\n\nNov. 28 2000 09:54AM P4\nNov. 22 2000 10:25AM P7\n\n<a id='1f01f8b1-809b-4adf-880b-8ededa52fc53'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name in a black, elegant script font, underlined by a thin horizontal line, with \"Tobacco Company\" in a smaller, sans-serif font below the line.::>\n\n<a id='e895611f-e221-4a8d-9b79-64b8ce1c71b6'></a>\n\nGrowers Questionnaire\n\nName: Janice Williams or David\n\nMailing Address: 5150 Old Betts Rd\n\nCity: Greenbrier\n\nState: Tenn\nZip Code: 37073\n\nHome Telephone: 615-382-7465\n\nWork Telephone: 615-284-1362\n\nCell Telephone: 512-2971\n\nE-Mail Address: N/A\n\n<a id='e73f058c-a006-47cd-95bd-e697b2d3b0ae'></a>\n\nLand (Acres)\nOwned 520\nLeased ___\n\nProduction 1999 Crop (Pounds)\nOwned 5000\nLeased ___\n\n<a id='07006888-52f3-48db-bc7e-c075181ec1d2'></a>\n\nEst. 2000 Crop\n(Pounds)\nOwned 1640\nLeased ___\n\n<a id='a096e341-4f9e-4973-93c6-1ec10e87183e'></a>\n\nIrrigation\noption Yes: [x]\noption No: [ ]\n\n<a id='295eadc4-4c4c-4ee8-ab70-18688bb55516'></a>\n\nWhen will your farm be available for a visit from RJR representatives?\n\n---\n\n<a id='51aef481-64b5-4175-a8f8-398383481a5b'></a>\n\nComments:\n\n<a id='bc5ed89a-404c-40b9-95fa-e1316b35145e'></a>\n\nDirections To Farm:\n\n<a id='865d9714-0dcc-4f84-91e3-27d0db110c31'></a>\n\n52382 9103\n\n<a id='b7dd54e6-0292-478c-80ef-010f338486ea'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hzjg0224",
+    "chunks": [
+        {
+            "markdown": "<a id='545d03bf-eb56-4314-b3db-6ab53054a63d'></a>\n\nFROM : DSF_GRAIN_&_SEED, INC. ---\nFROM : DSF_GRAIN_&_SEED, INC. ---",
+            "type": "text",
+            "id": "545d03bf-eb56-4314-b3db-6ab53054a63d",
+            "grounding": {
+                "box": {
+                    "left": 0.035659059882164,
+                    "top": 0.036447249352931976,
+                    "right": 0.38693130016326904,
+                    "bottom": 0.07811395078897476
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='735ad06f-1aac-4087-9f74-064a6d764bef'></a>\n\nFAX NO. : 615-696-4774\nFAX NU. : 615-696-4774",
+            "type": "text",
+            "id": "735ad06f-1aac-4087-9f74-064a6d764bef",
+            "grounding": {
+                "box": {
+                    "left": 0.3895123302936554,
+                    "top": 0.03927329182624817,
+                    "right": 0.6175640821456909,
+                    "bottom": 0.08212558180093765
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ba503b17-730d-4c14-82c4-87eb9f329951'></a>\n\nNov. 28 2000 09:54AM P4\nNov. 22 2000 10:25AM P7",
+            "type": "text",
+            "id": "ba503b17-730d-4c14-82c4-87eb9f329951",
+            "grounding": {
+                "box": {
+                    "left": 0.6739076972007751,
+                    "top": 0.041933655738830566,
+                    "right": 0.9280555844306946,
+                    "bottom": 0.09027598798274994
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1f01f8b1-809b-4adf-880b-8ededa52fc53'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name in a black, elegant script font, underlined by a thin horizontal line, with \"Tobacco Company\" in a smaller, sans-serif font below the line.::>",
+            "type": "logo",
+            "id": "1f01f8b1-809b-4adf-880b-8ededa52fc53",
+            "grounding": {
+                "box": {
+                    "left": 0.2670571804046631,
+                    "top": 0.1058659702539444,
+                    "right": 0.7823741436004639,
+                    "bottom": 0.20172350108623505
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e895611f-e221-4a8d-9b79-64b8ce1c71b6'></a>\n\nGrowers Questionnaire\n\nName: Janice Williams or David\n\nMailing Address: 5150 Old Betts Rd\n\nCity: Greenbrier\n\nState: Tenn\nZip Code: 37073\n\nHome Telephone: 615-382-7465\n\nWork Telephone: 615-284-1362\n\nCell Telephone: 512-2971\n\nE-Mail Address: N/A",
+            "type": "text",
+            "id": "e895611f-e221-4a8d-9b79-64b8ce1c71b6",
+            "grounding": {
+                "box": {
+                    "left": 0.1434135138988495,
+                    "top": 0.19913065433502197,
+                    "right": 0.8667252063751221,
+                    "bottom": 0.44664281606674194
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e73f058c-a006-47cd-95bd-e697b2d3b0ae'></a>\n\nLand (Acres)\nOwned 520\nLeased ___\n\nProduction 1999 Crop (Pounds)\nOwned 5000\nLeased ___",
+            "type": "text",
+            "id": "e73f058c-a006-47cd-95bd-e697b2d3b0ae",
+            "grounding": {
+                "box": {
+                    "left": 0.14272193610668182,
+                    "top": 0.4720345139503479,
+                    "right": 0.6351290345191956,
+                    "bottom": 0.5623137354850769
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='07006888-52f3-48db-bc7e-c075181ec1d2'></a>\n\nEst. 2000 Crop\n(Pounds)\nOwned 1640\nLeased ___",
+            "type": "text",
+            "id": "07006888-52f3-48db-bc7e-c075181ec1d2",
+            "grounding": {
+                "box": {
+                    "left": 0.6647849082946777,
+                    "top": 0.47257182002067566,
+                    "right": 0.8686434030532837,
+                    "bottom": 0.5586588382720947
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a096e341-4f9e-4973-93c6-1ec10e87183e'></a>\n\nIrrigation\noption Yes: [x]\noption No: [ ]",
+            "type": "text",
+            "id": "a096e341-4f9e-4973-93c6-1ec10e87183e",
+            "grounding": {
+                "box": {
+                    "left": 0.14131242036819458,
+                    "top": 0.5769267082214355,
+                    "right": 0.7467456459999084,
+                    "bottom": 0.6310226917266846
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='295eadc4-4c4c-4ee8-ab70-18688bb55516'></a>\n\nWhen will your farm be available for a visit from RJR representatives?\n\n---",
+            "type": "text",
+            "id": "295eadc4-4c4c-4ee8-ab70-18688bb55516",
+            "grounding": {
+                "box": {
+                    "left": 0.1459798514842987,
+                    "top": 0.6315279603004456,
+                    "right": 0.8594527244567871,
+                    "bottom": 0.6793096661567688
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='51aef481-64b5-4175-a8f8-398383481a5b'></a>\n\nComments:",
+            "type": "text",
+            "id": "51aef481-64b5-4175-a8f8-398383481a5b",
+            "grounding": {
+                "box": {
+                    "left": 0.14885073900222778,
+                    "top": 0.6957394480705261,
+                    "right": 0.27326950430870056,
+                    "bottom": 0.7178465723991394
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bc5ed89a-404c-40b9-95fa-e1316b35145e'></a>\n\nDirections To Farm:",
+            "type": "text",
+            "id": "bc5ed89a-404c-40b9-95fa-e1316b35145e",
+            "grounding": {
+                "box": {
+                    "left": 0.14581377804279327,
+                    "top": 0.7510712146759033,
+                    "right": 0.34000545740127563,
+                    "bottom": 0.7779990434646606
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='865d9714-0dcc-4f84-91e3-27d0db110c31'></a>\n\n52382 9103",
+            "type": "marginalia",
+            "id": "865d9714-0dcc-4f84-91e3-27d0db110c31",
+            "grounding": {
+                "box": {
+                    "left": 0.8861519694328308,
+                    "top": 0.8061348795890808,
+                    "right": 0.9210136532783508,
+                    "bottom": 0.9020946621894836
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b7dd54e6-0292-478c-80ef-010f338486ea'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hzjg0224",
+            "type": "marginalia",
+            "id": "b7dd54e6-0292-478c-80ef-010f338486ea",
+            "grounding": {
+                "box": {
+                    "left": 0.21583658456802368,
+                    "top": 0.9768614768981934,
+                    "right": 0.7851304411888123,
+                    "bottom": 0.9998730421066284
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='545d03bf-eb56-4314-b3db-6ab53054a63d'></a>\n\nFROM : DSF_GRAIN_&_SEED, INC. ---\nFROM : DSF_GRAIN_&_SEED, INC. ---\n\n<a id='735ad06f-1aac-4087-9f74-064a6d764bef'></a>\n\nFAX NO. : 615-696-4774\nFAX NU. : 615-696-4774\n\n<a id='ba503b17-730d-4c14-82c4-87eb9f329951'></a>\n\nNov. 28 2000 09:54AM P4\nNov. 22 2000 10:25AM P7\n\n<a id='1f01f8b1-809b-4adf-880b-8ededa52fc53'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name in a black, elegant script font, underlined by a thin horizontal line, with \"Tobacco Company\" in a smaller, sans-serif font below the line.::>\n\n<a id='e895611f-e221-4a8d-9b79-64b8ce1c71b6'></a>\n\nGrowers Questionnaire\n\nName: Janice Williams or David\n\nMailing Address: 5150 Old Betts Rd\n\nCity: Greenbrier\n\nState: Tenn\nZip Code: 37073\n\nHome Telephone: 615-382-7465\n\nWork Telephone: 615-284-1362\n\nCell Telephone: 512-2971\n\nE-Mail Address: N/A\n\n<a id='e73f058c-a006-47cd-95bd-e697b2d3b0ae'></a>\n\nLand (Acres)\nOwned 520\nLeased ___\n\nProduction 1999 Crop (Pounds)\nOwned 5000\nLeased ___\n\n<a id='07006888-52f3-48db-bc7e-c075181ec1d2'></a>\n\nEst. 2000 Crop\n(Pounds)\nOwned 1640\nLeased ___\n\n<a id='a096e341-4f9e-4973-93c6-1ec10e87183e'></a>\n\nIrrigation\noption Yes: [x]\noption No: [ ]\n\n<a id='295eadc4-4c4c-4ee8-ab70-18688bb55516'></a>\n\nWhen will your farm be available for a visit from RJR representatives?\n\n---\n\n<a id='51aef481-64b5-4175-a8f8-398383481a5b'></a>\n\nComments:\n\n<a id='bc5ed89a-404c-40b9-95fa-e1316b35145e'></a>\n\nDirections To Farm:\n\n<a id='865d9714-0dcc-4f84-91e3-27d0db110c31'></a>\n\n52382 9103\n\n<a id='b7dd54e6-0292-478c-80ef-010f338486ea'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hzjg0224",
+            "chunks": [
+                "545d03bf-eb56-4314-b3db-6ab53054a63d",
+                "735ad06f-1aac-4087-9f74-064a6d764bef",
+                "ba503b17-730d-4c14-82c4-87eb9f329951",
+                "1f01f8b1-809b-4adf-880b-8ededa52fc53",
+                "e895611f-e221-4a8d-9b79-64b8ce1c71b6",
+                "e73f058c-a006-47cd-95bd-e697b2d3b0ae",
+                "07006888-52f3-48db-bc7e-c075181ec1d2",
+                "a096e341-4f9e-4973-93c6-1ec10e87183e",
+                "295eadc4-4c4c-4ee8-ab70-18688bb55516",
+                "51aef481-64b5-4175-a8f8-398383481a5b",
+                "bc5ed89a-404c-40b9-95fa-e1316b35145e",
+                "865d9714-0dcc-4f84-91e3-27d0db110c31",
+                "b7dd54e6-0292-478c-80ef-010f338486ea"
+            ]
+        }
+    ],
+    "grounding": {
+        "545d03bf-eb56-4314-b3db-6ab53054a63d": {
+            "box": {
+                "left": 0.035659059882164,
+                "top": 0.036447249352931976,
+                "right": 0.38693130016326904,
+                "bottom": 0.07811395078897476
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "735ad06f-1aac-4087-9f74-064a6d764bef": {
+            "box": {
+                "left": 0.3895123302936554,
+                "top": 0.03927329182624817,
+                "right": 0.6175640821456909,
+                "bottom": 0.08212558180093765
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ba503b17-730d-4c14-82c4-87eb9f329951": {
+            "box": {
+                "left": 0.6739076972007751,
+                "top": 0.041933655738830566,
+                "right": 0.9280555844306946,
+                "bottom": 0.09027598798274994
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1f01f8b1-809b-4adf-880b-8ededa52fc53": {
+            "box": {
+                "left": 0.2670571804046631,
+                "top": 0.1058659702539444,
+                "right": 0.7823741436004639,
+                "bottom": 0.20172350108623505
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "e895611f-e221-4a8d-9b79-64b8ce1c71b6": {
+            "box": {
+                "left": 0.1434135138988495,
+                "top": 0.19913065433502197,
+                "right": 0.8667252063751221,
+                "bottom": 0.44664281606674194
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e73f058c-a006-47cd-95bd-e697b2d3b0ae": {
+            "box": {
+                "left": 0.14272193610668182,
+                "top": 0.4720345139503479,
+                "right": 0.6351290345191956,
+                "bottom": 0.5623137354850769
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "07006888-52f3-48db-bc7e-c075181ec1d2": {
+            "box": {
+                "left": 0.6647849082946777,
+                "top": 0.47257182002067566,
+                "right": 0.8686434030532837,
+                "bottom": 0.5586588382720947
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a096e341-4f9e-4973-93c6-1ec10e87183e": {
+            "box": {
+                "left": 0.14131242036819458,
+                "top": 0.5769267082214355,
+                "right": 0.7467456459999084,
+                "bottom": 0.6310226917266846
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "295eadc4-4c4c-4ee8-ab70-18688bb55516": {
+            "box": {
+                "left": 0.1459798514842987,
+                "top": 0.6315279603004456,
+                "right": 0.8594527244567871,
+                "bottom": 0.6793096661567688
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "51aef481-64b5-4175-a8f8-398383481a5b": {
+            "box": {
+                "left": 0.14885073900222778,
+                "top": 0.6957394480705261,
+                "right": 0.27326950430870056,
+                "bottom": 0.7178465723991394
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bc5ed89a-404c-40b9-95fa-e1316b35145e": {
+            "box": {
+                "left": 0.14581377804279327,
+                "top": 0.7510712146759033,
+                "right": 0.34000545740127563,
+                "bottom": 0.7779990434646606
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "865d9714-0dcc-4f84-91e3-27d0db110c31": {
+            "box": {
+                "left": 0.8861519694328308,
+                "top": 0.8061348795890808,
+                "right": 0.9210136532783508,
+                "bottom": 0.9020946621894836
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "b7dd54e6-0292-478c-80ef-010f338486ea": {
+            "box": {
+                "left": 0.21583658456802368,
+                "top": 0.9768614768981934,
+                "right": 0.7851304411888123,
+                "bottom": 0.9998730421066284
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hzjg0224_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7744,
+        "credit_usage": 3.0,
+        "job_id": "ku9c6ruoc353ily664xa5nio0",
+        "version": "dpt-2-20250919"
+    }
+}

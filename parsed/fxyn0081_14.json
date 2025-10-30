@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='5d0696e2-fa2e-4e0c-87a2-34bfd0e1c66b'></a>\n\nQuestionnaire\n\n<a id='09bff645-5821-412e-85cd-a76191f019b1'></a>\n\n<::HH Census\nConsumption\nUsual Brand\nCurrent Brand\nPurchase Patterns\nASET Tracker\n(18-34) Non-Menthol CAMEL/Marlboro\n(18-24) Menthol SALEM/Newport\nDemographics\n25+ NOW/Carlton CAMBRIDGE/Bristol\nCAMEL Cash 18+\nCAMEL Wides A&U 18+\nResearch Recruit\n: flowchart::>\n\n<a id='8f9dd4c9-92ca-4824-afb6-649c94a146ec'></a>\n\n51337 6218",
+    "chunks": [
+        {
+            "markdown": "<a id='5d0696e2-fa2e-4e0c-87a2-34bfd0e1c66b'></a>\n\nQuestionnaire",
+            "type": "text",
+            "id": "5d0696e2-fa2e-4e0c-87a2-34bfd0e1c66b",
+            "grounding": {
+                "box": {
+                    "left": 0.3004962205886841,
+                    "top": 0.06637728214263916,
+                    "right": 0.711824893951416,
+                    "bottom": 0.12476727366447449
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='09bff645-5821-412e-85cd-a76191f019b1'></a>\n\n<::HH Census\nConsumption\nUsual Brand\nCurrent Brand\nPurchase Patterns\nASET Tracker\n(18-34) Non-Menthol CAMEL/Marlboro\n(18-24) Menthol SALEM/Newport\nDemographics\n25+ NOW/Carlton CAMBRIDGE/Bristol\nCAMEL Cash 18+\nCAMEL Wides A&U 18+\nResearch Recruit\n: flowchart::>",
+            "type": "figure",
+            "id": "09bff645-5821-412e-85cd-a76191f019b1",
+            "grounding": {
+                "box": {
+                    "left": 0.21248412132263184,
+                    "top": 0.15420407056808472,
+                    "right": 0.8033740520477295,
+                    "bottom": 0.8936223387718201
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8f9dd4c9-92ca-4824-afb6-649c94a146ec'></a>\n\n51337 6218",
+            "type": "marginalia",
+            "id": "8f9dd4c9-92ca-4824-afb6-649c94a146ec",
+            "grounding": {
+                "box": {
+                    "left": 0.9570012092590332,
+                    "top": 0.8763589262962341,
+                    "right": 0.9844303131103516,
+                    "bottom": 0.9755756258964539
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='5d0696e2-fa2e-4e0c-87a2-34bfd0e1c66b'></a>\n\nQuestionnaire\n\n<a id='09bff645-5821-412e-85cd-a76191f019b1'></a>\n\n<::HH Census\nConsumption\nUsual Brand\nCurrent Brand\nPurchase Patterns\nASET Tracker\n(18-34) Non-Menthol CAMEL/Marlboro\n(18-24) Menthol SALEM/Newport\nDemographics\n25+ NOW/Carlton CAMBRIDGE/Bristol\nCAMEL Cash 18+\nCAMEL Wides A&U 18+\nResearch Recruit\n: flowchart::>\n\n<a id='8f9dd4c9-92ca-4824-afb6-649c94a146ec'></a>\n\n51337 6218",
+            "chunks": [
+                "5d0696e2-fa2e-4e0c-87a2-34bfd0e1c66b",
+                "09bff645-5821-412e-85cd-a76191f019b1",
+                "8f9dd4c9-92ca-4824-afb6-649c94a146ec"
+            ]
+        }
+    ],
+    "grounding": {
+        "5d0696e2-fa2e-4e0c-87a2-34bfd0e1c66b": {
+            "box": {
+                "left": 0.3004962205886841,
+                "top": 0.06637728214263916,
+                "right": 0.711824893951416,
+                "bottom": 0.12476727366447449
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "09bff645-5821-412e-85cd-a76191f019b1": {
+            "box": {
+                "left": 0.21248412132263184,
+                "top": 0.15420407056808472,
+                "right": 0.8033740520477295,
+                "bottom": 0.8936223387718201
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "8f9dd4c9-92ca-4824-afb6-649c94a146ec": {
+            "box": {
+                "left": 0.9570012092590332,
+                "top": 0.8763589262962341,
+                "right": 0.9844303131103516,
+                "bottom": 0.9755756258964539
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fxyn0081_14.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5423,
+        "credit_usage": 3.0,
+        "job_id": "e1up3cci7i9c6dehw5boctvvy",
+        "version": "dpt-2-20250919"
+    }
+}

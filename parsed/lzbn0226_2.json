@@ -1,0 +1,568 @@
+{
+    "markdown": "<a id='d0b978d3-9740-48f4-9021-ef230eb0414c'></a>\n\n<::logo: ICMJE\nICMJE\nINTERNATIONAL COMMITTEE of MEDICAL JOURNAL EDITORS\nA rectangular flag-like symbol with a world map design is positioned to the left of the text, which is presented in a sans-serif font.::>\n\n<a id='bf2f7fd7-c440-440b-8ed6-22e5ea87d3b8'></a>\n\nICMJE Form for Disclosure of Potential Conflicts of Interest\n---\n\n\n<a id='4f94d38c-b71f-482f-a9d7-7f6da3af86d2'></a>\n\nSection 1. Identifying Information\n\n1. Given Name (First Name)\nMichael\n...\n\n2. Surname (Last Name)\nDourson\n...\n\n3. Date\n01-August-2016\n...\n\n4. Are you the corresponding author?\noption Yes: [ ]\noption No: [x]\n\nCorresponding Author's Name\nPatricia Nance\n...\n\n5. Manuscript Title\nUpdate: Mode of Action (MOA) for Liver Tumors Induced by Oral Exposure to 1,4-Dioxane\n\n6. Manuscript Identifying Number (if you know it)\n...\n\n<a id='778348d1-9c19-4bc8-b154-cdbd57702bcd'></a>\n\nSection 2 The Work Under Consideration for Publication\n\nDid you or your institution **at any time** receive payment or services from a third party (government, commercial, private foundation, etc.) for any aspect of the submitted work (including but not limited to grants, data monitoring board, study design, manuscript preparation, statistical analysis, etc.)?\nAre there any relevant conflicts of interest?\noption Yes: [x]\noption No: [ ]\nIf yes, please fill out the appropriate information below. If you have more than one entity press the \"ADD\" button to add a row.\nExcess rows can be removed by pressing the \"X\" button.\n\n<a id='2f2aba72-7b09-40cf-b9ef-8ddb5a4f67ac'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Name of Institution/Company</td><td id=\"0-3\">Grant?</td><td id=\"0-4\">Personal Fees?</td><td id=\"0-5\">Non-Financial Support?</td><td id=\"0-6\">Other?</td><td id=\"0-7\">Comments</td><td id=\"0-8\"></td></tr>\n<tr><td id=\"0-9\">Hamp, Mathews & Associates, Inc.</td><td id=\"0-a\">empty checkbox</td><td id=\"0-b\">empty checkbox</td><td id=\"0-c\">empty checkbox</td><td id=\"0-d\">checkbox with checkmark</td><td id=\"0-e\">Financial Support via Contract</td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">PPG Corporation</td><td id=\"0-h\">empty checkbox</td><td id=\"0-i\">empty checkbox</td><td id=\"0-j\">empty checkbox</td><td id=\"0-k\">checkbox with checkmark</td><td id=\"0-l\">Financial Support via Contract</td><td id=\"0-m\"></td></tr>\n<tr><td id=\"0-n\">Waste Management</td><td id=\"0-o\">empty checkbox</td><td id=\"0-p\">empty checkbox</td><td id=\"0-q\">empty checkbox</td><td id=\"0-r\">checkbox with checkmark</td><td id=\"0-s\">Financial Support via Contract</td><td id=\"0-t\"></td></tr>\n</table>\n\n<a id='6880a3a7-1146-497f-965c-1d7456bafe23'></a>\n\nSection 3. Relevant financial activities outside the submitted work.\n\nPlace a check in the appropriate boxes in the table to indicate whether you have financial relationships (regardless of amount of compensation) with entities as described in the instructions. Use one line for each entity; add as many lines as you need by clicking the \"Add +\" box. You should report relationships that were present during the **36 months prior to publication**.\n\nAre there any relevant conflicts of interest?\noption Yes: [ ]\noption No: [x]\n\n<a id='14f3550f-d947-48e4-b057-9752808350d7'></a>\n\nSection 4.\nIntellectual Property \u2013 Patents & Copyrights\n\nDo you have any patents, whether planned, pending or issued, broadly relevant to the work?\noption Yes: [ ]\noption No: [x]\n\n<a id='d7b80cd6-7cfe-452f-8c8d-32789bdddca8'></a>\n\nDourson\n\n<a id='2e6dc035-f626-4ad8-bf03-870f7bcec20c'></a>\n\n2\n\n<a id='39874f68-6f36-41e9-8755-52b83de523b9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lzbn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='d0b978d3-9740-48f4-9021-ef230eb0414c'></a>\n\n<::logo: ICMJE\nICMJE\nINTERNATIONAL COMMITTEE of MEDICAL JOURNAL EDITORS\nA rectangular flag-like symbol with a world map design is positioned to the left of the text, which is presented in a sans-serif font.::>",
+            "type": "logo",
+            "id": "d0b978d3-9740-48f4-9021-ef230eb0414c",
+            "grounding": {
+                "box": {
+                    "left": 0.045445382595062256,
+                    "top": 0.025202326476573944,
+                    "right": 0.6024092435836792,
+                    "bottom": 0.0877394899725914
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bf2f7fd7-c440-440b-8ed6-22e5ea87d3b8'></a>\n\nICMJE Form for Disclosure of Potential Conflicts of Interest\n---\n",
+            "type": "text",
+            "id": "bf2f7fd7-c440-440b-8ed6-22e5ea87d3b8",
+            "grounding": {
+                "box": {
+                    "left": 0.052591294050216675,
+                    "top": 0.09287656098604202,
+                    "right": 0.9438427686691284,
+                    "bottom": 0.12463336437940598
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4f94d38c-b71f-482f-a9d7-7f6da3af86d2'></a>\n\nSection 1. Identifying Information\n\n1. Given Name (First Name)\nMichael\n...\n\n2. Surname (Last Name)\nDourson\n...\n\n3. Date\n01-August-2016\n...\n\n4. Are you the corresponding author?\noption Yes: [ ]\noption No: [x]\n\nCorresponding Author's Name\nPatricia Nance\n...\n\n5. Manuscript Title\nUpdate: Mode of Action (MOA) for Liver Tumors Induced by Oral Exposure to 1,4-Dioxane\n\n6. Manuscript Identifying Number (if you know it)\n...",
+            "type": "text",
+            "id": "4f94d38c-b71f-482f-a9d7-7f6da3af86d2",
+            "grounding": {
+                "box": {
+                    "left": 0.053541362285614014,
+                    "top": 0.1360759437084198,
+                    "right": 0.9484993815422058,
+                    "bottom": 0.36901870369911194
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='778348d1-9c19-4bc8-b154-cdbd57702bcd'></a>\n\nSection 2 The Work Under Consideration for Publication\n\nDid you or your institution **at any time** receive payment or services from a third party (government, commercial, private foundation, etc.) for any aspect of the submitted work (including but not limited to grants, data monitoring board, study design, manuscript preparation, statistical analysis, etc.)?\nAre there any relevant conflicts of interest?\noption Yes: [x]\noption No: [ ]\nIf yes, please fill out the appropriate information below. If you have more than one entity press the \"ADD\" button to add a row.\nExcess rows can be removed by pressing the \"X\" button.",
+            "type": "text",
+            "id": "778348d1-9c19-4bc8-b154-cdbd57702bcd",
+            "grounding": {
+                "box": {
+                    "left": 0.053011029958724976,
+                    "top": 0.3917595446109772,
+                    "right": 0.9479420185089111,
+                    "bottom": 0.5305154919624329
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2f2aba72-7b09-40cf-b9ef-8ddb5a4f67ac'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Name of Institution/Company</td><td id=\"0-3\">Grant?</td><td id=\"0-4\">Personal Fees?</td><td id=\"0-5\">Non-Financial Support?</td><td id=\"0-6\">Other?</td><td id=\"0-7\">Comments</td><td id=\"0-8\"></td></tr>\n<tr><td id=\"0-9\">Hamp, Mathews & Associates, Inc.</td><td id=\"0-a\">empty checkbox</td><td id=\"0-b\">empty checkbox</td><td id=\"0-c\">empty checkbox</td><td id=\"0-d\">checkbox with checkmark</td><td id=\"0-e\">Financial Support via Contract</td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">PPG Corporation</td><td id=\"0-h\">empty checkbox</td><td id=\"0-i\">empty checkbox</td><td id=\"0-j\">empty checkbox</td><td id=\"0-k\">checkbox with checkmark</td><td id=\"0-l\">Financial Support via Contract</td><td id=\"0-m\"></td></tr>\n<tr><td id=\"0-n\">Waste Management</td><td id=\"0-o\">empty checkbox</td><td id=\"0-p\">empty checkbox</td><td id=\"0-q\">empty checkbox</td><td id=\"0-r\">checkbox with checkmark</td><td id=\"0-s\">Financial Support via Contract</td><td id=\"0-t\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "2f2aba72-7b09-40cf-b9ef-8ddb5a4f67ac",
+            "grounding": {
+                "box": {
+                    "left": 0.05331435799598694,
+                    "top": 0.5280663967132568,
+                    "right": 0.9468634128570557,
+                    "bottom": 0.6597342491149902
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6880a3a7-1146-497f-965c-1d7456bafe23'></a>\n\nSection 3. Relevant financial activities outside the submitted work.\n\nPlace a check in the appropriate boxes in the table to indicate whether you have financial relationships (regardless of amount of compensation) with entities as described in the instructions. Use one line for each entity; add as many lines as you need by clicking the \"Add +\" box. You should report relationships that were present during the **36 months prior to publication**.\n\nAre there any relevant conflicts of interest?\noption Yes: [ ]\noption No: [x]",
+            "type": "text",
+            "id": "6880a3a7-1146-497f-965c-1d7456bafe23",
+            "grounding": {
+                "box": {
+                    "left": 0.05318024754524231,
+                    "top": 0.6889858841896057,
+                    "right": 0.9468649625778198,
+                    "bottom": 0.8113939166069031
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='14f3550f-d947-48e4-b057-9752808350d7'></a>\n\nSection 4.\nIntellectual Property \u2013 Patents & Copyrights\n\nDo you have any patents, whether planned, pending or issued, broadly relevant to the work?\noption Yes: [ ]\noption No: [x]",
+            "type": "text",
+            "id": "14f3550f-d947-48e4-b057-9752808350d7",
+            "grounding": {
+                "box": {
+                    "left": 0.05281516909599304,
+                    "top": 0.8450036644935608,
+                    "right": 0.9477781057357788,
+                    "bottom": 0.9200252890586853
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d7b80cd6-7cfe-452f-8c8d-32789bdddca8'></a>\n\nDourson",
+            "type": "marginalia",
+            "id": "d7b80cd6-7cfe-452f-8c8d-32789bdddca8",
+            "grounding": {
+                "box": {
+                    "left": 0.05514594912528992,
+                    "top": 0.9554523825645447,
+                    "right": 0.12690170109272003,
+                    "bottom": 0.9764603972434998
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2e6dc035-f626-4ad8-bf03-870f7bcec20c'></a>\n\n2",
+            "type": "marginalia",
+            "id": "2e6dc035-f626-4ad8-bf03-870f7bcec20c",
+            "grounding": {
+                "box": {
+                    "left": 0.9252181649208069,
+                    "top": 0.9573127627372742,
+                    "right": 0.9452536702156067,
+                    "bottom": 0.9744779467582703
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='39874f68-6f36-41e9-8755-52b83de523b9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lzbn0226",
+            "type": "marginalia",
+            "id": "39874f68-6f36-41e9-8755-52b83de523b9",
+            "grounding": {
+                "box": {
+                    "left": 0.21590101718902588,
+                    "top": 0.9775230288505554,
+                    "right": 0.7839791774749756,
+                    "bottom": 0.9994837641716003
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d0b978d3-9740-48f4-9021-ef230eb0414c'></a>\n\n<::logo: ICMJE\nICMJE\nINTERNATIONAL COMMITTEE of MEDICAL JOURNAL EDITORS\nA rectangular flag-like symbol with a world map design is positioned to the left of the text, which is presented in a sans-serif font.::>\n\n<a id='bf2f7fd7-c440-440b-8ed6-22e5ea87d3b8'></a>\n\nICMJE Form for Disclosure of Potential Conflicts of Interest\n---\n\n\n<a id='4f94d38c-b71f-482f-a9d7-7f6da3af86d2'></a>\n\nSection 1. Identifying Information\n\n1. Given Name (First Name)\nMichael\n...\n\n2. Surname (Last Name)\nDourson\n...\n\n3. Date\n01-August-2016\n...\n\n4. Are you the corresponding author?\noption Yes: [ ]\noption No: [x]\n\nCorresponding Author's Name\nPatricia Nance\n...\n\n5. Manuscript Title\nUpdate: Mode of Action (MOA) for Liver Tumors Induced by Oral Exposure to 1,4-Dioxane\n\n6. Manuscript Identifying Number (if you know it)\n...\n\n<a id='778348d1-9c19-4bc8-b154-cdbd57702bcd'></a>\n\nSection 2 The Work Under Consideration for Publication\n\nDid you or your institution **at any time** receive payment or services from a third party (government, commercial, private foundation, etc.) for any aspect of the submitted work (including but not limited to grants, data monitoring board, study design, manuscript preparation, statistical analysis, etc.)?\nAre there any relevant conflicts of interest?\noption Yes: [x]\noption No: [ ]\nIf yes, please fill out the appropriate information below. If you have more than one entity press the \"ADD\" button to add a row.\nExcess rows can be removed by pressing the \"X\" button.\n\n<a id='2f2aba72-7b09-40cf-b9ef-8ddb5a4f67ac'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Name of Institution/Company</td><td id=\"0-3\">Grant?</td><td id=\"0-4\">Personal Fees?</td><td id=\"0-5\">Non-Financial Support?</td><td id=\"0-6\">Other?</td><td id=\"0-7\">Comments</td><td id=\"0-8\"></td></tr>\n<tr><td id=\"0-9\">Hamp, Mathews & Associates, Inc.</td><td id=\"0-a\">empty checkbox</td><td id=\"0-b\">empty checkbox</td><td id=\"0-c\">empty checkbox</td><td id=\"0-d\">checkbox with checkmark</td><td id=\"0-e\">Financial Support via Contract</td><td id=\"0-f\"></td></tr>\n<tr><td id=\"0-g\">PPG Corporation</td><td id=\"0-h\">empty checkbox</td><td id=\"0-i\">empty checkbox</td><td id=\"0-j\">empty checkbox</td><td id=\"0-k\">checkbox with checkmark</td><td id=\"0-l\">Financial Support via Contract</td><td id=\"0-m\"></td></tr>\n<tr><td id=\"0-n\">Waste Management</td><td id=\"0-o\">empty checkbox</td><td id=\"0-p\">empty checkbox</td><td id=\"0-q\">empty checkbox</td><td id=\"0-r\">checkbox with checkmark</td><td id=\"0-s\">Financial Support via Contract</td><td id=\"0-t\"></td></tr>\n</table>\n\n<a id='6880a3a7-1146-497f-965c-1d7456bafe23'></a>\n\nSection 3. Relevant financial activities outside the submitted work.\n\nPlace a check in the appropriate boxes in the table to indicate whether you have financial relationships (regardless of amount of compensation) with entities as described in the instructions. Use one line for each entity; add as many lines as you need by clicking the \"Add +\" box. You should report relationships that were present during the **36 months prior to publication**.\n\nAre there any relevant conflicts of interest?\noption Yes: [ ]\noption No: [x]\n\n<a id='14f3550f-d947-48e4-b057-9752808350d7'></a>\n\nSection 4.\nIntellectual Property \u2013 Patents & Copyrights\n\nDo you have any patents, whether planned, pending or issued, broadly relevant to the work?\noption Yes: [ ]\noption No: [x]\n\n<a id='d7b80cd6-7cfe-452f-8c8d-32789bdddca8'></a>\n\nDourson\n\n<a id='2e6dc035-f626-4ad8-bf03-870f7bcec20c'></a>\n\n2\n\n<a id='39874f68-6f36-41e9-8755-52b83de523b9'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lzbn0226",
+            "chunks": [
+                "d0b978d3-9740-48f4-9021-ef230eb0414c",
+                "bf2f7fd7-c440-440b-8ed6-22e5ea87d3b8",
+                "4f94d38c-b71f-482f-a9d7-7f6da3af86d2",
+                "778348d1-9c19-4bc8-b154-cdbd57702bcd",
+                "2f2aba72-7b09-40cf-b9ef-8ddb5a4f67ac",
+                "6880a3a7-1146-497f-965c-1d7456bafe23",
+                "14f3550f-d947-48e4-b057-9752808350d7",
+                "d7b80cd6-7cfe-452f-8c8d-32789bdddca8",
+                "2e6dc035-f626-4ad8-bf03-870f7bcec20c",
+                "39874f68-6f36-41e9-8755-52b83de523b9"
+            ]
+        }
+    ],
+    "grounding": {
+        "d0b978d3-9740-48f4-9021-ef230eb0414c": {
+            "box": {
+                "left": 0.045445382595062256,
+                "top": 0.025202326476573944,
+                "right": 0.6024092435836792,
+                "bottom": 0.0877394899725914
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "bf2f7fd7-c440-440b-8ed6-22e5ea87d3b8": {
+            "box": {
+                "left": 0.052591294050216675,
+                "top": 0.09287656098604202,
+                "right": 0.9438427686691284,
+                "bottom": 0.12463336437940598
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4f94d38c-b71f-482f-a9d7-7f6da3af86d2": {
+            "box": {
+                "left": 0.053541362285614014,
+                "top": 0.1360759437084198,
+                "right": 0.9484993815422058,
+                "bottom": 0.36901870369911194
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "778348d1-9c19-4bc8-b154-cdbd57702bcd": {
+            "box": {
+                "left": 0.053011029958724976,
+                "top": 0.3917595446109772,
+                "right": 0.9479420185089111,
+                "bottom": 0.5305154919624329
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2f2aba72-7b09-40cf-b9ef-8ddb5a4f67ac": {
+            "box": {
+                "left": 0.05331435799598694,
+                "top": 0.5280663967132568,
+                "right": 0.9468634128570557,
+                "bottom": 0.6597342491149902
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.05949746245656165,
+                "top": 0.5331976549238568,
+                "right": 0.9411502476266058,
+                "bottom": 0.6508092268234265
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.05949746245656165,
+                "top": 0.5331976549238568,
+                "right": 0.3539564299045015,
+                "bottom": 0.5796540753090582
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3539564299045015,
+                "top": 0.5331976549238568,
+                "right": 0.41660754200509587,
+                "bottom": 0.5796540753090582
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.41660754200509587,
+                "top": 0.5331976549238568,
+                "right": 0.4870768014318152,
+                "bottom": 0.5796540753090582
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.4870768014318152,
+                "top": 0.5331976549238568,
+                "right": 0.6045030915605842,
+                "bottom": 0.5796540753090582
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.6045030915605842,
+                "top": 0.5331976549238568,
+                "right": 0.6667172612956467,
+                "bottom": 0.5796540753090582
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6667172612956467,
+                "top": 0.5331976549238568,
+                "right": 0.9023682040665104,
+                "bottom": 0.5796540753090582
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.9023682040665104,
+                "top": 0.5331976549238568,
+                "right": 0.9399037582162073,
+                "bottom": 0.5796540753090582
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.05949746245656165,
+                "top": 0.5796540753090582,
+                "right": 0.3539564299045015,
+                "bottom": 0.6024758809203377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.3539564299045015,
+                "top": 0.5796540753090582,
+                "right": 0.41660754200509587,
+                "bottom": 0.6024758809203377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.41660754200509587,
+                "top": 0.5796540753090582,
+                "right": 0.4870768014318152,
+                "bottom": 0.6024758809203377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.4870768014318152,
+                "top": 0.5796540753090582,
+                "right": 0.6045030915605842,
+                "bottom": 0.6024758809203377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6045030915605842,
+                "top": 0.5796540753090582,
+                "right": 0.6667172612956467,
+                "bottom": 0.6024758809203377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.6667172612956467,
+                "top": 0.5796540753090582,
+                "right": 0.9023682040665104,
+                "bottom": 0.6024758809203377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.9023682040665104,
+                "top": 0.5796540753090582,
+                "right": 0.9399037582162073,
+                "bottom": 0.6024758809203377
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.05949746245656165,
+                "top": 0.6024758809203377,
+                "right": 0.3539564299045015,
+                "bottom": 0.6268739643830088
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.3539564299045015,
+                "top": 0.6024758809203377,
+                "right": 0.41660754200509587,
+                "bottom": 0.6268739643830088
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.41660754200509587,
+                "top": 0.6024758809203377,
+                "right": 0.4870768014318152,
+                "bottom": 0.6268739643830088
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.4870768014318152,
+                "top": 0.6024758809203377,
+                "right": 0.6045030915605842,
+                "bottom": 0.6268739643830088
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6045030915605842,
+                "top": 0.6024758809203377,
+                "right": 0.6667172612956467,
+                "bottom": 0.6268739643830088
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6667172612956467,
+                "top": 0.6024758809203377,
+                "right": 0.9023682040665104,
+                "bottom": 0.6268739643830088
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.9023682040665104,
+                "top": 0.6024758809203377,
+                "right": 0.9399037582162073,
+                "bottom": 0.6268739643830088
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.05949746245656165,
+                "top": 0.6268739643830088,
+                "right": 0.3539564299045015,
+                "bottom": 0.6508092268234265
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.3539564299045015,
+                "top": 0.6268739643830088,
+                "right": 0.41660754200509587,
+                "bottom": 0.6508092268234265
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.41660754200509587,
+                "top": 0.6268739643830088,
+                "right": 0.4870768014318152,
+                "bottom": 0.6508092268234265
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.4870768014318152,
+                "top": 0.6268739643830088,
+                "right": 0.6045030915605842,
+                "bottom": 0.6508092268234265
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.6045030915605842,
+                "top": 0.6268739643830088,
+                "right": 0.6667172612956467,
+                "bottom": 0.6508092268234265
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.6667172612956467,
+                "top": 0.6268739643830088,
+                "right": 0.9023682040665104,
+                "bottom": 0.6508092268234265
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.9023682040665104,
+                "top": 0.6268739643830088,
+                "right": 0.9399037582162073,
+                "bottom": 0.6508092268234265
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "6880a3a7-1146-497f-965c-1d7456bafe23": {
+            "box": {
+                "left": 0.05318024754524231,
+                "top": 0.6889858841896057,
+                "right": 0.9468649625778198,
+                "bottom": 0.8113939166069031
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "14f3550f-d947-48e4-b057-9752808350d7": {
+            "box": {
+                "left": 0.05281516909599304,
+                "top": 0.8450036644935608,
+                "right": 0.9477781057357788,
+                "bottom": 0.9200252890586853
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d7b80cd6-7cfe-452f-8c8d-32789bdddca8": {
+            "box": {
+                "left": 0.05514594912528992,
+                "top": 0.9554523825645447,
+                "right": 0.12690170109272003,
+                "bottom": 0.9764603972434998
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "2e6dc035-f626-4ad8-bf03-870f7bcec20c": {
+            "box": {
+                "left": 0.9252181649208069,
+                "top": 0.9573127627372742,
+                "right": 0.9452536702156067,
+                "bottom": 0.9744779467582703
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "39874f68-6f36-41e9-8755-52b83de523b9": {
+            "box": {
+                "left": 0.21590101718902588,
+                "top": 0.9775230288505554,
+                "right": 0.7839791774749756,
+                "bottom": 0.9994837641716003
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lzbn0226_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11151,
+        "credit_usage": 3.0,
+        "job_id": "ibrg486ik2xym0x7xfu424567",
+        "version": "dpt-2-20250919"
+    }
+}

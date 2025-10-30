@@ -1,0 +1,443 @@
+{
+    "markdown": "<a id='51ac709b-2a70-461b-8c7d-4481adcc8bba'></a>\n\n<::attestation: Official Stamp/Mark\nStatus: SECRET\nReadable Text: RJR SECRET No: 249 By___\nA black, distressed text mark with \"RJR\" and \"SECRET\" above \"No: 249 By___\", positioned in the upper-middle to lower-middle of the image.\n::>\n\n<a id='864c473e-0cfa-48c6-b419-b08b5687cc83'></a>\n\nAGENDA FOR\nINTRODUCTION TO ALPHA PROGRAM\n---\n\n<a id='e19cdd9c-f98a-43ec-b203-ab957eb832d6'></a>\n\nNo: 249 By\n\n<a id='7203fc4a-3d25-45c4-bf17-9988e3d2f244'></a>\n\nPRODUCT\n\n20 Min. \u2022 Evolution of the Cigarette\n  and Introduction to the\n  Alpha Concept and Components\nA. W. Hayes\n\n<a id='311ed7a8-e083-4dd9-99e0-020d9c99f4ed'></a>\n\nTOX PLAN\n\n20 Min. * Overview of Approach to\nBiological Activity of Alpha\n\nJ. R. Hayes\n\n<a id='ddac575e-758b-4663-a129-7c4d953f5e57'></a>\n\nCOMPONENTS\n<table>\n  <thead>\n    <tr>\n      <th>Duration</th>\n      <th>Component</th>\n      <th>Person</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>15 Min.</td>\n      <td>Specific Components</td>\n      <td>J. R. Hayes</td>\n    </tr>\n    <tr>\n      <td>10 Min.</td>\n      <td>Genetic Toxicology</td>\n      <td>D. J. Doolittle</td>\n    </tr>\n    <tr>\n      <td>10 Min.</td>\n      <td>Glycerol</td>\n      <td>A. T. Mosberg</td>\n    </tr>\n    <tr>\n      <td>5 Min.</td>\n      <td>Propylene Glycol</td>\n      <td>A. T. Mosberg</td>\n    </tr>\n  </tbody>\n</table>\n\n<a id='fd74a6aa-3c70-4d29-8299-fd30f315f9fd'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">AEROSOL</td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">40 Min.</td><td id=\"0-6\">Aerosol Chemistry</td><td id=\"0-7\">M. F. Borgerding</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Biological Activity</td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\">15 Min.</td><td id=\"0-c\">Genetic Toxicology</td><td id=\"0-d\">D. J. Doolittle</td></tr>\n<tr><td id=\"0-e\">50 Min.</td><td id=\"0-f\">RJR Studies (Aerosol and CO)</td><td id=\"0-g\">C. R. E. Coggins</td></tr>\n<tr><td id=\"0-h\">40 Min.</td><td id=\"0-i\">- Contract Studies</td><td id=\"0-j\">A. T. Mosberg</td></tr>\n</table>\n\n<a id='416f2546-9a5d-4329-8a38-07eb1fa68483'></a>\n\n50615\n6234\n\n<a id='07e83d9f-45f2-42c7-969c-72faf91ac307'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yldg0072",
+    "chunks": [
+        {
+            "markdown": "<a id='51ac709b-2a70-461b-8c7d-4481adcc8bba'></a>\n\n<::attestation: Official Stamp/Mark\nStatus: SECRET\nReadable Text: RJR SECRET No: 249 By___\nA black, distressed text mark with \"RJR\" and \"SECRET\" above \"No: 249 By___\", positioned in the upper-middle to lower-middle of the image.\n::>",
+            "type": "attestation",
+            "id": "51ac709b-2a70-461b-8c7d-4481adcc8bba",
+            "grounding": {
+                "box": {
+                    "left": 0.644939124584198,
+                    "top": 0.004070714116096497,
+                    "right": 0.8865240216255188,
+                    "bottom": 0.13735558092594147
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='864c473e-0cfa-48c6-b419-b08b5687cc83'></a>\n\nAGENDA FOR\nINTRODUCTION TO ALPHA PROGRAM\n---",
+            "type": "text",
+            "id": "864c473e-0cfa-48c6-b419-b08b5687cc83",
+            "grounding": {
+                "box": {
+                    "left": 0.297380656003952,
+                    "top": 0.08370775729417801,
+                    "right": 0.64171302318573,
+                    "bottom": 0.12665137648582458
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e19cdd9c-f98a-43ec-b203-ab957eb832d6'></a>\n\nNo: 249 By",
+            "type": "text",
+            "id": "e19cdd9c-f98a-43ec-b203-ab957eb832d6",
+            "grounding": {
+                "box": {
+                    "left": 0.6530742645263672,
+                    "top": 0.09173740446567535,
+                    "right": 0.8648648262023926,
+                    "bottom": 0.13654465973377228
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7203fc4a-3d25-45c4-bf17-9988e3d2f244'></a>\n\nPRODUCT\n\n20 Min. \u2022 Evolution of the Cigarette\n  and Introduction to the\n  Alpha Concept and Components\nA. W. Hayes",
+            "type": "text",
+            "id": "7203fc4a-3d25-45c4-bf17-9988e3d2f244",
+            "grounding": {
+                "box": {
+                    "left": 0.10130089521408081,
+                    "top": 0.17014995217323303,
+                    "right": 0.7747560739517212,
+                    "bottom": 0.29305559396743774
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='311ed7a8-e083-4dd9-99e0-020d9c99f4ed'></a>\n\nTOX PLAN\n\n20 Min. * Overview of Approach to\nBiological Activity of Alpha\n\nJ. R. Hayes",
+            "type": "text",
+            "id": "311ed7a8-e083-4dd9-99e0-020d9c99f4ed",
+            "grounding": {
+                "box": {
+                    "left": 0.10435131192207336,
+                    "top": 0.3305313289165497,
+                    "right": 0.7720470428466797,
+                    "bottom": 0.42686936259269714
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ddac575e-758b-4663-a129-7c4d953f5e57'></a>\n\nCOMPONENTS\n<table>\n  <thead>\n    <tr>\n      <th>Duration</th>\n      <th>Component</th>\n      <th>Person</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>15 Min.</td>\n      <td>Specific Components</td>\n      <td>J. R. Hayes</td>\n    </tr>\n    <tr>\n      <td>10 Min.</td>\n      <td>Genetic Toxicology</td>\n      <td>D. J. Doolittle</td>\n    </tr>\n    <tr>\n      <td>10 Min.</td>\n      <td>Glycerol</td>\n      <td>A. T. Mosberg</td>\n    </tr>\n    <tr>\n      <td>5 Min.</td>\n      <td>Propylene Glycol</td>\n      <td>A. T. Mosberg</td>\n    </tr>\n  </tbody>\n</table>",
+            "type": "table",
+            "id": "ddac575e-758b-4663-a129-7c4d953f5e57",
+            "grounding": {
+                "box": {
+                    "left": 0.10659894347190857,
+                    "top": 0.46339356899261475,
+                    "right": 0.8178185224533081,
+                    "bottom": 0.609833836555481
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fd74a6aa-3c70-4d29-8299-fd30f315f9fd'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">AEROSOL</td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">40 Min.</td><td id=\"0-6\">Aerosol Chemistry</td><td id=\"0-7\">M. F. Borgerding</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Biological Activity</td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\">15 Min.</td><td id=\"0-c\">Genetic Toxicology</td><td id=\"0-d\">D. J. Doolittle</td></tr>\n<tr><td id=\"0-e\">50 Min.</td><td id=\"0-f\">RJR Studies (Aerosol and CO)</td><td id=\"0-g\">C. R. E. Coggins</td></tr>\n<tr><td id=\"0-h\">40 Min.</td><td id=\"0-i\">- Contract Studies</td><td id=\"0-j\">A. T. Mosberg</td></tr>\n</table>",
+            "type": "table",
+            "id": "fd74a6aa-3c70-4d29-8299-fd30f315f9fd",
+            "grounding": {
+                "box": {
+                    "left": 0.10665398836135864,
+                    "top": 0.6462550163269043,
+                    "right": 0.8368809819221497,
+                    "bottom": 0.8819829225540161
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='416f2546-9a5d-4329-8a38-07eb1fa68483'></a>\n\n50615\n6234",
+            "type": "text",
+            "id": "416f2546-9a5d-4329-8a38-07eb1fa68483",
+            "grounding": {
+                "box": {
+                    "left": 0.8667346239089966,
+                    "top": 0.8011057376861572,
+                    "right": 0.9043289422988892,
+                    "bottom": 0.9026786088943481
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='07e83d9f-45f2-42c7-969c-72faf91ac307'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yldg0072",
+            "type": "marginalia",
+            "id": "07e83d9f-45f2-42c7-969c-72faf91ac307",
+            "grounding": {
+                "box": {
+                    "left": 0.21661800146102905,
+                    "top": 0.9782217741012573,
+                    "right": 0.7832511067390442,
+                    "bottom": 0.9982775449752808
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='51ac709b-2a70-461b-8c7d-4481adcc8bba'></a>\n\n<::attestation: Official Stamp/Mark\nStatus: SECRET\nReadable Text: RJR SECRET No: 249 By___\nA black, distressed text mark with \"RJR\" and \"SECRET\" above \"No: 249 By___\", positioned in the upper-middle to lower-middle of the image.\n::>\n\n<a id='864c473e-0cfa-48c6-b419-b08b5687cc83'></a>\n\nAGENDA FOR\nINTRODUCTION TO ALPHA PROGRAM\n---\n\n<a id='e19cdd9c-f98a-43ec-b203-ab957eb832d6'></a>\n\nNo: 249 By\n\n<a id='7203fc4a-3d25-45c4-bf17-9988e3d2f244'></a>\n\nPRODUCT\n\n20 Min. \u2022 Evolution of the Cigarette\n  and Introduction to the\n  Alpha Concept and Components\nA. W. Hayes\n\n<a id='311ed7a8-e083-4dd9-99e0-020d9c99f4ed'></a>\n\nTOX PLAN\n\n20 Min. * Overview of Approach to\nBiological Activity of Alpha\n\nJ. R. Hayes\n\n<a id='ddac575e-758b-4663-a129-7c4d953f5e57'></a>\n\nCOMPONENTS\n<table>\n  <thead>\n    <tr>\n      <th>Duration</th>\n      <th>Component</th>\n      <th>Person</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>15 Min.</td>\n      <td>Specific Components</td>\n      <td>J. R. Hayes</td>\n    </tr>\n    <tr>\n      <td>10 Min.</td>\n      <td>Genetic Toxicology</td>\n      <td>D. J. Doolittle</td>\n    </tr>\n    <tr>\n      <td>10 Min.</td>\n      <td>Glycerol</td>\n      <td>A. T. Mosberg</td>\n    </tr>\n    <tr>\n      <td>5 Min.</td>\n      <td>Propylene Glycol</td>\n      <td>A. T. Mosberg</td>\n    </tr>\n  </tbody>\n</table>\n\n<a id='fd74a6aa-3c70-4d29-8299-fd30f315f9fd'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\">AEROSOL</td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">40 Min.</td><td id=\"0-6\">Aerosol Chemistry</td><td id=\"0-7\">M. F. Borgerding</td></tr>\n<tr><td id=\"0-8\"></td><td id=\"0-9\">Biological Activity</td><td id=\"0-a\"></td></tr>\n<tr><td id=\"0-b\">15 Min.</td><td id=\"0-c\">Genetic Toxicology</td><td id=\"0-d\">D. J. Doolittle</td></tr>\n<tr><td id=\"0-e\">50 Min.</td><td id=\"0-f\">RJR Studies (Aerosol and CO)</td><td id=\"0-g\">C. R. E. Coggins</td></tr>\n<tr><td id=\"0-h\">40 Min.</td><td id=\"0-i\">- Contract Studies</td><td id=\"0-j\">A. T. Mosberg</td></tr>\n</table>\n\n<a id='416f2546-9a5d-4329-8a38-07eb1fa68483'></a>\n\n50615\n6234\n\n<a id='07e83d9f-45f2-42c7-969c-72faf91ac307'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yldg0072",
+            "chunks": [
+                "51ac709b-2a70-461b-8c7d-4481adcc8bba",
+                "864c473e-0cfa-48c6-b419-b08b5687cc83",
+                "e19cdd9c-f98a-43ec-b203-ab957eb832d6",
+                "7203fc4a-3d25-45c4-bf17-9988e3d2f244",
+                "311ed7a8-e083-4dd9-99e0-020d9c99f4ed",
+                "ddac575e-758b-4663-a129-7c4d953f5e57",
+                "fd74a6aa-3c70-4d29-8299-fd30f315f9fd",
+                "416f2546-9a5d-4329-8a38-07eb1fa68483",
+                "07e83d9f-45f2-42c7-969c-72faf91ac307"
+            ]
+        }
+    ],
+    "grounding": {
+        "51ac709b-2a70-461b-8c7d-4481adcc8bba": {
+            "box": {
+                "left": 0.644939124584198,
+                "top": 0.004070714116096497,
+                "right": 0.8865240216255188,
+                "bottom": 0.13735558092594147
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "864c473e-0cfa-48c6-b419-b08b5687cc83": {
+            "box": {
+                "left": 0.297380656003952,
+                "top": 0.08370775729417801,
+                "right": 0.64171302318573,
+                "bottom": 0.12665137648582458
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e19cdd9c-f98a-43ec-b203-ab957eb832d6": {
+            "box": {
+                "left": 0.6530742645263672,
+                "top": 0.09173740446567535,
+                "right": 0.8648648262023926,
+                "bottom": 0.13654465973377228
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7203fc4a-3d25-45c4-bf17-9988e3d2f244": {
+            "box": {
+                "left": 0.10130089521408081,
+                "top": 0.17014995217323303,
+                "right": 0.7747560739517212,
+                "bottom": 0.29305559396743774
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "311ed7a8-e083-4dd9-99e0-020d9c99f4ed": {
+            "box": {
+                "left": 0.10435131192207336,
+                "top": 0.3305313289165497,
+                "right": 0.7720470428466797,
+                "bottom": 0.42686936259269714
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ddac575e-758b-4663-a129-7c4d953f5e57": {
+            "box": {
+                "left": 0.10659894347190857,
+                "top": 0.46339356899261475,
+                "right": 0.8178185224533081,
+                "bottom": 0.609833836555481
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "fd74a6aa-3c70-4d29-8299-fd30f315f9fd": {
+            "box": {
+                "left": 0.10665398836135864,
+                "top": 0.6462550163269043,
+                "right": 0.8368809819221497,
+                "bottom": 0.8819829225540161
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11041680173297119,
+                "top": 0.6485169165198105,
+                "right": 0.8334997049437902,
+                "bottom": 0.8819806323260835
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11041680173297119,
+                "top": 0.6485169165198105,
+                "right": 0.2127957856083995,
+                "bottom": 0.6698543820239209
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.2127957856083995,
+                "top": 0.6485169165198105,
+                "right": 0.5325366745484246,
+                "bottom": 0.6698543820239209
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5325366745484246,
+                "top": 0.6485169165198105,
+                "right": 0.8332088714246311,
+                "bottom": 0.6698543820239209
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.11041680173297119,
+                "top": 0.6698543820239209,
+                "right": 0.2127957856083995,
+                "bottom": 0.7291987892900273
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.2127957856083995,
+                "top": 0.6698543820239209,
+                "right": 0.5325366745484246,
+                "bottom": 0.7291987892900273
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5325366745484246,
+                "top": 0.6698543820239209,
+                "right": 0.8332088714246311,
+                "bottom": 0.7291987892900273
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.11041680173297119,
+                "top": 0.7291987892900273,
+                "right": 0.2127957856083995,
+                "bottom": 0.772433058855043
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.2127957856083995,
+                "top": 0.7291987892900273,
+                "right": 0.5325366745484246,
+                "bottom": 0.772433058855043
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.5325366745484246,
+                "top": 0.7291987892900273,
+                "right": 0.8332088714246311,
+                "bottom": 0.772433058855043
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.11041680173297119,
+                "top": 0.772433058855043,
+                "right": 0.2127957856083995,
+                "bottom": 0.8093465873607926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.2127957856083995,
+                "top": 0.772433058855043,
+                "right": 0.5325366745484246,
+                "bottom": 0.8093465873607926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5325366745484246,
+                "top": 0.772433058855043,
+                "right": 0.8332088714246311,
+                "bottom": 0.8093465873607926
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.11041680173297119,
+                "top": 0.8093465873607926,
+                "right": 0.2127957856083995,
+                "bottom": 0.853946500171368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.2127957856083995,
+                "top": 0.8093465873607926,
+                "right": 0.5325366745484246,
+                "bottom": 0.853946500171368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5325366745484246,
+                "top": 0.8093465873607926,
+                "right": 0.8332088714246311,
+                "bottom": 0.853946500171368
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.11041680173297119,
+                "top": 0.853946500171368,
+                "right": 0.2127957856083995,
+                "bottom": 0.8819806323260835
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.2127957856083995,
+                "top": 0.853946500171368,
+                "right": 0.5325366745484246,
+                "bottom": 0.8819806323260835
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5325366745484246,
+                "top": 0.853946500171368,
+                "right": 0.8332088714246311,
+                "bottom": 0.8819806323260835
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "416f2546-9a5d-4329-8a38-07eb1fa68483": {
+            "box": {
+                "left": 0.8667346239089966,
+                "top": 0.8011057376861572,
+                "right": 0.9043289422988892,
+                "bottom": 0.9026786088943481
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "07e83d9f-45f2-42c7-969c-72faf91ac307": {
+            "box": {
+                "left": 0.21661800146102905,
+                "top": 0.9782217741012573,
+                "right": 0.7832511067390442,
+                "bottom": 0.9982775449752808
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "yldg0072_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10212,
+        "credit_usage": 3.0,
+        "job_id": "y25w5ybyfey2x3l15hcszcghh",
+        "version": "dpt-2-20250919"
+    }
+}

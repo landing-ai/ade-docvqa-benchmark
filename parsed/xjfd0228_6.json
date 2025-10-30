@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='416187b6-490a-437d-85ae-5ea938908dfa'></a>\n\nCENTER in the City of Sunshine\n\n<a id='993a7f36-cdad-4e7f-be4a-0b0f4df11b6a'></a>\n\n<::A black and white photograph of a hotel room with a balcony overlooking the ocean. A woman in a dress is standing on the balcony, looking out at the sea. Inside the room, there is a bed with a patterned bedspread, a small table with two chairs, and two lamps. A bouquet of flowers is visible in the foreground on the left. The room has large glass doors leading to the balcony.: figure::>\n\n<a id='317783f8-2d7d-4f0f-aefb-0931e144bfda'></a>\n\n- The Ultimate in Convenience and Luxury for Business and Vacation Traveler\n- 15 Glistening White Stories\n- 309 Luxurious Guest Rooms, Including 24 Spacious Suites, All Feature Color TV, Individual Room Temperature Controls and Spectacular Views, Refreshment Canteens are Located on Each Floor\n- Olympic Size Swimming Pool\n- Ample and Convenient Parking\n- Hilton Family Plan and Lady Hilton Rooms\n- Shopping Arcade/Airline Reservation Office/Car Rental/Drug Store/Brokerage Office/Beauty & Barber Shop/Boutiques\n\n<a id='21e98cf0-7cc6-49ed-8614-651a81dc26a6'></a>\n\nFor Informal Dining-our cozy Coffee Shop, delightful for\nbreakfast, lunch, supper or snacks.\n\n<a id='cc821742-7937-4062-843f-37d472f2019d'></a>\n\nFor Cocktails\u2014intimate lounges ... after hectic business sessions or busy schedules of sightseeing.\n\n<a id='2ab6b51c-f5f2-4ac9-8ea4-3a52918f5556'></a>\n\nFor Someone Special\u2014our glamorous rooftop restaurant and\nsupper club featuring nightly entertainment and dancing . . . a\nbreathtaking view of St. Petersburg and Tampa Bay at night.\n\n<a id='deba78f3-1f45-4d52-9a08-584027526018'></a>\n\n<::A black and white photograph shows a restaurant scene. In the foreground, a waiter in a tuxedo is standing, holding a small item in his right hand, seemingly serving or presenting something to the table. To the left, a group of four people are seated around a table, which is set with glasses, plates, and other dining items. Two men are visible on the left, and two women are visible further back, one smiling towards the camera. The background features several framed posters on the wall, one clearly visible with the text \"COLETTE WILLY\" and another with \"Olympia\". A brick wall is partially visible on the far right.: photograph::>\nSource: https://www.industrydocuments.ucsf.edu/docs/xjfd0228",
+    "chunks": [
+        {
+            "markdown": "<a id='416187b6-490a-437d-85ae-5ea938908dfa'></a>\n\nCENTER in the City of Sunshine",
+            "type": "text",
+            "id": "416187b6-490a-437d-85ae-5ea938908dfa",
+            "grounding": {
+                "box": {
+                    "left": 0.06059107184410095,
+                    "top": 0.02519690990447998,
+                    "right": 0.8948218822479248,
+                    "bottom": 0.060351334512233734
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='993a7f36-cdad-4e7f-be4a-0b0f4df11b6a'></a>\n\n<::A black and white photograph of a hotel room with a balcony overlooking the ocean. A woman in a dress is standing on the balcony, looking out at the sea. Inside the room, there is a bed with a patterned bedspread, a small table with two chairs, and two lamps. A bouquet of flowers is visible in the foreground on the left. The room has large glass doors leading to the balcony.: figure::>",
+            "type": "figure",
+            "id": "993a7f36-cdad-4e7f-be4a-0b0f4df11b6a",
+            "grounding": {
+                "box": {
+                    "left": 0.011405646800994873,
+                    "top": 0.06759198755025864,
+                    "right": 1.0011188983917236,
+                    "bottom": 0.28913208842277527
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='317783f8-2d7d-4f0f-aefb-0931e144bfda'></a>\n\n- The Ultimate in Convenience and Luxury for Business and Vacation Traveler\n- 15 Glistening White Stories\n- 309 Luxurious Guest Rooms, Including 24 Spacious Suites, All Feature Color TV, Individual Room Temperature Controls and Spectacular Views, Refreshment Canteens are Located on Each Floor\n- Olympic Size Swimming Pool\n- Ample and Convenient Parking\n- Hilton Family Plan and Lady Hilton Rooms\n- Shopping Arcade/Airline Reservation Office/Car Rental/Drug Store/Brokerage Office/Beauty & Barber Shop/Boutiques",
+            "type": "text",
+            "id": "317783f8-2d7d-4f0f-aefb-0931e144bfda",
+            "grounding": {
+                "box": {
+                    "left": 0.054495781660079956,
+                    "top": 0.2943905293941498,
+                    "right": 0.9915534257888794,
+                    "bottom": 0.5960336923599243
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='21e98cf0-7cc6-49ed-8614-651a81dc26a6'></a>\n\nFor Informal Dining-our cozy Coffee Shop, delightful for\nbreakfast, lunch, supper or snacks.",
+            "type": "text",
+            "id": "21e98cf0-7cc6-49ed-8614-651a81dc26a6",
+            "grounding": {
+                "box": {
+                    "left": 0.06614169478416443,
+                    "top": 0.6112889647483826,
+                    "right": 0.9890990257263184,
+                    "bottom": 0.6540842652320862
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cc821742-7937-4062-843f-37d472f2019d'></a>\n\nFor Cocktails\u2014intimate lounges ... after hectic business sessions or busy schedules of sightseeing.",
+            "type": "text",
+            "id": "cc821742-7937-4062-843f-37d472f2019d",
+            "grounding": {
+                "box": {
+                    "left": 0.06696569919586182,
+                    "top": 0.6649852395057678,
+                    "right": 0.9866012334823608,
+                    "bottom": 0.7067613005638123
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2ab6b51c-f5f2-4ac9-8ea4-3a52918f5556'></a>\n\nFor Someone Special\u2014our glamorous rooftop restaurant and\nsupper club featuring nightly entertainment and dancing . . . a\nbreathtaking view of St. Petersburg and Tampa Bay at night.",
+            "type": "text",
+            "id": "2ab6b51c-f5f2-4ac9-8ea4-3a52918f5556",
+            "grounding": {
+                "box": {
+                    "left": 0.06884455680847168,
+                    "top": 0.7159541845321655,
+                    "right": 0.9877253770828247,
+                    "bottom": 0.7762948274612427
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='deba78f3-1f45-4d52-9a08-584027526018'></a>\n\n<::A black and white photograph shows a restaurant scene. In the foreground, a waiter in a tuxedo is standing, holding a small item in his right hand, seemingly serving or presenting something to the table. To the left, a group of four people are seated around a table, which is set with glasses, plates, and other dining items. Two men are visible on the left, and two women are visible further back, one smiling towards the camera. The background features several framed posters on the wall, one clearly visible with the text \"COLETTE WILLY\" and another with \"Olympia\". A brick wall is partially visible on the far right.: photograph::>\nSource: https://www.industrydocuments.ucsf.edu/docs/xjfd0228",
+            "type": "figure",
+            "id": "deba78f3-1f45-4d52-9a08-584027526018",
+            "grounding": {
+                "box": {
+                    "left": 0.018837332725524902,
+                    "top": 0.7787567377090454,
+                    "right": 1.0007522106170654,
+                    "bottom": 0.9995348453521729
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='416187b6-490a-437d-85ae-5ea938908dfa'></a>\n\nCENTER in the City of Sunshine\n\n<a id='993a7f36-cdad-4e7f-be4a-0b0f4df11b6a'></a>\n\n<::A black and white photograph of a hotel room with a balcony overlooking the ocean. A woman in a dress is standing on the balcony, looking out at the sea. Inside the room, there is a bed with a patterned bedspread, a small table with two chairs, and two lamps. A bouquet of flowers is visible in the foreground on the left. The room has large glass doors leading to the balcony.: figure::>\n\n<a id='317783f8-2d7d-4f0f-aefb-0931e144bfda'></a>\n\n- The Ultimate in Convenience and Luxury for Business and Vacation Traveler\n- 15 Glistening White Stories\n- 309 Luxurious Guest Rooms, Including 24 Spacious Suites, All Feature Color TV, Individual Room Temperature Controls and Spectacular Views, Refreshment Canteens are Located on Each Floor\n- Olympic Size Swimming Pool\n- Ample and Convenient Parking\n- Hilton Family Plan and Lady Hilton Rooms\n- Shopping Arcade/Airline Reservation Office/Car Rental/Drug Store/Brokerage Office/Beauty & Barber Shop/Boutiques\n\n<a id='21e98cf0-7cc6-49ed-8614-651a81dc26a6'></a>\n\nFor Informal Dining-our cozy Coffee Shop, delightful for\nbreakfast, lunch, supper or snacks.\n\n<a id='cc821742-7937-4062-843f-37d472f2019d'></a>\n\nFor Cocktails\u2014intimate lounges ... after hectic business sessions or busy schedules of sightseeing.\n\n<a id='2ab6b51c-f5f2-4ac9-8ea4-3a52918f5556'></a>\n\nFor Someone Special\u2014our glamorous rooftop restaurant and\nsupper club featuring nightly entertainment and dancing . . . a\nbreathtaking view of St. Petersburg and Tampa Bay at night.\n\n<a id='deba78f3-1f45-4d52-9a08-584027526018'></a>\n\n<::A black and white photograph shows a restaurant scene. In the foreground, a waiter in a tuxedo is standing, holding a small item in his right hand, seemingly serving or presenting something to the table. To the left, a group of four people are seated around a table, which is set with glasses, plates, and other dining items. Two men are visible on the left, and two women are visible further back, one smiling towards the camera. The background features several framed posters on the wall, one clearly visible with the text \"COLETTE WILLY\" and another with \"Olympia\". A brick wall is partially visible on the far right.: photograph::>\nSource: https://www.industrydocuments.ucsf.edu/docs/xjfd0228",
+            "chunks": [
+                "416187b6-490a-437d-85ae-5ea938908dfa",
+                "993a7f36-cdad-4e7f-be4a-0b0f4df11b6a",
+                "317783f8-2d7d-4f0f-aefb-0931e144bfda",
+                "21e98cf0-7cc6-49ed-8614-651a81dc26a6",
+                "cc821742-7937-4062-843f-37d472f2019d",
+                "2ab6b51c-f5f2-4ac9-8ea4-3a52918f5556",
+                "deba78f3-1f45-4d52-9a08-584027526018"
+            ]
+        }
+    ],
+    "grounding": {
+        "416187b6-490a-437d-85ae-5ea938908dfa": {
+            "box": {
+                "left": 0.06059107184410095,
+                "top": 0.02519690990447998,
+                "right": 0.8948218822479248,
+                "bottom": 0.060351334512233734
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "993a7f36-cdad-4e7f-be4a-0b0f4df11b6a": {
+            "box": {
+                "left": 0.011405646800994873,
+                "top": 0.06759198755025864,
+                "right": 1.0011188983917236,
+                "bottom": 0.28913208842277527
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "317783f8-2d7d-4f0f-aefb-0931e144bfda": {
+            "box": {
+                "left": 0.054495781660079956,
+                "top": 0.2943905293941498,
+                "right": 0.9915534257888794,
+                "bottom": 0.5960336923599243
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "21e98cf0-7cc6-49ed-8614-651a81dc26a6": {
+            "box": {
+                "left": 0.06614169478416443,
+                "top": 0.6112889647483826,
+                "right": 0.9890990257263184,
+                "bottom": 0.6540842652320862
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cc821742-7937-4062-843f-37d472f2019d": {
+            "box": {
+                "left": 0.06696569919586182,
+                "top": 0.6649852395057678,
+                "right": 0.9866012334823608,
+                "bottom": 0.7067613005638123
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2ab6b51c-f5f2-4ac9-8ea4-3a52918f5556": {
+            "box": {
+                "left": 0.06884455680847168,
+                "top": 0.7159541845321655,
+                "right": 0.9877253770828247,
+                "bottom": 0.7762948274612427
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "deba78f3-1f45-4d52-9a08-584027526018": {
+            "box": {
+                "left": 0.018837332725524902,
+                "top": 0.7787567377090454,
+                "right": 1.0007522106170654,
+                "bottom": 0.9995348453521729
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "xjfd0228_6.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6769,
+        "credit_usage": 3.0,
+        "job_id": "ppe20bvlcgsndmldent0uzilm",
+        "version": "dpt-2-20250919"
+    }
+}

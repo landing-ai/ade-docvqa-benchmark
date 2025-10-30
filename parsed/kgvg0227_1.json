@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='a98c1cf1-dbb7-4d63-8202-e9a8ab744e1f'></a>\n\nPLATTE COUNTY\n\n<a id='f921d41a-d17f-437d-a6d9-798d02277596'></a>\n\nDIRECTORY OF SERVICES\n\n<a id='74bb5a40-97d4-49f8-b87b-6791823df847'></a>\n\nPrepared by:\nPLATTE COUNTY VOLUNTEERS AGAINST HUNGER\n\n<a id='b515b230-b8c6-40bd-94db-5d0bce3c1136'></a>\n\nMISSOURI ASSOCIATION FOR SOCIAL WELFARE\n113B West High Street\nJefferson City, Missouri\n\n<a id='00917c0c-9d71-4332-a1a2-3c2348c3d27e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kgvg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='a98c1cf1-dbb7-4d63-8202-e9a8ab744e1f'></a>\n\nPLATTE COUNTY",
+            "type": "text",
+            "id": "a98c1cf1-dbb7-4d63-8202-e9a8ab744e1f",
+            "grounding": {
+                "box": {
+                    "left": 0.4337981641292572,
+                    "top": 0.28649434447288513,
+                    "right": 0.5860130786895752,
+                    "bottom": 0.3170223534107208
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f921d41a-d17f-437d-a6d9-798d02277596'></a>\n\nDIRECTORY OF SERVICES",
+            "type": "text",
+            "id": "f921d41a-d17f-437d-a6d9-798d02277596",
+            "grounding": {
+                "box": {
+                    "left": 0.31223490834236145,
+                    "top": 0.34121206402778625,
+                    "right": 0.6873049736022949,
+                    "bottom": 0.3836536109447479
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='74bb5a40-97d4-49f8-b87b-6791823df847'></a>\n\nPrepared by:\nPLATTE COUNTY VOLUNTEERS AGAINST HUNGER",
+            "type": "text",
+            "id": "74bb5a40-97d4-49f8-b87b-6791823df847",
+            "grounding": {
+                "box": {
+                    "left": 0.31008243560791016,
+                    "top": 0.7347095608711243,
+                    "right": 0.6925013065338135,
+                    "bottom": 0.7942171692848206
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b515b230-b8c6-40bd-94db-5d0bce3c1136'></a>\n\nMISSOURI ASSOCIATION FOR SOCIAL WELFARE\n113B West High Street\nJefferson City, Missouri",
+            "type": "text",
+            "id": "b515b230-b8c6-40bd-94db-5d0bce3c1136",
+            "grounding": {
+                "box": {
+                    "left": 0.3111995458602905,
+                    "top": 0.8219926953315735,
+                    "right": 0.6917142868041992,
+                    "bottom": 0.8795294165611267
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='00917c0c-9d71-4332-a1a2-3c2348c3d27e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kgvg0227",
+            "type": "text",
+            "id": "00917c0c-9d71-4332-a1a2-3c2348c3d27e",
+            "grounding": {
+                "box": {
+                    "left": 0.22655296325683594,
+                    "top": 0.9780178070068359,
+                    "right": 0.7750841379165649,
+                    "bottom": 0.9997657537460327
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='a98c1cf1-dbb7-4d63-8202-e9a8ab744e1f'></a>\n\nPLATTE COUNTY\n\n<a id='f921d41a-d17f-437d-a6d9-798d02277596'></a>\n\nDIRECTORY OF SERVICES\n\n<a id='74bb5a40-97d4-49f8-b87b-6791823df847'></a>\n\nPrepared by:\nPLATTE COUNTY VOLUNTEERS AGAINST HUNGER\n\n<a id='b515b230-b8c6-40bd-94db-5d0bce3c1136'></a>\n\nMISSOURI ASSOCIATION FOR SOCIAL WELFARE\n113B West High Street\nJefferson City, Missouri\n\n<a id='00917c0c-9d71-4332-a1a2-3c2348c3d27e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kgvg0227",
+            "chunks": [
+                "a98c1cf1-dbb7-4d63-8202-e9a8ab744e1f",
+                "f921d41a-d17f-437d-a6d9-798d02277596",
+                "74bb5a40-97d4-49f8-b87b-6791823df847",
+                "b515b230-b8c6-40bd-94db-5d0bce3c1136",
+                "00917c0c-9d71-4332-a1a2-3c2348c3d27e"
+            ]
+        }
+    ],
+    "grounding": {
+        "a98c1cf1-dbb7-4d63-8202-e9a8ab744e1f": {
+            "box": {
+                "left": 0.4337981641292572,
+                "top": 0.28649434447288513,
+                "right": 0.5860130786895752,
+                "bottom": 0.3170223534107208
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f921d41a-d17f-437d-a6d9-798d02277596": {
+            "box": {
+                "left": 0.31223490834236145,
+                "top": 0.34121206402778625,
+                "right": 0.6873049736022949,
+                "bottom": 0.3836536109447479
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "74bb5a40-97d4-49f8-b87b-6791823df847": {
+            "box": {
+                "left": 0.31008243560791016,
+                "top": 0.7347095608711243,
+                "right": 0.6925013065338135,
+                "bottom": 0.7942171692848206
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b515b230-b8c6-40bd-94db-5d0bce3c1136": {
+            "box": {
+                "left": 0.3111995458602905,
+                "top": 0.8219926953315735,
+                "right": 0.6917142868041992,
+                "bottom": 0.8795294165611267
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "00917c0c-9d71-4332-a1a2-3c2348c3d27e": {
+            "box": {
+                "left": 0.22655296325683594,
+                "top": 0.9780178070068359,
+                "right": 0.7750841379165649,
+                "bottom": 0.9997657537460327
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kgvg0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4379,
+        "credit_usage": 3.0,
+        "job_id": "c3yndm49q8xqjozm495n8wl9d",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='77a9104f-6f5d-4455-a903-0dfdc0fde2cf'></a>\n\n<::logo: Pharmhouse\nEverything you need for health\nand home...for less!\nBUYING AND EXECUTIVE OFFICES\n860 BROADWAY, NEW YORK, NY 1000\nThe logo features the brand name \"Pharmhouse\" in bold, italicized black text, with the 's' in \"house\" replaced by a dollar sign, and a large 'X' symbol below the 'rm'.::>\n\n<a id='0615b9e2-6b9f-484c-acbb-8ecc99338a92'></a>\n\nDEAL # __ 42..\n\n<a id='b4f303dd-b776-40b3-8c53-4a4d582e417a'></a>\n\nSTORE # ALL STORES\n\n<a id='f9ab0467-891b-4974-8766-0f1815cb0b52'></a>\n\nPROMOTIONAL CIGARETTE DISPLAY OFFER\n\n<a id='37eb0e86-1e3f-4fa7-a662-955a7de78852'></a>\n\nCOMPANY: R.J. REYNOLDS TOBACCO CO.\nBRAND: WINSTON\nDISPLAY: 2-CARTON DISPLAY\nCONSUMER OFFER: NONE\n\n<a id='6e8d372a-fa22-478c-868d-5eff2cdbe14e'></a>\n\nDISPLAY PERIOD FROM 1,12 [illegible] 31/98\n\nPAYMENTS WILL BE MADE AT THE NEW YORK OFFICE.\n\n<a id='cb0f063c-d119-4ea0-995e-b0639f682fe3'></a>\n\nRAY SANGER\nBUYER\n\n<a id='c92a9b32-3909-419f-ac7e-04d775c7b8c5'></a>\n\nNOTE: MAKE SURE YOU RECEIVE THESE GOODS FROM YOUR DISTRIBUTOR.\n\n<a id='65865a7d-960f-4876-996a-3b7960b32cc4'></a>\n\nCC: ANGELA HOLNESS\n\n<a id='79a67d1e-e6cb-4d3b-9023-6cfbd9cfc492'></a>\n\n51893 1203",
+    "chunks": [
+        {
+            "markdown": "<a id='77a9104f-6f5d-4455-a903-0dfdc0fde2cf'></a>\n\n<::logo: Pharmhouse\nEverything you need for health\nand home...for less!\nBUYING AND EXECUTIVE OFFICES\n860 BROADWAY, NEW YORK, NY 1000\nThe logo features the brand name \"Pharmhouse\" in bold, italicized black text, with the 's' in \"house\" replaced by a dollar sign, and a large 'X' symbol below the 'rm'.::>",
+            "type": "logo",
+            "id": "77a9104f-6f5d-4455-a903-0dfdc0fde2cf",
+            "grounding": {
+                "box": {
+                    "left": 0.12242582440376282,
+                    "top": 0.03987004607915878,
+                    "right": 0.8652511835098267,
+                    "bottom": 0.1664990782737732
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0615b9e2-6b9f-484c-acbb-8ecc99338a92'></a>\n\nDEAL # __ 42..",
+            "type": "text",
+            "id": "0615b9e2-6b9f-484c-acbb-8ecc99338a92",
+            "grounding": {
+                "box": {
+                    "left": 0.06716292351484299,
+                    "top": 0.13825245201587677,
+                    "right": 0.3011879026889801,
+                    "bottom": 0.17488308250904083
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b4f303dd-b776-40b3-8c53-4a4d582e417a'></a>\n\nSTORE # ALL STORES",
+            "type": "text",
+            "id": "b4f303dd-b776-40b3-8c53-4a4d582e417a",
+            "grounding": {
+                "box": {
+                    "left": 0.3988020420074463,
+                    "top": 0.20829632878303528,
+                    "right": 0.6546833515167236,
+                    "bottom": 0.23731982707977295
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f9ab0467-891b-4974-8766-0f1815cb0b52'></a>\n\nPROMOTIONAL CIGARETTE DISPLAY OFFER",
+            "type": "text",
+            "id": "f9ab0467-891b-4974-8766-0f1815cb0b52",
+            "grounding": {
+                "box": {
+                    "left": 0.2621469795703888,
+                    "top": 0.282259076833725,
+                    "right": 0.6931403875350952,
+                    "bottom": 0.31043002009391785
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='37eb0e86-1e3f-4fa7-a662-955a7de78852'></a>\n\nCOMPANY: R.J. REYNOLDS TOBACCO CO.\nBRAND: WINSTON\nDISPLAY: 2-CARTON DISPLAY\nCONSUMER OFFER: NONE",
+            "type": "text",
+            "id": "37eb0e86-1e3f-4fa7-a662-955a7de78852",
+            "grounding": {
+                "box": {
+                    "left": 0.19770270586013794,
+                    "top": 0.33043164014816284,
+                    "right": 0.7525743842124939,
+                    "bottom": 0.4708783030509949
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6e8d372a-fa22-478c-868d-5eff2cdbe14e'></a>\n\nDISPLAY PERIOD FROM 1,12 [illegible] 31/98\n\nPAYMENTS WILL BE MADE AT THE NEW YORK OFFICE.",
+            "type": "text",
+            "id": "6e8d372a-fa22-478c-868d-5eff2cdbe14e",
+            "grounding": {
+                "box": {
+                    "left": 0.19917184114456177,
+                    "top": 0.48538780212402344,
+                    "right": 0.7298597693443298,
+                    "bottom": 0.5768589973449707
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cb0f063c-d119-4ea0-995e-b0639f682fe3'></a>\n\nRAY SANGER\nBUYER",
+            "type": "text",
+            "id": "cb0f063c-d119-4ea0-995e-b0639f682fe3",
+            "grounding": {
+                "box": {
+                    "left": 0.20317575335502625,
+                    "top": 0.6213635206222534,
+                    "right": 0.345132976770401,
+                    "bottom": 0.6638990640640259
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c92a9b32-3909-419f-ac7e-04d775c7b8c5'></a>\n\nNOTE: MAKE SURE YOU RECEIVE THESE GOODS FROM YOUR DISTRIBUTOR.",
+            "type": "text",
+            "id": "c92a9b32-3909-419f-ac7e-04d775c7b8c5",
+            "grounding": {
+                "box": {
+                    "left": 0.2022382915019989,
+                    "top": 0.6997998356819153,
+                    "right": 0.7915142774581909,
+                    "bottom": 0.7464221119880676
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='65865a7d-960f-4876-996a-3b7960b32cc4'></a>\n\nCC: ANGELA HOLNESS",
+            "type": "text",
+            "id": "65865a7d-960f-4876-996a-3b7960b32cc4",
+            "grounding": {
+                "box": {
+                    "left": 0.18383067846298218,
+                    "top": 0.7807092070579529,
+                    "right": 0.4255519509315491,
+                    "bottom": 0.8054060339927673
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='79a67d1e-e6cb-4d3b-9023-6cfbd9cfc492'></a>\n\n51893 1203",
+            "type": "marginalia",
+            "id": "79a67d1e-e6cb-4d3b-9023-6cfbd9cfc492",
+            "grounding": {
+                "box": {
+                    "left": 0.9263864755630493,
+                    "top": 0.8244947791099548,
+                    "right": 0.9520275592803955,
+                    "bottom": 0.9193221926689148
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='77a9104f-6f5d-4455-a903-0dfdc0fde2cf'></a>\n\n<::logo: Pharmhouse\nEverything you need for health\nand home...for less!\nBUYING AND EXECUTIVE OFFICES\n860 BROADWAY, NEW YORK, NY 1000\nThe logo features the brand name \"Pharmhouse\" in bold, italicized black text, with the 's' in \"house\" replaced by a dollar sign, and a large 'X' symbol below the 'rm'.::>\n\n<a id='0615b9e2-6b9f-484c-acbb-8ecc99338a92'></a>\n\nDEAL # __ 42..\n\n<a id='b4f303dd-b776-40b3-8c53-4a4d582e417a'></a>\n\nSTORE # ALL STORES\n\n<a id='f9ab0467-891b-4974-8766-0f1815cb0b52'></a>\n\nPROMOTIONAL CIGARETTE DISPLAY OFFER\n\n<a id='37eb0e86-1e3f-4fa7-a662-955a7de78852'></a>\n\nCOMPANY: R.J. REYNOLDS TOBACCO CO.\nBRAND: WINSTON\nDISPLAY: 2-CARTON DISPLAY\nCONSUMER OFFER: NONE\n\n<a id='6e8d372a-fa22-478c-868d-5eff2cdbe14e'></a>\n\nDISPLAY PERIOD FROM 1,12 [illegible] 31/98\n\nPAYMENTS WILL BE MADE AT THE NEW YORK OFFICE.\n\n<a id='cb0f063c-d119-4ea0-995e-b0639f682fe3'></a>\n\nRAY SANGER\nBUYER\n\n<a id='c92a9b32-3909-419f-ac7e-04d775c7b8c5'></a>\n\nNOTE: MAKE SURE YOU RECEIVE THESE GOODS FROM YOUR DISTRIBUTOR.\n\n<a id='65865a7d-960f-4876-996a-3b7960b32cc4'></a>\n\nCC: ANGELA HOLNESS\n\n<a id='79a67d1e-e6cb-4d3b-9023-6cfbd9cfc492'></a>\n\n51893 1203",
+            "chunks": [
+                "77a9104f-6f5d-4455-a903-0dfdc0fde2cf",
+                "0615b9e2-6b9f-484c-acbb-8ecc99338a92",
+                "b4f303dd-b776-40b3-8c53-4a4d582e417a",
+                "f9ab0467-891b-4974-8766-0f1815cb0b52",
+                "37eb0e86-1e3f-4fa7-a662-955a7de78852",
+                "6e8d372a-fa22-478c-868d-5eff2cdbe14e",
+                "cb0f063c-d119-4ea0-995e-b0639f682fe3",
+                "c92a9b32-3909-419f-ac7e-04d775c7b8c5",
+                "65865a7d-960f-4876-996a-3b7960b32cc4",
+                "79a67d1e-e6cb-4d3b-9023-6cfbd9cfc492"
+            ]
+        }
+    ],
+    "grounding": {
+        "77a9104f-6f5d-4455-a903-0dfdc0fde2cf": {
+            "box": {
+                "left": 0.12242582440376282,
+                "top": 0.03987004607915878,
+                "right": 0.8652511835098267,
+                "bottom": 0.1664990782737732
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "0615b9e2-6b9f-484c-acbb-8ecc99338a92": {
+            "box": {
+                "left": 0.06716292351484299,
+                "top": 0.13825245201587677,
+                "right": 0.3011879026889801,
+                "bottom": 0.17488308250904083
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b4f303dd-b776-40b3-8c53-4a4d582e417a": {
+            "box": {
+                "left": 0.3988020420074463,
+                "top": 0.20829632878303528,
+                "right": 0.6546833515167236,
+                "bottom": 0.23731982707977295
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f9ab0467-891b-4974-8766-0f1815cb0b52": {
+            "box": {
+                "left": 0.2621469795703888,
+                "top": 0.282259076833725,
+                "right": 0.6931403875350952,
+                "bottom": 0.31043002009391785
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "37eb0e86-1e3f-4fa7-a662-955a7de78852": {
+            "box": {
+                "left": 0.19770270586013794,
+                "top": 0.33043164014816284,
+                "right": 0.7525743842124939,
+                "bottom": 0.4708783030509949
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6e8d372a-fa22-478c-868d-5eff2cdbe14e": {
+            "box": {
+                "left": 0.19917184114456177,
+                "top": 0.48538780212402344,
+                "right": 0.7298597693443298,
+                "bottom": 0.5768589973449707
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "cb0f063c-d119-4ea0-995e-b0639f682fe3": {
+            "box": {
+                "left": 0.20317575335502625,
+                "top": 0.6213635206222534,
+                "right": 0.345132976770401,
+                "bottom": 0.6638990640640259
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c92a9b32-3909-419f-ac7e-04d775c7b8c5": {
+            "box": {
+                "left": 0.2022382915019989,
+                "top": 0.6997998356819153,
+                "right": 0.7915142774581909,
+                "bottom": 0.7464221119880676
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "65865a7d-960f-4876-996a-3b7960b32cc4": {
+            "box": {
+                "left": 0.18383067846298218,
+                "top": 0.7807092070579529,
+                "right": 0.4255519509315491,
+                "bottom": 0.8054060339927673
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "79a67d1e-e6cb-4d3b-9023-6cfbd9cfc492": {
+            "box": {
+                "left": 0.9263864755630493,
+                "top": 0.8244947791099548,
+                "right": 0.9520275592803955,
+                "bottom": 0.9193221926689148
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "thmg0023_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11072,
+        "credit_usage": 3.0,
+        "job_id": "vidvnnswzz4kix7mlk2k3l23w",
+        "version": "dpt-2-20250919"
+    }
+}

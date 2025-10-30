@@ -1,0 +1,523 @@
+{
+    "markdown": "<a id='18661b05-ba5e-4f0f-bcdb-182c3ed85737'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"4\">NET AMOUNT (text rotated)</td><td id=\"0-3\" colspan=\"3\">DISCOUNT (text rotated)</td><td id=\"0-4\" colspan=\"4\">AMOUNT</td><td id=\"0-5\">OUR NUMBER</td><td id=\"0-6\">INVOICE NUMBER OR DATE</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\">(watermark)</td><td id=\"0-j\">(watermark)</td></tr>\n<tr><td id=\"0-k\">00</td><td id=\"0-l\">000</td><td id=\"0-m\">3</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">00</td><td id=\"0-s\">000</td><td id=\"0-t\">3</td><td id=\"0-u\"></td><td id=\"0-v\">87</td><td id=\"0-w\">1/13 13532</td></tr>\n</table>\n\n<a id='5603cf80-7215-4003-916c-d8ac4d33d421'></a>\n\nSTATEMENT OF REMITTANCE\n\n<a id='4186ce0a-99c6-494e-a376-9b71b1177ea5'></a>\n\nE. I. du Pont de Nemours & Company\n\n<a id='4aa7c6a9-a324-49d2-a52e-fbaa954319cf'></a>\n\n<::attestation: Status stamp\nNOT NEGOTIABLE\nReadable Text: NOT NEGOTIABLE\nA large, outlined text stamp stating \"NOT NEGOTIABLE\" with a faint patterned background, centrally located.::>\n\n<a id='7fa4e9a3-9e4d-4071-acd8-b3fb0805db9d'></a>\n\n<::attestation: Corporate stamp/seal text\nReadable Text: INCORPORATED, WILMINGTON, DELAWARE\nText centered within a rectangular area, with a faint patterned background::>\n\n<a id='b3a87f12-44b6-4425-8c53-e3506d269c40'></a>\n\nFEB 1, 1972\nREFER TO THIS NUMBER\nIN CORRESPONDENCE\n\n<a id='3974aa0c-3cab-45fc-a09d-4274567ba572'></a>\n\nJ 990642",
+    "chunks": [
+        {
+            "markdown": "<a id='18661b05-ba5e-4f0f-bcdb-182c3ed85737'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"4\">NET AMOUNT (text rotated)</td><td id=\"0-3\" colspan=\"3\">DISCOUNT (text rotated)</td><td id=\"0-4\" colspan=\"4\">AMOUNT</td><td id=\"0-5\">OUR NUMBER</td><td id=\"0-6\">INVOICE NUMBER OR DATE</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\">(watermark)</td><td id=\"0-j\">(watermark)</td></tr>\n<tr><td id=\"0-k\">00</td><td id=\"0-l\">000</td><td id=\"0-m\">3</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">00</td><td id=\"0-s\">000</td><td id=\"0-t\">3</td><td id=\"0-u\"></td><td id=\"0-v\">87</td><td id=\"0-w\">1/13 13532</td></tr>\n</table>",
+            "type": "table",
+            "id": "18661b05-ba5e-4f0f-bcdb-182c3ed85737",
+            "grounding": {
+                "box": {
+                    "left": 0.09728452563285828,
+                    "top": 0.023205190896987915,
+                    "right": 0.9091496467590332,
+                    "bottom": 0.5530314445495605
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5603cf80-7215-4003-916c-d8ac4d33d421'></a>\n\nSTATEMENT OF REMITTANCE",
+            "type": "text",
+            "id": "5603cf80-7215-4003-916c-d8ac4d33d421",
+            "grounding": {
+                "box": {
+                    "left": 0.4132838845252991,
+                    "top": 0.5508725643157959,
+                    "right": 0.5968487858772278,
+                    "bottom": 0.5939195156097412
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4186ce0a-99c6-494e-a376-9b71b1177ea5'></a>\n\nE. I. du Pont de Nemours & Company",
+            "type": "text",
+            "id": "4186ce0a-99c6-494e-a376-9b71b1177ea5",
+            "grounding": {
+                "box": {
+                    "left": 0.31336456537246704,
+                    "top": 0.5939851999282837,
+                    "right": 0.6945649981498718,
+                    "bottom": 0.7011966705322266
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4aa7c6a9-a324-49d2-a52e-fbaa954319cf'></a>\n\n<::attestation: Status stamp\nNOT NEGOTIABLE\nReadable Text: NOT NEGOTIABLE\nA large, outlined text stamp stating \"NOT NEGOTIABLE\" with a faint patterned background, centrally located.::>",
+            "type": "attestation",
+            "id": "4aa7c6a9-a324-49d2-a52e-fbaa954319cf",
+            "grounding": {
+                "box": {
+                    "left": 0.03888627141714096,
+                    "top": 0.6707560420036316,
+                    "right": 0.2827071249485016,
+                    "bottom": 0.8452125191688538
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7fa4e9a3-9e4d-4071-acd8-b3fb0805db9d'></a>\n\n<::attestation: Corporate stamp/seal text\nReadable Text: INCORPORATED, WILMINGTON, DELAWARE\nText centered within a rectangular area, with a faint patterned background::>",
+            "type": "attestation",
+            "id": "7fa4e9a3-9e4d-4071-acd8-b3fb0805db9d",
+            "grounding": {
+                "box": {
+                    "left": 0.4079374670982361,
+                    "top": 0.7019340991973877,
+                    "right": 0.6055752635002136,
+                    "bottom": 0.7817060947418213
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b3a87f12-44b6-4425-8c53-e3506d269c40'></a>\n\nFEB 1, 1972\nREFER TO THIS NUMBER\nIN CORRESPONDENCE",
+            "type": "text",
+            "id": "b3a87f12-44b6-4425-8c53-e3506d269c40",
+            "grounding": {
+                "box": {
+                    "left": 0.7432219982147217,
+                    "top": 0.5984510183334351,
+                    "right": 0.9588708877563477,
+                    "bottom": 0.7530598640441895
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3974aa0c-3cab-45fc-a09d-4274567ba572'></a>\n\nJ 990642",
+            "type": "text",
+            "id": "3974aa0c-3cab-45fc-a09d-4274567ba572",
+            "grounding": {
+                "box": {
+                    "left": 0.7968817949295044,
+                    "top": 0.7722920775413513,
+                    "right": 0.9543098211288452,
+                    "bottom": 0.8611992001533508
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='18661b05-ba5e-4f0f-bcdb-182c3ed85737'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"4\">NET AMOUNT (text rotated)</td><td id=\"0-3\" colspan=\"3\">DISCOUNT (text rotated)</td><td id=\"0-4\" colspan=\"4\">AMOUNT</td><td id=\"0-5\">OUR NUMBER</td><td id=\"0-6\">INVOICE NUMBER OR DATE</td></tr>\n<tr><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\"></td><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\"></td><td id=\"0-i\">(watermark)</td><td id=\"0-j\">(watermark)</td></tr>\n<tr><td id=\"0-k\">00</td><td id=\"0-l\">000</td><td id=\"0-m\">3</td><td id=\"0-n\"></td><td id=\"0-o\"></td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">00</td><td id=\"0-s\">000</td><td id=\"0-t\">3</td><td id=\"0-u\"></td><td id=\"0-v\">87</td><td id=\"0-w\">1/13 13532</td></tr>\n</table>\n\n<a id='5603cf80-7215-4003-916c-d8ac4d33d421'></a>\n\nSTATEMENT OF REMITTANCE\n\n<a id='4186ce0a-99c6-494e-a376-9b71b1177ea5'></a>\n\nE. I. du Pont de Nemours & Company\n\n<a id='4aa7c6a9-a324-49d2-a52e-fbaa954319cf'></a>\n\n<::attestation: Status stamp\nNOT NEGOTIABLE\nReadable Text: NOT NEGOTIABLE\nA large, outlined text stamp stating \"NOT NEGOTIABLE\" with a faint patterned background, centrally located.::>\n\n<a id='7fa4e9a3-9e4d-4071-acd8-b3fb0805db9d'></a>\n\n<::attestation: Corporate stamp/seal text\nReadable Text: INCORPORATED, WILMINGTON, DELAWARE\nText centered within a rectangular area, with a faint patterned background::>\n\n<a id='b3a87f12-44b6-4425-8c53-e3506d269c40'></a>\n\nFEB 1, 1972\nREFER TO THIS NUMBER\nIN CORRESPONDENCE\n\n<a id='3974aa0c-3cab-45fc-a09d-4274567ba572'></a>\n\nJ 990642",
+            "chunks": [
+                "18661b05-ba5e-4f0f-bcdb-182c3ed85737",
+                "5603cf80-7215-4003-916c-d8ac4d33d421",
+                "4186ce0a-99c6-494e-a376-9b71b1177ea5",
+                "4aa7c6a9-a324-49d2-a52e-fbaa954319cf",
+                "7fa4e9a3-9e4d-4071-acd8-b3fb0805db9d",
+                "b3a87f12-44b6-4425-8c53-e3506d269c40",
+                "3974aa0c-3cab-45fc-a09d-4274567ba572"
+            ]
+        }
+    ],
+    "grounding": {
+        "18661b05-ba5e-4f0f-bcdb-182c3ed85737": {
+            "box": {
+                "left": 0.09728452563285828,
+                "top": 0.023205190896987915,
+                "right": 0.9091496467590332,
+                "bottom": 0.5530314445495605
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.9037097801213623,
+                "top": 0.5428505869325981,
+                "right": 0.10580218182537401,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.25326536419298495,
+                "top": 0.15105149311290456,
+                "right": 0.10775857126019353,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.35917714566228387,
+                "top": 0.15105149311290456,
+                "right": 0.25326536419298495,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.3844257677892635,
+                "top": 0.15105149311290456,
+                "right": 0.35917714566228387,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.43874599246495727,
+                "top": 0.15105149311290456,
+                "right": 0.3844257677892635,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.4915100615445631,
+                "top": 0.15105149311290456,
+                "right": 0.43874599246495727,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5583385679261834,
+                "top": 0.15105149311290456,
+                "right": 0.4915100615445631,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5844878178868775,
+                "top": 0.15105149311290456,
+                "right": 0.5583385679261834,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.6376076087087199,
+                "top": 0.15105149311290456,
+                "right": 0.5844878178868775,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.7039844341296497,
+                "top": 0.15105149311290456,
+                "right": 0.6376076087087199,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.7309562331550339,
+                "top": 0.15105149311290456,
+                "right": 0.7039844341296497,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7844551669302735,
+                "top": 0.15105149311290456,
+                "right": 0.7309562331550339,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.837248415741966,
+                "top": 0.15105149311290456,
+                "right": 0.7844551669302735,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.9037097801213623,
+                "top": 0.15105149311290456,
+                "right": 0.837248415741966,
+                "bottom": 0.049260080730696654
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.25326536419298495,
+                "top": 0.4828978406589215,
+                "right": 0.10775857126019353,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.35917714566228387,
+                "top": 0.4828978406589215,
+                "right": 0.25326536419298495,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.3844257677892635,
+                "top": 0.4828978406589215,
+                "right": 0.35917714566228387,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.43874599246495727,
+                "top": 0.4828978406589215,
+                "right": 0.3844257677892635,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.4915100615445631,
+                "top": 0.4828978406589215,
+                "right": 0.43874599246495727,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5583385679261834,
+                "top": 0.4828978406589215,
+                "right": 0.4915100615445631,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.5844878178868775,
+                "top": 0.4828978406589215,
+                "right": 0.5583385679261834,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.6376076087087199,
+                "top": 0.4828978406589215,
+                "right": 0.5844878178868775,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.7039844341296497,
+                "top": 0.4828978406589215,
+                "right": 0.6376076087087199,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7309562331550339,
+                "top": 0.4828978406589215,
+                "right": 0.7039844341296497,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.7844551669302735,
+                "top": 0.4828978406589215,
+                "right": 0.7309562331550339,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.837248415741966,
+                "top": 0.4828978406589215,
+                "right": 0.7844551669302735,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.9037097801213623,
+                "top": 0.4828978406589215,
+                "right": 0.837248415741966,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.25326536419298495,
+                "top": 0.5428505869325981,
+                "right": 0.10775857126019353,
+                "bottom": 0.4828978406589215
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.35917714566228387,
+                "top": 0.5428505869325981,
+                "right": 0.25326536419298495,
+                "bottom": 0.4828978406589215
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.5583385679261834,
+                "top": 0.5428505869325981,
+                "right": 0.25326536419298495,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.7039844341296497,
+                "top": 0.5428505869325981,
+                "right": 0.4915100615445631,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.9037097801213623,
+                "top": 0.5428505869325981,
+                "right": 0.6376076087087199,
+                "bottom": 0.15105149311290456
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "5603cf80-7215-4003-916c-d8ac4d33d421": {
+            "box": {
+                "left": 0.4132838845252991,
+                "top": 0.5508725643157959,
+                "right": 0.5968487858772278,
+                "bottom": 0.5939195156097412
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4186ce0a-99c6-494e-a376-9b71b1177ea5": {
+            "box": {
+                "left": 0.31336456537246704,
+                "top": 0.5939851999282837,
+                "right": 0.6945649981498718,
+                "bottom": 0.7011966705322266
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4aa7c6a9-a324-49d2-a52e-fbaa954319cf": {
+            "box": {
+                "left": 0.03888627141714096,
+                "top": 0.6707560420036316,
+                "right": 0.2827071249485016,
+                "bottom": 0.8452125191688538
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "7fa4e9a3-9e4d-4071-acd8-b3fb0805db9d": {
+            "box": {
+                "left": 0.4079374670982361,
+                "top": 0.7019340991973877,
+                "right": 0.6055752635002136,
+                "bottom": 0.7817060947418213
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "b3a87f12-44b6-4425-8c53-e3506d269c40": {
+            "box": {
+                "left": 0.7432219982147217,
+                "top": 0.5984510183334351,
+                "right": 0.9588708877563477,
+                "bottom": 0.7530598640441895
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3974aa0c-3cab-45fc-a09d-4274567ba572": {
+            "box": {
+                "left": 0.7968817949295044,
+                "top": 0.7722920775413513,
+                "right": 0.9543098211288452,
+                "bottom": 0.8611992001533508
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qzcc0228_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6727,
+        "credit_usage": 3.0,
+        "job_id": "d997rou7wzsn6131ci8soueit",
+        "version": "dpt-2-20250919"
+    }
+}

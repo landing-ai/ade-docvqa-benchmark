@@ -1,0 +1,78 @@
+{
+    "markdown": "<a id='d0b0cbdd-c0b1-49c1-8443-9bb30a4a7edc'></a>\n\n<::line chart: 5 YEAR GRAPH OF PATIENT DAYS, SELF-CARE SERVICE\n\nY-axis: Patient Days (ranging from 6000 to 18000)\nX-axis: Year\n\nData points:\n- 1971: 18487\n- 1972: 16772\n- 1973: 14683\n- 1974: 11707\n- 1975: 7806\n- 1976: 6444\n\nNote: *1976 figure is analyzation based on 5 months\n:chart::>\n\n<a id='d6b7848f-5d54-4470-9dd8-3f9ff50ad088'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yljd0227",
+    "chunks": [
+        {
+            "markdown": "<a id='d0b0cbdd-c0b1-49c1-8443-9bb30a4a7edc'></a>\n\n<::line chart: 5 YEAR GRAPH OF PATIENT DAYS, SELF-CARE SERVICE\n\nY-axis: Patient Days (ranging from 6000 to 18000)\nX-axis: Year\n\nData points:\n- 1971: 18487\n- 1972: 16772\n- 1973: 14683\n- 1974: 11707\n- 1975: 7806\n- 1976: 6444\n\nNote: *1976 figure is analyzation based on 5 months\n:chart::>",
+            "type": "figure",
+            "id": "d0b0cbdd-c0b1-49c1-8443-9bb30a4a7edc",
+            "grounding": {
+                "box": {
+                    "left": 0.024333268404006958,
+                    "top": 0.07417663931846619,
+                    "right": 0.979943037033081,
+                    "bottom": 0.9659219980239868
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d6b7848f-5d54-4470-9dd8-3f9ff50ad088'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yljd0227",
+            "type": "text",
+            "id": "d6b7848f-5d54-4470-9dd8-3f9ff50ad088",
+            "grounding": {
+                "box": {
+                    "left": 0.28811466693878174,
+                    "top": 0.9743078351020813,
+                    "right": 0.7122913599014282,
+                    "bottom": 0.9998111128807068
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d0b0cbdd-c0b1-49c1-8443-9bb30a4a7edc'></a>\n\n<::line chart: 5 YEAR GRAPH OF PATIENT DAYS, SELF-CARE SERVICE\n\nY-axis: Patient Days (ranging from 6000 to 18000)\nX-axis: Year\n\nData points:\n- 1971: 18487\n- 1972: 16772\n- 1973: 14683\n- 1974: 11707\n- 1975: 7806\n- 1976: 6444\n\nNote: *1976 figure is analyzation based on 5 months\n:chart::>\n\n<a id='d6b7848f-5d54-4470-9dd8-3f9ff50ad088'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yljd0227",
+            "chunks": [
+                "d0b0cbdd-c0b1-49c1-8443-9bb30a4a7edc",
+                "d6b7848f-5d54-4470-9dd8-3f9ff50ad088"
+            ]
+        }
+    ],
+    "grounding": {
+        "d0b0cbdd-c0b1-49c1-8443-9bb30a4a7edc": {
+            "box": {
+                "left": 0.024333268404006958,
+                "top": 0.07417663931846619,
+                "right": 0.979943037033081,
+                "bottom": 0.9659219980239868
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "d6b7848f-5d54-4470-9dd8-3f9ff50ad088": {
+            "box": {
+                "left": 0.28811466693878174,
+                "top": 0.9743078351020813,
+                "right": 0.7122913599014282,
+                "bottom": 0.9998111128807068
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "yljd0227_30.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 13274,
+        "credit_usage": 3.0,
+        "job_id": "jrvsxg17qt5w87aloj6imwey0",
+        "version": "dpt-2-20250919"
+    }
+}

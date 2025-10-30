@@ -1,0 +1,153 @@
+{
+    "markdown": "<a id='d421b942-303a-448d-9dec-a2a09a9badc5'></a>\n\nWE'RE FIGHTING FOR\nYOUR LIFE\n\n<a id='fa61a15c-9002-4d7b-bb63-6cbb530c13ae'></a>\n\nAmerican Heart Association\nNational Center 7320 Greenville Avenue Dallas 75231\n\n<a id='a61e4bd5-ae84-4812-9b80-ef3d6aacac6c'></a>\n\n71-014-A\n7-78-35M\n\n<a id='00b302ce-8b89-4361-8006-4b597b5a9c2c'></a>\n\nPrinted by the American Heart Association's Communications Division\n\n<a id='4fc35b8d-4d10-4d7c-8e71-f5fac097349e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kmmf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='d421b942-303a-448d-9dec-a2a09a9badc5'></a>\n\nWE'RE FIGHTING FOR\nYOUR LIFE",
+            "type": "text",
+            "id": "d421b942-303a-448d-9dec-a2a09a9badc5",
+            "grounding": {
+                "box": {
+                    "left": 0.2691228985786438,
+                    "top": 0.45213085412979126,
+                    "right": 0.7124559283256531,
+                    "bottom": 0.547834575176239
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fa61a15c-9002-4d7b-bb63-6cbb530c13ae'></a>\n\nAmerican Heart Association\nNational Center 7320 Greenville Avenue Dallas 75231",
+            "type": "text",
+            "id": "fa61a15c-9002-4d7b-bb63-6cbb530c13ae",
+            "grounding": {
+                "box": {
+                    "left": 0.2955591082572937,
+                    "top": 0.8665165901184082,
+                    "right": 0.688381552696228,
+                    "bottom": 0.9109150171279907
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a61e4bd5-ae84-4812-9b80-ef3d6aacac6c'></a>\n\n71-014-A\n7-78-35M",
+            "type": "marginalia",
+            "id": "a61e4bd5-ae84-4812-9b80-ef3d6aacac6c",
+            "grounding": {
+                "box": {
+                    "left": 0.06164562702178955,
+                    "top": 0.9165874123573303,
+                    "right": 0.12071004509925842,
+                    "bottom": 0.9410975575447083
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='00b302ce-8b89-4361-8006-4b597b5a9c2c'></a>\n\nPrinted by the American Heart Association's Communications Division",
+            "type": "text",
+            "id": "00b302ce-8b89-4361-8006-4b597b5a9c2c",
+            "grounding": {
+                "box": {
+                    "left": 0.3381184935569763,
+                    "top": 0.9246077537536621,
+                    "right": 0.6399312019348145,
+                    "bottom": 0.9417198896408081
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4fc35b8d-4d10-4d7c-8e71-f5fac097349e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kmmf0227",
+            "type": "text",
+            "id": "4fc35b8d-4d10-4d7c-8e71-f5fac097349e",
+            "grounding": {
+                "box": {
+                    "left": 0.21930786967277527,
+                    "top": 0.9776288866996765,
+                    "right": 0.7855224609375,
+                    "bottom": 1.0000663995742798
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='d421b942-303a-448d-9dec-a2a09a9badc5'></a>\n\nWE'RE FIGHTING FOR\nYOUR LIFE\n\n<a id='fa61a15c-9002-4d7b-bb63-6cbb530c13ae'></a>\n\nAmerican Heart Association\nNational Center 7320 Greenville Avenue Dallas 75231\n\n<a id='a61e4bd5-ae84-4812-9b80-ef3d6aacac6c'></a>\n\n71-014-A\n7-78-35M\n\n<a id='00b302ce-8b89-4361-8006-4b597b5a9c2c'></a>\n\nPrinted by the American Heart Association's Communications Division\n\n<a id='4fc35b8d-4d10-4d7c-8e71-f5fac097349e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/kmmf0227",
+            "chunks": [
+                "d421b942-303a-448d-9dec-a2a09a9badc5",
+                "fa61a15c-9002-4d7b-bb63-6cbb530c13ae",
+                "a61e4bd5-ae84-4812-9b80-ef3d6aacac6c",
+                "00b302ce-8b89-4361-8006-4b597b5a9c2c",
+                "4fc35b8d-4d10-4d7c-8e71-f5fac097349e"
+            ]
+        }
+    ],
+    "grounding": {
+        "d421b942-303a-448d-9dec-a2a09a9badc5": {
+            "box": {
+                "left": 0.2691228985786438,
+                "top": 0.45213085412979126,
+                "right": 0.7124559283256531,
+                "bottom": 0.547834575176239
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fa61a15c-9002-4d7b-bb63-6cbb530c13ae": {
+            "box": {
+                "left": 0.2955591082572937,
+                "top": 0.8665165901184082,
+                "right": 0.688381552696228,
+                "bottom": 0.9109150171279907
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a61e4bd5-ae84-4812-9b80-ef3d6aacac6c": {
+            "box": {
+                "left": 0.06164562702178955,
+                "top": 0.9165874123573303,
+                "right": 0.12071004509925842,
+                "bottom": 0.9410975575447083
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "00b302ce-8b89-4361-8006-4b597b5a9c2c": {
+            "box": {
+                "left": 0.3381184935569763,
+                "top": 0.9246077537536621,
+                "right": 0.6399312019348145,
+                "bottom": 0.9417198896408081
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4fc35b8d-4d10-4d7c-8e71-f5fac097349e": {
+            "box": {
+                "left": 0.21930786967277527,
+                "top": 0.9776288866996765,
+                "right": 0.7855224609375,
+                "bottom": 1.0000663995742798
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "kmmf0227_5.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3328,
+        "credit_usage": 3.0,
+        "job_id": "yqhzxdg25rlhp0cwfyonbfa7t",
+        "version": "dpt-2-20250919"
+    }
+}

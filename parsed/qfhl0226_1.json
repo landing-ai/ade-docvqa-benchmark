@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='e2d78e49-c0d4-44c1-8ba6-13cc063f7ea7'></a>\n\n<::attestation: Handwritten note/mark\nStatus: Read\nReadable Text: Read, 3/13/46\nDescription: Handwritten text \"Read\" and \"3/13/46\" with two diagonal lines, centrally located.::>\n\n<a id='3a9d188d-b79b-438c-9782-9482d860751c'></a>\n\nNO ANSWER\n\n<a id='5838ab26-d593-4dba-b2d8-262baeb2450f'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nReadable Text: M\nA vertical, illegible signature in gray ink, positioned in the center-right of the image, next to a bold 'M'.::>\n\n<a id='dfd87ea3-7596-49f2-8d43-3b8c34b49fb6'></a>\n\nA POST-WAR PROGRAM\nFOR SUGAR\n\n<a id='99cb5efc-b62f-4a49-a9f5-0c18812cc42a'></a>\n\nBy ELLSWORTH BUNKER\nChairman, United States Cane\nSugar Refiners' Association\n\n<a id='06732e9f-e341-4444-bd08-df9e61250b01'></a>\n\n<::logo: N/A\nNone\nA horizontal light gray band features a repeating pattern of small black stars.::>\n\n<a id='28a7ac96-6868-4d4e-8b23-1757f6c10a17'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qfhl0226",
+    "chunks": [
+        {
+            "markdown": "<a id='e2d78e49-c0d4-44c1-8ba6-13cc063f7ea7'></a>\n\n<::attestation: Handwritten note/mark\nStatus: Read\nReadable Text: Read, 3/13/46\nDescription: Handwritten text \"Read\" and \"3/13/46\" with two diagonal lines, centrally located.::>",
+            "type": "attestation",
+            "id": "e2d78e49-c0d4-44c1-8ba6-13cc063f7ea7",
+            "grounding": {
+                "box": {
+                    "left": 0.2821691334247589,
+                    "top": 0.03800491988658905,
+                    "right": 0.5128009915351868,
+                    "bottom": 0.18972036242485046
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3a9d188d-b79b-438c-9782-9482d860751c'></a>\n\nNO ANSWER",
+            "type": "text",
+            "id": "3a9d188d-b79b-438c-9782-9482d860751c",
+            "grounding": {
+                "box": {
+                    "left": 0.7913630604743958,
+                    "top": 0.0031095407903194427,
+                    "right": 0.9643122553825378,
+                    "bottom": 0.04379083216190338
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5838ab26-d593-4dba-b2d8-262baeb2450f'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nReadable Text: M\nA vertical, illegible signature in gray ink, positioned in the center-right of the image, next to a bold 'M'.::>",
+            "type": "attestation",
+            "id": "5838ab26-d593-4dba-b2d8-262baeb2450f",
+            "grounding": {
+                "box": {
+                    "left": 0.8055503964424133,
+                    "top": 0.04358847439289093,
+                    "right": 0.999239981174469,
+                    "bottom": 0.4936205744743347
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dfd87ea3-7596-49f2-8d43-3b8c34b49fb6'></a>\n\nA POST-WAR PROGRAM\nFOR SUGAR",
+            "type": "text",
+            "id": "dfd87ea3-7596-49f2-8d43-3b8c34b49fb6",
+            "grounding": {
+                "box": {
+                    "left": 0.11461421847343445,
+                    "top": 0.26527348160743713,
+                    "right": 0.8362084627151489,
+                    "bottom": 0.4188888967037201
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='99cb5efc-b62f-4a49-a9f5-0c18812cc42a'></a>\n\nBy ELLSWORTH BUNKER\nChairman, United States Cane\nSugar Refiners' Association",
+            "type": "text",
+            "id": "99cb5efc-b62f-4a49-a9f5-0c18812cc42a",
+            "grounding": {
+                "box": {
+                    "left": 0.1988714039325714,
+                    "top": 0.5753825306892395,
+                    "right": 0.7505320310592651,
+                    "bottom": 0.663261353969574
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='06732e9f-e341-4444-bd08-df9e61250b01'></a>\n\n<::logo: N/A\nNone\nA horizontal light gray band features a repeating pattern of small black stars.::>",
+            "type": "logo",
+            "id": "06732e9f-e341-4444-bd08-df9e61250b01",
+            "grounding": {
+                "box": {
+                    "left": 0.0007821023464202881,
+                    "top": 0.7648786902427673,
+                    "right": 0.9766213893890381,
+                    "bottom": 0.8094227910041809
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='28a7ac96-6868-4d4e-8b23-1757f6c10a17'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qfhl0226",
+            "type": "marginalia",
+            "id": "28a7ac96-6868-4d4e-8b23-1757f6c10a17",
+            "grounding": {
+                "box": {
+                    "left": 0.10138007998466492,
+                    "top": 0.9556955695152283,
+                    "right": 0.8987444639205933,
+                    "bottom": 0.9893010258674622
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='e2d78e49-c0d4-44c1-8ba6-13cc063f7ea7'></a>\n\n<::attestation: Handwritten note/mark\nStatus: Read\nReadable Text: Read, 3/13/46\nDescription: Handwritten text \"Read\" and \"3/13/46\" with two diagonal lines, centrally located.::>\n\n<a id='3a9d188d-b79b-438c-9782-9482d860751c'></a>\n\nNO ANSWER\n\n<a id='5838ab26-d593-4dba-b2d8-262baeb2450f'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nReadable Text: M\nA vertical, illegible signature in gray ink, positioned in the center-right of the image, next to a bold 'M'.::>\n\n<a id='dfd87ea3-7596-49f2-8d43-3b8c34b49fb6'></a>\n\nA POST-WAR PROGRAM\nFOR SUGAR\n\n<a id='99cb5efc-b62f-4a49-a9f5-0c18812cc42a'></a>\n\nBy ELLSWORTH BUNKER\nChairman, United States Cane\nSugar Refiners' Association\n\n<a id='06732e9f-e341-4444-bd08-df9e61250b01'></a>\n\n<::logo: N/A\nNone\nA horizontal light gray band features a repeating pattern of small black stars.::>\n\n<a id='28a7ac96-6868-4d4e-8b23-1757f6c10a17'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qfhl0226",
+            "chunks": [
+                "e2d78e49-c0d4-44c1-8ba6-13cc063f7ea7",
+                "3a9d188d-b79b-438c-9782-9482d860751c",
+                "5838ab26-d593-4dba-b2d8-262baeb2450f",
+                "dfd87ea3-7596-49f2-8d43-3b8c34b49fb6",
+                "99cb5efc-b62f-4a49-a9f5-0c18812cc42a",
+                "06732e9f-e341-4444-bd08-df9e61250b01",
+                "28a7ac96-6868-4d4e-8b23-1757f6c10a17"
+            ]
+        }
+    ],
+    "grounding": {
+        "e2d78e49-c0d4-44c1-8ba6-13cc063f7ea7": {
+            "box": {
+                "left": 0.2821691334247589,
+                "top": 0.03800491988658905,
+                "right": 0.5128009915351868,
+                "bottom": 0.18972036242485046
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "3a9d188d-b79b-438c-9782-9482d860751c": {
+            "box": {
+                "left": 0.7913630604743958,
+                "top": 0.0031095407903194427,
+                "right": 0.9643122553825378,
+                "bottom": 0.04379083216190338
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5838ab26-d593-4dba-b2d8-262baeb2450f": {
+            "box": {
+                "left": 0.8055503964424133,
+                "top": 0.04358847439289093,
+                "right": 0.999239981174469,
+                "bottom": 0.4936205744743347
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "dfd87ea3-7596-49f2-8d43-3b8c34b49fb6": {
+            "box": {
+                "left": 0.11461421847343445,
+                "top": 0.26527348160743713,
+                "right": 0.8362084627151489,
+                "bottom": 0.4188888967037201
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "99cb5efc-b62f-4a49-a9f5-0c18812cc42a": {
+            "box": {
+                "left": 0.1988714039325714,
+                "top": 0.5753825306892395,
+                "right": 0.7505320310592651,
+                "bottom": 0.663261353969574
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "06732e9f-e341-4444-bd08-df9e61250b01": {
+            "box": {
+                "left": 0.0007821023464202881,
+                "top": 0.7648786902427673,
+                "right": 0.9766213893890381,
+                "bottom": 0.8094227910041809
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "28a7ac96-6868-4d4e-8b23-1757f6c10a17": {
+            "box": {
+                "left": 0.10138007998466492,
+                "top": 0.9556955695152283,
+                "right": 0.8987444639205933,
+                "bottom": 0.9893010258674622
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "qfhl0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5737,
+        "credit_usage": 3.0,
+        "job_id": "gfxykpjn4cnshipwdbyi71z8o",
+        "version": "dpt-2-20250919"
+    }
+}

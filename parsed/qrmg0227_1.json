@@ -1,0 +1,353 @@
+{
+    "markdown": "<a id='80db6b42-ed93-493e-b708-2e8d0536b655'></a>\n\n<::logo: Unidentified\nUnreadable text at the bottom.\nA dark, crest-like emblem featuring a vertically divided shield, an ornate crown, and a semi-circular pattern of dots above.::>\n\n<a id='194f0389-a6a9-4cca-93dd-851325e72836'></a>\n\nTHE DIVISION OF HEALTH OF MISSOURI\nOF THE DEPARTMENT OF PUBLIC HEALTH AND WELFARE\nJEFFERSON CITY, MISSOURI\n\n<a id='1a3f4add-5657-4afe-a8a9-49be2643a508'></a>\n\nH. M. HARDWICKE, M.D.\nDEPUTY DIRECTOR OF\nTHE DIVISION OF HEALTH\n\n<a id='7f0b6aa2-175b-4ab6-b13d-89b2a9a0d63e'></a>\n\nJanuary 9, 1961\n\n<a id='8363e5d1-b494-4a9f-91a5-d11cb7e62db4'></a>\n\nADDRESS ALL COMMUNICATIONS\nTO THE DIVISION OF HEALTH\nHospital Construction\n\n<a id='fba9ebc4-1616-493d-abd4-0e0816800f6a'></a>\n\nMr. James M. Douglas\nChairman, Board of Directors\nWashington University\nDavid P. Wohl, Jr. Memorial\nLindell & Skinker Boulevards\nSt. Louis, Missouri\n\n<a id='650bf049-8c24-440d-93f1-dde15ff29e78'></a>\n\nDear Mr. Douglas :\nWe are happy to inform you that the Hospital Advisory Council met\nDecember 1, 1960, to allocate funds and have tentatively allocated\nyour project an additional $112,000.00 of Hill-Burton funds.\n\n<a id='babc995c-33a8-4e6c-bb4f-acb35bd34d6a'></a>\n\nThis additional money is, at the present time, tentative as the Twelfth Revision of the Missouri Hospital Plan, which was approved by the Hospital Advisory Council, remains to be approved by the Surgeon General's Offico.\n\n<a id='b7d639f3-02e5-467d-9756-3d914471774b'></a>\n\nBy the direction of J. P. Russell, M. D., Director, Section of Hospital\nand Technical Services.\n\n<a id='f4500254-01aa-4436-bdc7-46ec15ddbf26'></a>\n\n<::attestation: Signature\nSigned\nSignature: M. C. Wortley (legible)\nSincerely,\nM. C. Wortley\nProgram Director\nHospital Construction and Licensing\nA handwritten signature appears above the typed name and title, positioned in the lower-left quadrant of the image.::>\n\n<a id='6e236eac-91f3-4c42-9ddb-a279ea7a1a8e'></a>\n\nNCW / ss\n\n<a id='ef4f6757-9463-4152-a3c7-716f82333fa3'></a>\n\n<::attestation: Verification mark\nVerified\nReadable Text: Aug --- to B --- all; Cortes --- Chancellor; Medical ---; D ---\nA handwritten note with a checkmark next to the word \"Medical\", positioned in the upper right quadrant of the image.::>\n\n<a id='2549d3a7-dab6-410f-bfb0-bc40591cc13e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qrmg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='80db6b42-ed93-493e-b708-2e8d0536b655'></a>\n\n<::logo: Unidentified\nUnreadable text at the bottom.\nA dark, crest-like emblem featuring a vertically divided shield, an ornate crown, and a semi-circular pattern of dots above.::>",
+            "type": "logo",
+            "id": "80db6b42-ed93-493e-b708-2e8d0536b655",
+            "grounding": {
+                "box": {
+                    "left": 0.08912177383899689,
+                    "top": 0.06097693368792534,
+                    "right": 0.20135603845119476,
+                    "bottom": 0.15766069293022156
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='194f0389-a6a9-4cca-93dd-851325e72836'></a>\n\nTHE DIVISION OF HEALTH OF MISSOURI\nOF THE DEPARTMENT OF PUBLIC HEALTH AND WELFARE\nJEFFERSON CITY, MISSOURI",
+            "type": "text",
+            "id": "194f0389-a6a9-4cca-93dd-851325e72836",
+            "grounding": {
+                "box": {
+                    "left": 0.26354044675827026,
+                    "top": 0.05261287838220596,
+                    "right": 0.7488595843315125,
+                    "bottom": 0.11311692744493484
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1a3f4add-5657-4afe-a8a9-49be2643a508'></a>\n\nH. M. HARDWICKE, M.D.\nDEPUTY DIRECTOR OF\nTHE DIVISION OF HEALTH",
+            "type": "text",
+            "id": "1a3f4add-5657-4afe-a8a9-49be2643a508",
+            "grounding": {
+                "box": {
+                    "left": 0.8057796955108643,
+                    "top": 0.08320420980453491,
+                    "right": 0.9579665660858154,
+                    "bottom": 0.12365621328353882
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7f0b6aa2-175b-4ab6-b13d-89b2a9a0d63e'></a>\n\nJanuary 9, 1961",
+            "type": "text",
+            "id": "7f0b6aa2-175b-4ab6-b13d-89b2a9a0d63e",
+            "grounding": {
+                "box": {
+                    "left": 0.43152421712875366,
+                    "top": 0.1211605966091156,
+                    "right": 0.5836688876152039,
+                    "bottom": 0.1432265043258667
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8363e5d1-b494-4a9f-91a5-d11cb7e62db4'></a>\n\nADDRESS ALL COMMUNICATIONS\nTO THE DIVISION OF HEALTH\nHospital Construction",
+            "type": "text",
+            "id": "8363e5d1-b494-4a9f-91a5-d11cb7e62db4",
+            "grounding": {
+                "box": {
+                    "left": 0.05647306889295578,
+                    "top": 0.16279010474681854,
+                    "right": 0.26510366797447205,
+                    "bottom": 0.2072296291589737
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fba9ebc4-1616-493d-abd4-0e0816800f6a'></a>\n\nMr. James M. Douglas\nChairman, Board of Directors\nWashington University\nDavid P. Wohl, Jr. Memorial\nLindell & Skinker Boulevards\nSt. Louis, Missouri",
+            "type": "text",
+            "id": "fba9ebc4-1616-493d-abd4-0e0816800f6a",
+            "grounding": {
+                "box": {
+                    "left": 0.18887396156787872,
+                    "top": 0.3279763162136078,
+                    "right": 0.4682043790817261,
+                    "bottom": 0.42491409182548523
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='650bf049-8c24-440d-93f1-dde15ff29e78'></a>\n\nDear Mr. Douglas :\nWe are happy to inform you that the Hospital Advisory Council met\nDecember 1, 1960, to allocate funds and have tentatively allocated\nyour project an additional $112,000.00 of Hill-Burton funds.",
+            "type": "text",
+            "id": "650bf049-8c24-440d-93f1-dde15ff29e78",
+            "grounding": {
+                "box": {
+                    "left": 0.1923113763332367,
+                    "top": 0.4324687421321869,
+                    "right": 0.8259284496307373,
+                    "bottom": 0.5110324025154114
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='babc995c-33a8-4e6c-bb4f-acb35bd34d6a'></a>\n\nThis additional money is, at the present time, tentative as the Twelfth Revision of the Missouri Hospital Plan, which was approved by the Hospital Advisory Council, remains to be approved by the Surgeon General's Offico.",
+            "type": "text",
+            "id": "babc995c-33a8-4e6c-bb4f-acb35bd34d6a",
+            "grounding": {
+                "box": {
+                    "left": 0.19552552700042725,
+                    "top": 0.5155744552612305,
+                    "right": 0.8260124921798706,
+                    "bottom": 0.5861749649047852
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b7d639f3-02e5-467d-9756-3d914471774b'></a>\n\nBy the direction of J. P. Russell, M. D., Director, Section of Hospital\nand Technical Services.",
+            "type": "text",
+            "id": "b7d639f3-02e5-467d-9756-3d914471774b",
+            "grounding": {
+                "box": {
+                    "left": 0.19533753395080566,
+                    "top": 0.5862460732460022,
+                    "right": 0.8752970695495605,
+                    "bottom": 0.6315099596977234
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f4500254-01aa-4436-bdc7-46ec15ddbf26'></a>\n\n<::attestation: Signature\nSigned\nSignature: M. C. Wortley (legible)\nSincerely,\nM. C. Wortley\nProgram Director\nHospital Construction and Licensing\nA handwritten signature appears above the typed name and title, positioned in the lower-left quadrant of the image.::>",
+            "type": "attestation",
+            "id": "f4500254-01aa-4436-bdc7-46ec15ddbf26",
+            "grounding": {
+                "box": {
+                    "left": 0.5027765035629272,
+                    "top": 0.6332025527954102,
+                    "right": 0.8625807762145996,
+                    "bottom": 0.7459757328033447
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6e236eac-91f3-4c42-9ddb-a279ea7a1a8e'></a>\n\nNCW / ss",
+            "type": "text",
+            "id": "6e236eac-91f3-4c42-9ddb-a279ea7a1a8e",
+            "grounding": {
+                "box": {
+                    "left": 0.1996990591287613,
+                    "top": 0.7544298768043518,
+                    "right": 0.26754966378211975,
+                    "bottom": 0.7764636874198914
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ef4f6757-9463-4152-a3c7-716f82333fa3'></a>\n\n<::attestation: Verification mark\nVerified\nReadable Text: Aug --- to B --- all; Cortes --- Chancellor; Medical ---; D ---\nA handwritten note with a checkmark next to the word \"Medical\", positioned in the upper right quadrant of the image.::>",
+            "type": "attestation",
+            "id": "ef4f6757-9463-4152-a3c7-716f82333fa3",
+            "grounding": {
+                "box": {
+                    "left": 0.1947253942489624,
+                    "top": 0.7882170677185059,
+                    "right": 0.7201905250549316,
+                    "bottom": 0.9029580354690552
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2549d3a7-dab6-410f-bfb0-bc40591cc13e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qrmg0227",
+            "type": "text",
+            "id": "2549d3a7-dab6-410f-bfb0-bc40591cc13e",
+            "grounding": {
+                "box": {
+                    "left": 0.22381681203842163,
+                    "top": 0.9796528220176697,
+                    "right": 0.7794381976127625,
+                    "bottom": 0.9994954466819763
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='80db6b42-ed93-493e-b708-2e8d0536b655'></a>\n\n<::logo: Unidentified\nUnreadable text at the bottom.\nA dark, crest-like emblem featuring a vertically divided shield, an ornate crown, and a semi-circular pattern of dots above.::>\n\n<a id='194f0389-a6a9-4cca-93dd-851325e72836'></a>\n\nTHE DIVISION OF HEALTH OF MISSOURI\nOF THE DEPARTMENT OF PUBLIC HEALTH AND WELFARE\nJEFFERSON CITY, MISSOURI\n\n<a id='1a3f4add-5657-4afe-a8a9-49be2643a508'></a>\n\nH. M. HARDWICKE, M.D.\nDEPUTY DIRECTOR OF\nTHE DIVISION OF HEALTH\n\n<a id='7f0b6aa2-175b-4ab6-b13d-89b2a9a0d63e'></a>\n\nJanuary 9, 1961\n\n<a id='8363e5d1-b494-4a9f-91a5-d11cb7e62db4'></a>\n\nADDRESS ALL COMMUNICATIONS\nTO THE DIVISION OF HEALTH\nHospital Construction\n\n<a id='fba9ebc4-1616-493d-abd4-0e0816800f6a'></a>\n\nMr. James M. Douglas\nChairman, Board of Directors\nWashington University\nDavid P. Wohl, Jr. Memorial\nLindell & Skinker Boulevards\nSt. Louis, Missouri\n\n<a id='650bf049-8c24-440d-93f1-dde15ff29e78'></a>\n\nDear Mr. Douglas :\nWe are happy to inform you that the Hospital Advisory Council met\nDecember 1, 1960, to allocate funds and have tentatively allocated\nyour project an additional $112,000.00 of Hill-Burton funds.\n\n<a id='babc995c-33a8-4e6c-bb4f-acb35bd34d6a'></a>\n\nThis additional money is, at the present time, tentative as the Twelfth Revision of the Missouri Hospital Plan, which was approved by the Hospital Advisory Council, remains to be approved by the Surgeon General's Offico.\n\n<a id='b7d639f3-02e5-467d-9756-3d914471774b'></a>\n\nBy the direction of J. P. Russell, M. D., Director, Section of Hospital\nand Technical Services.\n\n<a id='f4500254-01aa-4436-bdc7-46ec15ddbf26'></a>\n\n<::attestation: Signature\nSigned\nSignature: M. C. Wortley (legible)\nSincerely,\nM. C. Wortley\nProgram Director\nHospital Construction and Licensing\nA handwritten signature appears above the typed name and title, positioned in the lower-left quadrant of the image.::>\n\n<a id='6e236eac-91f3-4c42-9ddb-a279ea7a1a8e'></a>\n\nNCW / ss\n\n<a id='ef4f6757-9463-4152-a3c7-716f82333fa3'></a>\n\n<::attestation: Verification mark\nVerified\nReadable Text: Aug --- to B --- all; Cortes --- Chancellor; Medical ---; D ---\nA handwritten note with a checkmark next to the word \"Medical\", positioned in the upper right quadrant of the image.::>\n\n<a id='2549d3a7-dab6-410f-bfb0-bc40591cc13e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qrmg0227",
+            "chunks": [
+                "80db6b42-ed93-493e-b708-2e8d0536b655",
+                "194f0389-a6a9-4cca-93dd-851325e72836",
+                "1a3f4add-5657-4afe-a8a9-49be2643a508",
+                "7f0b6aa2-175b-4ab6-b13d-89b2a9a0d63e",
+                "8363e5d1-b494-4a9f-91a5-d11cb7e62db4",
+                "fba9ebc4-1616-493d-abd4-0e0816800f6a",
+                "650bf049-8c24-440d-93f1-dde15ff29e78",
+                "babc995c-33a8-4e6c-bb4f-acb35bd34d6a",
+                "b7d639f3-02e5-467d-9756-3d914471774b",
+                "f4500254-01aa-4436-bdc7-46ec15ddbf26",
+                "6e236eac-91f3-4c42-9ddb-a279ea7a1a8e",
+                "ef4f6757-9463-4152-a3c7-716f82333fa3",
+                "2549d3a7-dab6-410f-bfb0-bc40591cc13e"
+            ]
+        }
+    ],
+    "grounding": {
+        "80db6b42-ed93-493e-b708-2e8d0536b655": {
+            "box": {
+                "left": 0.08912177383899689,
+                "top": 0.06097693368792534,
+                "right": 0.20135603845119476,
+                "bottom": 0.15766069293022156
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "194f0389-a6a9-4cca-93dd-851325e72836": {
+            "box": {
+                "left": 0.26354044675827026,
+                "top": 0.05261287838220596,
+                "right": 0.7488595843315125,
+                "bottom": 0.11311692744493484
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1a3f4add-5657-4afe-a8a9-49be2643a508": {
+            "box": {
+                "left": 0.8057796955108643,
+                "top": 0.08320420980453491,
+                "right": 0.9579665660858154,
+                "bottom": 0.12365621328353882
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7f0b6aa2-175b-4ab6-b13d-89b2a9a0d63e": {
+            "box": {
+                "left": 0.43152421712875366,
+                "top": 0.1211605966091156,
+                "right": 0.5836688876152039,
+                "bottom": 0.1432265043258667
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8363e5d1-b494-4a9f-91a5-d11cb7e62db4": {
+            "box": {
+                "left": 0.05647306889295578,
+                "top": 0.16279010474681854,
+                "right": 0.26510366797447205,
+                "bottom": 0.2072296291589737
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fba9ebc4-1616-493d-abd4-0e0816800f6a": {
+            "box": {
+                "left": 0.18887396156787872,
+                "top": 0.3279763162136078,
+                "right": 0.4682043790817261,
+                "bottom": 0.42491409182548523
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "650bf049-8c24-440d-93f1-dde15ff29e78": {
+            "box": {
+                "left": 0.1923113763332367,
+                "top": 0.4324687421321869,
+                "right": 0.8259284496307373,
+                "bottom": 0.5110324025154114
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "babc995c-33a8-4e6c-bb4f-acb35bd34d6a": {
+            "box": {
+                "left": 0.19552552700042725,
+                "top": 0.5155744552612305,
+                "right": 0.8260124921798706,
+                "bottom": 0.5861749649047852
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b7d639f3-02e5-467d-9756-3d914471774b": {
+            "box": {
+                "left": 0.19533753395080566,
+                "top": 0.5862460732460022,
+                "right": 0.8752970695495605,
+                "bottom": 0.6315099596977234
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f4500254-01aa-4436-bdc7-46ec15ddbf26": {
+            "box": {
+                "left": 0.5027765035629272,
+                "top": 0.6332025527954102,
+                "right": 0.8625807762145996,
+                "bottom": 0.7459757328033447
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "6e236eac-91f3-4c42-9ddb-a279ea7a1a8e": {
+            "box": {
+                "left": 0.1996990591287613,
+                "top": 0.7544298768043518,
+                "right": 0.26754966378211975,
+                "bottom": 0.7764636874198914
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ef4f6757-9463-4152-a3c7-716f82333fa3": {
+            "box": {
+                "left": 0.1947253942489624,
+                "top": 0.7882170677185059,
+                "right": 0.7201905250549316,
+                "bottom": 0.9029580354690552
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "2549d3a7-dab6-410f-bfb0-bc40591cc13e": {
+            "box": {
+                "left": 0.22381681203842163,
+                "top": 0.9796528220176697,
+                "right": 0.7794381976127625,
+                "bottom": 0.9994954466819763
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qrmg0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7919,
+        "credit_usage": 3.0,
+        "job_id": "r7k29ulokhuzn1wg773l57sfs",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "markdown": "<a id='8e565c90-63ac-402b-bdd4-28350d602a2f'></a>\n\nQuestion 4: Do you make a conscious effort to count the calories in a day's time?\n\n<a id='2ae9c379-5066-4dd8-8f09-130489832804'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Respondents</td><td id=\"0-3\">Total (506=100%)</td><td id=\"0-4\">Men (249=100%)</td><td id=\"0-5\">Women (257=100%)</td></tr>\n<tr><td id=\"0-6\">Yes</td><td id=\"0-7\">14%</td><td id=\"0-8\">9%</td><td id=\"0-9\">19%</td></tr>\n<tr><td id=\"0-a\">No</td><td id=\"0-b\">86</td><td id=\"0-c\">90</td><td id=\"0-d\">81</td></tr>\n<tr><td id=\"0-e\">No. answer</td><td id=\"0-f\">*</td><td id=\"0-g\">1</td><td id=\"0-h\">-</td></tr>\n</table>\n\n<a id='a815e736-e2ba-4e0a-9717-0f0d8e9b9737'></a>\n\n. * Less than 0.5%\n\n<a id='679ed7a0-2f61-4808-95ed-9dfe7893d1c3'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lpdi0226",
+    "chunks": [
+        {
+            "markdown": "<a id='8e565c90-63ac-402b-bdd4-28350d602a2f'></a>\n\nQuestion 4: Do you make a conscious effort to count the calories in a day's time?",
+            "type": "text",
+            "id": "8e565c90-63ac-402b-bdd4-28350d602a2f",
+            "grounding": {
+                "box": {
+                    "left": 0.20407813787460327,
+                    "top": 0.3097858130931854,
+                    "right": 0.7366284728050232,
+                    "bottom": 0.34654751420021057
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2ae9c379-5066-4dd8-8f09-130489832804'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Respondents</td><td id=\"0-3\">Total (506=100%)</td><td id=\"0-4\">Men (249=100%)</td><td id=\"0-5\">Women (257=100%)</td></tr>\n<tr><td id=\"0-6\">Yes</td><td id=\"0-7\">14%</td><td id=\"0-8\">9%</td><td id=\"0-9\">19%</td></tr>\n<tr><td id=\"0-a\">No</td><td id=\"0-b\">86</td><td id=\"0-c\">90</td><td id=\"0-d\">81</td></tr>\n<tr><td id=\"0-e\">No. answer</td><td id=\"0-f\">*</td><td id=\"0-g\">1</td><td id=\"0-h\">-</td></tr>\n</table>",
+            "type": "table",
+            "id": "2ae9c379-5066-4dd8-8f09-130489832804",
+            "grounding": {
+                "box": {
+                    "left": 0.20274940133094788,
+                    "top": 0.3689446747303009,
+                    "right": 0.7730376720428467,
+                    "bottom": 0.5118729472160339
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a815e736-e2ba-4e0a-9717-0f0d8e9b9737'></a>\n\n. * Less than 0.5%",
+            "type": "text",
+            "id": "a815e736-e2ba-4e0a-9717-0f0d8e9b9737",
+            "grounding": {
+                "box": {
+                    "left": 0.3727802634239197,
+                    "top": 0.531947672367096,
+                    "right": 0.5847241282463074,
+                    "bottom": 0.5545416474342346
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='679ed7a0-2f61-4808-95ed-9dfe7893d1c3'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lpdi0226",
+            "type": "text",
+            "id": "679ed7a0-2f61-4808-95ed-9dfe7893d1c3",
+            "grounding": {
+                "box": {
+                    "left": 0.2387111783027649,
+                    "top": 0.9813238978385925,
+                    "right": 0.762552797794342,
+                    "bottom": 0.9986512064933777
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='8e565c90-63ac-402b-bdd4-28350d602a2f'></a>\n\nQuestion 4: Do you make a conscious effort to count the calories in a day's time?\n\n<a id='2ae9c379-5066-4dd8-8f09-130489832804'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Total Respondents</td><td id=\"0-3\">Total (506=100%)</td><td id=\"0-4\">Men (249=100%)</td><td id=\"0-5\">Women (257=100%)</td></tr>\n<tr><td id=\"0-6\">Yes</td><td id=\"0-7\">14%</td><td id=\"0-8\">9%</td><td id=\"0-9\">19%</td></tr>\n<tr><td id=\"0-a\">No</td><td id=\"0-b\">86</td><td id=\"0-c\">90</td><td id=\"0-d\">81</td></tr>\n<tr><td id=\"0-e\">No. answer</td><td id=\"0-f\">*</td><td id=\"0-g\">1</td><td id=\"0-h\">-</td></tr>\n</table>\n\n<a id='a815e736-e2ba-4e0a-9717-0f0d8e9b9737'></a>\n\n. * Less than 0.5%\n\n<a id='679ed7a0-2f61-4808-95ed-9dfe7893d1c3'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lpdi0226",
+            "chunks": [
+                "8e565c90-63ac-402b-bdd4-28350d602a2f",
+                "2ae9c379-5066-4dd8-8f09-130489832804",
+                "a815e736-e2ba-4e0a-9717-0f0d8e9b9737",
+                "679ed7a0-2f61-4808-95ed-9dfe7893d1c3"
+            ]
+        }
+    ],
+    "grounding": {
+        "8e565c90-63ac-402b-bdd4-28350d602a2f": {
+            "box": {
+                "left": 0.20407813787460327,
+                "top": 0.3097858130931854,
+                "right": 0.7366284728050232,
+                "bottom": 0.34654751420021057
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2ae9c379-5066-4dd8-8f09-130489832804": {
+            "box": {
+                "left": 0.20274940133094788,
+                "top": 0.3689446747303009,
+                "right": 0.7730376720428467,
+                "bottom": 0.5118729472160339
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.207945851323168,
+                "top": 0.3704245098908655,
+                "right": 0.7689947517906468,
+                "bottom": 0.5118716352609418
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.207945851323168,
+                "top": 0.3704245098908655,
+                "right": 0.3730072195202174,
+                "bottom": 0.4039744592543544
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3730072195202174,
+                "top": 0.3704245098908655,
+                "right": 0.5678942598814984,
+                "bottom": 0.4039744592543544
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.5678942598814984,
+                "top": 0.3704245098908655,
+                "right": 0.670285843256087,
+                "bottom": 0.4039744592543544
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.670285843256087,
+                "top": 0.3704245098908655,
+                "right": 0.768958346540936,
+                "bottom": 0.4039744592543544
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.207945851323168,
+                "top": 0.4039744592543544,
+                "right": 0.3730072195202174,
+                "bottom": 0.45008483758348916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.3730072195202174,
+                "top": 0.4039744592543544,
+                "right": 0.5678942598814984,
+                "bottom": 0.45008483758348916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5678942598814984,
+                "top": 0.4039744592543544,
+                "right": 0.670285843256087,
+                "bottom": 0.45008483758348916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.670285843256087,
+                "top": 0.4039744592543544,
+                "right": 0.768958346540936,
+                "bottom": 0.45008483758348916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.207945851323168,
+                "top": 0.45008483758348916,
+                "right": 0.3730072195202174,
+                "bottom": 0.48183881080913515
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.3730072195202174,
+                "top": 0.45008483758348916,
+                "right": 0.5678942598814984,
+                "bottom": 0.48183881080913515
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5678942598814984,
+                "top": 0.45008483758348916,
+                "right": 0.670285843256087,
+                "bottom": 0.48183881080913515
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.670285843256087,
+                "top": 0.45008483758348916,
+                "right": 0.768958346540936,
+                "bottom": 0.48183881080913515
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.207945851323168,
+                "top": 0.48183881080913515,
+                "right": 0.3730072195202174,
+                "bottom": 0.5118716352609418
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.3730072195202174,
+                "top": 0.48183881080913515,
+                "right": 0.5678942598814984,
+                "bottom": 0.5118716352609418
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5678942598814984,
+                "top": 0.48183881080913515,
+                "right": 0.670285843256087,
+                "bottom": 0.5118716352609418
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.670285843256087,
+                "top": 0.48183881080913515,
+                "right": 0.768958346540936,
+                "bottom": 0.5118716352609418
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "a815e736-e2ba-4e0a-9717-0f0d8e9b9737": {
+            "box": {
+                "left": 0.3727802634239197,
+                "top": 0.531947672367096,
+                "right": 0.5847241282463074,
+                "bottom": 0.5545416474342346
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "679ed7a0-2f61-4808-95ed-9dfe7893d1c3": {
+            "box": {
+                "left": 0.2387111783027649,
+                "top": 0.9813238978385925,
+                "right": 0.762552797794342,
+                "bottom": 0.9986512064933777
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lpdl0226_15.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5146,
+        "credit_usage": 3.0,
+        "job_id": "vvvp9pp551y8if7n85xsdgvte",
+        "version": "dpt-2-20250919"
+    }
+}

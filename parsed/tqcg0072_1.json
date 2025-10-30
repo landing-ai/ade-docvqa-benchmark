@@ -1,0 +1,558 @@
+{
+    "markdown": "<a id='f21ab4d7-ca24-4c55-8e92-9dcc20c17ab4'></a>\n\nLONDON MEETING\nORIENTATION AGENDA\nTUESDAY - JULY 7, 1987\n\n<a id='ebeb11a4-95c4-4116-b4d7-5bedbb09260c'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Introduction</td><td id=\"0-3\">L. W. Pullen</td><td id=\"0-4\">10:00 - 10:10</td></tr>\n<tr><td id=\"0-5\">Overview</td><td id=\"0-6\">T. Brock/R. Kampe</td><td id=\"0-7\">10:10 - 10:30</td></tr>\n<tr><td id=\"0-8\">Product Development/R&D</td><td id=\"0-9\">K. Rush</td><td id=\"0-a\">10:30 - 11:30</td></tr>\n<tr><td id=\"0-b\">Toxicology/R&D</td><td id=\"0-c\">J. Hayes</td><td id=\"0-d\">11:30 - 12:00</td></tr>\n<tr><td id=\"0-e\">Manufacturing</td><td id=\"0-f\">L. Bass</td><td id=\"0-g\">12:00 - 1:00</td></tr>\n<tr><td id=\"0-h\">LUNCH</td><td id=\"0-i\"></td><td id=\"0-j\">1:00 - 2:00</td></tr>\n<tr><td id=\"0-k\">Purchasing</td><td id=\"0-l\">G. McKenna</td><td id=\"0-m\">2:00 - 2:30</td></tr>\n<tr><td id=\"0-n\">Legal/Regulatory</td><td id=\"0-o\">W. Juchatz</td><td id=\"0-p\">2:30 - 3:00</td></tr>\n<tr><td id=\"0-q\">BREAK</td><td id=\"0-r\"></td><td id=\"0-s\">3:00 - 3:15</td></tr>\n<tr><td id=\"0-t\">Marketing</td><td id=\"0-u\">G. McKenna</td><td id=\"0-v\">3:15 - 4:15</td></tr>\n<tr><td id=\"0-w\">Communications</td><td id=\"0-x\">H. Osmon</td><td id=\"0-y\">4:15 - 4:45</td></tr>\n<tr><td id=\"0-z\">Finance</td><td id=\"0-A\">R. Summers</td><td id=\"0-B\">4:45 - 5:15</td></tr>\n<tr><td id=\"0-C\">Closing</td><td id=\"0-D\">R. Kampe</td><td id=\"0-E\">5:15 - 5:30</td></tr>\n<tr><td id=\"0-F\">EVENING</td><td id=\"0-G\"></td><td id=\"0-H\">Free</td></tr>\n</table>\n\n<a id='5e4f870e-eb10-44aa-b8a0-dc754148fbb4'></a>\n\n50614 7851\n\n<a id='e02dd20e-4e1f-4b00-b8a7-3be5fb1ce71a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tqcg0072",
+    "chunks": [
+        {
+            "markdown": "<a id='f21ab4d7-ca24-4c55-8e92-9dcc20c17ab4'></a>\n\nLONDON MEETING\nORIENTATION AGENDA\nTUESDAY - JULY 7, 1987",
+            "type": "text",
+            "id": "f21ab4d7-ca24-4c55-8e92-9dcc20c17ab4",
+            "grounding": {
+                "box": {
+                    "left": 0.3909558653831482,
+                    "top": 0.09928855299949646,
+                    "right": 0.619215190410614,
+                    "bottom": 0.19137239456176758
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ebeb11a4-95c4-4116-b4d7-5bedbb09260c'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Introduction</td><td id=\"0-3\">L. W. Pullen</td><td id=\"0-4\">10:00 - 10:10</td></tr>\n<tr><td id=\"0-5\">Overview</td><td id=\"0-6\">T. Brock/R. Kampe</td><td id=\"0-7\">10:10 - 10:30</td></tr>\n<tr><td id=\"0-8\">Product Development/R&D</td><td id=\"0-9\">K. Rush</td><td id=\"0-a\">10:30 - 11:30</td></tr>\n<tr><td id=\"0-b\">Toxicology/R&D</td><td id=\"0-c\">J. Hayes</td><td id=\"0-d\">11:30 - 12:00</td></tr>\n<tr><td id=\"0-e\">Manufacturing</td><td id=\"0-f\">L. Bass</td><td id=\"0-g\">12:00 - 1:00</td></tr>\n<tr><td id=\"0-h\">LUNCH</td><td id=\"0-i\"></td><td id=\"0-j\">1:00 - 2:00</td></tr>\n<tr><td id=\"0-k\">Purchasing</td><td id=\"0-l\">G. McKenna</td><td id=\"0-m\">2:00 - 2:30</td></tr>\n<tr><td id=\"0-n\">Legal/Regulatory</td><td id=\"0-o\">W. Juchatz</td><td id=\"0-p\">2:30 - 3:00</td></tr>\n<tr><td id=\"0-q\">BREAK</td><td id=\"0-r\"></td><td id=\"0-s\">3:00 - 3:15</td></tr>\n<tr><td id=\"0-t\">Marketing</td><td id=\"0-u\">G. McKenna</td><td id=\"0-v\">3:15 - 4:15</td></tr>\n<tr><td id=\"0-w\">Communications</td><td id=\"0-x\">H. Osmon</td><td id=\"0-y\">4:15 - 4:45</td></tr>\n<tr><td id=\"0-z\">Finance</td><td id=\"0-A\">R. Summers</td><td id=\"0-B\">4:45 - 5:15</td></tr>\n<tr><td id=\"0-C\">Closing</td><td id=\"0-D\">R. Kampe</td><td id=\"0-E\">5:15 - 5:30</td></tr>\n<tr><td id=\"0-F\">EVENING</td><td id=\"0-G\"></td><td id=\"0-H\">Free</td></tr>\n</table>",
+            "type": "table",
+            "id": "ebeb11a4-95c4-4116-b4d7-5bedbb09260c",
+            "grounding": {
+                "box": {
+                    "left": 0.13040602207183838,
+                    "top": 0.2182813584804535,
+                    "right": 0.8599305152893066,
+                    "bottom": 0.7228795289993286
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5e4f870e-eb10-44aa-b8a0-dc754148fbb4'></a>\n\n50614 7851",
+            "type": "marginalia",
+            "id": "5e4f870e-eb10-44aa-b8a0-dc754148fbb4",
+            "grounding": {
+                "box": {
+                    "left": 0.9049418568611145,
+                    "top": 0.8170714974403381,
+                    "right": 0.9379265904426575,
+                    "bottom": 0.919076144695282
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e02dd20e-4e1f-4b00-b8a7-3be5fb1ce71a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tqcg0072",
+            "type": "marginalia",
+            "id": "e02dd20e-4e1f-4b00-b8a7-3be5fb1ce71a",
+            "grounding": {
+                "box": {
+                    "left": 0.21523571014404297,
+                    "top": 0.9776529669761658,
+                    "right": 0.7850652933120728,
+                    "bottom": 0.9994894862174988
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='f21ab4d7-ca24-4c55-8e92-9dcc20c17ab4'></a>\n\nLONDON MEETING\nORIENTATION AGENDA\nTUESDAY - JULY 7, 1987\n\n<a id='ebeb11a4-95c4-4116-b4d7-5bedbb09260c'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Introduction</td><td id=\"0-3\">L. W. Pullen</td><td id=\"0-4\">10:00 - 10:10</td></tr>\n<tr><td id=\"0-5\">Overview</td><td id=\"0-6\">T. Brock/R. Kampe</td><td id=\"0-7\">10:10 - 10:30</td></tr>\n<tr><td id=\"0-8\">Product Development/R&D</td><td id=\"0-9\">K. Rush</td><td id=\"0-a\">10:30 - 11:30</td></tr>\n<tr><td id=\"0-b\">Toxicology/R&D</td><td id=\"0-c\">J. Hayes</td><td id=\"0-d\">11:30 - 12:00</td></tr>\n<tr><td id=\"0-e\">Manufacturing</td><td id=\"0-f\">L. Bass</td><td id=\"0-g\">12:00 - 1:00</td></tr>\n<tr><td id=\"0-h\">LUNCH</td><td id=\"0-i\"></td><td id=\"0-j\">1:00 - 2:00</td></tr>\n<tr><td id=\"0-k\">Purchasing</td><td id=\"0-l\">G. McKenna</td><td id=\"0-m\">2:00 - 2:30</td></tr>\n<tr><td id=\"0-n\">Legal/Regulatory</td><td id=\"0-o\">W. Juchatz</td><td id=\"0-p\">2:30 - 3:00</td></tr>\n<tr><td id=\"0-q\">BREAK</td><td id=\"0-r\"></td><td id=\"0-s\">3:00 - 3:15</td></tr>\n<tr><td id=\"0-t\">Marketing</td><td id=\"0-u\">G. McKenna</td><td id=\"0-v\">3:15 - 4:15</td></tr>\n<tr><td id=\"0-w\">Communications</td><td id=\"0-x\">H. Osmon</td><td id=\"0-y\">4:15 - 4:45</td></tr>\n<tr><td id=\"0-z\">Finance</td><td id=\"0-A\">R. Summers</td><td id=\"0-B\">4:45 - 5:15</td></tr>\n<tr><td id=\"0-C\">Closing</td><td id=\"0-D\">R. Kampe</td><td id=\"0-E\">5:15 - 5:30</td></tr>\n<tr><td id=\"0-F\">EVENING</td><td id=\"0-G\"></td><td id=\"0-H\">Free</td></tr>\n</table>\n\n<a id='5e4f870e-eb10-44aa-b8a0-dc754148fbb4'></a>\n\n50614 7851\n\n<a id='e02dd20e-4e1f-4b00-b8a7-3be5fb1ce71a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tqcg0072",
+            "chunks": [
+                "f21ab4d7-ca24-4c55-8e92-9dcc20c17ab4",
+                "ebeb11a4-95c4-4116-b4d7-5bedbb09260c",
+                "5e4f870e-eb10-44aa-b8a0-dc754148fbb4",
+                "e02dd20e-4e1f-4b00-b8a7-3be5fb1ce71a"
+            ]
+        }
+    ],
+    "grounding": {
+        "f21ab4d7-ca24-4c55-8e92-9dcc20c17ab4": {
+            "box": {
+                "left": 0.3909558653831482,
+                "top": 0.09928855299949646,
+                "right": 0.619215190410614,
+                "bottom": 0.19137239456176758
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ebeb11a4-95c4-4116-b4d7-5bedbb09260c": {
+            "box": {
+                "left": 0.13040602207183838,
+                "top": 0.2182813584804535,
+                "right": 0.8599305152893066,
+                "bottom": 0.7228795289993286
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.2223052389132934,
+                "right": 0.8557180949878429,
+                "bottom": 0.71663094746396
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.2223052389132934,
+                "right": 0.367255881414259,
+                "bottom": 0.24875137612451048
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.2223052389132934,
+                "right": 0.6270769220153838,
+                "bottom": 0.24875137612451048
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.2223052389132934,
+                "right": 0.8559698618373446,
+                "bottom": 0.24875137612451048
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.24875137612451048,
+                "right": 0.367255881414259,
+                "bottom": 0.27894498418210145
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.24875137612451048,
+                "right": 0.6270769220153838,
+                "bottom": 0.27894498418210145
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.24875137612451048,
+                "right": 0.8559698618373446,
+                "bottom": 0.27894498418210145
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.27894498418210145,
+                "right": 0.367255881414259,
+                "bottom": 0.3089135362174158
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.27894498418210145,
+                "right": 0.6270769220153838,
+                "bottom": 0.3089135362174158
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.27894498418210145,
+                "right": 0.8559698618373446,
+                "bottom": 0.3089135362174158
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.3089135362174158,
+                "right": 0.367255881414259,
+                "bottom": 0.3405640391953426
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.3089135362174158,
+                "right": 0.6270769220153838,
+                "bottom": 0.3405640391953426
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.3089135362174158,
+                "right": 0.8559698618373446,
+                "bottom": 0.3405640391953426
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.3405640391953426,
+                "right": 0.367255881414259,
+                "bottom": 0.3707937332872593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.3405640391953426,
+                "right": 0.6270769220153838,
+                "bottom": 0.3707937332872593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.3405640391953426,
+                "right": 0.8559698618373446,
+                "bottom": 0.3707937332872593
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.3707937332872593,
+                "right": 0.367255881414259,
+                "bottom": 0.4195156430160898
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.3707937332872593,
+                "right": 0.6270769220153838,
+                "bottom": 0.4195156430160898
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.3707937332872593,
+                "right": 0.8559698618373446,
+                "bottom": 0.4195156430160898
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.4195156430160898,
+                "right": 0.367255881414259,
+                "bottom": 0.4621833549485501
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.4195156430160898,
+                "right": 0.6270769220153838,
+                "bottom": 0.4621833549485501
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.4195156430160898,
+                "right": 0.8559698618373446,
+                "bottom": 0.4621833549485501
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.4621833549485501,
+                "right": 0.367255881414259,
+                "bottom": 0.4954012591602943
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.4621833549485501,
+                "right": 0.6270769220153838,
+                "bottom": 0.4954012591602943
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.4621833549485501,
+                "right": 0.8559698618373446,
+                "bottom": 0.4954012591602943
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.4954012591602943,
+                "right": 0.367255881414259,
+                "bottom": 0.5377812452627797
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.4954012591602943,
+                "right": 0.6270769220153838,
+                "bottom": 0.5377812452627797
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.4954012591602943,
+                "right": 0.8559698618373446,
+                "bottom": 0.5377812452627797
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.5377812452627797,
+                "right": 0.367255881414259,
+                "bottom": 0.5837005613417237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.5377812452627797,
+                "right": 0.6270769220153838,
+                "bottom": 0.5837005613417237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.5377812452627797,
+                "right": 0.8559698618373446,
+                "bottom": 0.5837005613417237
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.5837005613417237,
+                "right": 0.367255881414259,
+                "bottom": 0.6135154117214316
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.5837005613417237,
+                "right": 0.6270769220153838,
+                "bottom": 0.6135154117214316
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.5837005613417237,
+                "right": 0.8559698618373446,
+                "bottom": 0.6135154117214316
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.6135154117214316,
+                "right": 0.367255881414259,
+                "bottom": 0.6432911928644138
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.6135154117214316,
+                "right": 0.6270769220153838,
+                "bottom": 0.6432911928644138
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.6135154117214316,
+                "right": 0.8559698618373446,
+                "bottom": 0.6432911928644138
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.6432911928644138,
+                "right": 0.367255881414259,
+                "bottom": 0.6767785214199531
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.6432911928644138,
+                "right": 0.6270769220153838,
+                "bottom": 0.6767785214199531
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.6432911928644138,
+                "right": 0.8559698618373446,
+                "bottom": 0.6767785214199531
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.13531304228497437,
+                "top": 0.6767785214199531,
+                "right": 0.367255881414259,
+                "bottom": 0.71663094746396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.367255881414259,
+                "top": 0.6767785214199531,
+                "right": 0.6270769220153838,
+                "bottom": 0.71663094746396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.6270769220153838,
+                "top": 0.6767785214199531,
+                "right": 0.8559698618373446,
+                "bottom": 0.71663094746396
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "5e4f870e-eb10-44aa-b8a0-dc754148fbb4": {
+            "box": {
+                "left": 0.9049418568611145,
+                "top": 0.8170714974403381,
+                "right": 0.9379265904426575,
+                "bottom": 0.919076144695282
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "e02dd20e-4e1f-4b00-b8a7-3be5fb1ce71a": {
+            "box": {
+                "left": 0.21523571014404297,
+                "top": 0.9776529669761658,
+                "right": 0.7850652933120728,
+                "bottom": 0.9994894862174988
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "tqcg0072_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8392,
+        "credit_usage": 3.0,
+        "job_id": "u14rahtegcayo9qz2sv88yr62",
+        "version": "dpt-2-20250919"
+    }
+}

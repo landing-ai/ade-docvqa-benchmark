@@ -1,0 +1,203 @@
+{
+    "markdown": "<a id='3a22a719-d841-4d49-b84c-8115139a4a9e'></a>\n\n<::logo: [No specific brand identified]\nDIET AND CORONARY HEART DISEASE\nThe text is rendered in a distinctive double-line, sans-serif font, in a dark gray color against a light background.::>\n\n<a id='07cf5cb1-2e55-4023-a70e-4d8d18eeac5d'></a>\n\nThis statement for physicians and other health professionals\nwas developed by the Committee on Nutrition and authorized for\nrelease by the Central Committee for Medical and Community\nProgram of the American Heart Association.\n\n<a id='154ad565-dcb0-4c01-a7e2-53af87be40df'></a>\n\nAMERICAN HEART ASSOCIATION\n\n<a id='9dfa64ba-0f82-48df-841a-c5f3b1508e60'></a>\n\n<::logo: American Heart Association\n(R)\nA grey heart shape contains a stylized flaming torch.::>\n\n<a id='52399965-5ab7-44c0-b495-f70d53d330ea'></a>\n\nST. LOUIS HEART ASSOCIATION\n4643 LINDELL BLVD.\nST. LOUIS. MISSOURI 63108\n\n<a id='0f8665ef-0d27-4ebf-9a80-d728d0fed744'></a>\n\n\u00a9 1973 American Heart Association\n\n<a id='b83fe432-37da-4fa5-a486-286cc004938f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yrnf0227",
+    "chunks": [
+        {
+            "markdown": "<a id='3a22a719-d841-4d49-b84c-8115139a4a9e'></a>\n\n<::logo: [No specific brand identified]\nDIET AND CORONARY HEART DISEASE\nThe text is rendered in a distinctive double-line, sans-serif font, in a dark gray color against a light background.::>",
+            "type": "logo",
+            "id": "3a22a719-d841-4d49-b84c-8115139a4a9e",
+            "grounding": {
+                "box": {
+                    "left": 0.12967108190059662,
+                    "top": 0.17858193814754486,
+                    "right": 0.586831271648407,
+                    "bottom": 0.43370383977890015
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='07cf5cb1-2e55-4023-a70e-4d8d18eeac5d'></a>\n\nThis statement for physicians and other health professionals\nwas developed by the Committee on Nutrition and authorized for\nrelease by the Central Committee for Medical and Community\nProgram of the American Heart Association.",
+            "type": "text",
+            "id": "07cf5cb1-2e55-4023-a70e-4d8d18eeac5d",
+            "grounding": {
+                "box": {
+                    "left": 0.2421598881483078,
+                    "top": 0.48092591762542725,
+                    "right": 0.7208107709884644,
+                    "bottom": 0.5535979270935059
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='154ad565-dcb0-4c01-a7e2-53af87be40df'></a>\n\nAMERICAN HEART ASSOCIATION",
+            "type": "text",
+            "id": "154ad565-dcb0-4c01-a7e2-53af87be40df",
+            "grounding": {
+                "box": {
+                    "left": 0.4212876558303833,
+                    "top": 0.822209894657135,
+                    "right": 0.736264705657959,
+                    "bottom": 0.8483743071556091
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9dfa64ba-0f82-48df-841a-c5f3b1508e60'></a>\n\n<::logo: American Heart Association\n(R)\nA grey heart shape contains a stylized flaming torch.::>",
+            "type": "logo",
+            "id": "9dfa64ba-0f82-48df-841a-c5f3b1508e60",
+            "grounding": {
+                "box": {
+                    "left": 0.7496564984321594,
+                    "top": 0.8022693991661072,
+                    "right": 0.8310832381248474,
+                    "bottom": 0.8697094321250916
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='52399965-5ab7-44c0-b495-f70d53d330ea'></a>\n\nST. LOUIS HEART ASSOCIATION\n4643 LINDELL BLVD.\nST. LOUIS. MISSOURI 63108",
+            "type": "text",
+            "id": "52399965-5ab7-44c0-b495-f70d53d330ea",
+            "grounding": {
+                "box": {
+                    "left": 0.131127268075943,
+                    "top": 0.8503355979919434,
+                    "right": 0.36627525091171265,
+                    "bottom": 0.9000086784362793
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0f8665ef-0d27-4ebf-9a80-d728d0fed744'></a>\n\n\u00a9 1973 American Heart Association",
+            "type": "marginalia",
+            "id": "0f8665ef-0d27-4ebf-9a80-d728d0fed744",
+            "grounding": {
+                "box": {
+                    "left": 0.07610854506492615,
+                    "top": 0.9164338111877441,
+                    "right": 0.2675802409648895,
+                    "bottom": 0.933280348777771
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b83fe432-37da-4fa5-a486-286cc004938f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yrnf0227",
+            "type": "text",
+            "id": "b83fe432-37da-4fa5-a486-286cc004938f",
+            "grounding": {
+                "box": {
+                    "left": 0.233714759349823,
+                    "top": 0.9786116480827332,
+                    "right": 0.7707542777061462,
+                    "bottom": 0.9999350905418396
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3a22a719-d841-4d49-b84c-8115139a4a9e'></a>\n\n<::logo: [No specific brand identified]\nDIET AND CORONARY HEART DISEASE\nThe text is rendered in a distinctive double-line, sans-serif font, in a dark gray color against a light background.::>\n\n<a id='07cf5cb1-2e55-4023-a70e-4d8d18eeac5d'></a>\n\nThis statement for physicians and other health professionals\nwas developed by the Committee on Nutrition and authorized for\nrelease by the Central Committee for Medical and Community\nProgram of the American Heart Association.\n\n<a id='154ad565-dcb0-4c01-a7e2-53af87be40df'></a>\n\nAMERICAN HEART ASSOCIATION\n\n<a id='9dfa64ba-0f82-48df-841a-c5f3b1508e60'></a>\n\n<::logo: American Heart Association\n(R)\nA grey heart shape contains a stylized flaming torch.::>\n\n<a id='52399965-5ab7-44c0-b495-f70d53d330ea'></a>\n\nST. LOUIS HEART ASSOCIATION\n4643 LINDELL BLVD.\nST. LOUIS. MISSOURI 63108\n\n<a id='0f8665ef-0d27-4ebf-9a80-d728d0fed744'></a>\n\n\u00a9 1973 American Heart Association\n\n<a id='b83fe432-37da-4fa5-a486-286cc004938f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/yrnf0227",
+            "chunks": [
+                "3a22a719-d841-4d49-b84c-8115139a4a9e",
+                "07cf5cb1-2e55-4023-a70e-4d8d18eeac5d",
+                "154ad565-dcb0-4c01-a7e2-53af87be40df",
+                "9dfa64ba-0f82-48df-841a-c5f3b1508e60",
+                "52399965-5ab7-44c0-b495-f70d53d330ea",
+                "0f8665ef-0d27-4ebf-9a80-d728d0fed744",
+                "b83fe432-37da-4fa5-a486-286cc004938f"
+            ]
+        }
+    ],
+    "grounding": {
+        "3a22a719-d841-4d49-b84c-8115139a4a9e": {
+            "box": {
+                "left": 0.12967108190059662,
+                "top": 0.17858193814754486,
+                "right": 0.586831271648407,
+                "bottom": 0.43370383977890015
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "07cf5cb1-2e55-4023-a70e-4d8d18eeac5d": {
+            "box": {
+                "left": 0.2421598881483078,
+                "top": 0.48092591762542725,
+                "right": 0.7208107709884644,
+                "bottom": 0.5535979270935059
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "154ad565-dcb0-4c01-a7e2-53af87be40df": {
+            "box": {
+                "left": 0.4212876558303833,
+                "top": 0.822209894657135,
+                "right": 0.736264705657959,
+                "bottom": 0.8483743071556091
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9dfa64ba-0f82-48df-841a-c5f3b1508e60": {
+            "box": {
+                "left": 0.7496564984321594,
+                "top": 0.8022693991661072,
+                "right": 0.8310832381248474,
+                "bottom": 0.8697094321250916
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "52399965-5ab7-44c0-b495-f70d53d330ea": {
+            "box": {
+                "left": 0.131127268075943,
+                "top": 0.8503355979919434,
+                "right": 0.36627525091171265,
+                "bottom": 0.9000086784362793
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0f8665ef-0d27-4ebf-9a80-d728d0fed744": {
+            "box": {
+                "left": 0.07610854506492615,
+                "top": 0.9164338111877441,
+                "right": 0.2675802409648895,
+                "bottom": 0.933280348777771
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "b83fe432-37da-4fa5-a486-286cc004938f": {
+            "box": {
+                "left": 0.233714759349823,
+                "top": 0.9786116480827332,
+                "right": 0.7707542777061462,
+                "bottom": 0.9999350905418396
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "yrnf0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7586,
+        "credit_usage": 3.0,
+        "job_id": "fohg6u92y9tjoadmjonmrbwlw",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "markdown": "<a id='72d94378-5dd6-4063-99b4-0a0258b379ff'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Percent Shares 2</td><td id=\"0-3\">(Percent)</td><td id=\"0-4\">1.09</td></tr>\n<tr><td id=\"0-5\">No. of Shares 2</td><td id=\"0-6\">(Nos)</td><td id=\"0-7\">192000</td></tr>\n</table>\n\n<a id='976de693-e54e-4b38-a3d8-4e1c7a3bbeb1'></a>\n\nEQUITY HOLDING PROMOTERS & MAJOR INVESTORS\nEquity Owner Type: Non-Promoters-2008\n\n<a id='3b3ad2d2-cdae-4400-b7a1-284031a98e94'></a>\n\nEQUITY HOLDING PROMOTERS & MAJOR INVESTORS\n\n<a id='906c926b-e839-43df-9f0a-369d8a4d7685'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lsgj0223",
+    "chunks": [
+        {
+            "markdown": "<a id='72d94378-5dd6-4063-99b4-0a0258b379ff'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Percent Shares 2</td><td id=\"0-3\">(Percent)</td><td id=\"0-4\">1.09</td></tr>\n<tr><td id=\"0-5\">No. of Shares 2</td><td id=\"0-6\">(Nos)</td><td id=\"0-7\">192000</td></tr>\n</table>",
+            "type": "table",
+            "id": "72d94378-5dd6-4063-99b4-0a0258b379ff",
+            "grounding": {
+                "box": {
+                    "left": 0.11006590723991394,
+                    "top": 0.08551039546728134,
+                    "right": 0.883870005607605,
+                    "bottom": 0.1315331757068634
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='976de693-e54e-4b38-a3d8-4e1c7a3bbeb1'></a>\n\nEQUITY HOLDING PROMOTERS & MAJOR INVESTORS\nEquity Owner Type: Non-Promoters-2008",
+            "type": "text",
+            "id": "976de693-e54e-4b38-a3d8-4e1c7a3bbeb1",
+            "grounding": {
+                "box": {
+                    "left": 0.28175562620162964,
+                    "top": 0.7264635562896729,
+                    "right": 0.7274348139762878,
+                    "bottom": 0.7761024236679077
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3b3ad2d2-cdae-4400-b7a1-284031a98e94'></a>\n\nEQUITY HOLDING PROMOTERS & MAJOR INVESTORS",
+            "type": "text",
+            "id": "3b3ad2d2-cdae-4400-b7a1-284031a98e94",
+            "grounding": {
+                "box": {
+                    "left": 0.28174102306365967,
+                    "top": 0.8718933463096619,
+                    "right": 0.7278555631637573,
+                    "bottom": 0.8968423008918762
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='906c926b-e839-43df-9f0a-369d8a4d7685'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lsgj0223",
+            "type": "marginalia",
+            "id": "906c926b-e839-43df-9f0a-369d8a4d7685",
+            "grounding": {
+                "box": {
+                    "left": 0.21931862831115723,
+                    "top": 0.9776342511177063,
+                    "right": 0.7808750867843628,
+                    "bottom": 0.9999136328697205
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='72d94378-5dd6-4063-99b4-0a0258b379ff'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Percent Shares 2</td><td id=\"0-3\">(Percent)</td><td id=\"0-4\">1.09</td></tr>\n<tr><td id=\"0-5\">No. of Shares 2</td><td id=\"0-6\">(Nos)</td><td id=\"0-7\">192000</td></tr>\n</table>\n\n<a id='976de693-e54e-4b38-a3d8-4e1c7a3bbeb1'></a>\n\nEQUITY HOLDING PROMOTERS & MAJOR INVESTORS\nEquity Owner Type: Non-Promoters-2008\n\n<a id='3b3ad2d2-cdae-4400-b7a1-284031a98e94'></a>\n\nEQUITY HOLDING PROMOTERS & MAJOR INVESTORS\n\n<a id='906c926b-e839-43df-9f0a-369d8a4d7685'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/lsgj0223",
+            "chunks": [
+                "72d94378-5dd6-4063-99b4-0a0258b379ff",
+                "976de693-e54e-4b38-a3d8-4e1c7a3bbeb1",
+                "3b3ad2d2-cdae-4400-b7a1-284031a98e94",
+                "906c926b-e839-43df-9f0a-369d8a4d7685"
+            ]
+        }
+    ],
+    "grounding": {
+        "72d94378-5dd6-4063-99b4-0a0258b379ff": {
+            "box": {
+                "left": 0.11006590723991394,
+                "top": 0.08551039546728134,
+                "right": 0.883870005607605,
+                "bottom": 0.1315331757068634
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11704932134129029,
+                "top": 0.09142067292197076,
+                "right": 0.8765199529459551,
+                "bottom": 0.1267463853863724
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11704932134129029,
+                "top": 0.09142067292197076,
+                "right": 0.3607818027782468,
+                "bottom": 0.10920501633186053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.3607818027782468,
+                "top": 0.09142067292197076,
+                "right": 0.6773414127316908,
+                "bottom": 0.10920501633186053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6773414127316908,
+                "top": 0.09142067292197076,
+                "right": 0.8765433369613884,
+                "bottom": 0.10920501633186053
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.11704932134129029,
+                "top": 0.10920501633186053,
+                "right": 0.3607818027782468,
+                "bottom": 0.1267463853863724
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.3607818027782468,
+                "top": 0.10920501633186053,
+                "right": 0.6773414127316908,
+                "bottom": 0.1267463853863724
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6773414127316908,
+                "top": 0.10920501633186053,
+                "right": 0.8765433369613884,
+                "bottom": 0.1267463853863724
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "976de693-e54e-4b38-a3d8-4e1c7a3bbeb1": {
+            "box": {
+                "left": 0.28175562620162964,
+                "top": 0.7264635562896729,
+                "right": 0.7274348139762878,
+                "bottom": 0.7761024236679077
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3b3ad2d2-cdae-4400-b7a1-284031a98e94": {
+            "box": {
+                "left": 0.28174102306365967,
+                "top": 0.8718933463096619,
+                "right": 0.7278555631637573,
+                "bottom": 0.8968423008918762
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "906c926b-e839-43df-9f0a-369d8a4d7685": {
+            "box": {
+                "left": 0.21931862831115723,
+                "top": 0.9776342511177063,
+                "right": 0.7808750867843628,
+                "bottom": 0.9999136328697205
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "lsgj0223_14.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 3768,
+        "credit_usage": 3.0,
+        "job_id": "uxujhcw5o57nh534vsdgi5o68",
+        "version": "dpt-2-20250919"
+    }
+}

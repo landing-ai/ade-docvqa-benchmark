@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='3f6d0a45-4242-4359-b328-679495e2c162'></a>\n\nBackground\n\n<a id='56856433-6725-4ed4-8311-5ddc70c1eabc'></a>\n\noption Brand Tracker established in 1979:: [ ]\n  - RJR had no standard tracking system in place\n  - Brand groups would field their own CAS/CCS\noption 1979 - 1980 were primarily experimental years: [ ]\noption Late 1980 a questionnaire design and data collection methodology were established: [ ]\n\n<a id='2003d66c-9865-46de-a32e-b891af7971a3'></a>\n\n<::An illustration of a person looking at a document with the text \"FGR Brand Trader\" on it.\n: figure::>\n\n<a id='9f4bb912-9f36-4db7-bf08-d800b58a2545'></a>\n\n51337 6211",
+    "chunks": [
+        {
+            "markdown": "<a id='3f6d0a45-4242-4359-b328-679495e2c162'></a>\n\nBackground",
+            "type": "text",
+            "id": "3f6d0a45-4242-4359-b328-679495e2c162",
+            "grounding": {
+                "box": {
+                    "left": 0.35715627670288086,
+                    "top": 0.1169825941324234,
+                    "right": 0.6418709754943848,
+                    "bottom": 0.19707556068897247
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='56856433-6725-4ed4-8311-5ddc70c1eabc'></a>\n\noption Brand Tracker established in 1979:: [ ]\n  - RJR had no standard tracking system in place\n  - Brand groups would field their own CAS/CCS\noption 1979 - 1980 were primarily experimental years: [ ]\noption Late 1980 a questionnaire design and data collection methodology were established: [ ]",
+            "type": "text",
+            "id": "56856433-6725-4ed4-8311-5ddc70c1eabc",
+            "grounding": {
+                "box": {
+                    "left": 0.0820322334766388,
+                    "top": 0.2360079139471054,
+                    "right": 0.8321785926818848,
+                    "bottom": 0.6481618881225586
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2003d66c-9865-46de-a32e-b891af7971a3'></a>\n\n<::An illustration of a person looking at a document with the text \"FGR Brand Trader\" on it.\n: figure::>",
+            "type": "figure",
+            "id": "2003d66c-9865-46de-a32e-b891af7971a3",
+            "grounding": {
+                "box": {
+                    "left": 0.3958343267440796,
+                    "top": 0.6974945068359375,
+                    "right": 0.5554618835449219,
+                    "bottom": 0.8880929946899414
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9f4bb912-9f36-4db7-bf08-d800b58a2545'></a>\n\n51337 6211",
+            "type": "marginalia",
+            "id": "9f4bb912-9f36-4db7-bf08-d800b58a2545",
+            "grounding": {
+                "box": {
+                    "left": 0.042299818247556686,
+                    "top": 0.9455323219299316,
+                    "right": 0.14839254319667816,
+                    "bottom": 0.9884717464447021
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3f6d0a45-4242-4359-b328-679495e2c162'></a>\n\nBackground\n\n<a id='56856433-6725-4ed4-8311-5ddc70c1eabc'></a>\n\noption Brand Tracker established in 1979:: [ ]\n  - RJR had no standard tracking system in place\n  - Brand groups would field their own CAS/CCS\noption 1979 - 1980 were primarily experimental years: [ ]\noption Late 1980 a questionnaire design and data collection methodology were established: [ ]\n\n<a id='2003d66c-9865-46de-a32e-b891af7971a3'></a>\n\n<::An illustration of a person looking at a document with the text \"FGR Brand Trader\" on it.\n: figure::>\n\n<a id='9f4bb912-9f36-4db7-bf08-d800b58a2545'></a>\n\n51337 6211",
+            "chunks": [
+                "3f6d0a45-4242-4359-b328-679495e2c162",
+                "56856433-6725-4ed4-8311-5ddc70c1eabc",
+                "2003d66c-9865-46de-a32e-b891af7971a3",
+                "9f4bb912-9f36-4db7-bf08-d800b58a2545"
+            ]
+        }
+    ],
+    "grounding": {
+        "3f6d0a45-4242-4359-b328-679495e2c162": {
+            "box": {
+                "left": 0.35715627670288086,
+                "top": 0.1169825941324234,
+                "right": 0.6418709754943848,
+                "bottom": 0.19707556068897247
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "56856433-6725-4ed4-8311-5ddc70c1eabc": {
+            "box": {
+                "left": 0.0820322334766388,
+                "top": 0.2360079139471054,
+                "right": 0.8321785926818848,
+                "bottom": 0.6481618881225586
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2003d66c-9865-46de-a32e-b891af7971a3": {
+            "box": {
+                "left": 0.3958343267440796,
+                "top": 0.6974945068359375,
+                "right": 0.5554618835449219,
+                "bottom": 0.8880929946899414
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "9f4bb912-9f36-4db7-bf08-d800b58a2545": {
+            "box": {
+                "left": 0.042299818247556686,
+                "top": 0.9455323219299316,
+                "right": 0.14839254319667816,
+                "bottom": 0.9884717464447021
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "fxyn0081_7.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8769,
+        "credit_usage": 3.0,
+        "job_id": "hlnupy4nng9z0t8cuuyiuh16b",
+        "version": "dpt-2-20250919"
+    }
+}

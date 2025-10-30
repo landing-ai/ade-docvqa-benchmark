@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='3f21375b-34e0-4778-901d-2bd245c120eb'></a>\n\nBirth Defects Special Treatment Center\n\n<a id='04330182-9da7-436f-aaf5-2b45f96c2001'></a>\n\nMorgantown, WEST VIRGINIA\n\n<a id='8189ba9a-249c-4a3c-aec0-3b12926efc80'></a>\n\nNational Foundation State Representative\n\nNorthern West Virginia - T. Sterling Evans\n612 Virginia Street, East\nCharleston, West Virginia 25301\nTel: Code #304; 346-0824",
+    "chunks": [
+        {
+            "markdown": "<a id='3f21375b-34e0-4778-901d-2bd245c120eb'></a>\n\nBirth Defects Special Treatment Center",
+            "type": "text",
+            "id": "3f21375b-34e0-4778-901d-2bd245c120eb",
+            "grounding": {
+                "box": {
+                    "left": 0.15359742939472198,
+                    "top": 0.11311525851488113,
+                    "right": 0.538578450679779,
+                    "bottom": 0.13994835317134857
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='04330182-9da7-436f-aaf5-2b45f96c2001'></a>\n\nMorgantown, WEST VIRGINIA",
+            "type": "text",
+            "id": "04330182-9da7-436f-aaf5-2b45f96c2001",
+            "grounding": {
+                "box": {
+                    "left": 0.6646021008491516,
+                    "top": 0.11486947536468506,
+                    "right": 0.9225218892097473,
+                    "bottom": 0.13798978924751282
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8189ba9a-249c-4a3c-aec0-3b12926efc80'></a>\n\nNational Foundation State Representative\n\nNorthern West Virginia - T. Sterling Evans\n612 Virginia Street, East\nCharleston, West Virginia 25301\nTel: Code #304; 346-0824",
+            "type": "text",
+            "id": "8189ba9a-249c-4a3c-aec0-3b12926efc80",
+            "grounding": {
+                "box": {
+                    "left": 0.15411421656608582,
+                    "top": 0.15566563606262207,
+                    "right": 0.7666847705841064,
+                    "bottom": 0.2557624876499176
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3f21375b-34e0-4778-901d-2bd245c120eb'></a>\n\nBirth Defects Special Treatment Center\n\n<a id='04330182-9da7-436f-aaf5-2b45f96c2001'></a>\n\nMorgantown, WEST VIRGINIA\n\n<a id='8189ba9a-249c-4a3c-aec0-3b12926efc80'></a>\n\nNational Foundation State Representative\n\nNorthern West Virginia - T. Sterling Evans\n612 Virginia Street, East\nCharleston, West Virginia 25301\nTel: Code #304; 346-0824",
+            "chunks": [
+                "3f21375b-34e0-4778-901d-2bd245c120eb",
+                "04330182-9da7-436f-aaf5-2b45f96c2001",
+                "8189ba9a-249c-4a3c-aec0-3b12926efc80"
+            ]
+        }
+    ],
+    "grounding": {
+        "3f21375b-34e0-4778-901d-2bd245c120eb": {
+            "box": {
+                "left": 0.15359742939472198,
+                "top": 0.11311525851488113,
+                "right": 0.538578450679779,
+                "bottom": 0.13994835317134857
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "04330182-9da7-436f-aaf5-2b45f96c2001": {
+            "box": {
+                "left": 0.6646021008491516,
+                "top": 0.11486947536468506,
+                "right": 0.9225218892097473,
+                "bottom": 0.13798978924751282
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8189ba9a-249c-4a3c-aec0-3b12926efc80": {
+            "box": {
+                "left": 0.15411421656608582,
+                "top": 0.15566563606262207,
+                "right": 0.7666847705841064,
+                "bottom": 0.2557624876499176
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "ngxh0227_90.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4097,
+        "credit_usage": 3.0,
+        "job_id": "m88vgp9zybmhu4m5l5dznwcnw",
+        "version": "dpt-2-20250919"
+    }
+}

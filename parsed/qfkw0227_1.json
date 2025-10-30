@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='ac7fd3c1-e69a-4826-be64-b7b7d055ff4b'></a>\n\nThe NIH\nExtramural\nSystem\nProvides\n\n<a id='314042a2-752f-4e3c-8fcc-e2b80e9be915'></a>\n\n<::diagram\nA diagram showing a block labeled \"NIH\" pointing to a starburst shape labeled \"IMPAC\" vertically.\nA\nComputer based information system\non the Extramural Program of N I H::>\n\n<a id='c7e63a9e-0751-4c6f-b2ad-5a09359f8303'></a>\n\nU. S. Department of Health, Education, and Welfare\nNational Institutes of Health\n\n<a id='915ffe2a-44d6-4bca-a3bd-a7bab058575f'></a>\n\n<::flowchart\n: The diagram illustrates the IMPAC system, showing its inputs and outputs.\n\nLeft side:\nINFORMATION\nfor\nMANAGEMENT\nPLANNING\nANALYSIS\nand\nCOORDINATION\n(The letters I, M, P, A, C are vertically aligned and bolded, forming the acronym IMPAC)\n\nCenter:\nAn arrow labeled \"INPUT\" points to a central star-shaped element labeled \"IMPAC\".\n\nInput sources:\n* Scientific Community\n* Advisory Councils\n* Institutes\n* Initial Review Groups\n\nRight side:\nA star-shaped element labeled \"IMPAC\" points to an arrow labeled \"OUTPUT\".\n\nOutput recipients:\n* Initial Review Groups\n* Institutes/Divisions\n* Congress\n* Office of the Director-NIH\n* Advisory Councils\n* Other Government Agencies and General Public\n: flowchart::>\n\n<a id='8dc44123-e6b5-4292-8f63-ce993e69d7f7'></a>\n\n## NIH EXTRAMURAL ACTIVITIES\n\nThe extramural programs of NIH are carried out through its various grant and award mechanisms designed to assist public and other nonprofit institutions and individuals to expand and improve research activities in the health sciences and related fields. NIH extramural activities cover the Research Grant, Regional Medical program, Research Fellowship, Training Grant, Research Career, Research Facility, and National Library of Medicine programs. IMPAC is a computer-based system which:\n\n<a id='02971c6b-1f84-4dd8-8519-557741f20f81'></a>\n\n1. Serves as the primary authoritative reporting system on NIH extramural activities;\n2. Participates in and records the extramural activities of NIH, about which a data base is developed;\n3. Assists in the processing of project applications submitted in the extramural programs through the review and award processes of NIH.\n\n<a id='2e58441c-e0a1-436c-b5d4-a714d44d6c0b'></a>\n\nDESIGN OBJECTIVES\n\nIMPAC is a system, the primary objective of which is the establishment and maintenance of a data base from which complete, accurate, and up-to-date reports to all levels of management can be generated. To establish such a data base, it was necessary to integrate data processing with the processing of the review and award operations of the National Institutes of Health. In this manner, IMPAC builds the required data base while it provides each initial review group and advisory council with the necessary documents and reports required prior to and subsequent to each step in the application review process. Similarly, the award notice as well as peripheral supporting documents are prepared by IMPAC and furnished to the Institutes for issuance. The continuing interaction which occurs between IMPAC and the review groups and Institutes and Divisions during the review and award process insures the development of a complete, accurate, and timely data base.\n\n<a id='1e9d22bd-412a-43d4-b0db-abf4e9d5ea05'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qfkw0227",
+    "chunks": [
+        {
+            "markdown": "<a id='ac7fd3c1-e69a-4826-be64-b7b7d055ff4b'></a>\n\nThe NIH\nExtramural\nSystem\nProvides",
+            "type": "text",
+            "id": "ac7fd3c1-e69a-4826-be64-b7b7d055ff4b",
+            "grounding": {
+                "box": {
+                    "left": 0.0653693825006485,
+                    "top": 0.14806696772575378,
+                    "right": 0.2071159929037094,
+                    "bottom": 0.34495651721954346
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='314042a2-752f-4e3c-8fcc-e2b80e9be915'></a>\n\n<::diagram\nA diagram showing a block labeled \"NIH\" pointing to a starburst shape labeled \"IMPAC\" vertically.\nA\nComputer based information system\non the Extramural Program of N I H::>",
+            "type": "figure",
+            "id": "314042a2-752f-4e3c-8fcc-e2b80e9be915",
+            "grounding": {
+                "box": {
+                    "left": 0.0878743901848793,
+                    "top": 0.5005685091018677,
+                    "right": 0.29733455181121826,
+                    "bottom": 0.7692927122116089
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c7e63a9e-0751-4c6f-b2ad-5a09359f8303'></a>\n\nU. S. Department of Health, Education, and Welfare\nNational Institutes of Health",
+            "type": "text",
+            "id": "c7e63a9e-0751-4c6f-b2ad-5a09359f8303",
+            "grounding": {
+                "box": {
+                    "left": 0.04361957311630249,
+                    "top": 0.8739566802978516,
+                    "right": 0.3411065638065338,
+                    "bottom": 0.9342647790908813
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='915ffe2a-44d6-4bca-a3bd-a7bab058575f'></a>\n\n<::flowchart\n: The diagram illustrates the IMPAC system, showing its inputs and outputs.\n\nLeft side:\nINFORMATION\nfor\nMANAGEMENT\nPLANNING\nANALYSIS\nand\nCOORDINATION\n(The letters I, M, P, A, C are vertically aligned and bolded, forming the acronym IMPAC)\n\nCenter:\nAn arrow labeled \"INPUT\" points to a central star-shaped element labeled \"IMPAC\".\n\nInput sources:\n* Scientific Community\n* Advisory Councils\n* Institutes\n* Initial Review Groups\n\nRight side:\nA star-shaped element labeled \"IMPAC\" points to an arrow labeled \"OUTPUT\".\n\nOutput recipients:\n* Initial Review Groups\n* Institutes/Divisions\n* Congress\n* Office of the Director-NIH\n* Advisory Councils\n* Other Government Agencies and General Public\n: flowchart::>",
+            "type": "figure",
+            "id": "915ffe2a-44d6-4bca-a3bd-a7bab058575f",
+            "grounding": {
+                "box": {
+                    "left": 0.2904162108898163,
+                    "top": 0.05620315670967102,
+                    "right": 0.980124831199646,
+                    "bottom": 0.4619239270687103
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8dc44123-e6b5-4292-8f63-ce993e69d7f7'></a>\n\n## NIH EXTRAMURAL ACTIVITIES\n\nThe extramural programs of NIH are carried out through its various grant and award mechanisms designed to assist public and other nonprofit institutions and individuals to expand and improve research activities in the health sciences and related fields. NIH extramural activities cover the Research Grant, Regional Medical program, Research Fellowship, Training Grant, Research Career, Research Facility, and National Library of Medicine programs. IMPAC is a computer-based system which:",
+            "type": "text",
+            "id": "8dc44123-e6b5-4292-8f63-ce993e69d7f7",
+            "grounding": {
+                "box": {
+                    "left": 0.3612714409828186,
+                    "top": 0.49072957038879395,
+                    "right": 0.6404822468757629,
+                    "bottom": 0.7299524545669556
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='02971c6b-1f84-4dd8-8519-557741f20f81'></a>\n\n1. Serves as the primary authoritative reporting system on NIH extramural activities;\n2. Participates in and records the extramural activities of NIH, about which a data base is developed;\n3. Assists in the processing of project applications submitted in the extramural programs through the review and award processes of NIH.",
+            "type": "text",
+            "id": "02971c6b-1f84-4dd8-8519-557741f20f81",
+            "grounding": {
+                "box": {
+                    "left": 0.37266427278518677,
+                    "top": 0.736998438835144,
+                    "right": 0.6415258049964905,
+                    "bottom": 0.9121699333190918
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2e58441c-e0a1-436c-b5d4-a714d44d6c0b'></a>\n\nDESIGN OBJECTIVES\n\nIMPAC is a system, the primary objective of which is the establishment and maintenance of a data base from which complete, accurate, and up-to-date reports to all levels of management can be generated. To establish such a data base, it was necessary to integrate data processing with the processing of the review and award operations of the National Institutes of Health. In this manner, IMPAC builds the required data base while it provides each initial review group and advisory council with the necessary documents and reports required prior to and subsequent to each step in the application review process. Similarly, the award notice as well as peripheral supporting documents are prepared by IMPAC and furnished to the Institutes for issuance. The continuing interaction which occurs between IMPAC and the review groups and Institutes and Divisions during the review and award process insures the development of a complete, accurate, and timely data base.",
+            "type": "text",
+            "id": "2e58441c-e0a1-436c-b5d4-a714d44d6c0b",
+            "grounding": {
+                "box": {
+                    "left": 0.6811388731002808,
+                    "top": 0.49307286739349365,
+                    "right": 0.964563250541687,
+                    "bottom": 0.8891491889953613
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1e9d22bd-412a-43d4-b0db-abf4e9d5ea05'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qfkw0227",
+            "type": "text",
+            "id": "1e9d22bd-412a-43d4-b0db-abf4e9d5ea05",
+            "grounding": {
+                "box": {
+                    "left": 0.2798827886581421,
+                    "top": 0.9715076088905334,
+                    "right": 0.7236104011535645,
+                    "bottom": 1.0003330707550049
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ac7fd3c1-e69a-4826-be64-b7b7d055ff4b'></a>\n\nThe NIH\nExtramural\nSystem\nProvides\n\n<a id='314042a2-752f-4e3c-8fcc-e2b80e9be915'></a>\n\n<::diagram\nA diagram showing a block labeled \"NIH\" pointing to a starburst shape labeled \"IMPAC\" vertically.\nA\nComputer based information system\non the Extramural Program of N I H::>\n\n<a id='c7e63a9e-0751-4c6f-b2ad-5a09359f8303'></a>\n\nU. S. Department of Health, Education, and Welfare\nNational Institutes of Health\n\n<a id='915ffe2a-44d6-4bca-a3bd-a7bab058575f'></a>\n\n<::flowchart\n: The diagram illustrates the IMPAC system, showing its inputs and outputs.\n\nLeft side:\nINFORMATION\nfor\nMANAGEMENT\nPLANNING\nANALYSIS\nand\nCOORDINATION\n(The letters I, M, P, A, C are vertically aligned and bolded, forming the acronym IMPAC)\n\nCenter:\nAn arrow labeled \"INPUT\" points to a central star-shaped element labeled \"IMPAC\".\n\nInput sources:\n* Scientific Community\n* Advisory Councils\n* Institutes\n* Initial Review Groups\n\nRight side:\nA star-shaped element labeled \"IMPAC\" points to an arrow labeled \"OUTPUT\".\n\nOutput recipients:\n* Initial Review Groups\n* Institutes/Divisions\n* Congress\n* Office of the Director-NIH\n* Advisory Councils\n* Other Government Agencies and General Public\n: flowchart::>\n\n<a id='8dc44123-e6b5-4292-8f63-ce993e69d7f7'></a>\n\n## NIH EXTRAMURAL ACTIVITIES\n\nThe extramural programs of NIH are carried out through its various grant and award mechanisms designed to assist public and other nonprofit institutions and individuals to expand and improve research activities in the health sciences and related fields. NIH extramural activities cover the Research Grant, Regional Medical program, Research Fellowship, Training Grant, Research Career, Research Facility, and National Library of Medicine programs. IMPAC is a computer-based system which:\n\n<a id='02971c6b-1f84-4dd8-8519-557741f20f81'></a>\n\n1. Serves as the primary authoritative reporting system on NIH extramural activities;\n2. Participates in and records the extramural activities of NIH, about which a data base is developed;\n3. Assists in the processing of project applications submitted in the extramural programs through the review and award processes of NIH.\n\n<a id='2e58441c-e0a1-436c-b5d4-a714d44d6c0b'></a>\n\nDESIGN OBJECTIVES\n\nIMPAC is a system, the primary objective of which is the establishment and maintenance of a data base from which complete, accurate, and up-to-date reports to all levels of management can be generated. To establish such a data base, it was necessary to integrate data processing with the processing of the review and award operations of the National Institutes of Health. In this manner, IMPAC builds the required data base while it provides each initial review group and advisory council with the necessary documents and reports required prior to and subsequent to each step in the application review process. Similarly, the award notice as well as peripheral supporting documents are prepared by IMPAC and furnished to the Institutes for issuance. The continuing interaction which occurs between IMPAC and the review groups and Institutes and Divisions during the review and award process insures the development of a complete, accurate, and timely data base.\n\n<a id='1e9d22bd-412a-43d4-b0db-abf4e9d5ea05'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/qfkw0227",
+            "chunks": [
+                "ac7fd3c1-e69a-4826-be64-b7b7d055ff4b",
+                "314042a2-752f-4e3c-8fcc-e2b80e9be915",
+                "c7e63a9e-0751-4c6f-b2ad-5a09359f8303",
+                "915ffe2a-44d6-4bca-a3bd-a7bab058575f",
+                "8dc44123-e6b5-4292-8f63-ce993e69d7f7",
+                "02971c6b-1f84-4dd8-8519-557741f20f81",
+                "2e58441c-e0a1-436c-b5d4-a714d44d6c0b",
+                "1e9d22bd-412a-43d4-b0db-abf4e9d5ea05"
+            ]
+        }
+    ],
+    "grounding": {
+        "ac7fd3c1-e69a-4826-be64-b7b7d055ff4b": {
+            "box": {
+                "left": 0.0653693825006485,
+                "top": 0.14806696772575378,
+                "right": 0.2071159929037094,
+                "bottom": 0.34495651721954346
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "314042a2-752f-4e3c-8fcc-e2b80e9be915": {
+            "box": {
+                "left": 0.0878743901848793,
+                "top": 0.5005685091018677,
+                "right": 0.29733455181121826,
+                "bottom": 0.7692927122116089
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "c7e63a9e-0751-4c6f-b2ad-5a09359f8303": {
+            "box": {
+                "left": 0.04361957311630249,
+                "top": 0.8739566802978516,
+                "right": 0.3411065638065338,
+                "bottom": 0.9342647790908813
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "915ffe2a-44d6-4bca-a3bd-a7bab058575f": {
+            "box": {
+                "left": 0.2904162108898163,
+                "top": 0.05620315670967102,
+                "right": 0.980124831199646,
+                "bottom": 0.4619239270687103
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "8dc44123-e6b5-4292-8f63-ce993e69d7f7": {
+            "box": {
+                "left": 0.3612714409828186,
+                "top": 0.49072957038879395,
+                "right": 0.6404822468757629,
+                "bottom": 0.7299524545669556
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "02971c6b-1f84-4dd8-8519-557741f20f81": {
+            "box": {
+                "left": 0.37266427278518677,
+                "top": 0.736998438835144,
+                "right": 0.6415258049964905,
+                "bottom": 0.9121699333190918
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2e58441c-e0a1-436c-b5d4-a714d44d6c0b": {
+            "box": {
+                "left": 0.6811388731002808,
+                "top": 0.49307286739349365,
+                "right": 0.964563250541687,
+                "bottom": 0.8891491889953613
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1e9d22bd-412a-43d4-b0db-abf4e9d5ea05": {
+            "box": {
+                "left": 0.2798827886581421,
+                "top": 0.9715076088905334,
+                "right": 0.7236104011535645,
+                "bottom": 1.0003330707550049
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "qfkw0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 11862,
+        "credit_usage": 3.0,
+        "job_id": "k9nwi9t23y88hctdgbqwxwabj",
+        "version": "dpt-2-20250919"
+    }
+}

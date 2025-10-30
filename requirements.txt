@@ -1,0 +1,14 @@
+# ADE DocVQA - Requirements
+# Python 3.8+
+
+# Claude API
+anthropic>=0.18.0
+
+# Image processing
+pillow>=10.0.0
+
+# Data processing
+jsonlines>=4.0.0
+
+# HTTP requests (if needed)
+httpx>=0.24.0

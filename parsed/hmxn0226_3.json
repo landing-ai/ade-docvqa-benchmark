@@ -1,0 +1,803 @@
+{
+    "markdown": "<a id='c17b0187-dba1-4046-b76a-a0d8b223322f'></a>\n\n<::attestation: Status indicator\nCONFIDENTIAL\nReadable Text: CONFIDENTIAL\nThe word \"CONFIDENTIAL\" is centrally located, rendered in large, grey, dotted capital letters.::>\n\n<a id='be4329b8-4114-4197-bfa4-0d8b73ddb75a'></a>\n\nSCP-431, Revision C\nAttachment 3\n\n<a id='a87b122e-626c-4b88-9ce2-a9434c333dbb'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">Costs for following enrolled patients would continue.</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\" colspan=\"2\">Follow-up costs (subjects)</td></tr>\n<tr><td id=\"0-6\"></td><td id=\"0-7\">2007</td><td id=\"0-8\">$170,000</td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\">2008</td><td id=\"0-b\">$150,000</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">2009</td><td id=\"0-e\">$130,000</td></tr>\n<tr><td id=\"0-f\"></td><td id=\"0-g\">2010</td><td id=\"0-h\">$120,000</td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\">2011</td><td id=\"0-k\">$90,000</td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\">2012</td><td id=\"0-n\">$15,000</td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\">Sub-Total</td><td id=\"0-q\">$675,000</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\">IRB</td><td id=\"0-t\">$30,000</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">X-ray</td><td id=\"0-w\">$10,000</td></tr>\n<tr><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\">$715,000</td></tr>\n<tr><td id=\"0-A\">Other Resource Issues:</td><td id=\"0-B\">\u2611 None</td><td id=\"0-C\"></td></tr>\n</table>\n\n<a id='86c762fa-b6da-4412-8854-996c44355757'></a>\n\nIV. BUSINESS JUSTIFICATION\n<table id=\"0-D\">\n<tr><td id=\"0-E\">Have business needs changed since original approval?</td><td id=\"0-F\">Yes (checked)</td><td id=\"0-G\">No (unchecked)</td><td id=\"0-H\">Need to focus on the newly launched, larger diameter heads; therefore, business will close enrollment of Pinnacle study and will continue to follow up subjects only.</td></tr>\n<tr><td id=\"0-I\">Is study meeting or still expected to meet business needs?</td><td id=\"0-J\">Yes (checked)</td><td id=\"0-K\">No (checked)</td><td id=\"0-L\">Currently beginning to mine data for abstracts/publications on Pinnacle system. But need to expand to new product offerings.</td></tr>\n<tr><td id=\"0-M\">Are any modifications to study design needed to address new / changed business needs?</td><td id=\"0-N\">Yes (checked)</td><td id=\"0-O\">No (unchecked)</td><td id=\"0-P\">Decreased sample size from 1000 to the numbers currently enrolled. For the MOM and MOP systems, we currently have large enough sample sizes to determine a 95% confidence interval of + or - two percentage points where the expected result is 95% survival. There is not enough data for the ceramic on poly systems to use at this time.</td></tr>\n<tr><td id=\"0-Q\">Do benefits vs. costs of study warrant its continuation?</td><td id=\"0-R\">Yes (checked)</td><td id=\"0-S\">No (unchecked)</td><td id=\"0-T\">Only for follow-up.</td></tr>\n</table>\n\n<a id='f69ae10f-4973-4d77-8d8b-be26d94a8f9b'></a>\n\nPIN\n\n<a id='c45bd6fe-8791-474b-99ab-761b3318a00f'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER.\n\n<a id='acfde182-d968-42b9-b240-2e8bd1a91545'></a>\n\nDEPUY050041676\n\n<a id='0baed0f2-22f2-4a2f-9a62-74882eaba63b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hmxn0226\n\n<a id='3aff6382-be91-40db-82d1-9b5db583d5da'></a>\n\nPLT-02933-00003",
+    "chunks": [
+        {
+            "markdown": "<a id='c17b0187-dba1-4046-b76a-a0d8b223322f'></a>\n\n<::attestation: Status indicator\nCONFIDENTIAL\nReadable Text: CONFIDENTIAL\nThe word \"CONFIDENTIAL\" is centrally located, rendered in large, grey, dotted capital letters.::>",
+            "type": "attestation",
+            "id": "c17b0187-dba1-4046-b76a-a0d8b223322f",
+            "grounding": {
+                "box": {
+                    "left": 0.1289246678352356,
+                    "top": 0.03815894573926926,
+                    "right": 0.7541138529777527,
+                    "bottom": 0.07828677445650101
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='be4329b8-4114-4197-bfa4-0d8b73ddb75a'></a>\n\nSCP-431, Revision C\nAttachment 3",
+            "type": "marginalia",
+            "id": "be4329b8-4114-4197-bfa4-0d8b73ddb75a",
+            "grounding": {
+                "box": {
+                    "left": 0.7806332111358643,
+                    "top": 0.03901435434818268,
+                    "right": 0.9537088871002197,
+                    "bottom": 0.07752122730016708
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a87b122e-626c-4b88-9ce2-a9434c333dbb'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">Costs for following enrolled patients would continue.</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\" colspan=\"2\">Follow-up costs (subjects)</td></tr>\n<tr><td id=\"0-6\"></td><td id=\"0-7\">2007</td><td id=\"0-8\">$170,000</td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\">2008</td><td id=\"0-b\">$150,000</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">2009</td><td id=\"0-e\">$130,000</td></tr>\n<tr><td id=\"0-f\"></td><td id=\"0-g\">2010</td><td id=\"0-h\">$120,000</td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\">2011</td><td id=\"0-k\">$90,000</td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\">2012</td><td id=\"0-n\">$15,000</td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\">Sub-Total</td><td id=\"0-q\">$675,000</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\">IRB</td><td id=\"0-t\">$30,000</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">X-ray</td><td id=\"0-w\">$10,000</td></tr>\n<tr><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\">$715,000</td></tr>\n<tr><td id=\"0-A\">Other Resource Issues:</td><td id=\"0-B\">\u2611 None</td><td id=\"0-C\"></td></tr>\n</table>",
+            "type": "table",
+            "id": "a87b122e-626c-4b88-9ce2-a9434c333dbb",
+            "grounding": {
+                "box": {
+                    "left": 0.08583211898803711,
+                    "top": 0.08216260373592377,
+                    "right": 0.9152868986129761,
+                    "bottom": 0.3367012143135071
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='86c762fa-b6da-4412-8854-996c44355757'></a>\n\nIV. BUSINESS JUSTIFICATION\n<table id=\"0-D\">\n<tr><td id=\"0-E\">Have business needs changed since original approval?</td><td id=\"0-F\">Yes (checked)</td><td id=\"0-G\">No (unchecked)</td><td id=\"0-H\">Need to focus on the newly launched, larger diameter heads; therefore, business will close enrollment of Pinnacle study and will continue to follow up subjects only.</td></tr>\n<tr><td id=\"0-I\">Is study meeting or still expected to meet business needs?</td><td id=\"0-J\">Yes (checked)</td><td id=\"0-K\">No (checked)</td><td id=\"0-L\">Currently beginning to mine data for abstracts/publications on Pinnacle system. But need to expand to new product offerings.</td></tr>\n<tr><td id=\"0-M\">Are any modifications to study design needed to address new / changed business needs?</td><td id=\"0-N\">Yes (checked)</td><td id=\"0-O\">No (unchecked)</td><td id=\"0-P\">Decreased sample size from 1000 to the numbers currently enrolled. For the MOM and MOP systems, we currently have large enough sample sizes to determine a 95% confidence interval of + or - two percentage points where the expected result is 95% survival. There is not enough data for the ceramic on poly systems to use at this time.</td></tr>\n<tr><td id=\"0-Q\">Do benefits vs. costs of study warrant its continuation?</td><td id=\"0-R\">Yes (checked)</td><td id=\"0-S\">No (unchecked)</td><td id=\"0-T\">Only for follow-up.</td></tr>\n</table>",
+            "type": "table",
+            "id": "86c762fa-b6da-4412-8854-996c44355757",
+            "grounding": {
+                "box": {
+                    "left": 0.0855027437210083,
+                    "top": 0.3460325598716736,
+                    "right": 0.915486216545105,
+                    "bottom": 0.6644106507301331
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f69ae10f-4973-4d77-8d8b-be26d94a8f9b'></a>\n\nPIN",
+            "type": "marginalia",
+            "id": "f69ae10f-4973-4d77-8d8b-be26d94a8f9b",
+            "grounding": {
+                "box": {
+                    "left": 0.7862240672111511,
+                    "top": 0.8942268490791321,
+                    "right": 0.8337681889533997,
+                    "bottom": 0.9152663350105286
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c45bd6fe-8791-474b-99ab-761b3318a00f'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER.",
+            "type": "text",
+            "id": "c45bd6fe-8791-474b-99ab-761b3318a00f",
+            "grounding": {
+                "box": {
+                    "left": 0.025852054357528687,
+                    "top": 0.9522615671157837,
+                    "right": 0.6046013832092285,
+                    "bottom": 0.9716212749481201
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='acfde182-d968-42b9-b240-2e8bd1a91545'></a>\n\nDEPUY050041676",
+            "type": "marginalia",
+            "id": "acfde182-d968-42b9-b240-2e8bd1a91545",
+            "grounding": {
+                "box": {
+                    "left": 0.8299225568771362,
+                    "top": 0.9516600966453552,
+                    "right": 0.9749021530151367,
+                    "bottom": 0.9721913933753967
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0baed0f2-22f2-4a2f-9a62-74882eaba63b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hmxn0226",
+            "type": "marginalia",
+            "id": "0baed0f2-22f2-4a2f-9a62-74882eaba63b",
+            "grounding": {
+                "box": {
+                    "left": 0.2092260718345642,
+                    "top": 0.978027880191803,
+                    "right": 0.7925792336463928,
+                    "bottom": 0.9983764290809631
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3aff6382-be91-40db-82d1-9b5db583d5da'></a>\n\nPLT-02933-00003",
+            "type": "marginalia",
+            "id": "3aff6382-be91-40db-82d1-9b5db583d5da",
+            "grounding": {
+                "box": {
+                    "left": 0.8352178335189819,
+                    "top": 0.9748393297195435,
+                    "right": 0.9778852462768555,
+                    "bottom": 0.9951380491256714
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c17b0187-dba1-4046-b76a-a0d8b223322f'></a>\n\n<::attestation: Status indicator\nCONFIDENTIAL\nReadable Text: CONFIDENTIAL\nThe word \"CONFIDENTIAL\" is centrally located, rendered in large, grey, dotted capital letters.::>\n\n<a id='be4329b8-4114-4197-bfa4-0d8b73ddb75a'></a>\n\nSCP-431, Revision C\nAttachment 3\n\n<a id='a87b122e-626c-4b88-9ce2-a9434c333dbb'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">Costs for following enrolled patients would continue.</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\" colspan=\"2\">Follow-up costs (subjects)</td></tr>\n<tr><td id=\"0-6\"></td><td id=\"0-7\">2007</td><td id=\"0-8\">$170,000</td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\">2008</td><td id=\"0-b\">$150,000</td></tr>\n<tr><td id=\"0-c\"></td><td id=\"0-d\">2009</td><td id=\"0-e\">$130,000</td></tr>\n<tr><td id=\"0-f\"></td><td id=\"0-g\">2010</td><td id=\"0-h\">$120,000</td></tr>\n<tr><td id=\"0-i\"></td><td id=\"0-j\">2011</td><td id=\"0-k\">$90,000</td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\">2012</td><td id=\"0-n\">$15,000</td></tr>\n<tr><td id=\"0-o\"></td><td id=\"0-p\">Sub-Total</td><td id=\"0-q\">$675,000</td></tr>\n<tr><td id=\"0-r\"></td><td id=\"0-s\">IRB</td><td id=\"0-t\">$30,000</td></tr>\n<tr><td id=\"0-u\"></td><td id=\"0-v\">X-ray</td><td id=\"0-w\">$10,000</td></tr>\n<tr><td id=\"0-x\"></td><td id=\"0-y\"></td><td id=\"0-z\">$715,000</td></tr>\n<tr><td id=\"0-A\">Other Resource Issues:</td><td id=\"0-B\">\u2611 None</td><td id=\"0-C\"></td></tr>\n</table>\n\n<a id='86c762fa-b6da-4412-8854-996c44355757'></a>\n\nIV. BUSINESS JUSTIFICATION\n<table id=\"0-D\">\n<tr><td id=\"0-E\">Have business needs changed since original approval?</td><td id=\"0-F\">Yes (checked)</td><td id=\"0-G\">No (unchecked)</td><td id=\"0-H\">Need to focus on the newly launched, larger diameter heads; therefore, business will close enrollment of Pinnacle study and will continue to follow up subjects only.</td></tr>\n<tr><td id=\"0-I\">Is study meeting or still expected to meet business needs?</td><td id=\"0-J\">Yes (checked)</td><td id=\"0-K\">No (checked)</td><td id=\"0-L\">Currently beginning to mine data for abstracts/publications on Pinnacle system. But need to expand to new product offerings.</td></tr>\n<tr><td id=\"0-M\">Are any modifications to study design needed to address new / changed business needs?</td><td id=\"0-N\">Yes (checked)</td><td id=\"0-O\">No (unchecked)</td><td id=\"0-P\">Decreased sample size from 1000 to the numbers currently enrolled. For the MOM and MOP systems, we currently have large enough sample sizes to determine a 95% confidence interval of + or - two percentage points where the expected result is 95% survival. There is not enough data for the ceramic on poly systems to use at this time.</td></tr>\n<tr><td id=\"0-Q\">Do benefits vs. costs of study warrant its continuation?</td><td id=\"0-R\">Yes (checked)</td><td id=\"0-S\">No (unchecked)</td><td id=\"0-T\">Only for follow-up.</td></tr>\n</table>\n\n<a id='f69ae10f-4973-4d77-8d8b-be26d94a8f9b'></a>\n\nPIN\n\n<a id='c45bd6fe-8791-474b-99ab-761b3318a00f'></a>\n\nPROTECTED DOCUMENT. DOCUMENT SUBJECT TO PROTECTIVE ORDER.\n\n<a id='acfde182-d968-42b9-b240-2e8bd1a91545'></a>\n\nDEPUY050041676\n\n<a id='0baed0f2-22f2-4a2f-9a62-74882eaba63b'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hmxn0226\n\n<a id='3aff6382-be91-40db-82d1-9b5db583d5da'></a>\n\nPLT-02933-00003",
+            "chunks": [
+                "c17b0187-dba1-4046-b76a-a0d8b223322f",
+                "be4329b8-4114-4197-bfa4-0d8b73ddb75a",
+                "a87b122e-626c-4b88-9ce2-a9434c333dbb",
+                "86c762fa-b6da-4412-8854-996c44355757",
+                "f69ae10f-4973-4d77-8d8b-be26d94a8f9b",
+                "c45bd6fe-8791-474b-99ab-761b3318a00f",
+                "acfde182-d968-42b9-b240-2e8bd1a91545",
+                "0baed0f2-22f2-4a2f-9a62-74882eaba63b",
+                "3aff6382-be91-40db-82d1-9b5db583d5da"
+            ]
+        }
+    ],
+    "grounding": {
+        "c17b0187-dba1-4046-b76a-a0d8b223322f": {
+            "box": {
+                "left": 0.1289246678352356,
+                "top": 0.03815894573926926,
+                "right": 0.7541138529777527,
+                "bottom": 0.07828677445650101
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "be4329b8-4114-4197-bfa4-0d8b73ddb75a": {
+            "box": {
+                "left": 0.7806332111358643,
+                "top": 0.03901435434818268,
+                "right": 0.9537088871002197,
+                "bottom": 0.07752122730016708
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "a87b122e-626c-4b88-9ce2-a9434c333dbb": {
+            "box": {
+                "left": 0.08583211898803711,
+                "top": 0.08216260373592377,
+                "right": 0.9152868986129761,
+                "bottom": 0.3367012143135071
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.08785729180574267,
+                "right": 0.9069579983735636,
+                "bottom": 0.33135688261114193
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.08785729180574267,
+                "right": 0.2556782877839332,
+                "bottom": 0.10505374215692753
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.08785729180574267,
+                "right": 0.9071149683336159,
+                "bottom": 0.12765413802184788
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.10505374215692753,
+                "right": 0.2556782877839332,
+                "bottom": 0.12765413802184788
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.10505374215692753,
+                "right": 0.9071149683336159,
+                "bottom": 0.14110289097636186
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.12765413802184788,
+                "right": 0.2556782877839332,
+                "bottom": 0.14110289097636186
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.12765413802184788,
+                "right": 0.5498360130537066,
+                "bottom": 0.14110289097636186
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.12765413802184788,
+                "right": 0.9071149683336159,
+                "bottom": 0.14110289097636186
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.14110289097636186,
+                "right": 0.2556782877839332,
+                "bottom": 0.15605461916750407
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.14110289097636186,
+                "right": 0.5498360130537066,
+                "bottom": 0.15605461916750407
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.14110289097636186,
+                "right": 0.9071149683336159,
+                "bottom": 0.15605461916750407
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.15605461916750407,
+                "right": 0.2556782877839332,
+                "bottom": 0.1710424142431637
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.15605461916750407,
+                "right": 0.5498360130537066,
+                "bottom": 0.1710424142431637
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.15605461916750407,
+                "right": 0.9071149683336159,
+                "bottom": 0.1710424142431637
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.1710424142431637,
+                "right": 0.2556782877839332,
+                "bottom": 0.18576791366923695
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.1710424142431637,
+                "right": 0.5498360130537066,
+                "bottom": 0.18576791366923695
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.1710424142431637,
+                "right": 0.9071149683336159,
+                "bottom": 0.18576791366923695
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.18576791366923695,
+                "right": 0.2556782877839332,
+                "bottom": 0.20088350742056482
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.18576791366923695,
+                "right": 0.5498360130537066,
+                "bottom": 0.20088350742056482
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.18576791366923695,
+                "right": 0.9071149683336159,
+                "bottom": 0.20088350742056482
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.20088350742056482,
+                "right": 0.2556782877839332,
+                "bottom": 0.21455075916742228
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.20088350742056482,
+                "right": 0.5498360130537066,
+                "bottom": 0.21455075916742228
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.20088350742056482,
+                "right": 0.9071149683336159,
+                "bottom": 0.21455075916742228
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.21455075916742228,
+                "right": 0.2556782877839332,
+                "bottom": 0.2307838991227893
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.21455075916742228,
+                "right": 0.5498360130537066,
+                "bottom": 0.2307838991227893
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.21455075916742228,
+                "right": 0.9071149683336159,
+                "bottom": 0.2307838991227893
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.2307838991227893,
+                "right": 0.2556782877839332,
+                "bottom": 0.24589418278490438
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.2307838991227893,
+                "right": 0.5498360130537066,
+                "bottom": 0.24589418278490438
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.2307838991227893,
+                "right": 0.9071149683336159,
+                "bottom": 0.24589418278490438
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.24589418278490438,
+                "right": 0.2556782877839332,
+                "bottom": 0.26007013349250485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.24589418278490438,
+                "right": 0.5498360130537066,
+                "bottom": 0.26007013349250485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.24589418278490438,
+                "right": 0.9071149683336159,
+                "bottom": 0.26007013349250485
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.26007013349250485,
+                "right": 0.2556782877839332,
+                "bottom": 0.2896149388635161
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.26007013349250485,
+                "right": 0.5498360130537066,
+                "bottom": 0.2896149388635161
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.26007013349250485,
+                "right": 0.9071149683336159,
+                "bottom": 0.2896149388635161
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.09476179007746144,
+                "top": 0.2896149388635161,
+                "right": 0.2556782877839332,
+                "bottom": 0.33135688261114193
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.2556782877839332,
+                "top": 0.2896149388635161,
+                "right": 0.5498360130537066,
+                "bottom": 0.33135688261114193
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.5498360130537066,
+                "top": 0.2896149388635161,
+                "right": 0.9071149683336159,
+                "bottom": 0.33135688261114193
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "86c762fa-b6da-4412-8854-996c44355757": {
+            "box": {
+                "left": 0.0855027437210083,
+                "top": 0.3460325598716736,
+                "right": 0.915486216545105,
+                "bottom": 0.6644106507301331
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.09402203568124534,
+                "top": 0.38357010028938987,
+                "right": 0.9068724970616273,
+                "bottom": 0.6589618004569786
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.09402203568124534,
+                "top": 0.38357010028938987,
+                "right": 0.2551547444068909,
+                "bottom": 0.4459929698432781
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.2551547444068909,
+                "top": 0.38357010028938987,
+                "right": 0.32411462663380775,
+                "bottom": 0.4459929698432781
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.32411462663380775,
+                "top": 0.38357010028938987,
+                "right": 0.3926674749095298,
+                "bottom": 0.4459929698432781
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.3926674749095298,
+                "top": 0.38357010028938987,
+                "right": 0.9069056920154424,
+                "bottom": 0.4459929698432781
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.09402203568124534,
+                "top": 0.4459929698432781,
+                "right": 0.2551547444068909,
+                "bottom": 0.5082568326809564
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.2551547444068909,
+                "top": 0.4459929698432781,
+                "right": 0.32411462663380775,
+                "bottom": 0.5082568326809564
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-K": {
+            "box": {
+                "left": 0.32411462663380775,
+                "top": 0.4459929698432781,
+                "right": 0.3926674749095298,
+                "bottom": 0.5082568326809564
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-L": {
+            "box": {
+                "left": 0.3926674749095298,
+                "top": 0.4459929698432781,
+                "right": 0.9069056920154424,
+                "bottom": 0.5082568326809564
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-M": {
+            "box": {
+                "left": 0.09402203568124534,
+                "top": 0.5082568326809564,
+                "right": 0.2551547444068909,
+                "bottom": 0.5961216782270355
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-N": {
+            "box": {
+                "left": 0.2551547444068909,
+                "top": 0.5082568326809564,
+                "right": 0.32411462663380775,
+                "bottom": 0.5961216782270355
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-O": {
+            "box": {
+                "left": 0.32411462663380775,
+                "top": 0.5082568326809564,
+                "right": 0.3926674749095298,
+                "bottom": 0.5961216782270355
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-P": {
+            "box": {
+                "left": 0.3926674749095298,
+                "top": 0.5082568326809564,
+                "right": 0.9069056920154424,
+                "bottom": 0.5961216782270355
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-Q": {
+            "box": {
+                "left": 0.09402203568124534,
+                "top": 0.5961216782270355,
+                "right": 0.2551547444068909,
+                "bottom": 0.6589618004569786
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-R": {
+            "box": {
+                "left": 0.2551547444068909,
+                "top": 0.5961216782270355,
+                "right": 0.32411462663380775,
+                "bottom": 0.6589618004569786
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-S": {
+            "box": {
+                "left": 0.32411462663380775,
+                "top": 0.5961216782270355,
+                "right": 0.3926674749095298,
+                "bottom": 0.6589618004569786
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-T": {
+            "box": {
+                "left": 0.3926674749095298,
+                "top": 0.5961216782270355,
+                "right": 0.9069056920154424,
+                "bottom": 0.6589618004569786
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "f69ae10f-4973-4d77-8d8b-be26d94a8f9b": {
+            "box": {
+                "left": 0.7862240672111511,
+                "top": 0.8942268490791321,
+                "right": 0.8337681889533997,
+                "bottom": 0.9152663350105286
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "c45bd6fe-8791-474b-99ab-761b3318a00f": {
+            "box": {
+                "left": 0.025852054357528687,
+                "top": 0.9522615671157837,
+                "right": 0.6046013832092285,
+                "bottom": 0.9716212749481201
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "acfde182-d968-42b9-b240-2e8bd1a91545": {
+            "box": {
+                "left": 0.8299225568771362,
+                "top": 0.9516600966453552,
+                "right": 0.9749021530151367,
+                "bottom": 0.9721913933753967
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "0baed0f2-22f2-4a2f-9a62-74882eaba63b": {
+            "box": {
+                "left": 0.2092260718345642,
+                "top": 0.978027880191803,
+                "right": 0.7925792336463928,
+                "bottom": 0.9983764290809631
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "3aff6382-be91-40db-82d1-9b5db583d5da": {
+            "box": {
+                "left": 0.8352178335189819,
+                "top": 0.9748393297195435,
+                "right": 0.9778852462768555,
+                "bottom": 0.9951380491256714
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hmxn0226_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6711,
+        "credit_usage": 3.0,
+        "job_id": "k0sch5s4l207gwja8ed27x3k2",
+        "version": "dpt-2-20250919"
+    }
+}

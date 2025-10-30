@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='def29266-063b-4038-95a6-709938fb559f'></a>\n\n<::A black and white illustration depicts a young man and a young woman, both smiling and looking at each other. The man is on the left, wearing a collared shirt with a bow tie under a sweater, and is holding a book in his left arm. The woman is on the right, wearing a collared shirt under a sweater, and is holding two books in her right arm. Both have short, styled hair. The image has a halftone dot pattern, typical of older print media.\n: illustration::>\n\n<a id='d8b97661-cdbf-4375-8d46-dd9cdf151b2b'></a>\n\n## For a Bright Smile\n\nThere's nothing like a good smile to make you popu-lar among your friends. Two things go to make up a charming smile --- sparkling eyes and beautiful teeth.\n\n<a id='89c2a09d-dba0-4c14-a1dd-29d7805af885'></a>\n\nYour eyes will sparkle if you have the good health\nthat comes from eating, every day, a variety of nour-\nishing foods\u2014meat, fish, eggs, fruits, vegetables, en-\nriched and whole grain breads and cereals.\n\n<a id='c25d3fc0-4192-4fed-b5aa-8e9f671c12df'></a>\n\nBrushing your teeth regularly after eating removes\nthe food particles clinging to the teeth and helps pre-\nvent tooth decay. The teeth should be brushed in such\na way as to reach every possible surface, and as di-\nrected by your dentist.\n\n<a id='3ebed49d-6fb1-4bca-b2ea-41ff3388836e'></a>\n\nIf you do not have access to a toothbrush after meals\nor after eating snacks between meals, rinse your mouth\nwith water to remove the food particles adhering to\nthe teeth.\n\n<a id='2538ff91-9ef5-4276-af24-c461665d79a9'></a>\n\nVisit your dentist regularly. Remember, your den-tist is your friend and he will help you to have good-looking teeth.\n\n<a id='fc19b821-00b7-46c7-963f-25026f0602bb'></a>\n\n<::A black and white illustration depicting various food items and a person cooking. On the left, there is a steak, two fish, two apples, and some leaves. Moving towards the right, there are more leaves, a loaf of bread, and other indistinct food items. Further to the right, a person is shown cooking over a stove or counter, with pots and other kitchen elements visible. The overall composition suggests a progression from raw ingredients to prepared food.: figure::>\n\n<a id='cc318db8-56f8-4a10-8d42-e12a5a8885de'></a>\n\n16\n\n<a id='423aa334-ea73-46db-9887-1ee97b3248e4'></a>\n\n17\n\n<a id='56cb5796-6092-414d-bb50-3f635068f3d0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/phwk0226",
+    "chunks": [
+        {
+            "markdown": "<a id='def29266-063b-4038-95a6-709938fb559f'></a>\n\n<::A black and white illustration depicts a young man and a young woman, both smiling and looking at each other. The man is on the left, wearing a collared shirt with a bow tie under a sweater, and is holding a book in his left arm. The woman is on the right, wearing a collared shirt under a sweater, and is holding two books in her right arm. Both have short, styled hair. The image has a halftone dot pattern, typical of older print media.\n: illustration::>",
+            "type": "figure",
+            "id": "def29266-063b-4038-95a6-709938fb559f",
+            "grounding": {
+                "box": {
+                    "left": 0.04404957592487335,
+                    "top": 0.004762768745422363,
+                    "right": 0.5236703753471375,
+                    "bottom": 0.7265856862068176
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d8b97661-cdbf-4375-8d46-dd9cdf151b2b'></a>\n\n## For a Bright Smile\n\nThere's nothing like a good smile to make you popu-lar among your friends. Two things go to make up a charming smile --- sparkling eyes and beautiful teeth.",
+            "type": "text",
+            "id": "d8b97661-cdbf-4375-8d46-dd9cdf151b2b",
+            "grounding": {
+                "box": {
+                    "left": 0.08500215411186218,
+                    "top": 0.753928005695343,
+                    "right": 0.4401746094226837,
+                    "bottom": 0.9040097594261169
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='89c2a09d-dba0-4c14-a1dd-29d7805af885'></a>\n\nYour eyes will sparkle if you have the good health\nthat comes from eating, every day, a variety of nour-\nishing foods\u2014meat, fish, eggs, fruits, vegetables, en-\nriched and whole grain breads and cereals.",
+            "type": "text",
+            "id": "89c2a09d-dba0-4c14-a1dd-29d7805af885",
+            "grounding": {
+                "box": {
+                    "left": 0.5870843529701233,
+                    "top": 0.07850129902362823,
+                    "right": 0.9315738081932068,
+                    "bottom": 0.17834444344043732
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c25d3fc0-4192-4fed-b5aa-8e9f671c12df'></a>\n\nBrushing your teeth regularly after eating removes\nthe food particles clinging to the teeth and helps pre-\nvent tooth decay. The teeth should be brushed in such\na way as to reach every possible surface, and as di-\nrected by your dentist.",
+            "type": "text",
+            "id": "c25d3fc0-4192-4fed-b5aa-8e9f671c12df",
+            "grounding": {
+                "box": {
+                    "left": 0.588485062122345,
+                    "top": 0.17729860544204712,
+                    "right": 0.9321895241737366,
+                    "bottom": 0.2962423861026764
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3ebed49d-6fb1-4bca-b2ea-41ff3388836e'></a>\n\nIf you do not have access to a toothbrush after meals\nor after eating snacks between meals, rinse your mouth\nwith water to remove the food particles adhering to\nthe teeth.",
+            "type": "text",
+            "id": "3ebed49d-6fb1-4bca-b2ea-41ff3388836e",
+            "grounding": {
+                "box": {
+                    "left": 0.589636504650116,
+                    "top": 0.29491865634918213,
+                    "right": 0.9331026673316956,
+                    "bottom": 0.38952553272247314
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2538ff91-9ef5-4276-af24-c461665d79a9'></a>\n\nVisit your dentist regularly. Remember, your den-tist is your friend and he will help you to have good-looking teeth.",
+            "type": "text",
+            "id": "2538ff91-9ef5-4276-af24-c461665d79a9",
+            "grounding": {
+                "box": {
+                    "left": 0.5904011726379395,
+                    "top": 0.3881681561470032,
+                    "right": 0.9344688653945923,
+                    "bottom": 0.46181052923202515
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fc19b821-00b7-46c7-963f-25026f0602bb'></a>\n\n<::A black and white illustration depicting various food items and a person cooking. On the left, there is a steak, two fish, two apples, and some leaves. Moving towards the right, there are more leaves, a loaf of bread, and other indistinct food items. Further to the right, a person is shown cooking over a stove or counter, with pots and other kitchen elements visible. The overall composition suggests a progression from raw ingredients to prepared food.: figure::>",
+            "type": "figure",
+            "id": "fc19b821-00b7-46c7-963f-25026f0602bb",
+            "grounding": {
+                "box": {
+                    "left": 0.5449283123016357,
+                    "top": 0.52073073387146,
+                    "right": 0.9937584400177002,
+                    "bottom": 0.8951895236968994
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='cc318db8-56f8-4a10-8d42-e12a5a8885de'></a>\n\n16",
+            "type": "marginalia",
+            "id": "cc318db8-56f8-4a10-8d42-e12a5a8885de",
+            "grounding": {
+                "box": {
+                    "left": 0.047736458480358124,
+                    "top": 0.9517092704772949,
+                    "right": 0.06440549343824387,
+                    "bottom": 0.9682512283325195
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='423aa334-ea73-46db-9887-1ee97b3248e4'></a>\n\n17",
+            "type": "marginalia",
+            "id": "423aa334-ea73-46db-9887-1ee97b3248e4",
+            "grounding": {
+                "box": {
+                    "left": 0.9723587036132812,
+                    "top": 0.9442657232284546,
+                    "right": 0.9869868755340576,
+                    "bottom": 0.9628909826278687
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='56cb5796-6092-414d-bb50-3f635068f3d0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/phwk0226",
+            "type": "marginalia",
+            "id": "56cb5796-6092-414d-bb50-3f635068f3d0",
+            "grounding": {
+                "box": {
+                    "left": 0.2787097692489624,
+                    "top": 0.9725294709205627,
+                    "right": 0.7221128940582275,
+                    "bottom": 0.9981773495674133
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='def29266-063b-4038-95a6-709938fb559f'></a>\n\n<::A black and white illustration depicts a young man and a young woman, both smiling and looking at each other. The man is on the left, wearing a collared shirt with a bow tie under a sweater, and is holding a book in his left arm. The woman is on the right, wearing a collared shirt under a sweater, and is holding two books in her right arm. Both have short, styled hair. The image has a halftone dot pattern, typical of older print media.\n: illustration::>\n\n<a id='d8b97661-cdbf-4375-8d46-dd9cdf151b2b'></a>\n\n## For a Bright Smile\n\nThere's nothing like a good smile to make you popu-lar among your friends. Two things go to make up a charming smile --- sparkling eyes and beautiful teeth.\n\n<a id='89c2a09d-dba0-4c14-a1dd-29d7805af885'></a>\n\nYour eyes will sparkle if you have the good health\nthat comes from eating, every day, a variety of nour-\nishing foods\u2014meat, fish, eggs, fruits, vegetables, en-\nriched and whole grain breads and cereals.\n\n<a id='c25d3fc0-4192-4fed-b5aa-8e9f671c12df'></a>\n\nBrushing your teeth regularly after eating removes\nthe food particles clinging to the teeth and helps pre-\nvent tooth decay. The teeth should be brushed in such\na way as to reach every possible surface, and as di-\nrected by your dentist.\n\n<a id='3ebed49d-6fb1-4bca-b2ea-41ff3388836e'></a>\n\nIf you do not have access to a toothbrush after meals\nor after eating snacks between meals, rinse your mouth\nwith water to remove the food particles adhering to\nthe teeth.\n\n<a id='2538ff91-9ef5-4276-af24-c461665d79a9'></a>\n\nVisit your dentist regularly. Remember, your den-tist is your friend and he will help you to have good-looking teeth.\n\n<a id='fc19b821-00b7-46c7-963f-25026f0602bb'></a>\n\n<::A black and white illustration depicting various food items and a person cooking. On the left, there is a steak, two fish, two apples, and some leaves. Moving towards the right, there are more leaves, a loaf of bread, and other indistinct food items. Further to the right, a person is shown cooking over a stove or counter, with pots and other kitchen elements visible. The overall composition suggests a progression from raw ingredients to prepared food.: figure::>\n\n<a id='cc318db8-56f8-4a10-8d42-e12a5a8885de'></a>\n\n16\n\n<a id='423aa334-ea73-46db-9887-1ee97b3248e4'></a>\n\n17\n\n<a id='56cb5796-6092-414d-bb50-3f635068f3d0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/phwk0226",
+            "chunks": [
+                "def29266-063b-4038-95a6-709938fb559f",
+                "d8b97661-cdbf-4375-8d46-dd9cdf151b2b",
+                "89c2a09d-dba0-4c14-a1dd-29d7805af885",
+                "c25d3fc0-4192-4fed-b5aa-8e9f671c12df",
+                "3ebed49d-6fb1-4bca-b2ea-41ff3388836e",
+                "2538ff91-9ef5-4276-af24-c461665d79a9",
+                "fc19b821-00b7-46c7-963f-25026f0602bb",
+                "cc318db8-56f8-4a10-8d42-e12a5a8885de",
+                "423aa334-ea73-46db-9887-1ee97b3248e4",
+                "56cb5796-6092-414d-bb50-3f635068f3d0"
+            ]
+        }
+    ],
+    "grounding": {
+        "def29266-063b-4038-95a6-709938fb559f": {
+            "box": {
+                "left": 0.04404957592487335,
+                "top": 0.004762768745422363,
+                "right": 0.5236703753471375,
+                "bottom": 0.7265856862068176
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "d8b97661-cdbf-4375-8d46-dd9cdf151b2b": {
+            "box": {
+                "left": 0.08500215411186218,
+                "top": 0.753928005695343,
+                "right": 0.4401746094226837,
+                "bottom": 0.9040097594261169
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "89c2a09d-dba0-4c14-a1dd-29d7805af885": {
+            "box": {
+                "left": 0.5870843529701233,
+                "top": 0.07850129902362823,
+                "right": 0.9315738081932068,
+                "bottom": 0.17834444344043732
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c25d3fc0-4192-4fed-b5aa-8e9f671c12df": {
+            "box": {
+                "left": 0.588485062122345,
+                "top": 0.17729860544204712,
+                "right": 0.9321895241737366,
+                "bottom": 0.2962423861026764
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3ebed49d-6fb1-4bca-b2ea-41ff3388836e": {
+            "box": {
+                "left": 0.589636504650116,
+                "top": 0.29491865634918213,
+                "right": 0.9331026673316956,
+                "bottom": 0.38952553272247314
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2538ff91-9ef5-4276-af24-c461665d79a9": {
+            "box": {
+                "left": 0.5904011726379395,
+                "top": 0.3881681561470032,
+                "right": 0.9344688653945923,
+                "bottom": 0.46181052923202515
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "fc19b821-00b7-46c7-963f-25026f0602bb": {
+            "box": {
+                "left": 0.5449283123016357,
+                "top": 0.52073073387146,
+                "right": 0.9937584400177002,
+                "bottom": 0.8951895236968994
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "cc318db8-56f8-4a10-8d42-e12a5a8885de": {
+            "box": {
+                "left": 0.047736458480358124,
+                "top": 0.9517092704772949,
+                "right": 0.06440549343824387,
+                "bottom": 0.9682512283325195
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "423aa334-ea73-46db-9887-1ee97b3248e4": {
+            "box": {
+                "left": 0.9723587036132812,
+                "top": 0.9442657232284546,
+                "right": 0.9869868755340576,
+                "bottom": 0.9628909826278687
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "56cb5796-6092-414d-bb50-3f635068f3d0": {
+            "box": {
+                "left": 0.2787097692489624,
+                "top": 0.9725294709205627,
+                "right": 0.7221128940582275,
+                "bottom": 0.9981773495674133
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "phwk0226_38.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7641,
+        "credit_usage": 3.0,
+        "job_id": "ze5f05bq2xmd7dj6fh1a8yebu",
+        "version": "dpt-2-20250919"
+    }
+}

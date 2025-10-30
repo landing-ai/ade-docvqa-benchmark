@@ -1,0 +1,228 @@
+{
+    "markdown": "<a id='0d179ad5-eda9-44e2-9bef-33617d92c2bc'></a>\n\n604\n\n<a id='e0c4973c-1867-4a34-86cc-0d607a49d8b3'></a>\n\nTo Dr. Darby\n\nDate 11-16- Time 404\noption A.M.: [ ]\noption P.M.: [x]\n\n<a id='897d36ed-efa8-4e8e-8501-c6c1aa3dbf07'></a>\n\nWHILE YOU WERE OUT\n\n<a id='b504d7c2-f2e4-4349-8945-f1474132ed42'></a>\n\nMr.: Adrian Brown-Lee\nof: Dr. Reuses S.R.L. ext 4189\nPhone: 326 6200\n\n<a id='7f9552b8-6025-4a0f-9503-c8449a85c58a'></a>\n\noption TELEPHONED: [x]\noption CALLED TO SEE YOU: [ ]\noption WANTED TO SEE YOU: [ ]\n\noption PLEASE CALL: [x]\noption WILL CALL AGAIN: [ ]\noption RUSH: [ ]\n\n<a id='322613b9-58de-49bf-940d-f3f6bd9f1b5d'></a>\n\nMessage: home phone 3255543\n\n\n\n\n\n\n\n<a id='a16e6609-5a7c-49cc-a1d2-519d308c298a'></a>\n\nHYATT HOUSE HOTELS FORM NO. O-2 P f\n\n<a id='89bea8b5-5f42-4a43-8aaa-9b382e0eb65e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/knhbd0228",
+    "chunks": [
+        {
+            "markdown": "<a id='0d179ad5-eda9-44e2-9bef-33617d92c2bc'></a>\n\n604",
+            "type": "text",
+            "id": "0d179ad5-eda9-44e2-9bef-33617d92c2bc",
+            "grounding": {
+                "box": {
+                    "left": 0.6112917065620422,
+                    "top": 0.08313634991645813,
+                    "right": 0.8067014813423157,
+                    "bottom": 0.13752374053001404
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e0c4973c-1867-4a34-86cc-0d607a49d8b3'></a>\n\nTo Dr. Darby\n\nDate 11-16- Time 404\noption A.M.: [ ]\noption P.M.: [x]",
+            "type": "text",
+            "id": "e0c4973c-1867-4a34-86cc-0d607a49d8b3",
+            "grounding": {
+                "box": {
+                    "left": 0.11865708231925964,
+                    "top": 0.1240670382976532,
+                    "right": 0.8911908864974976,
+                    "bottom": 0.2709365785121918
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='897d36ed-efa8-4e8e-8501-c6c1aa3dbf07'></a>\n\nWHILE YOU WERE OUT",
+            "type": "text",
+            "id": "897d36ed-efa8-4e8e-8501-c6c1aa3dbf07",
+            "grounding": {
+                "box": {
+                    "left": 0.1906554400920868,
+                    "top": 0.29240721464157104,
+                    "right": 0.8166689872741699,
+                    "bottom": 0.3416341543197632
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b504d7c2-f2e4-4349-8945-f1474132ed42'></a>\n\nMr.: Adrian Brown-Lee\nof: Dr. Reuses S.R.L. ext 4189\nPhone: 326 6200",
+            "type": "text",
+            "id": "b504d7c2-f2e4-4349-8945-f1474132ed42",
+            "grounding": {
+                "box": {
+                    "left": 0.11774930357933044,
+                    "top": 0.33218544721603394,
+                    "right": 0.8918259143829346,
+                    "bottom": 0.5057598352432251
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7f9552b8-6025-4a0f-9503-c8449a85c58a'></a>\n\noption TELEPHONED: [x]\noption CALLED TO SEE YOU: [ ]\noption WANTED TO SEE YOU: [ ]\n\noption PLEASE CALL: [x]\noption WILL CALL AGAIN: [ ]\noption RUSH: [ ]",
+            "type": "text",
+            "id": "7f9552b8-6025-4a0f-9503-c8449a85c58a",
+            "grounding": {
+                "box": {
+                    "left": 0.16491681337356567,
+                    "top": 0.5204497575759888,
+                    "right": 0.8786589503288269,
+                    "bottom": 0.6309187412261963
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='322613b9-58de-49bf-940d-f3f6bd9f1b5d'></a>\n\nMessage: home phone 3255543\n\n\n\n\n\n",
+            "type": "text",
+            "id": "322613b9-58de-49bf-940d-f3f6bd9f1b5d",
+            "grounding": {
+                "box": {
+                    "left": 0.11626020073890686,
+                    "top": 0.6275784969329834,
+                    "right": 0.886294960975647,
+                    "bottom": 0.8806793689727783
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a16e6609-5a7c-49cc-a1d2-519d308c298a'></a>\n\nHYATT HOUSE HOTELS FORM NO. O-2 P f",
+            "type": "text",
+            "id": "a16e6609-5a7c-49cc-a1d2-519d308c298a",
+            "grounding": {
+                "box": {
+                    "left": 0.09176129102706909,
+                    "top": 0.8965368866920471,
+                    "right": 0.48519212007522583,
+                    "bottom": 0.9244691729545593
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='89bea8b5-5f42-4a43-8aaa-9b382e0eb65e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/knhbd0228",
+            "type": "text",
+            "id": "89bea8b5-5f42-4a43-8aaa-9b382e0eb65e",
+            "grounding": {
+                "box": {
+                    "left": 0.04513120651245117,
+                    "top": 0.9545194506645203,
+                    "right": 0.9599071741104126,
+                    "bottom": 0.9998889565467834
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='0d179ad5-eda9-44e2-9bef-33617d92c2bc'></a>\n\n604\n\n<a id='e0c4973c-1867-4a34-86cc-0d607a49d8b3'></a>\n\nTo Dr. Darby\n\nDate 11-16- Time 404\noption A.M.: [ ]\noption P.M.: [x]\n\n<a id='897d36ed-efa8-4e8e-8501-c6c1aa3dbf07'></a>\n\nWHILE YOU WERE OUT\n\n<a id='b504d7c2-f2e4-4349-8945-f1474132ed42'></a>\n\nMr.: Adrian Brown-Lee\nof: Dr. Reuses S.R.L. ext 4189\nPhone: 326 6200\n\n<a id='7f9552b8-6025-4a0f-9503-c8449a85c58a'></a>\n\noption TELEPHONED: [x]\noption CALLED TO SEE YOU: [ ]\noption WANTED TO SEE YOU: [ ]\n\noption PLEASE CALL: [x]\noption WILL CALL AGAIN: [ ]\noption RUSH: [ ]\n\n<a id='322613b9-58de-49bf-940d-f3f6bd9f1b5d'></a>\n\nMessage: home phone 3255543\n\n\n\n\n\n\n\n<a id='a16e6609-5a7c-49cc-a1d2-519d308c298a'></a>\n\nHYATT HOUSE HOTELS FORM NO. O-2 P f\n\n<a id='89bea8b5-5f42-4a43-8aaa-9b382e0eb65e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/knhbd0228",
+            "chunks": [
+                "0d179ad5-eda9-44e2-9bef-33617d92c2bc",
+                "e0c4973c-1867-4a34-86cc-0d607a49d8b3",
+                "897d36ed-efa8-4e8e-8501-c6c1aa3dbf07",
+                "b504d7c2-f2e4-4349-8945-f1474132ed42",
+                "7f9552b8-6025-4a0f-9503-c8449a85c58a",
+                "322613b9-58de-49bf-940d-f3f6bd9f1b5d",
+                "a16e6609-5a7c-49cc-a1d2-519d308c298a",
+                "89bea8b5-5f42-4a43-8aaa-9b382e0eb65e"
+            ]
+        }
+    ],
+    "grounding": {
+        "0d179ad5-eda9-44e2-9bef-33617d92c2bc": {
+            "box": {
+                "left": 0.6112917065620422,
+                "top": 0.08313634991645813,
+                "right": 0.8067014813423157,
+                "bottom": 0.13752374053001404
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e0c4973c-1867-4a34-86cc-0d607a49d8b3": {
+            "box": {
+                "left": 0.11865708231925964,
+                "top": 0.1240670382976532,
+                "right": 0.8911908864974976,
+                "bottom": 0.2709365785121918
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "897d36ed-efa8-4e8e-8501-c6c1aa3dbf07": {
+            "box": {
+                "left": 0.1906554400920868,
+                "top": 0.29240721464157104,
+                "right": 0.8166689872741699,
+                "bottom": 0.3416341543197632
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b504d7c2-f2e4-4349-8945-f1474132ed42": {
+            "box": {
+                "left": 0.11774930357933044,
+                "top": 0.33218544721603394,
+                "right": 0.8918259143829346,
+                "bottom": 0.5057598352432251
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7f9552b8-6025-4a0f-9503-c8449a85c58a": {
+            "box": {
+                "left": 0.16491681337356567,
+                "top": 0.5204497575759888,
+                "right": 0.8786589503288269,
+                "bottom": 0.6309187412261963
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "322613b9-58de-49bf-940d-f3f6bd9f1b5d": {
+            "box": {
+                "left": 0.11626020073890686,
+                "top": 0.6275784969329834,
+                "right": 0.886294960975647,
+                "bottom": 0.8806793689727783
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a16e6609-5a7c-49cc-a1d2-519d308c298a": {
+            "box": {
+                "left": 0.09176129102706909,
+                "top": 0.8965368866920471,
+                "right": 0.48519212007522583,
+                "bottom": 0.9244691729545593
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "89bea8b5-5f42-4a43-8aaa-9b382e0eb65e": {
+            "box": {
+                "left": 0.04513120651245117,
+                "top": 0.9545194506645203,
+                "right": 0.9599071741104126,
+                "bottom": 0.9998889565467834
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "knbd0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 4567,
+        "credit_usage": 3.0,
+        "job_id": "hvs3jt4emnvstglodzzgqbza3",
+        "version": "dpt-2-20250919"
+    }
+}

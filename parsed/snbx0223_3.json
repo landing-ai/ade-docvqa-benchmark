@@ -1,0 +1,128 @@
+{
+    "markdown": "<a id='60e34542-0355-4301-8e27-94849148c762'></a>\n\n<::A grey, wavy, flowing fabric-like background. On the right side, the text \"ITC Limited\" is displayed above \"REPORT AND ACCOUNTS 2013\". To the right of \"ITC Limited\" is a solid dark grey rectangular shape.: figure::>\n\n<a id='9be8375a-48a3-4db6-b700-efbe2764ffc1'></a>\n\n# ITC: Creating World-Class Brands that Put India First\n\nA country's brands are a reflection of its competitive strengths and a manifestation of its innovation and intellectual capacity. I strongly believe that a country's economic capacity is significantly enriched when its institutions build and own internationally competitive brands. Winning brands serve as market anchors to support the competitiveness of the entire value chains of which they are a part. Strong domestic brands create much larger value since they create, capture and retain value within the country. Your Company takes justifiable pride in creating world-class Indian brands that have demonstrated immense vitality in the global Indian market place.\n\n<a id='f254002f-0445-4f7d-b8c2-89f47b2b4ebd'></a>\n\nY C Deveshwar,\nChairman, ITC Limited\nSpeech at the ITC AGM, 2012\n\n<a id='e3f74673-8f0e-4957-8d4e-f7f8993b2439'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snbx0223",
+    "chunks": [
+        {
+            "markdown": "<a id='60e34542-0355-4301-8e27-94849148c762'></a>\n\n<::A grey, wavy, flowing fabric-like background. On the right side, the text \"ITC Limited\" is displayed above \"REPORT AND ACCOUNTS 2013\". To the right of \"ITC Limited\" is a solid dark grey rectangular shape.: figure::>",
+            "type": "figure",
+            "id": "60e34542-0355-4301-8e27-94849148c762",
+            "grounding": {
+                "box": {
+                    "left": 0.0006641745567321777,
+                    "top": 0.0002518370747566223,
+                    "right": 0.9946616291999817,
+                    "bottom": 0.22876954078674316
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9be8375a-48a3-4db6-b700-efbe2764ffc1'></a>\n\n# ITC: Creating World-Class Brands that Put India First\n\nA country's brands are a reflection of its competitive strengths and a manifestation of its innovation and intellectual capacity. I strongly believe that a country's economic capacity is significantly enriched when its institutions build and own internationally competitive brands. Winning brands serve as market anchors to support the competitiveness of the entire value chains of which they are a part. Strong domestic brands create much larger value since they create, capture and retain value within the country. Your Company takes justifiable pride in creating world-class Indian brands that have demonstrated immense vitality in the global Indian market place.",
+            "type": "text",
+            "id": "9be8375a-48a3-4db6-b700-efbe2764ffc1",
+            "grounding": {
+                "box": {
+                    "left": 0.4424014687538147,
+                    "top": 0.3065623342990875,
+                    "right": 0.8928808569908142,
+                    "bottom": 0.704440712928772
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f254002f-0445-4f7d-b8c2-89f47b2b4ebd'></a>\n\nY C Deveshwar,\nChairman, ITC Limited\nSpeech at the ITC AGM, 2012",
+            "type": "text",
+            "id": "f254002f-0445-4f7d-b8c2-89f47b2b4ebd",
+            "grounding": {
+                "box": {
+                    "left": 0.44338101148605347,
+                    "top": 0.7130762338638306,
+                    "right": 0.7264103293418884,
+                    "bottom": 0.7759401798248291
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e3f74673-8f0e-4957-8d4e-f7f8993b2439'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snbx0223",
+            "type": "text",
+            "id": "e3f74673-8f0e-4957-8d4e-f7f8993b2439",
+            "grounding": {
+                "box": {
+                    "left": 0.20874324440956116,
+                    "top": 0.9752918481826782,
+                    "right": 0.7932097911834717,
+                    "bottom": 0.9999973773956299
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='60e34542-0355-4301-8e27-94849148c762'></a>\n\n<::A grey, wavy, flowing fabric-like background. On the right side, the text \"ITC Limited\" is displayed above \"REPORT AND ACCOUNTS 2013\". To the right of \"ITC Limited\" is a solid dark grey rectangular shape.: figure::>\n\n<a id='9be8375a-48a3-4db6-b700-efbe2764ffc1'></a>\n\n# ITC: Creating World-Class Brands that Put India First\n\nA country's brands are a reflection of its competitive strengths and a manifestation of its innovation and intellectual capacity. I strongly believe that a country's economic capacity is significantly enriched when its institutions build and own internationally competitive brands. Winning brands serve as market anchors to support the competitiveness of the entire value chains of which they are a part. Strong domestic brands create much larger value since they create, capture and retain value within the country. Your Company takes justifiable pride in creating world-class Indian brands that have demonstrated immense vitality in the global Indian market place.\n\n<a id='f254002f-0445-4f7d-b8c2-89f47b2b4ebd'></a>\n\nY C Deveshwar,\nChairman, ITC Limited\nSpeech at the ITC AGM, 2012\n\n<a id='e3f74673-8f0e-4957-8d4e-f7f8993b2439'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/snbx0223",
+            "chunks": [
+                "60e34542-0355-4301-8e27-94849148c762",
+                "9be8375a-48a3-4db6-b700-efbe2764ffc1",
+                "f254002f-0445-4f7d-b8c2-89f47b2b4ebd",
+                "e3f74673-8f0e-4957-8d4e-f7f8993b2439"
+            ]
+        }
+    ],
+    "grounding": {
+        "60e34542-0355-4301-8e27-94849148c762": {
+            "box": {
+                "left": 0.0006641745567321777,
+                "top": 0.0002518370747566223,
+                "right": 0.9946616291999817,
+                "bottom": 0.22876954078674316
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "9be8375a-48a3-4db6-b700-efbe2764ffc1": {
+            "box": {
+                "left": 0.4424014687538147,
+                "top": 0.3065623342990875,
+                "right": 0.8928808569908142,
+                "bottom": 0.704440712928772
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f254002f-0445-4f7d-b8c2-89f47b2b4ebd": {
+            "box": {
+                "left": 0.44338101148605347,
+                "top": 0.7130762338638306,
+                "right": 0.7264103293418884,
+                "bottom": 0.7759401798248291
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e3f74673-8f0e-4957-8d4e-f7f8993b2439": {
+            "box": {
+                "left": 0.20874324440956116,
+                "top": 0.9752918481826782,
+                "right": 0.7932097911834717,
+                "bottom": 0.9999973773956299
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "snbx0223_3.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 10208,
+        "credit_usage": 3.0,
+        "job_id": "js2yfuuzfl85hev7k7qvyvclo",
+        "version": "dpt-2-20250919"
+    }
+}

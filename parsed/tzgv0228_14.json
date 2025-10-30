@@ -1,0 +1,603 @@
+{
+    "markdown": "<a id='4c26409d-d2b2-41f3-881e-40061f92f589'></a>\n\n**Helen Keller International, Incorporated**\n**BALANCE SHEET**\n\n<a id='9275a17b-032b-4bc4-896c-0e340254f982'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">June 30,</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\">1980</td><td id=\"0-6\">1981</td></tr>\n<tr><td id=\"0-7\">Assets</td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Cash</td><td id=\"0-b\">$ 99,529</td><td id=\"0-c\">$ 186,310</td></tr>\n<tr><td id=\"0-d\">Investments Securities, at cost</td><td id=\"0-e\">2,717,072</td><td id=\"0-f\">2,663,615</td></tr>\n<tr><td id=\"0-g\">Receivable from government agency</td><td id=\"0-h\">48,321</td><td id=\"0-i\">44,601</td></tr>\n<tr><td id=\"0-j\">Receivable from Combined Federal Campaign</td><td id=\"0-k\">64,809</td><td id=\"0-l\">102,635</td></tr>\n<tr><td id=\"0-m\">Prepayments and other assets</td><td id=\"0-n\">60,789</td><td id=\"0-o\">68,776</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\">2,990,520</td><td id=\"0-r\">3,065,937</td></tr>\n<tr><td id=\"0-s\">Less \u2014 Liabilities Accounts payable and accrued expenses</td><td id=\"0-t\">113,055</td><td id=\"0-u\">132,245</td></tr>\n<tr><td id=\"0-v\"></td><td id=\"0-w\">$2,877,465</td><td id=\"0-x\">$2,933,692</td></tr>\n<tr><td id=\"0-y\">Fund balances</td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">Unrestricted</td><td id=\"0-C\">$2,793,019</td><td id=\"0-D\">$2,849,246</td></tr>\n<tr><td id=\"0-E\">Endowment</td><td id=\"0-F\">84,446</td><td id=\"0-G\">84,446</td></tr>\n<tr><td id=\"0-H\"></td><td id=\"0-I\">$2,877,465</td><td id=\"0-J\">$2,933,692</td></tr>\n</table>\n\n<a id='89df7816-07a9-4be8-b0c1-0a361600556f'></a>\n\nTotal Expenditures: $1,451,895\n\n<a id='067630c3-07a1-4563-bab1-c2ed26259e0d'></a>\n\n<::pie chart\n: Services to Alleviate and Prevent Blindness: 74.09%, $1,075,679\n: Fund Raising: 11.10%, $161,186\n: Management and General Services: 14.81%, $215,030::>\n\n<a id='4e891b51-eef1-4469-a124-df02ce6a5c2e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tzgv0228",
+    "chunks": [
+        {
+            "markdown": "<a id='4c26409d-d2b2-41f3-881e-40061f92f589'></a>\n\n**Helen Keller International, Incorporated**\n**BALANCE SHEET**",
+            "type": "text",
+            "id": "4c26409d-d2b2-41f3-881e-40061f92f589",
+            "grounding": {
+                "box": {
+                    "left": 0.10825303196907043,
+                    "top": 0.07801716029644012,
+                    "right": 0.7689108848571777,
+                    "bottom": 0.12414304912090302
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9275a17b-032b-4bc4-896c-0e340254f982'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">June 30,</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\">1980</td><td id=\"0-6\">1981</td></tr>\n<tr><td id=\"0-7\">Assets</td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Cash</td><td id=\"0-b\">$ 99,529</td><td id=\"0-c\">$ 186,310</td></tr>\n<tr><td id=\"0-d\">Investments Securities, at cost</td><td id=\"0-e\">2,717,072</td><td id=\"0-f\">2,663,615</td></tr>\n<tr><td id=\"0-g\">Receivable from government agency</td><td id=\"0-h\">48,321</td><td id=\"0-i\">44,601</td></tr>\n<tr><td id=\"0-j\">Receivable from Combined Federal Campaign</td><td id=\"0-k\">64,809</td><td id=\"0-l\">102,635</td></tr>\n<tr><td id=\"0-m\">Prepayments and other assets</td><td id=\"0-n\">60,789</td><td id=\"0-o\">68,776</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\">2,990,520</td><td id=\"0-r\">3,065,937</td></tr>\n<tr><td id=\"0-s\">Less \u2014 Liabilities Accounts payable and accrued expenses</td><td id=\"0-t\">113,055</td><td id=\"0-u\">132,245</td></tr>\n<tr><td id=\"0-v\"></td><td id=\"0-w\">$2,877,465</td><td id=\"0-x\">$2,933,692</td></tr>\n<tr><td id=\"0-y\">Fund balances</td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">Unrestricted</td><td id=\"0-C\">$2,793,019</td><td id=\"0-D\">$2,849,246</td></tr>\n<tr><td id=\"0-E\">Endowment</td><td id=\"0-F\">84,446</td><td id=\"0-G\">84,446</td></tr>\n<tr><td id=\"0-H\"></td><td id=\"0-I\">$2,877,465</td><td id=\"0-J\">$2,933,692</td></tr>\n</table>",
+            "type": "table",
+            "id": "9275a17b-032b-4bc4-896c-0e340254f982",
+            "grounding": {
+                "box": {
+                    "left": 0.10752680897712708,
+                    "top": 0.15652421116828918,
+                    "right": 0.8953253030776978,
+                    "bottom": 0.5280939340591431
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='89df7816-07a9-4be8-b0c1-0a361600556f'></a>\n\nTotal Expenditures: $1,451,895",
+            "type": "text",
+            "id": "89df7816-07a9-4be8-b0c1-0a361600556f",
+            "grounding": {
+                "box": {
+                    "left": 0.11297354102134705,
+                    "top": 0.5673927664756775,
+                    "right": 0.6300393342971802,
+                    "bottom": 0.5925672650337219
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='067630c3-07a1-4563-bab1-c2ed26259e0d'></a>\n\n<::pie chart\n: Services to Alleviate and Prevent Blindness: 74.09%, $1,075,679\n: Fund Raising: 11.10%, $161,186\n: Management and General Services: 14.81%, $215,030::>",
+            "type": "figure",
+            "id": "067630c3-07a1-4563-bab1-c2ed26259e0d",
+            "grounding": {
+                "box": {
+                    "left": 0.10678017139434814,
+                    "top": 0.6185762882232666,
+                    "right": 0.8504562973976135,
+                    "bottom": 0.9382997751235962
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4e891b51-eef1-4469-a124-df02ce6a5c2e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tzgv0228",
+            "type": "text",
+            "id": "4e891b51-eef1-4469-a124-df02ce6a5c2e",
+            "grounding": {
+                "box": {
+                    "left": 0.08067971467971802,
+                    "top": 0.9719973802566528,
+                    "right": 0.9188753366470337,
+                    "bottom": 0.9969186782836914
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='4c26409d-d2b2-41f3-881e-40061f92f589'></a>\n\n**Helen Keller International, Incorporated**\n**BALANCE SHEET**\n\n<a id='9275a17b-032b-4bc4-896c-0e340254f982'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">June 30,</td></tr>\n<tr><td id=\"0-4\"></td><td id=\"0-5\">1980</td><td id=\"0-6\">1981</td></tr>\n<tr><td id=\"0-7\">Assets</td><td id=\"0-8\"></td><td id=\"0-9\"></td></tr>\n<tr><td id=\"0-a\">Cash</td><td id=\"0-b\">$ 99,529</td><td id=\"0-c\">$ 186,310</td></tr>\n<tr><td id=\"0-d\">Investments Securities, at cost</td><td id=\"0-e\">2,717,072</td><td id=\"0-f\">2,663,615</td></tr>\n<tr><td id=\"0-g\">Receivable from government agency</td><td id=\"0-h\">48,321</td><td id=\"0-i\">44,601</td></tr>\n<tr><td id=\"0-j\">Receivable from Combined Federal Campaign</td><td id=\"0-k\">64,809</td><td id=\"0-l\">102,635</td></tr>\n<tr><td id=\"0-m\">Prepayments and other assets</td><td id=\"0-n\">60,789</td><td id=\"0-o\">68,776</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\">2,990,520</td><td id=\"0-r\">3,065,937</td></tr>\n<tr><td id=\"0-s\">Less \u2014 Liabilities Accounts payable and accrued expenses</td><td id=\"0-t\">113,055</td><td id=\"0-u\">132,245</td></tr>\n<tr><td id=\"0-v\"></td><td id=\"0-w\">$2,877,465</td><td id=\"0-x\">$2,933,692</td></tr>\n<tr><td id=\"0-y\">Fund balances</td><td id=\"0-z\"></td><td id=\"0-A\"></td></tr>\n<tr><td id=\"0-B\">Unrestricted</td><td id=\"0-C\">$2,793,019</td><td id=\"0-D\">$2,849,246</td></tr>\n<tr><td id=\"0-E\">Endowment</td><td id=\"0-F\">84,446</td><td id=\"0-G\">84,446</td></tr>\n<tr><td id=\"0-H\"></td><td id=\"0-I\">$2,877,465</td><td id=\"0-J\">$2,933,692</td></tr>\n</table>\n\n<a id='89df7816-07a9-4be8-b0c1-0a361600556f'></a>\n\nTotal Expenditures: $1,451,895\n\n<a id='067630c3-07a1-4563-bab1-c2ed26259e0d'></a>\n\n<::pie chart\n: Services to Alleviate and Prevent Blindness: 74.09%, $1,075,679\n: Fund Raising: 11.10%, $161,186\n: Management and General Services: 14.81%, $215,030::>\n\n<a id='4e891b51-eef1-4469-a124-df02ce6a5c2e'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/tzgv0228",
+            "chunks": [
+                "4c26409d-d2b2-41f3-881e-40061f92f589",
+                "9275a17b-032b-4bc4-896c-0e340254f982",
+                "89df7816-07a9-4be8-b0c1-0a361600556f",
+                "067630c3-07a1-4563-bab1-c2ed26259e0d",
+                "4e891b51-eef1-4469-a124-df02ce6a5c2e"
+            ]
+        }
+    ],
+    "grounding": {
+        "4c26409d-d2b2-41f3-881e-40061f92f589": {
+            "box": {
+                "left": 0.10825303196907043,
+                "top": 0.07801716029644012,
+                "right": 0.7689108848571777,
+                "bottom": 0.12414304912090302
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9275a17b-032b-4bc4-896c-0e340254f982": {
+            "box": {
+                "left": 0.10752680897712708,
+                "top": 0.15652421116828918,
+                "right": 0.8953253030776978,
+                "bottom": 0.5280939340591431
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.15789029588296194,
+                "right": 0.8900807842011691,
+                "bottom": 0.5227879326897416
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.15789029588296194,
+                "right": 0.5901175385148907,
+                "bottom": 0.17459126841630357
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.15789029588296194,
+                "right": 0.8902190709446387,
+                "bottom": 0.18747891538665828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.17459126841630357,
+                "right": 0.5901175385148907,
+                "bottom": 0.18747891538665828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.17459126841630357,
+                "right": 0.7417119745254155,
+                "bottom": 0.18747891538665828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.17459126841630357,
+                "right": 0.8902190709446387,
+                "bottom": 0.18747891538665828
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.18747891538665828,
+                "right": 0.5901175385148907,
+                "bottom": 0.20020251467570116
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.18747891538665828,
+                "right": 0.7417119745254155,
+                "bottom": 0.20020251467570116
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.18747891538665828,
+                "right": 0.8902190709446387,
+                "bottom": 0.20020251467570116
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.20020251467570116,
+                "right": 0.5901175385148907,
+                "bottom": 0.21709605115882624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.20020251467570116,
+                "right": 0.7417119745254155,
+                "bottom": 0.21709605115882624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.20020251467570116,
+                "right": 0.8902190709446387,
+                "bottom": 0.21709605115882624
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.21709605115882624,
+                "right": 0.5901175385148907,
+                "bottom": 0.24928380803433248
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.21709605115882624,
+                "right": 0.7417119745254155,
+                "bottom": 0.24928380803433248
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.21709605115882624,
+                "right": 0.8902190709446387,
+                "bottom": 0.24928380803433248
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.24928380803433248,
+                "right": 0.5901175385148907,
+                "bottom": 0.26623924063198867
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.24928380803433248,
+                "right": 0.7417119745254155,
+                "bottom": 0.26623924063198867
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.24928380803433248,
+                "right": 0.8902190709446387,
+                "bottom": 0.26623924063198867
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.26623924063198867,
+                "right": 0.5901175385148907,
+                "bottom": 0.2993319409599575
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.26623924063198867,
+                "right": 0.7417119745254155,
+                "bottom": 0.2993319409599575
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.26623924063198867,
+                "right": 0.8902190709446387,
+                "bottom": 0.2993319409599575
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.2993319409599575,
+                "right": 0.5901175385148907,
+                "bottom": 0.3194862548960167
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.2993319409599575,
+                "right": 0.7417119745254155,
+                "bottom": 0.3194862548960167
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.2993319409599575,
+                "right": 0.8902190709446387,
+                "bottom": 0.3194862548960167
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.3194862548960167,
+                "right": 0.5901175385148907,
+                "bottom": 0.34532885442472505
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.3194862548960167,
+                "right": 0.7417119745254155,
+                "bottom": 0.34532885442472505
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.3194862548960167,
+                "right": 0.8902190709446387,
+                "bottom": 0.34532885442472505
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.34532885442472505,
+                "right": 0.5901175385148907,
+                "bottom": 0.4074793083347714
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.34532885442472505,
+                "right": 0.7417119745254155,
+                "bottom": 0.4074793083347714
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.34532885442472505,
+                "right": 0.8902190709446387,
+                "bottom": 0.4074793083347714
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.4074793083347714,
+                "right": 0.5901175385148907,
+                "bottom": 0.43342024179263916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.4074793083347714,
+                "right": 0.7417119745254155,
+                "bottom": 0.43342024179263916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.4074793083347714,
+                "right": 0.8902190709446387,
+                "bottom": 0.43342024179263916
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.43342024179263916,
+                "right": 0.5901175385148907,
+                "bottom": 0.46008155987072463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.43342024179263916,
+                "right": 0.7417119745254155,
+                "bottom": 0.46008155987072463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.43342024179263916,
+                "right": 0.8902190709446387,
+                "bottom": 0.46008155987072463
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.46008155987072463,
+                "right": 0.5901175385148907,
+                "bottom": 0.475908361474362
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.46008155987072463,
+                "right": 0.7417119745254155,
+                "bottom": 0.475908361474362
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-D": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.46008155987072463,
+                "right": 0.8902190709446387,
+                "bottom": 0.475908361474362
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-E": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.475908361474362,
+                "right": 0.5901175385148907,
+                "bottom": 0.4962908809973712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-F": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.475908361474362,
+                "right": 0.7417119745254155,
+                "bottom": 0.4962908809973712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-G": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.475908361474362,
+                "right": 0.8902190709446387,
+                "bottom": 0.4962908809973712
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-H": {
+            "box": {
+                "left": 0.11207536687426091,
+                "top": 0.4962908809973712,
+                "right": 0.5901175385148907,
+                "bottom": 0.5227879326897416
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-I": {
+            "box": {
+                "left": 0.5901175385148907,
+                "top": 0.4962908809973712,
+                "right": 0.7417119745254155,
+                "bottom": 0.5227879326897416
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-J": {
+            "box": {
+                "left": 0.7417119745254155,
+                "top": 0.4962908809973712,
+                "right": 0.8902190709446387,
+                "bottom": 0.5227879326897416
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "89df7816-07a9-4be8-b0c1-0a361600556f": {
+            "box": {
+                "left": 0.11297354102134705,
+                "top": 0.5673927664756775,
+                "right": 0.6300393342971802,
+                "bottom": 0.5925672650337219
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "067630c3-07a1-4563-bab1-c2ed26259e0d": {
+            "box": {
+                "left": 0.10678017139434814,
+                "top": 0.6185762882232666,
+                "right": 0.8504562973976135,
+                "bottom": 0.9382997751235962
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "4e891b51-eef1-4469-a124-df02ce6a5c2e": {
+            "box": {
+                "left": 0.08067971467971802,
+                "top": 0.9719973802566528,
+                "right": 0.9188753366470337,
+                "bottom": 0.9969186782836914
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "tzgv0228_14.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8986,
+        "credit_usage": 3.0,
+        "job_id": "k65ummjj12mikj54v805vdrey",
+        "version": "dpt-2-20250919"
+    }
+}

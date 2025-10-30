@@ -1,0 +1,353 @@
+{
+    "markdown": "<a id='530e1f34-1a12-4c46-b5d2-09574a8e3363'></a>\n\n<::logo: United States Environmental Protection Agency\nUNITED STATES ENVIRONMENTAL PROTECTION AGENCY\nThe logo features a stylized flower or plant with a circular top, enclosed within a circular border of text.::>\n\n<a id='7b9df7c0-5cbb-453b-8cf4-1370fa2ad32f'></a>\n\nUNITED STATES ENVIRONMENTAL PROTECTION AGENCY\nWASHINGTON, DC 20460\n\n<a id='75970a1e-4f14-45a3-9c32-4313a256ad83'></a>\n\nMay 30, 2017\n\n<a id='acc4a433-beea-4e6b-b341-34780bbd76f3'></a>\n\n**<u>MEMORANDUM</u>**\n\n<a id='5c22a359-322c-44ce-906b-a7c737528b68'></a>\n\nSUBJECT: Concur with Comment\nExpedited Final Agency Review ... Final Rule: Procedures for Chemical Risk Evaluation\nUnder the Amended Toxic Substances (Tier 2; SAN 5947; RIN 2070-AK20)\n\n<a id='ec5d760d-a108-4a1b-a1d3-54bf60194d87'></a>\n\nFROM: Michael Shapiro\nActing Assistant Administrator, Office of Water\n\n<a id='13ada1bd-4cb5-4b94-b875-1edfaefcc37a'></a>\n\nTO: Wendy Cleland-Hamnett\nActing Assistant Administrator, Office of Chemical Safety and Pollution Prevention\n\n<a id='376eb9c9-6ba4-4ff6-875f-d51b662564df'></a>\n\nThe Office of Water (OW) concurs with comments on the above referenced Risk Evaluation rule, in which EPA describes a process to conduct risk evaluations on High Priority chemicals and on chemicals whose evaluation is requested by manufacturers.\n\n<a id='b29e626e-d5e3-4103-a4d4-3d5e586cc29d'></a>\n\nUnderstanding the Administrator's direction to meet the tight deadline to promulgate a final rule by June 22, 2017, OW has conducted an expedited 2-day review of the rule and preamble. If there is any extension of time provided as a result of OMB's review process or if the rule is changed after FAR, the OW requests that OCSPP reengage the workgroup.\n\n<a id='21b0dd80-a5ff-4f78-876b-33f6443f60fe'></a>\n\nThe OW understands that changes have been made to the final prioritization rule (in a separate rulemaking) and the risk evaluation rule that result in prioritization and risk evaluation for one or more \"conditions of use\" of a chemical, as determined by the Administrator, rather than for a chemical substance in its entirety for all conditions of use. OW recommends that OCSPP remove references in the Risk Evaluation rule to evaluating single conditions of use or subsets of conditions of use and instead adopt a chemical substance-based approach. If only a portion of conditions of use of a chemical are included in the scope, it is not clear how a risk-based prioritization approach will be conducted and how aggregate risk (under all conditions of use) to human health or the environment will be assessed. OW's concern is whether a chemical may occur in drinking water or ambient water above a level of concern for human health or the environment regardless of the condition(s) of use that led to its occurrence.\n\n<a id='ea420509-ba88-40d9-9d9d-e105108fe510'></a>\n\nOf particular concern is the revised preamble language in the section *Exclusions from the Definition of*\n*Conditions of Use*. Under this new paradigm, \"legacy uses,\" \"associated disposal (e.g., the future\ndisposal of insulation that contains a chemical substance that is no longer manufactured, processed, or\ndistributed for use in insulation),\" and \"legacy disposal (e.g., a chemical substance currently in a landfill\nor in groundwater plumes)\" may be excluded from conditions of use. These important chemical\n\n<a id='78a0f469-c67b-46ad-8345-4e69fe05d9bf'></a>\n\nI\n\n<a id='dcbc6015-f567-4aab-b303-8180a0f891d0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/shcn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='530e1f34-1a12-4c46-b5d2-09574a8e3363'></a>\n\n<::logo: United States Environmental Protection Agency\nUNITED STATES ENVIRONMENTAL PROTECTION AGENCY\nThe logo features a stylized flower or plant with a circular top, enclosed within a circular border of text.::>",
+            "type": "logo",
+            "id": "530e1f34-1a12-4c46-b5d2-09574a8e3363",
+            "grounding": {
+                "box": {
+                    "left": 0.09458000957965851,
+                    "top": 0.05475738272070885,
+                    "right": 0.1996477097272873,
+                    "bottom": 0.1344270408153534
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7b9df7c0-5cbb-453b-8cf4-1370fa2ad32f'></a>\n\nUNITED STATES ENVIRONMENTAL PROTECTION AGENCY\nWASHINGTON, DC 20460",
+            "type": "text",
+            "id": "7b9df7c0-5cbb-453b-8cf4-1370fa2ad32f",
+            "grounding": {
+                "box": {
+                    "left": 0.27548128366470337,
+                    "top": 0.06666183471679688,
+                    "right": 0.7537248730659485,
+                    "bottom": 0.1076408177614212
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='75970a1e-4f14-45a3-9c32-4313a256ad83'></a>\n\nMay 30, 2017",
+            "type": "text",
+            "id": "75970a1e-4f14-45a3-9c32-4313a256ad83",
+            "grounding": {
+                "box": {
+                    "left": 0.8070175647735596,
+                    "top": 0.16401922702789307,
+                    "right": 0.9305615425109863,
+                    "bottom": 0.18847331404685974
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='acc4a433-beea-4e6b-b341-34780bbd76f3'></a>\n\n**<u>MEMORANDUM</u>**",
+            "type": "text",
+            "id": "acc4a433-beea-4e6b-b341-34780bbd76f3",
+            "grounding": {
+                "box": {
+                    "left": 0.08855785429477692,
+                    "top": 0.2032943069934845,
+                    "right": 0.26292991638183594,
+                    "bottom": 0.23150193691253662
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5c22a359-322c-44ce-906b-a7c737528b68'></a>\n\nSUBJECT: Concur with Comment\nExpedited Final Agency Review ... Final Rule: Procedures for Chemical Risk Evaluation\nUnder the Amended Toxic Substances (Tier 2; SAN 5947; RIN 2070-AK20)",
+            "type": "text",
+            "id": "5c22a359-322c-44ce-906b-a7c737528b68",
+            "grounding": {
+                "box": {
+                    "left": 0.08875235915184021,
+                    "top": 0.25509506464004517,
+                    "right": 0.9154106378555298,
+                    "bottom": 0.3233393430709839
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ec5d760d-a108-4a1b-a1d3-54bf60194d87'></a>\n\nFROM: Michael Shapiro\nActing Assistant Administrator, Office of Water",
+            "type": "text",
+            "id": "ec5d760d-a108-4a1b-a1d3-54bf60194d87",
+            "grounding": {
+                "box": {
+                    "left": 0.08733779191970825,
+                    "top": 0.32637137174606323,
+                    "right": 0.5998740196228027,
+                    "bottom": 0.3743695020675659
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='13ada1bd-4cb5-4b94-b875-1edfaefcc37a'></a>\n\nTO: Wendy Cleland-Hamnett\nActing Assistant Administrator, Office of Chemical Safety and Pollution Prevention",
+            "type": "text",
+            "id": "13ada1bd-4cb5-4b94-b875-1edfaefcc37a",
+            "grounding": {
+                "box": {
+                    "left": 0.08529219031333923,
+                    "top": 0.3782769739627838,
+                    "right": 0.8821979761123657,
+                    "bottom": 0.42799338698387146
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='376eb9c9-6ba4-4ff6-875f-d51b662564df'></a>\n\nThe Office of Water (OW) concurs with comments on the above referenced Risk Evaluation rule, in which EPA describes a process to conduct risk evaluations on High Priority chemicals and on chemicals whose evaluation is requested by manufacturers.",
+            "type": "text",
+            "id": "376eb9c9-6ba4-4ff6-875f-d51b662564df",
+            "grounding": {
+                "box": {
+                    "left": 0.08372440934181213,
+                    "top": 0.43143218755722046,
+                    "right": 0.9190137386322021,
+                    "bottom": 0.49388599395751953
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b29e626e-d5e3-4103-a4d4-3d5e586cc29d'></a>\n\nUnderstanding the Administrator's direction to meet the tight deadline to promulgate a final rule by June 22, 2017, OW has conducted an expedited 2-day review of the rule and preamble. If there is any extension of time provided as a result of OMB's review process or if the rule is changed after FAR, the OW requests that OCSPP reengage the workgroup.",
+            "type": "text",
+            "id": "b29e626e-d5e3-4103-a4d4-3d5e586cc29d",
+            "grounding": {
+                "box": {
+                    "left": 0.08268612623214722,
+                    "top": 0.5009868741035461,
+                    "right": 0.9207555651664734,
+                    "bottom": 0.583341658115387
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='21b0dd80-a5ff-4f78-876b-33f6443f60fe'></a>\n\nThe OW understands that changes have been made to the final prioritization rule (in a separate rulemaking) and the risk evaluation rule that result in prioritization and risk evaluation for one or more \"conditions of use\" of a chemical, as determined by the Administrator, rather than for a chemical substance in its entirety for all conditions of use. OW recommends that OCSPP remove references in the Risk Evaluation rule to evaluating single conditions of use or subsets of conditions of use and instead adopt a chemical substance-based approach. If only a portion of conditions of use of a chemical are included in the scope, it is not clear how a risk-based prioritization approach will be conducted and how aggregate risk (under all conditions of use) to human health or the environment will be assessed. OW's concern is whether a chemical may occur in drinking water or ambient water above a level of concern for human health or the environment regardless of the condition(s) of use that led to its occurrence.",
+            "type": "text",
+            "id": "21b0dd80-a5ff-4f78-876b-33f6443f60fe",
+            "grounding": {
+                "box": {
+                    "left": 0.07873454689979553,
+                    "top": 0.5881320834159851,
+                    "right": 0.9168009757995605,
+                    "bottom": 0.7760795950889587
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ea420509-ba88-40d9-9d9d-e105108fe510'></a>\n\nOf particular concern is the revised preamble language in the section *Exclusions from the Definition of*\n*Conditions of Use*. Under this new paradigm, \"legacy uses,\" \"associated disposal (e.g., the future\ndisposal of insulation that contains a chemical substance that is no longer manufactured, processed, or\ndistributed for use in insulation),\" and \"legacy disposal (e.g., a chemical substance currently in a landfill\nor in groundwater plumes)\" may be excluded from conditions of use. These important chemical",
+            "type": "text",
+            "id": "ea420509-ba88-40d9-9d9d-e105108fe510",
+            "grounding": {
+                "box": {
+                    "left": 0.07563760876655579,
+                    "top": 0.7786298394203186,
+                    "right": 0.910753607749939,
+                    "bottom": 0.8825439810752869
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='78a0f469-c67b-46ad-8345-4e69fe05d9bf'></a>\n\nI",
+            "type": "marginalia",
+            "id": "78a0f469-c67b-46ad-8345-4e69fe05d9bf",
+            "grounding": {
+                "box": {
+                    "left": 0.4782657027244568,
+                    "top": 0.8820995688438416,
+                    "right": 0.5041849613189697,
+                    "bottom": 0.9004250168800354
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='dcbc6015-f567-4aab-b303-8180a0f891d0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/shcn0226",
+            "type": "marginalia",
+            "id": "dcbc6015-f567-4aab-b303-8180a0f891d0",
+            "grounding": {
+                "box": {
+                    "left": 0.21230652928352356,
+                    "top": 0.9758881330490112,
+                    "right": 0.7878308296203613,
+                    "bottom": 1.0000059604644775
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='530e1f34-1a12-4c46-b5d2-09574a8e3363'></a>\n\n<::logo: United States Environmental Protection Agency\nUNITED STATES ENVIRONMENTAL PROTECTION AGENCY\nThe logo features a stylized flower or plant with a circular top, enclosed within a circular border of text.::>\n\n<a id='7b9df7c0-5cbb-453b-8cf4-1370fa2ad32f'></a>\n\nUNITED STATES ENVIRONMENTAL PROTECTION AGENCY\nWASHINGTON, DC 20460\n\n<a id='75970a1e-4f14-45a3-9c32-4313a256ad83'></a>\n\nMay 30, 2017\n\n<a id='acc4a433-beea-4e6b-b341-34780bbd76f3'></a>\n\n**<u>MEMORANDUM</u>**\n\n<a id='5c22a359-322c-44ce-906b-a7c737528b68'></a>\n\nSUBJECT: Concur with Comment\nExpedited Final Agency Review ... Final Rule: Procedures for Chemical Risk Evaluation\nUnder the Amended Toxic Substances (Tier 2; SAN 5947; RIN 2070-AK20)\n\n<a id='ec5d760d-a108-4a1b-a1d3-54bf60194d87'></a>\n\nFROM: Michael Shapiro\nActing Assistant Administrator, Office of Water\n\n<a id='13ada1bd-4cb5-4b94-b875-1edfaefcc37a'></a>\n\nTO: Wendy Cleland-Hamnett\nActing Assistant Administrator, Office of Chemical Safety and Pollution Prevention\n\n<a id='376eb9c9-6ba4-4ff6-875f-d51b662564df'></a>\n\nThe Office of Water (OW) concurs with comments on the above referenced Risk Evaluation rule, in which EPA describes a process to conduct risk evaluations on High Priority chemicals and on chemicals whose evaluation is requested by manufacturers.\n\n<a id='b29e626e-d5e3-4103-a4d4-3d5e586cc29d'></a>\n\nUnderstanding the Administrator's direction to meet the tight deadline to promulgate a final rule by June 22, 2017, OW has conducted an expedited 2-day review of the rule and preamble. If there is any extension of time provided as a result of OMB's review process or if the rule is changed after FAR, the OW requests that OCSPP reengage the workgroup.\n\n<a id='21b0dd80-a5ff-4f78-876b-33f6443f60fe'></a>\n\nThe OW understands that changes have been made to the final prioritization rule (in a separate rulemaking) and the risk evaluation rule that result in prioritization and risk evaluation for one or more \"conditions of use\" of a chemical, as determined by the Administrator, rather than for a chemical substance in its entirety for all conditions of use. OW recommends that OCSPP remove references in the Risk Evaluation rule to evaluating single conditions of use or subsets of conditions of use and instead adopt a chemical substance-based approach. If only a portion of conditions of use of a chemical are included in the scope, it is not clear how a risk-based prioritization approach will be conducted and how aggregate risk (under all conditions of use) to human health or the environment will be assessed. OW's concern is whether a chemical may occur in drinking water or ambient water above a level of concern for human health or the environment regardless of the condition(s) of use that led to its occurrence.\n\n<a id='ea420509-ba88-40d9-9d9d-e105108fe510'></a>\n\nOf particular concern is the revised preamble language in the section *Exclusions from the Definition of*\n*Conditions of Use*. Under this new paradigm, \"legacy uses,\" \"associated disposal (e.g., the future\ndisposal of insulation that contains a chemical substance that is no longer manufactured, processed, or\ndistributed for use in insulation),\" and \"legacy disposal (e.g., a chemical substance currently in a landfill\nor in groundwater plumes)\" may be excluded from conditions of use. These important chemical\n\n<a id='78a0f469-c67b-46ad-8345-4e69fe05d9bf'></a>\n\nI\n\n<a id='dcbc6015-f567-4aab-b303-8180a0f891d0'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/shcn0226",
+            "chunks": [
+                "530e1f34-1a12-4c46-b5d2-09574a8e3363",
+                "7b9df7c0-5cbb-453b-8cf4-1370fa2ad32f",
+                "75970a1e-4f14-45a3-9c32-4313a256ad83",
+                "acc4a433-beea-4e6b-b341-34780bbd76f3",
+                "5c22a359-322c-44ce-906b-a7c737528b68",
+                "ec5d760d-a108-4a1b-a1d3-54bf60194d87",
+                "13ada1bd-4cb5-4b94-b875-1edfaefcc37a",
+                "376eb9c9-6ba4-4ff6-875f-d51b662564df",
+                "b29e626e-d5e3-4103-a4d4-3d5e586cc29d",
+                "21b0dd80-a5ff-4f78-876b-33f6443f60fe",
+                "ea420509-ba88-40d9-9d9d-e105108fe510",
+                "78a0f469-c67b-46ad-8345-4e69fe05d9bf",
+                "dcbc6015-f567-4aab-b303-8180a0f891d0"
+            ]
+        }
+    ],
+    "grounding": {
+        "530e1f34-1a12-4c46-b5d2-09574a8e3363": {
+            "box": {
+                "left": 0.09458000957965851,
+                "top": 0.05475738272070885,
+                "right": 0.1996477097272873,
+                "bottom": 0.1344270408153534
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "7b9df7c0-5cbb-453b-8cf4-1370fa2ad32f": {
+            "box": {
+                "left": 0.27548128366470337,
+                "top": 0.06666183471679688,
+                "right": 0.7537248730659485,
+                "bottom": 0.1076408177614212
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "75970a1e-4f14-45a3-9c32-4313a256ad83": {
+            "box": {
+                "left": 0.8070175647735596,
+                "top": 0.16401922702789307,
+                "right": 0.9305615425109863,
+                "bottom": 0.18847331404685974
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "acc4a433-beea-4e6b-b341-34780bbd76f3": {
+            "box": {
+                "left": 0.08855785429477692,
+                "top": 0.2032943069934845,
+                "right": 0.26292991638183594,
+                "bottom": 0.23150193691253662
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "5c22a359-322c-44ce-906b-a7c737528b68": {
+            "box": {
+                "left": 0.08875235915184021,
+                "top": 0.25509506464004517,
+                "right": 0.9154106378555298,
+                "bottom": 0.3233393430709839
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ec5d760d-a108-4a1b-a1d3-54bf60194d87": {
+            "box": {
+                "left": 0.08733779191970825,
+                "top": 0.32637137174606323,
+                "right": 0.5998740196228027,
+                "bottom": 0.3743695020675659
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "13ada1bd-4cb5-4b94-b875-1edfaefcc37a": {
+            "box": {
+                "left": 0.08529219031333923,
+                "top": 0.3782769739627838,
+                "right": 0.8821979761123657,
+                "bottom": 0.42799338698387146
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "376eb9c9-6ba4-4ff6-875f-d51b662564df": {
+            "box": {
+                "left": 0.08372440934181213,
+                "top": 0.43143218755722046,
+                "right": 0.9190137386322021,
+                "bottom": 0.49388599395751953
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b29e626e-d5e3-4103-a4d4-3d5e586cc29d": {
+            "box": {
+                "left": 0.08268612623214722,
+                "top": 0.5009868741035461,
+                "right": 0.9207555651664734,
+                "bottom": 0.583341658115387
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "21b0dd80-a5ff-4f78-876b-33f6443f60fe": {
+            "box": {
+                "left": 0.07873454689979553,
+                "top": 0.5881320834159851,
+                "right": 0.9168009757995605,
+                "bottom": 0.7760795950889587
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ea420509-ba88-40d9-9d9d-e105108fe510": {
+            "box": {
+                "left": 0.07563760876655579,
+                "top": 0.7786298394203186,
+                "right": 0.910753607749939,
+                "bottom": 0.8825439810752869
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "78a0f469-c67b-46ad-8345-4e69fe05d9bf": {
+            "box": {
+                "left": 0.4782657027244568,
+                "top": 0.8820995688438416,
+                "right": 0.5041849613189697,
+                "bottom": 0.9004250168800354
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "dcbc6015-f567-4aab-b303-8180a0f891d0": {
+            "box": {
+                "left": 0.21230652928352356,
+                "top": 0.9758881330490112,
+                "right": 0.7878308296203613,
+                "bottom": 1.0000059604644775
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "shcn0226_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5395,
+        "credit_usage": 3.0,
+        "job_id": "r1c83jdjdoz65lnsq1c74lbmf",
+        "version": "dpt-2-20250919"
+    }
+}

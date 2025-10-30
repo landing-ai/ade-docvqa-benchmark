@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='08fb47cb-1ce0-4110-b4d1-ab5aa738463b'></a>\n\nThe British Nutrition Foundation\n\n<a id='a71f7979-a12e-46cc-b2a8-7cea154e6050'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nReadable Text: With the Compliments of\nA handwritten signature above the phrase \"With the Compliments of\", centrally located.::>\n\n<a id='1bc581d7-5876-45f5-b816-2f38afca1785'></a>\n\n15 Belgrave Square,\nLondon SW1X 8PS\nTel: 01-235 4904",
+    "chunks": [
+        {
+            "markdown": "<a id='08fb47cb-1ce0-4110-b4d1-ab5aa738463b'></a>\n\nThe British Nutrition Foundation",
+            "type": "text",
+            "id": "08fb47cb-1ce0-4110-b4d1-ab5aa738463b",
+            "grounding": {
+                "box": {
+                    "left": 0.27321383357048035,
+                    "top": 0.10476702451705933,
+                    "right": 0.7631906270980835,
+                    "bottom": 0.17792585492134094
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a71f7979-a12e-46cc-b2a8-7cea154e6050'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nReadable Text: With the Compliments of\nA handwritten signature above the phrase \"With the Compliments of\", centrally located.::>",
+            "type": "attestation",
+            "id": "a71f7979-a12e-46cc-b2a8-7cea154e6050",
+            "grounding": {
+                "box": {
+                    "left": 0.6803271174430847,
+                    "top": 0.5771323442459106,
+                    "right": 0.9695748686790466,
+                    "bottom": 0.8594622611999512
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1bc581d7-5876-45f5-b816-2f38afca1785'></a>\n\n15 Belgrave Square,\nLondon SW1X 8PS\nTel: 01-235 4904",
+            "type": "text",
+            "id": "1bc581d7-5876-45f5-b816-2f38afca1785",
+            "grounding": {
+                "box": {
+                    "left": 0.08527741581201553,
+                    "top": 0.8184366226196289,
+                    "right": 0.22359788417816162,
+                    "bottom": 0.9362384080886841
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='08fb47cb-1ce0-4110-b4d1-ab5aa738463b'></a>\n\nThe British Nutrition Foundation\n\n<a id='a71f7979-a12e-46cc-b2a8-7cea154e6050'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nReadable Text: With the Compliments of\nA handwritten signature above the phrase \"With the Compliments of\", centrally located.::>\n\n<a id='1bc581d7-5876-45f5-b816-2f38afca1785'></a>\n\n15 Belgrave Square,\nLondon SW1X 8PS\nTel: 01-235 4904",
+            "chunks": [
+                "08fb47cb-1ce0-4110-b4d1-ab5aa738463b",
+                "a71f7979-a12e-46cc-b2a8-7cea154e6050",
+                "1bc581d7-5876-45f5-b816-2f38afca1785"
+            ]
+        }
+    ],
+    "grounding": {
+        "08fb47cb-1ce0-4110-b4d1-ab5aa738463b": {
+            "box": {
+                "left": 0.27321383357048035,
+                "top": 0.10476702451705933,
+                "right": 0.7631906270980835,
+                "bottom": 0.17792585492134094
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a71f7979-a12e-46cc-b2a8-7cea154e6050": {
+            "box": {
+                "left": 0.6803271174430847,
+                "top": 0.5771323442459106,
+                "right": 0.9695748686790466,
+                "bottom": 0.8594622611999512
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "1bc581d7-5876-45f5-b816-2f38afca1785": {
+            "box": {
+                "left": 0.08527741581201553,
+                "top": 0.8184366226196289,
+                "right": 0.22359788417816162,
+                "bottom": 0.9362384080886841
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "hldw0228_2.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 2967,
+        "credit_usage": 3.0,
+        "job_id": "udtmiykf92x4x2sh7j5rr2fsj",
+        "version": "dpt-2-20250919"
+    }
+}

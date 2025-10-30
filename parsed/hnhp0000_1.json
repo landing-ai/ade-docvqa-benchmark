@@ -1,0 +1,378 @@
+{
+    "markdown": "<a id='c94e2d7a-3543-4a07-b2f3-d1c47c0e9082'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name in a prominent, elegant, black script font with an underline extending from the \"s\" in \"Reynolds\" and continuing under \"Tobacco Company\".::>\n\n<a id='83412e9a-400c-4fc7-bd99-560a5696ec66'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\n400 Raritan Center Parkway\nRaritan Center\nEdison, NJ 08837\n908-225-4774 Fax 908-417-9076\nA black handwritten signature is positioned at the top center, above a block of black printed address and contact information.::>\n\n<a id='788aa9b5-379c-45a8-a6d4-263ac7b66324'></a>\n\n**Fax Message**\n\n<a id='4fd04fdb-189b-4022-a95d-dc7565e7b6ad'></a>\n\nTO: MIKE WASHO / 1146\n\nDATE: 6/6/96\n\nSUBJECT: STATE MINIMUM FOR PRIVATE LABEL\n\n<a id='114049dd-cab8-44bc-a476-3febe26ce2ca'></a>\n\nTOTAL PIECES FAXED: 1\n(INCLUDING COVER)\n\n<a id='4fcc1fe3-4942-4fe5-8d1c-ca1d2dd70e38'></a>\n\nDEAR MIKE:\n\nPER LANNY WOLFE -\nFOLLOWING ARE FORMULAS FOR STATE MINIMUMS - PRIVATE LABEL\n\n<a id='84ca38a1-724b-4b54-86d7-56e7a29784a0'></a>\n\nLIST PRICE PER 1,000 CIGARETTES X .98 (IS THE SAME AS DEDUCTING 2%)\n\n<a id='8f5c3c9a-e3e8-4033-acb3-f0beae414941'></a>\n\nADD TAX PER 1,000 CIGARETTES (NJ IS $20 PER 1,000) THAT TOTAL X 1.06\n\n<a id='d64cb876-aea6-4c6c-9fab-496a6626e5e6'></a>\n\nDIVIDED BY 5 = STATE MINIMUM DELIVERED WHOLESALE PRICE.\n\n<a id='c46a0792-27ea-4c5e-ab24-02b7527bd522'></a>\n\nLIST PRICE PER 1,000 CIGARETTES X .98 (IS THE SAME AS DEDUCTING 2%)\n\n<a id='363ca98f-bfef-4717-ba3a-8011e66183fc'></a>\n\nADD TAX PER 1,000 CIGARETTES (NJ IS $20 PER 1,000) THAT TOTAL X 1.06 X 1.08\n\n<a id='b79e846f-7f25-49e1-809e-c1af3aa7b376'></a>\n\nDIVIDED BY 5 = STATE MINIMUM DELIVERED RETAIL PRICE.\n\n<a id='9ca0a320-40b6-48c8-8f53-cbcd2482641b'></a>\n\nFran\nFran Rhode\n\n<a id='d17c08fa-3181-47c6-ae0c-62ef50fff0de'></a>\n\n51840 6996",
+    "chunks": [
+        {
+            "markdown": "<a id='c94e2d7a-3543-4a07-b2f3-d1c47c0e9082'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name in a prominent, elegant, black script font with an underline extending from the \"s\" in \"Reynolds\" and continuing under \"Tobacco Company\".::>",
+            "type": "logo",
+            "id": "c94e2d7a-3543-4a07-b2f3-d1c47c0e9082",
+            "grounding": {
+                "box": {
+                    "left": 0.13296474516391754,
+                    "top": 0.03879706561565399,
+                    "right": 0.4745213985443115,
+                    "bottom": 0.11728736758232117
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='83412e9a-400c-4fc7-bd99-560a5696ec66'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\n400 Raritan Center Parkway\nRaritan Center\nEdison, NJ 08837\n908-225-4774 Fax 908-417-9076\nA black handwritten signature is positioned at the top center, above a block of black printed address and contact information.::>",
+            "type": "attestation",
+            "id": "83412e9a-400c-4fc7-bd99-560a5696ec66",
+            "grounding": {
+                "box": {
+                    "left": 0.5922642946243286,
+                    "top": 0.04688648134469986,
+                    "right": 0.87352454662323,
+                    "bottom": 0.18323493003845215
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='788aa9b5-379c-45a8-a6d4-263ac7b66324'></a>\n\n**Fax Message**",
+            "type": "text",
+            "id": "788aa9b5-379c-45a8-a6d4-263ac7b66324",
+            "grounding": {
+                "box": {
+                    "left": 0.12560638785362244,
+                    "top": 0.22055892646312714,
+                    "right": 0.8739417791366577,
+                    "bottom": 0.2576046288013458
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4fd04fdb-189b-4022-a95d-dc7565e7b6ad'></a>\n\nTO: MIKE WASHO / 1146\n\nDATE: 6/6/96\n\nSUBJECT: STATE MINIMUM FOR PRIVATE LABEL",
+            "type": "text",
+            "id": "4fd04fdb-189b-4022-a95d-dc7565e7b6ad",
+            "grounding": {
+                "box": {
+                    "left": 0.13290397822856903,
+                    "top": 0.2995346784591675,
+                    "right": 0.6250747442245483,
+                    "bottom": 0.39926695823669434
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='114049dd-cab8-44bc-a476-3febe26ce2ca'></a>\n\nTOTAL PIECES FAXED: 1\n(INCLUDING COVER)",
+            "type": "text",
+            "id": "114049dd-cab8-44bc-a476-3febe26ce2ca",
+            "grounding": {
+                "box": {
+                    "left": 0.13327255845069885,
+                    "top": 0.42477431893348694,
+                    "right": 0.3841691315174103,
+                    "bottom": 0.4746265113353729
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4fcc1fe3-4942-4fe5-8d1c-ca1d2dd70e38'></a>\n\nDEAR MIKE:\n\nPER LANNY WOLFE -\nFOLLOWING ARE FORMULAS FOR STATE MINIMUMS - PRIVATE LABEL",
+            "type": "text",
+            "id": "4fcc1fe3-4942-4fe5-8d1c-ca1d2dd70e38",
+            "grounding": {
+                "box": {
+                    "left": 0.13270553946495056,
+                    "top": 0.5044638514518738,
+                    "right": 0.7542463541030884,
+                    "bottom": 0.583982527256012
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='84ca38a1-724b-4b54-86d7-56e7a29784a0'></a>\n\nLIST PRICE PER 1,000 CIGARETTES X .98 (IS THE SAME AS DEDUCTING 2%)",
+            "type": "text",
+            "id": "84ca38a1-724b-4b54-86d7-56e7a29784a0",
+            "grounding": {
+                "box": {
+                    "left": 0.13335120677947998,
+                    "top": 0.6098076105117798,
+                    "right": 0.8341649770736694,
+                    "bottom": 0.63807213306427
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8f5c3c9a-e3e8-4033-acb3-f0beae414941'></a>\n\nADD TAX PER 1,000 CIGARETTES (NJ IS $20 PER 1,000) THAT TOTAL X 1.06",
+            "type": "text",
+            "id": "8f5c3c9a-e3e8-4033-acb3-f0beae414941",
+            "grounding": {
+                "box": {
+                    "left": 0.13419082760810852,
+                    "top": 0.6464810967445374,
+                    "right": 0.8178857564926147,
+                    "bottom": 0.6729864478111267
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d64cb876-aea6-4c6c-9fab-496a6626e5e6'></a>\n\nDIVIDED BY 5 = STATE MINIMUM DELIVERED WHOLESALE PRICE.",
+            "type": "text",
+            "id": "d64cb876-aea6-4c6c-9fab-496a6626e5e6",
+            "grounding": {
+                "box": {
+                    "left": 0.1329585313796997,
+                    "top": 0.6816626191139221,
+                    "right": 0.7215317487716675,
+                    "bottom": 0.7087375521659851
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c46a0792-27ea-4c5e-ab24-02b7527bd522'></a>\n\nLIST PRICE PER 1,000 CIGARETTES X .98 (IS THE SAME AS DEDUCTING 2%)",
+            "type": "text",
+            "id": "c46a0792-27ea-4c5e-ab24-02b7527bd522",
+            "grounding": {
+                "box": {
+                    "left": 0.1335359811782837,
+                    "top": 0.7502316236495972,
+                    "right": 0.8366827368736267,
+                    "bottom": 0.7798157930374146
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='363ca98f-bfef-4717-ba3a-8011e66183fc'></a>\n\nADD TAX PER 1,000 CIGARETTES (NJ IS $20 PER 1,000) THAT TOTAL X 1.06 X 1.08",
+            "type": "text",
+            "id": "363ca98f-bfef-4717-ba3a-8011e66183fc",
+            "grounding": {
+                "box": {
+                    "left": 0.13483232259750366,
+                    "top": 0.7891668081283569,
+                    "right": 0.8743427395820618,
+                    "bottom": 0.816809892654419
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b79e846f-7f25-49e1-809e-c1af3aa7b376'></a>\n\nDIVIDED BY 5 = STATE MINIMUM DELIVERED RETAIL PRICE.",
+            "type": "text",
+            "id": "b79e846f-7f25-49e1-809e-c1af3aa7b376",
+            "grounding": {
+                "box": {
+                    "left": 0.13454174995422363,
+                    "top": 0.824249804019928,
+                    "right": 0.686133861541748,
+                    "bottom": 0.8525510430335999
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9ca0a320-40b6-48c8-8f53-cbcd2482641b'></a>\n\nFran\nFran Rhode",
+            "type": "text",
+            "id": "9ca0a320-40b6-48c8-8f53-cbcd2482641b",
+            "grounding": {
+                "box": {
+                    "left": 0.13338245451450348,
+                    "top": 0.8831536769866943,
+                    "right": 0.2495395988225937,
+                    "bottom": 0.9296774864196777
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d17c08fa-3181-47c6-ae0c-62ef50fff0de'></a>\n\n51840 6996",
+            "type": "marginalia",
+            "id": "d17c08fa-3181-47c6-ae0c-62ef50fff0de",
+            "grounding": {
+                "box": {
+                    "left": 0.900597870349884,
+                    "top": 0.8408151268959045,
+                    "right": 0.9258878827095032,
+                    "bottom": 0.9352408051490784
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c94e2d7a-3543-4a07-b2f3-d1c47c0e9082'></a>\n\n<::logo: R.J. Reynolds Tobacco Company\nR.J. Reynolds\nTobacco Company\nThe logo features the company name in a prominent, elegant, black script font with an underline extending from the \"s\" in \"Reynolds\" and continuing under \"Tobacco Company\".::>\n\n<a id='83412e9a-400c-4fc7-bd99-560a5696ec66'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\n400 Raritan Center Parkway\nRaritan Center\nEdison, NJ 08837\n908-225-4774 Fax 908-417-9076\nA black handwritten signature is positioned at the top center, above a block of black printed address and contact information.::>\n\n<a id='788aa9b5-379c-45a8-a6d4-263ac7b66324'></a>\n\n**Fax Message**\n\n<a id='4fd04fdb-189b-4022-a95d-dc7565e7b6ad'></a>\n\nTO: MIKE WASHO / 1146\n\nDATE: 6/6/96\n\nSUBJECT: STATE MINIMUM FOR PRIVATE LABEL\n\n<a id='114049dd-cab8-44bc-a476-3febe26ce2ca'></a>\n\nTOTAL PIECES FAXED: 1\n(INCLUDING COVER)\n\n<a id='4fcc1fe3-4942-4fe5-8d1c-ca1d2dd70e38'></a>\n\nDEAR MIKE:\n\nPER LANNY WOLFE -\nFOLLOWING ARE FORMULAS FOR STATE MINIMUMS - PRIVATE LABEL\n\n<a id='84ca38a1-724b-4b54-86d7-56e7a29784a0'></a>\n\nLIST PRICE PER 1,000 CIGARETTES X .98 (IS THE SAME AS DEDUCTING 2%)\n\n<a id='8f5c3c9a-e3e8-4033-acb3-f0beae414941'></a>\n\nADD TAX PER 1,000 CIGARETTES (NJ IS $20 PER 1,000) THAT TOTAL X 1.06\n\n<a id='d64cb876-aea6-4c6c-9fab-496a6626e5e6'></a>\n\nDIVIDED BY 5 = STATE MINIMUM DELIVERED WHOLESALE PRICE.\n\n<a id='c46a0792-27ea-4c5e-ab24-02b7527bd522'></a>\n\nLIST PRICE PER 1,000 CIGARETTES X .98 (IS THE SAME AS DEDUCTING 2%)\n\n<a id='363ca98f-bfef-4717-ba3a-8011e66183fc'></a>\n\nADD TAX PER 1,000 CIGARETTES (NJ IS $20 PER 1,000) THAT TOTAL X 1.06 X 1.08\n\n<a id='b79e846f-7f25-49e1-809e-c1af3aa7b376'></a>\n\nDIVIDED BY 5 = STATE MINIMUM DELIVERED RETAIL PRICE.\n\n<a id='9ca0a320-40b6-48c8-8f53-cbcd2482641b'></a>\n\nFran\nFran Rhode\n\n<a id='d17c08fa-3181-47c6-ae0c-62ef50fff0de'></a>\n\n51840 6996",
+            "chunks": [
+                "c94e2d7a-3543-4a07-b2f3-d1c47c0e9082",
+                "83412e9a-400c-4fc7-bd99-560a5696ec66",
+                "788aa9b5-379c-45a8-a6d4-263ac7b66324",
+                "4fd04fdb-189b-4022-a95d-dc7565e7b6ad",
+                "114049dd-cab8-44bc-a476-3febe26ce2ca",
+                "4fcc1fe3-4942-4fe5-8d1c-ca1d2dd70e38",
+                "84ca38a1-724b-4b54-86d7-56e7a29784a0",
+                "8f5c3c9a-e3e8-4033-acb3-f0beae414941",
+                "d64cb876-aea6-4c6c-9fab-496a6626e5e6",
+                "c46a0792-27ea-4c5e-ab24-02b7527bd522",
+                "363ca98f-bfef-4717-ba3a-8011e66183fc",
+                "b79e846f-7f25-49e1-809e-c1af3aa7b376",
+                "9ca0a320-40b6-48c8-8f53-cbcd2482641b",
+                "d17c08fa-3181-47c6-ae0c-62ef50fff0de"
+            ]
+        }
+    ],
+    "grounding": {
+        "c94e2d7a-3543-4a07-b2f3-d1c47c0e9082": {
+            "box": {
+                "left": 0.13296474516391754,
+                "top": 0.03879706561565399,
+                "right": 0.4745213985443115,
+                "bottom": 0.11728736758232117
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "83412e9a-400c-4fc7-bd99-560a5696ec66": {
+            "box": {
+                "left": 0.5922642946243286,
+                "top": 0.04688648134469986,
+                "right": 0.87352454662323,
+                "bottom": 0.18323493003845215
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "788aa9b5-379c-45a8-a6d4-263ac7b66324": {
+            "box": {
+                "left": 0.12560638785362244,
+                "top": 0.22055892646312714,
+                "right": 0.8739417791366577,
+                "bottom": 0.2576046288013458
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4fd04fdb-189b-4022-a95d-dc7565e7b6ad": {
+            "box": {
+                "left": 0.13290397822856903,
+                "top": 0.2995346784591675,
+                "right": 0.6250747442245483,
+                "bottom": 0.39926695823669434
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "114049dd-cab8-44bc-a476-3febe26ce2ca": {
+            "box": {
+                "left": 0.13327255845069885,
+                "top": 0.42477431893348694,
+                "right": 0.3841691315174103,
+                "bottom": 0.4746265113353729
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4fcc1fe3-4942-4fe5-8d1c-ca1d2dd70e38": {
+            "box": {
+                "left": 0.13270553946495056,
+                "top": 0.5044638514518738,
+                "right": 0.7542463541030884,
+                "bottom": 0.583982527256012
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "84ca38a1-724b-4b54-86d7-56e7a29784a0": {
+            "box": {
+                "left": 0.13335120677947998,
+                "top": 0.6098076105117798,
+                "right": 0.8341649770736694,
+                "bottom": 0.63807213306427
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8f5c3c9a-e3e8-4033-acb3-f0beae414941": {
+            "box": {
+                "left": 0.13419082760810852,
+                "top": 0.6464810967445374,
+                "right": 0.8178857564926147,
+                "bottom": 0.6729864478111267
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d64cb876-aea6-4c6c-9fab-496a6626e5e6": {
+            "box": {
+                "left": 0.1329585313796997,
+                "top": 0.6816626191139221,
+                "right": 0.7215317487716675,
+                "bottom": 0.7087375521659851
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c46a0792-27ea-4c5e-ab24-02b7527bd522": {
+            "box": {
+                "left": 0.1335359811782837,
+                "top": 0.7502316236495972,
+                "right": 0.8366827368736267,
+                "bottom": 0.7798157930374146
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "363ca98f-bfef-4717-ba3a-8011e66183fc": {
+            "box": {
+                "left": 0.13483232259750366,
+                "top": 0.7891668081283569,
+                "right": 0.8743427395820618,
+                "bottom": 0.816809892654419
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b79e846f-7f25-49e1-809e-c1af3aa7b376": {
+            "box": {
+                "left": 0.13454174995422363,
+                "top": 0.824249804019928,
+                "right": 0.686133861541748,
+                "bottom": 0.8525510430335999
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9ca0a320-40b6-48c8-8f53-cbcd2482641b": {
+            "box": {
+                "left": 0.13338245451450348,
+                "top": 0.8831536769866943,
+                "right": 0.2495395988225937,
+                "bottom": 0.9296774864196777
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d17c08fa-3181-47c6-ae0c-62ef50fff0de": {
+            "box": {
+                "left": 0.900597870349884,
+                "top": 0.8408151268959045,
+                "right": 0.9258878827095032,
+                "bottom": 0.9352408051490784
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hnhp0000_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7113,
+        "credit_usage": 3.0,
+        "job_id": "ozry1mr7z1cpia9c0iv4zot9m",
+        "version": "dpt-2-20250919"
+    }
+}

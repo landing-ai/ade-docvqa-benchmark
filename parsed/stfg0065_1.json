@@ -1,0 +1,478 @@
+{
+    "markdown": "<a id='48b09d85-d64e-493e-a5d6-12ede56b159f'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nB.J. Reynolds\nMorse Company\nA black handwritten signature with printed text below it, positioned above a horizontal line in the lower-middle section of the image.::>\n\n<a id='fde858a0-dcd1-45a1-b544-ced3c1c4cedd'></a>\n\nDate: 9/18/05\n\nNumber of pages including cover sheet: 3\n\n<a id='205a4565-080d-4f8b-9cc6-db16bee35ddc'></a>\n\nTO:\nMr. Gilbert Tiu\nChampion Glue\n1045 Del Monte Avenue, San\nFrancisco Del Monte\nQuezon City, Philippines\n\nPhone: 632-872172\n\nFax: 632-980150\n\n<a id='e25640f5-478c-472c-8a7d-7cd71d13499d'></a>\n\nFROM: Michele M. LaMachlo\nScientific & Regulatory Affairs\nResearch & Development\nRJ Reynolds Tobacco\nP.O. Box 1487\nWinston-Salem, NC 27102\n\nPhone: 910-741-4085\nFax: 910-741-0815\n\n<a id='a2fe3e71-3ae3-49ba-b95b-a50a5ab4b530'></a>\n\nCC:\n---\n\nREMARKS:\noption Urgent: [x]\noption For your review: [ ]\noption Reply ASAP: [x]\noption Please Comment: [x]\n\n<a id='0f1a6bdd-f7fe-4efb-a6fa-4d956c44b5f1'></a>\n\nTRANSMISSION REPORT\n\n<a id='07d15b82-416a-44fb-be2c-4f66b9b146df'></a>\n\nTHIS DOCUMENT WAS CONFIRMED\n(REDUCED SAMPLE ABOVE - SEE DETAILS BELOW)\n\n<a id='0fa6f4fa-ca2c-42db-980c-3e8391bc8f6e'></a>\n\n** COUNT **\nTOTAL PAGES SCANNED : 3\nTOTAL PAGES CONFIRMED : 3\n\n<a id='9f4fc70c-d8d0-41ee-88e5-3c98af0e6a30'></a>\n\n*** SEND ***\n<table id=\"0-1\">\n<tr><td id=\"0-2\">No.</td><td id=\"0-3\">REMOTE STATION</td><td id=\"0-4\">START TIME</td><td id=\"0-5\">DURATION</td><td id=\"0-6\">#PAGES</td><td id=\"0-7\">MODE</td><td id=\"0-8\">RESULTS</td></tr>\n<tr><td id=\"0-9\">1</td><td id=\"0-a\">632 980150</td><td id=\"0-b\">9-18-95 2:09PM</td><td id=\"0-c\">1'58\"</td><td id=\"0-d\">3/3</td><td id=\"0-e\"></td><td id=\"0-f\">COMPLETED 9600</td></tr>\n</table>\nTOTAL. 0:01'58\" 3\n\n<a id='8e6b9107-9fcd-473a-805f-de77723ffca4'></a>\n\nTOTAL. 0:01'58\" 3\n\nNOTE:\nNo.: OPERATION NUMBER\nPD: POLLED BY REMOTE\nMB: SEND TO MAILBOX\n\n48: 4800BPS SELECTED\nSF: STORE & FORWARD\nPG: POLLING A REMOTE\n\nEC: ERROR CORRECT\nRI: RELAY INITIATE\nMP: MULTI-POLLING\n\nG2: G2 COMMUNICATION\nRS: RELAY STATION\nRM: RECEIVE TO MEMORY\n\n<a id='a90fd3e9-2fd9-4fc3-9631-57da4837506a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/stfg0065\n\n<a id='ec6cd99a-7918-43b5-a2f7-2ae9dce540a7'></a>\n\n52143\n5845",
+    "chunks": [
+        {
+            "markdown": "<a id='48b09d85-d64e-493e-a5d6-12ede56b159f'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nB.J. Reynolds\nMorse Company\nA black handwritten signature with printed text below it, positioned above a horizontal line in the lower-middle section of the image.::>",
+            "type": "attestation",
+            "id": "48b09d85-d64e-493e-a5d6-12ede56b159f",
+            "grounding": {
+                "box": {
+                    "left": 0.10404399037361145,
+                    "top": 0.03867203742265701,
+                    "right": 0.47461286187171936,
+                    "bottom": 0.08881189674139023
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='fde858a0-dcd1-45a1-b544-ced3c1c4cedd'></a>\n\nDate: 9/18/05\n\nNumber of pages including cover sheet: 3",
+            "type": "text",
+            "id": "fde858a0-dcd1-45a1-b544-ced3c1c4cedd",
+            "grounding": {
+                "box": {
+                    "left": 0.5504900813102722,
+                    "top": 0.04768197610974312,
+                    "right": 0.9248576760292053,
+                    "bottom": 0.08861786127090454
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='205a4565-080d-4f8b-9cc6-db16bee35ddc'></a>\n\nTO:\nMr. Gilbert Tiu\nChampion Glue\n1045 Del Monte Avenue, San\nFrancisco Del Monte\nQuezon City, Philippines\n\nPhone: 632-872172\n\nFax: 632-980150",
+            "type": "text",
+            "id": "205a4565-080d-4f8b-9cc6-db16bee35ddc",
+            "grounding": {
+                "box": {
+                    "left": 0.10137484967708588,
+                    "top": 0.09447836875915527,
+                    "right": 0.5266952514648438,
+                    "bottom": 0.19838568568229675
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e25640f5-478c-472c-8a7d-7cd71d13499d'></a>\n\nFROM: Michele M. LaMachlo\nScientific & Regulatory Affairs\nResearch & Development\nRJ Reynolds Tobacco\nP.O. Box 1487\nWinston-Salem, NC 27102\n\nPhone: 910-741-4085\nFax: 910-741-0815",
+            "type": "text",
+            "id": "e25640f5-478c-472c-8a7d-7cd71d13499d",
+            "grounding": {
+                "box": {
+                    "left": 0.5527212619781494,
+                    "top": 0.09265203773975372,
+                    "right": 0.9233701229095459,
+                    "bottom": 0.20874448120594025
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a2fe3e71-3ae3-49ba-b95b-a50a5ab4b530'></a>\n\nCC:\n---\n\nREMARKS:\noption Urgent: [x]\noption For your review: [ ]\noption Reply ASAP: [x]\noption Please Comment: [x]",
+            "type": "text",
+            "id": "a2fe3e71-3ae3-49ba-b95b-a50a5ab4b530",
+            "grounding": {
+                "box": {
+                    "left": 0.10471934080123901,
+                    "top": 0.20487552881240845,
+                    "right": 0.9143292307853699,
+                    "bottom": 0.27978515625
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0f1a6bdd-f7fe-4efb-a6fa-4d956c44b5f1'></a>\n\nTRANSMISSION REPORT",
+            "type": "text",
+            "id": "0f1a6bdd-f7fe-4efb-a6fa-4d956c44b5f1",
+            "grounding": {
+                "box": {
+                    "left": 0.2373078465461731,
+                    "top": 0.5025680661201477,
+                    "right": 0.7822276949882507,
+                    "bottom": 0.5552260279655457
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='07d15b82-416a-44fb-be2c-4f66b9b146df'></a>\n\nTHIS DOCUMENT WAS CONFIRMED\n(REDUCED SAMPLE ABOVE - SEE DETAILS BELOW)",
+            "type": "text",
+            "id": "07d15b82-416a-44fb-be2c-4f66b9b146df",
+            "grounding": {
+                "box": {
+                    "left": 0.10231012105941772,
+                    "top": 0.5861537456512451,
+                    "right": 0.8554332852363586,
+                    "bottom": 0.636417031288147
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0fa6f4fa-ca2c-42db-980c-3e8391bc8f6e'></a>\n\n** COUNT **\nTOTAL PAGES SCANNED : 3\nTOTAL PAGES CONFIRMED : 3",
+            "type": "text",
+            "id": "0fa6f4fa-ca2c-42db-980c-3e8391bc8f6e",
+            "grounding": {
+                "box": {
+                    "left": 0.10244682431221008,
+                    "top": 0.650854766368866,
+                    "right": 0.5825417041778564,
+                    "bottom": 0.7175597548484802
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9f4fc70c-d8d0-41ee-88e5-3c98af0e6a30'></a>\n\n*** SEND ***\n<table id=\"0-1\">\n<tr><td id=\"0-2\">No.</td><td id=\"0-3\">REMOTE STATION</td><td id=\"0-4\">START TIME</td><td id=\"0-5\">DURATION</td><td id=\"0-6\">#PAGES</td><td id=\"0-7\">MODE</td><td id=\"0-8\">RESULTS</td></tr>\n<tr><td id=\"0-9\">1</td><td id=\"0-a\">632 980150</td><td id=\"0-b\">9-18-95 2:09PM</td><td id=\"0-c\">1'58\"</td><td id=\"0-d\">3/3</td><td id=\"0-e\"></td><td id=\"0-f\">COMPLETED 9600</td></tr>\n</table>\nTOTAL. 0:01'58\" 3",
+            "type": "table",
+            "id": "9f4fc70c-d8d0-41ee-88e5-3c98af0e6a30",
+            "grounding": {
+                "box": {
+                    "left": 0.1082245409488678,
+                    "top": 0.7312940359115601,
+                    "right": 0.9522465467453003,
+                    "bottom": 0.8189666271209717
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8e6b9107-9fcd-473a-805f-de77723ffca4'></a>\n\nTOTAL. 0:01'58\" 3\n\nNOTE:\nNo.: OPERATION NUMBER\nPD: POLLED BY REMOTE\nMB: SEND TO MAILBOX\n\n48: 4800BPS SELECTED\nSF: STORE & FORWARD\nPG: POLLING A REMOTE\n\nEC: ERROR CORRECT\nRI: RELAY INITIATE\nMP: MULTI-POLLING\n\nG2: G2 COMMUNICATION\nRS: RELAY STATION\nRM: RECEIVE TO MEMORY",
+            "type": "text",
+            "id": "8e6b9107-9fcd-473a-805f-de77723ffca4",
+            "grounding": {
+                "box": {
+                    "left": 0.1122591495513916,
+                    "top": 0.8123617768287659,
+                    "right": 0.9161138534545898,
+                    "bottom": 0.865582287311554
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a90fd3e9-2fd9-4fc3-9631-57da4837506a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/stfg0065",
+            "type": "text",
+            "id": "a90fd3e9-2fd9-4fc3-9631-57da4837506a",
+            "grounding": {
+                "box": {
+                    "left": 0.21943232417106628,
+                    "top": 0.9776610732078552,
+                    "right": 0.783613920211792,
+                    "bottom": 0.9994631409645081
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ec6cd99a-7918-43b5-a2f7-2ae9dce540a7'></a>\n\n52143\n5845",
+            "type": "marginalia",
+            "id": "ec6cd99a-7918-43b5-a2f7-2ae9dce540a7",
+            "grounding": {
+                "box": {
+                    "left": 0.9373058676719666,
+                    "top": 0.8340684175491333,
+                    "right": 0.9616747498512268,
+                    "bottom": 0.9282255172729492
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='48b09d85-d64e-493e-a5d6-12ede56b159f'></a>\n\n<::attestation: Signature\nSigned\nSignature: legible\nB.J. Reynolds\nMorse Company\nA black handwritten signature with printed text below it, positioned above a horizontal line in the lower-middle section of the image.::>\n\n<a id='fde858a0-dcd1-45a1-b544-ced3c1c4cedd'></a>\n\nDate: 9/18/05\n\nNumber of pages including cover sheet: 3\n\n<a id='205a4565-080d-4f8b-9cc6-db16bee35ddc'></a>\n\nTO:\nMr. Gilbert Tiu\nChampion Glue\n1045 Del Monte Avenue, San\nFrancisco Del Monte\nQuezon City, Philippines\n\nPhone: 632-872172\n\nFax: 632-980150\n\n<a id='e25640f5-478c-472c-8a7d-7cd71d13499d'></a>\n\nFROM: Michele M. LaMachlo\nScientific & Regulatory Affairs\nResearch & Development\nRJ Reynolds Tobacco\nP.O. Box 1487\nWinston-Salem, NC 27102\n\nPhone: 910-741-4085\nFax: 910-741-0815\n\n<a id='a2fe3e71-3ae3-49ba-b95b-a50a5ab4b530'></a>\n\nCC:\n---\n\nREMARKS:\noption Urgent: [x]\noption For your review: [ ]\noption Reply ASAP: [x]\noption Please Comment: [x]\n\n<a id='0f1a6bdd-f7fe-4efb-a6fa-4d956c44b5f1'></a>\n\nTRANSMISSION REPORT\n\n<a id='07d15b82-416a-44fb-be2c-4f66b9b146df'></a>\n\nTHIS DOCUMENT WAS CONFIRMED\n(REDUCED SAMPLE ABOVE - SEE DETAILS BELOW)\n\n<a id='0fa6f4fa-ca2c-42db-980c-3e8391bc8f6e'></a>\n\n** COUNT **\nTOTAL PAGES SCANNED : 3\nTOTAL PAGES CONFIRMED : 3\n\n<a id='9f4fc70c-d8d0-41ee-88e5-3c98af0e6a30'></a>\n\n*** SEND ***\n<table id=\"0-1\">\n<tr><td id=\"0-2\">No.</td><td id=\"0-3\">REMOTE STATION</td><td id=\"0-4\">START TIME</td><td id=\"0-5\">DURATION</td><td id=\"0-6\">#PAGES</td><td id=\"0-7\">MODE</td><td id=\"0-8\">RESULTS</td></tr>\n<tr><td id=\"0-9\">1</td><td id=\"0-a\">632 980150</td><td id=\"0-b\">9-18-95 2:09PM</td><td id=\"0-c\">1'58\"</td><td id=\"0-d\">3/3</td><td id=\"0-e\"></td><td id=\"0-f\">COMPLETED 9600</td></tr>\n</table>\nTOTAL. 0:01'58\" 3\n\n<a id='8e6b9107-9fcd-473a-805f-de77723ffca4'></a>\n\nTOTAL. 0:01'58\" 3\n\nNOTE:\nNo.: OPERATION NUMBER\nPD: POLLED BY REMOTE\nMB: SEND TO MAILBOX\n\n48: 4800BPS SELECTED\nSF: STORE & FORWARD\nPG: POLLING A REMOTE\n\nEC: ERROR CORRECT\nRI: RELAY INITIATE\nMP: MULTI-POLLING\n\nG2: G2 COMMUNICATION\nRS: RELAY STATION\nRM: RECEIVE TO MEMORY\n\n<a id='a90fd3e9-2fd9-4fc3-9631-57da4837506a'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/stfg0065\n\n<a id='ec6cd99a-7918-43b5-a2f7-2ae9dce540a7'></a>\n\n52143\n5845",
+            "chunks": [
+                "48b09d85-d64e-493e-a5d6-12ede56b159f",
+                "fde858a0-dcd1-45a1-b544-ced3c1c4cedd",
+                "205a4565-080d-4f8b-9cc6-db16bee35ddc",
+                "e25640f5-478c-472c-8a7d-7cd71d13499d",
+                "a2fe3e71-3ae3-49ba-b95b-a50a5ab4b530",
+                "0f1a6bdd-f7fe-4efb-a6fa-4d956c44b5f1",
+                "07d15b82-416a-44fb-be2c-4f66b9b146df",
+                "0fa6f4fa-ca2c-42db-980c-3e8391bc8f6e",
+                "9f4fc70c-d8d0-41ee-88e5-3c98af0e6a30",
+                "8e6b9107-9fcd-473a-805f-de77723ffca4",
+                "a90fd3e9-2fd9-4fc3-9631-57da4837506a",
+                "ec6cd99a-7918-43b5-a2f7-2ae9dce540a7"
+            ]
+        }
+    ],
+    "grounding": {
+        "48b09d85-d64e-493e-a5d6-12ede56b159f": {
+            "box": {
+                "left": 0.10404399037361145,
+                "top": 0.03867203742265701,
+                "right": 0.47461286187171936,
+                "bottom": 0.08881189674139023
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "fde858a0-dcd1-45a1-b544-ced3c1c4cedd": {
+            "box": {
+                "left": 0.5504900813102722,
+                "top": 0.04768197610974312,
+                "right": 0.9248576760292053,
+                "bottom": 0.08861786127090454
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "205a4565-080d-4f8b-9cc6-db16bee35ddc": {
+            "box": {
+                "left": 0.10137484967708588,
+                "top": 0.09447836875915527,
+                "right": 0.5266952514648438,
+                "bottom": 0.19838568568229675
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e25640f5-478c-472c-8a7d-7cd71d13499d": {
+            "box": {
+                "left": 0.5527212619781494,
+                "top": 0.09265203773975372,
+                "right": 0.9233701229095459,
+                "bottom": 0.20874448120594025
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a2fe3e71-3ae3-49ba-b95b-a50a5ab4b530": {
+            "box": {
+                "left": 0.10471934080123901,
+                "top": 0.20487552881240845,
+                "right": 0.9143292307853699,
+                "bottom": 0.27978515625
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0f1a6bdd-f7fe-4efb-a6fa-4d956c44b5f1": {
+            "box": {
+                "left": 0.2373078465461731,
+                "top": 0.5025680661201477,
+                "right": 0.7822276949882507,
+                "bottom": 0.5552260279655457
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "07d15b82-416a-44fb-be2c-4f66b9b146df": {
+            "box": {
+                "left": 0.10231012105941772,
+                "top": 0.5861537456512451,
+                "right": 0.8554332852363586,
+                "bottom": 0.636417031288147
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0fa6f4fa-ca2c-42db-980c-3e8391bc8f6e": {
+            "box": {
+                "left": 0.10244682431221008,
+                "top": 0.650854766368866,
+                "right": 0.5825417041778564,
+                "bottom": 0.7175597548484802
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9f4fc70c-d8d0-41ee-88e5-3c98af0e6a30": {
+            "box": {
+                "left": 0.1082245409488678,
+                "top": 0.7312940359115601,
+                "right": 0.9522465467453003,
+                "bottom": 0.8189666271209717
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.11509653437385384,
+                "top": 0.7516318594863325,
+                "right": 0.9464801853687526,
+                "bottom": 0.8063353312500112
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.11509653437385384,
+                "top": 0.7516318594863325,
+                "right": 0.15144381488407932,
+                "bottom": 0.7730888620327789
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.15144381488407932,
+                "top": 0.7516318594863325,
+                "right": 0.33917500611651263,
+                "bottom": 0.7730888620327789
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.33917500611651263,
+                "top": 0.7516318594863325,
+                "right": 0.499253463010505,
+                "bottom": 0.7730888620327789
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.499253463010505,
+                "top": 0.7516318594863325,
+                "right": 0.5779665193977088,
+                "bottom": 0.7730888620327789
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.5779665193977088,
+                "top": 0.7516318594863325,
+                "right": 0.6475777429560505,
+                "bottom": 0.7730888620327789
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6475777429560505,
+                "top": 0.7516318594863325,
+                "right": 0.7254444488990259,
+                "bottom": 0.7730888620327789
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7254444488990259,
+                "top": 0.7516318594863325,
+                "right": 0.9470352294708224,
+                "bottom": 0.7730888620327789
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.11509653437385384,
+                "top": 0.7730888620327789,
+                "right": 0.15144381488407932,
+                "bottom": 0.8063353312500112
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.15144381488407932,
+                "top": 0.7730888620327789,
+                "right": 0.33917500611651263,
+                "bottom": 0.8063353312500112
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.33917500611651263,
+                "top": 0.7730888620327789,
+                "right": 0.499253463010505,
+                "bottom": 0.8063353312500112
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.499253463010505,
+                "top": 0.7730888620327789,
+                "right": 0.5779665193977088,
+                "bottom": 0.8063353312500112
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5779665193977088,
+                "top": 0.7730888620327789,
+                "right": 0.6475777429560505,
+                "bottom": 0.8063353312500112
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.6475777429560505,
+                "top": 0.7730888620327789,
+                "right": 0.7254444488990259,
+                "bottom": 0.8063353312500112
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.7254444488990259,
+                "top": 0.7730888620327789,
+                "right": 0.9470352294708224,
+                "bottom": 0.8063353312500112
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "8e6b9107-9fcd-473a-805f-de77723ffca4": {
+            "box": {
+                "left": 0.1122591495513916,
+                "top": 0.8123617768287659,
+                "right": 0.9161138534545898,
+                "bottom": 0.865582287311554
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a90fd3e9-2fd9-4fc3-9631-57da4837506a": {
+            "box": {
+                "left": 0.21943232417106628,
+                "top": 0.9776610732078552,
+                "right": 0.783613920211792,
+                "bottom": 0.9994631409645081
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ec6cd99a-7918-43b5-a2f7-2ae9dce540a7": {
+            "box": {
+                "left": 0.9373058676719666,
+                "top": 0.8340684175491333,
+                "right": 0.9616747498512268,
+                "bottom": 0.9282255172729492
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "stfg0065_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7192,
+        "credit_usage": 3.0,
+        "job_id": "ren2mg64gboclk5c2quvw37em",
+        "version": "dpt-2-20250919"
+    }
+}

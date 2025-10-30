@@ -1,0 +1,328 @@
+{
+    "markdown": "<a id='2a0aea21-2018-4f8f-9067-e8cd26bb390a'></a>\n\n<::scan_code: Barcode-like pattern of vertical lines::>\n\n<a id='b05080f4-58b0-499d-8799-461afbe2a908'></a>\n\nATTN DEPT W48\nNATIONAL SMOKER SERVICES\nPO BOX 834063\nRICHARDSON TX 75083-9775\n\n<a id='0c9b16ef-96df-4ecd-96dd-c22791f38257'></a>\n\n<::logo: Unidentifiable\nNo readable text.\nThe logo consists of several thick, horizontal black lines stacked vertically.::>\n\n<a id='03fca4c0-cc4c-4a4f-8e02-551b72fab6d6'></a>\n\n<::attestation: Postal Indicia\nNO POSTAGE NECESSARY IF MAILED IN THE UNITED STATES\nA rectangular box containing upside-down text, centrally located.::>\n\n<a id='d676ca0b-090b-41d7-8f37-e827fbcbfa28'></a>\n\nFIRST-CLASS MAIL PERMIT NO 359 RICHARDSON TX\nBUSINESS REPLY MAIL\n\n<a id='38b17b86-2674-4174-a504-46e670aca9b8'></a>\n\nIt's the law.\n\n<a id='6642a128-633b-4638-951a-bcb4a60ab570'></a>\n\nSelling or distributing cigarettes to minors is a violation of law. To further ensure that we are in compliance with the law, we are asking you to confirm your age for our records by sending us a copy of official identification. We have provided instructions, along with a postage-paid reply envelope, for your convenience.\n\n<a id='3e162456-2bbe-4a7c-99a3-fa09dbb28241'></a>\n\nYour help is greatly appreciated!\n\n<a id='6eb58a43-cd4e-4bda-9fba-0f3531f75e0e'></a>\n\nnuwu:\n\n<::R.J. Reynolds\nWE WORK\nFOR\nSMOKERS\n: figure::>\n\nDrought to you by: America's favorite cigarette brand\n\n<a id='207840f5-7cf8-4b31-a26a-fcc628441ebe'></a>\n\nSURGEON GENERAL'S WARNING: Smoking\nCauses Lung Cancer, Heart Disease,\nEmphysema, And May Complicate Pregnancy.\n\n<a id='6c5abdd9-c897-42de-a527-af53da4dfc7f'></a>\n\nBrought to you by America's favorite cigarette brands.\n\n\u00a9 1996 (4) RJ Reynolds Tobacco Co.\n\n<a id='4881ab05-1e3c-4ca9-8d4f-39fafc84c295'></a>\n\n<::A stylized image of a person's head and shoulders, with the text \"Confirm as one\" overlaid on their face. To the right, a partial view of an identification card (resembling a driver's license) is shown. The ID card has the following visible details:\n- Top right: \"0000000\"\n- \"CLASS C\"\n- \"ENDORSEMENTS NONE\"\n- \"ISSUED 9/27/94\"\n- \"You're 21 or older\" (this text is prominently displayed across the ID card)\n- \"EXPIRATION 9/27/62\"\n- Fields for personal information:\n    - \"SEX\"\n    - \"HAIR\"\n    - \"EYES GRN\"\n    - \"R\"\n    - \"HEIGHT 6 02\"\n    - \"DNR\"\n- \"RESTRICTIONS 0\"\n- \"SIGNATURE John D. Booker\": figure::>\nCopying some forms of official identification is prohibited in some states.\nIf you live in one of these states, please copy one of the other forms of official identification.\nW48",
+    "chunks": [
+        {
+            "markdown": "<a id='2a0aea21-2018-4f8f-9067-e8cd26bb390a'></a>\n\n<::scan_code: Barcode-like pattern of vertical lines::>",
+            "type": "scan_code",
+            "id": "2a0aea21-2018-4f8f-9067-e8cd26bb390a",
+            "grounding": {
+                "box": {
+                    "left": 0.20784373581409454,
+                    "top": 0.012030109763145447,
+                    "right": 0.4321014881134033,
+                    "bottom": 0.034285277128219604
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b05080f4-58b0-499d-8799-461afbe2a908'></a>\n\nATTN DEPT W48\nNATIONAL SMOKER SERVICES\nPO BOX 834063\nRICHARDSON TX 75083-9775",
+            "type": "text",
+            "id": "b05080f4-58b0-499d-8799-461afbe2a908",
+            "grounding": {
+                "box": {
+                    "left": 0.4178503751754761,
+                    "top": 0.06855057924985886,
+                    "right": 0.6766846179962158,
+                    "bottom": 0.1322021186351776
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0c9b16ef-96df-4ecd-96dd-c22791f38257'></a>\n\n<::logo: Unidentifiable\nNo readable text.\nThe logo consists of several thick, horizontal black lines stacked vertically.::>",
+            "type": "logo",
+            "id": "0c9b16ef-96df-4ecd-96dd-c22791f38257",
+            "grounding": {
+                "box": {
+                    "left": 0.10915451496839523,
+                    "top": 0.10062021017074585,
+                    "right": 0.22151783108711243,
+                    "bottom": 0.16350877285003662
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='03fca4c0-cc4c-4a4f-8e02-551b72fab6d6'></a>\n\n<::attestation: Postal Indicia\nNO POSTAGE NECESSARY IF MAILED IN THE UNITED STATES\nA rectangular box containing upside-down text, centrally located.::>",
+            "type": "attestation",
+            "id": "03fca4c0-cc4c-4a4f-8e02-551b72fab6d6",
+            "grounding": {
+                "box": {
+                    "left": 0.10741515457630157,
+                    "top": 0.163111612200737,
+                    "right": 0.22196276485919952,
+                    "bottom": 0.23020584881305695
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d676ca0b-090b-41d7-8f37-e827fbcbfa28'></a>\n\nFIRST-CLASS MAIL PERMIT NO 359 RICHARDSON TX\nBUSINESS REPLY MAIL",
+            "type": "text",
+            "id": "d676ca0b-090b-41d7-8f37-e827fbcbfa28",
+            "grounding": {
+                "box": {
+                    "left": 0.32490015029907227,
+                    "top": 0.15743833780288696,
+                    "right": 0.6970455646514893,
+                    "bottom": 0.21841692924499512
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='38b17b86-2674-4174-a504-46e670aca9b8'></a>\n\nIt's the law.",
+            "type": "text",
+            "id": "38b17b86-2674-4174-a504-46e670aca9b8",
+            "grounding": {
+                "box": {
+                    "left": 0.3726711869239807,
+                    "top": 0.269499272108078,
+                    "right": 0.5158295035362244,
+                    "bottom": 0.2991485893726349
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6642a128-633b-4638-951a-bcb4a60ab570'></a>\n\nSelling or distributing cigarettes to minors is a violation of law. To further ensure that we are in compliance with the law, we are asking you to confirm your age for our records by sending us a copy of official identification. We have provided instructions, along with a postage-paid reply envelope, for your convenience.",
+            "type": "text",
+            "id": "6642a128-633b-4638-951a-bcb4a60ab570",
+            "grounding": {
+                "box": {
+                    "left": 0.09978353977203369,
+                    "top": 0.30009692907333374,
+                    "right": 0.78957599401474,
+                    "bottom": 0.34353649616241455
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='3e162456-2bbe-4a7c-99a3-fa09dbb28241'></a>\n\nYour help is greatly appreciated!",
+            "type": "text",
+            "id": "3e162456-2bbe-4a7c-99a3-fa09dbb28241",
+            "grounding": {
+                "box": {
+                    "left": 0.3396329879760742,
+                    "top": 0.34612393379211426,
+                    "right": 0.550137460231781,
+                    "bottom": 0.36651474237442017
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6eb58a43-cd4e-4bda-9fba-0f3531f75e0e'></a>\n\nnuwu:\n\n<::R.J. Reynolds\nWE WORK\nFOR\nSMOKERS\n: figure::>\n\nDrought to you by: America's favorite cigarette brand",
+            "type": "figure",
+            "id": "6eb58a43-cd4e-4bda-9fba-0f3531f75e0e",
+            "grounding": {
+                "box": {
+                    "left": 0.5102495551109314,
+                    "top": 0.35712870955467224,
+                    "right": 0.7969860434532166,
+                    "bottom": 0.4623470604419708
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='207840f5-7cf8-4b31-a26a-fcc628441ebe'></a>\n\nSURGEON GENERAL'S WARNING: Smoking\nCauses Lung Cancer, Heart Disease,\nEmphysema, And May Complicate Pregnancy.",
+            "type": "text",
+            "id": "207840f5-7cf8-4b31-a26a-fcc628441ebe",
+            "grounding": {
+                "box": {
+                    "left": 0.10068999230861664,
+                    "top": 0.3932099938392639,
+                    "right": 0.488783597946167,
+                    "bottom": 0.4769846796989441
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6c5abdd9-c897-42de-a527-af53da4dfc7f'></a>\n\nBrought to you by America's favorite cigarette brands.\n\n\u00a9 1996 (4) RJ Reynolds Tobacco Co.",
+            "type": "text",
+            "id": "6c5abdd9-c897-42de-a527-af53da4dfc7f",
+            "grounding": {
+                "box": {
+                    "left": 0.5099204182624817,
+                    "top": 0.4556685984134674,
+                    "right": 0.8134801983833313,
+                    "bottom": 0.4863601624965668
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='4881ab05-1e3c-4ca9-8d4f-39fafc84c295'></a>\n\n<::A stylized image of a person's head and shoulders, with the text \"Confirm as one\" overlaid on their face. To the right, a partial view of an identification card (resembling a driver's license) is shown. The ID card has the following visible details:\n- Top right: \"0000000\"\n- \"CLASS C\"\n- \"ENDORSEMENTS NONE\"\n- \"ISSUED 9/27/94\"\n- \"You're 21 or older\" (this text is prominently displayed across the ID card)\n- \"EXPIRATION 9/27/62\"\n- Fields for personal information:\n    - \"SEX\"\n    - \"HAIR\"\n    - \"EYES GRN\"\n    - \"R\"\n    - \"HEIGHT 6 02\"\n    - \"DNR\"\n- \"RESTRICTIONS 0\"\n- \"SIGNATURE John D. Booker\": figure::>\nCopying some forms of official identification is prohibited in some states.\nIf you live in one of these states, please copy one of the other forms of official identification.\nW48",
+            "type": "figure",
+            "id": "4881ab05-1e3c-4ca9-8d4f-39fafc84c295",
+            "grounding": {
+                "box": {
+                    "left": 0.0747910737991333,
+                    "top": 0.729397714138031,
+                    "right": 0.832320511341095,
+                    "bottom": 0.9797371029853821
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='2a0aea21-2018-4f8f-9067-e8cd26bb390a'></a>\n\n<::scan_code: Barcode-like pattern of vertical lines::>\n\n<a id='b05080f4-58b0-499d-8799-461afbe2a908'></a>\n\nATTN DEPT W48\nNATIONAL SMOKER SERVICES\nPO BOX 834063\nRICHARDSON TX 75083-9775\n\n<a id='0c9b16ef-96df-4ecd-96dd-c22791f38257'></a>\n\n<::logo: Unidentifiable\nNo readable text.\nThe logo consists of several thick, horizontal black lines stacked vertically.::>\n\n<a id='03fca4c0-cc4c-4a4f-8e02-551b72fab6d6'></a>\n\n<::attestation: Postal Indicia\nNO POSTAGE NECESSARY IF MAILED IN THE UNITED STATES\nA rectangular box containing upside-down text, centrally located.::>\n\n<a id='d676ca0b-090b-41d7-8f37-e827fbcbfa28'></a>\n\nFIRST-CLASS MAIL PERMIT NO 359 RICHARDSON TX\nBUSINESS REPLY MAIL\n\n<a id='38b17b86-2674-4174-a504-46e670aca9b8'></a>\n\nIt's the law.\n\n<a id='6642a128-633b-4638-951a-bcb4a60ab570'></a>\n\nSelling or distributing cigarettes to minors is a violation of law. To further ensure that we are in compliance with the law, we are asking you to confirm your age for our records by sending us a copy of official identification. We have provided instructions, along with a postage-paid reply envelope, for your convenience.\n\n<a id='3e162456-2bbe-4a7c-99a3-fa09dbb28241'></a>\n\nYour help is greatly appreciated!\n\n<a id='6eb58a43-cd4e-4bda-9fba-0f3531f75e0e'></a>\n\nnuwu:\n\n<::R.J. Reynolds\nWE WORK\nFOR\nSMOKERS\n: figure::>\n\nDrought to you by: America's favorite cigarette brand\n\n<a id='207840f5-7cf8-4b31-a26a-fcc628441ebe'></a>\n\nSURGEON GENERAL'S WARNING: Smoking\nCauses Lung Cancer, Heart Disease,\nEmphysema, And May Complicate Pregnancy.\n\n<a id='6c5abdd9-c897-42de-a527-af53da4dfc7f'></a>\n\nBrought to you by America's favorite cigarette brands.\n\n\u00a9 1996 (4) RJ Reynolds Tobacco Co.\n\n<a id='4881ab05-1e3c-4ca9-8d4f-39fafc84c295'></a>\n\n<::A stylized image of a person's head and shoulders, with the text \"Confirm as one\" overlaid on their face. To the right, a partial view of an identification card (resembling a driver's license) is shown. The ID card has the following visible details:\n- Top right: \"0000000\"\n- \"CLASS C\"\n- \"ENDORSEMENTS NONE\"\n- \"ISSUED 9/27/94\"\n- \"You're 21 or older\" (this text is prominently displayed across the ID card)\n- \"EXPIRATION 9/27/62\"\n- Fields for personal information:\n    - \"SEX\"\n    - \"HAIR\"\n    - \"EYES GRN\"\n    - \"R\"\n    - \"HEIGHT 6 02\"\n    - \"DNR\"\n- \"RESTRICTIONS 0\"\n- \"SIGNATURE John D. Booker\": figure::>\nCopying some forms of official identification is prohibited in some states.\nIf you live in one of these states, please copy one of the other forms of official identification.\nW48",
+            "chunks": [
+                "2a0aea21-2018-4f8f-9067-e8cd26bb390a",
+                "b05080f4-58b0-499d-8799-461afbe2a908",
+                "0c9b16ef-96df-4ecd-96dd-c22791f38257",
+                "03fca4c0-cc4c-4a4f-8e02-551b72fab6d6",
+                "d676ca0b-090b-41d7-8f37-e827fbcbfa28",
+                "38b17b86-2674-4174-a504-46e670aca9b8",
+                "6642a128-633b-4638-951a-bcb4a60ab570",
+                "3e162456-2bbe-4a7c-99a3-fa09dbb28241",
+                "6eb58a43-cd4e-4bda-9fba-0f3531f75e0e",
+                "207840f5-7cf8-4b31-a26a-fcc628441ebe",
+                "6c5abdd9-c897-42de-a527-af53da4dfc7f",
+                "4881ab05-1e3c-4ca9-8d4f-39fafc84c295"
+            ]
+        }
+    ],
+    "grounding": {
+        "2a0aea21-2018-4f8f-9067-e8cd26bb390a": {
+            "box": {
+                "left": 0.20784373581409454,
+                "top": 0.012030109763145447,
+                "right": 0.4321014881134033,
+                "bottom": 0.034285277128219604
+            },
+            "page": 0,
+            "type": "chunkScanCode"
+        },
+        "b05080f4-58b0-499d-8799-461afbe2a908": {
+            "box": {
+                "left": 0.4178503751754761,
+                "top": 0.06855057924985886,
+                "right": 0.6766846179962158,
+                "bottom": 0.1322021186351776
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0c9b16ef-96df-4ecd-96dd-c22791f38257": {
+            "box": {
+                "left": 0.10915451496839523,
+                "top": 0.10062021017074585,
+                "right": 0.22151783108711243,
+                "bottom": 0.16350877285003662
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "03fca4c0-cc4c-4a4f-8e02-551b72fab6d6": {
+            "box": {
+                "left": 0.10741515457630157,
+                "top": 0.163111612200737,
+                "right": 0.22196276485919952,
+                "bottom": 0.23020584881305695
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "d676ca0b-090b-41d7-8f37-e827fbcbfa28": {
+            "box": {
+                "left": 0.32490015029907227,
+                "top": 0.15743833780288696,
+                "right": 0.6970455646514893,
+                "bottom": 0.21841692924499512
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "38b17b86-2674-4174-a504-46e670aca9b8": {
+            "box": {
+                "left": 0.3726711869239807,
+                "top": 0.269499272108078,
+                "right": 0.5158295035362244,
+                "bottom": 0.2991485893726349
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6642a128-633b-4638-951a-bcb4a60ab570": {
+            "box": {
+                "left": 0.09978353977203369,
+                "top": 0.30009692907333374,
+                "right": 0.78957599401474,
+                "bottom": 0.34353649616241455
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "3e162456-2bbe-4a7c-99a3-fa09dbb28241": {
+            "box": {
+                "left": 0.3396329879760742,
+                "top": 0.34612393379211426,
+                "right": 0.550137460231781,
+                "bottom": 0.36651474237442017
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6eb58a43-cd4e-4bda-9fba-0f3531f75e0e": {
+            "box": {
+                "left": 0.5102495551109314,
+                "top": 0.35712870955467224,
+                "right": 0.7969860434532166,
+                "bottom": 0.4623470604419708
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "207840f5-7cf8-4b31-a26a-fcc628441ebe": {
+            "box": {
+                "left": 0.10068999230861664,
+                "top": 0.3932099938392639,
+                "right": 0.488783597946167,
+                "bottom": 0.4769846796989441
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6c5abdd9-c897-42de-a527-af53da4dfc7f": {
+            "box": {
+                "left": 0.5099204182624817,
+                "top": 0.4556685984134674,
+                "right": 0.8134801983833313,
+                "bottom": 0.4863601624965668
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "4881ab05-1e3c-4ca9-8d4f-39fafc84c295": {
+            "box": {
+                "left": 0.0747910737991333,
+                "top": 0.729397714138031,
+                "right": 0.832320511341095,
+                "bottom": 0.9797371029853821
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        }
+    },
+    "metadata": {
+        "filename": "hkyh0078_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 16293,
+        "credit_usage": 3.0,
+        "job_id": "nngy4ntu40jmub6a9sf78f4aw",
+        "version": "dpt-2-20250919"
+    }
+}

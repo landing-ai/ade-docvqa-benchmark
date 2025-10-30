@@ -1,0 +1,328 @@
+{
+    "markdown": "<a id='391ebd31-a34d-4bd0-aed4-b956c8c36a3b'></a>\n\n<::logo: R.J. Reynolds\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a stylized, flowing script font, with \"Tobacco Company\" written below in a smaller, sans-serif font, all in black on a white background.::>\n\n<a id='ae91237c-ae6d-4da7-8017-562883359a67'></a>\n\nG. N. Kuruc, Jr.\nKey Account Manager\n400 Raritan Center\nEdison, NJ 08837\nPhone 908-225-4774\nFax 908-417-9076\n\n<a id='ab94c86c-c322-4b80-a942-6266a383e93e'></a>\n\n<::attestation: Status indicator\nStatus indicators - FAXED\nReadable Text: May 29, 1997\nText indicating a document was faxed, with a date below it.::>\n\n<a id='8ba98ccb-f8e7-4a53-a62a-498284418c30'></a>\n\nMr. Dominick Griffo\nPathmark Stores Inc.\n301 Blair Road\nWoodbridge, NJ 07095\n\n<a id='ebc251e9-b856-4583-9c6e-c8c5adb06e74'></a>\n\nDear Dom:\nAs previously presented, I would like to include WINSTON and DORAL in your July\nElectronic Coupon Program.\n\n<a id='0237cda1-8512-4b4c-8986-ad81d9fc4fc0'></a>\n\nAs part of this Program, a distribution of both Brand's key items to all affected stores would benefit Pathmark in two ways:\n\n<a id='188bc2b5-282f-4142-ad7b-675c7c4e389d'></a>\n\n- Ensure that there are adequate stock levels to meet consumer demand.\n- Assist in increasing the 1st Half Wholesale Partners Program payout. A **WINSTON** distribution would increase RJR's Full Price, and total share numbers. The **DORAL** Distribution would increase RJR's Savings Segment, and total share numbers.\n\n<a id='b3bb7f99-ec6b-4b33-9a4f-9ad876ca6c2e'></a>\n\nPlease keep in mind that a distribution must be made to stores no later than the last week in June to count for 1st Half Wholesale Partners.\n\n<a id='7ced3aae-9b6d-47fe-af71-08dd45b113ad'></a>\n\nIf you will need any assistance with a special order for WINSTON and DORAL Product,\nplease call me.\n\n<a id='e9597e4c-46bd-44ce-99ec-0b78b41ac2e3'></a>\n\n<::attestation: Signature\nsigned\nSignature: legible (Nick)\nSincerely,\nG. N. Kuruc, Jr.\nA handwritten signature \"Nick\" is centered below \"Sincerely,\" and above the typed name \"G. N. Kuruc, Jr.\"::>\n\n<a id='f7088422-0507-4877-a882-db6d7be63ee6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rmpn0000\n\n<a id='ed95c895-cc0d-46bd-a934-32d1340a35f3'></a>\n\n51851 7286",
+    "chunks": [
+        {
+            "markdown": "<a id='391ebd31-a34d-4bd0-aed4-b956c8c36a3b'></a>\n\n<::logo: R.J. Reynolds\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a stylized, flowing script font, with \"Tobacco Company\" written below in a smaller, sans-serif font, all in black on a white background.::>",
+            "type": "logo",
+            "id": "391ebd31-a34d-4bd0-aed4-b956c8c36a3b",
+            "grounding": {
+                "box": {
+                    "left": 0.15942837297916412,
+                    "top": 0.10649587959051132,
+                    "right": 0.48808079957962036,
+                    "bottom": 0.18126431107521057
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ae91237c-ae6d-4da7-8017-562883359a67'></a>\n\nG. N. Kuruc, Jr.\nKey Account Manager\n400 Raritan Center\nEdison, NJ 08837\nPhone 908-225-4774\nFax 908-417-9076",
+            "type": "text",
+            "id": "ae91237c-ae6d-4da7-8017-562883359a67",
+            "grounding": {
+                "box": {
+                    "left": 0.6003801822662354,
+                    "top": 0.16671206057071686,
+                    "right": 0.7621172666549683,
+                    "bottom": 0.2625642418861389
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ab94c86c-c322-4b80-a942-6266a383e93e'></a>\n\n<::attestation: Status indicator\nStatus indicators - FAXED\nReadable Text: May 29, 1997\nText indicating a document was faxed, with a date below it.::>",
+            "type": "attestation",
+            "id": "ab94c86c-c322-4b80-a942-6266a383e93e",
+            "grounding": {
+                "box": {
+                    "left": 0.16038845479488373,
+                    "top": 0.3188689649105072,
+                    "right": 0.2754266560077667,
+                    "bottom": 0.35484012961387634
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ba98ccb-f8e7-4a53-a62a-498284418c30'></a>\n\nMr. Dominick Griffo\nPathmark Stores Inc.\n301 Blair Road\nWoodbridge, NJ 07095",
+            "type": "text",
+            "id": "8ba98ccb-f8e7-4a53-a62a-498284418c30",
+            "grounding": {
+                "box": {
+                    "left": 0.16127365827560425,
+                    "top": 0.403379887342453,
+                    "right": 0.34659481048583984,
+                    "bottom": 0.4765271842479706
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ebc251e9-b856-4583-9c6e-c8c5adb06e74'></a>\n\nDear Dom:\nAs previously presented, I would like to include WINSTON and DORAL in your July\nElectronic Coupon Program.",
+            "type": "text",
+            "id": "ebc251e9-b856-4583-9c6e-c8c5adb06e74",
+            "grounding": {
+                "box": {
+                    "left": 0.16211113333702087,
+                    "top": 0.49029049277305603,
+                    "right": 0.803553581237793,
+                    "bottom": 0.561909556388855
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='0237cda1-8512-4b4c-8986-ad81d9fc4fc0'></a>\n\nAs part of this Program, a distribution of both Brand's key items to all affected stores would benefit Pathmark in two ways:",
+            "type": "text",
+            "id": "0237cda1-8512-4b4c-8986-ad81d9fc4fc0",
+            "grounding": {
+                "box": {
+                    "left": 0.16396105289459229,
+                    "top": 0.5742160081863403,
+                    "right": 0.7961782217025757,
+                    "bottom": 0.614081859588623
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='188bc2b5-282f-4142-ad7b-675c7c4e389d'></a>\n\n- Ensure that there are adequate stock levels to meet consumer demand.\n- Assist in increasing the 1st Half Wholesale Partners Program payout. A **WINSTON** distribution would increase RJR's Full Price, and total share numbers. The **DORAL** Distribution would increase RJR's Savings Segment, and total share numbers.",
+            "type": "text",
+            "id": "188bc2b5-282f-4142-ad7b-675c7c4e389d",
+            "grounding": {
+                "box": {
+                    "left": 0.16304057836532593,
+                    "top": 0.6264514923095703,
+                    "right": 0.8195187449455261,
+                    "bottom": 0.7031623125076294
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b3bb7f99-ec6b-4b33-9a4f-9ad876ca6c2e'></a>\n\nPlease keep in mind that a distribution must be made to stores no later than the last week in June to count for 1st Half Wholesale Partners.",
+            "type": "text",
+            "id": "b3bb7f99-ec6b-4b33-9a4f-9ad876ca6c2e",
+            "grounding": {
+                "box": {
+                    "left": 0.16525211930274963,
+                    "top": 0.7155366539955139,
+                    "right": 0.8219709396362305,
+                    "bottom": 0.7547087073326111
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7ced3aae-9b6d-47fe-af71-08dd45b113ad'></a>\n\nIf you will need any assistance with a special order for WINSTON and DORAL Product,\nplease call me.",
+            "type": "text",
+            "id": "7ced3aae-9b6d-47fe-af71-08dd45b113ad",
+            "grounding": {
+                "box": {
+                    "left": 0.1668226420879364,
+                    "top": 0.76726233959198,
+                    "right": 0.8303266763687134,
+                    "bottom": 0.805752158164978
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e9597e4c-46bd-44ce-99ec-0b78b41ac2e3'></a>\n\n<::attestation: Signature\nsigned\nSignature: legible (Nick)\nSincerely,\nG. N. Kuruc, Jr.\nA handwritten signature \"Nick\" is centered below \"Sincerely,\" and above the typed name \"G. N. Kuruc, Jr.\"::>",
+            "type": "attestation",
+            "id": "e9597e4c-46bd-44ce-99ec-0b78b41ac2e3",
+            "grounding": {
+                "box": {
+                    "left": 0.1646113246679306,
+                    "top": 0.8186360597610474,
+                    "right": 0.29527491331100464,
+                    "bottom": 0.8907028436660767
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f7088422-0507-4877-a882-db6d7be63ee6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rmpn0000",
+            "type": "text",
+            "id": "f7088422-0507-4877-a882-db6d7be63ee6",
+            "grounding": {
+                "box": {
+                    "left": 0.21181967854499817,
+                    "top": 0.9781270623207092,
+                    "right": 0.7891037464141846,
+                    "bottom": 0.9994861483573914
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ed95c895-cc0d-46bd-a934-32d1340a35f3'></a>\n\n51851 7286",
+            "type": "text",
+            "id": "ed95c895-cc0d-46bd-a934-32d1340a35f3",
+            "grounding": {
+                "box": {
+                    "left": 0.8821679949760437,
+                    "top": 0.7914146184921265,
+                    "right": 0.9053725600242615,
+                    "bottom": 0.8850225210189819
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='391ebd31-a34d-4bd0-aed4-b956c8c36a3b'></a>\n\n<::logo: R.J. Reynolds\nR.J. Reynolds\nTobacco Company\nThe logo features the company name \"R.J. Reynolds\" in a stylized, flowing script font, with \"Tobacco Company\" written below in a smaller, sans-serif font, all in black on a white background.::>\n\n<a id='ae91237c-ae6d-4da7-8017-562883359a67'></a>\n\nG. N. Kuruc, Jr.\nKey Account Manager\n400 Raritan Center\nEdison, NJ 08837\nPhone 908-225-4774\nFax 908-417-9076\n\n<a id='ab94c86c-c322-4b80-a942-6266a383e93e'></a>\n\n<::attestation: Status indicator\nStatus indicators - FAXED\nReadable Text: May 29, 1997\nText indicating a document was faxed, with a date below it.::>\n\n<a id='8ba98ccb-f8e7-4a53-a62a-498284418c30'></a>\n\nMr. Dominick Griffo\nPathmark Stores Inc.\n301 Blair Road\nWoodbridge, NJ 07095\n\n<a id='ebc251e9-b856-4583-9c6e-c8c5adb06e74'></a>\n\nDear Dom:\nAs previously presented, I would like to include WINSTON and DORAL in your July\nElectronic Coupon Program.\n\n<a id='0237cda1-8512-4b4c-8986-ad81d9fc4fc0'></a>\n\nAs part of this Program, a distribution of both Brand's key items to all affected stores would benefit Pathmark in two ways:\n\n<a id='188bc2b5-282f-4142-ad7b-675c7c4e389d'></a>\n\n- Ensure that there are adequate stock levels to meet consumer demand.\n- Assist in increasing the 1st Half Wholesale Partners Program payout. A **WINSTON** distribution would increase RJR's Full Price, and total share numbers. The **DORAL** Distribution would increase RJR's Savings Segment, and total share numbers.\n\n<a id='b3bb7f99-ec6b-4b33-9a4f-9ad876ca6c2e'></a>\n\nPlease keep in mind that a distribution must be made to stores no later than the last week in June to count for 1st Half Wholesale Partners.\n\n<a id='7ced3aae-9b6d-47fe-af71-08dd45b113ad'></a>\n\nIf you will need any assistance with a special order for WINSTON and DORAL Product,\nplease call me.\n\n<a id='e9597e4c-46bd-44ce-99ec-0b78b41ac2e3'></a>\n\n<::attestation: Signature\nsigned\nSignature: legible (Nick)\nSincerely,\nG. N. Kuruc, Jr.\nA handwritten signature \"Nick\" is centered below \"Sincerely,\" and above the typed name \"G. N. Kuruc, Jr.\"::>\n\n<a id='f7088422-0507-4877-a882-db6d7be63ee6'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/rmpn0000\n\n<a id='ed95c895-cc0d-46bd-a934-32d1340a35f3'></a>\n\n51851 7286",
+            "chunks": [
+                "391ebd31-a34d-4bd0-aed4-b956c8c36a3b",
+                "ae91237c-ae6d-4da7-8017-562883359a67",
+                "ab94c86c-c322-4b80-a942-6266a383e93e",
+                "8ba98ccb-f8e7-4a53-a62a-498284418c30",
+                "ebc251e9-b856-4583-9c6e-c8c5adb06e74",
+                "0237cda1-8512-4b4c-8986-ad81d9fc4fc0",
+                "188bc2b5-282f-4142-ad7b-675c7c4e389d",
+                "b3bb7f99-ec6b-4b33-9a4f-9ad876ca6c2e",
+                "7ced3aae-9b6d-47fe-af71-08dd45b113ad",
+                "e9597e4c-46bd-44ce-99ec-0b78b41ac2e3",
+                "f7088422-0507-4877-a882-db6d7be63ee6",
+                "ed95c895-cc0d-46bd-a934-32d1340a35f3"
+            ]
+        }
+    ],
+    "grounding": {
+        "391ebd31-a34d-4bd0-aed4-b956c8c36a3b": {
+            "box": {
+                "left": 0.15942837297916412,
+                "top": 0.10649587959051132,
+                "right": 0.48808079957962036,
+                "bottom": 0.18126431107521057
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "ae91237c-ae6d-4da7-8017-562883359a67": {
+            "box": {
+                "left": 0.6003801822662354,
+                "top": 0.16671206057071686,
+                "right": 0.7621172666549683,
+                "bottom": 0.2625642418861389
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ab94c86c-c322-4b80-a942-6266a383e93e": {
+            "box": {
+                "left": 0.16038845479488373,
+                "top": 0.3188689649105072,
+                "right": 0.2754266560077667,
+                "bottom": 0.35484012961387634
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "8ba98ccb-f8e7-4a53-a62a-498284418c30": {
+            "box": {
+                "left": 0.16127365827560425,
+                "top": 0.403379887342453,
+                "right": 0.34659481048583984,
+                "bottom": 0.4765271842479706
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ebc251e9-b856-4583-9c6e-c8c5adb06e74": {
+            "box": {
+                "left": 0.16211113333702087,
+                "top": 0.49029049277305603,
+                "right": 0.803553581237793,
+                "bottom": 0.561909556388855
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "0237cda1-8512-4b4c-8986-ad81d9fc4fc0": {
+            "box": {
+                "left": 0.16396105289459229,
+                "top": 0.5742160081863403,
+                "right": 0.7961782217025757,
+                "bottom": 0.614081859588623
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "188bc2b5-282f-4142-ad7b-675c7c4e389d": {
+            "box": {
+                "left": 0.16304057836532593,
+                "top": 0.6264514923095703,
+                "right": 0.8195187449455261,
+                "bottom": 0.7031623125076294
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b3bb7f99-ec6b-4b33-9a4f-9ad876ca6c2e": {
+            "box": {
+                "left": 0.16525211930274963,
+                "top": 0.7155366539955139,
+                "right": 0.8219709396362305,
+                "bottom": 0.7547087073326111
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7ced3aae-9b6d-47fe-af71-08dd45b113ad": {
+            "box": {
+                "left": 0.1668226420879364,
+                "top": 0.76726233959198,
+                "right": 0.8303266763687134,
+                "bottom": 0.805752158164978
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e9597e4c-46bd-44ce-99ec-0b78b41ac2e3": {
+            "box": {
+                "left": 0.1646113246679306,
+                "top": 0.8186360597610474,
+                "right": 0.29527491331100464,
+                "bottom": 0.8907028436660767
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "f7088422-0507-4877-a882-db6d7be63ee6": {
+            "box": {
+                "left": 0.21181967854499817,
+                "top": 0.9781270623207092,
+                "right": 0.7891037464141846,
+                "bottom": 0.9994861483573914
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "ed95c895-cc0d-46bd-a934-32d1340a35f3": {
+            "box": {
+                "left": 0.8821679949760437,
+                "top": 0.7914146184921265,
+                "right": 0.9053725600242615,
+                "bottom": 0.8850225210189819
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "rmpn0000_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 5078,
+        "credit_usage": 3.0,
+        "job_id": "l58b8epd8t01o1mebwynl2uaa",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,563 @@
+{
+    "markdown": "<a id='c27b5d74-7389-4e09-a2a5-3f6d5ba9cd36'></a>\n\nproceedings are unsubstantiated or indeterminate; scientific and legal discovery has not commenced or is not complete; proceedings are in early stages; matters present legal uncertainties; there are significant facts in dispute; or there are numerous parties involved.\n\n<a id='2a151089-b015-4086-894b-83bcc883a13f'></a>\n\nIn the Company's opinion, based on its examination of these matters, its experience to date and discussions with counsel, the ultimate outcome of legal proceedings, net of liabilities accrued in the Company's balance sheet, is not expected to have a material adverse effect on the Company's financial position. However, the resolution in any reporting period of one or more of these matters, either alone or in the aggregate, may have a material adverse effect on the Company's results of operations and cash flows for that period.\n\n<a id='45f96c90-77bf-4bf5-be6c-dfb7fc8a0f98'></a>\n\nSee Note 21 to the Consolidated Financial Statements for further information regarding legal proceedings.\n\n<a id='a8f600ed-c7d2-45e7-8019-8554aee2a887'></a>\n\nCommon Stock Market Prices\nThe Company's Common Stock is listed on the New York Stock Exchange under the symbol JNJ. As of February 19, 2013, there were 169,820 record holders of Common Stock of the Company. The composite market price ranges for Johnson & Johnson Common Stock during 2012 and 2011 were:\n\n<a id='9252dfb7-ea82-461b-a0f9-3072e4f454fc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">2012</td><td id=\"0-4\" colspan=\"2\">2011</td></tr>\n<tr><td id=\"0-5\"></td><td id=\"0-6\">High</td><td id=\"0-7\">Low</td><td id=\"0-8\">High</td><td id=\"0-9\">Low</td></tr>\n<tr><td id=\"0-a\">First quarter</td><td id=\"0-b\">$ 66.32</td><td id=\"0-c\">64.02</td><td id=\"0-d\">63.54</td><td id=\"0-e\">57.50</td></tr>\n<tr><td id=\"0-f\">Second quarter</td><td id=\"0-g\">67.70</td><td id=\"0-h\">61.71</td><td id=\"0-i\">67.37</td><td id=\"0-j\">59.25</td></tr>\n<tr><td id=\"0-k\">Third quarter</td><td id=\"0-l\">69.75</td><td id=\"0-m\">66.85</td><td id=\"0-n\">68.05</td><td id=\"0-o\">59.08</td></tr>\n<tr><td id=\"0-p\">Fourth quarter</td><td id=\"0-q\">72.74</td><td id=\"0-r\">67.80</td><td id=\"0-s\">66.32</td><td id=\"0-t\">60.83</td></tr>\n<tr><td id=\"0-u\">Year-end close</td><td id=\"0-v\" colspan=\"4\">$69.48                                65.58</td></tr>\n</table>\n\n<a id='d74d8e85-1280-491f-ab21-c765dbe21cfa'></a>\n\nJOHNSON & JOHNSON 2012 ANNUAL REPORT\n\n<a id='f4ab17fd-0d81-45e8-a907-f32e34d679d6'></a>\n\n17\n\n<a id='579e5751-de90-492f-b36f-46bca910353f'></a>\n\nP-08506-00050\n\n<a id='ca0e79d8-c472-47a8-886c-2ed14bb7c398'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gggn0226",
+    "chunks": [
+        {
+            "markdown": "<a id='c27b5d74-7389-4e09-a2a5-3f6d5ba9cd36'></a>\n\nproceedings are unsubstantiated or indeterminate; scientific and legal discovery has not commenced or is not complete; proceedings are in early stages; matters present legal uncertainties; there are significant facts in dispute; or there are numerous parties involved.",
+            "type": "text",
+            "id": "c27b5d74-7389-4e09-a2a5-3f6d5ba9cd36",
+            "grounding": {
+                "box": {
+                    "left": 0.024768918752670288,
+                    "top": 0.045729588717222214,
+                    "right": 0.9716379642486572,
+                    "bottom": 0.0726441890001297
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2a151089-b015-4086-894b-83bcc883a13f'></a>\n\nIn the Company's opinion, based on its examination of these matters, its experience to date and discussions with counsel, the ultimate outcome of legal proceedings, net of liabilities accrued in the Company's balance sheet, is not expected to have a material adverse effect on the Company's financial position. However, the resolution in any reporting period of one or more of these matters, either alone or in the aggregate, may have a material adverse effect on the Company's results of operations and cash flows for that period.",
+            "type": "text",
+            "id": "2a151089-b015-4086-894b-83bcc883a13f",
+            "grounding": {
+                "box": {
+                    "left": 0.02563655376434326,
+                    "top": 0.0716075524687767,
+                    "right": 0.971432626247406,
+                    "bottom": 0.12600284814834595
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='45f96c90-77bf-4bf5-be6c-dfb7fc8a0f98'></a>\n\nSee Note 21 to the Consolidated Financial Statements for further information regarding legal proceedings.",
+            "type": "text",
+            "id": "45f96c90-77bf-4bf5-be6c-dfb7fc8a0f98",
+            "grounding": {
+                "box": {
+                    "left": 0.04892316460609436,
+                    "top": 0.13193537294864655,
+                    "right": 0.6355298757553101,
+                    "bottom": 0.15257762372493744
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='a8f600ed-c7d2-45e7-8019-8554aee2a887'></a>\n\nCommon Stock Market Prices\nThe Company's Common Stock is listed on the New York Stock Exchange under the symbol JNJ. As of February 19, 2013, there were 169,820 record holders of Common Stock of the Company. The composite market price ranges for Johnson & Johnson Common Stock during 2012 and 2011 were:",
+            "type": "text",
+            "id": "a8f600ed-c7d2-45e7-8019-8554aee2a887",
+            "grounding": {
+                "box": {
+                    "left": 0.024736791849136353,
+                    "top": 0.1764935553073883,
+                    "right": 0.9674539566040039,
+                    "bottom": 0.21992847323417664
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='9252dfb7-ea82-461b-a0f9-3072e4f454fc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">2012</td><td id=\"0-4\" colspan=\"2\">2011</td></tr>\n<tr><td id=\"0-5\"></td><td id=\"0-6\">High</td><td id=\"0-7\">Low</td><td id=\"0-8\">High</td><td id=\"0-9\">Low</td></tr>\n<tr><td id=\"0-a\">First quarter</td><td id=\"0-b\">$ 66.32</td><td id=\"0-c\">64.02</td><td id=\"0-d\">63.54</td><td id=\"0-e\">57.50</td></tr>\n<tr><td id=\"0-f\">Second quarter</td><td id=\"0-g\">67.70</td><td id=\"0-h\">61.71</td><td id=\"0-i\">67.37</td><td id=\"0-j\">59.25</td></tr>\n<tr><td id=\"0-k\">Third quarter</td><td id=\"0-l\">69.75</td><td id=\"0-m\">66.85</td><td id=\"0-n\">68.05</td><td id=\"0-o\">59.08</td></tr>\n<tr><td id=\"0-p\">Fourth quarter</td><td id=\"0-q\">72.74</td><td id=\"0-r\">67.80</td><td id=\"0-s\">66.32</td><td id=\"0-t\">60.83</td></tr>\n<tr><td id=\"0-u\">Year-end close</td><td id=\"0-v\" colspan=\"4\">$69.48                                65.58</td></tr>\n</table>",
+            "type": "table",
+            "id": "9252dfb7-ea82-461b-a0f9-3072e4f454fc",
+            "grounding": {
+                "box": {
+                    "left": 0.02512851357460022,
+                    "top": 0.22374239563941956,
+                    "right": 0.9760288000106812,
+                    "bottom": 0.3366786539554596
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d74d8e85-1280-491f-ab21-c765dbe21cfa'></a>\n\nJOHNSON & JOHNSON 2012 ANNUAL REPORT",
+            "type": "text",
+            "id": "d74d8e85-1280-491f-ab21-c765dbe21cfa",
+            "grounding": {
+                "box": {
+                    "left": 0.03544840216636658,
+                    "top": 0.3741353154182434,
+                    "right": 0.3342994451522827,
+                    "bottom": 0.39368534088134766
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='f4ab17fd-0d81-45e8-a907-f32e34d679d6'></a>\n\n17",
+            "type": "marginalia",
+            "id": "f4ab17fd-0d81-45e8-a907-f32e34d679d6",
+            "grounding": {
+                "box": {
+                    "left": 0.952064037322998,
+                    "top": 0.37491902709007263,
+                    "right": 0.9739155769348145,
+                    "bottom": 0.3933194577693939
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='579e5751-de90-492f-b36f-46bca910353f'></a>\n\nP-08506-00050",
+            "type": "marginalia",
+            "id": "579e5751-de90-492f-b36f-46bca910353f",
+            "grounding": {
+                "box": {
+                    "left": 0.8439480066299438,
+                    "top": 0.9655836224555969,
+                    "right": 0.9562678337097168,
+                    "bottom": 0.9818429350852966
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ca0e79d8-c472-47a8-886c-2ed14bb7c398'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gggn0226",
+            "type": "text",
+            "id": "ca0e79d8-c472-47a8-886c-2ed14bb7c398",
+            "grounding": {
+                "box": {
+                    "left": 0.21232947707176208,
+                    "top": 0.977114737033844,
+                    "right": 0.7891266345977783,
+                    "bottom": 0.9998170733451843
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='c27b5d74-7389-4e09-a2a5-3f6d5ba9cd36'></a>\n\nproceedings are unsubstantiated or indeterminate; scientific and legal discovery has not commenced or is not complete; proceedings are in early stages; matters present legal uncertainties; there are significant facts in dispute; or there are numerous parties involved.\n\n<a id='2a151089-b015-4086-894b-83bcc883a13f'></a>\n\nIn the Company's opinion, based on its examination of these matters, its experience to date and discussions with counsel, the ultimate outcome of legal proceedings, net of liabilities accrued in the Company's balance sheet, is not expected to have a material adverse effect on the Company's financial position. However, the resolution in any reporting period of one or more of these matters, either alone or in the aggregate, may have a material adverse effect on the Company's results of operations and cash flows for that period.\n\n<a id='45f96c90-77bf-4bf5-be6c-dfb7fc8a0f98'></a>\n\nSee Note 21 to the Consolidated Financial Statements for further information regarding legal proceedings.\n\n<a id='a8f600ed-c7d2-45e7-8019-8554aee2a887'></a>\n\nCommon Stock Market Prices\nThe Company's Common Stock is listed on the New York Stock Exchange under the symbol JNJ. As of February 19, 2013, there were 169,820 record holders of Common Stock of the Company. The composite market price ranges for Johnson & Johnson Common Stock during 2012 and 2011 were:\n\n<a id='9252dfb7-ea82-461b-a0f9-3072e4f454fc'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\"></td><td id=\"0-3\" colspan=\"2\">2012</td><td id=\"0-4\" colspan=\"2\">2011</td></tr>\n<tr><td id=\"0-5\"></td><td id=\"0-6\">High</td><td id=\"0-7\">Low</td><td id=\"0-8\">High</td><td id=\"0-9\">Low</td></tr>\n<tr><td id=\"0-a\">First quarter</td><td id=\"0-b\">$ 66.32</td><td id=\"0-c\">64.02</td><td id=\"0-d\">63.54</td><td id=\"0-e\">57.50</td></tr>\n<tr><td id=\"0-f\">Second quarter</td><td id=\"0-g\">67.70</td><td id=\"0-h\">61.71</td><td id=\"0-i\">67.37</td><td id=\"0-j\">59.25</td></tr>\n<tr><td id=\"0-k\">Third quarter</td><td id=\"0-l\">69.75</td><td id=\"0-m\">66.85</td><td id=\"0-n\">68.05</td><td id=\"0-o\">59.08</td></tr>\n<tr><td id=\"0-p\">Fourth quarter</td><td id=\"0-q\">72.74</td><td id=\"0-r\">67.80</td><td id=\"0-s\">66.32</td><td id=\"0-t\">60.83</td></tr>\n<tr><td id=\"0-u\">Year-end close</td><td id=\"0-v\" colspan=\"4\">$69.48                                65.58</td></tr>\n</table>\n\n<a id='d74d8e85-1280-491f-ab21-c765dbe21cfa'></a>\n\nJOHNSON & JOHNSON 2012 ANNUAL REPORT\n\n<a id='f4ab17fd-0d81-45e8-a907-f32e34d679d6'></a>\n\n17\n\n<a id='579e5751-de90-492f-b36f-46bca910353f'></a>\n\nP-08506-00050\n\n<a id='ca0e79d8-c472-47a8-886c-2ed14bb7c398'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/gggn0226",
+            "chunks": [
+                "c27b5d74-7389-4e09-a2a5-3f6d5ba9cd36",
+                "2a151089-b015-4086-894b-83bcc883a13f",
+                "45f96c90-77bf-4bf5-be6c-dfb7fc8a0f98",
+                "a8f600ed-c7d2-45e7-8019-8554aee2a887",
+                "9252dfb7-ea82-461b-a0f9-3072e4f454fc",
+                "d74d8e85-1280-491f-ab21-c765dbe21cfa",
+                "f4ab17fd-0d81-45e8-a907-f32e34d679d6",
+                "579e5751-de90-492f-b36f-46bca910353f",
+                "ca0e79d8-c472-47a8-886c-2ed14bb7c398"
+            ]
+        }
+    ],
+    "grounding": {
+        "c27b5d74-7389-4e09-a2a5-3f6d5ba9cd36": {
+            "box": {
+                "left": 0.024768918752670288,
+                "top": 0.045729588717222214,
+                "right": 0.9716379642486572,
+                "bottom": 0.0726441890001297
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2a151089-b015-4086-894b-83bcc883a13f": {
+            "box": {
+                "left": 0.02563655376434326,
+                "top": 0.0716075524687767,
+                "right": 0.971432626247406,
+                "bottom": 0.12600284814834595
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "45f96c90-77bf-4bf5-be6c-dfb7fc8a0f98": {
+            "box": {
+                "left": 0.04892316460609436,
+                "top": 0.13193537294864655,
+                "right": 0.6355298757553101,
+                "bottom": 0.15257762372493744
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "a8f600ed-c7d2-45e7-8019-8554aee2a887": {
+            "box": {
+                "left": 0.024736791849136353,
+                "top": 0.1764935553073883,
+                "right": 0.9674539566040039,
+                "bottom": 0.21992847323417664
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "9252dfb7-ea82-461b-a0f9-3072e4f454fc": {
+            "box": {
+                "left": 0.02512851357460022,
+                "top": 0.22374239563941956,
+                "right": 0.9760288000106812,
+                "bottom": 0.3366786539554596
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.028328719684641818,
+                "top": 0.22499252460573094,
+                "right": 0.9727889679567063,
+                "bottom": 0.33231470690832055
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.028328719684641818,
+                "top": 0.22499252460573094,
+                "right": 0.4531886173280002,
+                "bottom": 0.24118980139577317
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.4531886173280002,
+                "top": 0.22499252460573094,
+                "right": 0.8463315135862839,
+                "bottom": 0.2563910317035365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.7123227827667673,
+                "top": 0.22499252460573094,
+                "right": 0.9727055378320877,
+                "bottom": 0.2563910317035365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.028328719684641818,
+                "top": 0.24118980139577317,
+                "right": 0.4531886173280002,
+                "bottom": 0.2563910317035365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.4531886173280002,
+                "top": 0.24118980139577317,
+                "right": 0.5808688161233277,
+                "bottom": 0.2563910317035365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.5808688161233277,
+                "top": 0.24118980139577317,
+                "right": 0.7123227827667673,
+                "bottom": 0.2563910317035365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.7123227827667673,
+                "top": 0.24118980139577317,
+                "right": 0.8463315135862839,
+                "bottom": 0.2563910317035365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.8463315135862839,
+                "top": 0.24118980139577317,
+                "right": 0.9727055378320877,
+                "bottom": 0.2563910317035365
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.028328719684641818,
+                "top": 0.2563910317035365,
+                "right": 0.4531886173280002,
+                "bottom": 0.27136524636046033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.4531886173280002,
+                "top": 0.2563910317035365,
+                "right": 0.5808688161233277,
+                "bottom": 0.27136524636046033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.5808688161233277,
+                "top": 0.2563910317035365,
+                "right": 0.7123227827667673,
+                "bottom": 0.27136524636046033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.7123227827667673,
+                "top": 0.2563910317035365,
+                "right": 0.8463315135862839,
+                "bottom": 0.27136524636046033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.8463315135862839,
+                "top": 0.2563910317035365,
+                "right": 0.9727055378320877,
+                "bottom": 0.27136524636046033
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.028328719684641818,
+                "top": 0.27136524636046033,
+                "right": 0.4531886173280002,
+                "bottom": 0.2866557855006988
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.4531886173280002,
+                "top": 0.27136524636046033,
+                "right": 0.5808688161233277,
+                "bottom": 0.2866557855006988
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.5808688161233277,
+                "top": 0.27136524636046033,
+                "right": 0.7123227827667673,
+                "bottom": 0.2866557855006988
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.7123227827667673,
+                "top": 0.27136524636046033,
+                "right": 0.8463315135862839,
+                "bottom": 0.2866557855006988
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.8463315135862839,
+                "top": 0.27136524636046033,
+                "right": 0.9727055378320877,
+                "bottom": 0.2866557855006988
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.028328719684641818,
+                "top": 0.2866557855006988,
+                "right": 0.4531886173280002,
+                "bottom": 0.30105176547785106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.4531886173280002,
+                "top": 0.2866557855006988,
+                "right": 0.5808688161233277,
+                "bottom": 0.30105176547785106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5808688161233277,
+                "top": 0.2866557855006988,
+                "right": 0.7123227827667673,
+                "bottom": 0.30105176547785106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.7123227827667673,
+                "top": 0.2866557855006988,
+                "right": 0.8463315135862839,
+                "bottom": 0.30105176547785106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.8463315135862839,
+                "top": 0.2866557855006988,
+                "right": 0.9727055378320877,
+                "bottom": 0.30105176547785106
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.028328719684641818,
+                "top": 0.30105176547785106,
+                "right": 0.4531886173280002,
+                "bottom": 0.316202127329845
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.4531886173280002,
+                "top": 0.30105176547785106,
+                "right": 0.5808688161233277,
+                "bottom": 0.316202127329845
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.5808688161233277,
+                "top": 0.30105176547785106,
+                "right": 0.7123227827667673,
+                "bottom": 0.316202127329845
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.7123227827667673,
+                "top": 0.30105176547785106,
+                "right": 0.8463315135862839,
+                "bottom": 0.316202127329845
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.8463315135862839,
+                "top": 0.30105176547785106,
+                "right": 0.9727055378320877,
+                "bottom": 0.316202127329845
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.028328719684641818,
+                "top": 0.316202127329845,
+                "right": 0.4531886173280002,
+                "bottom": 0.33231470690832055
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.4531886173280002,
+                "top": 0.316202127329845,
+                "right": 0.9727055378320877,
+                "bottom": 0.33231470690832055
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "d74d8e85-1280-491f-ab21-c765dbe21cfa": {
+            "box": {
+                "left": 0.03544840216636658,
+                "top": 0.3741353154182434,
+                "right": 0.3342994451522827,
+                "bottom": 0.39368534088134766
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "f4ab17fd-0d81-45e8-a907-f32e34d679d6": {
+            "box": {
+                "left": 0.952064037322998,
+                "top": 0.37491902709007263,
+                "right": 0.9739155769348145,
+                "bottom": 0.3933194577693939
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "579e5751-de90-492f-b36f-46bca910353f": {
+            "box": {
+                "left": 0.8439480066299438,
+                "top": 0.9655836224555969,
+                "right": 0.9562678337097168,
+                "bottom": 0.9818429350852966
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "ca0e79d8-c472-47a8-886c-2ed14bb7c398": {
+            "box": {
+                "left": 0.21232947707176208,
+                "top": 0.977114737033844,
+                "right": 0.7891266345977783,
+                "bottom": 0.9998170733451843
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "gggn0226_50.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 6158,
+        "credit_usage": 3.0,
+        "job_id": "nti70nvf1edyffq6p7f4j6h24",
+        "version": "dpt-2-20250919"
+    }
+}

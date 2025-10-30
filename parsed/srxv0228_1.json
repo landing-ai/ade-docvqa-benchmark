@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='ee0b5306-0fe0-4fd8-baf5-2bc57f61c99a'></a>\n\n<::logo: The Great Western Sugar Company\nTHE Great Western Sugar COMPANY\nThe logo features a stacked text design with \"Great Western Sugar\" in a large, bold serif font, and \"THE\" and \"COMPANY\" in smaller, simpler serif fonts.::>\n\n<a id='bde83b4f-3902-4a32-b5b1-98bc27fda4f0'></a>\n\n<::logo: Unknown\nA dark circular logo features a white stylized plant or floral motif with a central teardrop shape and radiating leaf-like elements.::>\n\n<a id='6c7207e2-9ae9-46e0-8cc9-f9ef5e183ab4'></a>\n\nAugust 18, 1976\n\n<a id='7e8ce5d9-dcb5-4933-bcbc-ebfdefc6210e'></a>\n\nSerials Department\nGeneral Library\nUniversity of California, Berkeley\nBerkeley, California, USA 94720\n\n<a id='b332cdec-b8d3-4f60-9e0d-9eda84fadc57'></a>\n\nGentlemen:\n\nWe are enclosing copies of Upbeet magazine which were issued\nafter volume two 1975. We have checked our mailing records and made\ncertain that you are on our mailing roster.\n\n<a id='c232fc12-2e5d-444f-bda0-56f6821804e2'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nVery truly yours,\nC. D. Fleet, Jr.\nA handwritten, illegible signature is placed above the typed name \"C. D. Fleet, Jr.\", below the typed phrase \"Very truly yours,\", centered on the page.::>\n\n<a id='d1d99d2a-e749-465d-aaf8-953227d5b53c'></a>\n\nCDF:vc\nEncl.\n\n<a id='d388a9ce-6993-4551-821e-7989779d74ad'></a>\n\nDent Sept 75 March 76\n\n<a id='e9f1f864-2447-48f2-81ae-a55c862173a1'></a>\n\nPOST OFFICE BOX 5308 \u2022 DENVER, COLORADO 80217 \u2022 (303) 893-4600 \u2022 A SUBSIDIARY OF GREAT WESTERN UNITED CORPORATION\n\n<a id='5e48d305-5995-43f3-af44-dd588af70784'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/srxv0228",
+    "chunks": [
+        {
+            "markdown": "<a id='ee0b5306-0fe0-4fd8-baf5-2bc57f61c99a'></a>\n\n<::logo: The Great Western Sugar Company\nTHE Great Western Sugar COMPANY\nThe logo features a stacked text design with \"Great Western Sugar\" in a large, bold serif font, and \"THE\" and \"COMPANY\" in smaller, simpler serif fonts.::>",
+            "type": "logo",
+            "id": "ee0b5306-0fe0-4fd8-baf5-2bc57f61c99a",
+            "grounding": {
+                "box": {
+                    "left": 0.6709660887718201,
+                    "top": 0.015368625521659851,
+                    "right": 0.8064083456993103,
+                    "bottom": 0.12283103168010712
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bde83b4f-3902-4a32-b5b1-98bc27fda4f0'></a>\n\n<::logo: Unknown\nA dark circular logo features a white stylized plant or floral motif with a central teardrop shape and radiating leaf-like elements.::>",
+            "type": "logo",
+            "id": "bde83b4f-3902-4a32-b5b1-98bc27fda4f0",
+            "grounding": {
+                "box": {
+                    "left": 0.8261796236038208,
+                    "top": 0.01233505830168724,
+                    "right": 0.9711620807647705,
+                    "bottom": 0.1254081279039383
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6c7207e2-9ae9-46e0-8cc9-f9ef5e183ab4'></a>\n\nAugust 18, 1976",
+            "type": "text",
+            "id": "6c7207e2-9ae9-46e0-8cc9-f9ef5e183ab4",
+            "grounding": {
+                "box": {
+                    "left": 0.442641019821167,
+                    "top": 0.18938763439655304,
+                    "right": 0.5896726846694946,
+                    "bottom": 0.2128666788339615
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7e8ce5d9-dcb5-4933-bcbc-ebfdefc6210e'></a>\n\nSerials Department\nGeneral Library\nUniversity of California, Berkeley\nBerkeley, California, USA 94720",
+            "type": "text",
+            "id": "7e8ce5d9-dcb5-4933-bcbc-ebfdefc6210e",
+            "grounding": {
+                "box": {
+                    "left": 0.17703397572040558,
+                    "top": 0.29663586616516113,
+                    "right": 0.48131853342056274,
+                    "bottom": 0.36566370725631714
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b332cdec-b8d3-4f60-9e0d-9eda84fadc57'></a>\n\nGentlemen:\n\nWe are enclosing copies of Upbeet magazine which were issued\nafter volume two 1975. We have checked our mailing records and made\ncertain that you are on our mailing roster.",
+            "type": "text",
+            "id": "b332cdec-b8d3-4f60-9e0d-9eda84fadc57",
+            "grounding": {
+                "box": {
+                    "left": 0.17596164345741272,
+                    "top": 0.3749401271343231,
+                    "right": 0.8035389184951782,
+                    "bottom": 0.4576903283596039
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c232fc12-2e5d-444f-bda0-56f6821804e2'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nVery truly yours,\nC. D. Fleet, Jr.\nA handwritten, illegible signature is placed above the typed name \"C. D. Fleet, Jr.\", below the typed phrase \"Very truly yours,\", centered on the page.::>",
+            "type": "attestation",
+            "id": "c232fc12-2e5d-444f-bda0-56f6821804e2",
+            "grounding": {
+                "box": {
+                    "left": 0.49199941754341125,
+                    "top": 0.4678667485713959,
+                    "right": 0.712972104549408,
+                    "bottom": 0.5676006078720093
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d1d99d2a-e749-465d-aaf8-953227d5b53c'></a>\n\nCDF:vc\nEncl.",
+            "type": "text",
+            "id": "d1d99d2a-e749-465d-aaf8-953227d5b53c",
+            "grounding": {
+                "box": {
+                    "left": 0.17498566210269928,
+                    "top": 0.559454619884491,
+                    "right": 0.25596916675567627,
+                    "bottom": 0.6037084460258484
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='d388a9ce-6993-4551-821e-7989779d74ad'></a>\n\nDent Sept 75 March 76",
+            "type": "text",
+            "id": "d388a9ce-6993-4551-821e-7989779d74ad",
+            "grounding": {
+                "box": {
+                    "left": 0.1457141488790512,
+                    "top": 0.6362660527229309,
+                    "right": 0.624769926071167,
+                    "bottom": 0.6958749890327454
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e9f1f864-2447-48f2-81ae-a55c862173a1'></a>\n\nPOST OFFICE BOX 5308 \u2022 DENVER, COLORADO 80217 \u2022 (303) 893-4600 \u2022 A SUBSIDIARY OF GREAT WESTERN UNITED CORPORATION",
+            "type": "marginalia",
+            "id": "e9f1f864-2447-48f2-81ae-a55c862173a1",
+            "grounding": {
+                "box": {
+                    "left": 0.1045084297657013,
+                    "top": 0.9554118514060974,
+                    "right": 0.9004853963851929,
+                    "bottom": 0.9715811610221863
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5e48d305-5995-43f3-af44-dd588af70784'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/srxv0228",
+            "type": "marginalia",
+            "id": "5e48d305-5995-43f3-af44-dd588af70784",
+            "grounding": {
+                "box": {
+                    "left": 0.22077655792236328,
+                    "top": 0.9787214398384094,
+                    "right": 0.7797744274139404,
+                    "bottom": 0.9985864758491516
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='ee0b5306-0fe0-4fd8-baf5-2bc57f61c99a'></a>\n\n<::logo: The Great Western Sugar Company\nTHE Great Western Sugar COMPANY\nThe logo features a stacked text design with \"Great Western Sugar\" in a large, bold serif font, and \"THE\" and \"COMPANY\" in smaller, simpler serif fonts.::>\n\n<a id='bde83b4f-3902-4a32-b5b1-98bc27fda4f0'></a>\n\n<::logo: Unknown\nA dark circular logo features a white stylized plant or floral motif with a central teardrop shape and radiating leaf-like elements.::>\n\n<a id='6c7207e2-9ae9-46e0-8cc9-f9ef5e183ab4'></a>\n\nAugust 18, 1976\n\n<a id='7e8ce5d9-dcb5-4933-bcbc-ebfdefc6210e'></a>\n\nSerials Department\nGeneral Library\nUniversity of California, Berkeley\nBerkeley, California, USA 94720\n\n<a id='b332cdec-b8d3-4f60-9e0d-9eda84fadc57'></a>\n\nGentlemen:\n\nWe are enclosing copies of Upbeet magazine which were issued\nafter volume two 1975. We have checked our mailing records and made\ncertain that you are on our mailing roster.\n\n<a id='c232fc12-2e5d-444f-bda0-56f6821804e2'></a>\n\n<::attestation: Signature\nSigned\nSignature: illegible\nVery truly yours,\nC. D. Fleet, Jr.\nA handwritten, illegible signature is placed above the typed name \"C. D. Fleet, Jr.\", below the typed phrase \"Very truly yours,\", centered on the page.::>\n\n<a id='d1d99d2a-e749-465d-aaf8-953227d5b53c'></a>\n\nCDF:vc\nEncl.\n\n<a id='d388a9ce-6993-4551-821e-7989779d74ad'></a>\n\nDent Sept 75 March 76\n\n<a id='e9f1f864-2447-48f2-81ae-a55c862173a1'></a>\n\nPOST OFFICE BOX 5308 \u2022 DENVER, COLORADO 80217 \u2022 (303) 893-4600 \u2022 A SUBSIDIARY OF GREAT WESTERN UNITED CORPORATION\n\n<a id='5e48d305-5995-43f3-af44-dd588af70784'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/srxv0228",
+            "chunks": [
+                "ee0b5306-0fe0-4fd8-baf5-2bc57f61c99a",
+                "bde83b4f-3902-4a32-b5b1-98bc27fda4f0",
+                "6c7207e2-9ae9-46e0-8cc9-f9ef5e183ab4",
+                "7e8ce5d9-dcb5-4933-bcbc-ebfdefc6210e",
+                "b332cdec-b8d3-4f60-9e0d-9eda84fadc57",
+                "c232fc12-2e5d-444f-bda0-56f6821804e2",
+                "d1d99d2a-e749-465d-aaf8-953227d5b53c",
+                "d388a9ce-6993-4551-821e-7989779d74ad",
+                "e9f1f864-2447-48f2-81ae-a55c862173a1",
+                "5e48d305-5995-43f3-af44-dd588af70784"
+            ]
+        }
+    ],
+    "grounding": {
+        "ee0b5306-0fe0-4fd8-baf5-2bc57f61c99a": {
+            "box": {
+                "left": 0.6709660887718201,
+                "top": 0.015368625521659851,
+                "right": 0.8064083456993103,
+                "bottom": 0.12283103168010712
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "bde83b4f-3902-4a32-b5b1-98bc27fda4f0": {
+            "box": {
+                "left": 0.8261796236038208,
+                "top": 0.01233505830168724,
+                "right": 0.9711620807647705,
+                "bottom": 0.1254081279039383
+            },
+            "page": 0,
+            "type": "chunkLogo"
+        },
+        "6c7207e2-9ae9-46e0-8cc9-f9ef5e183ab4": {
+            "box": {
+                "left": 0.442641019821167,
+                "top": 0.18938763439655304,
+                "right": 0.5896726846694946,
+                "bottom": 0.2128666788339615
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7e8ce5d9-dcb5-4933-bcbc-ebfdefc6210e": {
+            "box": {
+                "left": 0.17703397572040558,
+                "top": 0.29663586616516113,
+                "right": 0.48131853342056274,
+                "bottom": 0.36566370725631714
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "b332cdec-b8d3-4f60-9e0d-9eda84fadc57": {
+            "box": {
+                "left": 0.17596164345741272,
+                "top": 0.3749401271343231,
+                "right": 0.8035389184951782,
+                "bottom": 0.4576903283596039
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "c232fc12-2e5d-444f-bda0-56f6821804e2": {
+            "box": {
+                "left": 0.49199941754341125,
+                "top": 0.4678667485713959,
+                "right": 0.712972104549408,
+                "bottom": 0.5676006078720093
+            },
+            "page": 0,
+            "type": "chunkAttestation"
+        },
+        "d1d99d2a-e749-465d-aaf8-953227d5b53c": {
+            "box": {
+                "left": 0.17498566210269928,
+                "top": 0.559454619884491,
+                "right": 0.25596916675567627,
+                "bottom": 0.6037084460258484
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "d388a9ce-6993-4551-821e-7989779d74ad": {
+            "box": {
+                "left": 0.1457141488790512,
+                "top": 0.6362660527229309,
+                "right": 0.624769926071167,
+                "bottom": 0.6958749890327454
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "e9f1f864-2447-48f2-81ae-a55c862173a1": {
+            "box": {
+                "left": 0.1045084297657013,
+                "top": 0.9554118514060974,
+                "right": 0.9004853963851929,
+                "bottom": 0.9715811610221863
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "5e48d305-5995-43f3-af44-dd588af70784": {
+            "box": {
+                "left": 0.22077655792236328,
+                "top": 0.9787214398384094,
+                "right": 0.7797744274139404,
+                "bottom": 0.9985864758491516
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "srxv0228_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8037,
+        "credit_usage": 3.0,
+        "job_id": "maafmhenapt9h557gvg2zpj5y",
+        "version": "dpt-2-20250919"
+    }
+}

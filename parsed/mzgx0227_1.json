@@ -1,0 +1,658 @@
+{
+    "markdown": "<a id='cf4af1c8-b5d0-4e51-a83f-b65aa20e5051'></a>\n\nVANDERBILT UNIVERSITY\nNASHVILLE, TENNESSEE 37232\n\n<a id='940301ac-35ca-4d30-9102-a11552c13f54'></a>\n\nTELEPHONE (615) 322-7311\n\n<a id='7d485b3a-e1ac-4185-9e58-c5a8b3eb97d3'></a>\n\nDirector of Finance \u2022 Medical Center \u2022 Direct phone 322-6684\n\n<a id='521f3503-4e79-40e5-ac11-e695b102bcb8'></a>\n\nAugust 20, 1974\n\n<a id='343f068b-e629-444d-b247-da0c269fe4e2'></a>\n\n5302-4837\n\n<a id='66c53947-6ca3-4618-8e67-af579d898e0b'></a>\n\nTHE NUTRITION FOUNDATION, INC.\nIMPROVEMENT OF METHODOLOGIES FOR NUTRITIONAL ASSESSMENT\nDR. GEORGE E. NICHOALDS\nJuly 1, 1972 - June 30, 1974\n\n<a id='236c125f-cd03-4ac2-9547-39edfcc5c5dd'></a>\n\nIncome\n___\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Received</td><td id=\"0-3\">$10,000.00</td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">Balance June 30, 1972</td><td id=\"0-6\">2,378.70</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">TOTAL</td><td id=\"0-9\"></td><td id=\"0-a\">$12,378.70</td></tr>\n</table>\n\n<a id='58328bc1-1afe-4db7-9e40-d7f9315ce804'></a>\n\n<table id=\"0-b\">\n<tr><td id=\"0-c\">Expenditures</td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\">Research Assistant</td><td id=\"0-g\">6,885.45</td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">Fringe Benefits</td><td id=\"0-j\">490.06</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">Supplies - Chemicals & Glassware</td><td id=\"0-m\">2,073.71</td><td id=\"0-n\"></td></tr>\n<tr><td id=\"0-o\">Lab Supplies</td><td id=\"0-p\">971.32</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">Misc. Exp.</td><td id=\"0-s\">555.91</td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">Travel</td><td id=\"0-v\">1,209.75</td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">Equipment</td><td id=\"0-y\">192.50</td><td id=\"0-z\"></td></tr>\n<tr><td id=\"0-A\">TOTAL</td><td id=\"0-B\"></td><td id=\"0-C\">$12,378.70</td></tr>\n</table>\n\n<a id='8e31014c-ebdc-4c31-8603-34986a71d5e4'></a>\n\nBalance June 30, 1974 ,00\nc - Dr. George E. Nichoalds\n\n<a id='8978cefa-da1b-43d4-bdc5-1288819b4fa8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mzgx0227",
+    "chunks": [
+        {
+            "markdown": "<a id='cf4af1c8-b5d0-4e51-a83f-b65aa20e5051'></a>\n\nVANDERBILT UNIVERSITY\nNASHVILLE, TENNESSEE 37232",
+            "type": "text",
+            "id": "cf4af1c8-b5d0-4e51-a83f-b65aa20e5051",
+            "grounding": {
+                "box": {
+                    "left": 0.11529664695262909,
+                    "top": 0.06634370237588882,
+                    "right": 0.5156030058860779,
+                    "bottom": 0.15146169066429138
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='940301ac-35ca-4d30-9102-a11552c13f54'></a>\n\nTELEPHONE (615) 322-7311",
+            "type": "text",
+            "id": "940301ac-35ca-4d30-9102-a11552c13f54",
+            "grounding": {
+                "box": {
+                    "left": 0.6937472224235535,
+                    "top": 0.09506749361753464,
+                    "right": 0.9071364998817444,
+                    "bottom": 0.11489083617925644
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='7d485b3a-e1ac-4185-9e58-c5a8b3eb97d3'></a>\n\nDirector of Finance \u2022 Medical Center \u2022 Direct phone 322-6684",
+            "type": "text",
+            "id": "7d485b3a-e1ac-4185-9e58-c5a8b3eb97d3",
+            "grounding": {
+                "box": {
+                    "left": 0.522193193435669,
+                    "top": 0.1259109526872635,
+                    "right": 0.9065462350845337,
+                    "bottom": 0.14589320123195648
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='521f3503-4e79-40e5-ac11-e695b102bcb8'></a>\n\nAugust 20, 1974",
+            "type": "text",
+            "id": "521f3503-4e79-40e5-ac11-e695b102bcb8",
+            "grounding": {
+                "box": {
+                    "left": 0.5180992484092712,
+                    "top": 0.15625786781311035,
+                    "right": 0.6743021607398987,
+                    "bottom": 0.17604997754096985
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='343f068b-e629-444d-b247-da0c269fe4e2'></a>\n\n5302-4837",
+            "type": "text",
+            "id": "343f068b-e629-444d-b247-da0c269fe4e2",
+            "grounding": {
+                "box": {
+                    "left": 0.19249138236045837,
+                    "top": 0.18433213233947754,
+                    "right": 0.2893378734588623,
+                    "bottom": 0.20556095242500305
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='66c53947-6ca3-4618-8e67-af579d898e0b'></a>\n\nTHE NUTRITION FOUNDATION, INC.\nIMPROVEMENT OF METHODOLOGIES FOR NUTRITIONAL ASSESSMENT\nDR. GEORGE E. NICHOALDS\nJuly 1, 1972 - June 30, 1974",
+            "type": "text",
+            "id": "66c53947-6ca3-4618-8e67-af579d898e0b",
+            "grounding": {
+                "box": {
+                    "left": 0.2435530424118042,
+                    "top": 0.24427524209022522,
+                    "right": 0.7790982723236084,
+                    "bottom": 0.310898095369339
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='236c125f-cd03-4ac2-9547-39edfcc5c5dd'></a>\n\nIncome\n___\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Received</td><td id=\"0-3\">$10,000.00</td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">Balance June 30, 1972</td><td id=\"0-6\">2,378.70</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">TOTAL</td><td id=\"0-9\"></td><td id=\"0-a\">$12,378.70</td></tr>\n</table>",
+            "type": "table",
+            "id": "236c125f-cd03-4ac2-9547-39edfcc5c5dd",
+            "grounding": {
+                "box": {
+                    "left": 0.19158539175987244,
+                    "top": 0.3501377999782562,
+                    "right": 0.8367959260940552,
+                    "bottom": 0.4373277723789215
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='58328bc1-1afe-4db7-9e40-d7f9315ce804'></a>\n\n<table id=\"0-b\">\n<tr><td id=\"0-c\">Expenditures</td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\">Research Assistant</td><td id=\"0-g\">6,885.45</td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">Fringe Benefits</td><td id=\"0-j\">490.06</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">Supplies - Chemicals & Glassware</td><td id=\"0-m\">2,073.71</td><td id=\"0-n\"></td></tr>\n<tr><td id=\"0-o\">Lab Supplies</td><td id=\"0-p\">971.32</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">Misc. Exp.</td><td id=\"0-s\">555.91</td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">Travel</td><td id=\"0-v\">1,209.75</td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">Equipment</td><td id=\"0-y\">192.50</td><td id=\"0-z\"></td></tr>\n<tr><td id=\"0-A\">TOTAL</td><td id=\"0-B\"></td><td id=\"0-C\">$12,378.70</td></tr>\n</table>",
+            "type": "table",
+            "id": "58328bc1-1afe-4db7-9e40-d7f9315ce804",
+            "grounding": {
+                "box": {
+                    "left": 0.1933688223361969,
+                    "top": 0.46794381737709045,
+                    "right": 0.836524486541748,
+                    "bottom": 0.7005555629730225
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8e31014c-ebdc-4c31-8603-34986a71d5e4'></a>\n\nBalance June 30, 1974 ,00\nc - Dr. George E. Nichoalds",
+            "type": "text",
+            "id": "8e31014c-ebdc-4c31-8603-34986a71d5e4",
+            "grounding": {
+                "box": {
+                    "left": 0.19434410333633423,
+                    "top": 0.7071999311447144,
+                    "right": 0.8451828360557556,
+                    "bottom": 0.7601816654205322
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8978cefa-da1b-43d4-bdc5-1288819b4fa8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mzgx0227",
+            "type": "marginalia",
+            "id": "8978cefa-da1b-43d4-bdc5-1288819b4fa8",
+            "grounding": {
+                "box": {
+                    "left": 0.21723833680152893,
+                    "top": 0.976902961730957,
+                    "right": 0.783051609992981,
+                    "bottom": 0.9982142448425293
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='cf4af1c8-b5d0-4e51-a83f-b65aa20e5051'></a>\n\nVANDERBILT UNIVERSITY\nNASHVILLE, TENNESSEE 37232\n\n<a id='940301ac-35ca-4d30-9102-a11552c13f54'></a>\n\nTELEPHONE (615) 322-7311\n\n<a id='7d485b3a-e1ac-4185-9e58-c5a8b3eb97d3'></a>\n\nDirector of Finance \u2022 Medical Center \u2022 Direct phone 322-6684\n\n<a id='521f3503-4e79-40e5-ac11-e695b102bcb8'></a>\n\nAugust 20, 1974\n\n<a id='343f068b-e629-444d-b247-da0c269fe4e2'></a>\n\n5302-4837\n\n<a id='66c53947-6ca3-4618-8e67-af579d898e0b'></a>\n\nTHE NUTRITION FOUNDATION, INC.\nIMPROVEMENT OF METHODOLOGIES FOR NUTRITIONAL ASSESSMENT\nDR. GEORGE E. NICHOALDS\nJuly 1, 1972 - June 30, 1974\n\n<a id='236c125f-cd03-4ac2-9547-39edfcc5c5dd'></a>\n\nIncome\n___\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Received</td><td id=\"0-3\">$10,000.00</td><td id=\"0-4\"></td></tr>\n<tr><td id=\"0-5\">Balance June 30, 1972</td><td id=\"0-6\">2,378.70</td><td id=\"0-7\"></td></tr>\n<tr><td id=\"0-8\">TOTAL</td><td id=\"0-9\"></td><td id=\"0-a\">$12,378.70</td></tr>\n</table>\n\n<a id='58328bc1-1afe-4db7-9e40-d7f9315ce804'></a>\n\n<table id=\"0-b\">\n<tr><td id=\"0-c\">Expenditures</td><td id=\"0-d\"></td><td id=\"0-e\"></td></tr>\n<tr><td id=\"0-f\">Research Assistant</td><td id=\"0-g\">6,885.45</td><td id=\"0-h\"></td></tr>\n<tr><td id=\"0-i\">Fringe Benefits</td><td id=\"0-j\">490.06</td><td id=\"0-k\"></td></tr>\n<tr><td id=\"0-l\">Supplies - Chemicals & Glassware</td><td id=\"0-m\">2,073.71</td><td id=\"0-n\"></td></tr>\n<tr><td id=\"0-o\">Lab Supplies</td><td id=\"0-p\">971.32</td><td id=\"0-q\"></td></tr>\n<tr><td id=\"0-r\">Misc. Exp.</td><td id=\"0-s\">555.91</td><td id=\"0-t\"></td></tr>\n<tr><td id=\"0-u\">Travel</td><td id=\"0-v\">1,209.75</td><td id=\"0-w\"></td></tr>\n<tr><td id=\"0-x\">Equipment</td><td id=\"0-y\">192.50</td><td id=\"0-z\"></td></tr>\n<tr><td id=\"0-A\">TOTAL</td><td id=\"0-B\"></td><td id=\"0-C\">$12,378.70</td></tr>\n</table>\n\n<a id='8e31014c-ebdc-4c31-8603-34986a71d5e4'></a>\n\nBalance June 30, 1974 ,00\nc - Dr. George E. Nichoalds\n\n<a id='8978cefa-da1b-43d4-bdc5-1288819b4fa8'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mzgx0227",
+            "chunks": [
+                "cf4af1c8-b5d0-4e51-a83f-b65aa20e5051",
+                "940301ac-35ca-4d30-9102-a11552c13f54",
+                "7d485b3a-e1ac-4185-9e58-c5a8b3eb97d3",
+                "521f3503-4e79-40e5-ac11-e695b102bcb8",
+                "343f068b-e629-444d-b247-da0c269fe4e2",
+                "66c53947-6ca3-4618-8e67-af579d898e0b",
+                "236c125f-cd03-4ac2-9547-39edfcc5c5dd",
+                "58328bc1-1afe-4db7-9e40-d7f9315ce804",
+                "8e31014c-ebdc-4c31-8603-34986a71d5e4",
+                "8978cefa-da1b-43d4-bdc5-1288819b4fa8"
+            ]
+        }
+    ],
+    "grounding": {
+        "cf4af1c8-b5d0-4e51-a83f-b65aa20e5051": {
+            "box": {
+                "left": 0.11529664695262909,
+                "top": 0.06634370237588882,
+                "right": 0.5156030058860779,
+                "bottom": 0.15146169066429138
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "940301ac-35ca-4d30-9102-a11552c13f54": {
+            "box": {
+                "left": 0.6937472224235535,
+                "top": 0.09506749361753464,
+                "right": 0.9071364998817444,
+                "bottom": 0.11489083617925644
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "7d485b3a-e1ac-4185-9e58-c5a8b3eb97d3": {
+            "box": {
+                "left": 0.522193193435669,
+                "top": 0.1259109526872635,
+                "right": 0.9065462350845337,
+                "bottom": 0.14589320123195648
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "521f3503-4e79-40e5-ac11-e695b102bcb8": {
+            "box": {
+                "left": 0.5180992484092712,
+                "top": 0.15625786781311035,
+                "right": 0.6743021607398987,
+                "bottom": 0.17604997754096985
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "343f068b-e629-444d-b247-da0c269fe4e2": {
+            "box": {
+                "left": 0.19249138236045837,
+                "top": 0.18433213233947754,
+                "right": 0.2893378734588623,
+                "bottom": 0.20556095242500305
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "66c53947-6ca3-4618-8e67-af579d898e0b": {
+            "box": {
+                "left": 0.2435530424118042,
+                "top": 0.24427524209022522,
+                "right": 0.7790982723236084,
+                "bottom": 0.310898095369339
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "236c125f-cd03-4ac2-9547-39edfcc5c5dd": {
+            "box": {
+                "left": 0.19158539175987244,
+                "top": 0.3501377999782562,
+                "right": 0.8367959260940552,
+                "bottom": 0.4373277723789215
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.19513809493246526,
+                "top": 0.36766844683795874,
+                "right": 0.8343666014526274,
+                "bottom": 0.42935732807926286
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.19513809493246526,
+                "top": 0.36766844683795874,
+                "right": 0.4872845492391571,
+                "bottom": 0.3967919886346749
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.4872845492391571,
+                "top": 0.36766844683795874,
+                "right": 0.6687576458432698,
+                "bottom": 0.3967919886346749
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.6687576458432698,
+                "top": 0.36766844683795874,
+                "right": 0.83477013646921,
+                "bottom": 0.3967919886346749
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.19513809493246526,
+                "top": 0.3967919886346749,
+                "right": 0.4872845492391571,
+                "bottom": 0.41211842892463935
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.4872845492391571,
+                "top": 0.3967919886346749,
+                "right": 0.6687576458432698,
+                "bottom": 0.41211842892463935
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.6687576458432698,
+                "top": 0.3967919886346749,
+                "right": 0.83477013646921,
+                "bottom": 0.41211842892463935
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.19513809493246526,
+                "top": 0.41211842892463935,
+                "right": 0.4872845492391571,
+                "bottom": 0.42935732807926286
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.4872845492391571,
+                "top": 0.41211842892463935,
+                "right": 0.6687576458432698,
+                "bottom": 0.42935732807926286
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6687576458432698,
+                "top": 0.41211842892463935,
+                "right": 0.83477013646921,
+                "bottom": 0.42935732807926286
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "58328bc1-1afe-4db7-9e40-d7f9315ce804": {
+            "box": {
+                "left": 0.1933688223361969,
+                "top": 0.46794381737709045,
+                "right": 0.836524486541748,
+                "bottom": 0.7005555629730225
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.196691589858078,
+                "top": 0.4696927928621951,
+                "right": 0.8354893247842465,
+                "bottom": 0.7005529564018147
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.196691589858078,
+                "top": 0.4696927928621951,
+                "right": 0.5618042559626542,
+                "bottom": 0.4870842614346187
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.5618042559626542,
+                "top": 0.4696927928621951,
+                "right": 0.6937859041440984,
+                "bottom": 0.4870842614346187
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.6937859041440984,
+                "top": 0.4696927928621951,
+                "right": 0.8355046971452715,
+                "bottom": 0.4870842614346187
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.196691589858078,
+                "top": 0.4870842614346187,
+                "right": 0.5618042559626542,
+                "bottom": 0.5188547180305174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.5618042559626542,
+                "top": 0.4870842614346187,
+                "right": 0.6937859041440984,
+                "bottom": 0.5188547180305174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.6937859041440984,
+                "top": 0.4870842614346187,
+                "right": 0.8355046971452715,
+                "bottom": 0.5188547180305174
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.196691589858078,
+                "top": 0.5188547180305174,
+                "right": 0.5618042559626542,
+                "bottom": 0.5482725326741171
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5618042559626542,
+                "top": 0.5188547180305174,
+                "right": 0.6937859041440984,
+                "bottom": 0.5482725326741171
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.6937859041440984,
+                "top": 0.5188547180305174,
+                "right": 0.8355046971452715,
+                "bottom": 0.5482725326741171
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.196691589858078,
+                "top": 0.5482725326741171,
+                "right": 0.5618042559626542,
+                "bottom": 0.5768012535043558
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.5618042559626542,
+                "top": 0.5482725326741171,
+                "right": 0.6937859041440984,
+                "bottom": 0.5768012535043558
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.6937859041440984,
+                "top": 0.5482725326741171,
+                "right": 0.8355046971452715,
+                "bottom": 0.5768012535043558
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.196691589858078,
+                "top": 0.5768012535043558,
+                "right": 0.5618042559626542,
+                "bottom": 0.5922036838097693
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.5618042559626542,
+                "top": 0.5768012535043558,
+                "right": 0.6937859041440984,
+                "bottom": 0.5922036838097693
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.6937859041440984,
+                "top": 0.5768012535043558,
+                "right": 0.8355046971452715,
+                "bottom": 0.5922036838097693
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.196691589858078,
+                "top": 0.5922036838097693,
+                "right": 0.5618042559626542,
+                "bottom": 0.6086118970504977
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.5618042559626542,
+                "top": 0.5922036838097693,
+                "right": 0.6937859041440984,
+                "bottom": 0.6086118970504977
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.6937859041440984,
+                "top": 0.5922036838097693,
+                "right": 0.8355046971452715,
+                "bottom": 0.6086118970504977
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.196691589858078,
+                "top": 0.6086118970504977,
+                "right": 0.5618042559626542,
+                "bottom": 0.6377408432926561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.5618042559626542,
+                "top": 0.6086118970504977,
+                "right": 0.6937859041440984,
+                "bottom": 0.6377408432926561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.6937859041440984,
+                "top": 0.6086118970504977,
+                "right": 0.8355046971452715,
+                "bottom": 0.6377408432926561
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.196691589858078,
+                "top": 0.6377408432926561,
+                "right": 0.5618042559626542,
+                "bottom": 0.6667761332129611
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.5618042559626542,
+                "top": 0.6377408432926561,
+                "right": 0.6937859041440984,
+                "bottom": 0.6667761332129611
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-z": {
+            "box": {
+                "left": 0.6937859041440984,
+                "top": 0.6377408432926561,
+                "right": 0.8355046971452715,
+                "bottom": 0.6667761332129611
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-A": {
+            "box": {
+                "left": 0.196691589858078,
+                "top": 0.6667761332129611,
+                "right": 0.5618042559626542,
+                "bottom": 0.7005529564018147
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-B": {
+            "box": {
+                "left": 0.5618042559626542,
+                "top": 0.6667761332129611,
+                "right": 0.6937859041440984,
+                "bottom": 0.7005529564018147
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-C": {
+            "box": {
+                "left": 0.6937859041440984,
+                "top": 0.6667761332129611,
+                "right": 0.8355046971452715,
+                "bottom": 0.7005529564018147
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "8e31014c-ebdc-4c31-8603-34986a71d5e4": {
+            "box": {
+                "left": 0.19434410333633423,
+                "top": 0.7071999311447144,
+                "right": 0.8451828360557556,
+                "bottom": 0.7601816654205322
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "8978cefa-da1b-43d4-bdc5-1288819b4fa8": {
+            "box": {
+                "left": 0.21723833680152893,
+                "top": 0.976902961730957,
+                "right": 0.783051609992981,
+                "bottom": 0.9982142448425293
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "mzgx0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7331,
+        "credit_usage": 3.0,
+        "job_id": "vsiopwhcto5qyfjvt1b8ztzlx",
+        "version": "dpt-2-20250919"
+    }
+}

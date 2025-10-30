@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='3a88b08e-0726-40bd-80f7-8136f8119a19'></a>\n\nVI\n\n<a id='b9c9b8c0-8765-420b-add1-9f718ff7a23e'></a>\n\n## TOOLS OF IMPLEMENTATION\n\n1.  Regular News Releases\n2.  Feature Story Development\n3.  Mailings to Editorial writers\n4.  Mailings to Columnists\n5.  TV News Clips\n6.  Radio Script Releases\n7.  Sugar and Health Press Kit\n8.  Literature Distribution\n9.  Media Seminars\n10. Media Convention Attendance\n11. Federal Government Liaison Representative\n12. State Government Liaison Representative\n13. Government Officials Seminars\n14. Legislative Surveillance Program\n15. Speakers Bureau\n16. Stock Speech with Slides\n17. Speech Forums/National and Regional\n18. Spokesman/Scientific\n19. Spokesman/Celebrity\n20. TV Talk Shows\n21. Film on Sugar and Health\n22. Teachers Guide on Dental Health\n23. Generate and Publish Books on the Various Aspects of Sugar\n24. Letter-writing Campaigns\n25. Sugar Information to Data Banks\n26. Institutional Advertising (When necessary)\n27. Grant to Public Broadcasting Service\n28. Expand Association's Home Economics Program\n\n<a id='bf5b01ff-fd27-4752-85a3-64e98ed9cd2c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mymk0226",
+    "chunks": [
+        {
+            "markdown": "<a id='3a88b08e-0726-40bd-80f7-8136f8119a19'></a>\n\nVI",
+            "type": "marginalia",
+            "id": "3a88b08e-0726-40bd-80f7-8136f8119a19",
+            "grounding": {
+                "box": {
+                    "left": 0.4671238362789154,
+                    "top": 0.047600358724594116,
+                    "right": 0.5077195763587952,
+                    "bottom": 0.06875445693731308
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='b9c9b8c0-8765-420b-add1-9f718ff7a23e'></a>\n\n## TOOLS OF IMPLEMENTATION\n\n1.  Regular News Releases\n2.  Feature Story Development\n3.  Mailings to Editorial writers\n4.  Mailings to Columnists\n5.  TV News Clips\n6.  Radio Script Releases\n7.  Sugar and Health Press Kit\n8.  Literature Distribution\n9.  Media Seminars\n10. Media Convention Attendance\n11. Federal Government Liaison Representative\n12. State Government Liaison Representative\n13. Government Officials Seminars\n14. Legislative Surveillance Program\n15. Speakers Bureau\n16. Stock Speech with Slides\n17. Speech Forums/National and Regional\n18. Spokesman/Scientific\n19. Spokesman/Celebrity\n20. TV Talk Shows\n21. Film on Sugar and Health\n22. Teachers Guide on Dental Health\n23. Generate and Publish Books on the Various Aspects of Sugar\n24. Letter-writing Campaigns\n25. Sugar Information to Data Banks\n26. Institutional Advertising (When necessary)\n27. Grant to Public Broadcasting Service\n28. Expand Association's Home Economics Program",
+            "type": "text",
+            "id": "b9c9b8c0-8765-420b-add1-9f718ff7a23e",
+            "grounding": {
+                "box": {
+                    "left": 0.1325247585773468,
+                    "top": 0.08016300201416016,
+                    "right": 0.897126317024231,
+                    "bottom": 0.6670137643814087
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='bf5b01ff-fd27-4752-85a3-64e98ed9cd2c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mymk0226",
+            "type": "text",
+            "id": "bf5b01ff-fd27-4752-85a3-64e98ed9cd2c",
+            "grounding": {
+                "box": {
+                    "left": 0.20697343349456787,
+                    "top": 0.9768109321594238,
+                    "right": 0.7935383319854736,
+                    "bottom": 0.9999268054962158
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='3a88b08e-0726-40bd-80f7-8136f8119a19'></a>\n\nVI\n\n<a id='b9c9b8c0-8765-420b-add1-9f718ff7a23e'></a>\n\n## TOOLS OF IMPLEMENTATION\n\n1.  Regular News Releases\n2.  Feature Story Development\n3.  Mailings to Editorial writers\n4.  Mailings to Columnists\n5.  TV News Clips\n6.  Radio Script Releases\n7.  Sugar and Health Press Kit\n8.  Literature Distribution\n9.  Media Seminars\n10. Media Convention Attendance\n11. Federal Government Liaison Representative\n12. State Government Liaison Representative\n13. Government Officials Seminars\n14. Legislative Surveillance Program\n15. Speakers Bureau\n16. Stock Speech with Slides\n17. Speech Forums/National and Regional\n18. Spokesman/Scientific\n19. Spokesman/Celebrity\n20. TV Talk Shows\n21. Film on Sugar and Health\n22. Teachers Guide on Dental Health\n23. Generate and Publish Books on the Various Aspects of Sugar\n24. Letter-writing Campaigns\n25. Sugar Information to Data Banks\n26. Institutional Advertising (When necessary)\n27. Grant to Public Broadcasting Service\n28. Expand Association's Home Economics Program\n\n<a id='bf5b01ff-fd27-4752-85a3-64e98ed9cd2c'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/mymk0226",
+            "chunks": [
+                "3a88b08e-0726-40bd-80f7-8136f8119a19",
+                "b9c9b8c0-8765-420b-add1-9f718ff7a23e",
+                "bf5b01ff-fd27-4752-85a3-64e98ed9cd2c"
+            ]
+        }
+    ],
+    "grounding": {
+        "3a88b08e-0726-40bd-80f7-8136f8119a19": {
+            "box": {
+                "left": 0.4671238362789154,
+                "top": 0.047600358724594116,
+                "right": 0.5077195763587952,
+                "bottom": 0.06875445693731308
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "b9c9b8c0-8765-420b-add1-9f718ff7a23e": {
+            "box": {
+                "left": 0.1325247585773468,
+                "top": 0.08016300201416016,
+                "right": 0.897126317024231,
+                "bottom": 0.6670137643814087
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "bf5b01ff-fd27-4752-85a3-64e98ed9cd2c": {
+            "box": {
+                "left": 0.20697343349456787,
+                "top": 0.9768109321594238,
+                "right": 0.7935383319854736,
+                "bottom": 0.9999268054962158
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "mymk0226_9.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7257,
+        "credit_usage": 3.0,
+        "job_id": "dzmsiaktbl3j58e5xjmqdx8xf",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "markdown": "<a id='89e15374-7212-414d-b643-5c9453b232f8'></a>\n\nChart 2\n\n<a id='84cf7451-6663-49cd-b492-ff5fb1ff43a2'></a>\n\n<::Line chart showing the relationship between \"% Lysine added\" and \"gm gain / gm feed\".\n\nY-axis: gm gain / gm feed, ranging from 0.3 to 0.7.\nX-axis: % Lysine added, ranging from 0 to 0.7.\n\nTwo data series are plotted:\n1. \"Corn-soy ration\": Represented by a dashed horizontal line at approximately 0.7 gm gain / gm feed.\n2. \"Corn-safflower ration\": Represented by a solid line with 'x' markers. The data points are:\n   - (0, 0.4)\n   - (0.1, 0.48)\n   - (0.2, 0.57)\n   - (0.3, 0.64)\n   - (0.4, 0.69)\n   - (0.5, 0.7)\n   - (0.6, 0.7)\n   - (0.7, 0.7)\n\nThe \"Corn-safflower ration\" shows an increase in gm gain / gm feed as % Lysine added increases, eventually plateauing at 0.7, matching the \"Corn-soy ration\" level.: chart::>\n\n<a id='06b5a2f6-788c-4600-b033-421a1150efea'></a>\n\n434-64",
+    "chunks": [
+        {
+            "markdown": "<a id='89e15374-7212-414d-b643-5c9453b232f8'></a>\n\nChart 2",
+            "type": "marginalia",
+            "id": "89e15374-7212-414d-b643-5c9453b232f8",
+            "grounding": {
+                "box": {
+                    "left": 0.42969557642936707,
+                    "top": 0.12237691134214401,
+                    "right": 0.5184588432312012,
+                    "bottom": 0.1439630538225174
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='84cf7451-6663-49cd-b492-ff5fb1ff43a2'></a>\n\n<::Line chart showing the relationship between \"% Lysine added\" and \"gm gain / gm feed\".\n\nY-axis: gm gain / gm feed, ranging from 0.3 to 0.7.\nX-axis: % Lysine added, ranging from 0 to 0.7.\n\nTwo data series are plotted:\n1. \"Corn-soy ration\": Represented by a dashed horizontal line at approximately 0.7 gm gain / gm feed.\n2. \"Corn-safflower ration\": Represented by a solid line with 'x' markers. The data points are:\n   - (0, 0.4)\n   - (0.1, 0.48)\n   - (0.2, 0.57)\n   - (0.3, 0.64)\n   - (0.4, 0.69)\n   - (0.5, 0.7)\n   - (0.6, 0.7)\n   - (0.7, 0.7)\n\nThe \"Corn-safflower ration\" shows an increase in gm gain / gm feed as % Lysine added increases, eventually plateauing at 0.7, matching the \"Corn-soy ration\" level.: chart::>",
+            "type": "figure",
+            "id": "84cf7451-6663-49cd-b492-ff5fb1ff43a2",
+            "grounding": {
+                "box": {
+                    "left": 0.051500409841537476,
+                    "top": 0.15505662560462952,
+                    "right": 0.9119844436645508,
+                    "bottom": 0.8256959915161133
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='06b5a2f6-788c-4600-b033-421a1150efea'></a>\n\n434-64",
+            "type": "text",
+            "id": "06b5a2f6-788c-4600-b033-421a1150efea",
+            "grounding": {
+                "box": {
+                    "left": 0.01909535750746727,
+                    "top": 0.8917356133460999,
+                    "right": 0.12327525019645691,
+                    "bottom": 0.9265661835670471
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='89e15374-7212-414d-b643-5c9453b232f8'></a>\n\nChart 2\n\n<a id='84cf7451-6663-49cd-b492-ff5fb1ff43a2'></a>\n\n<::Line chart showing the relationship between \"% Lysine added\" and \"gm gain / gm feed\".\n\nY-axis: gm gain / gm feed, ranging from 0.3 to 0.7.\nX-axis: % Lysine added, ranging from 0 to 0.7.\n\nTwo data series are plotted:\n1. \"Corn-soy ration\": Represented by a dashed horizontal line at approximately 0.7 gm gain / gm feed.\n2. \"Corn-safflower ration\": Represented by a solid line with 'x' markers. The data points are:\n   - (0, 0.4)\n   - (0.1, 0.48)\n   - (0.2, 0.57)\n   - (0.3, 0.64)\n   - (0.4, 0.69)\n   - (0.5, 0.7)\n   - (0.6, 0.7)\n   - (0.7, 0.7)\n\nThe \"Corn-safflower ration\" shows an increase in gm gain / gm feed as % Lysine added increases, eventually plateauing at 0.7, matching the \"Corn-soy ration\" level.: chart::>\n\n<a id='06b5a2f6-788c-4600-b033-421a1150efea'></a>\n\n434-64",
+            "chunks": [
+                "89e15374-7212-414d-b643-5c9453b232f8",
+                "84cf7451-6663-49cd-b492-ff5fb1ff43a2",
+                "06b5a2f6-788c-4600-b033-421a1150efea"
+            ]
+        }
+    ],
+    "grounding": {
+        "89e15374-7212-414d-b643-5c9453b232f8": {
+            "box": {
+                "left": 0.42969557642936707,
+                "top": 0.12237691134214401,
+                "right": 0.5184588432312012,
+                "bottom": 0.1439630538225174
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        },
+        "84cf7451-6663-49cd-b492-ff5fb1ff43a2": {
+            "box": {
+                "left": 0.051500409841537476,
+                "top": 0.15505662560462952,
+                "right": 0.9119844436645508,
+                "bottom": 0.8256959915161133
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "06b5a2f6-788c-4600-b033-421a1150efea": {
+            "box": {
+                "left": 0.01909535750746727,
+                "top": 0.8917356133460999,
+                "right": 0.12327525019645691,
+                "bottom": 0.9265661835670471
+            },
+            "page": 0,
+            "type": "chunkText"
+        }
+    },
+    "metadata": {
+        "filename": "lyvd0228_6.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 8933,
+        "credit_usage": 3.0,
+        "job_id": "o7txfo7b7q9zu708uxlig0qi0",
+        "version": "dpt-2-20250919"
+    }
+}

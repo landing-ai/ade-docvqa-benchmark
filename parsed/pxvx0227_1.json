@@ -1,0 +1,278 @@
+{
+    "markdown": "<a id='676cda59-a665-4edc-a88d-29fafe8cf530'></a>\n\n<::illustration of an industrial complex with multiple buildings, tall silos, a bus on a road, and trees: figure::>\nA\nGre\n\nWel\n\nto\n\n<a id='e72dc7e7-b210-4327-a237-acd8c1260866'></a>\n\nGreat Western\n\n<a id='6b2202b7-fb90-4143-86a2-bde91263dc31'></a>\n\nWelcome\n\nto\n\n<a id='66303a3b-8759-427b-9ce3-c828f96c5aa6'></a>\n\n<::GW pure sugar\n: figure::>\n\n<a id='c0299fe4-4f00-4c5c-9361-f858cf5fb7da'></a>\n\nGoodland, Kansas\n\n<a id='469240a9-fc8e-425f-85e3-fffbf2211bd3'></a>\n\nSATURDAY, JUNE 8, 1968\n\n<a id='1767c686-dc4d-4029-9462-a0a1c221b2a5'></a>\n\n<::\nAGRICULTURAL\nWAREHOUSE\n: figure::>\n\n<a id='5a107a8b-0351-463a-856a-d8047e725a67'></a>\n\n<::A top-down layout diagram showing a series of interconnected processing areas. From left to right, the first section is labeled \"PELLET BIN & SCALE\". This connects to a larger rectangular area labeled \"PULP PELLET WAREHOUSE\". Adjacent to the warehouse is another large rectangular area labeled \"PULP DRYER\". Following the pulp dryer is a narrower vertical section labeled \"BEET HANDLING\". To the right of the beet handling section, there is an open rectangular area marked with 'x' symbols at its corners, labeled \"MATERIAL YARD\". Along the top edge of the entire layout, there is a series of evenly spaced vertical tick marks, suggesting a measurement scale. Similar tick marks are present along the bottom edge of the main processing areas.: diagram::>\n\n<a id='36cea3d2-4a25-4b2e-89d2-40a105eac647'></a>\n\n<::KANCOL SUGAR FACTORY\nGoodland, Kansas\nPLOT PLAN of STRUCTURES\n\nNorth arrow pointing upwards, labeled \"N\".\n\nLayout of the factory includes:\n- An \"OFFICE BLDG.\" to the left.\n- A \"MAIN BLDG.\" centrally located.\n- To the right of the Main Bldg., a section labeled \"(SUGAR PROCESSING)\" which contains:\n  - \"LIME KILN\" at the top.\n  - \"STORE ROOM\" below the lime kiln, with a small arrow pointing to it.\n  - \"MACHINE SHOP\" below the store room.\n  - \"BOILER HOUSE\" below the machine shop.\n- \"LOCKERS\" building below the Office Bldg. and to the left of the Main Bldg.\n- \"SACKING\" building below the Main Bldg. and to the right of the Lockers.\n- \"SUGAR WAREHOUSE (BULK CAR LOADING)\" below the Sacking and Lockers buildings.\n- Eight circular \"BULK SUGAR STORAGE BINS\" arranged in two rows of four, below the Sugar Warehouse, with an arrow pointing to them.\n\nRail sidings are present:\n- One rail siding above the Lime Kiln and Store Room, labeled \"RAIL SIDING\".\n- Another rail siding to the right of the Sugar Warehouse, also labeled \"RAIL SIDING\".\n- A third rail siding to the left of the Sugar Warehouse.\n\nDistance markers:\n- \"5 MILES TO GOODLAND\" with a double-headed arrow pointing left and right.\n- \"28 MILES TO BURLINGTON\" with a double-headed arrow pointing left and right.\n- \"VIA U. S. 24 (INTERSTATE 70)\"\n: plot plan::>\n\n<a id='e9b11886-b563-4aae-a551-ff9669b0e95f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pxvx0227",
+    "chunks": [
+        {
+            "markdown": "<a id='676cda59-a665-4edc-a88d-29fafe8cf530'></a>\n\n<::illustration of an industrial complex with multiple buildings, tall silos, a bus on a road, and trees: figure::>\nA\nGre\n\nWel\n\nto",
+            "type": "figure",
+            "id": "676cda59-a665-4edc-a88d-29fafe8cf530",
+            "grounding": {
+                "box": {
+                    "left": 0.05504027009010315,
+                    "top": -0.0008889585733413696,
+                    "right": 0.7588261365890503,
+                    "bottom": 0.3174208998680115
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e72dc7e7-b210-4327-a237-acd8c1260866'></a>\n\nGreat Western",
+            "type": "text",
+            "id": "e72dc7e7-b210-4327-a237-acd8c1260866",
+            "grounding": {
+                "box": {
+                    "left": 0.7000833749771118,
+                    "top": 0.14250396192073822,
+                    "right": 0.9696321487426758,
+                    "bottom": 0.17783232033252716
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='6b2202b7-fb90-4143-86a2-bde91263dc31'></a>\n\nWelcome\n\nto",
+            "type": "text",
+            "id": "6b2202b7-fb90-4143-86a2-bde91263dc31",
+            "grounding": {
+                "box": {
+                    "left": 0.6983588337898254,
+                    "top": 0.21992163360118866,
+                    "right": 0.8573290705680847,
+                    "bottom": 0.3132437467575073
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='66303a3b-8759-427b-9ce3-c828f96c5aa6'></a>\n\n<::GW pure sugar\n: figure::>",
+            "type": "figure",
+            "id": "66303a3b-8759-427b-9ce3-c828f96c5aa6",
+            "grounding": {
+                "box": {
+                    "left": 0.07839208096265793,
+                    "top": 0.3031296730041504,
+                    "right": 0.22186261415481567,
+                    "bottom": 0.4042454957962036
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='c0299fe4-4f00-4c5c-9361-f858cf5fb7da'></a>\n\nGoodland, Kansas",
+            "type": "text",
+            "id": "c0299fe4-4f00-4c5c-9361-f858cf5fb7da",
+            "grounding": {
+                "box": {
+                    "left": 0.3076607584953308,
+                    "top": 0.3419836163520813,
+                    "right": 0.8896021246910095,
+                    "bottom": 0.3756955862045288
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='469240a9-fc8e-425f-85e3-fffbf2211bd3'></a>\n\nSATURDAY, JUNE 8, 1968",
+            "type": "text",
+            "id": "469240a9-fc8e-425f-85e3-fffbf2211bd3",
+            "grounding": {
+                "box": {
+                    "left": 0.35937052965164185,
+                    "top": 0.3992418944835663,
+                    "right": 0.6373607516288757,
+                    "bottom": 0.4240736663341522
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='1767c686-dc4d-4029-9462-a0a1c221b2a5'></a>\n\n<::\nAGRICULTURAL\nWAREHOUSE\n: figure::>",
+            "type": "figure",
+            "id": "1767c686-dc4d-4029-9462-a0a1c221b2a5",
+            "grounding": {
+                "box": {
+                    "left": 0.744813084602356,
+                    "top": 0.39016592502593994,
+                    "right": 0.9190548658370972,
+                    "bottom": 0.4445139765739441
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='5a107a8b-0351-463a-856a-d8047e725a67'></a>\n\n<::A top-down layout diagram showing a series of interconnected processing areas. From left to right, the first section is labeled \"PELLET BIN & SCALE\". This connects to a larger rectangular area labeled \"PULP PELLET WAREHOUSE\". Adjacent to the warehouse is another large rectangular area labeled \"PULP DRYER\". Following the pulp dryer is a narrower vertical section labeled \"BEET HANDLING\". To the right of the beet handling section, there is an open rectangular area marked with 'x' symbols at its corners, labeled \"MATERIAL YARD\". Along the top edge of the entire layout, there is a series of evenly spaced vertical tick marks, suggesting a measurement scale. Similar tick marks are present along the bottom edge of the main processing areas.: diagram::>",
+            "type": "figure",
+            "id": "5a107a8b-0351-463a-856a-d8047e725a67",
+            "grounding": {
+                "box": {
+                    "left": 0.07582566142082214,
+                    "top": 0.43943434953689575,
+                    "right": 0.971725583076477,
+                    "bottom": 0.5808165669441223
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='36cea3d2-4a25-4b2e-89d2-40a105eac647'></a>\n\n<::KANCOL SUGAR FACTORY\nGoodland, Kansas\nPLOT PLAN of STRUCTURES\n\nNorth arrow pointing upwards, labeled \"N\".\n\nLayout of the factory includes:\n- An \"OFFICE BLDG.\" to the left.\n- A \"MAIN BLDG.\" centrally located.\n- To the right of the Main Bldg., a section labeled \"(SUGAR PROCESSING)\" which contains:\n  - \"LIME KILN\" at the top.\n  - \"STORE ROOM\" below the lime kiln, with a small arrow pointing to it.\n  - \"MACHINE SHOP\" below the store room.\n  - \"BOILER HOUSE\" below the machine shop.\n- \"LOCKERS\" building below the Office Bldg. and to the left of the Main Bldg.\n- \"SACKING\" building below the Main Bldg. and to the right of the Lockers.\n- \"SUGAR WAREHOUSE (BULK CAR LOADING)\" below the Sacking and Lockers buildings.\n- Eight circular \"BULK SUGAR STORAGE BINS\" arranged in two rows of four, below the Sugar Warehouse, with an arrow pointing to them.\n\nRail sidings are present:\n- One rail siding above the Lime Kiln and Store Room, labeled \"RAIL SIDING\".\n- Another rail siding to the right of the Sugar Warehouse, also labeled \"RAIL SIDING\".\n- A third rail siding to the left of the Sugar Warehouse.\n\nDistance markers:\n- \"5 MILES TO GOODLAND\" with a double-headed arrow pointing left and right.\n- \"28 MILES TO BURLINGTON\" with a double-headed arrow pointing left and right.\n- \"VIA U. S. 24 (INTERSTATE 70)\"\n: plot plan::>",
+            "type": "figure",
+            "id": "36cea3d2-4a25-4b2e-89d2-40a105eac647",
+            "grounding": {
+                "box": {
+                    "left": 0.07905152440071106,
+                    "top": 0.5739856362342834,
+                    "right": 0.9751570224761963,
+                    "bottom": 0.970022976398468
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='e9b11886-b563-4aae-a551-ff9669b0e95f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pxvx0227",
+            "type": "marginalia",
+            "id": "e9b11886-b563-4aae-a551-ff9669b0e95f",
+            "grounding": {
+                "box": {
+                    "left": 0.21124809980392456,
+                    "top": 0.9773328900337219,
+                    "right": 0.7917360663414001,
+                    "bottom": 1.0000301599502563
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='676cda59-a665-4edc-a88d-29fafe8cf530'></a>\n\n<::illustration of an industrial complex with multiple buildings, tall silos, a bus on a road, and trees: figure::>\nA\nGre\n\nWel\n\nto\n\n<a id='e72dc7e7-b210-4327-a237-acd8c1260866'></a>\n\nGreat Western\n\n<a id='6b2202b7-fb90-4143-86a2-bde91263dc31'></a>\n\nWelcome\n\nto\n\n<a id='66303a3b-8759-427b-9ce3-c828f96c5aa6'></a>\n\n<::GW pure sugar\n: figure::>\n\n<a id='c0299fe4-4f00-4c5c-9361-f858cf5fb7da'></a>\n\nGoodland, Kansas\n\n<a id='469240a9-fc8e-425f-85e3-fffbf2211bd3'></a>\n\nSATURDAY, JUNE 8, 1968\n\n<a id='1767c686-dc4d-4029-9462-a0a1c221b2a5'></a>\n\n<::\nAGRICULTURAL\nWAREHOUSE\n: figure::>\n\n<a id='5a107a8b-0351-463a-856a-d8047e725a67'></a>\n\n<::A top-down layout diagram showing a series of interconnected processing areas. From left to right, the first section is labeled \"PELLET BIN & SCALE\". This connects to a larger rectangular area labeled \"PULP PELLET WAREHOUSE\". Adjacent to the warehouse is another large rectangular area labeled \"PULP DRYER\". Following the pulp dryer is a narrower vertical section labeled \"BEET HANDLING\". To the right of the beet handling section, there is an open rectangular area marked with 'x' symbols at its corners, labeled \"MATERIAL YARD\". Along the top edge of the entire layout, there is a series of evenly spaced vertical tick marks, suggesting a measurement scale. Similar tick marks are present along the bottom edge of the main processing areas.: diagram::>\n\n<a id='36cea3d2-4a25-4b2e-89d2-40a105eac647'></a>\n\n<::KANCOL SUGAR FACTORY\nGoodland, Kansas\nPLOT PLAN of STRUCTURES\n\nNorth arrow pointing upwards, labeled \"N\".\n\nLayout of the factory includes:\n- An \"OFFICE BLDG.\" to the left.\n- A \"MAIN BLDG.\" centrally located.\n- To the right of the Main Bldg., a section labeled \"(SUGAR PROCESSING)\" which contains:\n  - \"LIME KILN\" at the top.\n  - \"STORE ROOM\" below the lime kiln, with a small arrow pointing to it.\n  - \"MACHINE SHOP\" below the store room.\n  - \"BOILER HOUSE\" below the machine shop.\n- \"LOCKERS\" building below the Office Bldg. and to the left of the Main Bldg.\n- \"SACKING\" building below the Main Bldg. and to the right of the Lockers.\n- \"SUGAR WAREHOUSE (BULK CAR LOADING)\" below the Sacking and Lockers buildings.\n- Eight circular \"BULK SUGAR STORAGE BINS\" arranged in two rows of four, below the Sugar Warehouse, with an arrow pointing to them.\n\nRail sidings are present:\n- One rail siding above the Lime Kiln and Store Room, labeled \"RAIL SIDING\".\n- Another rail siding to the right of the Sugar Warehouse, also labeled \"RAIL SIDING\".\n- A third rail siding to the left of the Sugar Warehouse.\n\nDistance markers:\n- \"5 MILES TO GOODLAND\" with a double-headed arrow pointing left and right.\n- \"28 MILES TO BURLINGTON\" with a double-headed arrow pointing left and right.\n- \"VIA U. S. 24 (INTERSTATE 70)\"\n: plot plan::>\n\n<a id='e9b11886-b563-4aae-a551-ff9669b0e95f'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/pxvx0227",
+            "chunks": [
+                "676cda59-a665-4edc-a88d-29fafe8cf530",
+                "e72dc7e7-b210-4327-a237-acd8c1260866",
+                "6b2202b7-fb90-4143-86a2-bde91263dc31",
+                "66303a3b-8759-427b-9ce3-c828f96c5aa6",
+                "c0299fe4-4f00-4c5c-9361-f858cf5fb7da",
+                "469240a9-fc8e-425f-85e3-fffbf2211bd3",
+                "1767c686-dc4d-4029-9462-a0a1c221b2a5",
+                "5a107a8b-0351-463a-856a-d8047e725a67",
+                "36cea3d2-4a25-4b2e-89d2-40a105eac647",
+                "e9b11886-b563-4aae-a551-ff9669b0e95f"
+            ]
+        }
+    ],
+    "grounding": {
+        "676cda59-a665-4edc-a88d-29fafe8cf530": {
+            "box": {
+                "left": 0.05504027009010315,
+                "top": -0.0008889585733413696,
+                "right": 0.7588261365890503,
+                "bottom": 0.3174208998680115
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "e72dc7e7-b210-4327-a237-acd8c1260866": {
+            "box": {
+                "left": 0.7000833749771118,
+                "top": 0.14250396192073822,
+                "right": 0.9696321487426758,
+                "bottom": 0.17783232033252716
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "6b2202b7-fb90-4143-86a2-bde91263dc31": {
+            "box": {
+                "left": 0.6983588337898254,
+                "top": 0.21992163360118866,
+                "right": 0.8573290705680847,
+                "bottom": 0.3132437467575073
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "66303a3b-8759-427b-9ce3-c828f96c5aa6": {
+            "box": {
+                "left": 0.07839208096265793,
+                "top": 0.3031296730041504,
+                "right": 0.22186261415481567,
+                "bottom": 0.4042454957962036
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "c0299fe4-4f00-4c5c-9361-f858cf5fb7da": {
+            "box": {
+                "left": 0.3076607584953308,
+                "top": 0.3419836163520813,
+                "right": 0.8896021246910095,
+                "bottom": 0.3756955862045288
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "469240a9-fc8e-425f-85e3-fffbf2211bd3": {
+            "box": {
+                "left": 0.35937052965164185,
+                "top": 0.3992418944835663,
+                "right": 0.6373607516288757,
+                "bottom": 0.4240736663341522
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "1767c686-dc4d-4029-9462-a0a1c221b2a5": {
+            "box": {
+                "left": 0.744813084602356,
+                "top": 0.39016592502593994,
+                "right": 0.9190548658370972,
+                "bottom": 0.4445139765739441
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "5a107a8b-0351-463a-856a-d8047e725a67": {
+            "box": {
+                "left": 0.07582566142082214,
+                "top": 0.43943434953689575,
+                "right": 0.971725583076477,
+                "bottom": 0.5808165669441223
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "36cea3d2-4a25-4b2e-89d2-40a105eac647": {
+            "box": {
+                "left": 0.07905152440071106,
+                "top": 0.5739856362342834,
+                "right": 0.9751570224761963,
+                "bottom": 0.970022976398468
+            },
+            "page": 0,
+            "type": "chunkFigure"
+        },
+        "e9b11886-b563-4aae-a551-ff9669b0e95f": {
+            "box": {
+                "left": 0.21124809980392456,
+                "top": 0.9773328900337219,
+                "right": 0.7917360663414001,
+                "bottom": 1.0000301599502563
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "pxvx0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 9523,
+        "credit_usage": 3.0,
+        "job_id": "codenr9bk3jm2pvsgflqcrncv",
+        "version": "dpt-2-20250919"
+    }
+}

@@ -1,0 +1,493 @@
+{
+    "markdown": "<a id='dd181983-093a-48b2-b41b-54a015a05b68'></a>\n\nWASHINGTON UNIVERS ITY\nSPECIAL\nACCCUNT DISTRIBUT ION\n\n<a id='2d172e98-b522-4853-937d-18249c7d137b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">CHECK</td><td id=\"0-3\">EMP.</td><td id=\"0-4\">EMPLOYEE NAME</td><td id=\"0-5\">ACCOUNT NUMBER</td><td id=\"0-6\"></td><td id=\"0-7\">AMOUNT</td><td id=\"0-8\">PERCENT</td><td id=\"0-9\">AUTH</td><td id=\"0-a\">AUTH.</td><td id=\"0-b\">SERVICE</td><td id=\"0-c\">SOCIAL</td></tr>\n<tr><td id=\"0-d\">DATE</td><td id=\"0-e\">NO.</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\">AU</td><td id=\"0-i\">HORIZED</td><td id=\"0-j\">PER</td><td id=\"0-k\">NO.</td><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">SECURITY</td></tr>\n<tr><td id=\"0-o\">MO DAY</td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">CL DEPT BG 08</td><td id=\"0-s\">FUND PER</td><td id=\"0-t\">ACCOUNT</td><td id=\"0-u\">ACCOUNT</td><td id=\"0-v\"></td><td id=\"0-w\">FROM</td><td id=\"0-x\">TO</td><td id=\"0-y\">CHARGE</td></tr>\n</table>\n\n<a id='ba29b4bb-4164-480f-b00b-c7ca42eb737d'></a>\n\n<table><thead><tr><th>Col 1</th><th>Col 2</th><th>Col 3</th><th>Col 4</th><th>Col 5</th><th>Col 6</th><th>Col 7</th><th>Col 8</th><th>Col 9</th><th>Col 10</th><th>Col 11</th><th>Col 12</th><th>Col 13</th><th>Col 14</th></tr></thead><tbody><tr><td>02</td><td>28</td><td>124232</td><td>FRANCES ELLEN BROCK</td><td>22</td><td>3235</td><td>11</td><td>00</td><td>64117</td><td>Res Asst</td><td>465.00</td><td>100.00</td><td>3334</td><td>2/1-2/28/66</td></tr><tr><td>02</td><td>28</td><td>483378</td><td>IRENE E KARL</td><td>22</td><td>3235</td><td>11</td><td>00</td><td>64117</td><td>Res Asst</td><td>333.33</td><td>50.00</td><td>3334</td><td>2/1-2/28/66</td></tr></tbody><tfoot><tr><td colspan=\"10\"></td><td>798.33</td><td colspan=\"3\"></td></tr></tfoot></table>\n\n<a id='2ca0a1eb-97d8-41bb-808f-985e10980ca9'></a>\n\nJournal 2442 dated 2/16/66:\n<table>\n  <thead>\n    <tr>\n      <th>Name</th>\n      <th>Code</th>\n      <th>Role</th>\n      <th>Amount</th>\n      <th>Period</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Frances E. Brock</td>\n      <td>22 3235 11 00 64117</td>\n      <td>Res Asst</td>\n      <td>465.00</td>\n      <td>Salary for period 1/1-1/31/66</td>\n    </tr>\n    <tr>\n      <td>Irene Karl</td>\n      <td>22 3235 11 00 64117</td>\n      <td>Res Asst</td>\n      <td>333.33</td>\n      <td>Salary for period 1/1-1/31/66</td>\n    </tr>\n  </tbody>\n  <tfoot>\n    <tr>\n      <td colspan=\"3\"></td>\n      <td>798.33</td>\n      <td></td>\n    </tr>\n  </tfoot>\n</table>\n\n<a id='8ef89363-7fe9-4007-b270-b44aa70320ee'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hrlg0227",
+    "chunks": [
+        {
+            "markdown": "<a id='dd181983-093a-48b2-b41b-54a015a05b68'></a>\n\nWASHINGTON UNIVERS ITY\nSPECIAL\nACCCUNT DISTRIBUT ION",
+            "type": "text",
+            "id": "dd181983-093a-48b2-b41b-54a015a05b68",
+            "grounding": {
+                "box": {
+                    "left": 0.35450077056884766,
+                    "top": 0.055655017495155334,
+                    "right": 0.5139521360397339,
+                    "bottom": 0.10911644995212555
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2d172e98-b522-4853-937d-18249c7d137b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">CHECK</td><td id=\"0-3\">EMP.</td><td id=\"0-4\">EMPLOYEE NAME</td><td id=\"0-5\">ACCOUNT NUMBER</td><td id=\"0-6\"></td><td id=\"0-7\">AMOUNT</td><td id=\"0-8\">PERCENT</td><td id=\"0-9\">AUTH</td><td id=\"0-a\">AUTH.</td><td id=\"0-b\">SERVICE</td><td id=\"0-c\">SOCIAL</td></tr>\n<tr><td id=\"0-d\">DATE</td><td id=\"0-e\">NO.</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\">AU</td><td id=\"0-i\">HORIZED</td><td id=\"0-j\">PER</td><td id=\"0-k\">NO.</td><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">SECURITY</td></tr>\n<tr><td id=\"0-o\">MO DAY</td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">CL DEPT BG 08</td><td id=\"0-s\">FUND PER</td><td id=\"0-t\">ACCOUNT</td><td id=\"0-u\">ACCOUNT</td><td id=\"0-v\"></td><td id=\"0-w\">FROM</td><td id=\"0-x\">TO</td><td id=\"0-y\">CHARGE</td></tr>\n</table>",
+            "type": "table",
+            "id": "2d172e98-b522-4853-937d-18249c7d137b",
+            "grounding": {
+                "box": {
+                    "left": 0.05506199598312378,
+                    "top": 0.11085452139377594,
+                    "right": 0.8040456771850586,
+                    "bottom": 0.17157284915447235
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='ba29b4bb-4164-480f-b00b-c7ca42eb737d'></a>\n\n<table><thead><tr><th>Col 1</th><th>Col 2</th><th>Col 3</th><th>Col 4</th><th>Col 5</th><th>Col 6</th><th>Col 7</th><th>Col 8</th><th>Col 9</th><th>Col 10</th><th>Col 11</th><th>Col 12</th><th>Col 13</th><th>Col 14</th></tr></thead><tbody><tr><td>02</td><td>28</td><td>124232</td><td>FRANCES ELLEN BROCK</td><td>22</td><td>3235</td><td>11</td><td>00</td><td>64117</td><td>Res Asst</td><td>465.00</td><td>100.00</td><td>3334</td><td>2/1-2/28/66</td></tr><tr><td>02</td><td>28</td><td>483378</td><td>IRENE E KARL</td><td>22</td><td>3235</td><td>11</td><td>00</td><td>64117</td><td>Res Asst</td><td>333.33</td><td>50.00</td><td>3334</td><td>2/1-2/28/66</td></tr></tbody><tfoot><tr><td colspan=\"10\"></td><td>798.33</td><td colspan=\"3\"></td></tr></tfoot></table>",
+            "type": "table",
+            "id": "ba29b4bb-4164-480f-b00b-c7ca42eb737d",
+            "grounding": {
+                "box": {
+                    "left": 0.057921767234802246,
+                    "top": 0.17106381058692932,
+                    "right": 0.70976722240448,
+                    "bottom": 0.22523823380470276
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='2ca0a1eb-97d8-41bb-808f-985e10980ca9'></a>\n\nJournal 2442 dated 2/16/66:\n<table>\n  <thead>\n    <tr>\n      <th>Name</th>\n      <th>Code</th>\n      <th>Role</th>\n      <th>Amount</th>\n      <th>Period</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Frances E. Brock</td>\n      <td>22 3235 11 00 64117</td>\n      <td>Res Asst</td>\n      <td>465.00</td>\n      <td>Salary for period 1/1-1/31/66</td>\n    </tr>\n    <tr>\n      <td>Irene Karl</td>\n      <td>22 3235 11 00 64117</td>\n      <td>Res Asst</td>\n      <td>333.33</td>\n      <td>Salary for period 1/1-1/31/66</td>\n    </tr>\n  </tbody>\n  <tfoot>\n    <tr>\n      <td colspan=\"3\"></td>\n      <td>798.33</td>\n      <td></td>\n    </tr>\n  </tfoot>\n</table>",
+            "type": "table",
+            "id": "2ca0a1eb-97d8-41bb-808f-985e10980ca9",
+            "grounding": {
+                "box": {
+                    "left": 0.06954401731491089,
+                    "top": 0.2591428756713867,
+                    "right": 0.6860437393188477,
+                    "bottom": 0.3698943853378296
+                },
+                "page": 0
+            }
+        },
+        {
+            "markdown": "<a id='8ef89363-7fe9-4007-b270-b44aa70320ee'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hrlg0227",
+            "type": "marginalia",
+            "id": "8ef89363-7fe9-4007-b270-b44aa70320ee",
+            "grounding": {
+                "box": {
+                    "left": 0.33478426933288574,
+                    "top": 0.9774408936500549,
+                    "right": 0.66681969165802,
+                    "bottom": 0.99979168176651
+                },
+                "page": 0
+            }
+        }
+    ],
+    "splits": [
+        {
+            "class": "full",
+            "identifier": "full",
+            "pages": [
+                0
+            ],
+            "markdown": "<a id='dd181983-093a-48b2-b41b-54a015a05b68'></a>\n\nWASHINGTON UNIVERS ITY\nSPECIAL\nACCCUNT DISTRIBUT ION\n\n<a id='2d172e98-b522-4853-937d-18249c7d137b'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">CHECK</td><td id=\"0-3\">EMP.</td><td id=\"0-4\">EMPLOYEE NAME</td><td id=\"0-5\">ACCOUNT NUMBER</td><td id=\"0-6\"></td><td id=\"0-7\">AMOUNT</td><td id=\"0-8\">PERCENT</td><td id=\"0-9\">AUTH</td><td id=\"0-a\">AUTH.</td><td id=\"0-b\">SERVICE</td><td id=\"0-c\">SOCIAL</td></tr>\n<tr><td id=\"0-d\">DATE</td><td id=\"0-e\">NO.</td><td id=\"0-f\"></td><td id=\"0-g\"></td><td id=\"0-h\">AU</td><td id=\"0-i\">HORIZED</td><td id=\"0-j\">PER</td><td id=\"0-k\">NO.</td><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">SECURITY</td></tr>\n<tr><td id=\"0-o\">MO DAY</td><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">CL DEPT BG 08</td><td id=\"0-s\">FUND PER</td><td id=\"0-t\">ACCOUNT</td><td id=\"0-u\">ACCOUNT</td><td id=\"0-v\"></td><td id=\"0-w\">FROM</td><td id=\"0-x\">TO</td><td id=\"0-y\">CHARGE</td></tr>\n</table>\n\n<a id='ba29b4bb-4164-480f-b00b-c7ca42eb737d'></a>\n\n<table><thead><tr><th>Col 1</th><th>Col 2</th><th>Col 3</th><th>Col 4</th><th>Col 5</th><th>Col 6</th><th>Col 7</th><th>Col 8</th><th>Col 9</th><th>Col 10</th><th>Col 11</th><th>Col 12</th><th>Col 13</th><th>Col 14</th></tr></thead><tbody><tr><td>02</td><td>28</td><td>124232</td><td>FRANCES ELLEN BROCK</td><td>22</td><td>3235</td><td>11</td><td>00</td><td>64117</td><td>Res Asst</td><td>465.00</td><td>100.00</td><td>3334</td><td>2/1-2/28/66</td></tr><tr><td>02</td><td>28</td><td>483378</td><td>IRENE E KARL</td><td>22</td><td>3235</td><td>11</td><td>00</td><td>64117</td><td>Res Asst</td><td>333.33</td><td>50.00</td><td>3334</td><td>2/1-2/28/66</td></tr></tbody><tfoot><tr><td colspan=\"10\"></td><td>798.33</td><td colspan=\"3\"></td></tr></tfoot></table>\n\n<a id='2ca0a1eb-97d8-41bb-808f-985e10980ca9'></a>\n\nJournal 2442 dated 2/16/66:\n<table>\n  <thead>\n    <tr>\n      <th>Name</th>\n      <th>Code</th>\n      <th>Role</th>\n      <th>Amount</th>\n      <th>Period</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Frances E. Brock</td>\n      <td>22 3235 11 00 64117</td>\n      <td>Res Asst</td>\n      <td>465.00</td>\n      <td>Salary for period 1/1-1/31/66</td>\n    </tr>\n    <tr>\n      <td>Irene Karl</td>\n      <td>22 3235 11 00 64117</td>\n      <td>Res Asst</td>\n      <td>333.33</td>\n      <td>Salary for period 1/1-1/31/66</td>\n    </tr>\n  </tbody>\n  <tfoot>\n    <tr>\n      <td colspan=\"3\"></td>\n      <td>798.33</td>\n      <td></td>\n    </tr>\n  </tfoot>\n</table>\n\n<a id='8ef89363-7fe9-4007-b270-b44aa70320ee'></a>\n\nSource: https://www.industrydocuments.ucsf.edu/docs/hrlg0227",
+            "chunks": [
+                "dd181983-093a-48b2-b41b-54a015a05b68",
+                "2d172e98-b522-4853-937d-18249c7d137b",
+                "ba29b4bb-4164-480f-b00b-c7ca42eb737d",
+                "2ca0a1eb-97d8-41bb-808f-985e10980ca9",
+                "8ef89363-7fe9-4007-b270-b44aa70320ee"
+            ]
+        }
+    ],
+    "grounding": {
+        "dd181983-093a-48b2-b41b-54a015a05b68": {
+            "box": {
+                "left": 0.35450077056884766,
+                "top": 0.055655017495155334,
+                "right": 0.5139521360397339,
+                "bottom": 0.10911644995212555
+            },
+            "page": 0,
+            "type": "chunkText"
+        },
+        "2d172e98-b522-4853-937d-18249c7d137b": {
+            "box": {
+                "left": 0.05506199598312378,
+                "top": 0.11085452139377594,
+                "right": 0.8040456771850586,
+                "bottom": 0.17157284915447235
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "0-1": {
+            "box": {
+                "left": 0.056139689516776656,
+                "top": 0.11371886651606833,
+                "right": 0.8040260343063039,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "table"
+        },
+        "0-2": {
+            "box": {
+                "left": 0.056139689516776656,
+                "top": 0.11371886651606833,
+                "right": 0.10612915596371275,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-3": {
+            "box": {
+                "left": 0.10612915596371275,
+                "top": 0.11371886651606833,
+                "right": 0.15024809401390105,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-4": {
+            "box": {
+                "left": 0.15024809401390105,
+                "top": 0.11371886651606833,
+                "right": 0.2548662783150597,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-5": {
+            "box": {
+                "left": 0.2548662783150597,
+                "top": 0.11371886651606833,
+                "right": 0.3959837326847566,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-6": {
+            "box": {
+                "left": 0.3959837326847566,
+                "top": 0.11371886651606833,
+                "right": 0.45780855517095986,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-7": {
+            "box": {
+                "left": 0.45780855517095986,
+                "top": 0.11371886651606833,
+                "right": 0.5189067027505061,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-8": {
+            "box": {
+                "left": 0.5189067027505061,
+                "top": 0.11371886651606833,
+                "right": 0.5896408877176853,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-9": {
+            "box": {
+                "left": 0.5896408877176853,
+                "top": 0.11371886651606833,
+                "right": 0.6279920013415463,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-a": {
+            "box": {
+                "left": 0.6279920013415463,
+                "top": 0.11371886651606833,
+                "right": 0.6706868697445643,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-b": {
+            "box": {
+                "left": 0.6706868697445643,
+                "top": 0.11371886651606833,
+                "right": 0.7272829587993535,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-c": {
+            "box": {
+                "left": 0.7272829587993535,
+                "top": 0.11371886651606833,
+                "right": 0.8039968378456095,
+                "bottom": 0.1362153323423705
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-d": {
+            "box": {
+                "left": 0.056139689516776656,
+                "top": 0.1362153323423705,
+                "right": 0.10612915596371275,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-e": {
+            "box": {
+                "left": 0.10612915596371275,
+                "top": 0.1362153323423705,
+                "right": 0.15024809401390105,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-f": {
+            "box": {
+                "left": 0.15024809401390105,
+                "top": 0.1362153323423705,
+                "right": 0.2548662783150597,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-g": {
+            "box": {
+                "left": 0.2548662783150597,
+                "top": 0.1362153323423705,
+                "right": 0.3959837326847566,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-h": {
+            "box": {
+                "left": 0.3959837326847566,
+                "top": 0.1362153323423705,
+                "right": 0.45780855517095986,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-i": {
+            "box": {
+                "left": 0.45780855517095986,
+                "top": 0.1362153323423705,
+                "right": 0.5189067027505061,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-j": {
+            "box": {
+                "left": 0.5189067027505061,
+                "top": 0.1362153323423705,
+                "right": 0.5896408877176853,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-k": {
+            "box": {
+                "left": 0.5896408877176853,
+                "top": 0.1362153323423705,
+                "right": 0.6279920013415463,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-l": {
+            "box": {
+                "left": 0.6279920013415463,
+                "top": 0.1362153323423705,
+                "right": 0.6706868697445643,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-m": {
+            "box": {
+                "left": 0.6706868697445643,
+                "top": 0.1362153323423705,
+                "right": 0.7272829587993535,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-n": {
+            "box": {
+                "left": 0.7272829587993535,
+                "top": 0.1362153323423705,
+                "right": 0.8039968378456095,
+                "bottom": 0.1492929261842182
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-o": {
+            "box": {
+                "left": 0.056139689516776656,
+                "top": 0.1492929261842182,
+                "right": 0.10612915596371275,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-p": {
+            "box": {
+                "left": 0.10612915596371275,
+                "top": 0.1492929261842182,
+                "right": 0.15024809401390105,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-q": {
+            "box": {
+                "left": 0.15024809401390105,
+                "top": 0.1492929261842182,
+                "right": 0.2548662783150597,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-r": {
+            "box": {
+                "left": 0.2548662783150597,
+                "top": 0.1492929261842182,
+                "right": 0.3959837326847566,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-s": {
+            "box": {
+                "left": 0.3959837326847566,
+                "top": 0.1492929261842182,
+                "right": 0.45780855517095986,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-t": {
+            "box": {
+                "left": 0.45780855517095986,
+                "top": 0.1492929261842182,
+                "right": 0.5189067027505061,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-u": {
+            "box": {
+                "left": 0.5189067027505061,
+                "top": 0.1492929261842182,
+                "right": 0.5896408877176853,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-v": {
+            "box": {
+                "left": 0.5896408877176853,
+                "top": 0.1492929261842182,
+                "right": 0.6279920013415463,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-w": {
+            "box": {
+                "left": 0.6279920013415463,
+                "top": 0.1492929261842182,
+                "right": 0.6706868697445643,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-x": {
+            "box": {
+                "left": 0.6706868697445643,
+                "top": 0.1492929261842182,
+                "right": 0.7272829587993535,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "0-y": {
+            "box": {
+                "left": 0.7272829587993535,
+                "top": 0.1492929261842182,
+                "right": 0.8039968378456095,
+                "bottom": 0.16649660245486153
+            },
+            "page": 0,
+            "type": "tableCell"
+        },
+        "ba29b4bb-4164-480f-b00b-c7ca42eb737d": {
+            "box": {
+                "left": 0.057921767234802246,
+                "top": 0.17106381058692932,
+                "right": 0.70976722240448,
+                "bottom": 0.22523823380470276
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "2ca0a1eb-97d8-41bb-808f-985e10980ca9": {
+            "box": {
+                "left": 0.06954401731491089,
+                "top": 0.2591428756713867,
+                "right": 0.6860437393188477,
+                "bottom": 0.3698943853378296
+            },
+            "page": 0,
+            "type": "chunkTable"
+        },
+        "8ef89363-7fe9-4007-b270-b44aa70320ee": {
+            "box": {
+                "left": 0.33478426933288574,
+                "top": 0.9774408936500549,
+                "right": 0.66681969165802,
+                "bottom": 0.99979168176651
+            },
+            "page": 0,
+            "type": "chunkMarginalia"
+        }
+    },
+    "metadata": {
+        "filename": "hrlg0227_1.png",
+        "org_id": null,
+        "page_count": 1,
+        "duration_ms": 7675,
+        "credit_usage": 3.0,
+        "job_id": "re72ee8yjgttls0800c7ou9iz",
+        "version": "dpt-2-20250919"
+    }
+}

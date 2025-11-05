@@ -165,19 +165,6 @@ Key improvements:
 - Max tokens: 4096
 - Cost: ~$10 for full evaluation
 
-**Alternative:**
-- Model: `claude-opus-4-20250514` (Opus 4)
-- Slightly lower accuracy but stronger reasoning
-- Cost: ~$100 for full evaluation
-
-## 📂 Alternative Prompts
-
-See `extra/prompts/` for previous iterations:
-
-- `enhanced_v2.md` - Earlier version (97.87% accuracy)
-- `enhanced_v3.md` - Intermediate version (98.06% accuracy)
-- `v4_1.md` - Experimental structured output format (research prototype)
-
 ## 🔬 Reproducing Results
 
 To exactly reproduce our 98.650% result:
@@ -187,41 +174,3 @@ To exactly reproduce our 98.650% result:
 3. Use Claude Sonnet 4.5 (`claude-sonnet-4-20250514`)
 4. Temperature 0.0 (deterministic)
 5. Exclude 14 dataset issues from accuracy calculation (as documented in gallery)
-
-## 📝 Citation
-
-If you use this benchmark or methodology, please cite:
-
-```bibtex
-@misc{ade-docvqa-2024,
-  title={Agentic Document Extraction for DocVQA},
-  author={Landing AI},
-  year={2024},
-  url={https://github.com/your-repo-here}
-}
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Priority areas for improvement:
-
-- **Parsing quality** - 30 incorrect parse errors (41.7% of failures)
-- **Not ADE Focus** - 15 spatial layout questions (20.8% of failures)
-- **Prompt engineering** - 18 LLM reasoning errors (25.0% of failures)
-- **Information extraction** - 9 missed parse errors (12.5% of failures)
-
-See the [interactive gallery](./gallery.html) for detailed error analysis with visual grounding and category filtering.
-
-## 📄 License
-
-[Your License Here]
-
-## 🙏 Acknowledgments
-
-- [DocVQA Dataset](https://huggingface.co/datasets/lmms-lab/DocVQA) by Mathew et al.
-- [Anthropic Claude](https://www.anthropic.com/claude) for the API
-- Landing AI for ADE DPT-2 parsing technology
-
----
-
-**Questions?** Open an issue or check `extra/reports/` for detailed analysis.

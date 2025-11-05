@@ -1,17 +1,23 @@
 # ADE DocVQA Benchmark
 
-**98.501% Accuracy on DocVQA Validation Set**
+**98.650% Accuracy on DocVQA Validation Set**
 
 This repository contains our complete DocVQA benchmark implementation using Agentic Document Extraction (ADE) with DPT-2 parsing and Claude for question answering.
 
 ## 🎯 Results
 
-- **Accuracy:** 98.501% (5,257/5,337 correct, excluding questionable entries)
+- **Accuracy:** 98.650% (5,263/5,335 correct, excluding 14 dataset issues)
 - **Baseline:** 95.36% (with Playground Chat)
-- **Improvement:** +3.14 percentage points
-- **Remaining errors:** 80 non-questionable cases
+- **Improvement:** +3.29 percentage points
+- **Remaining errors:** 72 real errors (14 dataset issues excluded but visible)
 
 [**View Interactive Error Gallery →**](./gallery.html)
+
+The gallery includes:
+- 40 hardest success cases with visual grounding
+- 72 error cases with detailed analysis
+- 14 questionable dataset issues (excluded from accuracy but shown for transparency)
+- Interactive category filtering
 
 ## 📁 Repository Contents
 
@@ -133,25 +139,27 @@ Key improvements:
 
 ## 📈 Performance Breakdown
 
-### By Error Category (80 remaining errors)
+### By Error Category (72 real errors)
 
-| Category | Count | % of Errors |
-|----------|-------|-------------|
-| Downstream LLM errors | 38 | 47.5% |
-| Missed Parse | 22 | 27.5% |
-| OCR errors | 13 | 16.3% |
-| Dataset issues | 7 | 8.8% |
+| Category | Count | % of Errors | Description |
+|----------|-------|-------------|-------------|
+| Incorrect Parse | 30 | 41.7% | OCR/parsing errors (character confusion, misreads) |
+| Prompt/LLM Misses | 18 | 25.0% | Reasoning or interpretation failures |
+| Not ADE Focus | 15 | 20.8% | Spatial layout questions outside ADE's core strength |
+| Missed Parse | 9 | 12.5% | Information not extracted during parsing |
+| **Dataset Issues** | **14** | **—** | **Questionable ground truth (excluded from count)** |
 
-### Error Types
+### Error Categories Explained
 
-- **LLM errors:** Reasoning, interpretation, or spatial understanding issues
-- **Missed Parse:** Information not extracted during parsing
-- **OCR errors:** Character-level recognition mistakes (O/0, I/l/1, etc.)
-- **Dataset issues:** Questionable ground truth or ambiguous questions
+- **Incorrect Parse:** OCR/parsing mistakes like character confusion (O/0, I/l/1), table misreads, or parsing artifacts
+- **Prompt/LLM Misses:** Claude gives wrong answer despite having correct parsed data - reasoning or instruction-following issues
+- **Not ADE Focus:** Questions requiring visual layout analysis, spatial reasoning, or document structure understanding beyond text extraction
+- **Missed Parse:** Information exists in document but wasn't extracted by the parser
+- **Dataset Issues:** Questionable annotations, ambiguous questions, or debatable ground truth (excluded from accuracy calculation)
 
 ## 🛠️ Model Configuration
 
-**Recommended (used for 98.501% result):**
+**Recommended (used for 98.650% result):**
 - Model: `claude-sonnet-4-20250514` (Sonnet 4.5)
 - Temperature: 0.0
 - Max tokens: 4096
@@ -159,7 +167,7 @@ Key improvements:
 
 **Alternative:**
 - Model: `claude-opus-4-20250514` (Opus 4)
-- Slightly lower accuracy (98.28%) but stronger reasoning
+- Slightly lower accuracy but stronger reasoning
 - Cost: ~$100 for full evaluation
 
 ## 📂 Alternative Prompts
@@ -172,12 +180,13 @@ See `extra/prompts/` for previous iterations:
 
 ## 🔬 Reproducing Results
 
-To exactly reproduce our 98.501% result:
+To exactly reproduce our 98.650% result:
 
 1. Use the provided `parsed/` documents (same parsing output)
 2. Use `prompt.md` (final hybrid prompt)
 3. Use Claude Sonnet 4.5 (`claude-sonnet-4-20250514`)
 4. Temperature 0.0 (deterministic)
+5. Exclude 14 dataset issues from accuracy calculation (as documented in gallery)
 
 ## 📝 Citation
 
@@ -194,14 +203,14 @@ If you use this benchmark or methodology, please cite:
 
 ## 🤝 Contributing
 
-We welcome contributions! Areas for improvement:
+We welcome contributions! Priority areas for improvement:
 
-- **EXTRACTION queries** - Still struggling (low success rate)
-- **VISUAL queries** - Need better visual reasoning
-- **Confidence calibration** - Model overconfident on errors
-- **Specialized prompts** - Different strategies per question type
+- **Parsing quality** - 30 incorrect parse errors (41.7% of failures)
+- **Not ADE Focus** - 15 spatial layout questions (20.8% of failures)
+- **Prompt engineering** - 18 LLM reasoning errors (25.0% of failures)
+- **Information extraction** - 9 missed parse errors (12.5% of failures)
 
-See `extra/reports/` for detailed analysis of remaining challenges.
+See the [interactive gallery](./gallery.html) for detailed error analysis with visual grounding and category filtering.
 
 ## 📄 License
 

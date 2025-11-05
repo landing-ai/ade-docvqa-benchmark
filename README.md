@@ -4,7 +4,7 @@
 
 This repository contains our complete DocVQA benchmark implementation using Agentic Document Extraction (ADE) with DPT-2 parsing and Claude for question answering.
 
-## Results
+## 🎯 Results
 
 - **Accuracy:** 98.650% (5,263/5,335 correct, excluding 14 dataset issues)
 - **Baseline:** 95.36% (with Playground Chat)
@@ -19,7 +19,7 @@ The gallery includes:
 - 14 questionable dataset issues (excluded from accuracy but shown for transparency)
 - Interactive category filtering
 
-## Repository Contents
+## 📁 Repository Contents
 
 ### Main Files
 - `gallery.html` - Interactive visualization of results and remaining errors
@@ -32,7 +32,7 @@ The gallery includes:
 ### Additional Materials
 - `extra/` - Alternative prompts, test scripts, analysis reports, and utilities
 
-## Quick Start
+## 🚀 Quick Start
 
 ### 1. Prerequisites
 
@@ -81,7 +81,7 @@ This will:
 
 **Note:** Full evaluation takes ~1-2 hours with Claude Sonnet 4.5.
 
-## Data Format
+## 📊 Data Format
 
 ### Parsed Documents (`parsed/*.json`)
 
@@ -115,7 +115,7 @@ Each line is a JSON object:
 }
 ```
 
-## Methodology
+## 🔍 Methodology
 
 ### Approach
 
@@ -137,7 +137,7 @@ Key improvements:
 - Handwritten text detection
 - Positional reasoning (last line, under, above, etc.)
 
-## Performance Breakdown
+## 📈 Performance Breakdown
 
 ### By Error Category (72 real errors)
 
@@ -157,7 +157,7 @@ Key improvements:
 - **Missed Parse:** Information exists in document but wasn't extracted by the parser
 - **Dataset Issues:** Questionable annotations, ambiguous questions, or debatable ground truth (excluded from accuracy calculation)
 
-## Model Configuration
+## 🛠️ Model Configuration
 
 **Recommended (used for 98.650% result):**
 - Model: `claude-sonnet-4-20250514` (Sonnet 4.5)
@@ -170,7 +170,7 @@ Key improvements:
 - Slightly lower accuracy but stronger reasoning
 - Cost: ~$100 for full evaluation
 
-## Alternative Prompts
+## 📂 Alternative Prompts
 
 See `extra/prompts/` for previous iterations:
 
@@ -178,7 +178,7 @@ See `extra/prompts/` for previous iterations:
 - `enhanced_v3.md` - Intermediate version (98.06% accuracy)
 - `v4_1.md` - Experimental structured output format (research prototype)
 
-## Reproducing Results
+## 🔬 Reproducing Results
 
 To exactly reproduce our 98.650% result:
 
@@ -188,7 +188,7 @@ To exactly reproduce our 98.650% result:
 4. Temperature 0.0 (deterministic)
 5. Exclude 14 dataset issues from accuracy calculation (as documented in gallery)
 
-## Citation
+## 📝 Citation
 
 If you use this benchmark or methodology, please cite:
 
@@ -201,7 +201,7 @@ If you use this benchmark or methodology, please cite:
 }
 ```
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions! Priority areas for improvement:
 
@@ -212,11 +212,11 @@ We welcome contributions! Priority areas for improvement:
 
 See the [interactive gallery](./gallery.html) for detailed error analysis with visual grounding and category filtering.
 
-## License
+## 📄 License
 
 [Your License Here]
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 - [DocVQA Dataset](https://huggingface.co/datasets/lmms-lab/DocVQA) by Mathew et al.
 - [Anthropic Claude](https://www.anthropic.com/claude) for the API

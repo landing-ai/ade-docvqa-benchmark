@@ -7189,6 +7189,21 @@
 
     <!-- JavaScript -->
     <script>
+        // Toggle collapsible sections
+        function toggleSection(sectionId) {
+            const section = document.getElementById(sectionId);
+            const header = section.previousElementSibling;
+            const icon = header.querySelector('.rotate-icon');
+
+            if (section.classList.contains('expanded')) {
+                section.classList.remove('expanded');
+                icon.classList.remove('rotated');
+            } else {
+                section.classList.add('expanded');
+                icon.classList.add('rotated');
+            }
+        }
+
         function toggleAccordion(idx) {
             const content = document.getElementById(`content-${idx}`);
             const icon = document.getElementById(`icon-${idx}`);

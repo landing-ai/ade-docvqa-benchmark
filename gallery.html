@@ -130,6 +130,29 @@
         .zoom-toggle:hover {
             background: var(--ade-teal-dark);
         }
+    
+        .section-header {
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.3s ease;
+        }
+        .section-header:hover {
+            background: var(--ade-bg-hover);
+        }
+        .section-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+        .section-content.expanded {
+            max-height: 50000px;
+        }
+        .rotate-icon {
+            transition: transform 0.3s ease;
+        }
+        .rotate-icon.rotated {
+            transform: rotate(180deg);
+        }
     </style>
 </head>
 <body class="bg-gray-900 text-gray-100">
@@ -227,12 +250,1067 @@
     </section>
 
     <!-- Error List -->
+    <!-- Collapsible Sections -->
     <section class="py-8" style="background: var(--ade-bg-dark);">
         <div class="container mx-auto px-4">
-            <h2 class="text-2xl font-bold mb-4" style="color: var(--ade-text);">All Remaining Errors</h2>
-            <p class="text-lg mb-6" style="color: var(--ade-text-dim);">Click on each error to expand details. Images use bbox overlays from existing gallery.</p>
+            <h2 class="text-3xl font-bold mb-6" style="color: var(--ade-text);">Detailed Analysis</h2>
+            <p class="text-lg mb-8" style="color: var(--ade-text-dim);">Explore our failures and successes. Click sections to expand/collapse.</p>
+            
+            <!-- Hardest Successes Section -->
+            <div class="mb-8 rounded-lg overflow-hidden" style="border: 2px solid var(--ade-teal); background: var(--ade-bg-card);">
+                <div class="section-header p-6 flex items-center justify-between" onclick="toggleSection('successes-section')" style="background: var(--ade-bg-card); border-bottom: 1px solid var(--ade-teal);">
+                    <div>
+                        <h3 class="text-2xl font-bold" style="color: var(--ade-teal);">✓ Top 20 Hardest Successes</h3>
+                        <p class="text-sm mt-1" style="color: var(--ade-text-dim);">Challenging questions where ADE excelled - spatial reasoning, tables, handwriting, logos</p>
+                    </div>
+                    <svg class="rotate-icon w-6 h-6" style="color: var(--ade-teal);" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </div>
+                <div id="successes-section" class="section-content">
+                    <div class="p-6">
+                        <p class="text-lg mb-6" style="color: var(--ade-text-dim);">These questions tested complex spatial reasoning, table navigation, logo extraction, and handwritten text. ADE got them all correct.</p>
+                        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
 
-            <div id="errors-container" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="61765" onclick="toggleAccordion('success-1')">
+                    <!-- Document Image -->
+                    <img src='images/hrfw0227_12.png' alt='hrfw0227_12' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/hrfw0227_12.png", "images/hrfw0227_12.png", "hrfw0227_12"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #1
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, total
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the total consultant costs under column "-04" based on "II. CONSULTANT COSTS"?
+                            </p>
+                        </div>
+
+                        <div id="success-1" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        $1,532
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        $1,532
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        hrfw0227_12
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        5/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="57820" onclick="toggleAccordion('success-2')">
+                    <!-- Document Image -->
+                    <img src='images/yxvw0217_3.png' alt='yxvw0217_3' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/yxvw0217_3.png", "images/yxvw0217_3.png", "yxvw0217_3"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #2
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the heading of the first column of the table?
+                            </p>
+                        </div>
+
+                        <div id="success-2" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        Authors
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        Authors
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        yxvw0217_3
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="57835" onclick="toggleAccordion('success-3')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/sybx0223_13_bbox.png' alt='sybx0223_13' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/documents/sybx0223_13.png", "images/bbox_overlays/sybx0223_13_bbox.png", "sybx0223_13"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #3
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, logo, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the name of the company mentioned just below the logo?
+                            </p>
+                        </div>
+
+                        <div id="success-3" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        VST Industries Limited
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        VST Industries Limited
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        sybx0223_13
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="57889" onclick="toggleAccordion('success-4')">
+                    <!-- Document Image -->
+                    <img src='images/hnvw0217_9.png' alt='hnvw0217_9' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/hnvw0217_9.png", "images/hnvw0217_9.png", "hnvw0217_9"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #4
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the heading of the first column of the table?
+                            </p>
+                        </div>
+
+                        <div id="success-4" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        project
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        project | Project
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        hnvw0217_9
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="42105" onclick="toggleAccordion('success-5')">
+                    <!-- Document Image -->
+                    <img src='images/fkxn0226_9.png' alt='fkxn0226_9' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/fkxn0226_9.png", "images/fkxn0226_9.png", "fkxn0226_9"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #5
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, logo, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the name of the consulting agency given below the logo?
+                            </p>
+                        </div>
+
+                        <div id="success-5" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        accumyn
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        accumyn | ACCUMYN | accumyn consulting
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        fkxn0226_9
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="58533" onclick="toggleAccordion('success-6')">
+                    <!-- Document Image -->
+                    <img src='images/rybx0223_86.png' alt='rybx0223_86' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rybx0223_86.png", "images/rybx0223_86.png", "rybx0223_86"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #6
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, logo, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the name of the company mentioned just below the logo?
+                            </p>
+                        </div>
+
+                        <div id="success-6" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        VST INDUSTRIES LIMITED
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        VST INDUSTRIES LIMITED | VST Industries Limited
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        rybx0223_86
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="50509" onclick="toggleAccordion('success-7')">
+                    <!-- Document Image -->
+                    <img src='images/nrcj0037_8.png' alt='nrcj0037_8' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/nrcj0037_8.png", "images/nrcj0037_8.png", "nrcj0037_8"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #7
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the duration in months for the first project listed in this table?
+                            </p>
+                        </div>
+
+                        <div id="success-7" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        4
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        4
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        nrcj0037_8
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="58803" onclick="toggleAccordion('success-8')">
+                    <!-- Document Image -->
+                    <img src='images/hxjw0081_4.png' alt='hxjw0081_4' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/hxjw0081_4.png", "images/hxjw0081_4.png", "hxjw0081_4"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #8
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the heading of the first column of the table?
+                            </p>
+                        </div>
+
+                        <div id="success-8" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        Account Names:
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        Account Names: | Account names
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        hxjw0081_4
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="58874" onclick="toggleAccordion('success-9')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/rybx0223_16_bbox.png' alt='rybx0223_16' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rybx0223_16.png", "images/bbox_overlays/rybx0223_16_bbox.png", "rybx0223_16"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #9
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, logo, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the name of the company mentioned just below the logo?
+                            </p>
+                        </div>
+
+                        <div id="success-9" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        VST Industries Limited
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        VST Industries Limited
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        rybx0223_16
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="1924" onclick="toggleAccordion('success-10')">
+                    <!-- Document Image -->
+                    <img src='images/jsbn0226_5.png' alt='jsbn0226_5' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/jsbn0226_5.png", "images/jsbn0226_5.png", "jsbn0226_5"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #10
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the name of the second creditor listed in the table under "Liabilities"?
+                            </p>
+                        </div>
+
+                        <div id="success-10" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        U.S. BANK, LUCAS, OHIO
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        U.S. BANK, LUCAS, OHIO | U.S. Bank, Lucas, Ohio | U.S. Bank
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        jsbn0226_5
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="43071" onclick="toggleAccordion('success-11')">
+                    <!-- Document Image -->
+                    <img src='images/rmwn0226_52.png' alt='rmwn0226_52' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rmwn0226_52.png", "images/rmwn0226_52.png", "rmwn0226_52"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #11
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    table, total, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> what is the total platform unit growth for vs. 03 ?
+                            </p>
+                        </div>
+
+                        <div id="success-11" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        33%
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        33%
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        rmwn0226_52
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="2199" onclick="toggleAccordion('success-12')">
+                    <!-- Document Image -->
+                    <img src='images/gsxk0226_3.png' alt='gsxk0226_3' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/gsxk0226_3.png", "images/gsxk0226_3.png", "gsxk0226_3"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #12
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> As per the table what is the first item in the list of materials mailed?
+                            </p>
+                        </div>
+
+                        <div id="success-12" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        annual reports
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        annual reports
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        gsxk0226_3
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="43202" onclick="toggleAccordion('success-13')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/fkxn0226_20_bbox.png' alt='fkxn0226_20' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/documents/fkxn0226_20.png", "images/bbox_overlays/fkxn0226_20_bbox.png", "fkxn0226_20"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #13
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, logo, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is printed below the logo in the bottom left corner?
+                            </p>
+                        </div>
+
+                        <div id="success-13" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        ACCUMYN CONSULTING
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        ACCUMYN CONSULTING | ACCUMYN consulting
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        fkxn0226_20
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="19252" onclick="toggleAccordion('success-14')">
+                    <!-- Document Image -->
+                    <img src='images/ylvw0217_3.png' alt='ylvw0217_3' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/ylvw0217_3.png", "images/ylvw0217_3.png", "ylvw0217_3"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #14
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the title of the second table (bottom one) in this page?
+                            </p>
+                        </div>
+
+                        <div id="success-14" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        PAPERS FOR WMC SYMPOSIUM PROCEEDINGS
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        PAPERS FOR WMC SYMPOSIUM PROCEEDINGS | papers for wmc symposium proceedings
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        ylvw0217_3
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="44131" onclick="toggleAccordion('success-15')">
+                    <!-- Document Image -->
+                    <img src='images/rmwn0226_79.png' alt='rmwn0226_79' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rmwn0226_79.png", "images/rmwn0226_79.png", "rmwn0226_79"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #15
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the value in the first column of the row that shows 'dont have ASR XL ' in the corresponding column ?
+                            </p>
+                        </div>
+
+                        <div id="success-15" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        22
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        22
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        rmwn0226_79
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="44132" onclick="toggleAccordion('success-16')">
+                    <!-- Document Image -->
+                    <img src='images/rmwn0226_79.png' alt='rmwn0226_79' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rmwn0226_79.png", "images/rmwn0226_79.png", "rmwn0226_79"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #16
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the value in the first column of the row that shows a corresponding percentage of conversion in the range 70-80 ?
+                            </p>
+                        </div>
+
+                        <div id="success-16" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        26
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        26
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        rmwn0226_79
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="44136" onclick="toggleAccordion('success-17')">
+                    <!-- Document Image -->
+                    <img src='images/rmwn0226_79.png' alt='rmwn0226_79' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rmwn0226_79.png", "images/rmwn0226_79.png", "rmwn0226_79"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #17
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the value in the first column of the row that has a percentage value of 0 in the corresponding column ?
+                            </p>
+                        </div>
+
+                        <div id="success-17" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        16
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        16
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        rmwn0226_79
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="44141" onclick="toggleAccordion('success-18')">
+                    <!-- Document Image -->
+                    <img src='images/rmwn0226_79.png' alt='rmwn0226_79' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rmwn0226_79.png", "images/rmwn0226_79.png", "rmwn0226_79"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #18
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, table, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> Rows with value 7 and 19 in the first column, have the same percentage value. What is the percentage value ?
+                            </p>
+                        </div>
+
+                        <div id="success-18" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        100
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        100
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        rmwn0226_79
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="45148" onclick="toggleAccordion('success-19')">
+                    <!-- Document Image -->
+                    <img src='images/yjjl0226_1.png' alt='yjjl0226_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/yjjl0226_1.png", "images/yjjl0226_1.png", "yjjl0226_1"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #19
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, handwritten, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the name hand written at the bottom of the page?
+                            </p>
+                        </div>
+
+                        <div id="success-19" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        Mr Taylor
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        Mr Taylor | Taylor
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        yjjl0226_1
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="45151" onclick="toggleAccordion('success-20')">
+                    <!-- Document Image -->
+                    <img src='images/yjjl0226_1.png' alt='yjjl0226_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/yjjl0226_1.png", "images/yjjl0226_1.png", "yjjl0226_1"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="teal-badge px-2 py-0.5 rounded-full text-xs font-semibold">
+                                    ✓ SUCCESS #20
+                                </span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium" style="background: rgba(59, 130, 246, 0.2); color: #3b82f6; border: 1px solid #3b82f6;">
+                                    spatial, handwritten, complex
+                                </span>
+                            </div>
+                            <p class="font-semibold mb-1" style="color: var(--ade-text);">
+                                <strong>Q:</strong> What is the time hand written at the bottom of the page?
+                            </p>
+                        </div>
+
+                        <div id="success-20" class="accordion-content">
+                            <div class="space-y-3 pt-3 border-t border-gray-600">
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-teal);">✓ OUR ANSWER (CORRECT):</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: rgba(16, 185, 129, 0.1); color: var(--ade-teal);">
+                                        2:30 PM
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">GROUND TRUTH:</p>
+                                    <p class="font-mono text-xs p-2 rounded" style="background: var(--ade-bg-dark); color: var(--ade-text-dim);">
+                                        2:30 PM | 2:30 pm | 12/2 - 2:30 PM
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DOCUMENT ID:</p>
+                                    <p class="font-mono text-xs" style="color: var(--ade-text-dim);">
+                                        yjjl0226_1
+                                    </p>
+                                </div>
+                                <div>
+                                    <p class="text-xs font-semibold mb-1" style="color: var(--ade-text-dim);">DIFFICULTY SCORE:</p>
+                                    <p class="text-xs" style="color: var(--ade-teal);">
+                                        4/5 - Multiple challenging criteria
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Remaining Errors Section -->
+            <div class="rounded-lg overflow-hidden" style="border: 2px solid #ef4444; background: var(--ade-bg-card);">
+                <div class="section-header p-6 flex items-center justify-between" onclick="toggleSection('errors-section')" style="background: var(--ade-bg-card); border-bottom: 1px solid #ef4444;">
+                    <div>
+                        <h3 class="text-2xl font-bold" style="color: #ef4444;">✗ All 80 Remaining Errors</h3>
+                        <p class="text-sm mt-1" style="color: var(--ade-text-dim);">Complete transparency - every failure case with detailed analysis</p>
+                    </div>
+                    <svg class="rotate-icon rotated w-6 h-6" style="color: #ef4444;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </div>
+                <div id="errors-section" class="section-content expanded">
+                    <div class="p-6">
+                        <p class="text-lg mb-6" style="color: var(--ade-text-dim);">Click on each error to expand details. Images show bounding box overlays where available.</p>
+                        <div id="errors-container" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
 
                 <div class="viz-card rounded-lg overflow-hidden questionable-item" data-category="missed_parse" data-error-source="additional_wrong" data-qid="58024" onclick="toggleAccordion(0)">
                     <!-- Document Image -->
@@ -6095,8 +7173,12 @@
             </div>
         </div>
     </section>
-
-    <!-- Zoom Modal -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<!-- Zoom Modal -->
     <div id="zoomModal" class="zoom-modal">
         <span class="zoom-close" onclick="closeZoom()">&times;</span>
         <button id="zoomToggle" class="zoom-toggle" onclick="toggleZoomView()">Toggle BBox</button>

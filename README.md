@@ -1,6 +1,6 @@
 # ADE DocVQA Benchmark
 
-**98.650% Accuracy on DocVQA Validation Set**
+**99.082% Accuracy on DocVQA Validation Set**
 
 This repository contains our complete DocVQA benchmark implementation using Agentic Document Extraction (ADE) with DPT-2 parsing and Claude for question answering.
 
@@ -139,14 +139,14 @@ Key improvements:
 
 ## 📈 Performance Breakdown
 
-### By Error Category (72 real errors)
+### By Error Category (49 real errors)
 
 | Category | Count | % of Errors | Description |
 |----------|-------|-------------|-------------|
-| Incorrect Parse | 30 | 41.7% | OCR/parsing errors (character confusion, misreads) |
-| Prompt/LLM Misses | 18 | 25.0% | Reasoning or interpretation failures |
-| Not ADE Focus | 15 | 20.8% | Spatial layout questions outside ADE's core strength |
-| Missed Parse | 9 | 12.5% | Information not extracted during parsing |
+| Prompt/LLM Misses | 20 | 40.8% | Reasoning or interpretation failures |
+| Incorrect Parse | 13 | 26.5% | OCR/parsing errors (character confusion, misreads) |
+| Not ADE Focus | 11 | 22.4% | Spatial layout questions outside ADE's core strength |
+| Missed Parse | 5 | 10.2% | Information not extracted during parsing |
 | **Dataset Issues** | **14** | **—** | **Questionable ground truth (excluded from count)** |
 
 ### Error Categories Explained
@@ -159,7 +159,7 @@ Key improvements:
 
 ## 🛠️ Model Configuration
 
-**Recommended (used for 98.650% result):**
+**Recommended (used for 99.082% result):**
 - Model: `claude-sonnet-4-20250514` (Sonnet 4.5)
 - Temperature: 0.0
 - Max tokens: 4096
@@ -167,7 +167,7 @@ Key improvements:
 
 ## 🔬 Reproducing Results
 
-To exactly reproduce our 98.650% result:
+To exactly reproduce our 99.082% result:
 
 1. Use the provided `parsed/` documents (same parsing output)
 2. Use `prompt.md` (final hybrid prompt)

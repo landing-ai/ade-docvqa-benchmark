@@ -11,7 +11,7 @@ This repository contains our complete DocVQA benchmark implementation using Agen
 - **Improvement:** +3.72 percentage points
 - **Remaining errors:** 49 real errors (14 dataset issues excluded but visible)
 
-[**View Interactive Error Gallery →**](./gallery.html)
+[**View Interactive Error Gallery →**](https://landing-ai.github.io/ade-docvqa-benchmark/gallery.html)
 
 The gallery includes:
 - 63 success cases with answer-focused visual grounding

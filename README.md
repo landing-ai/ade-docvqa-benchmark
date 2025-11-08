@@ -6,17 +6,17 @@ This repository contains our complete DocVQA benchmark implementation using Agen
 
 ## 🎯 Results
 
-- **Accuracy:** 98.650% (5,263/5,335 correct, excluding 14 dataset issues)
+- **Accuracy:** 99.082% (5,286/5,335 correct, excluding 14 dataset issues)
 - **Baseline:** 95.36% (with Playground Chat)
-- **Improvement:** +3.29 percentage points
-- **Remaining errors:** 72 real errors (14 dataset issues excluded but visible)
+- **Improvement:** +3.72 percentage points
+- **Remaining errors:** 49 real errors (14 dataset issues excluded but visible)
 
 [**View Interactive Error Gallery →**](./gallery.html)
 
 The gallery includes:
-- 40 hardest success cases with visual grounding
-- 72 error cases with detailed analysis
-- 14 questionable dataset issues (excluded from accuracy but shown for transparency)
+- 63 success cases with answer-focused visual grounding
+- 63 error cases with detailed analysis
+- 14 dataset issues (excluded from accuracy but shown for transparency)
 - Interactive category filtering
 
 ## 📁 Repository Contents

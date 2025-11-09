@@ -168,7 +168,7 @@
 <h1 class="text-4xl font-bold" style="color: var(--ade-text);">Agentic Document Extraction</h1>
 </div>
 <p class="text-xl mb-2" style="color: var(--ade-teal);">DocVQA Challenge - 99.156% Accuracy with ADE DPT-2 on Validation Set</p>
-<p class="text-lg" style="color: var(--ade-text-dim);">Smell Test - 45 remaining errors and 63 successful cases</p>
+<p class="text-lg" style="color: var(--ade-text-dim);">Smell Test - 45 errors, 18 dataset issues, and 63 of 5,286 successful cases shown</p>
 </div>
 </header>
 <!-- Stats Summary -->
@@ -188,7 +188,7 @@
 </div>
 <div class="stat-card p-6 rounded-lg">
 <div class="text-4xl font-bold" style="color: var(--ade-teal);">DPT-2</div>
-<div class="mt-2" style="color: var(--ade-text-dim);">Used with Playground Chat</div>
+<div class="mt-2" style="color: var(--ade-text-dim);">Used with <a href="https://va.landing.ai/my/playground/ade" target="_blank" rel="noopener noreferrer" style="color: var(--ade-teal); font-style: italic; text-decoration: underline;">Playground Chat<svg class="inline-block w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg></a></div>
 <div class="text-xs mt-1" style="color: var(--ade-teal);">↑ +3.80pp with prompt optimization</div>
 </div>
 </div>
@@ -200,18 +200,21 @@
 <h2 class="text-2xl font-bold mb-4" style="color: var(--ade-text);">Performance Evolution</h2>
 <div class="space-y-4">
 <div class="flex items-center gap-4">
-<div class="w-64 font-bold" style="color: var(--ade-text);">Baseline with Playground Chat</div>
+<div class="w-64 font-bold" style="color: var(--ade-text);">Baseline (Markdown)</div>
 <div class="flex-1 bg-gray-700 rounded-full h-8">
 <div class="bg-blue-500 h-8 rounded-full flex items-center justify-end pr-4 text-white font-bold" style="width: 95.361%">95.36%</div>
 </div>
 <div class="w-32 text-right" style="color: var(--ade-text-dim);">5,098/5,346</div>
 </div>
 <div class="flex items-center gap-4">
-<div class="w-64 font-bold" style="color: var(--ade-text);">Final (Visual Grounding)✨</div>
+<div class="w-64 font-bold" style="color: var(--ade-text);">Final (JSON*)✨</div>
 <div class="flex-1 bg-gray-700 rounded-full h-8">
 <div class="h-8 rounded-full flex items-center justify-end pr-4 text-white font-bold" style="background: var(--ade-teal); width: 99.156%">99.156% (+3.80pp)</div>
 </div>
 <div class="w-32 text-right font-bold" style="color: var(--ade-teal);">5,286/5,331</div>
+</div>
+<div class="mt-3 text-sm" style="color: var(--ade-text-dim);">
+<span style="color: var(--ade-text-dim);">* JSON output includes spatial grounding information (bounding boxes) for answer locations</span>
 </div>
 </div>
 </div>

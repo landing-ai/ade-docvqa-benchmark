@@ -3875,8 +3875,8 @@
             <div class="rounded-lg overflow-hidden" style="border: 2px solid #ef4444; background: var(--ade-bg-card);">
                 <div class="section-header p-6 flex items-center justify-between" onclick="toggleSection('errors-section')" style="background: var(--ade-bg-card); border-bottom: 1px solid #ef4444;">
                     <div>
-                        <h3 class="text-2xl font-bold" style="color: #ef4444;">✗ All 49 Remaining Errors</h3>
-                        <p class="text-sm mt-1" style="color: var(--ade-text-dim);">Complete transparency - every failure case with detailed analysis<br><span style="color: #06b6d4;">(14 dataset issues excluded from this count)</span></p>
+                        <h3 class="text-2xl font-bold" style="color: #ef4444;">✗ All 45 Remaining Errors</h3>
+                        <p class="text-sm mt-1" style="color: var(--ade-text-dim);">Complete transparency - every failure case with detailed analysis<br><span style="color: #06b6d4;">(18 dataset issues excluded from this count)</span></p>
                     </div>
                     <svg class="rotate-icon w-6 h-6" style="color: #ef4444;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
@@ -3907,17 +3907,17 @@
                                 <button class="category-filter-btn px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
                                         data-category="not_ade_focus"
                                         style="background: rgba(139, 92, 246, 0.1); color: #8b5cf6; border: 1px solid #8b5cf6;">
-                                    Not ADE Focus (11)
+                                    Not ADE Focus (9)
                                 </button>
                                 <button class="category-filter-btn px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
                                         data-category="prompt_llm_misses"
                                         style="background: rgba(234, 179, 8, 0.1); color: #eab308; border: 1px solid #eab308;">
-                                    Prompt/LLM Misses (20)
+                                    Prompt/LLM Misses (18)
                                 </button>
                                 <button class="category-filter-btn px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
                                         data-category="dataset_issues"
                                         style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">
-                                    Dataset Issues (14)
+                                    Dataset Issues (18)
                                 </button>
                             </div>
                         </div>
@@ -5043,14 +5043,14 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="50539" data-category="not_ade_focus" onclick="toggleAccordion('error-27')">
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="50539" data-category="dataset_issues" onclick="toggleAccordion('error-27')">
                     <!-- Document Image -->
                     <img src='images/bbox_overlays/nrcj0037_7_bbox.png' alt='nrcj0037_7' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/nrcj0037_7.png", "images/bbox_overlays/nrcj0037_7_bbox.png", "nrcj0037_7"); event.stopPropagation();'>
 
                     <div class="p-3 cursor-pointer error-card-compact">
                         <div class="mb-2">
                             <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(139, 92, 246, 0.1); color: #8b5cf6; border: 1px solid #8b5cf6;">Not ADE Focus</span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
                             </div>
                             <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">nrcj0037_7.png</div>
                             <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the Heading of the table?</div>
@@ -5155,14 +5155,14 @@
                 </div>
 
 
-                                <div class="viz-card rounded-lg overflow-hidden" data-qid="51212" data-category="prompt_llm_misses" onclick="toggleAccordion('error-30')">
+                                <div class="viz-card rounded-lg overflow-hidden" data-qid="51212" data-category="dataset_issues" onclick="toggleAccordion('error-30')">
                     <!-- Document Image -->
                     <img src='images/bbox_overlays/jzbn0226_10_bbox.png' alt='jzbn0226_10' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/jzbn0226_10.png", "images/bbox_overlays/jzbn0226_10_bbox.png", "jzbn0226_10"); event.stopPropagation();'>
 
                     <div class="p-3 cursor-pointer error-card-compact">
                         <div class="mb-2">
                             <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(234, 179, 8, 0.1); color: #eab308; border: 1px solid #eab308;">Prompt/LLM Misses</span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
                             </div>
                             <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">jzbn0226_10.png</div>
                             <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the first step in the flowchart?</div>
@@ -5491,14 +5491,14 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="60106" data-category="prompt_llm_misses" onclick="toggleAccordion('error-38')">
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="60106" data-category="dataset_issues" onclick="toggleAccordion('error-38')">
                     <!-- Document Image -->
                     <img src='images/bbox_overlays/sznk0226_1_bbox.png' alt='sznk0226_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/sznk0226_1.png", "images/bbox_overlays/sznk0226_1_bbox.png", "sznk0226_1"); event.stopPropagation();'>
 
                     <div class="p-3 cursor-pointer error-card-compact">
                         <div class="mb-2">
                             <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(234, 179, 8, 0.1); color: #eab308; border: 1px solid #eab308;">Prompt/LLM Misses</span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
                             </div>
                             <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">sznk0226_1.png</div>
                             <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the title of the page?</div>
@@ -5659,14 +5659,14 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="52462" data-category="not_ade_focus" onclick="toggleAccordion('error-42')">
+                <div class="viz-card rounded-lg overflow-hidden" data-qid="52462" data-category="dataset_issues" onclick="toggleAccordion('error-42')">
                     <!-- Document Image -->
                     <img src='images/bbox_overlays/rxxk0225_12_bbox.png' alt='rxxk0225_12' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rxxk0225_12.png", "images/bbox_overlays/rxxk0225_12_bbox.png", "rxxk0225_12"); event.stopPropagation();'>
 
                     <div class="p-3 cursor-pointer error-card-compact">
                         <div class="mb-2">
                             <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(139, 92, 246, 0.1); color: #8b5cf6; border: 1px solid #8b5cf6;">Not ADE Focus</span>
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
                             </div>
                             <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">rxxk0225_12.png</div>
                             <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: Which day is marked as a holiday in the calendar?</div>

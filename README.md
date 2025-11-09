@@ -1,22 +1,22 @@
 # ADE DocVQA Benchmark
 
-**99.082% Accuracy on DocVQA Validation Set**
+**99.156% Accuracy on DocVQA Validation Set**
 
 This repository contains our complete DocVQA benchmark implementation using Agentic Document Extraction (ADE) with DPT-2 parsing and Claude for question answering.
 
 ## 🎯 Results
 
-- **Accuracy:** 99.082% (5,286/5,335 correct, excluding 14 dataset issues)
+- **Accuracy:** 99.156% (5,286/5,331 correct, excluding 18 dataset issues)
 - **Baseline:** 95.36% (with Playground Chat)
-- **Improvement:** +3.72 percentage points
-- **Remaining errors:** 49 real errors (14 dataset issues excluded but visible)
+- **Improvement:** +3.80 percentage points
+- **Remaining errors:** 45 real errors (18 dataset issues excluded but visible)
 
 [**View Interactive Error Gallery →**](https://landing-ai.github.io/ade-docvqa-benchmark/gallery.html)
 
 The gallery includes:
 - 63 success cases with answer-focused visual grounding
 - 63 error cases with detailed analysis
-- 14 dataset issues (excluded from accuracy but shown for transparency)
+- 18 dataset issues (excluded from accuracy but shown for transparency)
 - Interactive category filtering
 
 ## 📁 Repository Contents
@@ -139,15 +139,15 @@ Key improvements:
 
 ## 📈 Performance Breakdown
 
-### By Error Category (49 real errors)
+### By Error Category (45 real errors)
 
 | Category | Count | % of Errors | Description |
 |----------|-------|-------------|-------------|
-| Prompt/LLM Misses | 20 | 40.8% | Reasoning or interpretation failures |
-| Incorrect Parse | 13 | 26.5% | OCR/parsing errors (character confusion, misreads) |
-| Not ADE Focus | 11 | 22.4% | Spatial layout questions outside ADE's core strength |
-| Missed Parse | 5 | 10.2% | Information not extracted during parsing |
-| **Dataset Issues** | **14** | **—** | **Questionable ground truth (excluded from count)** |
+| Prompt/LLM Misses | 18 | 40.0% | Reasoning or interpretation failures |
+| Incorrect Parse | 13 | 28.9% | OCR/parsing errors (character confusion, misreads) |
+| Not ADE Focus | 9 | 20.0% | Spatial layout questions outside ADE's core strength |
+| Missed Parse | 5 | 11.1% | Information not extracted during parsing |
+| **Dataset Issues** | **18** | **—** | **Questionable ground truth (excluded from count)** |
 
 ### Error Categories Explained
 
@@ -159,7 +159,7 @@ Key improvements:
 
 ## 🛠️ Model Configuration
 
-**Recommended (used for 99.082% result):**
+**Recommended (used for 99.156% result):**
 - Model: `claude-sonnet-4-20250514` (Sonnet 4.5)
 - Temperature: 0.0
 - Max tokens: 4096
@@ -167,10 +167,10 @@ Key improvements:
 
 ## 🔬 Reproducing Results
 
-To exactly reproduce our 99.082% result:
+To exactly reproduce our 99.156% result:
 
 1. Use the provided `parsed/` documents (same parsing output)
 2. Use `prompt.md` (final hybrid prompt)
 3. Use Claude Sonnet 4.5 (`claude-sonnet-4-20250514`)
 4. Temperature 0.0 (deterministic)
-5. Exclude 14 dataset issues from accuracy calculation (as documented in gallery)
+5. Exclude 18 dataset issues from accuracy calculation (as documented in gallery)

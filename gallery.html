@@ -3876,7 +3876,7 @@
                 <div class="section-header p-6 flex items-center justify-between" onclick="toggleSection('errors-section')" style="background: var(--ade-bg-card); border-bottom: 1px solid #ef4444;">
                     <div>
                         <h3 class="text-2xl font-bold" style="color: #ef4444;">✗ All 45 Remaining Errors</h3>
-                        <p class="text-sm mt-1" style="color: var(--ade-text-dim);">Complete transparency - every failure case with detailed analysis<br><span style="color: #06b6d4;">(18 dataset issues excluded from this count)</span></p>
+                        <p class="text-sm mt-1" style="color: var(--ade-text-dim);">Complete transparency - every failure case with detailed analysis. Dataset issues are shown in a separate section below.</p>
                     </div>
                     <svg class="rotate-icon w-6 h-6" style="color: #ef4444;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
@@ -3884,15 +3884,14 @@
                 </div>
                 <div id="errors-section" class="section-content">
                     <div class="p-6">
-                        <p class="text-lg mb-6" style="color: var(--ade-text-dim);">Click on each error to expand details. Images show bounding box overlays where available. <strong style="color: #06b6d4;">Note:</strong> All 63 items are shown below, including 14 dataset issues that are excluded while calculating the final accuracy.</p>
+                        <p class="text-lg mb-6" style="color: var(--ade-text-dim);">Click on each error to expand details. Images show bounding box overlays where available.</p>
                         <!-- Category Filter -->
                         <div class="mb-6">
                             <div class="flex flex-wrap gap-2">
 
                                 <button class="category-filter-btn px-3 py-1.5 rounded-lg text-sm font-medium transition-colors active"
                                         data-category="all"
-                                        style="background: var(--ade-bg-card); color: var(--ade-text); border: 1px solid var(--ade-text-dim);">
-                                    All (63)
+                                        style="background: var(--ade-bg-card); color: var(--ade-text); border: 1px solid var(--ade-text-dim);">All (45)
                                 </button>
                                 <button class="category-filter-btn px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
                                         data-category="incorrect_parse"
@@ -3913,13 +3912,7 @@
                                         data-category="prompt_llm_misses"
                                         style="background: rgba(234, 179, 8, 0.1); color: #eab308; border: 1px solid #eab308;">
                                     Prompt/LLM Misses (18)
-                                </button>
-                                <button class="category-filter-btn px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
-                                        data-category="dataset_issues"
-                                        style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">
-                                    Dataset Issues (18)
-                                </button>
-                            </div>
+                                </button></div>
                         </div>
 <div id="errors-container" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
 
@@ -4091,50 +4084,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="60100" data-category="dataset_issues" onclick="toggleAccordion('error-4')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/gfyk0226_6_bbox.png' alt='gfyk0226_6' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/gfyk0226_6.png", "images/bbox_overlays/gfyk0226_6_bbox.png", "gfyk0226_6"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">gfyk0226_6.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the first mineral mentioned?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> calcium
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-4">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the first mineral mentioned?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Magnesium</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">calcium</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: be3107de-33f...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">gfyk0226_6.png</span> |
@@ -4763,50 +4713,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="49135" data-category="dataset_issues" onclick="toggleAccordion('error-20')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/hlkb0228_1_bbox.png' alt='hlkb0228_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/hlkb0228_1.png", "images/bbox_overlays/hlkb0228_1_bbox.png", "hlkb0228_1"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">hlkb0228_1.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: On October 8 at what time do Dr. and Mrs. Mider arrive?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> 1:41 p.m.
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-20" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-20">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">On October 8 at what time do Dr. and Mrs. Mider arrive?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">10:15 a.m.</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">1:41 p.m.</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: c322558b-cd6...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">hlkb0228_1.png</span> |
@@ -4819,50 +4726,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="49153" data-category="dataset_issues" onclick="toggleAccordion('error-21')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/pybv0228_81_bbox.png' alt='pybv0228_81' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/pybv0228_81.png", "images/bbox_overlays/pybv0228_81_bbox.png", "pybv0228_81"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">pybv0228_81.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the ‘actual’ value per 1000, during the year 1975?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> 0.24
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-21" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-21">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the ‘actual’ value per 1000, during the year 1975?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">0.28</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">0.24</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: d75fcfe4-fe6...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">pybv0228_81.png</span> |
@@ -4987,50 +4851,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="58728" data-category="dataset_issues" onclick="toggleAccordion('error-26')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/jrcy0227_122_bbox.png' alt='jrcy0227_122' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/jrcy0227_122.png", "images/bbox_overlays/jrcy0227_122_bbox.png", "jrcy0227_122"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">jrcy0227_122.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the cat.no of Ink-Parker super chrome quick-black?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> OOSII476
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-26" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-26">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the cat.no of Ink-Parker super chrome quick-black?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">00sii476 | 00SII476</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">OOSII476</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 0-m</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">jrcy0227_122.png</span> |
@@ -5043,50 +4864,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="50539" data-category="dataset_issues" onclick="toggleAccordion('error-27')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/nrcj0037_7_bbox.png' alt='nrcj0037_7' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/nrcj0037_7.png", "images/bbox_overlays/nrcj0037_7_bbox.png", "nrcj0037_7"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">nrcj0037_7.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the Heading of the table?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Appendix I - Results of Method Development Project Survey
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-27" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-27">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the Heading of the table?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Appendix 1 - results of method development project survey | Appendix 1 - Results of method development project survey</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Appendix I - Results of Method Development Project Survey</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 83dcede2-607...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">nrcj0037_7.png</span> |
@@ -5099,50 +4877,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="50779" data-category="dataset_issues" onclick="toggleAccordion('error-28')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/lsww0228_2_bbox.png' alt='lsww0228_2' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/lsww0228_2.png", "images/bbox_overlays/lsww0228_2_bbox.png", "lsww0228_2"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">lsww0228_2.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: Whose name is in the "To" field?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Dr. Darley
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-28" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-28">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">Whose name is in the "To" field?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Dr. Darby</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Dr. Darley</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 8b64fbae-6c1...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">lsww0228_2.png</span> |
@@ -5155,50 +4890,7 @@
                 </div>
 
 
-                                <div class="viz-card rounded-lg overflow-hidden" data-qid="51212" data-category="dataset_issues" onclick="toggleAccordion('error-30')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/jzbn0226_10_bbox.png' alt='jzbn0226_10' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/jzbn0226_10.png", "images/bbox_overlays/jzbn0226_10_bbox.png", "jzbn0226_10"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">jzbn0226_10.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the first step in the flowchart?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Identify Pool from "Active" Inventory and Workplan and Batch
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-30" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-30">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the first step in the flowchart?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Prioritization Process Steps</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Identify Pool from "Active" Inventory and Workplan and Batch</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 1f4d1f34-2bd...</div>
-                                </div>
-                            </div>
+                                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">jzbn0226_10.png</span> |
@@ -5211,50 +4903,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="59441" data-category="dataset_issues" onclick="toggleAccordion('error-31')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/grxw0228_22_bbox.png' alt='grxw0228_22' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/grxw0228_22.png", "images/bbox_overlays/grxw0228_22_bbox.png", "grxw0228_22"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">grxw0228_22.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What was Wallace Ironside's first job in University of Rochester,New York?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Assistant Professor of Psychiatry
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-31" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-31">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What was Wallace Ironside's first job in University of Rochester,New York?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">visiting professor</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Assistant Professor of Psychiatry</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 961718ee-b47...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">grxw0228_22.png</span> |
@@ -5323,50 +4972,7 @@
                 </div>
 
 
-                                <div class="viz-card rounded-lg overflow-hidden" data-qid="59821" data-category="dataset_issues" onclick="toggleAccordion('error-34')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/pkjw0228_1_bbox.png' alt='pkjw0228_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/pkjw0228_1.png", "images/bbox_overlays/pkjw0228_1_bbox.png", "pkjw0228_1"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">pkjw0228_1.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: To Whom is this  addressed to?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Dr. Warley
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-34" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-34">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">To Whom is this  addressed to?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">dr. darby | Dr.Darby</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Dr. Warley</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: c4325fa2-215...</div>
-                                </div>
-                            </div>
+                                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">pkjw0228_1.png</span> |
@@ -5491,50 +5097,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="60106" data-category="dataset_issues" onclick="toggleAccordion('error-38')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/sznk0226_1_bbox.png' alt='sznk0226_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/sznk0226_1.png", "images/bbox_overlays/sznk0226_1_bbox.png", "sznk0226_1"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">sznk0226_1.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the title of the page?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> MEDICINE IN MAINLAND CHINA
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-38" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-38">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the title of the page?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Biomedical Perspectives | BIOMEDICAL PERSPECTIVES</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">MEDICINE IN MAINLAND CHINA</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 85df64af-ede...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">sznk0226_1.png</span> |
@@ -5547,50 +5110,7 @@
                 </div>
 
 
-                                <div class="viz-card rounded-lg overflow-hidden" data-qid="5488" data-category="dataset_issues" onclick="toggleAccordion('error-40')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/xqfl0228_9_bbox.png' alt='xqfl0228_9' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/xqfl0228_9.png", "images/bbox_overlays/xqfl0228_9_bbox.png", "xqfl0228_9"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">xqfl0228_9.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the low estimate range of loaned space?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> $ 40
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-40" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-40">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the low estimate range of loaned space?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">$  585</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">$ 40</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 2 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 0-3, 21f76c5b-e5d...</div>
-                                </div>
-                            </div>
+                                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">xqfl0228_9.png</span> |
@@ -5659,50 +5179,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="52462" data-category="dataset_issues" onclick="toggleAccordion('error-42')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/rxxk0225_12_bbox.png' alt='rxxk0225_12' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rxxk0225_12.png", "images/bbox_overlays/rxxk0225_12_bbox.png", "rxxk0225_12"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">rxxk0225_12.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: Which day is marked as a holiday in the calendar?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> 25
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-42" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-42">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">Which day is marked as a holiday in the calendar?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Mon</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">25</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: ea48bea1-465...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">rxxk0225_12.png</span> |
@@ -5827,50 +5304,7 @@
                 </div>
 
 
-                                <div class="viz-card rounded-lg overflow-hidden" data-qid="61350" data-category="dataset_issues" onclick="toggleAccordion('error-46')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/krcy0227_38_bbox.png' alt='krcy0227_38' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/krcy0227_38.png", "images/bbox_overlays/krcy0227_38_bbox.png", "krcy0227_38"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">krcy0227_38.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the name of the catalog by The Station?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Hawaiian Designed NEEDLEPOINT
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-46" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-46">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the name of the catalog by The Station?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">NEEDLEPOINT | Needlepoint</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Hawaiian Designed NEEDLEPOINT</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: dfedc40c-1ac...</div>
-                                </div>
-                            </div>
+                                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">krcy0227_38.png</span> |
@@ -5883,162 +5317,17 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="61478" data-category="dataset_issues" onclick="toggleAccordion('error-47')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/ymkp0227_13_bbox.png' alt='ymkp0227_13' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/ymkp0227_13.png", "images/bbox_overlays/ymkp0227_13_bbox.png", "ymkp0227_13"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">ymkp0227_13.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the date of issue of ticket?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> I cannot find the answer in the provided document.
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-47" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-47">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the date of issue of ticket?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">10 Dec 79 | 10 DEC 79</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">I cannot find the answer in the provided document.</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Visual grounding data not available for this question.
-                                    
-                                </div>
-                            </div>
-                            <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
-                                <div>
-                                    <span class="font-medium">Document:</span> <span class="font-mono">ymkp0227_13.png</span> |
-                                    <span class="font-medium">Doc ID:</span> <span class="font-mono">ymkp0227_13</span> |
-                                    <span class="font-medium">Q ID:</span> 61478
-                                </div>
-                            </div>
-                        </div>
+                
                     </div>
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="61492" data-category="dataset_issues" onclick="toggleAccordion('error-48')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/ymkp0227_4_bbox.png' alt='ymkp0227_4' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/ymkp0227_4.png", "images/bbox_overlays/ymkp0227_4_bbox.png", "ymkp0227_4"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">ymkp0227_4.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the carrier code for Braniff International airways?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> I cannot find the answer in the provided document.
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-48" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-48">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the carrier code for Braniff International airways?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">BN</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">I cannot find the answer in the provided document.</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Visual grounding data not available for this question.
-                                    
-                                </div>
-                            </div>
-                            <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
-                                <div>
-                                    <span class="font-medium">Document:</span> <span class="font-mono">ymkp0227_4.png</span> |
-                                    <span class="font-medium">Doc ID:</span> <span class="font-mono">ymkp0227_4</span> |
-                                    <span class="font-medium">Q ID:</span> 61492
-                                </div>
-                            </div>
-                        </div>
+                
                     </div>
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="36914" data-category="dataset_issues" onclick="toggleAccordion('error-49')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/rllg0227_1_bbox.png' alt='rllg0227_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rllg0227_1.png", "images/bbox_overlays/rllg0227_1_bbox.png", "rllg0227_1"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">rllg0227_1.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: Provide the contract number on the voucher</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> DA-49-007-MD-1020
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-49" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-49">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">Provide the contract number on the voucher</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">DA-49-007-MD-1024</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">DA-49-007-MD-1020</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: f44db5d8-863...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">rllg0227_1.png</span> |
@@ -6331,50 +5620,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="62541" data-category="dataset_issues" onclick="toggleAccordion('error-57')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/xnyc0227_2_bbox.png' alt='xnyc0227_2' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/xnyc0227_2.png", "images/bbox_overlays/xnyc0227_2_bbox.png", "xnyc0227_2"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">xnyc0227_2.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What type of report is this?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> NUTRITION SURVEY
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-57" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-57">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What type of report is this?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Preliminary</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">NUTRITION SURVEY</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: f6aebbe8-3fb...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">xnyc0227_2.png</span> |
@@ -7003,50 +6249,7 @@
                 </div>
 
 
-                <div class="viz-card rounded-lg overflow-hidden" data-qid="7059" data-category="dataset_issues" onclick="toggleAccordion('error-73')">
-                    <!-- Document Image -->
-                    <img src='images/bbox_overlays/myjf0004_2_bbox.png' alt='myjf0004_2' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/myjf0004_2.png", "images/bbox_overlays/myjf0004_2_bbox.png", "myjf0004_2"); event.stopPropagation();'>
-
-                    <div class="p-3 cursor-pointer error-card-compact">
-                        <div class="mb-2">
-                            <div class="flex flex-wrap items-center gap-2 mb-2">
-                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
-                            </div>
-                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">myjf0004_2.png</div>
-                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the study number mentioned in the document?</div>
-                            <div class="text-xs" style="color: var(--ade-text-dim);">
-                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> TOX 068 A+B
-                            </div>
-                        </div>
-                        <div class="flex justify-center">
-                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-73" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                            </svg>
-                        </div>
-                    </div>
-
-                    <!-- Expanded content -->
-                    <div class="accordion-content" id="content-error-73">
-                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the study number mentioned in the document?</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">T0X 068ArB</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
-                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">TOX 068 A+B</div>
-                            </div>
-                            <div>
-                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
-                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
-                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
-                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 5afb0ada-e8a...</div>
-                                </div>
-                            </div>
+                
                             <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
                                 <div>
                                     <span class="font-medium">Document:</span> <span class="font-mono">myjf0004_2.png</span> |
@@ -7474,7 +6677,861 @@
     </div>
 
     <!-- JavaScript -->
-    <script>
+    
+            <section class="py-8" style="background: var(--ade-bg-dark);">
+        <div class="container mx-auto px-4">
+<!-- Dataset Issues Section -->
+            <div class="rounded-lg overflow-hidden" style="border: 2px solid #06b6d4; background: var(--ade-bg-card);">
+                <div class="section-header p-6 flex items-center justify-between" onclick="toggleSection('dataset-issues-section')" style="background: var(--ade-bg-card); border-bottom: 1px solid #06b6d4;">
+                    <div>
+                        <h3 class="text-2xl font-bold" style="color: #06b6d4;">📋 Dataset Issues (18)</h3>
+                        <p class="text-sm mt-1" style="color: var(--ade-text-dim);">Questionable ground truth annotations excluded from accuracy calculation</p>
+                    </div>
+                    <svg class="rotate-icon w-6 h-6" style="color: #06b6d4;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </div>
+                <div id="dataset-issues-section" class="section-content">
+                    <div class="p-6">
+                        <p class="text-lg mb-6" style="color: var(--ade-text-dim);">These cases have questionable annotations, ambiguous questions, or debatable ground truth. They are excluded from the final accuracy calculation but shown here for transparency.</p>
+
+<div id="dataset-issues-container" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="5488" data-category="dataset_issues" onclick="toggleAccordion('error-40')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/xqfl0228_9_bbox.png' alt='xqfl0228_9' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/xqfl0228_9.png", "images/bbox_overlays/xqfl0228_9_bbox.png", "xqfl0228_9"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">xqfl0228_9.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the low estimate range of loaned space?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> $ 40
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-40" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-40">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the low estimate range of loaned space?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">$  585</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">$ 40</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 2 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 0-3, 21f76c5b-e5d...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="7059" data-category="dataset_issues" onclick="toggleAccordion('error-73')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/myjf0004_2_bbox.png' alt='myjf0004_2' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/myjf0004_2.png", "images/bbox_overlays/myjf0004_2_bbox.png", "myjf0004_2"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">myjf0004_2.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the study number mentioned in the document?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> TOX 068 A+B
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-73" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-73">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the study number mentioned in the document?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">T0X 068ArB</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">TOX 068 A+B</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 5afb0ada-e8a...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="36914" data-category="dataset_issues" onclick="toggleAccordion('error-49')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/rllg0227_1_bbox.png' alt='rllg0227_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rllg0227_1.png", "images/bbox_overlays/rllg0227_1_bbox.png", "rllg0227_1"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">rllg0227_1.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: Provide the contract number on the voucher</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> DA-49-007-MD-1020
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-49" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-49">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">Provide the contract number on the voucher</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">DA-49-007-MD-1024</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">DA-49-007-MD-1020</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: f44db5d8-863...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="49135" data-category="dataset_issues" onclick="toggleAccordion('error-20')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/hlkb0228_1_bbox.png' alt='hlkb0228_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/hlkb0228_1.png", "images/bbox_overlays/hlkb0228_1_bbox.png", "hlkb0228_1"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">hlkb0228_1.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: On October 8 at what time do Dr. and Mrs. Mider arrive?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> 1:41 p.m.
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-20" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-20">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">On October 8 at what time do Dr. and Mrs. Mider arrive?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">10:15 a.m.</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">1:41 p.m.</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: c322558b-cd6...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="49153" data-category="dataset_issues" onclick="toggleAccordion('error-21')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/pybv0228_81_bbox.png' alt='pybv0228_81' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/pybv0228_81.png", "images/bbox_overlays/pybv0228_81_bbox.png", "pybv0228_81"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">pybv0228_81.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the ‘actual’ value per 1000, during the year 1975?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> 0.24
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-21" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-21">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the ‘actual’ value per 1000, during the year 1975?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">0.28</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">0.24</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: d75fcfe4-fe6...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="50539" data-category="dataset_issues" onclick="toggleAccordion('error-27')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/nrcj0037_7_bbox.png' alt='nrcj0037_7' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/nrcj0037_7.png", "images/bbox_overlays/nrcj0037_7_bbox.png", "nrcj0037_7"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">nrcj0037_7.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the Heading of the table?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Appendix I - Results of Method Development Project Survey
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-27" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-27">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the Heading of the table?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Appendix 1 - results of method development project survey | Appendix 1 - Results of method development project survey</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Appendix I - Results of Method Development Project Survey</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 83dcede2-607...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="50779" data-category="dataset_issues" onclick="toggleAccordion('error-28')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/lsww0228_2_bbox.png' alt='lsww0228_2' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/lsww0228_2.png", "images/bbox_overlays/lsww0228_2_bbox.png", "lsww0228_2"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">lsww0228_2.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: Whose name is in the "To" field?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Dr. Darley
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-28" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-28">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">Whose name is in the "To" field?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Dr. Darby</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Dr. Darley</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 8b64fbae-6c1...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="51212" data-category="dataset_issues" onclick="toggleAccordion('error-30')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/jzbn0226_10_bbox.png' alt='jzbn0226_10' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/jzbn0226_10.png", "images/bbox_overlays/jzbn0226_10_bbox.png", "jzbn0226_10"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">jzbn0226_10.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the first step in the flowchart?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Identify Pool from "Active" Inventory and Workplan and Batch
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-30" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-30">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the first step in the flowchart?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Prioritization Process Steps</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Identify Pool from "Active" Inventory and Workplan and Batch</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 1f4d1f34-2bd...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="52462" data-category="dataset_issues" onclick="toggleAccordion('error-42')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/rxxk0225_12_bbox.png' alt='rxxk0225_12' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/rxxk0225_12.png", "images/bbox_overlays/rxxk0225_12_bbox.png", "rxxk0225_12"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">rxxk0225_12.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: Which day is marked as a holiday in the calendar?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> 25
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-42" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-42">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">Which day is marked as a holiday in the calendar?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Mon</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">25</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: ea48bea1-465...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="58728" data-category="dataset_issues" onclick="toggleAccordion('error-26')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/jrcy0227_122_bbox.png' alt='jrcy0227_122' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/jrcy0227_122.png", "images/bbox_overlays/jrcy0227_122_bbox.png", "jrcy0227_122"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">jrcy0227_122.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the cat.no of Ink-Parker super chrome quick-black?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> OOSII476
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-26" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-26">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the cat.no of Ink-Parker super chrome quick-black?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">00sii476 | 00SII476</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">OOSII476</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 0-m</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="59441" data-category="dataset_issues" onclick="toggleAccordion('error-31')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/grxw0228_22_bbox.png' alt='grxw0228_22' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/grxw0228_22.png", "images/bbox_overlays/grxw0228_22_bbox.png", "grxw0228_22"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">grxw0228_22.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What was Wallace Ironside's first job in University of Rochester,New York?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Assistant Professor of Psychiatry
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-31" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-31">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What was Wallace Ironside's first job in University of Rochester,New York?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">visiting professor</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Assistant Professor of Psychiatry</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 961718ee-b47...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="59821" data-category="dataset_issues" onclick="toggleAccordion('error-34')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/pkjw0228_1_bbox.png' alt='pkjw0228_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/pkjw0228_1.png", "images/bbox_overlays/pkjw0228_1_bbox.png", "pkjw0228_1"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">pkjw0228_1.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: To Whom is this  addressed to?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Dr. Warley
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-34" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-34">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">To Whom is this  addressed to?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">dr. darby | Dr.Darby</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Dr. Warley</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: c4325fa2-215...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="60100" data-category="dataset_issues" onclick="toggleAccordion('error-4')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/gfyk0226_6_bbox.png' alt='gfyk0226_6' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/gfyk0226_6.png", "images/bbox_overlays/gfyk0226_6_bbox.png", "gfyk0226_6"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">gfyk0226_6.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the first mineral mentioned?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> calcium
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-4">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the first mineral mentioned?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Magnesium</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">calcium</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: be3107de-33f...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="60106" data-category="dataset_issues" onclick="toggleAccordion('error-38')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/sznk0226_1_bbox.png' alt='sznk0226_1' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/sznk0226_1.png", "images/bbox_overlays/sznk0226_1_bbox.png", "sznk0226_1"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">sznk0226_1.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the title of the page?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> MEDICINE IN MAINLAND CHINA
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-38" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-38">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the title of the page?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Biomedical Perspectives | BIOMEDICAL PERSPECTIVES</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">MEDICINE IN MAINLAND CHINA</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: 85df64af-ede...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="61350" data-category="dataset_issues" onclick="toggleAccordion('error-46')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/krcy0227_38_bbox.png' alt='krcy0227_38' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/krcy0227_38.png", "images/bbox_overlays/krcy0227_38_bbox.png", "krcy0227_38"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">krcy0227_38.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the name of the catalog by The Station?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> Hawaiian Designed NEEDLEPOINT
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-46" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-46">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the name of the catalog by The Station?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">NEEDLEPOINT | Needlepoint</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">Hawaiian Designed NEEDLEPOINT</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: dfedc40c-1ac...</div>
+                                </div>
+                            </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="61478" data-category="dataset_issues" onclick="toggleAccordion('error-47')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/ymkp0227_13_bbox.png' alt='ymkp0227_13' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/ymkp0227_13.png", "images/bbox_overlays/ymkp0227_13_bbox.png", "ymkp0227_13"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">ymkp0227_13.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the date of issue of ticket?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> I cannot find the answer in the provided document.
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-47" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-47">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the date of issue of ticket?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">10 Dec 79 | 10 DEC 79</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">I cannot find the answer in the provided document.</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Visual grounding data not available for this question.
+                                    
+                                </div>
+                            </div>
+                            <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
+                                <div>
+                                    <span class="font-medium">Document:</span> <span class="font-mono">ymkp0227_13.png</span> |
+                                    <span class="font-medium">Doc ID:</span> <span class="font-mono">ymkp0227_13</span> |
+                                    <span class="font-medium">Q ID:</span> 61478
+                                </div>
+                            </div>
+                        </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="61492" data-category="dataset_issues" onclick="toggleAccordion('error-48')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/ymkp0227_4_bbox.png' alt='ymkp0227_4' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/ymkp0227_4.png", "images/bbox_overlays/ymkp0227_4_bbox.png", "ymkp0227_4"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">ymkp0227_4.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What is the carrier code for Braniff International airways?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> I cannot find the answer in the provided document.
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-48" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-48">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What is the carrier code for Braniff International airways?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">BN</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">I cannot find the answer in the provided document.</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Visual grounding data not available for this question.
+                                    
+                                </div>
+                            </div>
+                            <div class="flex justify-between items-center text-sm" style="color: var(--ade-text-dim);">
+                                <div>
+                                    <span class="font-medium">Document:</span> <span class="font-mono">ymkp0227_4.png</span> |
+                                    <span class="font-medium">Doc ID:</span> <span class="font-mono">ymkp0227_4</span> |
+                                    <span class="font-medium">Q ID:</span> 61492
+                                </div>
+                            </div>
+                        </div>
+
+<div class="viz-card rounded-lg overflow-hidden" data-qid="62541" data-category="dataset_issues" onclick="toggleAccordion('error-57')">
+                    <!-- Document Image -->
+                    <img src='images/bbox_overlays/xnyc0227_2_bbox.png' alt='xnyc0227_2' class='w-full doc-image border-b border-gray-700 cursor-zoom-in' onclick='openZoom("images/xnyc0227_2.png", "images/bbox_overlays/xnyc0227_2_bbox.png", "xnyc0227_2"); event.stopPropagation();'>
+
+                    <div class="p-3 cursor-pointer error-card-compact">
+                        <div class="mb-2">
+                            <div class="flex flex-wrap items-center gap-2 mb-2">
+                                <span class="px-2 py-0.5 rounded-full text-xs font-semibold" style="background: rgba(6, 182, 212, 0.1); color: #06b6d4; border: 1px solid #06b6d4;">Dataset Issues</span>
+                            </div>
+                            <div style="color: var(--ade-text);" class="text-xs font-mono font-semibold mb-2">xnyc0227_2.png</div>
+                            <div style="color: var(--ade-text);" class="font-medium text-sm mb-1 line-clamp-2">Q: What type of report is this?</div>
+                            <div class="text-xs" style="color: var(--ade-text-dim);">
+                                <span style="color: #ef4444;" class="font-medium">Wrong:</span> NUTRITION SURVEY
+                            </div>
+                        </div>
+                        <div class="flex justify-center">
+                            <svg class="w-5 h-5 transform transition-transform" style="color: var(--ade-text-dim);" id="icon-error-57" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Expanded content -->
+                    <div class="accordion-content" id="content-error-57">
+                        <div class="border-t border-gray-700 p-3 space-y-2 text-sm">
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Full Question:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">What type of report is this?</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-teal);">Ground Truth Answers:</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(16, 185, 129, 0.1);" class="p-3 rounded">Preliminary</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: #ef4444;">✗ Our Answer (Wrong):</div>
+                                <div style="color: var(--ade-text-dim); background: rgba(239, 68, 68, 0.1);" class="p-3 rounded">NUTRITION SURVEY</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold mb-1" style="color: var(--ade-text);">Visual Grounding:</div>
+                                <div style="color: var(--ade-text-dim); background: var(--ade-bg-dark);" class="p-3 rounded">
+                                    Answer found in 1 chunk(s). Bounding boxes shown in image above.
+                                    <div class="mt-2 text-xs font-mono">Chunk IDs: f6aebbe8-3fb...</div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+<script>
         // Toggle collapsible sections
         function toggleSection(sectionId) {
             const section = document.getElementById(sectionId);
@@ -7586,7 +7643,7 @@
     
             // Filter functionality - Multi-select
             const filterBtns = document.querySelectorAll('.filter-btn');
-            const errorCards = document.querySelectorAll('[data-category]');
+            const errorCards = document.querySelectorAll('#errors-container [data-category]');
             const allBtn = document.querySelector('[data-category="all"]');
     
             filterBtns.forEach(btn => {
@@ -7642,9 +7699,9 @@
             });
     
             // Log stats
-            console.log('Loaded 63 total items (49 real errors + 13 dataset issues + 1 questionable)');
-            console.log('Accuracy: 99.082% (5,286/5,335, excluding 13 dataset issues + 1 questionable)');
-            console.log('Improvement: +3.72pp from Gemini baseline (99.082% vs 95.36%)');
+            console.log('Loaded 45 real errors + 18 dataset issues (shown separately)');
+            console.log('Accuracy: 99.156% (5,286/5,331, excluding 18 dataset issues)');
+            console.log('Improvement: +3.80pp from baseline (99.156% vs 95.36%)');
     
             // Zoom functionality
             let currentOriginalPath = '';

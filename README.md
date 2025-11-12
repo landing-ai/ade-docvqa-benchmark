@@ -2,13 +2,11 @@
 
 **99.156% Accuracy on DocVQA Validation Set**
 
-This repository contains our complete DocVQA benchmark implementation using Agentic Document Extraction (ADE) with DPT-2 parsing and Claude for question answering.
+This repository is our DocVQA benchmark implementation guide using Agentic Document Extraction (ADE) with DPT-2 Parse API.
 
 ## 🎯 Results
 
 - **Accuracy:** 99.156% (5,286/5,331 correct, excluding 18 dataset issues)
-- **Baseline:** 95.36% (with Playground Chat)
-- **Improvement:** +3.80 percentage points
 - **Remaining errors:** 45 real errors (18 dataset issues excluded but visible)
 
 [**View Interactive Error Gallery →**](https://landing-ai.github.io/ade-docvqa-benchmark/gallery.html)
@@ -58,7 +56,7 @@ wget https://huggingface.co/datasets/lmms-lab/DocVQA/resolve/main/val_v1.0.json 
 
 Alternatively, visit [DocVQA on HuggingFace](https://huggingface.co/datasets/lmms-lab/DocVQA) and download manually.
 
-### 3. Set API Key
+### 3. Set API Key (assuming you want to use claude)
 
 ```bash
 export ANTHROPIC_API_KEY='your-api-key-here'

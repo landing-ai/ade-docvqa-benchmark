@@ -1,6 +1,9 @@
 # ADE DocVQA - Requirements
 # Python 3.8+
 
+#ADE python lib
+landingai-ade
+
 # Claude API
 anthropic>=0.18.0
 

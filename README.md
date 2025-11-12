@@ -15,7 +15,7 @@ This repository contains our complete DocVQA benchmark implementation using Agen
 
 The gallery includes:
 - 63 success cases with answer-focused visual grounding
-- 63 error cases with detailed analysis
+- All 45 error cases with detailed analysis
 - 18 dataset issues (excluded from accuracy but shown for transparency)
 - Interactive category filtering
 

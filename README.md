@@ -161,11 +161,10 @@ Key improvements:
 - Model: `claude-sonnet-4-20250514` (Sonnet 4.5)
 - Temperature: 0.0
 - Max tokens: 4096
-- Cost: ~$10 for full evaluation
 
 ## 🔬 Reproducing Results
 
-To exactly reproduce our 99.156% result:
+To reproduce the result:
 
 1. Use the provided `parsed/` documents (same parsing output)
 2. Use `prompt.md` (final hybrid prompt)
